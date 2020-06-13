@@ -1,0 +1,620 @@
+
+
+{{0}}
+{bop}{0x62: 4 4}{0x25: 1}{bg: 260}{bganim: 98 267}{person: 0 0 0}{name: 0}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{0x74: 2 0}{center_text: 1}{color: 3}Present Day{b}
+Sunshine Coliseum{color: 0}{nextpage_button}{center_text: 0}{hidetextbox: 1}{speed: 255}{wait: 30}{person: 33 723 723}{personvanish: 3 2}{wait: 32}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 30}{person: 33 724 723}{name: 8448}{hidetextbox: 0}{speed: 3}
+Well,{wait: 12} this is a blast from{b}
+the distant past.{fademusic: 0}{music: 22 0}{nextpage_button}{person: 33 723 723}{name: 1792}{speed: 4}
+Long time no see,{wait: 8} Mr. Valant.{nextpage_button}{person: 33 733 732}{name: 8448}
+Seven years,{wait: 12} has it been?{p}{person: 33 724 723}{speed: 3}
+Frankly,{wait: 8} I didn't think I'd{b}
+ever see you again.{p}{person: 33 723 723}{name: 1792}
+Actually,{wait: 8} I came because{b}
+there's something I want{b}
+to ask you.{nextpage_button}{person: 33 724 723}{name: 8448}
+...I've spoken to the press.{wait_noanim: 30}{b}{person: 33 726 725}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I've nothing more to say.{nextpage_button}{person: 33 725 725}{name: 1792}{speed: 3}
+I've spoken to a lot of{b}
+people myself... and come{b}
+to some conclusions.{p}{speed: 3}
+But then I realized...{p}{speed: 8}
+...{wait: 20}{speed: 3}I needed to hear it from{b}
+you.{nextpage_button}{person: 33 732 732}{name: 8448}{speed: 7}
+......{nextpage_button}{speed: 255}{0x80}{b}{p}{evidence_window_lifebar}{3args_choice_jmp: 134 141 142}{0x82}{b}
+Ñ{0x89}{0x88}{0x10: 33689}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{fademusic: 120}{person: 33 724 723}{name: 8448}{hidetextbox: 0}{speed: 5}Well...{wait: 20}{speed: 4} what do you think?{p}{person: 33 726 725}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Do you believe my story?{wait: 16}{b}{speed: 3}
+Can it be believed,{wait: 8} truly?{nextpage_button}{name: 1792}{speed: 8}
+......{wait: 30}{b}{speed: 4}
+That was seven years ago.{nextpage_button}{speed: 3}
+I don't know what to believe.{wait: 20}{b}{speed: 5}
+But...{p}{name: 8448}{speed: 3}
+...Yes?{nextpage_button}{name: 1792}{speed: 4}
+I'm glad I heard it from{b}
+you,{wait: 7} Mr. Valant.{wait_noanim: 30} {person: 33 732 732}{speed: 3}Thank you.{nextpage_button}{person: 33 733 732}{name: 8448}{speed: 4}
+...It is I who should be{b}
+thanking you,{wait: 8} Mr. Wright.{p}{speed: 3}
+Only when I had lost{b}{person: 33 724 723}
+everything could I make{b}
+my decision...{nextpage_button}{name: 1792}
+...You're going to turn{b}
+yourself in?{p}{name: 8448}{speed: 4}
+My partner may have vanished,{wait: 12}{b}
+but not so my guilt.{nextpage_button}{person: 33 733 732}
+And as my guilt stays,{wait: 14} all{b}
+else begins to leave me.{p}
+My friends{speed: 8}{0x5a}...{wait: 16}{speed: 3}{0x59} my performance{b}
+rights{speed: 8}{0x5a}...{wait: 12}{speed: 3}{0x59} my magic.{nextpage_button}{person: 33 724 723}
+I've had enough of{b}
+vanishing acts.{nextpage_button}{name: 1792}{speed: 5}
+...I understand.{p}{person: 33 733 732}{name: 8448}{fademusic: 0}{music: 29 0}{speed: 5}
+I thought my life was ruled{b}
+by a dead man{speed: 8}{0x5a}...{p}
+...{wait: 16}but I find I was wrong.{p}{person: 33 724 723}
+For Zak Gramarye was alive...{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(Well,{wait: 6} not anymore.){nextpage_button}{color: 0}{person: 33 733 732}{0x5a}{name: 8448}{speed: 8}
+......{wait: 30}{b}{0x59}{speed: 4}
+And now,{wait: 8} it occurs to me:{p}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+What if he was not the only{b}
+one who survived?{nextpage_button}{name: 1792}{speed: 4}
+...What do you mean?{p}{name: 8448}
+You see,{wait: 8} now that I think{b}
+about it...{p}{speed: 6}
+...I realize that I,{wait: 12} {speed: 3}no...{wait_noanim: 25}{b}{person: 33 724 723}
+we never saw proof of{b}
+her demise.{p}
+We never saw{wait: 6} {color: 1}her{color: 0}{wait: 6} body.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+Um,{wait: 8} "her"...?{nextpage_button}{person: 33 733 732}{name: 8448}{speed: 3}
+...The mind races and the{b}
+mouth flaps on.{wait: 16} My apologies.{wait: 16}{b}
+Forget this matter.{nextpage_button}{person: 33 733 732}{speed: 4}
+I can only hope that the day{b}
+will come when I again meet{b}
+my partner,{wait: 10} Zak Gramarye.{nextpage_button}{person: 33 726 725}
+Then...{wait: 16} I shall apologize for{b}
+my terrible mistake.{nextpage_button}{person: 33 724 723}
+I am glad we had this chance{b}
+to talk... Thank you.{person: 33 723 723}{sound: 147 1}{wait: 10}{person: 33 738 723}{wait: 15}{person: 33 723 723}{wait: 4}{person: 33 744 723}{wait: 2}{person: 33 739 723}{wait: 6}{person: 33 740 723}{wait: 7}{person: 33 741 723}{wait: 7}{person: 33 742 723}{wait: 3}{person: 33 743 723}{wait: 4}{person: 33 744 723}{wait: 6}{person: 33 723 723}{wait: 6}{nextpage_button}{hidetextbox: 1}{0x26: 1}{bganim: 98 519}{wait: 60}{0x5f: 15 3 0}{wait: 120}{name: 1792}{hidetextbox: 0}{speed: 4}
+Zak Gramarye... "Shadi Smith".{b}
+Whichever name you prefer...{b}
+he is no longer with us.{nextpage_button}{name: 1792}
+The truth revealed in that{b}
+trial was only a sliver...{nextpage_button}
+...{wait: 8}and the impenetrable{b}
+darkness that remained has{b}
+taken another life.{nextpage_button}{speed: 3}
+I knew what I'd have to do{b}
+to push back the darkness{b}
+for good.{nextpage_button}{speed: 5}
+And it would involve paying{b}
+that man a visit.{nextpage_button}{hidetextbox: 1}{wait: 60}{fademusic: 120}{wait: 120}{0x64}{rejmp: 4}{b}{hideperson}{wait: 25}{0x5f: 16 1 1}{0x10: 33690}{0x10: 33688}{0x26: 0}{bganim: 0 4096}{0x74: 18 0}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{person: 33 733 732}{name: 8448}{hidetextbox: 0}I have walked a difficult road{b}
+these past seven years.{nextpage_button}{person: 33 732 732}{name: 1792}
+Because you couldn't perform{b}
+Magnifi's repertoire?{nextpage_button}{person: 33 726 725}{name: 8448}{0x23: 0}{music: 255 30}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Do not be deceived!{p}{person: 33 724 723}{speed: 4}
+Valant's skill is the {wait: 4}"real{b}
+deal". I do not require my{b}
+mentor's hand-me-downs.{p}{person: 33 733 732}{speed: 3}
+No,{wait: 8} it was my partner who{b}
+slowed me on my way.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{person: 33 732 732}{speed: 4}
+Zak Gramarye...{nextpage_button}{fademusic: 45}{wait: 45}{wait: 30}{fademusic: 0}{music: 29 0}{person: 33 733 732}{name: 8448}{speed: 3}
+...{wait: 16}His rather well-performed{wait: 16}{b}
+disappearing act seven years{b}
+ago was the end.{p}{speed: 8}{0x5a}
+...{0x59}{speed: 3}Or so I thought.{nextpage_button}{name: 1792}{speed: 4}
+"Zak Gramarye murdered our{b}
+mentor,{wait: 10} and fled to escape{b}
+punishment for his crime."{nextpage_button}{speed: 3}
+You said something to that{b}
+effect seven years ago,{wait: 8} didn't{b}
+you?{nextpage_button}{person: 33 724 723}{name: 8448}
+I remember it as if 'twere{b}
+only yesterday.{p}
+Yet,{wait: 16} that was not the way{b}
+of it,{wait: 10} in the end.{nextpage_button}{person: 33 726 725}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+For while he vanished,{wait: 8} the{b}
+suspicions upon my own person{b}
+never did!{p}{speed: 3}
+"His partner Zak vanished{b}
+to protect him..."{p}{person: 33 731 730}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+That's what those thieving{b}
+magpies of a press said!{nextpage_button}{name: 1792}{speed: 4}
+I had no idea.{p}{name: 8448}{speed: 3}
+Yet that very same press comes{b}
+to me now,{wait: 10} feigning interest.{p}
+They cover the greatest magic{b}
+show in history as if it were{b}
+a vaudevillian distraction!{p}
+And here must I stand,{wait: 12} smiling{b}
+at them all.{p}{person: 33 726 725}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+What am I,{wait: 6} if not a{bgcolor: 2305 8 31} player{b}
+in some fiendish{bgcolor: 2305 8 31} farce!?{nextpage_button}{person: 33 725 725}{name: 1792}{speed: 3}
+Might I suggest it's because{b}
+you never made it clear what{b}
+happened?{p}
+Magnifi's death is still a{b}
+mystery to this day.{p}{person: 33 732 732}
+...{wait: 16}Which is why I came here{b}
+to get the answer from you.{nextpage_button}{name: 8448}{speed: 8}
+......{wait: 40}{nextpage_nobutton}{fademusic: 30}{0x88}{p}{person: 33 732 732}{name: 1792}{hidetextbox: 0}{speed: 4}{color: 2}
+(...{wait: 16}I knew I'd be seeing these{b}
+sooner or later.){color: 0}{nextpage_button}{color: 0}{person: 33 733 732}{name: 8448}{speed: 3}
+The audience has no business{b}
+stepping upon the stage.{p}{person: 33 726 725}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+They must be content to sit{b}
+and stare at the spotlight.{nextpage_button}{name: 1792}{color: 2}{speed: 3}
+(That sounds an awful lot like{b}
+something I heard seven{b}
+years ago{speed: 8}...){color: 0}{nextpage_button}{fademusic: 0}{music: 22 100}{0x8c}{0x82}{0x89}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{person: 33 733 732}{name: 8448}{hidetextbox: 0}...{speed: 2}You do know that this{wait: 5}{b}{person: 33 726 725}{bgcolor: 2305 8 31}{shake: 30 0}
+"confession"{wait: 5} is nothing{b}
+but lies?{nextpage_button}{name: 1792}{speed: 3}
+Yes.{wait: 8} It's my opinion that{b}
+Zak Gramarye killed no one.{p}{name: 8448}
+Then you must be thinking the{b}
+truth is a simple matter of{b}
+elimination.{p}{person: 33 733 732}
+Two received instructions to{b}
+kill,{wait: 8} but if one is innocent?{p}{person: 33 724 723}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Then the one who remains{b}
+is guilty.{nextpage_button}{name: 1792}{speed: 4}
+...That would be the logical{b}
+conclusion,{wait: 8} yes.{nextpage_button}{person: 33 733 732}{name: 8448}
+So he vanished to protect{b}
+me,{wait: 10} his partner{speed: 8}{0x5a}...{nextpage_button}{person: 33 729 723}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Ha{wait: 8} ha{wait: 8} ha{wait: 8} ha{wait: 8} ha{wait: 8} ha!!!{wait: 30}{b}{person: 33 724 723}{speed: 3}
+A stirring tale,{wait: 8} 'tis true.{nextpage_button}{person: 33 723 723}{name: 1792}{speed: 3}
+Did you shoot Magnifi Gramarye{b}
+in the forehead?{nextpage_button}{person: 33 724 723}{name: 8448}
+...If I had,{wait: 10} {speed: 4}and I told you,{wait: 8}{b}
+what would you do?{wait: 7} {speed: 3}Run to the{b}
+police,{wait: 8} perchance?{nextpage_button}{person: 33 733 732}
+...{wait: 16}Do as you will.{wait: 16} There is{b}
+nothing left for me now.{nextpage_button}{person: 33 732 732}{name: 1792}{speed: 8}
+......{nextpage_button}{person: 33 733 732}{name: 8448}{speed: 5}
+...It is true,{wait: 8} after all.{nextpage_button}{person: 33 726 725}{speed: 3}
+I have little talent.{0x5a}{wait: 25}{b}{0x59}
+I needed my mentor{b}
+Magnifi's repertoire.{p}{person: 33 733 732}
+...{wait: 16}It was,{wait: 8} as if a little{b}
+demon grabbed hold of me...{nextpage_button}{name: 1792}{speed: 5}{color: 2}
+(I knew it...){nextpage_button}
+(So Valant Gramarye did{b}
+kill the Great Magnifi.){color: 0}{nextpage_button}{name: 8448}{shake: 30 0}{bgcolor: 2305 8 31}{0x59}{speed: 2}
+Heh.{wait: 10}{0x5a}{wait: 20}{speed: 2}{shake: 30 0}{b}{bgcolor: 2305 8 31}{0x59}
+Heh{wait: 10} heh{wait: 10} heh{0x5a}...{nextpage_button}{person: 33 729 723}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+...Ha{wait: 10} {bgcolor: 2305 8 31}ha{wait: 10} ha{wait: 10} ha{wait: 10} ha!!!{wait: 30}{b}{person: 33 724 723}{speed: 3}
+So sorry,{wait: 8} Mr. Wright.{nextpage_button}{person: 33 726 725}{speed: 2}
+But it was not I who shot{b}
+my mentor.{fademusic: 0}{music: 22 0}{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Wh-{wait: 12}What!?{nextpage_button}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+But if it wasn't you,{wait: 30}{speed: 3}{b}
+then who was it!?{nextpage_button}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}
+There wasn't another disciple,{wait: 16}{b}
+was there!?{nextpage_button}{name: 8448}{person: 33 733 732}
+Another disciple{speed: 8}{0x5a}...{0x59}{b}{speed: 4}
+Such as...?{nextpage_button}{name: 1792}{speed: 5}
+I don't know{speed: 8}...{wait: 40}{speed: 3} "Knack &{b}
+Talent Gramarye",{wait: 14} maybe?{p}{name: 8448}{speed: 5}
+...{wait: 12}Your wild fancies {person: 33 726 725}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}couldn't{b}
+be further from the{bgcolor: 2305 8 31} truth{0x23: 0}{music: 255 60}!{nextpage_button}{person: 33 733 732}{name: 8448}{speed: 4}
+Only Zak and Valant received{b}
+those threatening letters.{p}{speed: 3}
+But,{wait: 8} there was another.{p}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+One more person could have{b}
+fired that pistol that night.{nextpage_button}{person: 33 724 723}{speed: 3}
+...{wait: 14}I don't suppose you've{wait: 14}{b}
+figured it out by now?{nextpage_button}{name: 1792}{speed: 5}{color: 2}
+(If it wasn't Zak or Valant{b}
+who shot Magnifi...){nextpage_button}{fademusic: 120}{speed: 4}
+(...{wait: 20}{speed: 3}then it had to be the{b}{color: 1}
+only other person{color: 2} at the{b}
+scene,{wait: 8} which means...){nextpage_button}{color: 0}{bgcolor: 2305 8 31}{shake: 30 0}
+W-{wait: 20}Wait{speed: 8}...{wait: 40}{speed: 3}{bgcolor: 2305 8 31}{b}{shake: 30 0}
+You don't mean...!?{nextpage_button}{person: 33 724 723}{name: 8448}{speed: 5}
+...Yes.{wait_noanim: 35}{person: 33 733 732}{speed: 3} The Great Magnifi{b}
+Gramarye {fademusic: 0}{music: 55 0}{color: 1}himself{color: 0}.{nextpage_button}{0x51: 3 53}
+{39681}{4004}{0x10: 33691}{0x37: 32 0}{0x37: 33 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{person: 33 732 732}{name: 1792}{hidetextbox: 0}{speed: 5}So Magnifi Gramarye{speed: 8}...{b}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+committed suicide?{nextpage_button}{person: 33 724 723}{name: 8448}{speed: 4}
+...You find it hard to{b}
+believe?{nextpage_button}{name: 1792}{speed: 3}
+To be honest,{wait: 8} I hadn't even{b}
+imagined it as a possibility.{p}{person: 33 733 732}{name: 8448}
+When I arrived that night,{wait: 8}{b}
+the old man was still alive.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 219}{person: 0 0 0}{bgcolor: 772 1 31}{wait: 25}{hidetextbox: 0}{wait: 60}{speed: 4}
+He appeared to be asleep.{nextpage_button}{speed: 8}
+I...{wait: 30}{b}{speed: 3}
+I could not shoot him.{p}
+But when I turned and made{b}
+to leave the room...{p}{speed: 4}
+...{wait: 8}the old man called out{b}
+to me.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 173}{bgcolor: 258 1 31}{wait: 15}{name: 1792}{hidetextbox: 0}{speed: 3}
+...So you spoke with Magnifi{b}
+Gramarye?{nextpage_button}{name: 8448}
+Yes.{wait: 16} And this is why I knew{b}
+what he had done.{p}
+Magnifi transferred the rights{b}
+to his repertoire to my{b}
+partner,{wait: 10} Zak Gramarye.{wait: 16} Not me.{nextpage_button}{name: 1792}
+I see...{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 260}{person: 33 732 732}{bgcolor: 258 1 31}{wait: 15}{name: 1792}{hidetextbox: 0}
+Then I guess I owe you an{b}
+apology.{nextpage_button}{name: 1792}{speed: 3}
+I always thought you were the{b}{person: 33 732 732}
+one who did it.{nextpage_button}{name: 8448}{fademusic: 120}{speed: 8}
+......{wait: 40}{b}{person: 33 724 723}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+You owe me no apology.{nextpage_button}{person: 33 723 723}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+...Huh?{nextpage_button}{person: 33 724 723}{name: 8448}{speed: 3}
+My crime was,{wait: 8} in a way,{wait: 16} {person: 33 726 725}{bgcolor: 2305 8 31}more{b}
+serious than that of murder.{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Wh-What!?{wait: 20}{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Your{wait: 6} "{color: 1}crime{color: 0}{speed: 8}"{wait: 6}...{fademusic: 0}{music: 18 0}?{nextpage_button}{person: 33 732 732}{name: 8448}{speed: 8}
+......{nextpage_button}{person: 33 732 732}{name: 1792}{speed: 5}{color: 2}
+(Is Valant Gramarye{wait: 5} {color: 1}confessing{color: 2}{wait: 8}{b}
+something to me...?){p}{speed: 3}
+(What could be more serious{b}
+than murder?){color: 0}{nextpage_button}{0x51: 3 53}
+{39937}{2188}{0x10: 33692}{0x37: 33 0}{0x37: 34 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{person: 33 733 732}{name: 8448}{hidetextbox: 0}You see{speed: 8}{0x5a}...{wait_noanim: 25}{person: 33 726 725}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3} I knew that two{b}
+letters had been sent.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...!{nextpage_button}{person: 33 726 725}{name: 8448}{speed: 3}
+There are no secrets between{b}
+partners.{wait: 16} It was easy to{b}
+find out.{nextpage_button}{person: 33 733 732}{name: 8448}
+...{wait: 10}That was when I understood{b}
+Magnifi's plan.{nextpage_button}{fademusic: 60}{person: 33 723 723}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+He wanted to die by one{b}
+of your hands{speed: 8}{0x5a}{wait: 4}...?{nextpage_button}{person: 33 724 723}{name: 8448}{speed: 3}
+Little did I expect it had{b}
+anything to do with the{b}
+rights to his repertoire!{nextpage_button}{person: 33 733 732}{speed: 5}
+That was when I heard it{speed: 8}{0x5a}...{nextpage_button}{person: 33 726 725}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+...the little demon whispering{b}
+inside my heart.{nextpage_button}{name: 1792}{speed: 5}
+The demon...{nextpage_button}{person: 33 726 725}{name: 8448}{speed: 4}
+...{wait: 16}{speed: 3}Let me confess: I had{b}
+intended to shoot Magnifi.{nextpage_button}{name: 8448}{speed: 3}
+And{speed: 8}{0x5a}...{wait: 20}{person: 33 733 732}{speed: 3} I planned on framing{b}
+my partner for the crime.{nextpage_button}{name: 1792}
+Wha{speed: 8}...{fademusic: 0}{music: 29 0}{wait: 20}{b}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Whaaat!?{nextpage_button}{name: 8448}{speed: 3}
+That night,{wait: 30}{0x5a}{person: 33 724 723} I prepared{b}
+something before going to{b}
+Magnifi's hospital room.{nextpage_button}{name: 1792}{speed: 5}
+Which was...?{p}{person: 33 724 723}{name: 8448}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+IV fluid,{wait: 8} of course.{0x5a}{wait: 30}{0x59} I'd seen{b}
+it on an earlier visit.{p}{person: 33 726 725}{speed: 2}
+If Zak did not shoot,{wait: 12}{bgcolor: 2305 8 31}{shake: 30 0} I would{b}
+do the deed!{p}{speed: 6}
+Then,{wait: 16} {speed: 4}I would use the IV{b}
+liquid to place the murder{b}
+on his hands.{p}{speed: 3}
+That was my plan.{nextpage_button}{name: 1792}
+But...{wait: 10} you didn't shoot him.{nextpage_button}{person: 33 733 732}{name: 8448}{0x5a}{speed: 8}
+......{wait: 16}{b}{0x59}{speed: 3}
+I could not.{p}{speed: 5}
+The demon in my heart fled{b}
+when the moment came.{0x5a}{wait: 30}{0x59}{person: 33 724 723} But then{b}
+Magnifi called me back.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 173}{person: 0 0 0}{bgcolor: 772 1 31}{wait: 25}{name: 12800}{hidetextbox: 0}{speed: 4}
+...I am sorry,{wait: 8} Valant.{p}
+...I am giving my magic to{b}
+Zak... not you...{p}
+...You still lack the draw{b}
+he has...{p}
+...Please,{wait: 8} help him,{wait: 8} if you{b}
+can...{p}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{bgcolor: 257 1 31}{wait: 7}{name: 8448}{hidetextbox: 0}{speed: 5}
+I left the room...{nextpage_button}{speed: 8}
+...{wait: 12}{speed: 3}and then I stopped.{wait: 8} The{b}
+shock of what I had just been{b}
+told consumed me.{nextpage_button}{bgcolor: 1025 8 31}{wait: 1}{sound: 155 1}{bg: 260}{person: 33 724 723}{0x5a}{fademusic: 0}{music: 55 0}{bgcolor: 772 1 31}{wait: 25}{name: 8448}{hidetextbox: 0}{0x59}{speed: 3}
+That is when I heard that{b}
+fateful gunshot.{nextpage_button}{name: 1792}{speed: 3}
+Magnifi Gramarye...{wait: 20} {speed: 3}killing{b}{wait: 8}{color: 1}
+himself{color: 0}.{p}{person: 33 733 732}{name: 8448}{speed: 4}
+Then,{wait: 8} the demon awoke anew{b}
+within me!{p}{bg: 4095}{person: 0 0 0}{bgcolor: 2305 8 31}{speed: 2}
+...{color: 1}Zak killed him{color: 0},{wait: 10} he was{b}
+the one...{bgcolor: 2305 8 31}{p}{bgcolor: 2305 8 31}{speed: 3}
+...Frame him,{wait: 15} and the magic{b}
+will be yours...{bgcolor: 2305 8 31}{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 152}{0x5f: 3 1 31}{person: 0 0 0}{bgcolor: 772 1 31}{wait: 25}{name: 8448}{hidetextbox: 0}{speed: 8}
+I...{wait: 16} {speed: 4}altered the scene of{b}
+his suicide.{p}
+I took the pistol from his{b}
+hand,{wait: 12} wiped off the prints{speed: 8}...{p}{shake: 30 0}{speed: 8}
+...{speed: 3}then I used the syringe to{b}
+add the IV liquid I'd brought.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 260}{person: 33 730 730}{0x5f: 4 1 1}{bgcolor: 260 1 31}{wait: 25}{name: 1792}{hidetextbox: 0}
+So in the end,{wait: 20} {speed: 3}things happened{b}
+pretty much as planned.{p}
+Magnifi died,{wait: 16} and you framed{b}
+Zak for his murder.{nextpage_button}{name: 8448}{speed: 8}
+......{wait: 40}{b}{person: 33 733 732}{speed: 4}
+"As planned",{wait: 16} {speed: 3}indeed.{p}{person: 33 724 723}
+Of course,{wait: 16} the outcome was{b}
+somewhat different than I{b}
+had anticipated.{nextpage_button}{0x10: 33693}{0x51: 3 53}
+{39425}{4426}{jmp: 129}{endjmp}{endjmp}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{person: 33 723 723}{name: 0}{hidetextbox: 0}{center_text: 1}{speed: 2}{b}{color: 1}
+-- Magnifi's Death --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{fademusic: 0}{music: 31 0}{0x6c: 0}{person: 33 724 723}{name: 8448}{speed: 4}
+...Ask what you will,{wait: 8} you'll{b}
+get nothing from me.{nextpage_button}{person: 33 723 723}{name: 1792}{speed: 3}
+I'm as much a part of this{b}
+affair as you are now.{p}
+I have to know what happened.{p}{person: 33 733 732}{name: 8448}{speed: 4}
+For seven long years,{wait: 16} I have{b}
+endured...{p}{person: 33 726 725}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+...Now,{bgcolor: 2305 8 31}{wait: 8} finally,{wait: 8} the curtain{b}{shake: 30 0}
+lifts on my new golden age!{p}{person: 33 724 723}{speed: 3}
+All the miracles of our{b}
+troupe,{wait: 8} within my grasp!{person: 33 723 723}{sound: 147 1}{wait: 10}{person: 33 738 723}{wait: 15}{person: 33 723 723}{wait: 4}{person: 33 744 723}{wait: 2}{person: 33 739 723}{wait: 6}{person: 33 740 723}{wait: 7}{person: 33 741 723}{wait: 7}{person: 33 742 723}{wait: 3}{person: 33 743 723}{wait: 4}{person: 33 744 723}{wait: 6}{person: 33 723 723}{wait: 6}{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(Sorry to do this,{wait: 8} Valant...){p}{speed: 3}
+(But right now,{wait: 6} I need{b}
+answers.){p}
+(I think I'll start...{wait: 8} by{b}
+dropping a bomb.{wait: 16} That should{b}
+shake things up.){color: 0}{nextpage_button}{endjmp}
+
+{{7}}
+{bop}{0x6e: 20}{name: 1792}{person: 33 723 723}{speed: 3}Valant{speed: 8}...{wait: 20}{speed: 4} I wouldn't be so{b}
+sure about those miracles.{nextpage_button}{0x82}{b}
+Ñ{0x89}{0x88}{color: 3}{speed: 3}Not as long as I have this.{color: 0}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{person: 33 733 732}{name: 8448}{hidetextbox: 0}{speed: 3}Let me be frank.{nextpage_button}{person: 33 724 723}{speed: 4}
+...{wait: 10}No one,{wait: 16} and I mean no one,{wait: 8}{b}
+can stand in my path.{nextpage_button}{person: 33 726 725}{speed: 3}
+Not even you,{wait: 8} with your{b}
+silly-frilly ways.{nextpage_button}{name: 1792}
+Let me be frank,{wait: 8} too.{nextpage_button}
+That's the first time anyone's{b}
+called me "silly-frilly".{b}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{person: 33 723 723}{speed: 3}{color: 2}
+(What I need is a bit of{b}
+magic... something to stop{b}
+Valant's show in its tracks.){nextpage_button}{person: 33 723 723}{speed: 4}
+(...Now's no time for{b}
+subtlety.){color: 0}{nextpage_button}{speed: 255}{0x6c: 0}{jmp: 135}{endjmp}
+
+{{9}}
+{bop}{fademusic: 30}{0x66: 109 0 30}{evidence_window_lifebar}{724}{723}{name: 8448}{hidetextbox: 0}{showphoto: 194}{speed: 3}And what might that be?{p}{speed: 4}
+I see it bears the Gramarye{b}
+seal...{nextpage_button}{person: 33 723 723}{name: 1792}{speed: 3}
+I should have brought this to{b}
+your attention sooner.{p}
+But I didn't imagine you'd be{b}
+planning your comeback quite{b}
+so fast.{nextpage_button}{person: 33 732 732}{name: 8448}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 40}{b}{person: 33 731 730}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+What is this...?{nextpage_button}{name: 1792}{speed: 3}
+A document showing the true{b}
+recipient of the performance{b}
+rights to Magnifi's miracles.{p}{name: 8448}{bganim: 98 579}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Wh-{wait: 8}What{0x5a}...!?{wait: 10}{b}{0x59}{wait: 10}
+Zak{0x5a}...{wait: 8}{0x59}{wait: 8}{speed: 3} Gramarye{0x5a}...{wait: 12}{0x59}{b}
+He wrote this!?{p}{person: 33 731 730}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+What!?{wait: 16} {speed: 3}He passed{b}
+everything to his daughter!?{nextpage_button}{person: 33 730 730}{name: 1792}
+Trucy Enigmar{speed: 8}...{wait: 20} {speed: 3}Actually,{wait: 8}{b}
+she's officially my daughter{b}
+these days.{p}{name: 8448}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{person: 33 731 730}{speed: 2}
+Preposterous!{wait: 16} Zak's{speed: 7}...{wait_noanim: 30}{person: 33 726 725}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 4} Zak is{b}
+gone!{wait: 16} {speed: 2}Vanished into the void!{nextpage_button}{name: 1792}{showphoto: 194}{speed: 3}
+This is the genuine article.{wait: 20}{b}
+...Zak was alive when he wrote{b}
+this.{nextpage_button}{bganim: 98 579}
+Both myself and the notary{b}
+can testify to this.{nextpage_button}{person: 33 730 730}{name: 8448}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 8}
+Unh......{speed: 10}.....{speed: 14}{shake: 30 0}{bgcolor: 2305 8 31}.......{wait: 40}{nextpage_nobutton}{animation: 228 1}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Waaa{bgcolor: 2305 8 31}aaaaaaaa{bgcolor: 2305 8 31}aaaaaaugh!{wait: 80}{wait: 60}{nextpage_button}{person: 33 730 730}{0x84}{b}{name: 8448}{person: 33 731 730}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+Why...{wait: 16} {speed: 3}Why does Fate toy{b}
+with me so!?{p}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+Why must my{bgcolor: 2305 8 31} life be lived in{b}
+thrall to the dead!?{nextpage_button}{0x23: 0}{music: 255 90}{person: 33 730 730}{name: 1792}{speed: 4}
+...{wait: 16}You're not the only one{b}
+with that problem.{p}{person: 33 731 730}{name: 8448}{speed: 5}
+But he shot Magnifi!{wait: 16}{speed: 2}{0x59}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+Yes!{wait: 30}{person: 33 726 725}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2} It was Zak!{wait: 20}{b}{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}
+It was!{nextpage_button}{person: 33 731 730}{speed: 4}
+And then he left{speed: 8}{0x5a}...{wait: 20}{speed: 3}{0x59} and my{b}
+career as a magician fell{b}
+into darkness...{nextpage_button}{name: 1792}{speed: 4}
+Did you think there might be{b}
+some way out of it?{nextpage_button}{speed: 4}
+Say,{wait: 4} if you could prove Zak{b}
+Gramarye shot Magnifi?{nextpage_button}{speed: 3}
+Was that why you testified?{nextpage_button}{person: 33 726 725}{name: 8448}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Yes!{wait: 20} My way out{speed: 5}{0x5a}...{wait: 30}{0x59}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31} It should{b}
+have {bgcolor: 2305 8 31}been my way out!{nextpage_button}{0x6c: 0}{endjmp}
+
+{{10}}
+{bop}{0x6e: 20}{name: 1792}{speed: 3}Well,{wait: 8} it might not be too{b}
+late,{wait: 16} Mr. Valant.{nextpage_button}{speed: 3}
+All you need is a way to{b}
+prove your case.{nextpage_button}{person: 33 723 723}{speed: 4}{color: 3}
+Who really killed Magnifi{b}
+Gramarye?{color: 0}{0x82}{b}
+{227}{0x8c}{0x8b}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{person: 33 733 732}{name: 8448}{hidetextbox: 0}{speed: 5}So this is the evidence that{b}
+answers the question,{wait: 8} {person: 33 724 723}{speed: 3}"Who{b}
+killed Magnifi?"{nextpage_button}{name: 1792}{speed: 4}
+...Well?{p}{name: 8448}{speed: 3}
+The only question that this{b}
+evidence can answer is,{wait: 12} {speed: 4}"Who{b}{person: 33 733 732}
+here is an idiot?"{p}
+And it answers, {person: 33 726 725}"You,"{b}
+Mr. Wright.{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{name: 8448}{person: 33 726 725}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Must I suffer such indignities{b}
+even now?{wait: 16} Ah, the life of a{b}
+magician is a life of toil.{nextpage_button}{name: 1792}{speed: 3}{color: 2}
+(There's one easy way to{b}
+win over public opinion...){nextpage_button}{speed: 4}
+(By producing a {color: 1}signed{b}
+confession{color: 2}...{wait: 16} even if the{b}
+confession is a fake.){color: 0}{nextpage_button}{0x6c: 0}{jmp: 138}{endjmp}
+
+{{12}}
+{bop}{fademusic: 30}{0x66: 109 0 30}{evidence_window_lifebar}{723}{723}{name: 1792}{hidetextbox: 0}{speed: 4}I believe I have the answer{b}
+to your prayers right here.{nextpage_button}{showphoto: 227}
+Zak Gramarye wrote one more{b}
+thing before passing on.{nextpage_button}{name: 8448}{person: 33 731 730}{sound: 52 1}{bgcolor: 2305 8 31}
+This{speed: 8}{0x5a}...{wait: 20}{0x59}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 3} But this is a{b}
+confession!{nextpage_button}{name: 1792}{person: 33 730 730}{speed: 5}
+In which he admits to the{b}
+killing of Magnifi Gramarye.{nextpage_button}
+...See?{wait: 16} All according to{b}
+your plan.{nextpage_button}{person: 33 730 730}{name: 8448}{speed: 8}
+......{nextpage_button}{person: 33 731 730}{speed: 5}
+I am...{wait: 14} {speed: 3}a magician by trade.{wait: 16}{b}
+Deception is my life's work.{p}
+I fool the audience,{wait: 8} give them{b}
+a fleeting dream...{nextpage_button}{0x5a}{speed: 6}
+......{wait: 30}{b}{speed: 4}{0x59}
+Yet,{wait: 8} it seems the tables{b}
+have turned.{nextpage_button}{person: 33 733 732}{speed: 3}
+Now I am the audience,{wait: 16}{b}
+believing in the deceptions{b}
+I have wrought upon myself.{nextpage_button}{name: 1792}
+Zak wrote this right{b}
+in front of me.{nextpage_button}{person: 33 730 730}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 14}After I explained your{b}
+situation to him.{nextpage_button}{bganim: 98 579}{name: 8448}{shake: 30 0}{bgcolor: 2305 8 31}{person: 33 731 730}{0x5a}{speed: 8}
+..{bgcolor: 2305 8 31}{0x59}{wait: 8}.Allaka{0x5a}...{wait: 50}{nextpage_nobutton}{animation: 228 1}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Alla{bgcolor: 2305 8 31}kazoo{bgcolor: 2305 8 31}ooooooooooomg{bgcolor: 2305 8 31}{shake: 30 0}{bgcolor: 2305 8 31}!{wait: 120}{nextpage_nobutton}{person: 33 730 730}{0x84}{b}{0x8d}{0x82}{0x10: 33694}{0x37: 31 0}{0x37: 32 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{0x66: 109 0 14}{1792}{color: 2}{speed: 4}(I may not have enough{b}
+evidence right now to{b}
+pull this off.){nextpage_button}{speed: 3}
+(Maybe it's time to do a{b}
+little more legwork.){color: 0}{speed: 255}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{name: 0}{color: 1}{speed: 4}...Any more of this,{wait: 8} and{b}
+something's going to give.{nextpage_button}{speed: 3}
+...Time to cool off a bit{b}
+and rethink what I'm doing.{color: 0}{nextpage_button}{0x66: 109 0 28}{color: 21}{endjmp}
+
+{{15}}
+{bop}{person: 0 0 0}{name: 1792}{speed: 3}I don't think I've ever seen{b}
+a hot-air balloon so close.{nextpage_button}{name: 8448}{0x38: 1}{person: 33 724 723}
+It's a favorite of mine.{wait: 16} I've{b}
+often thought of how to use{b}
+it in one of my shows.{nextpage_button}{person: 33 733 732}
+Perhaps for the climax of{b}
+"Valant's Quick-Draw Shootem{b}
+Returns".{p}{speed: 4}
+I stand on stage,{wait: 8} I shoot,{wait: 16}{b}{person: 33 726 725}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+and the hot-air balloon is{b}
+pierced!{wait: 16} It explodes!{nextpage_button}{person: 33 724 723}{speed: 3}
+...What do you think?{wait: 20}{b}
+Thrilling,{wait: 8} yes?{nextpage_button}{name: 1792}{speed: 4}
+A little,{wait: 16} {speed: 3}I guess.{nextpage_button}
+But {person: 33 732 732}no one inside the{b}
+coliseum would be able{b}
+to see it.{nextpage_button}{person: 33 733 732}{name: 8448}{speed: 5}
+...Bravo.{nextpage_button}{person: 33 724 723}{speed: 3}
+It took me four days of{b}
+planning to realize that.{nextpage_button}{name: 1792}{speed: 5}{color: 2}
+(*sigh*){color: 0}{nextpage_button}{speed: 255}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{person: 0 0 0}{name: 1792}That sure is a big sign.{p}{0x38: 1}{person: 33 724 723}{name: 8448}{person: 33 733 732}
+Yes,{wait: 8} it's a favorite of mine.{wait: 16}{b}
+Impressive,{wait: 8} isn't it?{nextpage_button}{person: 33 724 723}
+I considered using it for one{b}
+wall of my house when the{b}
+show's over.{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Wow,{wait: 20} {speed: 3}your house is that big!?{nextpage_button}{person: 33 724 723}{name: 8448}
+Actually,{wait: 16} as fate would have{b}
+it,{wait: 10} I currently live in a{b}
+one-room apartment.{p}
+But following the wild success{b}
+of my show,{wait: 12} I intend to build{b}
+a luxurious mansion.{nextpage_button}{person: 33 733 732}
+I was torn over just how big{b}
+to make it.{nextpage_button}{person: 33 726 725}
+Until that sign whispered the{b}
+answer to me.{nextpage_button}{person: 33 723 723}{name: 1792}{speed: 4}
+That's...{wait: 20} really beautiful.{speed: 255}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{person: 0 0 0}{name: 1792}A man in a costume is handing{b}
+out balloons to the kids.{nextpage_button}
+...It's nice to know kids{b}
+still like balloons,{wait: 8} somehow.{nextpage_button}{name: 8448}{0x38: 1}{person: 33 724 723}
+They're a favorite of mine.{wait: 16}{b}
+Balloon-sellers,{wait: 8} that is.{nextpage_button}{person: 33 733 732}
+I would have them join me{b}
+on the big stage.{nextpage_button}{person: 33 726 725}
+They could hand out balloons{b}
+to the children in the{b}
+audience!{nextpage_button}{name: 1792}
+Wouldn't all those balloons{b}
+get in the way of seeing your{b}
+show?{nextpage_button}{person: 33 733 732}{name: 8448}{speed: 5}
+...Bravo.{nextpage_button}{person: 33 724 723}{speed: 3}
+The possibility had not even{b}
+occurred to me.{nextpage_button}{name: 1792}{speed: 5}{color: 2}
+(Phoenix Wright,{wait: 8} Entertainment{b}
+Consultant.){color: 0}{nextpage_button}{speed: 255}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{person: 0 0 0}{name: 1792}The{wait: 10} "Sunshine Coliseum",{wait: 8} was{b}
+it?{nextpage_button}
+I'm not sure it actually{b}
+qualifies as a{wait: 10} "coliseum",{b}
+but it's a great forum.{nextpage_button}{0x38: 1}{person: 33 733 732}{name: 8448}
+Yes,{wait: 8} it is a favorite of mine.{wait: 16}{b}
+I have always been fond of{b}
+sunshine.{nextpage_button}{person: 33 724 723}{sound: 51 1}{bgcolor: 2305 8 31}
+Speaking of which,{wait: 16} have you{b}
+heard what happened here{b}
+recently?{nextpage_button}{name: 1792}
+Oh,{wait: 12} yeah,{wait: 12} something about{b}
+something going on during{b}
+some concert?{nextpage_button}{person: 33 726 725}{name: 8448}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...Exactamundo!{p}{speed: 3}
+I see no reason to hide the{b}
+fact that I,{wait: 8} too, was involved{b}
+in that case.{nextpage_button}{person: 33 723 723}{name: 1792}
+Well,{wait: 8} that's something.{wait: 16} Did{b}
+you help solve it?{nextpage_button}{person: 33 726 725}{name: 8448}{sound: 52 1}{bgcolor: 2305 8 31}
+Hah!{wait: 20} What do you take me for?{wait: 20}{b}
+No,{wait: 8} I merely served to deepen{b}
+the mystery.{nextpage_button}{name: 1792}{speed: 4}
+...That's obstruction... of{b}
+justice.{nextpage_button}{person: 33 733 732}{name: 8448}{speed: 3}
+I'm a magician!{wait: 16} It's my sworn{b}
+duty to create mystery{b}
+whenever possible.{nextpage_button}{name: 1792}{speed: 5}{color: 2}
+(*sigh*){color: 0}{nextpage_button}{speed: 255}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{name: 1792}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{name: 1792}Could you take a look at{b}
+this,{wait: 8} Mr. Valant?{nextpage_button}{person: 33 733 732}{name: 8448}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Your forgiveness,{wait: 8} I beg.{p}
+Valant has eyes for naught{b}
+but the preparations for{b}
+his show!{nextpage_button}{person: 33 726 725}{speed: 3}
+The coliseum,{wait: 12} the hot-air{b}
+balloon,{wait: 12} the sign{0x5a}{speed: 8}...{wait: 16}{0x59}{speed: 4} {b}
+Oh,{wait: 8} and the balloon-seller.{nextpage_button}{name: 1792}
+Ah,{wait: 12} {speed: 3}right.{wait: 16} Sorry.{wait: 16}{b}{color: 2}
+(What does the balloon guy{b}
+have to do with his show?){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}

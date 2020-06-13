@@ -1,0 +1,56 @@
+
+
+{{0}}
+{bop}{0x62: 4 1}{0x6b: 1 0 31}{bganim: 98 626}{0x6b: 3 0 0}{bganim: 98 625}{wait: 1}{0x6b: 4 1 31}{bganim: 98 627}{bganim: 0 8192}{0x26: 1}{soundtoggle: 0}{bg: 4095}{hidetextbox: 1}{bganim: 1024 0}{0x30: 255}{person: 0 0 0}{name: 0}{hidetextbox: 0}{speed: 5}...{wait: 16}And that is the whole truth{b}
+of this case.{wait: 90}{nextpage_nobutton}{hidetextbox: 1}{bganim: 1025 0}{bganim: 1027 0}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{bganim: 0 8192}{0x30: 255}{hidetextbox: 0}{name: 0}{speed: 5}In order to understand it{b}
+myself{speed: 8}...{wait: 80}{nextpage_nobutton}{speed: 4}
+...{wait: 12}I had to know the story of{b}
+these last seven long years.{wait: 90}{nextpage_nobutton}{hidetextbox: 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{bganim: 1029 0}{sound: 45 1}{shake: 30 1}{bgcolor: 2305 8 31}{wait: 3}{bgcolor: 2305 8 31}{wait: 3}{wait: 80}{bganim: 1038 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{bganim: 0 8192}{0x30: 255}{hidetextbox: 0}{name: 0}Nothing happens by chance...{wait: 30}{b}{speed: 5}
+All is connected.{wait: 80}{nextpage_nobutton}{hidetextbox: 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{bganim: 1030 0}{bganim: 1031 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{bganim: 0 8192}{0x30: 255}{hidetextbox: 0}{name: 0}And now...{wait: 60}{nextpage_nobutton}{speed: 4}
+...{wait: 10}you stand ready to begin{b}
+the final chapter of this{b}
+story.{wait: 60}{nextpage_nobutton}{0x30: 2}{hidetextbox: 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{bganim: 1032 0}{wait: 90}{hidetextbox: 0}{name: 0}{speed: 5}Will the defendant be found{b}
+guilty,{wait: 6} or innocent?{wait: 60}{nextpage_nobutton}{speed: 3}
+The decision is yours.{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{bganim: 1033 0}{bganim: 1034 0}{0x6b: 1 0 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{bganim: 0 4096}{bg: 4095}{0x10: 33536}{0x7d}{bop}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{bg: 4095}{0x74: 2 0}{p}{0x62: 4 1}{0x10: 33536}{fadetoblack: 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{p}{0x62: 4 1}{0x10: 33536}{0x10: 33537}{0x33: 0 1 9 255 255}{0x60: 0 1 12 255 255}{0x61: 0 25 14 255 255}{0x33: 1 0 255 255 255}{0x60: 1 0 255 255 255}{0x61: 1 0 255 255 255}{newevidence: 194}{fadetoblack: 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{p}{0x62: 4 1}{0x10: 33536}{0x10: 33537}{0x10: 33543}{0x10: 33544}{0x33: 0 1 9 10 255}{0x60: 0 1 12 11 255}{0x61: 0 25 14 10 255}{0x33: 1 0 10 255 255}{0x60: 1 0 11 255 255}{0x61: 1 0 10 255 255}{0x33: 9 0 10 255 255}{0x60: 9 0 11 255 255}{0x61: 9 0 10 255 255}{newevidence: 194}{fadetoblack: 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{p}{0x62: 4 1}{0x10: 33536}{0x10: 33537}{0x10: 33543}{0x10: 33544}{0x10: 33553}{0x10: 33554}{0x10: 33559}{0x33: 0 1 9 10 255}{0x60: 0 1 12 11 255}{0x61: 0 25 14 10 255}{0x33: 1 0 10 255 255}{0x60: 1 0 11 255 255}{0x61: 1 0 10 255 255}{0x33: 9 0 10 255 255}{0x60: 9 0 11 255 255}{0x61: 9 0 10 255 255}{newevidence: 194}{fadetoblack: 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{p}{0x62: 4 1}{0x10: 33536}{0x10: 33537}{0x33: 0 1 9 255 255}{0x60: 0 1 12 255 255}{0x61: 0 25 14 255 255}{0x33: 1 0 255 255 255}{0x60: 1 0 255 255 255}{0x61: 1 0 255 255 255}{newevidence: 194}{newevidence: 196}{fadetoblack: 9}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{p}{0x62: 4 1}{0x10: 33536}{0x10: 33537}{0x10: 33543}{0x10: 33544}{0x10: 33553}{0x10: 33554}{0x10: 33559}{0x33: 0 1 9 10 255}{0x60: 0 1 12 11 255}{0x61: 0 25 14 10 255}{0x33: 1 0 10 255 255}{0x60: 1 0 11 255 255}{0x61: 1 0 10 255 255}{0x33: 9 0 10 255 255}{0x60: 9 0 11 255 255}{0x61: 9 0 10 255 255}{newevidence: 194}{fadetoblack: 9}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{p}{0x62: 4 1}{0x10: 33536}{0x10: 33537}{0x10: 33543}{0x33: 0 1 9 10 255}{0x60: 0 1 12 11 255}{0x61: 0 25 14 10 255}{0x33: 1 0 10 255 255}{0x60: 1 0 11 255 255}{0x61: 1 0 10 255 255}{0x33: 9 0 10 255 255}{0x60: 9 0 11 255 255}{0x61: 9 0 10 255 255}{newevidence: 194}{fadetoblack: 10}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{p}{0x62: 4 1}{0x10: 33536}{0x10: 33537}{0x10: 33543}{0x10: 33544}{0x10: 33577}{0x10: 33548}{0x10: 33553}{0x10: 33554}{0x10: 33588}{0x10: 33559}{0x10: 33566}{0x10: 33569}{0x10: 33568}{0x10: 33561}{0x10: 33562}{0x10: 33549}{0x37: 9 0}{0x37: 11 1}{0x33: 0 1 9 10 255}{0x60: 0 1 12 11 255}{0x61: 0 25 14 10 255}{0x33: 1 0 10 255 255}{0x60: 1 0 11 255 255}{0x61: 1 0 10 255 255}{0x33: 9 0 10 255 255}{0x60: 9 0 11 255 255}{0x61: 9 0 10 255 255}{newevidence: 194}{newevidence: 201}{newevidence: 198}{newevidence: 199}{newevidence: 200}{fadetoblack: 10}{hidetextbox: 3}{special_jmp}{endjmp}

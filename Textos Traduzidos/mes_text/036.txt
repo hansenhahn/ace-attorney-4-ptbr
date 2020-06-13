@@ -1,0 +1,1122 @@
+
+
+{{0}}
+{bop}{0x62: 2 4}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 13 320 320}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 18 11 2 93 1 1 3}{b}
+-- Tiala's Explanation --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{name: 3328}{fademusic: 0}{music: 3 0}{person: 13 329 328}{speed: 6}
+That night,{wait: 14} {speed: 3}I went to ask{b}
+Dr. Meraktis for the chart.{nextpage_button}{person: 13 342 341}
+I had no intention of ever{b}
+letting that chart fall into{b}
+the Kitaki Family's hands.{nextpage_button}{person: 13 332 331}{speed: 5}
+But Dr. Meraktis didn't{b}
+understand...{p}{speed: 4}
+For some reason, he thought{b}
+the Kitakis had sent me!{nextpage_button}{person: 13 342 341}
+So I gave up and went home...{wait: 20}{b}
+All I did was talk to him!{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 25}{person: 4 41 40}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{0x59}{speed: 5}
+You knew about the botched{b}
+operation{wait: 6}...{wait: 20}{nextpage_button}{person: 4 59 58}{speed: 2}
+So you tried to get rid of{b}{person: 4 66 65}{shake: 30 0}{bgcolor: 2305 8 31}
+the chart,{wait: 10} to save yourself!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 336}{wait: 32}{person: 13 337 336}{name: 3328}{hidetextbox: 0}{speed: 4}
+I won't make excuses.{p}{speed: 3}
+...{wait: 20}And I did warn the good{b}
+doctor.{wait: 16} I gave him a chance.{nextpage_button}{person: 13 342 341}{speed: 4}
+I told him that brat got{b}
+his health check-up report.{p}{speed: 3}
+...{wait: 20}And that he was coming to{b}{person: 13 337 336}
+settle the score.{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 6}
+Hmm...{wait: 20} {speed: 3}I see.{nextpage_button}{person: 10 259 258}
+Very well.{wait: 12} Mr. Justice,{wait: 6} begin{b}
+your cross-examination.{nextpage_button}{bg: 25}{person: 4 38 38}{name: 1024}{speed: 5}
+...{wait: 20}Yes,{wait: 8} Your Honor.{0x63}{wait: 15}{b}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 4}{color: 2}
+(This is the last testimony!){p}{speed: 3}
+(Either I{wait: 6} {color: 1}perceive{color: 2} {wait: 6}the truth,{wait: 8}{b}
+or it's over!){color: 0}{nextpage_button}{endjmp}
+
+{{1}}
+{bop}{0x6b: 0 1 0}{bganim: 98 513}{0x6b: 1 1 0}{bganim: 98 513}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 13 320 320}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 135}{center_text: 1}{speed: 2}{b}{color: 1}
+-- Tiala's Explanation --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 3 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 136 0}{lifebarset: 2 130}{lifebar: 18}{0x53}{person: 13 321 320}{name: 3328}{hidetextbox: 0}{color: 3}{0x7e}{bop}That night,{0x7e}{bop} I went to ask{b}
+Dr. Meraktis{0x7e}{bop} for the chart.{0x7e}{b}{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 137 0}{lifebarset: 0 130}{lifebarset: 2 131}{lifebar: 24}{0x53}{person: 13 342 341}{name: 3328}{hidetextbox: 0}{color: 3}{0x7e}{bop}I had no intention {0x7e}{bop}of ever{b}
+letting that chart{0x7e}{bop} fall into{b}
+the Kitaki Family's hands.{0x7e}{b}{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 138 0}{lifebarset: 0 131}{lifebarset: 2 132}{lifebar: 19}{0x53}{person: 13 332 331}{name: 3328}{hidetextbox: 0}{color: 3}{0x7e}{bop}But Dr. Meraktis{0x7e}{bop} didn't{b}
+understand...{0x7e}{b}{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 132}{lifebarset: 2 133}{lifebar: 19}{0x53}{person: 13 332 331}{name: 3328}{hidetextbox: 0}{color: 3}{0x7e}{bop}For some reason, {0x7e}{bop}he thought{b}
+the Kitakis {0x7e}{bop}had sent me!{0x7e}{b}{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 133}{lifebarset: 2 134}{lifebar: 24}{0x53}{person: 13 342 341}{name: 3328}{hidetextbox: 0}{color: 3}{0x7e}{bop}So I gave up{0x7e}{bop} and went home...{0x7e}{bop}{b}{0x7e}{bop}{0x56: 154 191}
+l I did was talk to him!{0x7e}{b}{psychelock: 3}{bop}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 25}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}(...{wait: 20}This is my last chance!){color: 0}{nextpage_button}{bg: 28}{person: 5 103 102}{name: 1280}{speed: 3}
+Apollo...{wait: 12} any word from your{b}
+bracelet?{nextpage_button}{name: 1024}
+Yeah,{wait: 8} actually{speed: 8}...{wait: 20}{b}{showphoto: 83}{speed: 4}{color: 2}
+(I felt it {color: 1}respond{color: 2}{speed: 8}...!){color: 0}{nextpage_button}{person: 5 99 98}{name: 1280}{speed: 3}
+I couldn't see a thing!{speed: 255}{p}
+It's up to you,{wait: 8} Apollo!{nextpage_button}{bganim: 98 579}{bg: 25}{person: 4 58 58}{name: 1024}{color: 2}
+(Time to{wait: 5} {color: 1}perceive{color: 2}{wait: 5} the truth!{wait: 20}{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 8}
+...{wait: 12}{speed: 2}Here comes Justice!){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 13 320 320}{name: 3328}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{8}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}So,{wait: 8} you did go to steal {0x5a}{person: 4 66 65}that{b}
+chart!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 336}{wait: 32}{name: 3328}{person: 13 337 336}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Were you listening?{wait: 10} {speed: 3}I said{b}
+I{wait: 6} "asked"{wait: 6} him for it!{p}{bg: 29}{name: 2560}{person: 10 263 262}{showphoto: 52}
+The victim was a man in good{b}
+health...{wait: 20} I don't see how she{b}
+could have coerced him.{p}{bg: 26}{name: 13568}{person: 6 149 148}
+True.{wait: 6} {speed: 4}It would have been{b}
+impossible without a pistol.{p}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{color: 2}
+(But what if she did have a{b}
+pistol...?){color: 0}{p}{hidetextbox: 1}{swoosh: 0 4096 13 341}{wait: 32}{bg: 27}{name: 3328}{person: 13 342 341}{hidetextbox: 0}{speed: 3}
+I'll admit I wanted the chart.{wait: 8}{b}
+That much is true.{p}{person: 13 337 336}
+...{wait: 20}My reason was simple.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 13 341 341}{name: 3328}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{9}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}It certainly would have put a{b}
+damper on your wedding plans,{b}
+I'd say.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 320}{wait: 32}{name: 3328}{person: 13 321 320}{hidetextbox: 0}
+Not only that.{wait: 16} If the Kitakis{b}
+had gotten that chart...{p}{person: 13 329 328}
+...I'd probably be with{b}
+Dr. Meraktis now,{wait: 8} pulling that{b}
+great noodle stand in the sky.{p}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}
+It seems our witness was in a{b}
+fix as well.{p}{bg: 27}{name: 3328}{person: 13 329 328}
+Who would want to die pulling{b}{person: 13 327 326}
+a noodle stand?{p}{bg: 28}{name: 1280}{person: 5 99 98}
+When I die,{wait: 8} it will be by{b}
+disappearing mysteriously in{b}
+the middle of a magic act!{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Could we be a little less{b}
+morbid!? Please!?{p}{bg: 27}{name: 3328}{person: 13 342 341}{speed: 4}
+So you see,{wait: 8} I needed that{b}
+chart.{speed: 255}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 13 331 331}{name: 3328}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}He didn't understand...?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 328}{wait: 32}{name: 3328}{person: 13 329 328}{hidetextbox: 0}
+He wouldn't listen to a word{b}
+I was saying!{p}
+The moment he saw me,{wait: 8} he{b}
+started to tremble...{p}{name: 3328}{person: 13 327 326}
+Hah,{wait: 8} I thought,{wait: 8} what a sad{b}
+excuse for a man!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{color: 2}
+(Please don't smile like that{b}
+anymore...{wait: 20} It's creepy.){color: 0}{p}{hidetextbox: 1}{swoosh: 0 4096 13 326}{wait: 32}{name: 3328}{person: 13 327 326}{hidetextbox: 0}
+He was practically delusional!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 13 331 331}{name: 3328}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}They "sent you"?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 339}{wait: 32}{name: 3328}{person: 13 340 339}{hidetextbox: 0}
+He thought the Kitakis had{b}
+sent me to get the chart.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}
+It makes some sense.{wait: 16} You are{b}
+their son's fianc{1984}e.{wait: 16}{p}{bg: 27}{name: 3328}{person: 13 327 326}
+Don't make me laugh!{b}
+The Kitakis?{wait: 16} Send me?{b}
+They don't play that way.{nextpage_button}{person: 13 340 339}
+If they'd known about that{b}
+chart,{wait: 8} they would have gone{b}
+in there with guns blazing.{nextpage_button}{person: 13 329 328}
+But I couldn't convince the{b}
+trembling doctor otherwise.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 13 341 341}{name: 3328}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 4}If that was really all that{b}
+happened...{nextpage_button}{person: 4 66 65}{sound: 26 1}{bgcolor: 2305 8 31}{speed: 2}{shake: 30 0}{speed: 2}
+...what were all those noodle{b}
+bowls doing there?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 336}{wait: 32}{person: 13 337 336}{name: 3328}{hidetextbox: 0}
+How should I know?{nextpage_button}{person: 13 342 341}
+There weren't any bowls when{b}{bgcolor: 2305 8 31}{shake: 30 0}
+I went,{wait: 8} I know that much!{nextpage_button}{person: 13 342 341}{shake: 30 0}
+Why don't you let me be and{b}
+go look for your killer{shake: 30 0}{b}
+someplace else,{wait: 8} alright?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}
+(Do I detect {color: 1}uncertainty{color: 2}{b}{sound: 52 1}{bgcolor: 2305 8 31}
+there...?){color: 0}{nextpage_button}{jmp: 135}{endjmp}
+
+{{13}}
+{bop}{wait: 20}{0x51: 2 53}{2817}{1018}{fademusic: 30}{0x74: 1 0}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{0x5a}...{wait: 20}{0x59}Gotcha,{wait_noanim: 20} {person: 4 66 65}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}Ms. Tiala!!!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 339}{wait: 32}{person: 13 340 339}{name: 3328}{hidetextbox: 0}{speed: 3}
+I heard you just fine the{b}
+first time.{nextpage_button}{person: 13 337 336}{sound: 52 1}{bgcolor: 2305 8 31}
+What,{wait: 8} I wasn't aware we were{b}
+playing paintball.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{person: 4 40 40}{name: 1024}{hidetextbox: 0}{speed: 8}
+......{nextpage_button}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 4}
+She's one cool cucumber,{wait: 8} that{b}
+Alita.{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(...{wait: 20}Hmm.{wait: 16} Maybe I spotted the{b}
+wrong spot.){p}{person: 5 100 100}{showphoto: 83}
+(But my bracelet {color: 1}reacted{color: 2}!{wait: 16}{b}
+There must be something{b}
+in this testimony!){p}{hidetextbox: 1}{bganim: 98 579}{bg: 25}{person: 4 40 40}{hidetextbox: 1}{swoosh: 0 4096 13 339}{wait: 32}{person: 13 339 339}{hidetextbox: 0}{speed: 4}
+(I'll find your {color: 1}weak spot{color: 2},{wait: 8}{b}
+Alita Tiala{speed: 8}...){fademusic: 0}{music: 3 0}{color: 0}{nextpage_button}{0x51: 0 28}{b}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 3328}{0x5e}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{0x7c: 134}{endjmp}{endjmp}{0x10: 33292}{0x51: 0 108}{bop}{fademusic: 0}{music: 3 0}{wait: 15}{0x29: 2}{0x7c: 134}{endjmp}
+
+{{14}}
+{bop}{wait: 20}{0x6d: 0}{0x74: 1 0}{fademusic: 45}{person: 13 341 341}{name: 1024}{hidetextbox: 0}{0x59}{speed: 4}"All I did was talk"{speed: 8}...{wait: 20}{b}{speed: 3}
+and lie.{nextpage_button}{person: 13 337 336}{name: 3328}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Wh-{wait: 12}What?{wait: 16} Show me proof!{b}{shake: 30 0}{bgcolor: 2305 8 31}{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(I'm pretty sure about this{b}
+one...{wait: 20} {speed: 3}I think I'm getting{b}
+the hang of this.){nextpage_button}{speed: 4}
+(A little slip in confidence,{wait: 8}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+and they give it all away.){color: 0}{nextpage_button}{fademusic: 0}{music: 10 100}{speed: 4}
+The proof{speed: 8}...{wait: 20} {speed: 3}is you,{wait: 8}{b}
+Ms. Tiala.{nextpage_button}{person: 13 331 331}{name: 3328}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+...!{nextpage_button}{name: 1024}{speed: 3}
+"All I did was talk to him",{wait_noanim: 30}{b}
+you claim...{nextpage_button}
+Yet you can't hide your own{b}
+nervous twitch when you say{b}
+those words!{nextpage_button}{person: 13 340 339}{name: 3328}{speed: 5}
+My{wait: 6} "twitch"?{wait: 12} {speed: 3}What are you{b}
+talking about!?{nextpage_button}{name: 1024}
+You have a{wait: 6} {color: 1}habit{color: 0} {wait: 6}of scratching{b}{person: 13 323 323}{animation: 149 1}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+the area of your neck around{b}
+the edge of your scarf.{nextpage_button}{person: 13 324 323}{animation: 149 1}{name: 3328}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Wha--!{wait: 16}{b}
+Wh-{wait: 10}Wh-{wait: 10}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}What!?{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}{color: 2}
+(This is working better than{b}
+I'd hoped!){nextpage_button}
+(Her unconscious actions tell{b}
+the{wait: 6} {color: 1}truth{color: 2}{wait: 6} she won't say.){nextpage_button}{speed: 4}
+({color: 1}Habits{color: 2}{wait: 6} and{wait: 6} {color: 1}lies{color: 2}{wait: 6}...{wait: 20}{b}
+Two dots...){nextpage_button}{person: 13 331 331}{speed: 3}
+(Connect the dots and find{b}
+the{wait: 6} {color: 1}truth{color: 2}!){color: 0}{nextpage_button}{person: 13 335 334}{name: 3328}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+D-{wait: 8}Don't look at me like that!{wait: 16}{b}{speed: 3}
+I t-{wait: 8}told you the tr-truth...{nextpage_button}{name: 1024}{speed: 4}
+It seems that when you recall{b}
+what really happened in that{b}
+office...{nextpage_button}{speed: 3}
+...{wait: 20}you can't keep your hands{b}
+off your neck,{wait: 8} can you?{nextpage_button}{person: 13 323 323}{animation: 149 1}{name: 3328}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+...!{nextpage_button}{name: 1024}{hidetextbox: 0}{color: 2}
+(Hmm... It seems that{b}{color: 1}
+nervous habits{color: 2}...){nextpage_button}
+(...are {color: 1}unconscious reactions{color: 2}{b}
+that manifest when someone is{b}
+trying to hide something!){nextpage_button}{endjmp}
+
+{{15}}
+{bop}{person: 13 341 341}{name: 1024}{hidetextbox: 0}{speed: 4}You can't hide behind your{b}
+scarf,{wait: 8} Ms. Tiala!{nextpage_button}{name: 1024}{speed: 3}
+Something happened between{b}
+you and the victim in the{b}
+Meraktis Clinic office!{nextpage_button}{person: 13 334 334}{name: 3328}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 8}
+...{nextpage_button}{0x6c: 0}{0x6e: 20}{name: 1024}{color: 3}{speed: 4}
+And I've got proof that{b}{bgcolor: 2305 8 31}{shake: 30 0}
+shows exactly what happened!{color: 0}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{0x6d: 0}{person: 13 340 339}{name: 3328}{hidetextbox: 0}{speed: 4}...{wait: 20}I knew you were bluffing.{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Huh...?{nextpage_button}{person: 13 327 326}{name: 3328}{speed: 3}
+I could tell by the way you{b}
+fondled your spiky hair!{nextpage_button}{0x6c: 0}{0x6e: 20}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}{color: 2}
+(Ack!{wait: 16} She found my habit!){color: 0}{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{person: 13 320 320}{speed: 4}{color: 2}
+(I'd better rethink this...){p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 2561 1 31}{wait: 1}{0x6d: 1}{0x6b: 6 0 0}{bganim: 98 632}{bg: 223}{person: 0 0 0}{0x5f: 3 1 31}{bgcolor: 2306 1 31}{wait: 15}{hidetextbox: 0}{speed: 3}
+(OK, when we found the{b}
+Meraktis Clinic office...){p}{speed: 4}
+(...there were signs of a{b}
+struggle,{wait: 8} and {showphoto: 79}a bullet in{b}
+the safe.){p}{bganim: 98 579}{hidetextbox: 1}{sound: 49 1}{bgcolor: 2561 1 31}{wait: 1}{0x5f: 4 1 1}{bg: 27}{person: 13 320 320}{0x6b: 1 0 0}{bganim: 98 120}{wait: 4}{bgcolor: 2306 1 31}{wait: 15}{hidetextbox: 0}{speed: 3}
+(Ms. Tiala was willing to do{b}
+anything to get that chart.){p}
+(So {color: 1}something happened{color: 2}{wait: 6}...{wait: 20} But{b}
+what?){speed: 255}{color: 0}{nextpage_button}{jmp: 143}{endjmp}
+
+{{17}}
+{bop}{0x29: 0}{fademusic: 45}{0x6d: 0}{person: 13 342 341}{name: 3328}{hidetextbox: 0}{showphoto: 77}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}Wh-{wait: 20}What's that{speed: 8}{0x5a}...?{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 20}You're touching your scarf{b}
+again.{p}{person: 13 323 323}{animation: 149 1}{name: 3328}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+...!{p}{name: 1024}{speed: 3}
+...{wait: 12}There's something unusual{b}
+about this lamp.{nextpage_button}
+The bulb is broken{speed: 8}...{wait: 20} {speed: 3}and{b}
+there's a red splotch on{b}
+the cord.{nextpage_button}{person: 13 334 334}{name: 3328}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Eh...{nextpage_button}{removephoto}{name: 1024}
+Seeing how you{wait: 6} hide your{b}
+neck{wait: 6}...{nextpage_button}
+I think I can come up with{b}
+a plausible explanation for{b}
+the lamp's state.{nextpage_button}{person: 13 324 323}{animation: 149 1}{name: 3328}{speed: 5}
+Well spit it out!{wait: 16} {speed: 2}This talking{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+in circles nonsense is{b}
+killing me!{nextpage_button}{name: 1024}{speed: 3}
+Very well.{nextpage_button}{speed: 4}
+The answer is very simple.{wait: 20}{b}
+Ms. Alita Tiala...{nextpage_button}{person: 13 334 334}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Please remove your{bgcolor: 2305 8 31} scarf!{nextpage_button}{name: 3328}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+!{wait: 30}{b}{speed: 6}
+...{speed: 8}.....{speed: 10}.....{speed: 12}...........{wait: 60}{nextpage_nobutton}{person: 13 344 344}{animation: 215 1}{name: 3328}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Eee{bgcolor: 2305 8 31}eeeeeeeee{bgcolor: 2305 8 31}eeeeeeee{bgcolor: 2305 8 31}eeeeek!{0x63}{wait: 40}{sound: 50 1}{hidetextbox: 1}{0x6b: 8 1 0}{bganim: 98 632}{0x5f: 3 1 31}{shake: 30 2}{bgcolor: 2305 8 31}{wait: 5}{bgcolor: 2305 8 31}{wait: 3}{bgcolor: 2305 8 31}{wait: 70}{wait: 60}{bgcolor: 2566 1 31}{wait: 25}{nextpage_nobutton}{hidetextbox: 1}{0x5f: 4 1 1}{0x6b: 6 0 0}{bganim: 98 632}{bg: 27}{name: 3328}{hidetextbox: 1}{0x6b: 4 3 0}{bganim: 98 632}{wait: 1}{fademusic: 0}{music: 35 0}{bganim: 98 377}{wait: 4}{bgcolor: 2308 1 31}{wait: 25}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{name: 13568}{hidetextbox: 0}{speed: 4}
+This is a trial to determine{b}
+what happened in that park.{nextpage_button}{person: 6 151 150}
+Yet we seem to have drifted{b}
+off target.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 4}
+We'll find out soon enough{b}
+if we're drifting{0x5a}...{p}{person: 4 48 47}
+As soon as the witness removes{b}
+her scarf.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 323}{wait: 32}{person: 13 324 323}{animation: 149 1}{name: 3328}{hidetextbox: 0}{speed: 5}
+I{speed: 8}{0x5a}...{wait: 30}{b}{0x59}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I won't do it!{p}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+This is insane! I'm a...{wait: 20}{b}
+an unrelated third party!{p}{person: 13 337 336}{speed: 3}
+You can't order me to remove{b}
+my clothing!{nextpage_nobutton}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 266 266}{name: 2560}{hidetextbox: 0}{speed: 5}
+...{wait: 20}Ms. Tiala.{nextpage_button}{person: 10 263 262}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+I'm afraid you've forgotten{b}
+what's already been proven.{nextpage_button}{bg: 27}{person: 13 324 323}{animation: 149 1}{name: 3328}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+What...?{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 4}
+You're hardly{wait: 6} "unrelated".{p}{person: 10 259 258}{speed: 3}
+...{wait: 20}Please remove your scarf.{nextpage_button}{bg: 27}{person: 13 323 323}{animation: 149 1}{name: 3328}
+No.{wait_noanim: 30}{b}{person: 13 344 344}{animation: 215 1}{fademusic: 30}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Nooo{bgcolor: 2305 8 31}oooooooo{bgcolor: 2305 8 31}oooo!{0x63}{bgcolor: 1030 1 31}{wait: 25}{nextpage_nobutton}{hidetextbox: 1}{person: 0 0 0}{bg: 4095}{bgcolor: 770 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{speed: 6}
+...{wait: 20}I knew it.{p}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+So I was right,{wait: 8} wasn't I,{wait: 8}{b}
+Ms. Alita Tiala!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 130}{person: 0 0 0}{wait: 30}{bgcolor: 769 0 31}{wait: 1}{sound: 50 1}{shake: 30 1}{wait: 3}{bgcolor: 2305 8 31}{wait: 8}{bgcolor: 2305 8 31}{fademusic: 0}{music: 9 0}{wait: 60}{name: 2560}{hidetextbox: 0}
+Your neck{speed: 8}...{wait: 30} {speed: 2}That isn't what{b}{shake: 30 0}{bgcolor: 2305 8 31}
+I think it is!?{nextpage_button}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{speed: 3}
+Something did{wait: 6} happen{wait: 6} that{b}
+night at the Meraktis Clinic!{p}
+You needed to get that chart{b}
+back,{wait: 8} no matter what it took.{p}{speed: 4}
+Even if you had to steal your{b}{person: 4 37 36}{showphoto: 327}
+fianc{1984}'s pistol to do it!{nextpage_button}{bganim: 98 579}{bg: 29}{person: 10 265 264}{name: 2560}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+B-{wait: 12}But wait!{p}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Looking at {showphoto: 77}this lamp,{wait: 8} and{b}{bg: 130}{person: 0 0 0}
+the witness's neck{speed: 8}...{wait_noanim: 12}{b}{p}{bganim: 98 579}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 4}
+It looks like the very{b}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+opposite happened!{nextpage_button}{bg: 25}{person: 4 38 38}{name: 1024}{speed: 5}
+Exactly.{0x63}{nextpage_button}{person: 4 41 40}
+The victim in the clinic{b}
+that night...{nextpage_button}{person: 4 37 36}
+...{wait: 16}was this witness!{wait: 12}{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Specifically...{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{swoosh: 0 4096 13 334}{wait: 32}{person: 13 334 334}{hidetextbox: 0}{speed: 3}
+...{wait: 12}you tried to threaten{b}
+Dr. Meraktis and he attacked{b}
+you!{nextpage_button}{0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}{color: 1}
+That's what happ{bgcolor: 2305 8 31}ened{color: 0} {bgcolor: 2305 8 31}that{b}
+night at the{wait: 8} Meraktis Clinic{bgcolor: 2305 8 31}!{nextpage_button}{hideperson}{0x26: 0}{fademusic: 120}{bg: 27}{person: 13 323 323}{animation: 149 1}{name: 3328}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 8}
+Urk......{wait: 30}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}!!!{wait: 60}{nextpage_nobutton}{person: 13 345 345}{animation: 216 1}{0x63}{name: 3328}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{soundtoggle: 0}{speed: 1}
+Eeeeeee{bgcolor: 2305 8 31}eeeeeeeee{bgcolor: 2305 8 31}eeeeeeeeeee{b}
+eeeee{shake: 30 1}eee{bgcolor: 2305 8 31}eeeeeeeee{bgcolor: 2305 8 31}eeeeee{bgcolor: 2305 8 31}eeee{wait: 4}{nextpage_nobutton}{speed: 2}
+eee{shake: 30 2}eeeee{bgcolor: 2305 8 31}eeeeeee{bgcolor: 2305 8 31}eee{b}
+eee{shake: 30 2}eeeee{bgcolor: 2305 8 31}eee{shake: 30 2}eeeeek{bgcolor: 2305 8 31}{wait: 4}{nextpage_nobutton}{speed: 3}
+....{bgcolor: 2305 8 31}...{shake: 30 1}....{bgcolor: 2305 8 31}....{bgcolor: 2305 8 31}.....{shake: 30 1}.......{b}{speed: 4}
+........{bgcolor: 2305 8 31}........{shake: 30 0}......{bgcolor: 2305 8 31}.....{wait: 10}{soundtoggle: 1}{0x10: 32994}{wait: 40}{hidetextbox: 1}{nextpage_nobutton}{bgcolor: 1028 1 31}{wait: 25}{wait: 30}{bganim: 98 524}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 65 1}{bgcolor: 769 0 31}{wait: 1}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 65 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Order!{wait: 10} Order!{wait: 10} Order!!!{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 4}
+Will someone please tell me{b}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{0x59}
+what really happened!?{p}{bg: 27}{person: 13 324 323}{animation: 149 1}{name: 3328}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+I told you the truth already!{p}{person: 13 342 341}{speed: 4}
+I went to the clinic that{b}
+night to warn Dr. Meraktis!{nextpage_button}{hidetextbox: 1}{fademusic: 0}{music: 35 0}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 133}{person: 0 0 0}{wait: 20}{bgcolor: 770 1 31}{wait: 15}{wait: 80}{name: 3328}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 20}That gangster knows{b}
+everything!{nextpage_button}{speed: 3}
+He's coming for you!{nextpage_button}{name: 12032}{speed: 4}
+...{wait: 20}{speed: 3}Looks like my clinic's{b}
+seen its last patient.{nextpage_button}{name: 3328}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+We have to get rid of that{b}
+chart!{nextpage_button}{speed: 3}
+Quick,{wait: 8} open your safe!{wait: 16}{b}
+Give it to me!{nextpage_button}{name: 12032}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}So you can save your own{b}
+skin?{nextpage_button}{name: 3328}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+What...?{nextpage_button}{name: 12032}
+I know what you're up to.{wait: 25} {speed: 3}You{b}
+want in with the Family...{nextpage_button}{speed: 4}
+And if they see that chart,{wait: 8}{b}
+you're finished.{nextpage_button}{name: 3328}{speed: 8}
+......{nextpage_button}{name: 12032}{speed: 3}
+...{wait: 20}Leaving me holding the{b}
+short straw.{nextpage_button}{speed: 5}
+But if I'm going down{speed: 8}...{wait: 30} {speed: 3}I'll{b}
+want some company.{wait: 16} You!{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+And what happened next!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 334}{wait: 32}{person: 13 335 334}{name: 3328}{hidetextbox: 0}{speed: 5}
+He jumped at me,{wait: 8} and knocked{b}
+me to the floor!{p}{speed: 5}
+Then,{wait: 14} he took that cord{speed: 8}{0x5a}...{p}{hidetextbox: 1}{bgcolor: 1025 8 31}{wait: 1}{bg: 134}{person: 0 0 0}{sound: 48 1}{bgcolor: 770 1 31}{wait: 15}{wait: 80}{hidetextbox: 0}{speed: 5}
+...{wait: 20}Pal Meraktis was serious.{wait: 16}{b}{speed: 3}
+Deadly serious.{p}{speed: 2}
+He really tried to strangle{b}{shake: 30 0}{bgcolor: 2305 8 31}
+me.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 4095}{person: 0 0 0}{fademusic: 120}{bgcolor: 772 1 31}{wait: 25}{hidetextbox: 0}{speed: 5}
+I{speed: 8}...{wait: 20} {speed: 4}I must have blacked out.{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{bgcolor: 1028 1 31}{wait: 25}{wait: 30}{bg: 25}{person: 4 58 58}{bgcolor: 772 1 31}{wait: 25}{wait: 45}{bgcolor: 1025 1 31}{wait: 1}{bg: 26}{person: 6 150 150}{bgcolor: 772 1 31}{wait: 25}{wait: 45}{bgcolor: 1025 1 31}{wait: 1}{bg: 28}{person: 5 100 100}{bgcolor: 772 1 31}{wait: 25}{wait: 45}{bgcolor: 1025 1 31}{wait: 1}{bg: 29}{person: 10 264 264}{bgcolor: 772 1 31}{wait: 25}{wait: 40}{person: 10 265 264}{name: 2560}{hidetextbox: 0}{speed: 5}
+So...{wait: 20} {speed: 3}you were {person: 10 263 262}{sound: 52 1}{bgcolor: 2305 8 31}the{wait: 6} victim!{wait_noanim: 30}{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{showphoto: 77}{speed: 4}
+And the{wait: 8} {color: 1}red splotch{color: 0} on the{wait_noanim: 25}{b}{person: 6 146 145}
+cord...{wait: 20} {speed: 3}was your lipstick.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 2 4096 13 331}{wait: 32}{person: 13 332 331}{name: 3328}{hidetextbox: 0}{speed: 4}
+I...{wait: 20} I didn't want to remember{b}
+that night.{p}{speed: 3}
+That's why I didn't bring it{b}
+up.{nextpage_button}{person: 13 335 334}
+There...{wait: 20} Are you happy now?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Eh...{nextpage_button}{bg: 27}{person: 13 332 331}{name: 3328}
+I was out cold,{wait: 12} almost killed!{p}
+And you claim I then snuck{b}
+into that noodle stand...{p}{person: 13 335 334}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+But {bgcolor: 2305 8 31}how coul{bgcolor: 2305 8 31}d I!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{person: 4 60 60}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Aaa{bgcolor: 2305 8 31}aaa{bgcolor: 2305 8 31}ack!{wait: 40}{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}{hidetextbox: 1}{wait: 40}{bgcolor: 516 1 31}{wait: 25}{nextpage_nobutton}{bg: 4095}{person: 0 0 0}{bgcolor: 257 8 31}{wait: 1}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{fademusic: 0}{music: 1 0}{speed: 4}
+Well,{wait: 12} one thing is clear.{p}{person: 10 263 262}{speed: 3}
+We now know what really{b}
+happened at the Meraktis{b}
+Clinic.{p}{person: 10 266 266}{speed: 3}
+And it would seem that our{b}{showphoto: 52}{person: 10 263 262}
+victim was not entirely{b}
+without blame himself!{nextpage_button}{bganim: 98 579}{bg: 27}{person: 13 332 331}{name: 3328}
+I...{wait: 20} I'm sorry.{p}{speed: 5}
+I get so nervous just thinking{b}
+of it,{wait: 8} it's hard to breathe.{nextpage_button}{person: 13 332 331}{speed: 5}
+I've told you everything.{0x5a}{wait: 30}{b}{person: 13 335 334}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Can I go home now?{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 6}
+Hmm...{nextpage_button}{person: 10 263 262}{speed: 4}
+You bear some responsibility{b}
+for events that day,{wait: 8} true.{nextpage_button}{person: 10 266 266}{speed: 3}
+Yet,{wait: 8} if you were also a{b}
+victim...{p}{person: 10 259 258}{speed: 3}
+...{wait: 20}this court would owe you{b}
+some sympathy.{nextpage_button}{person: 10 263 262}{speed: 4}
+...{wait: 16}Well,{wait: 8} Mr. Justice?{p}{speed: 3}
+I believe this clears up the{b}
+remaining questions for{b}
+Ms. Tiala.{nextpage_button}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{speed: 5}{color: 2}
+(When did this happen!?){nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 331}{wait: 32}{person: 13 331 331}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+(Suddenly,{wait: 8} everyone's{b}
+sympathizing with her!){color: 0}{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{speed: 4}
+I don't know what to think{b}{person: 5 105 104}
+anymore,{wait: 8} Apollo{speed: 8}...{p}
+I mean,{wait: 8} is that it?{wait_noanim: 30}{p}{person: 5 103 102}{speed: 4}
+Do we know everything we need{b}
+to know about Ms. Tiala?{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 2}
+Very well!{wait: 20} This finishes the{b}
+cross-examination of this...{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 26}{person: 6 170 170}{sound: 165 1}{0x63}{person: 6 171 171}{0x63}{person: 6 172 172}{0x63}{person: 6 173 173}{0x63}{person: 6 174 174}{0x63}{person: 6 175 175}{0x63}{person: 6 176 176}{0x63}{0x63}{name: 13568}{sound: 50 2}{shake: 30 0}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+Heh.{wait: 30} {speed: 4}Heh heh heh.{nextpage_button}{speed: 5}
+Not so fast.{wait: 16} This party's{wait_noanim: 30}{b}
+just getting started!{nextpage_button}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{person: 6 157 156}{sound: 50 1}{shake: 30 0}{bgcolor: 2305 8 31}{fademusic: 0}{music: 19 0}{speed: 2}
+Now,{wait: 10} we ro{bgcolor: 2305 8 31}ck!{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 2}
+W-{wait: 12}What!?{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{person: 6 149 148}{name: 13568}{hidetextbox: 0}{speed: 4}
+Those spikes on your head{b}
+are softer than they look...{nextpage_button}{person: 6 149 148}
+Or do you not have the{b}
+stomach to go all the way?{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Prosecutor Gavin...?{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{hidetextbox: 0}{speed: 3}
+Pal Meraktis choked Alita{b}
+Tiala...{p}{bg: 134}{person: 0 0 0}{bgcolor: 2305 8 31}
+...{wait: 20}She fell unconscious.{nextpage_button}{bg: 26}{person: 6 147 147}{speed: 5}
+But what happened next?{wait: 20}{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{0x5a}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{0x59}
+He's right!{wait: 20} {speed: 3}There is more{wait_noanim: 16}{b}{person: 5 103 102}
+we don't know!{nextpage_button}{name: 1024}{speed: 3}
+But...{wait: 16} she was choked hard{b}
+enough to leave that mark!{p}{person: 5 104 104}
+She would have been out for{b}
+a while!{nextpage_button}{person: 5 103 102}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Even still,{wait: 8} what if it was{b}
+her in that noodle stand!{nextpage_button}{person: 5 102 102}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...!{nextpage_button}{bg: 25}{person: 4 42 42}{speed: 4}{color: 2}
+(Alita Tiala,{wait: 8} half-dead...{wait: 20}{b}
+Dr. Meraktis pulling that{b}
+stand...){nextpage_button}{person: 4 58 58}{speed: 5}
+(And a{wait: 6} bullet{wait: 6} fired from{b}
+inside the noodle stand...){color: 0}{nextpage_button}{bg: 28}{person: 5 103 102}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+What if it's all true!?{p}{speed: 3}
+We might have already figured{b}
+out {color: 1}what truly happened{color: 0} that{b}
+night!{nextpage_button}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{speed: 3}
+Ms. Alita Tiala,{wait: 14} as you{b}
+can see...{p}{person: 4 66 65}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...we're not through with{b}
+you just yet.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 336}{wait: 32}{person: 13 337 336}{name: 3328}{hidetextbox: 0}{speed: 4}
+...{wait: 16}{speed: 3}You really want to blame{b}
+me for this murder,{wait: 8} don't you?{p}
+You,{wait: 8} too,{wait: 8} "Prosecutor"{wait: 8} Gavin.{b}{person: 13 340 339}{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{person: 6 146 145}{name: 13568}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Me?{wait: 20} {wait: 3}Fr{1988}ulein,{wait: 8} I only wish to{wait_noanim: 20}{b}{person: 6 149 148}
+know the truth.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}
+Well,{wait: 12} let's go back over what{b}
+we've learned up till now.{nextpage_button}{showphoto: 336}{person: 4 45 44}
+On the day of the murder,{wait: 8}{b}
+Wocky saw his check-up report.{p}
+...{wait: 20}From which he learned about{b}
+the bullet still inside him.{p}{removephoto}
+So,{wait: 8} he took {wait_noanim: 15}{showphoto: 327}{person: 4 59 58}a pistol from the{b}
+Family stash...{p}{person: 4 41 40}
+...{wait: 20}with the intent to give{b}
+Dr. Meraktis some of{wait: 6} "his own{b}
+medicine".{nextpage_button}{bganim: 98 579}{bg: 28}{person: 5 105 104}{name: 1280}
+And Ms. Tiala heard about{b}
+this from Wocky.{p}{person: 5 101 100}
+So she went to the Meraktis{b}
+Clinic ahead of him!{nextpage_button}{bg: 27}{person: 13 336 336}
+...{wait: 20}In order to get rid of the{b}
+chart with her signature!{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{speed: 5}
+But then...{wait: 20}{b}{speed: 3}
+something{wait: 6} happened.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 134}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{bgcolor: 516 1 31}{wait: 25}{bg: 27}{person: 13 340 339}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 3328}{hidetextbox: 0}{0x59}{speed: 4}
+...{wait: 20}Sounds like you've figured{b}
+it all out.{p}{speed: 3}
+But remember, I was the{b}
+victim!{wait: 16} I was out cold.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 4}
+But,{wait: 8} what about {person: 4 37 36}{sound: 52 1}{bgcolor: 2305 8 31}Dr. Meraktis?{wait_noanim: 20}{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 3}
+That does seem to be the{b}
+problem...{p}
+He had just{wait: 6} strangled{wait: 6} Alita{b}
+Tiala,{wait: 10} perhaps,{wait: 10} he thought,{wait: 8}{b}
+to death.{nextpage_button}{person: 6 146 145}
+What did he do after his{b}
+crime?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 13 336}{wait: 32}{person: 13 337 336}{name: 3328}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+I was just knocked out!{b}
+Not dead!{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 4}
+From the state of his clinic,{wait: 8}{b}
+and the scene in the park...{p}
+...I think it's clear what{b}
+the good doctor did next.{nextpage_button}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{sound: 26 1}{shake: 30 0}{speed: 2}
+Well,{wait: 8} Herr Forehead?{wait: 16}{b}{speed: 3}
+Care to guess?{p}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 58 58}{name: 1024}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+...!{nextpage_button}{endjmp}
+
+{{18}}
+{bop}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 3}Well,{wait: 8} Mr. Justice?{wait: 16} {speed: 2}What did{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Dr. Meraktis do!?{p}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 4}{color: 2}
+(Maybe he did think he{b}
+killed Alita Tiala...){p}{0x6c: 0}{0x6e: 20}{person: 4 36 36}
+(Do I have evidence to show{b}
+what he did next...?){color: 0}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{0x6d: 0}{fademusic: 45}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{sound: 26 1}{bgcolor: 2305 8 31}{speed: 2}This evidence shows what{b}
+he did next!{p}{bg: 29}{name: 2560}{person: 10 264 264}{speed: 8}
+...{p}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+...{wait: 20}Shows what,{wait: 8} Herr Forehead?{p}{bg: 29}{name: 2560}{person: 10 263 262}{0x6c: 0}{0x6e: 20}
+Your smile has a sort of{b}
+sick desperation to it,{wait: 8}{b}
+Mr. Justice.{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 25}{person: 4 51 51}{name: 1024}{speed: 5}{color: 2}
+(What,{wait: 8} this smile?){color: 0}{wait: 30}{0x23: 0}{music: 255 60}{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 3}
+...{wait: 20}Let's try again,{wait: 10} shall we?{nextpage_button}{jmp: 146}{endjmp}
+
+{{20}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{showphoto: 314}{speed: 3}A large quantity of bowls were{b}
+found in the clinic.{nextpage_button}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bganim: 98 579}{bg: 222}{person: 0 0 0}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}
+Bowls that belonged in a{b}
+certain noodle stand.{nextpage_button}{speed: 3}
+Which means the stand was at{b}
+that clinic.{nextpage_button}{fademusic: 30}{0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{0x5f: 4 1 1}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Why?{wait: 20} Because Dr. Meraktis{b}
+stole it and brought it there!{nextpage_button}{hideperson}{0x26: 0}{bg: 27}{person: 13 324 323}{animation: 149 1}{name: 3328}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+What,{wait: 12} "killing"{wait: 6} me disturbed{b}
+him that much?{nextpage_button}{person: 13 340 339}{speed: 3}
+So much he randomly stole a{b}
+noodle stand!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 4}
+It wasn't so "random".{wait: 12}{b}{speed: 3}
+Remember, {person: 4 37 36}{sound: 52 1}{bgcolor: 2305 8 31}he removed all{b}
+the bowls{speed: 8}...{nextpage_button}{bg: 28}{person: 5 99 98}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Maybe...{wait: 20} {speed: 3}because the stand{b}
+was heavy?{nextpage_button}{person: 5 98 98}{name: 1024}{speed: 4}
+Or he wanted to put something{b}
+in the stand in their place{speed: 8}...{nextpage_button}{bg: 29}{person: 10 264 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Ah...{nextpage_button}{person: 10 265 264}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Wait,{wait: 8} you don't mean...!{nextpage_button}{bg: 25}{person: 4 48 47}{name: 1024}{speed: 4}
+I do.{nextpage_button}{jmp: 150}{endjmp}
+
+{{21}}
+{bop}{0x6d: 0}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{showphoto: 328}{speed: 4}...As his next move,{b}
+Dr. Mer{bgcolor: 2305 8 31}aktis...{p}{fademusic: 30}{person: 4 64 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 20}stole Guy Eldoon's noodle{b}
+stand!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 13 323}{wait: 32}{person: 13 324 323}{animation: 149 1}{name: 3328}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+What,{wait: 12} "killing" me disturbed{b}
+him that much?{nextpage_button}{person: 13 340 339}{speed: 3}
+So much he randomly stole a{b}
+noodle stand!?{nextpage_button}{bg: 25}{person: 4 45 44}{name: 1024}{showphoto: 314}{speed: 4}
+It wasn't so "random".{wait: 12}{b}{speed: 3}
+Remember all the bowls in the{b}
+clinic's foyer?{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bganim: 98 579}{bg: 222}{person: 0 0 0}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}
+Bowls that belonged inside{b}
+that stand?{wait: 10} I think it's{b}
+pretty obvious, don't you?{nextpage_button}{bg: 25}{person: 4 41 40}{0x5f: 4 1 1}{name: 1024}{hidetextbox: 0}{speed: 4}
+That stand was at the clinic.{wait_noanim: 20}{b}{person: 4 37 36}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+However, the question is why{b}
+did he remove the bowls?{nextpage_button}{bg: 28}{person: 5 99 98}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Maybe...{wait: 20} because the stand{b}
+was heavy?{nextpage_button}{person: 5 98 98}{name: 1024}
+Or he wanted to put something{b}
+in the stand in their place{speed: 8}...{nextpage_button}{bg: 29}{person: 10 264 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Ah...{nextpage_button}{person: 10 265 264}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Wait,{wait: 8} you don't mean...!{nextpage_button}{bg: 25}{person: 4 48 47}{name: 1024}{speed: 4}
+I do.{nextpage_button}{endjmp}
+
+{{22}}
+{bop}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{speed: 4}Dr. Meraktis did replace those{b}
+bowls with something{speed: 8}...{nextpage_button}{fademusic: 0}{music: 7 0}{person: 4 64 65}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 20}your{wait: 6} {bgcolor: 2305 8 31}"{color: 1}corpse{color: 0}",{wait: 6} Ms. Tiala!{wait: 20}{b}{nextpage_button}{endjmp}
+
+{{23}}
+{bop}{endjmp}
+
+{{24}}
+{bop}{hidetextbox: 1}{swoosh: 0 4096 13 323}{wait: 32}{person: 13 324 323}{animation: 149 1}{name: 3328}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}M-{wait: 12}{bgcolor: 2305 8 31}My "corpse"!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 3}
+Dr. Meraktis panicked. He{b}
+thought he'd{wait: 6} killed{wait: 6} you...{p}{bg: 26}{person: 6 146 145}{name: 13568}
+...{wait: 20}His next move would be to{b}{sound: 52 1}{bgcolor: 2305 8 31}
+dispose of the body!{p}{bg: 27}{person: 13 324 323}{animation: 149 1}{name: 3328}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Th-{wait: 8}That's crazy talk!{wait: 20} {speed: 3}You're{b}
+all crazy!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}
+Then let's think about it...{wait: 20}{b}
+logically.{nextpage_button}{person: 4 41 40}
+The doctor had a{wait: 8} {color: 1}place{color: 0}{wait: 6} to{b}
+dispose of you in mind...{p}{speed: 4}
+...{wait: 20}But on his way there{speed: 8}...{0x5a}{p}{bg: 117}{person: 0 0 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 20}who should he run into but{b}
+the defendant,{wait: 8} Wocky Kitaki!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 26}{person: 6 149 148}{name: 13568}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}I question your{wait: 6} "logic".{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 3}
+What's this,{wait: 8} Prosecutor Gavin?{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}
+The park is a dead end.{wait: 20}{b}
+Why would he head in that{b}
+direction to begin with?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 13 323}{wait: 32}{person: 13 324 323}{animation: 149 1}{name: 3328}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+That's right!{wait: 16} {speed: 3}He had no{b}
+reason to go there!{b}
+...Oh, now I get it!{p}
+It was a trick!{wait_noanim: 30} {person: 13 335 334}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}That spoiled{b}
+brat made him do it! He made{b}
+the doctor steal the stand!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{person: 4 41 40}{name: 1024}{hidetextbox: 0}
+Tell me{0x5a}{speed: 8}...{wait: 12}{0x59} {speed: 4}Why would someone{b}
+go to a{wait: 6} "dead end"?{nextpage_button}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 20}Unless the park was his{b}{color: 1}
+destination{color: 0}!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 323}{wait: 32}{person: 13 324 323}{animation: 149 1}{name: 3328}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Wh-{wait: 12}What...?{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Apparently,{wait: 8} the defense has{b}
+an idea.{p}{person: 10 263 262}
+Tell us {color: 1}where{color: 0} Dr. Meraktis was{b}
+heading with the stand!{nextpage_button}{endjmp}
+
+{{25}}
+{bop}{bg: 92}{person: 0 0 0}{name: 2560}{speed: 4}Here,{wait: 8} please show us on this{b}
+diagram.{nextpage_button}{0x6c: 0}{0x6e: 20}{name: 2560}{speed: 3}{color: 3}
+To where exactly was the{b}
+victim dragging that stand?{color: 0}{0x3e: 8}{wait: 60}{0x3f}{endjmp}
+
+{{26}}
+{bop}{littlesprite: 256}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 66 65}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}The victim was heading here!{p}{person: 4 65 65}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{bg: 26}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 4}
+Ah yes,{wait: 8} of course.{wait: 16} There.{p}{person: 6 146 145}
+...{wait: 20}Why?{p}{bg: 25}{name: 1024}{person: 4 40 40}{fademusic: 60}
+............{p}{person: 4 50 49}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+I'm young, Your Honor.{b}
+I'm still making up my mind{b}
+about a lot of things.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{0x6c: 0}{0x6e: 20}
+...{wait: 20}Perhaps you should leave{b}
+the court until you grow up.{b}{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{color: 2}
+(...{wait: 20}Ugh.){color: 0}{0x23: 0}{music: 255 60}{p}{jmp: 153}{endjmp}
+
+{{27}}
+{bop}{littlesprite: 256}{0x6d: 0}{bg: 29}{person: 10 265 264}{name: 2560}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}There?{wait: 6} {speed: 2}That's a...{wait: 20} a river!{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{speed: 4}
+Yes,{wait: 8} Your Honor.{wait: 16} {person: 4 37 36}I scarcely{b}
+need to explain why.{0x5a}{p}{bg: 26}{person: 6 146 145}{name: 13568}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}A perfect place to dispose{b}
+of a body.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 13 323}{wait: 32}{person: 13 324 323}{animation: 149 1}{name: 3328}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+H-{wait: 8}He was going to throw me{b}
+into that river!?{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 148}{wait: 32}{person: 6 149 148}{name: 13568}{hidetextbox: 0}{speed: 3}
+He didn't have many other{b}
+options,{wait: 10} Fr{1988}ulein.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 13 323}{wait: 32}{person: 13 323 323}{animation: 149 1}{name: 3328}{hidetextbox: 0}{fademusic: 120}{speed: 6}
+.{speed: 8}.{speed: 10}.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 3}
+I believe this clears up all{b}
+of the remaining questions.{p}{bg: 117}{person: 0 0 0}
+The victim pulling the stand,{wait: 8}{b}
+and the defendant before him.{nextpage_button}{speed: 8}
+...{wait: 25}{speed: 3}And inside the stand,{wait: 15} {sound: 52 1}{bgcolor: 2305 8 31}{bg: 27}{person: 13 323 323}{animation: 149 1}you,{wait: 8}{b}
+Ms. Alita Tiala.{nextpage_button}{name: 3328}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+Urk...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}
+And then,{wait: 12} the denouement.{p}{speed: 4}
+Wesley Stickler,{wait: 8} of{b}{showphoto: 298}
+panty-snatching fame,{wait: 8}{b}
+walks up.{p}{speed: 4}
+Seeing the two men,{wait: 8} he shouts!{wait: 20}{b}{speed: 3}
+In that instant...{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 2561 1 31}{wait: 1}{bganim: 98 579}{fademusic: 0}{music: 9 0}{bg: 92}{person: 0 0 0}{0x75}{bop}{bop}{name: 1}{0x75}{pause}
+L{bop}{bop}{0x75}{music: 165 0}{bop}{0x75}{b}
+{16384}{bop}{bop}{bganim: 98 573}{bgcolor: 2308 1 31}{0x75}{music: 237 0}{bop}{0x75}{b}{b}{bop}{bop}{0x75}{sound: 0 0}{bop}{bganim: 98 574}{sound: 49 1}{bgcolor: 2561 1 31}{wait: 1}{bganim: 98 573}{bgcolor: 2308 1 31}{0x75}{pause}
+{310}{bop}{bop}{0x75}{music: 310 0}{bop}{0x75}{b}{b}{bop}{bop}{0x75}{music: 337 0}{bop}{0x75}{b}{b}{bop}{bop}{0x75}{sound: 0 0}{bop}{bganim: 98 574}{sound: 49 1}{bgcolor: 2561 1 31}{wait: 1}{0x75}{pause}
+{338}{bop}{bop}{0x75}{music: 338 0}{bop}{0x75}{b}{b}{bop}{bop}{bgcolor: 2308 1 31}{0x75}{music: 346 0}{bop}{0x75}{b}{b}{bop}{bop}{0x75}{sound: 0 0}{bop}{wait: 60}{bgcolor: 2564 1 31}{wait: 25}{0x75}{b}{p}{bop}{bop}{bg: 27}{person: 13 324 323}{animation: 149 1}{0x5a}{name: 3328}{bgcolor: 2308 1 31}{wait: 25}{hidetextbox: 0}{0x59}{speed: 8}
+So{0x5a}...{0x59}{wait: 20} {speed: 3}I shot him?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 4}
+You were the only one who{b}
+could have stolen Wocky's{b}
+pistol.{p}{person: 4 64 65}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+It had to b{bgcolor: 2305 8 31}e you!{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 65 1}{sound: 22 1}{wait: 120}{bg: 29}{person: 10 263 262}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+...{wait: 20}Well,{wait: 12} Ms. Tiala?{nextpage_button}{bg: 27}{person: 13 331 331}{name: 3328}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 30}{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hmph.{nextpage_button}{person: 13 327 326}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 8}
+...{wait: 12}{speed: 3}Nice work.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 4}
+...{wait: 20}You mean,{wait: 8} I'm right?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 320}{wait: 32}{person: 13 321 320}{name: 3328}{hidetextbox: 0}
+I mean you've done a fine{b}
+job dreaming up a story...{p}{person: 13 327 326}
+...{wait: 20}to get that spoiled brat{b}
+off the hook!{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+You're the one who's dreaming!{p}{speed: 3}
+Apollo's backed up everything{b}
+he's said with facts!{p}{speed: 4}
+If you're so sure he's making{b}
+it up,{wait: 8} give us another reason!{p}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Why was Dr. Meraktis pulling{b}
+that stand through the park!?{nextpage_button}{bg: 27}{person: 13 329 328}{name: 3328}{speed: 5}
+Who knows?{p}{person: 13 321 320}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+But there's one gaping hole{b}
+in your logic.{p}{speed: 5}
+I think Mr. Gavin knows{b}{person: 13 327 326}{speed: 4}
+whereof I speak!{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Wher{bgcolor: 2305 8 31}eof what!?{nextpage_button}{person: 4 58 58}{speed: 4}{color: 2}
+(I can't believe she's still{b}
+trying to deny this!){color: 0}{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Is this true,{wait: 12} Prosecutor{b}
+Gavin?{nextpage_button}{bg: 26}{person: 6 147 147}{name: 13568}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 14}{speed: 3}Must I always be the one{b}{person: 6 149 148}
+to point out Herr Forehead's{b}
+errors?{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...!{wait: 16}{b}{speed: 3}{color: 2}
+(Ack,{wait: 8} {speed: 2}maybe there really{b}
+is something!){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{person: 6 149 148}{name: 13568}{hidetextbox: 0}{speed: 4}
+I believe the Fr{1988}ulein speaks{b}
+of...{wait: 20} Herr Doktor's car.{nextpage_button}{bg: 25}{person: 4 41 40}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+His car...?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 326}{wait: 32}{person: 13 327 326}{name: 3328}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+That's right!{wait: 16} {speed: 3}The Meraktis{b}
+Clinic has that big garage!{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 4}
+In which sat...{wait: 20} a green{b}
+sports car,{wait: 12} was it?{nextpage_button}{bg: 27}{person: 13 340 339}{name: 3328}{speed: 4}
+Why would he steal {wait_noanim: 30}{person: 13 337 336}the stand{b}
+in the first place!?{p}{sound: 52 1}{bgcolor: 2305 8 31}
+If he wanted to carry a body,{wait: 8}{b}
+he would have used his car!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 5}
+Ack...!{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 4}
+And so we find our victim{b}
+without probable cause to{b}
+steal that stand{speed: 8}{0x5a}...{nextpage_button}{person: 6 146 145}{speed: 4}
+...{wait: 20}and our defense without{b}
+a case.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 26 1}{wait: 60}{bg: 28}{person: 5 101 100}{name: 1280}{hidetextbox: 0}{speed: 2}
+Um...{wait: 20} I have an idea!{wait: 14}{p}{speed: 3}
+You know that green car?{p}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+I bet it wouldn't run!{wait: 16}{b}
+It was broken!{nextpage_button}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 4}
+Ah,{wait: 8} what an excellent{b}
+counter-argument,{wait: 8} Fr{1988}ulein.{p}{person: 6 146 145}
+Too bad you're quite wrong.{nextpage_button}{bg: 28}{person: 5 100 100}{name: 1280}{speed: 5}
+Eh...{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}{speed: 3}
+Don't tell me you've forgotten{b}
+what happened to your daddy?{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{speed: 5}
+Daddy...?{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Th-{wait: 12}That's right...!{nextpage_button}{person: 4 43 42}{speed: 4}
+That night,{wait: 12}{bgcolor: 1025 8 31}{wait: 1}{bg: 126}{person: 0 0 0}{bgcolor: 769 1 31}{wait: 7} the car that hit{wait_noanim: 20}{b}
+Mr. Wright...{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}was that green sports car!{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Oh, yes!{b}
+I-I'd nearly forgotten{b}
+about it!{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}{speed: 3}
+Afterward,{wait: 8} he drove it back{b}
+to that garage.{wait: 16} It ran fine.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 13 326}{wait: 32}{person: 13 327 326}{name: 3328}{hidetextbox: 0}{speed: 5}
+...{wait: 16}That's right.{p}{person: 13 329 328}{speed: 3}
+So why didn't he use his{b}
+beloved sports car,{wait: 8} hmm?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Urk...!{p}{fademusic: 45}{bg: 26}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{name: 13568}{speed: 4}
+A glaring contradiction,{wait: 6} to{b}
+be sure.{p}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{fademusic: 0}{music: 19 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+More glaring than your{b}
+forehead.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{speed: 6}
+No...{wait: 40}{b}{person: 4 60 60}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}
+Noo{bgcolor: 2305 8 31}ooooo{bgcolor: 2305 8 31}oooo!{wait: 70}{nextpage_nobutton}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 65 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Order!{wait: 12} Order!{wait: 12} Order!{wait_noanim: 30}{b}{person: 10 263 262}
+Well,{wait: 12} Mr. Justice?{p}
+Why didn't Dr. Meraktis use{b}{speed: 3}
+his car to carry the "body"?{nextpage_button}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 6}
+Uh...{wait: 20} Um{shake: 30 0}m...{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}{speed: 4}
+Is that a groan of surrender{b}
+I hear?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{speed: 8}
+......{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}{hidetextbox: 0}{speed: 5}
+Some advice: Now's a good time{b}
+to review all you know.{p}{person: 6 146 145}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}Everything you've{wait: 6} learned{wait: 6}{b}
+over the last two days.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{speed: 5}{color: 2}
+(Everything I've{wait: 6} learned{speed: 8}...?){color: 0}{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 2}
+Mr. Justice,{wait: 8} this{b}
+contradiction casts doubt{b}
+on your entire case!{nextpage_button}{endjmp}
+
+{{28}}
+{bop}{bg: 29}{person: 10 263 262}{name: 2560}This is truly your last{b}
+chance!{p}{person: 10 259 258}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+The defense will explain to{b}
+us what happened that night!{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 46}{animation: 48 1}{b}{3args_choice_jmp: 157 159 158}{endjmp}
+
+{{29}}
+{bop}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}Actually...{wait: 20} It was someone{b}
+else who stole that stand!{p}{bg: 29}{name: 2560}{person: 10 263 262}
+B-{wait: 8}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}But then why was the victim{b}
+pulling it!?{p}{bg: 25}{name: 1024}{person: 4 59 58}
+W{shake: 30 0}ell...{wait: 8}{b}{bgcolor: 2305 8 31}{speed: 5}
+Um...{p}{person: 4 66 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+He would have had to steal{b}
+it from someone else!{p}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 8}
+...{p}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+We're back where we started,{wait: 8}{b}
+Mr. Justice.{p}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+Without an explanation for{b}
+why he didn't use the car.{p}{bg: 29}{name: 2560}{person: 10 259 258}
+I'll ask you again!{p}{jmp: 156}{endjmp}
+
+{{30}}
+{bop}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{speed: 2}The victim...{wait: 20} used the car{b}{shake: 30 0}{bgcolor: 2305 8 31}
+to carry the body!{p}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 4}
+Ah,{wait: 8} so you're throwing out{b}
+everything you've proven up{b}
+until now?{p}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 3}
+Well,{wait: 8} if the car wasn't{b}
+broken...{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 4}
+I admire your adaptability in{b}{0x59}
+the face of impossible odds.{p}{person: 6 149 148}
+Yet this does not explain why{b}
+he was pulling that stand.{p}{person: 6 148 148}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{speed: 5}{color: 2}
+(What's going on...?){p}{person: 4 36 36}{speed: 4}
+(Is Prosecutor Gavin trying{b}
+to tell me something...?){color: 0}{p}{bg: 29}{name: 2560}{person: 10 263 262}
+Perhaps we need to ask you{b}
+again.{p}{jmp: 156}{endjmp}
+
+{{31}}
+{bop}{hidetextbox: 1}{bg: 25}{person: 4 58 58}{bgcolor: 516 1 8}{wait: 25}{name: 1024}{bg: 4095}{bgcolor: 257 0 31}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 4}{color: 2}(I have an idea...){nextpage_button}{person: 4 36 36}{speed: 3}
+(It's all coming together!){color: 0}{p}{hidetextbox: 1}{bgcolor: 513 0 8}{wait: 1}{bg: 25}{bgcolor: 260 1 8}{wait: 25}{person: 4 37 36}{hidetextbox: 0}{0x5a}
+...{wait: 20}{0x59}That night, {wait_noanim: 30}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}Dr. Meraktis{b}
+couldn't use his car.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 323}{wait: 32}{bg: 27}{person: 13 324 323}{animation: 149 1}{name: 3328}{hidetextbox: 0}{speed: 2}
+Hah!{wait: 16} Now you're making even{b}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+less sense than usual!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 4}
+...{wait: 16}Not according to my{wait: 6}{b}
+information{wait: 6},{wait: 8} Ms. Tiala.{p}
+Put one and one together,{wait: 8} {person: 4 48 47}and{b}
+the explanation is simple!{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}
+If it's so simple,{wait: 8} perhaps you{b}
+can show us some evidence?{nextpage_button}{endjmp}
+
+{{32}}
+{bop}{0x6c: 0}{0x6e: 20}{bg: 29}{person: 10 263 262}{name: 2560}Show us proof why the car{b}
+wouldn't run that night!{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{33}}
+{bop}{0x6d: 0}{fademusic: 45}{bg: 29}{name: 2560}{person: 10 265 264}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}This is proof of why the car{b}
+broke down that night!?{p}{person: 10 259 258}
+Well,{wait: 8} Prosecutor Gavin?{p}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 5}
+Ah,{wait: 8} it's proof of a{b}
+malfunction,{wait: 8} alright.{nextpage_button}{person: 6 149 148}
+...{wait: 20}A malfunction in Herr{b}
+Forehead's brain.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{0x6c: 0}{0x6e: 20}
+The court accepts this{b}
+evidence!{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(Hah,{wait: 8} hah,{wait: 10} very funny,{wait: 8} guys.){color: 0}{0x23: 0}{music: 255 60}{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+Mr. Justice!{wait: 10} You will mend{b}
+your malfunction and present{b}
+evidence that makes sense!{nextpage_button}{jmp: 160}{endjmp}
+
+{{34}}
+{bop}{0x6d: 0}{bg: 29}{person: 10 266 266}{name: 2560}{hidetextbox: 0}{speed: 2}Let's see now...{wait: 16}{b}{showphoto: 59}{person: 10 265 264}{fademusic: 30}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{bgcolor: 2305 8 31}
+Pan{bgcolor: 2305 8 31}ties!? Aga{bgcolor: 2305 8 31}in!?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 65 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 28}{person: 5 101 100}{name: 1280}{hidetextbox: 0}{speed: 3}
+All sorts of things come{b}
+out of my panties!{p}{person: 5 99 98}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 6}
+...{wait: 20}{speed: 4}Even the truth.{wait_noanim: 35}{nextpage_button}{bg: 27}{person: 13 336 336}{name: 3328}{bgcolor: 2305 8 31}{speed: 5}
+...?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 4}
+Another crime was committed{b}
+the night of the murder.{p}{speed: 3}
+The theft of these panties!{wait: 12}{b}
+The latest in a string of{b}
+similar thefts,{wait: 8} actually.{p}{sound: 52 1}{bgcolor: 2305 8 31}{person: 4 48 47}{speed: 5}
+But that night, {wait_noanim: 30}{person: 4 48 47}the snatcher{b}
+was caught in the act!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{fademusic: 0}{music: 4 0}{bg: 124}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}
+A brave young girl chased{b}
+the thief until he hid...{nextpage_button}{bg: 120}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 20}in the Meraktis Clinic{b}
+garage.{nextpage_button}{bg: 27}{person: 13 324 323}{animation: 149 1}{name: 3328}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Wh-{wait: 16}{bgcolor: 2305 8 31}Whaaat!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 44}{wait: 32}{bg: 25}{person: 4 45 44}{name: 1024}{hidetextbox: 0}
+The snatcher hid the panties{b}
+there before running...{p}
+...{wait: 20}Perhaps someone in this{b}
+court remembers {wait_noanim: 20}{person: 4 37 36}where he{b}
+hid them?{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 6}
+Why...{wait: 20} {person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{fademusic: 60}{speed: 2}weren't they found in{b}
+the car's exhaust pipe?{nextpage_button}{bg: 25}{person: 4 38 38}{name: 1024}{speed: 5}
+...{wait: 20}Exactly.{0x63}{nextpage_button}{person: 4 37 36}
+By the way, I learned{b}
+something yesterday...{p}{person: 4 41 40}
+...{wait: 20}A very important piece{b}
+of{wait: 6} information.{nextpage_button}{person: 4 64 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 20}And I learned it from{bgcolor: 2305 8 31} you,{wait: 8}{b}{bg: 26}{person: 6 145 145}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 19 0}
+Prosecutor Gavin!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 233}{person: 5 72 69}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 1280}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{speed: 3}
+Um,{wait: 8} so you were here{b}
+investigating?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 13568}{person: 6 138 137}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+And I was on my way home{speed: 8}...{wait_noanim: 20}{b}{person: 6 140 139}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+when my hog gave up the ghost.{nextpage_button}{name: 1024}{speed: 5}
+Your hog...?{p}{name: 13568}{person: 6 134 133}{speed: 3}
+My motorcycle won't start.{wait: 12}{b}
+A {color: 1}clogged exhaust pipe{color: 0}...{nextpage_button}{name: 1280}{person: 5 82 81}{shake: 30 0}{bgcolor: 2305 8 31}
+Too bad!{wait: 16} It looks like such{b}
+a nice bike,{wait: 12} too.{p}{person: 5 76 75}
+Hard to believe that it could{b}
+break just from that!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 13568}{person: 6 134 133}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Cars,{wait: 8} motorbikes,{wait: 8} they're all{b}
+the same.{p}
+Clog the exhaust,{wait: 12} {color: 1}and they{b}
+won't run{color: 0}.{nextpage_button}{hidetextbox: 1}{wait: 20}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 27}{person: 13 324 323}{animation: 149 1}{0x5a}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{name: 3328}{hidetextbox: 0}{0x59}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+My,{wait: 8} how interesting.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 3}
+While Ms. Tiala and the{b}
+doctor were struggling...{p}
+...{wait: 20}the panty-snatcher snuck{b}
+into the Meraktis garage.{p}
+From that time,{wait: 12} until the time{b}{showphoto: 315}
+we found these...{nextpage_button}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 20}that car wouldn't start.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 13 323}{wait: 32}{person: 13 324 323}{animation: 149 1}{name: 3328}{0x5a}{hidetextbox: 0}{speed: 6}
+Wh{0x5a}...{wait: 16}{0x59}What{speed: 8}...!?{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{speed: 4}
+That's why Dr. Meraktis had{b}
+to use the noodle stand!{p}
+It was the next closest thing{b}
+he could think of!{p}{hidetextbox: 1}{fademusic: 30}{bg: 26}{person: 6 170 170}{sound: 165 1}{0x63}{person: 6 171 171}{0x63}{person: 6 172 172}{0x63}{person: 6 173 173}{0x63}{person: 6 174 174}{0x63}{person: 6 175 175}{0x63}{person: 6 176 176}{0x63}{0x63}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{person: 4 37 36}{name: 1024}{hidetextbox: 0}
+...{wait: 20}Well,{wait: 8} Ms. Tiala?{p}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{person: 4 66 65}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+This wraps your doubts up{b}
+quite nicely,{wait: 10}{bgcolor: 2305 8 31} I think!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 323}{wait: 32}{name: 3328}{person: 13 323 323}{animation: 149 1}{hidetextbox: 0}{speed: 6}
+.{speed: 8}.{person: 13 331 331}{speed: 10}.{wait_noanim: 60}{b}{person: 13 321 320}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+So it does.{nextpage_button}{hidetextbox: 1}{fademusic: 0}{music: 28 0}{bgcolor: 1028 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{bgcolor: 772 1 31}{wait: 25}{name: 3328}{hidetextbox: 0}{speed: 6}{color: 3}
+(Where{shake: 30 0}...){nextpage_button}{speed: 4}
+(Whe{shake: 30 0}re am I...?){nextpage_button}{speed: 5}
+(So dark...{wait: 12} Can't{shake: 30 0} see...{wait: 12}{b}
+...{wait: 20}Cramped...!){p}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+(The pain...{wait: 20}{b}
+my throat's burning...!){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 513 0 31}{wait: 1}{bg: 117}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{name: 12032}{hidetextbox: 0}{bgcolor: 2305 8 31}
+Wh-{speed: 4}What's your problem!?{nextpage_button}{name: 3584}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+You,{wait: 8} Doc!{wait: 16} I know what you did!{nextpage_button}{name: 12032}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}
+Ah.{bgcolor: 2305 8 31}.{wait: 20}.!{nextpage_button}{bg: 4095}{person: 0 0 0}{name: 3328}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}{color: 3}
+(...{wait: 20}Wocky?){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 513 0 31}{wait: 1}{bg: 117}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{name: 3584}{hidetextbox: 0}{speed: 3}
+...{wait: 20}You lied to me!{wait: 16} So you{b}
+know what I'm gonna do?{p}{speed: 4}
+I'm gonna give you a taste of{b}
+your own medicine,{wait: 8} man!{nextpage_button}{name: 12032}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+W-{wait: 8}{bgcolor: 2305 8 31}Wait!{wait: 20}{b}{speed: 3}
+Let me explain!{nextpage_button}{name: 3584}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+F-{wait: 8}Fine.{wait: 20} {speed: 4}I'll give you your{b}
+last request.{nextpage_button}{name: 12032}{speed: 2}
+Listen,{wait: 10} you're being tricked!{wait: 14}{b}{speed: 3}
+But not how you think!{nextpage_button}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+It's not just me{speed: 6}...{nextpage_button}{hidetextbox: 1}{bg: 4095}{name: 3328}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}{color: 3}
+(No...{bgcolor: 2305 8 31}!){nextpage_button}{bgcolor: 513 0 8}{wait: 1}{bganim: 98 573}{bg: 129}{speed: 5}
+(He'll ruin everything!{bgcolor: 260 1 8}{wait: 25}{wait: 30}{b}{speed: 8}
+...{wait: 20}{speed: 3}I have to stop him!){color: 0}{nextpage_button}{bganim: 98 574}{bg: 4095}{person: 0 0 0}{name: 7680}{sound: 26 1}{bgcolor: 2305 8 31}{speed: 2}
+C-{wait: 12}{bgcolor: 2305 8 31}{shake: 30 0}Cease this at once,{wait: 8}{b}
+y-{wait: 6}y-{wait: 6}you two!{wait: 30}{nextpage_nobutton}{hidetextbox: 1}{fademusic: 30}{sound: 96 1}{bgcolor: 1025 8 31}{wait: 1}{bg: 129}{bgcolor: 772 1 31}{wait: 25}{wait: 30}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{bgcolor: 257 8 31}{wait: 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 29}{person: 10 264 264}{bgcolor: 772 1 31}{wait: 25}{name: 2560}{wait: 40}{bgcolor: 1026 1 31}{wait: 15}{hidetextbox: 1}{bg: 26}{person: 6 150 150}{bgcolor: 772 1 31}{wait: 25}{name: 13568}{wait: 40}{bgcolor: 1026 1 31}{wait: 15}{hidetextbox: 1}{bg: 28}{person: 5 104 104}{bgcolor: 772 1 31}{wait: 25}{name: 1280}{wait: 40}{bgcolor: 1026 1 31}{wait: 15}{bg: 25}{person: 4 58 58}{bgcolor: 772 1 31}{wait: 25}{name: 1024}{wait: 40}{bgcolor: 1026 1 31}{wait: 15}{wait: 30}{bg: 27}{person: 13 320 320}{bgcolor: 772 1 31}{wait: 25}{wait: 60}{bg: 27}{name: 3328}{person: 13 329 328}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Funny.{wait: 16} {speed: 5}This isn't the way{wait_noanim: 30}{b}{person: 13 327 326}
+it was supposed to turn out.{p}{speed: 5}
+Oh well.{0x5a}{wait: 30}{b}{0x59}{person: 13 321 320}{speed: 3}
+Too bad.{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 65 1}{sound: 22 1}{wait: 120}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{name: 2560}{person: 10 266 266}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{person: 10 263 262}{speed: 5}
+There's still one mystery...{p}{speed: 3}
+How did you manage to{b}
+disappear {wait_noanim: 11}{person: 0 0 0}{bg: 129}{bgcolor: 2305 8 31}from that stand?{p}{bg: 27}{name: 3328}{person: 13 342 341}{fademusic: 0}{music: 28 120}
+In the silence after the shot,{wait: 8}{b}
+I heard the witness running...{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}
+I believe we heard as much{b}
+from Wesley Stickler.{p}{person: 6 146 145}
+He went to use a public phone{b}
+to inform the police.{p}{bg: 27}{name: 3328}{person: 13 321 320}
+...{wait: 12}Which is when I made my{b}
+escape.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 59 58}{hidetextbox: 0}
+...{wait: 12}Which is when you left that{b}{showphoto: 312}
+slipper print!{p}{bg: 27}{name: 3328}{person: 13 329 328}
+Dr. Meraktis didn't bother{b}
+taking my slippers off.{p}{person: 13 321 320}
+I threw them out after I{b}
+stepped in that paint,{wait: 8} though.{p}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{speed: 4}
+...{wait: 16}That was your mistake.{p}{bg: 27}{name: 3328}{person: 13 342 341}{speed: 3}
+No.{wait_noanim: 30}{b}{0x59}
+My biggest mistake{speed: 8}{0x5a}...{p}{person: 13 321 320}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 16}was coming to you for{b}
+help,{wait: 8} Mr. Justice!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Eh...{p}{bg: 27}{name: 3328}{person: 13 321 320}
+I believed in you!{wait: 16}{p}{person: 13 329 328}
+You and your{wait: 6} "Anything{b}
+Agency"{wait: 6}...{p}{speed: 4}
+If anyone would get Wocky{b}{person: 13 327 326}{sound: 52 1}{bgcolor: 2305 8 31}
+declared guilty it was you!{p}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{speed: 8}
+...{p}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bgcolor: 2052 1 31}{wait: 25}{bg: 29}{person: 10 258 258}{bgcolor: 1796 1 31}{wait: 25}{bg: 29}{name: 2560}{person: 10 263 262}{hidetextbox: 0}{fademusic: 0}{music: 1 0}{speed: 3}
+I believe we've reached a{b}
+conclusion of sorts.{p}{person: 10 263 262}{speed: 3}
+...{wait: 20}Prosecutor Gavin.{wait: 16} How is{b}
+Ms. Alita Tiala doing?{p}{bg: 26}{name: 13568}{person: 6 146 145}
+She's confessed to everything.{wait: 16}{b}
+We're processing her arrest{b}
+now.{nextpage_button}{bg: 28}{name: 1280}{person: 5 105 104}
+Prosecutor Gavin sure seems{b}
+calm for someone who just{b}
+lost...{p}{bg: 25}{name: 1024}{person: 4 36 36}{speed: 5}{color: 2}
+(I think he already knew...){p}{speed: 4}
+(He'd figured out she was the{b}
+killer a while ago...){color: 0}{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 26}{person: 6 149 148}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 13568}{hidetextbox: 0}{0x59}{speed: 5}
+Some advice: Now's a good time{b}
+to review all you know.{p}{person: 6 146 145}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}Everything you've learned{b}
+over the last two days.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 25}{person: 4 36 36}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{color: 2}
+(He lost...{wait: 16} {speed: 3}but I didn't{b}
+exactly win,{wait: 8} either.){color: 0}{p}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 3}
+...{wait: 20}Hmm?{wait: 16} Something the matter,{wait: 12}{b}
+Herr Forehead?{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Looks like it's time to{b}{person: 10 263 262}
+announce a verdict...{nextpage_button}{fademusic: 60}{person: 10 262 262}{hidetextbox: 1}{wait: 60}{guilty: 0}{0x4a}{bop}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 64 1}{sound: 22 1}{wait: 120}{0x4a}{b}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+Court is adjourned!{nextpage_button}{hidetextbox: 1}{wait: 40}{bgcolor: 516 1 31}{wait: 25}{endjmp}
+
+{{35}}
+{bop}{0x26: 0}{bg: 30}{person: 0 0 0}{name: 0}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 17,{wait: 8} 4:12 PM{b}
+District Court{b}
+Defendant Lobby No. 2{nextpage_button}{center_text: 0}{color: 0}{wait: 30}{speed: 255}{hidetextbox: 1}{fademusic: 0}{music: 36 0}{0x38: 1}{name: 1280}{person: 5 72 69}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Great job,{wait: 8} Apollo!{wait: 16} You did it!{p}{name: 1024}{person: 5 69 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Yeah,{wait: 8} we did,{wait: 8} somehow{speed: 5}...{wait: 35}{p}{name: 1280}{person: 5 76 75}
+Wocky's off the hook...{p}{person: 5 74 73}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 20}free to become the gangster{b}
+he's always wanted to be!{nextpage_button}{person: 5 68 67}{speed: 4}
+And he has you to thank{speed: 12}...{wait_noanim: 20}{nextpage_nobutton}{fademusic: 30}{name: 512}{person: 5 81 81}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Hey!{wait: 16} Attorney-man!{nextpage_button}{name: 3584}{person: 14 355 354}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+You're gonna pa{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}y for what you{b}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}
+did to my Alita,{wait: 8} homes!{0x23: 0}{music: 255 60}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+...{wait: 20}Or to blame,{wait: 8} I guess.{p}{name: 3584}{person: 14 355 354}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+You give my Alita back!{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Stupid pointy-head attorney{b}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}
+with a death-wish!{nextpage_button}{fademusic: 30}{name: 512}{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}
+Enough,{bgcolor: 2305 8 31}{wait: 25} Wo{shake: 30 2}cky!{nextpage_button}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{person: 17 403 403}{personvanish: 3 4}{wait: 64}{wait: 40}{fademusic: 0}{music: 20 0}{name: 1024}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Ah!{wait: 20}{speed: 5} Mr. Kitaki...{p}{name: 4352}{person: 17 404 403}{speed: 3}
+...{wait: 20}It's high time you opened{b}
+your eyes,{wait: 8} Wocky.{p}{name: 3584}{person: 14 355 354}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+What do you know,{wait: 8} old man!{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+I think it's 'bout time you{b}
+opened yours!{p}{person: 14 351 350}{speed: 3}
+Givin' up the life,{wait: 8} tryin' to{b}
+become some kinda businessman!{nextpage_button}{name: 4352}{person: 17 404 403}{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Don't talk about what you{b}
+don't understand,{wait: 8} Wocky!{nextpage_button}{name: 1280}{person: 5 76 75}{speed: 3}
+...{wait: 20}I'm afraid the guard is{b}
+going to throw them both out.{nextpage_button}{name: 1024}{speed: 4}
+...{wait: 20}If not in jail. Wouldn't{b}
+that be a happy ending.{nextpage_button}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hey,{wait: 12} maybe we can help them{b}
+out!{p}{person: 5 76 75}{speed: 3}
+We know {color: 1}why{color: 0} Mr. Kitaki needs{b}
+to make so much{wait: 6} money...{wait: 20}{b}
+Maybe we should tell Wocky.{p}{person: 5 74 73}
+Oh,{wait: 8} Wocky?{wait: 16} Apollo has{b}
+something to tell you!{p}{name: 1024}{person: 5 73 73}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Huh?{wait: 16} I do?{wait: 25}{b}{speed: 4}{color: 2}
+(Way to put me on the spot...){color: 0}{p}{name: 3584}{person: 14 356 356}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Eh?{wait: 16} Whazzat?{0x63}{p}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Show him the reason why,{wait: 16}{b}
+Apollo!{p}{person: 5 95 95}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1024}{person: 14 371 371}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{color: 2}{speed: 4}
+(Why is Mr. Kitaki trying to{b}
+become a business man...?){color: 0}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{36}}
+{bop}{fademusic: 60}{name: 3584}{person: 14 356 356}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}...{wait: 20}Eh?{wait: 16}{b}{speed: 3}
+You're bugging.{p}{name: 1024}{speed: 4}{color: 2}
+(I think that means I messed{b}
+up...){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4352}{person: 17 404 403}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Wocky,{wait: 10}{speed: 3} I don't care what{b}
+you think of me...{p}
+But you should know how{b}
+your mother feels.{p}{name: 1280}{person: 5 82 81}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}Little Plum?{p}{person: 5 75 75}{name: 1024}{color: 2}
+(What was that she said...?){color: 0}{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 227}{person: 16 389 389}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 4096}{person: 16 390 389}{hidetextbox: 0}{speed: 4}
+It pays...{wait: 15} {speed: 3}but we need a lot{b}
+of money right now.{p}{person: 16 392 391}{speed: 3}
+Clean money,{wait: 10} that is.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 30}{person: 14 359 359}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}
+(Wait,{wait: 16} could she mean{speed: 8}...?){color: 0}{p}{name: 3584}{person: 14 362 361}
+Wh-{wait: 12}{shake: 30 0}{speed: 2}What's this about,{wait: 8} old man?{bgcolor: 2305 8 31}{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{jmp: 166}{endjmp}
+
+{{37}}
+{bop}{name: 3584}{fademusic: 60}{person: 14 371 371}{hidetextbox: 0}{name: 1024}Think about it,{wait: 8} Wocky...{nextpage_button}
+Think about {sound: 52 1}{bgcolor: 2305 8 31}your condition.{wait: 30}{nextpage_button}{name: 3584}{person: 14 361 361}{sound: 51 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...!{p}{name: 1024}{person: 14 361 361}{speed: 3}
+I talked with your mother,{wait: 8}{b}
+Little Plum,{wait: 8} yesterday.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{fademusic: 45}{bg: 227}{person: 16 389 389}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 4096}{person: 16 390 389}{hidetextbox: 0}{speed: 4}
+It pays...{wait: 15} {speed: 3}but we need a lot{b}
+of money right now.{p}{person: 16 392 391}{speed: 3}
+Clean money,{wait: 8} that is.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 30}{person: 14 350 350}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{name: 3584}{wait: 40}{person: 14 351 350}{hidetextbox: 0}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait: 20}{speed: 6}She doesn't mean{0x5a}...{wait: 60} {person: 14 365 364}{sound: 51 1}{bgcolor: 2305 8 31}You{b}{speed: 4}
+aren't really{0x5a}...{wait: 30}{0x59} {speed: 5}are you?{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{endjmp}
+
+{{38}}
+{bop}{name: 4352}{person: 17 403 403}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4352}{person: 17 404 403}{0x5a}{wait: 40}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}...{wait: 20}{0x59}I searched the globe.{wait_noanim: 30}{b}{person: 17 404 403}{speed: 3}
+And I found one.{fademusic: 0}{music: 28 0}{p}
+A doctor who can take that{b}
+bullet out of you,{wait: 8} Wocky.{p}
+But it's an expensive{b}
+procedure.{nextpage_button}{name: 3584}{person: 14 365 364}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+M-{wait: 16}Man!{wait: 20} B-But you got plenty{b}
+of money already,{wait_noanim: 30} {person: 14 362 361}{shake: 30 0}don't you?{p}{name: 4352}{person: 17 404 403}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+I won't use it.{nextpage_button}{name: 3584}{person: 14 364 364}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+...!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4352}{person: 17 404 403}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+It was the gangster life that{b}
+did this to you,{wait: 8} Wocky.{p}{speed: 7}
+...{wait: 16}{speed: 3}I want to help you,{wait: 8} and{b}
+I want to do it clean.{nextpage_button}{hidetextbox: 1}{wait: 30}{fademusic: 120}{person: 17 405 405}{0x63}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 40}{hidetextbox: 0}{person: 17 407 406}{speed: 4}
+Please understand.{wait_noanim: 30}{b}{person: 17 407 406}{speed: 3}
+Wocky...{nextpage_button}{name: 3584}{person: 14 365 364}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+D-{wait: 20}Dad...{p}{hidetextbox: 1}{person: 14 366 366}{0x63}{wait: 60}{person: 14 368 367}{hidetextbox: 0}
+M-{wait: 8}Man,{wait: 8} I see how it is,{wait: 8} old{b}
+man!{wait: 16} {bgcolor: 2305 8 31}{shake: 30 0}Always you looking out{b}
+for{0x5a}...{0x59}{speed: 5} out for{0x5a}...{nextpage_button}{name: 1280}{person: 5 82 81}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Wocky...?{nextpage_button}{name: 3584}{person: 14 355 354}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Listen good,{wait: 7} old man!{wait: 16}{b}{speed: 3}
+One day...{wait: 20} One day...{p}{sound: 27 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+I'm gonna take you out!{wait: 16} Then{b}
+we'll see who's the O.G.!{nextpage_button}{person: 14 370 369}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+You try to hide in your{b}
+business suit,{wait: 8} I'll find you!{nextpage_button}{fademusic: 30}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{person: 14 368 367}{speed: 2}
+Stupid ol' geezer!{wait: 30}{bgcolor: 2305 8 31}{shake: 30 0}{personvanish: 4 1}{wait: 16}{wait: 20}{person: 0 0 0}{nextpage_button}{name: 1280}{person: 5 82 81}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+My!{wait: 20} Wocky!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 17 407 406}{name: 4352}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...{wait: 20}No,{wait: 8} it's as it should be.{fademusic: 0}{music: 20 100}{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Mr. Kitaki!{wait: 30}{b}{speed: 4}{color: 2}
+(I liked him more{b}
+without the puppy dog eyes.){color: 0}{p}{name: 4352}{speed: 3}
+I'm glad...{wait: 20} to have met you.{wait: 16}{b}
+I'm not so good with words...{p}
+But I know a professional job{b}
+when I see one.{wait: 16} Thank you.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+Who?{wait: 16} Me?{wait: 16} I don't think{speed: 5}...{p}{name: 4352}{speed: 5}
+Someday...{nextpage_button}{person: 17 404 403}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+I'll bake you one of our{b}
+latest...{wait: 10} The Kitaki Lime Pie.{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(...{wait: 20}He's opening a pie shop!?){color: 0}{p}{name: 4352}
+...{wait: 20}So long.{nextpage_button}{hidetextbox: 1}{wait: 60}{fademusic: 120}{personvanish: 4 4}{wait: 64}{wait: 60}{name: 1024}{hidetextbox: 0}{speed: 5}{color: 2}
+(And he was gone...){color: 0}{nextpage_button}{name: 1280}{0x38: 1}{person: 5 68 67}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{fademusic: 0}{music: 16 100}{speed: 2}
+Well,{wait: 8} let's head back,{wait: 16} Apollo!{p}{person: 5 74 73}
+To the Wright Anything Agency!{p}{name: 1024}{person: 5 81 81}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Hey,{wait: 8} since when do I work{b}
+at your agency!?{p}{person: 5 76 75}{name: 1280}{speed: 6}
+Aw, {wait_noanim: 20}{person: 5 74 73}{speed: 3}we make a good team!{0x5a}{nextpage_button}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Don't just stand there,{wait: 8}{b}
+let's get going!{p}{name: 1024}{person: 5 95 95}{speed: 5}{color: 2}
+(Huh...{wait: 16} {speed: 3}Why not.{wait: 16} She did help{b}
+me out.){p}{speed: 5}
+(And there's a few questions{b}
+that still need answers...){p}{hidetextbox: 1}{bgcolor: 2562 1 31}{wait: 15}{0x6b: 1 0 0}{bganim: 98 120}{wait: 4}{person: 5 67 67}{bgcolor: 2308 1 31}{wait: 25}{hidetextbox: 0}{speed: 4}
+(Like this power of mine{b}
+that she showed me...){p}{showphoto: 83}
+(And my{wait: 6} {color: 1}bracelet{color: 2}...){nextpage_button}{speed: 5}
+(If anyone can help me figure{b}
+it out,{wait: 6} it's her.){p}{hidetextbox: 1}{wait: 60}{bgcolor: 2052 1 31}{wait: 25}{0x6b: 0 0 0}{bganim: 98 632}{wait: 60}{bganim: 98 579}{bg: 4095}{person: 7 187 187}{bgcolor: 1793 1 31}{wait: 7}{hidetextbox: 0}{speed: 3}
+(Though I can't say I care{b}
+much for what her father has{b}
+become...){color: 0}{p}{bg: 30}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Oh,{wait: 10} that's right! {wait_noanim: 15}{person: 5 68 67}{speed: 3}We have to{b}
+go someplace first!{p}{name: 1024}{person: 5 67 67}
+Huh?{wait: 16} Where?{p}{name: 1280}{person: 5 74 73}
+Why,{wait: 8} to claim our reward from{b}
+Mr. Eldoon!{p}{name: 1024}{person: 5 73 73}{speed: 3}
+...{wait: 20}Ah,{wait: 8} salty noodles.{wait: 8} Right.{wait: 16}{b}
+He got his stand back already?{p}{name: 1280}{person: 5 74 73}
+Oh,{wait: 8} and after that,{wait: 8} you can{b}
+come see my show!{p}{person: 5 72 69}
+With a special appearance{b}
+by the Amazing Mr. Hat!{nextpage_button}{hidetextbox: 1}{0x8e: 5 87}{sound: 186 1}{0x63}{0x8e: 5 109}{0x63}{0x8e: 5 110}{0x63}{0x8e: 5 111}{0x63}{0x8e: 5 112}{0x63}{0x8e: 5 113}{0x63}{0x8e: 5 114}{0x63}{0x8e: 5 115}{0x63}{0x8e: 5 116}{0x63}{0x8e: 5 117}{0x63}{0x8e: 5 118}{0x63}{0x8e: 5 119}{0x63}{0x8e: 5 120}{0x63}{0x8e: 5 121}{0x63}{0x8e: 5 122}{0x63}{0x8e: 5 123}{0x63}{0x8e: 5 124}{0x63}{0x8e: 5 125}{0x63}{0x8e: 5 126}{0x63}{0x8e: 5 127}{0x63}{0x8e: 5 128}{0x63}{0x8e: 5 129}{0x63}{0x8e: 5 130}{0x63}{0x63}{person: 5 108 106}{name: 11776}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{soundtoggle: 0}{color: 3}
+Oh,{wait: 8} it's special alright!{wait: 16}{color: 0}{nextpage_button}{soundtoggle: 1}{name: 1024}{speed: 4}
+Please...{wait: 16} anything but him.{nextpage_button}{hidetextbox: 1}{wait: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{hidetextbox: 0}{0x48: 190 142}{speed: 0}{soundtoggle: 0}{b}{b}
+THE END{bgcolor: 260 1 31}{wait: 25}{wait: 60}{fademusic: 120}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{savegame}{b}{special_jmp}{endjmp}

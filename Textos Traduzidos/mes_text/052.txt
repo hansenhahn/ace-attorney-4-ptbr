@@ -1,0 +1,1184 @@
+
+
+{{0}}
+{bop}{0x62: 4 2}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{person: 20 449 449}{bg: 27}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 25 11 2 93 1 1 3}{b}
+-- The Interview: A Recap --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{fademusic: 0}{music: 3 0}{name: 5120}{person: 20 450 449}{speed: 2}
+The only other person in the{b}
+studio that night was the{b}
+defendant.{p}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 166}{person: 0 0 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}
+It was Vera who poured the{b}
+coffee.{wait: 16} She's admitted as{b}
+much herself.{p}{bg: 27}{person: 20 457 456}{speed: 3}
+The only thing that touched{b}
+Drew's lips during the{b}
+interview was that mug.{p}{person: 20 457 456}
+And nothing left that studio{b}
+after he died.{wait: 16} Nothing.{p}{person: 20 452 451}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...Clearly,{wait: 8} the only one who{b}
+could have poisoned him was{b}
+his daughter!{nextpage_button}{fademusic: 60}{testimony_animation: 0}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{bg: 26}{person: 6 146 145}{0x5a}{name: 13568}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{0x59}{speed: 4}
+A nice testimony. Clear,{wait: 12} {b}
+succinct... and without{b}
+room for doubt.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 456}{wait: 32}{name: 5120}{person: 20 457 456}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+Aw...{wait: 16} Shucks.{0x5a}{wait: 30}{b}{person: 20 452 451}{bgcolor: 2305 8 31}{speed: 2}
+You really think so?{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+I believe this clarifies the{b}
+situation that night.{p}{person: 10 263 262}{shake: 30 0}{bgcolor: 2305 8 31}
+Very well,{wait: 8} Mr. Justice.{wait: 16}{b}
+You may begin your final{b}
+cross-examination!{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}
+R-{wait: 10}Right...{p}{person: 4 36 36}{color: 2}{speed: 4}
+(...I still have one trump{b}
+card left to play.){p}{person: 4 58 58}{speed: 3}
+(And I won't let this trial{b}
+end until I use it!){color: 0}{nextpage_button}{endjmp}
+
+{{1}}
+{bop}{0x6b: 0 1 0}{bganim: 98 513}{0x6b: 1 0 0}{bganim: 98 513}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 20 449 449}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 135}{center_text: 1}{speed: 2}{b}{color: 1}
+-- The Interview: A Recap --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 3 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 137 0}{lifebar: 25}{0x53}{person: 20 450 449}{name: 5120}{hidetextbox: 0}{color: 3}The only other person in the{b}
+studio that night was the{b}
+defendant.{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 138 0}{lifebarset: 0 130}{lifebar: 25}{0x53}{person: 20 450 449}{name: 5120}{hidetextbox: 0}{color: 3}It was Vera who poured the{b}
+coffee. She's admitted as{b}
+much herself.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 131}{0x51: 3 53}{17408}{person: 84 1 136}{lifebar: 28}{0x53}{person: 20 457 456}{name: 5120}{hidetextbox: 0}{color: 3}The only thing that touched{b}
+Drew's lips during the{b}
+interview was that mug.{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 146 0}{lifebar: 28}{lifebarset: 0 132}{0x53}{person: 20 457 456}{name: 5120}{hidetextbox: 0}{color: 3}And nothing left that studio{b}
+after he died. Nothing.{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 153 0}{lifebarset: 0 133}{0x51: 3 53}{17408}{person: 84 0 136}{lifebar: 27}{0x53}{person: 20 452 451}{name: 5120}{hidetextbox: 0}{color: 3}...Clearly, the only one who{b}
+could have poisoned him was{b}
+his daughter!{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 28}{name: 1280}{person: 5 103 102}{speed: 3}What do you think,{wait: 10} Apollo?{p}{bgcolor: 2305 8 31}{shake: 30 0}
+Everything he's saying seems{b}
+so... not flawed!{nextpage_button}{person: 5 104 104}{name: 1024}{speed: 4}
+...{wait: 16}{speed: 3}Well,{wait: 8} that's kind of what{b}
+you want from a testimony,{b}
+really.{p}{bg: 25}{person: 4 58 58}{speed: 4}{color: 2}
+(...I need to keep my eye{b}
+on what matters.){p}{speed: 3}
+(How,{wait: 10} and why,{wait: 10} was Drew{b}
+Misham killed?){p}{person: 4 42 42}
+(Vera poured the coffee,{wait: 10}{b}
+that's not going to change.){p}{speed: 3}
+(But if that coffee didn't{b}
+kill him,{wait: 8} I need to find{b}
+what did...{person: 4 36 36} and prove it!){color: 0}{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{8}}
+{bop}{testimony_box: 155 0}{lifebarset: 0 132}{lifebarset: 1 134}{lifebar: 27}{0x53}{person: 20 452 451}{name: 5120}{hidetextbox: 0}{color: 3}A letter was put in the post{b}
+from the studio, but I hardly{b}
+think that matters.{color: 0}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}But that doesn't prove{b}
+Vera poisoned it!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{speed: 3}
+How many times have we heard{b}
+that one,{wait: 10} Herr Forehead?{p}{person: 6 151 150}
+The poison reached its victim{b}{showphoto: 205}
+via that coffee mug.{p}
+And from where did that coffee{b}
+come,{wait: 10} hmm?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...!{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+Not to beat a dead horse{b}
+again,{wait: 8} and again,{wait: 8} but perhaps{b}
+you could fill us in?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 451}{wait: 32}{name: 5120}{person: 20 452 451}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+I'm on it!{wait: 20} You need a horse{b}
+beat?{wait: 20} I'm your man!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}And you witnessed her pouring{b}
+the coffee?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 459}{wait: 32}{name: 5120}{person: 20 460 459}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Course I didn't witness it!{wait: 16}{b}
+When she came in with that{b}
+tray...{p}{bg: 166}{person: 0 0 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 12}the coffee was already{b}
+poured and a-steamin'.{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}
+...Let us not forget the{b}
+defendant has admitted to{b}
+pouring the coffee herself.{p}{person: 6 149 148}{speed: 4}
+I heard her statement:{b}
+"I poured,{wait: 8} I served,{wait: 12} and{b}
+I killed."{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+...Wha--!?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{person: 6 147 147}{name: 13568}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Ah{wait: 8} ha{wait: 8} ha{wait: 8} ha{wait: 8} ha.{wait: 30}{b}{person: 6 149 148}
+That last part was just a{b}
+little joke.{p}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 3}{color: 2}
+(I don't think I'm going to{b}
+get anywhere with this coffee{b}
+mug.){p}{person: 4 58 58}
+(I need to find another{b}
+weak spot in this case.){color: 0}{p}{speed: 255}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}...{wait: 20}You're sure about that?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 456}{wait: 32}{name: 5120}{person: 20 457 456}{hidetextbox: 0}
+Well,{wait: 10} to be really,{wait: 10} really{b}
+precise{0x5a}{speed: 6}...{0x59}{p}{person: 20 452 451}{speed: 2}
+...I was busy gobbling mint{b}
+candies the whole time.{nextpage_button}{bg: 25}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 64 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+One of those candies might{b}
+have been poisoned!{wait: 30}{nextpage_nobutton}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{speed: 3}
+Yet,{wait: 10} at the time of the{b}
+autopsy,{wait: 10} no fresh fragrance{b}
+of mint filled the room.{p}{person: 6 151 150}{speed: 4}
+...{wait: 12}And no{wait: 12} "mint residue" was{b}
+found.{p}{bg: 25}{name: 1024}{person: 4 58 58}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...!{wait: 30}{b}{speed: 4}{color: 2}
+(It was a long shot anyway.){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 3}
+Don't tell me you're still{b}
+trying to prove this?{p}
+You think the victim ate,{wait: 8}{b}
+drank,{wait: 16} {speed: 3}or otherwise ingested{b}
+something other than coffee?{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 5}
+Hmm.{wait: 30} Well,{wait: 10} Mr. Justice?{wait: 30}{person: 10 259 258}{speed: 3} If{b}
+you have some proof...{nextpage_button}{bg: 25}{name: 1024}{person: 4 42 42}{color: 2}
+(The possibility is there,{wait: 6}{b}
+I can feel it.{wait: 6} {speed: 4}Just maybe{b}
+not prove it,{wait: 10} not yet.){p}{person: 4 58 58}{speed: 3}
+(And possibility isn't going{b}
+to cut it,{wait: 12} {speed: 4}not now!){color: 0}{nextpage_button}{0x51: 3 53}
+{17409}{1716}{jmp: 140}{endjmp}{endjmp}{jmp: 141}{endjmp}
+
+{{12}}
+{bop}{name: 1024}{person: 4 37 36}Mr. Misham ingested that{b}
+poison via a route other{b}
+than that coffee!{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 115}{0x40}{65535}{b}{2args_choice_jmp: 142 144}{endjmp}
+
+{{13}}
+{bop}{name: 1024}{person: 4 37 36}Mr. Misham ingested that{b}
+poison via a route other{b}
+than that coffee!{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 115}{0x40}{65535}{b}{2args_choice_jmp: 156 145}{endjmp}
+
+{{14}}
+{bop}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 4}Proof{0x5a}...{wait: 30}{0x59}{speed: 3} is possible.{wait_noanim: 30}{b}{speed: 4}{color: 2}
+(I gotta risk it...){color: 0}{p}{bg: 29}{name: 2560}{person: 10 260 260}{speed: 5}
+Oh?{wait: 16} Excellent.{wait: 30}{person: 10 259 258} Let's see{b}
+your proof then.{p}{person: 10 263 262}
+Please show us your evidence!{p}
+What evidence shows that the{b}
+victim wasn't poisoned via{b}
+his coffee mug?{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{0x23: 0}{hidetextbox: 1}{bg: 26}{person: 6 170 170}{sound: 165 1}{0x63}{person: 6 171 171}{0x63}{person: 6 172 172}{0x63}{person: 6 173 173}{0x63}{person: 6 174 174}{0x63}{person: 6 175 175}{0x63}{person: 6 176 176}{0x63}{0x63}{name: 13568}{hidetextbox: 0}{speed: 5}Must I explain this over{b}
+and over and over?{nextpage_button}{speed: 3}
+We don't need possibilities,{wait: 10}{b}
+here,{wait: 10} Herr Forehead.{wait: 16}{b}
+We need proof.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{name: 1024}{person: 4 37 36}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I-{wait: 10}I know that!{p}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 3}
+You should also know that{b}
+every proof has its moment.{wait: 16}{b}
+Perhaps you're a bit early?{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}
+...{wait: 10}I can tell you what we{b}
+know at this point:{p}{person: 10 263 262}
+The victim put nothing to his{b}
+mouth but that coffee mug.{p}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 4}{color: 2}
+(*sigh* Another hole in this{b}
+case that needs plugging{b}
+before I can prove anything.){p}{person: 4 36 36}
+(But first things first.{wait: 20}{b}
+I'd better uncover a weak spot{b}
+before I try to strike again!){0x23: 0}{music: 255 90}{color: 0}{p}{bg: 29}{name: 2560}{person: 10 259 258}
+On with the cross-examination!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{16}}
+{bop}{fademusic: 60}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{0x59}{wait: 8}It{speed: 8}{0x5a}...{wait: 30}{0x59} {speed: 4}can't be proven.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{speed: 4}
+...{wait: 12}I do believe our little{b}
+Forehead is growing up.{p}{person: 6 146 145}
+Pity.{wait: 16} We liked the rash,{wait: 6}{b}
+youthful Forehead best.{p}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 40 40}{hidetextbox: 0}{speed: 4}{color: 2}
+(*sigh* Another hole in this{b}
+case that needs plugging{b}
+before I can prove anything.){p}{person: 4 36 36}
+(But first things first.{wait: 20}{b}
+I'd better uncover a weak spot{b}
+before I try to strike again!){0x23: 0}{music: 255 90}{color: 0}{p}{bg: 29}{name: 2560}{person: 10 259 258}
+On with the cross-examination!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{17}}
+{bop}{fademusic: 60}{bg: 25}{person: 4 59 58}{name: 1024}{wait: 2}It{wait: 8}{speed: 8}{0x5a}...{wait: 20}{0x59} {speed: 4}can't be proven.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{speed: 4}
+...{wait: 12}I do believe our little{b}
+Forehead is growing up.{p}{person: 6 146 145}
+Pity.{wait: 16} We liked the rash,{wait: 16}{b}
+youthful Forehead best.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 40 40}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}{color: 2}
+(Wait a second...){p}{speed: 3}
+(We already know a letter{b}
+might have left the studio{b}
+that night.){p}{person: 4 58 58}
+(Couldn't that have opened{b}
+another path for poisoning?){p}{person: 4 36 36}
+(The situation's already{b}
+changed...{wait: 12} I just need to{b}
+take advantage of it!){color: 0}{0x23: 0}{music: 255 90}{p}{bg: 29}{name: 2560}{person: 10 259 258}
+Let's continue with the{b}
+cross-examination.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 136}{endjmp}
+
+{{18}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 59 58}{wait: 12}Not one thing{speed: 8}{0x5a}...?{b}{0x59}{speed: 3}
+You're sure?{0x5a}{wait: 30}{person: 4 59 58}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+Yep,{wait: 14} sure as sure can be.{nextpage_button}{person: 20 457 456}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...Well,{wait: 12} with one exception.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+One exception!?{wait: 20}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+What!?{nextpage_button}{name: 5120}{fademusic: 30}{bg: 27}{person: 20 457 456}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+"Journalist Spark Brushel{b}
+Does Interview,{wait: 10} Leaves{b}
+Studio",{0x5a}{wait: 25}{speed: 2}{person: 20 452 451}{shake: 30 0} end quote.{nextpage_button}{hidetextbox: 1}{bg: 29}{name: 2560}{person: 10 264 264}{sound: 48 1}{bgcolor: 2305 8 31}{wait: 30}{bg: 26}{name: 13568}{person: 6 145 145}{sound: 48 1}{bgcolor: 2305 8 31}{wait: 40}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{sound: 48 1}{bgcolor: 2305 8 31}{wait: 25}{bg: 27}{name: 5120}{person: 20 451 451}{sound: 50 1}{bgcolor: 2305 8 31}{shake: 30 1}{wait: 70}{hidetextbox: 0}{person: 20 464 463}{animation: 149 1}{bgcolor: 2305 8 31}{speed: 2}
+Ah.{wait: 20} Ah{wait: 8} ha{wait: 8} ha!{wait: 20} C'mon!{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{wait: 20}{p}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+It's a joke!{wait: 20} Get it?{b}
+Not funny,{wait: 10} I know,{wait: 10} but still!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{speed: 3}{color: 2}
+(Did something leave the{b}
+studio that night?){p}{person: 4 42 42}{speed: 4}
+(Why does that sound familiar?{wait: 15}{b}
+Where have I heard something{b}
+like that before...?){color: 0}{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 261 261}{wait: 69}{person: 10 259 258}{hidetextbox: 0}{speed: 3}
+Now that we've proven our{b}
+witness is a comedian of{b}
+sorts...{p}{person: 10 263 262}
+...{wait: 12}I'd like to turn to our{b}
+defense attorney before{b}
+returning to the testimony.{nextpage_button}{endjmp}
+
+{{19}}
+{bop}{bg: 29}{name: 2560}{person: 10 266 266}Do you have any idea what,{wait: 12} {person: 10 263 262}if{b}
+anything,{wait: 8} might have left the{b}
+studio that night?{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 86}{psychelock: 65535}{b}{2args_choice_jmp: 148 149}{endjmp}
+
+{{20}}
+{bop}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 8}{0x5a}......{b}{speed: 4}{color: 2}
+(I can't think of a single{b}
+thing!){color: 0}{nextpage_button}{speed: 3}
+...{0x59}If anything did leave,{wait: 14}{b}
+wouldn't Mr. Brushel have{b}
+noticed?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}
+That I would,{wait: 10} that I would!{wait_noanim: 30}{b}{person: 20 460 459}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Nothing left!{wait: 10} Save myself,{wait: 10}{b}
+of course.{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 5}
+Say that again and you'll be{b}
+held in contempt of court.{p}{person: 10 259 258}{speed: 3}
+Let's get back to the{b}
+cross-examination,{wait: 8} then!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 459 459}{fademusic: 0}{music: 3 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{21}}
+{bop}{bg: 25}{name: 1024}{person: 4 59 58}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}I think one thing might{b}
+very well have left the{b}
+studio that night,{wait: 12} actually.{p}{person: 4 48 47}
+A {color: 1}certain something{color: 0} that has{b}
+vanished from the crime scene.{fademusic: 0}{music: 18 0}{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 5}
+By which you mean...{p}{bg: 27}{person: 20 449 449}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 20}something other than our{b}
+witness?{nextpage_button}{bg: 25}{name: 1024}{person: 4 38 38}{speed: 4}
+...Of course.{0x63}{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 5}
+Don't tell me.{wait: 30} {speed: 4}"Vera Misham"?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{speed: 3}
+Believe me,{wait: 12} any comic relief{b}
+I may provide is entirely{b}
+unintentional.{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}
+Then,{wait: 12} let's see what you've{b}
+got for us,{wait: 10} Mr. Justice!{p}{endjmp}
+
+{{22}}
+{bop}{bg: 25}{name: 1024}{person: 4 41 40}{hidetextbox: 0}{speed: 3}Well,{wait: 12} this thing wasn't at{b}
+the scene of the crime,{wait: 6} so{b}
+I can't show it to you.{p}{0x6c: 0}{0x6e: 20}
+But I do have evidence that{b}
+shows how it could have been{b}{color: 1}
+taken{color: 0} from the scene!{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{0x6d: 0}{fademusic: 60}{bg: 29}{name: 2560}{person: 10 258 258}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 8}......{p}{bg: 26}{name: 13568}{person: 6 145 145}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 8}
+......{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+...{wait: 12}I find Prosecutor Gavin{b}
+more amusing than this guy,{wait: 10}{b}
+really.{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+If that was comic relief,{wait: 4} why{b}
+do I not feel amused?{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{0x6c: 0}{0x6e: 20}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+We want evidence,{wait: 4} not{b}
+entertainment,{wait: 8} Mr. Justice!{b}{0x5a}{0x23: 0}{music: 255 90}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(There goes my career in{b}
+stand-up...){color: 0}{nextpage_button}{speed: 255}{jmp: 150}{endjmp}
+
+{{24}}
+{bop}{0x6d: 0}{fademusic: 45}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{showphoto: 453}This is the only link between{b}
+that studio and the outside{b}
+world.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 4}
+A letter box?{p}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 45 44}{speed: 3}
+What did Mr. Brushel just{b}
+tell us?{p}
+When he entered the studio{b}
+on the night of the murder...{p}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}
+...the victim had {color: 1}just{b}
+finished writing a letter{color: 0}!{fademusic: 0}{music: 35 0}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 463}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 464 463}{animation: 149 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Yeah,{wait: 10} I said that.{wait: 16}{b}
+And yeah,{wait: 10} it was true.{p}{bg: 25}{name: 1024}{person: 4 45 44}{speed: 4}
+Furthermore, you went on{b}
+to tell us...{p}
+...{wait: 12}that he put the letter in{b}
+a yellow envelope and put it{b}
+in {showphoto: 453}the letter box.{nextpage_button}{bganim: 98 579}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Ah...!{nextpage_button}{bg: 25}{name: 1024}{person: 4 45 44}{hidetextbox: 0}{speed: 3}
+But that very same letter box{b}{showphoto: 453}
+was empty!{wait: 16} In other words...{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 66 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...that night,{wait: 10} the{wait: 6} "yellow{b}
+envelope"{wait: 6} disappeared!{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{speed: 4}
+...Ah,{wait: 8} yes, intriguing.{wait: 20} So an{b}
+envelope has disappeared from{b}
+the scene of the crime.{nextpage_button}{person: 6 146 145}
+Of course{speed: 8}...{wait: 12} {speed: 3}this changes{b}
+nothing.{p}{name: 1024}{bg: 25}{person: 4 59 58}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{wait: 12}{speed: 5}
+Huh...?{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 4}
+He has a point,{wait: 8} Mr. Justice.{p}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{speed: 3}
+What we're trying to figure{b}
+out here is how the poison{b}
+got into Mr. Misham.{p}{speed: 4}
+Is it really important that{b}
+this envelope the witness says{b}
+he saw disappeared?{nextpage_button}{bg: 25}{name: 1024}{person: 4 45 44}
+Well,{wait: 12} if it did disappear,{wait: 12}{b}
+then something did leave{b}
+the studio that night.{p}{person: 4 59 58}{speed: 3}
+That seems very important{b}
+to me!{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}
+Very well then.{wait: 12} The witness{b}
+will add this to his{b}
+testimony.{nextpage_button}{bg: 27}{name: 5120}{person: 20 450 449}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+You got it.{nextpage_button}{fademusic: 0}{music: 3 100}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 3}
+...{wait: 8}I still think this fails{b}
+to change anything,{wait: 8} Herr{b}
+Forehead.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{speed: 5}{color: 2}
+(I wouldn't be so sure.){nextpage_button}{speed: 4}
+(A {color: 1}letter{color: 2} disappeared from the{b}
+crime scene that night...){p}{person: 4 36 36}{speed: 3}
+(This is exactly the {color: 1}opening{color: 2}{b}
+I've been looking for!){p}{color: 0}{0x10: 33604}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 136}{endjmp}
+
+{{25}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}You say{wait: 6} "clearly"{wait: 6} as though{b}
+it were obvious.{p}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+But this claim that the{b}
+defendant poisoned the victim{b}
+is merely conjecture!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 463}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 464 463}{animation: 149 1}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah,{wait: 8} yes,{wait: 10} well,{wait: 10} you see...{p}{person: 20 457 456}{speed: 4}
+In my business,{wait: 10} it's all about{b}
+making the most ridiculous{b}
+things sound right.{nextpage_button}{person: 20 452 451}{bgcolor: 2305 8 31}
+A bad habit,{wait: 20} I know.{nextpage_button}{fademusic: 60}{bg: 29}{name: 2560}{person: 10 264 264}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 8}
+......{nextpage_button}{bg: 26}{name: 13568}{person: 6 150 150}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 8}
+......{nextpage_button}{bg: 27}{name: 5120}{person: 20 462 462}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Yes,{wait: 8} well,{wait: 10} er, actually...{wait: 40}{nextpage_nobutton}{person: 20 457 456}{0x5a}{speed: 8}
+...{wait: 25}{speed: 2}{person: 20 450 449}{shake: 30 0}I guess this is more a case{b}
+of "Ridiculous Journalist{b}
+Sounds Wrong", end quote.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 4}
+The court is forced to agree{b}
+with you.{wait: 16} Please refrain from{b}
+wild conjecture.{nextpage_button}{bg: 27}{name: 5120}{person: 20 462 462}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Understoodloudandclear!{0x63}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{speed: 5}{color: 2}
+(If only I could believe{b}
+that.){color: 0}{nextpage_button}{fademusic: 0}{music: 3 0}{jmp: 135}{endjmp}
+
+{{26}}
+{bop}{0x6d: 0}{b}{p}{0x10: 33604}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{27}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 45 44}Nothing could be more serious{b}
+than an envelope disappearing{b}
+from that studio!{p}{person: 4 66 65}
+And you were hiding that{b}
+fact from us!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 463}{wait: 32}{name: 5120}{person: 20 464 463}{animation: 149 1}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+Er,{wait: 10} yes,{wait: 10} well,{wait: 10} actually...{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+I don't argue the possibility{b}
+that a letter disappeared{b}
+from that studio.{p}{person: 6 149 148}
+...{wait: 16}But Herr Forehead,{wait: 10} isn't{b}
+there a much more serious{b}
+question before us?{p}{bg: 25}{person: 4 58 58}{name: 1024}{color: 2}
+({speed: 8}...{wait: 20}{speed: 3}Right,{wait: 10} {color: 1}how{color: 2}{wait: 6} Mr. Misham was{b}
+poisoned.{wait: 6} I know.){nextpage_button}
+(But Mr. Brushel's testimony{b}
+has changed,{wait: 10} which means the{b}
+facts of the case have, too.){nextpage_button}{person: 4 40 40}{speed: 5}
+(And what he's told us {color: 1}means{color: 2}{b}
+something entirely different{b}
+now,{wait: 10} I'm starting to think.){nextpage_button}{color: 0}{person: 5 103 102}{bg: 28}{name: 1280}{speed: 4}
+Let's keep thinking,{wait: 8} Apollo!{shake: 30 0}{bgcolor: 2305 8 31}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 451 451}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{28}}
+{bop}{name: 1024}{person: 4 37 36}{speed: 4}Proof is{0x5a}...{0x59}{speed: 3} possible.{wait_noanim: 30}{b}{color: 2}{speed: 4}
+(Here goes nothing...){color: 0}{p}{0x23: 0}{hidetextbox: 1}{bg: 26}{person: 6 170 170}{sound: 165 1}{0x63}{person: 6 171 171}{0x63}{person: 6 172 172}{0x63}{person: 6 173 173}{0x63}{person: 6 174 174}{0x63}{person: 6 175 175}{0x63}{person: 6 176 176}{0x63}{0x63}{name: 13568}{hidetextbox: 0}{speed: 5}
+You do understand what we{b}
+need,{wait: 10} ja?{nextpage_button}{speed: 3}
+Proof,{wait: 10} Herr Forehead.{wait: 16} Not{wait: 16}{b}
+"possibilities".{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{name: 1024}{person: 4 37 36}{hidetextbox: 0}{name: 1024}
+Of course.{wait_noanim: 25}{b}{person: 4 37 36}
+And,{wait: 10} Prosecutor Gavin,{wait: 12}{b}
+I hope you understand...{p}
+...{wait_noanim: 30}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}I'm ready to give you{b}
+that proof{fademusic: 0}{music: 35 0}.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 3}
+Wh-{wait: 10}What did you say?{p}{bg: 25}{name: 1024}{person: 4 59 58}
+I have proof of the{b}{color: 1}
+disappearing envelope{color: 0}!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 463}{wait: 32}{name: 5120}{person: 20 464 463}{animation: 149 1}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+I saw him writing a letter,{wait: 8}{b}
+I did!{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 8}
+...{wait: 16}{speed: 3}Which was picked up by{b}
+the mailman,{wait: 8} I assume?{p}{bg: 25}{name: 1024}{person: 4 38 38}{speed: 5}
+Of course,{wait: 10} which means{0x63}{wait: 10}...{person: 4 43 42}{nextpage_button}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+...that envelope had a {color: 1}stamp{color: 0}{b}
+on it.{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}
+A stamp...{wait: 30}{b}{person: 10 265 264}{fademusic: 120}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{wait: 8}{speed: 3}
+Ah{0x5a}{speed: 4}......{speed: 5}......{speed: 6}......{nextpage_nobutton}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{speed: 3}
+As we all know,{wait: 12} stamps come{b}
+with dried glue on the back.{p}{speed: 4}
+In order to use the glue{b}
+you have to wet it...{nextpage_button}{person: 4 64 65}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+...by {color: 1}licking{color: 0}{bgcolor: 2305 8 31} the stamp!{fademusic: 0}{music: 9 0}{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 26}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 3}
+Feh.{wait: 16} No one worth talking to{b}
+actually licks stamps in this{b}
+day and age.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 59 58}{hidetextbox: 0}
+Even if you wanted to talk to{b}
+him,{wait: 10} you couldn't.{nextpage_button}{person: 4 48 47}
+...He's dead, after all.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}
+OK,{wait: 10} so he licked the stamp.{wait: 20}{b}
+But wait!{p}
+How does that explain the {b}
+atroquinine on the {showphoto: 205}rim of{b}
+the coffee mug?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{name: 1024}{person: 4 37 36}{hidetextbox: 0}
+If he licked the back of a{wait: 16}{b}
+poisoned stamp,{wait: 10} the poison{b}
+would get on his {color: 1}tongue{color: 0},{wait: 10} yes?{nextpage_button}{person: 4 48 47}
+What would then happen if he{b}
+put the coffee mug to his{b}
+mouth,{wait: 10} hmm?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 145 145}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}
+...!{p}{bg: 25}{name: 1024}{person: 4 37 36}{showphoto: 461}
+Those traces on the mug{b}{bgcolor: 2305 8 31}
+weren't the killer's doing!{wait: 16}{b}
+It was the {color: 1}other way around{color: 0}!{p}{bg: 29}{name: 2560}{person: 10 265 264}
+What!?{p}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 4}
+The {color: 1}coffee mug didn't{b}
+poison{color: 0} Mr. Misham...{p}{bganim: 98 579}{0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{name: 1024}{hidetextbox: 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...Mr. Misham{bgcolor: 2305 8 31}{wait: 4} {color: 1}poisoned{bgcolor: 2305 8 31}{b}
+the{bgcolor: 2305 8 31} coffee mug himself{color: 0}!{nextpage_button}{hideperson}{0x26: 0}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Order!{wait: 10} Order!{wait: 10} Order!{wait: 10}{p}{person: 10 265 264}{bgcolor: 2305 8 31}{shake: 30 0}
+B-{wait: 12}But that doesn't...{wait: 12}{b}{bgcolor: 2305 8 31}{speed: 3}
+Does it?{p}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 4}
+Recall,{wait: 20} if you would...{p}{person: 4 59 58}{speed: 3}
+...atroquinine is a{b}{sound: 52 1}{bgcolor: 2305 8 31}{color: 1}
+slow-acting{color: 0} poison,{wait: 6} yes?{p}{person: 4 45 44}
+The poison entered his body{b}
+when he put the stamp on{b}
+that envelope.{p}{speed: 3}
+But his time wasn't up until{b}
+the very moment he touched{b}{fademusic: 60}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}
+his lips to that cup of joe.{nextpage_button}{hidetextbox: 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 29}{person: 10 264 264}{bgcolor: 772 1 31}{wait: 25}{wait: 45}{bgcolor: 1025 1 31}{wait: 1}{bg: 26}{person: 6 150 150}{bgcolor: 772 1 31}{wait: 25}{wait: 45}{bgcolor: 1025 1 31}{wait: 1}{bg: 28}{person: 5 100 100}{bgcolor: 772 1 31}{wait: 25}{wait: 45}{bgcolor: 1025 1 31}{wait: 1}{bg: 27}{person: 20 461 461}{bgcolor: 772 1 31}{wait: 25}{wait: 60}{person: 20 456 456}{wait: 80}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{person: 20 453 453}{wait: 100}{bg: 29}{name: 2560}{person: 10 263 262}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 3}
+You have something to add,{wait: 10}{b}
+Mr. Brushel?{nextpage_button}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(Uh oh.{wait: 20} His nose is picking{b}
+up another scent{speed: 8}...){nextpage_button}{color: 0}{hidetextbox: 1}{swoosh: 0 4096 20 456}{wait: 32}{name: 5120}{person: 20 457 456}{hidetextbox: 0}{speed: 3}
+As I believe I mentioned{b}
+earlier.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 27}{person: 20 457 456}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 5120}{hidetextbox: 0}{0x59}{speed: 2}
+Well,{wait: 8} that's the thing,{wait: 12} see.{wait: 16}{b}
+After he put his letter in{b}
+that envelope...{p}{person: 20 450 449}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...Mr. Misham sat there{b}
+searching his desk drawer for{b}
+something!{nextpage_button}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yes! A stamp!{wait: 12} A so-called{b}{person: 20 457 456}{speed: 5}
+"Postage Stamp",{0x5a}{wait: 15}{speed: 2}{person: 20 450 449}{shake: 30 0}{wait: 10} end quote!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 27}{person: 20 456 456}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{wait: 20}{name: 5120}{person: 20 457 456}{hidetextbox: 0}{speed: 3}
+But you know,{wait: 8} I don't seem to{b}
+remember him {color: 1}ever finding one{color: 0}.{p}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 3}
+Maybe he'd just run out?{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+Incidentally,{wait: 10} we searched{b}
+the desk drawer at the{b}
+scene of the crime.{nextpage_button}{person: 6 146 145}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+There were no stamps.{0x5a}{wait: 30}{b}{0x59}
+Not a single one.{fademusic: 0}{music: 18 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...{bgcolor: 2305 8 31}!{p}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 7}
+Hmm,{wait: 30} {speed: 4}that does pose a problem.{p}{speed: 3}
+How will you prove that the{b}
+stamp was coated with poison?{p}{bg: 25}{name: 1024}{person: 4 41 40}{speed: 4}
+Actually,{wait: 8} I'm glad no other{b}
+stamps were found.{p}{person: 4 48 47}{speed: 3}
+It makes proving the stamp{b}
+he used was poisoned possible!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{person: 6 148 148}{bg: 26}{name: 13568}{person: 6 147 147}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 3}
+Ah{wait: 8} ha{wait: 8} {shake: 30 0}ha{wait: 8} ha{wait: 8} ha{wait: 8} ha.{wait: 30}{b}{person: 6 149 148}{speed: 4}
+...Good show,{wait: 12} good show.{p}{speed: 3}
+You can't even prove there{b}
+was a stamp at the scene{b}
+in the first place!{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{endjmp}
+
+{{29}}
+{bop}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{speed: 4}...Well,{wait: 12} let's hear what the{b}
+defense has to say anyway.{p}{0x6c: 0}{0x6e: 20}{person: 10 263 262}{speed: 3}
+Where's your evidence that{b}
+proves the existence of this{b}{color: 1}
+poisoned stamp{color: 0}?{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{30}}
+{bop}{0x6d: 0}{fademusic: 60}{bg: 29}{name: 2560}{person: 10 266 266}{hidetextbox: 0}{speed: 8}......{wait: 40}{b}{person: 10 263 262}{speed: 3}
+Well,{wait: 10} Prosecutor Gavin?{p}{bg: 26}{name: 13568}{person: 6 149 148}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+I think our beloved attorney{b}
+has been licking too many{b}
+stamps in his free time.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}{color: 2}
+(Grr... Do you smile like{b}
+that when you torture all{b}
+your victims,{wait: 10} or just me?){color: 0}{0x23: 0}{music: 255 90}{p}{bg: 29}{name: 2560}{person: 10 263 262}{0x6c: 0}{0x6e: 20}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Take care that we don't lick{b}
+you and stick you in the{b}
+letter box,{wait: 12} Mr. Justice!{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(...I think I'm making this{b}
+out to be way more complicated{b}
+than it really is.){p}{speed: 3}
+(That stamp would have left{b}
+a small atroquinine residue{b}
+on something...{wait: 8} But what?){color: 0}{rejmp: 157}{endjmp}
+
+{{31}}
+{bop}{0x29: 0}{0x6d: 0}{fademusic: 45}{bg: 29}{name: 2560}{person: 10 265 264}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}Well,{wait: 10} that certainly is a cute{b}
+little{wait: 6} {color: 1}frame{color: 0}.{showphoto: 204}{person: 10 265 264} And by little,{wait: 6}{b}
+I mean really little.{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 45 44}{showphoto: 460}
+It was on the victim's desk,{wait: 10}{b}
+Your Honor.{p}{person: 4 37 36}
+...Quite empty,{wait: 12} as you can{b}
+see for yourself.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}
+I noticed that too during my{b}
+inspection.{wait: 20} So what?{nextpage_button}{bg: 25}{person: 4 41 40}{name: 1024}
+Ah,{wait: 8} apparently you weren't{b}
+as observant as you should{b}
+have been.{p}{person: 4 37 36}{sound: 52 1}{bgcolor: 2305 8 31}
+You see,{wait: 6} when you saw this{b}
+frame,{wait: 6} it was missing{b}
+something quite important.{p}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 5}
+"Missing" something...?{p}{bg: 25}{person: 4 37 36}{name: 1024}{showphoto: 460}{speed: 4}
+Yes.{wait: 12} A pale bluish stain{b}
+on the inside of the frame{0x5a}...{nextpage_button}{bganim: 98 579}{person: 4 64 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{fademusic: 0}{music: 5 0}{wait: 20}{speed: 2}{color: 1}
+Atroquinine residue{color: 0}!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}
+What!?{wait: 8}{0x5a}{wait: 22}{b}{person: 6 160 159}{animation: 149 1}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Why wasn't I told about this!?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{name: 1024}{person: 4 45 44}{showphoto: 460}{hidetextbox: 0}
+The frame is only two inches{b}
+square.{wait: 16} The face of the frame{b}
+is even smaller.{nextpage_button}{person: 4 37 36}{speed: 3}
+Maybe an inch wide at most.{nextpage_button}{bganim: 98 579}{bg: 26}{name: 13568}{person: 6 160 159}{animation: 149 1}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+You aren't saying...{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{name: 1024}{person: 4 38 38}{0x63}{person: 4 37 36}{hidetextbox: 0}{speed: 5}
+...Oh,{wait: 10} but I am.{wait: 20} {speed: 3}Tell me: what{b}{showphoto: 460}
+fits in such a small frame?{nextpage_button}{bganim: 98 579}{0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+A commem{bgcolor: 2305 8 31}orative{bgcolor: 2305 8 31} stamp,{wait: 10}{bgcolor: 2305 8 31}{b}
+perhaps?{nextpage_button}{hideperson}{0x26: 0}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Order!{wait: 10} Order!{wait: 18} {bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}Order!!!{b}{p}{person: 10 265 264}{showphoto: 204}{speed: 4}
+The {bgcolor: 2305 8 31}{shake: 30 1}poisoned stamp was in{b}
+this frame{0x5a}{speed: 8}...!?{nextpage_button}{bganim: 98 579}{bg: 26}{name: 13568}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Impossible!{p}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 4}
+P-{wait: 20}Prosecutor{bgcolor: 2305 8 31} Gavin...!{p}{bg: 26}{name: 13568}{person: 6 167 166}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Why would he put something{b}
+like that on his desk?{nextpage_button}{person: 6 157 156}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Don't tell me he had it there{b}
+so he could commit suicide{b}
+if the mood struck!{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 459}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 460 459}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+You know,{wait: 10} can I say something?{person: 20 453 453}{wait: 30}{b}{person: 20 460 459}
+I had a thought,{wait: 10} see!{person: 20 453 453}{bgcolor: 2305 8 31}{shake: 30 1}{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{speed: 2}
+What,{wait: 10} Mr. Brushel,{wait: 10} and please{b}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+stop jittering around like{b}
+that!{p}{bg: 27}{name: 5120}{person: 20 460 459}{speed: 2}
+The victim was a{wait: 6} {color: 1}forger{color: 0},{wait: 6}{b}
+right?{wait: 16} There's a lot of{b}
+money in that line of work.{p}{person: 20 457 456}{speed: 5}
+"Forger Forges Friends, {b}
+Makes Enemies, Too",{0x5a}{wait: 15}{speed: 2}{b}{person: 20 450 449}{shake: 30 0}{wait: 10}
+end quote.{0x59}{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{name: 1024}{person: 4 41 40}{hidetextbox: 0}
+So the poisoned stamp might{b}
+have been a {color: 1}murder weapon{color: 0},{0x5a}{wait: 8}{b}{person: 4 37 36}{sound: 52 1}{bgcolor: 2305 8 31}
+aimed at him!{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{name: 13568}{bg: 26}{person: 6 170 170}{sound: 165 1}{0x63}{person: 6 171 171}{0x63}{person: 6 172 172}{0x63}{person: 6 173 173}{0x63}{person: 6 174 174}{0x63}{person: 6 175 175}{0x63}{person: 6 176 176}{0x63}{0x63}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{0x63}{person: 6 167 166}{hidetextbox: 0}{speed: 5}
+...Oh,{wait: 10} rich.{wait: 20} That's rich.{p}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Leave the {bgcolor: 2305 8 31}ridiculous flights{b}
+of fancy to the{bgcolor: 2305 8 31} Gavinners's{b}
+song lyrics,{wait: 8} please.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{speed: 5}{color: 2}
+(Finally, something we agree{b}
+on.){color: 0}{p}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 5}
+The stamp was a{speed: 3} "murder{b}
+weapon"?{wait: 8} Nonsense!{nextpage_button}{person: 6 146 145}
+Murder is a simple business.{b}
+Who would go to such lengths?{wait: 12}{b}
+No one.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{name: 1024}{person: 4 41 40}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Oh,{wait: 8} I disagree.{fademusic: 0}{music: 18 0}{p}{bg: 26}{name: 13568}{person: 6 160 159}{animation: 149 1}{shake: 30 0}{bgcolor: 2305 8 31}
+C-{wait: 10}Come again...?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{name: 1024}{person: 4 45 44}{hidetextbox: 0}{speed: 3}
+Recall,{wait: 10} if you would,{wait: 10} the{b}
+victim's reclusive lifestyle.{nextpage_button}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 166}{person: 0 0 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{speed: 3}
+Drew Misham hid from the{b}
+world.{wait: 16} He avoided meetings.{p}{speed: 4}
+His only contact with the{b}
+outside world...{wait: 10} was the {color: 1}mail{color: 0}.{p}{bg: 29}{name: 2560}{person: 10 259 258}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+The...{bgcolor: 2305 8 31} mail!{nextpage_button}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{name: 1024}{person: 4 59 58}{speed: 4}
+Now,{wait: 12} if you wanted to kill{b}
+someone you couldn't meet,{wait: 10}{b}
+but you knew read letters...{nextpage_button}{person: 4 64 65}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...a {color: 1}stamp{color: 0} {bgcolor: 2305 8 31}would be the{b}
+perfect{bgcolor: 2305 8 31} weapon!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 166}{wait: 32}{name: 13568}{person: 6 167 166}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+Ridiculous!{wait: 20} {bgcolor: 2305 8 31}Where's your{b}
+proof?{wait: 30} {speed: 2}{0x59}{shake: 30 0}{bgcolor: 2305 8 31}I want proof!{nextpage_button}{person: 6 157 156}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}
+Show us evidence that this{b}
+poisoned stamp was sent to{b}
+him...{wait: 10} as a murder weapon!{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{speed: 4}{color: 2}
+(I might not have "{color: 1}evidence{color: 2}",{wait: 30}{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+per se...){p}{speed: 3}
+(But things are finally{b}
+starting to come together!){p}{color: 0}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Wh-{wait: 15}What is it,{wait: 12} Apollo?{bgcolor: 2305 8 31}{p}{speed: 4}
+Your fists are trembling!{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I think I know what happened!{wait: 20}{b}
+I don't believe it...{speed: 5} but I{b}
+can see it!{nextpage_button}{speed: 3}
+I think I know how Mr. Misham{b}{bgcolor: 2305 8 31}{shake: 30 0}
+was killed!{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Well,{wait: 10} fill us in,{wait: 10}{bgcolor: 2305 8 31} Mr. Justice!{p}{endjmp}
+
+{{32}}
+{bop}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 3}...{wait: 12}A certain piece of evidence{b}
+points to the truth,{wait: 4} Your{b}
+Honor.{p}{0x6c: 0}{0x6e: 20}{person: 4 66 65}
+I can show you how someone{b}{speed: 2}{0x59}{shake: 30 0}{bgcolor: 2305 8 31}
+with the {color: 1}intent to kill{color: 0} sent{b}
+Mr. Misham the stamp of death!{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{33}}
+{bop}{0x6d: 0}{fademusic: 30}{bg: 29}{name: 2560}{person: 10 264 264}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 5}...{bgcolor: 2305 8 31}...{p}{person: 10 263 262}{sound: 52 1}{bgcolor: 2305 8 31}
+I'm not sure it's entirely{b}
+clear to me what this proves,{wait: 10}{b}
+Mr. Justice.{p}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+Huh...?{wait: 25}{b}{person: 4 61 61}{animation: 149 1}{speed: 3}{color: 2}
+(Was I wrong?){color: 0}{p}{bg: 26}{name: 13568}{person: 6 149 148}
+I believe we have shown{b}
+probable{wait: 6} "intent to kill".{p}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Except the killer would be{b}
+Herr Judge,{wait: 12} and the victim,{b}
+you!{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 60 60}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Yeeeeargh!{wait: 80}{nextpage_nobutton}{0x6c: 0}{0x6e: 20}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+Consider that a warning,{wait: 12}{b}
+Mr. Justice.{wait: 15} Think before{b}
+presenting next time.{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{speed: 5}
+Yes, Your Honor.{wait: 30}{b}{person: 4 61 61}{animation: 149 1}{color: 2}{speed: 4}
+(Let's think this one over{b}
+again.){0x23: 0}{music: 255 90}{p}{color: 0}{speed: 255}{jmp: 160}{endjmp}
+
+{{34}}
+{bop}{0x6d: 0}{fademusic: 45}{bg: 29}{name: 2560}{person: 10 265 264}{hidetextbox: 0}Isn't this {showphoto: 458}the envelope...{wait: 20} the{b}
+one from seven years ago?{nextpage_button}{bg: 25}{name: 1024}{person: 4 45 44}{speed: 5}
+Think about the text of{b}
+the letter again.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{person: 0 0 0}{bg: 65}{name: 0}{bgcolor: 257 1 31}{wait: 7}{wait: 120}{name: 1024}{hidetextbox: 0}{person: 0 0 0}{speed: 3}
+There were two pages in the{b}
+envelope.{wait: 20} This is page one.{p}{hidetextbox: 1}{wait: 40}{bgcolor: 514 1 31}{wait: 15}{person: 0 0 0}{bg: 66}{name: 0}{bgcolor: 257 1 31}{wait: 7}{wait: 100}{name: 1024}{hidetextbox: 0}{person: 0 0 0}
+...And this is page two.{p}{hidetextbox: 1}{wait: 40}{bgcolor: 514 1 31}{wait: 15}{person: 4 44 44}{bg: 25}{name: 1024}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{person: 4 45 44}{showphoto: 458}{speed: 4}
+I want to draw your attention{b}
+to one phrase in particular.{p}{speed: 5}
+"...Send in the enclosed{b}
+envelope with the enclosed{b}
+stamp within 3 days."{p}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 9 0}
+The enclosed {color: 1}stamp{color: 0},{wait: 7} Your{b}
+Honor.{nextpage_button}{bganim: 98 579}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 5}
+Ah...{bgcolor: 2305 8 31}!{nextpage_button}{bg: 27}{name: 5120}{person: 20 461 461}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+In other words,{wait: 8} if I have{b}{bgcolor: 2305 8 31}{shake: 30 0}
+this straight...{nextpage_button}{person: 20 452 451}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+"The Stamp!{wait: 10} Poison!{wait: 8} On The{b}
+Stamp!{wait: 12} Lick,{wait: 10} Lick, Gasp{speed: 6}{0x5a}..."{wait: 12}{speed: 2}{b}{person: 20 453 453}
+end quote!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{name: 1024}{person: 4 41 40}{hidetextbox: 0}{speed: 3}
+Now,{wait: 10} what if he had done{b}
+exactly as the letter asked?{p}{bg: 28}{name: 1280}{person: 5 105 104}
+He would sign the document,{wait: 10}{b}
+put it in the envelope...{wait: 16} and{b}
+put the stamp on it,{wait: 8} right?{p}
+Then he would put it in his{b}{showphoto: 197}{person: 5 103 102}
+letter box...!{nextpage_button}{name: 1024}{speed: 3}
+Fifteen minutes wouldn't have{b}
+elapsed between affixing the{b}
+stamp,{wait: 10} and mailing the letter.{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 41 40}
+But the clock started ticking,{wait: 6}{b}
+and when the time came...{wait: 16}{b}
+he drew his last breath.{p}
+And the{wait: 6} {color: 1}murder weapon{color: 0}{wait: 6} would{b}
+be taken away from the scene.{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 8}{0x5a}
+...{wait: 30}{person: 10 265 264}{fademusic: 30}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Quite conveniently,{wait: 10} thanks{b}
+to the postal{bgcolor: 2305 8 31} system!{p}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{bg: 26}{name: 13568}{person: 6 170 170}{sound: 165 1}{0x63}{person: 6 171 171}{0x63}{person: 6 172 172}{0x63}{person: 6 173 173}{0x63}{person: 6 174 174}{0x63}{person: 6 175 175}{0x63}{person: 6 176 176}{0x63}{0x63}{hidetextbox: 0}{speed: 4}
+...Such a splendid imagination{b}
+you have,{wait: 10} Herr Forehead!{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{speed: 6}
+......{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}
+Let me confirm one thing{b}{person: 6 151 150}
+with you,{wait: 10} if I might.{p}{showphoto: 202}
+So,{wait: 12} this "poisoned stamp" was{b}
+inside this envelope from{b}
+seven years ago{0x5a}...{wait: 15}{0x59}{wait: 10}{speed: 3} ja?{p}{person: 6 149 148}
+Is that what you'd have us{b}
+believe?{fademusic: 0}{music: 18 0} Really?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 5}
+...W-{wait: 20}Well{speed: 8}{0x5a}...{nextpage_button}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+It is a little bit of a{b}
+stretch,{wait: 8} but there's a{b}
+possibility.{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+Yes.{wait: 8} A very small possibility.{wait_noanim: 25}{b}{person: 6 149 148}
+How small,{wait: 10} I wonder?{nextpage_button}{bg: 28}{name: 1280}{person: 5 100 100}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Um...{nextpage_button}{bg: 26}{name: 13568}{person: 6 149 148}{showphoto: 202}{speed: 4}
+A poisoned stamp in this{b}
+envelope?{wait: 30} A stamp that then{b}
+became the murder weapon?{nextpage_button}{person: 6 147 147}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+How do you intend to prove{b}{person: 6 146 145}
+this seeming coincidence?{nextpage_button}{bganim: 98 579}{bg: 28}{name: 1280}{person: 5 101 100}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+W-{wait: 20}Well...{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}{color: 2}
+(Ack!{wait: 16} {speed: 4}It was seven years ago,{wait: 12}{b}
+and we don't even know who{b}
+sent that letter!){nextpage_button}{color: 0}{bg: 26}{name: 13568}{person: 6 151 150}
+And your answer...{wait: 14} is silence,{wait: 10}{b}{person: 6 149 148}
+I see. Very well!{wait: 20} I move to{speed: 8}...{nextpage_button}{fademusic: 30}{name: 512}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{speed: 3}It's not nice to pick on{b}
+the Fr{1988}ulein,{wait: 8} Klavier.{nextpage_button}{person: 6 145 145}{name: 13568}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...!{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 8 201}{wait: 32}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 10}{bgcolor: 516 1 8}{wait: 25}{bgcolor: 513 0 31}{wait: 1}{person: 9 247 247}{bgcolor: 257 8 31}{wait: 1}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{wait: 5}{bgcolor: 2305 8 31}{wait: 40}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{wait: 10}{speed: 8}
+Ah{0x5a}...{wait: 30} {bg: 27}{person: 9 247 247}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 6}Em{bgcolor: 2305 8 31}a!{fademusic: 0}{music: 41 0}{wait: 12}{0x8e: 9 254}{0x8f: 257}{0x63}{nextpage_button}{name: 2304}{person: 9 246 245}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Well?{wait: 12} Like my Kristoph Gavin{b}
+impression?{wait_noanim: 30}{person: 9 241 240} Did I sound like{b}
+him?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{speed: 4}
+...{wait: 6}Don't quit your day job.{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+Don't you have a crime scene{b}
+to be looking after,{wait: 10} Fr{1988}ulein{b}
+Detective?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 9 232}{wait: 32}{name: 2304}{person: 9 233 232}{hidetextbox: 0}{speed: 3}
+Someone had to come dig you{b}
+all out of the mess you're{b}
+making of this case.{nextpage_button}{name: 1024}{bg: 25}{person: 4 59 58}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+Mess...?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 9 249}{wait: 32}{person: 9 250 249}{name: 2304}{hidetextbox: 0}{speed: 3}
+You know,{wait: 6} none of this would{b}
+happen if you just trusted in{b}
+science a little more.{p}{name: 2304}{speed: 3}
+You can find out if that stamp{b}
+was in that envelope, {person: 9 233 232}{wait: 12}easy.{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}
+Care to explain yourself,{wait: 16}{b}
+Fr{1988}ulein Detective?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 9 236}{wait: 32}{name: 2304}{person: 9 237 236}{hidetextbox: 0}{speed: 3}
+Glare at me all you want,{wait: 10}{b}
+but science is on my side.{nextpage_button}{showphoto: 204}{person: 9 241 240}{speed: 3}
+It's all in the {sound: 52 1}{bgcolor: 2305 8 31}{color: 1}residue{color: 0},{wait: 8}{b}
+right?{wait_noanim: 25}{b}{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{name: 1024}{person: 4 60 60}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+That's right!{wait: 20} {person: 4 62 61}{animation: 149 1}{wait: 5}{speed: 5}The poison{b}
+detection spray...{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{speed: 2}
+Produce the {color: 1}red envelope{color: 0}{b}{bgcolor: 2305 8 31}{shake: 30 0}{showphoto: 202}
+at once!{p}{bganim: 98 579}{person: 10 263 262}{bgcolor: 2305 8 31}{shake: 30 0}
+You can open it on the{b}
+authority of the court!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bganim: 98 579}{bg: 214}{person: 0 0 0}{fademusic: 0}{music: 4 100}{bgcolor: 770 1 31}{wait: 15}{0x74: 6 3}{special_jmp}{endjmp}
+
+{{35}}
+{bop}{fademusic: 45}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}{bgcolor: 2305 8 31}Well!{wait: 10} Would{bgcolor: 2305 8 31} you look at that!{p}{bg: 27}{name: 2304}{person: 9 248 247}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+No mistaking it.{wait: 20} {0x8e: 9 254}{0x8f: 257}{0x63}{person: 9 246 245}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}That's{b}
+atroquinine residue!{fademusic: 0}{music: 35 0}{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 69 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 80 1}{sound: 22 1}{wait: 120}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 5}
+I-{wait: 20}I don't believe it...{nextpage_button}{person: 10 266 266}{showphoto: 202}{speed: 4}
+A {color: 1}murder weapon{color: 0} from the{b}
+past...{nextpage_button}{person: 10 263 262}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Now,{wait: 12} seven years later,{wait: 10} it{b}
+bares its fangs at last!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 26}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{name: 13568}{person: 6 167 166}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Absolutely outrageous!{0x5a}{wait: 30}{b}
+...{wait: 12}{0x59}{speed: 3}Tell me why!{nextpage_button}{person: 6 157 156}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Why didn't this murder take{b}
+place seven years ago!?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+Well,{wait: 16} um...{p}{bg: 27}{name: 2304}{person: 9 250 249}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+There's one possibility.{nextpage_button}{person: 9 233 232}{sound: 51 1}{bgcolor: 2305 8 31}
+Maybe Mr. Misham {color: 1}figured{b}
+it out{color: 0}.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}
+Figured what out?{p}{bg: 27}{name: 2304}{person: 9 233 232}{showphoto: 202}
+He realized that the person{b}
+who sent that letter wanted{b}
+him dead.{p}{person: 9 250 249}{speed: 5}
+So he sent his reply with{b}
+a different stamp.{p}{bganim: 98 579}{bg: 29}{name: 2560}{person: 10 265 264}{showphoto: 460}
+...{wait: 12}And put his decisive{b}{color: 1}
+evidence{color: 0} in a frame.{p}{bganim: 98 579}{fademusic: 30}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 14 1}{sound: 26 1}{wait_noanim: 63}{hidetextbox: 1}{bg: 25}{person: 4 58 58}{sound: 48 1}{bgcolor: 2305 8 31}{wait: 45}{bg: 26}{person: 6 150 150}{sound: 48 1}{bgcolor: 2305 8 31}{wait: 45}{bg: 28}{person: 5 98 98}{sound: 48 1}{bgcolor: 2305 8 31}{wait: 45}{bg: 27}{name: 5120}{person: 20 453 453}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 40}{nextpage_nobutton}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Ack!{wait: 10}{bgcolor: 2305 8 31} You're still here!?{p}{bg: 27}{name: 5120}{person: 20 460 459}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+C-{wait: 10}Can I make a statement{b}{shake: 30 0}
+here,{wait: 10} on the record?{p}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I,{wait: 10} Spark "Razortooth" Brushel,{wait: 20}{b}{person: 20 452 451}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}
+claim this scoop as mine!{fademusic: 0}{music: 38 0}{p}{person: 20 461 461}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+"Drew Misham Killed In Cold{wait: 10}{b}
+Blood..."{p}{speed: 2}
+"...{wait: 12}By {color: 1}Sender{color: 0} Of Seven-Year-{b}{showphoto: 202}{bgcolor: 2305 8 31}{shake: 30 0}
+Old Letter!" end quote.{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Hmm,{wait: 12} {speed: 2}no, maybe something more{b}
+succinct.{wait: 60}{person: 20 457 456}{speed: 2} "Star Falls After{b}
+7 Year Delay",{wait: 12}{0x5a}{speed: 5}{person: 20 450 449}{shake: 30 0}{wait: 10} end quote.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Order!{wait: 10} Order!{wait: 10} Order!{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+I see no room for further{b}
+argument here.{p}{person: 10 263 262}{speed: 4}
+Though I admit,{wait: 15} this is all{b}
+coming as quite a shock.{p}{speed: 3}
+To think that the murder{b}
+weapon reached his mouth{b}
+after seven years...!{p}{person: 10 265 264}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+"{color: 1}Stamp{color: 0} Is Ticket Straight To{b}{person: 10 266 266}
+Afterlife",{0x5a}{wait: 25}{speed: 2}{person: 10 259 258}{shake: 30 0}{wait: 10} end quote!{nextpage_button}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 4}
+Uh oh.{wait: 16} {speed: 3}I think the witness is{b}
+a bad influence on our judge.{p}{fademusic: 45}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{fademusic: 0}{music: 1 0}{hidetextbox: 0}{bgcolor: 2305 8 31}
+...{wait: 12}I see no need for further{b}
+debate on this matter.{p}{person: 10 263 262}
+The sender of that letter{b}
+seven years ago could hardly{b}
+have been our defendant!{p}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+A-{wait: 10}Apollo!{p}{person: 5 104 104}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+I think we just won!{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 2}
+...{wait: 10}Very well!{wait: 20} {speed: 3}This court{b}
+finds the defendant...{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 26}{person: 6 170 170}{sound: 165 1}{0x63}{person: 6 171 171}{0x63}{person: 6 172 172}{0x63}{person: 6 173 173}{0x63}{person: 6 174 174}{0x63}{person: 6 175 175}{0x63}{person: 6 176 176}{0x63}{0x63}{name: 13568}{hidetextbox: 0}{speed: 4}
+...{wait: 12}Is this the bright future{b}
+of our legal system?{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 52 1}{bgcolor: 2305 8 31}
+Prosecutor{0x5a}{speed: 8}...{wait: 30}{0x59} {speed: 6}Gavin?{p}{bg: 26}{name: 13568}{person: 6 151 150}
+A ticket to the afterlife{b}
+from seven years ago...?{p}{speed: 3}
+Tickets for Gavinners's shows{b}
+are invalid after two weeks.{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 2}
+B-{wait: 16}{speed: 3}But it doesn't make sense{b}
+any other way!{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+...{wait: 16}It boggles my mind that so{b}
+many people haven't noticed{b}
+this.{p}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{fademusic: 0}{music: 19 0}{speed: 2}
+There's a fatal contradiction{b}
+in Herr Forehead's claim!{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+A c-{wait: 16}contradiction?{p}{bg: 26}{name: 13568}{person: 6 151 150}{showphoto: 202}{speed: 3}
+A poisoned stamp was placed in{b}
+this envelope seven years ago.{p}{showphoto: 204}
+Whereupon it was framed,{wait: 15}{b}
+until now.{p}{speed: 4}
+If that's the case,{wait: 25} {person: 6 149 148}{sound: 52 1}{bgcolor: 2305 8 31}then why{b}
+would Drew Misham have done{b}
+what he did?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+E-{wait: 8}Ema explained that!{wait: 12} {speed: 3}He must{b}
+have realized it was poisoned!{nextpage_button}{bg: 26}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{name: 13568}{speed: 4}
+...Therein lies the rub.{nextpage_button}{bg: 25}{name: 1024}{person: 4 36 36}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 166}{wait: 32}{name: 13568}{person: 6 167 166}{hidetextbox: 0}{speed: 3}
+Seven years ago,{wait: 10} the forger{b}
+Drew Misham sensed a trap,{wait: 6} and{b}
+put the stamp in a frame.{p}
+I do not debate this.{wait_noanim: 30}{b}{person: 6 146 145}
+...{wait: 20}But this begs the question.{p}
+Why,{wait: 8} seven years later,{wait: 10} {person: 6 149 148}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}did{b}
+he use that stamp on the night{b}
+of the murder?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 5}{wait: 8}
+Ah...!{p}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 3}
+Surely,{wait: 10} you don't mean to{b}
+suggest that Mr. Misham{b}
+simply{wait: 12} "forgot"?{p}{speed: 4}
+He put the murder weapon in{b}
+a frame on his desk for seven{b}
+years{speed: 8}{0x5a}...{0x59} {speed: 3}and forgot?{p}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{0x26: 1}{bgtile: 2}{bg: 23}{person: 62 1027 1026}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+You expect{bgcolor: 2305 8 31} us to believe{bgcolor: 2305 8 31}{b}
+he sprang the{bgcolor: 2305 8 31} trap on himself?{nextpage_button}{hideperson}{0x26: 0}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{fademusic: 120}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 30}{bgcolor: 2305 8 31}{b}{shake: 30 1}
+Uh...{wait: 50}{nextpage_nobutton}{person: 4 60 60}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 3}
+Uwaaaa{bgcolor: 2305 8 31}aaaaaa{bgcolor: 2305 8 31}aaaaaa{bgcolor: 2305 8 31}aaaaaa{bgcolor: 2305 8 31}augh!{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}{wait: 80}{nextpage_nobutton}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{person: 10 266 266}{0x5a}{bgcolor: 260 1 31}{wait: 25}{wait: 40}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 4}
+While I admit,{wait: 15} this is all{b}
+quite shocking,{wait: 10} myself...{p}{person: 10 263 262}{speed: 3}
+...it does seem highly{b}
+unlikely that he would{b}
+fall afoul of a trap...{p}{person: 10 261 261}
+...{wait: 10}that had been{b}
+sitting on his desk for{b}
+seven years!{p}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+A-{wait: 10}Apollo!{p}{person: 5 104 104}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+I don't think we're winning{b}
+anymore.{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 3}
+Ah,{wait: 6} I'm glad to see we're all{b}
+back in the real world now.{p}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Welcome{bgcolor: 2305 8 31} back to reality!{wait: 30}{b}{person: 6 157 156}{speed: 5}
+We've been waiting for you.{wait: 20}{fademusic: 0}{music: 35 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+OK...{wait: 16} {speed: 3}Then how do you explain{b}
+the poisoned stamp that was in{b}{showphoto: 458}{bgcolor: 2305 8 31}{shake: 30 0}
+this envelope?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{hidetextbox: 0}{name: 13568}{person: 6 146 145}{bg: 26}{speed: 3}
+The "poisoned stamp"...?{nextpage_button}{person: 6 149 148}{sound: 52 1}{bgcolor: 2305 8 31}
+Where exactly is this poisoned{b}
+stamp,{wait: 12} again?{wait: 16} Have you brought{b}
+it to court for us?{nextpage_button}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Uh...{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}
+I see no proof that such{b}
+a thing ever existed.{p}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{name: 1024}{person: 4 59 58}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+What about the atroquinine{b}{showphoto: 460}
+residue,{wait: 10} huh!?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 4}
+Oh,{wait: 6} I agree,{wait: 10} that does seem{b}
+to be atroquinine residue.{p}{speed: 5}
+But,{wait: 10} Herr Forehead,{wait: 30}{person: 6 149 148}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4} it's{b}
+certainly no stamp.{nextpage_button}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}
+...{bgcolor: 2305 8 31}!{wait: 30}{b}{person: 4 62 61}{animation: 149 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Y-{wait: 16}Yeah, but...{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}
+Even if your precious poisoned{b}
+stamp did exist{0x5a}...{0x59}{speed: 3}{nextpage_button}{person: 6 146 145}
+...{wait: 10}Drew Misham never would{b}
+have used it.{nextpage_button}{person: 6 149 148}{speed: 5}
+...{wait: 16}That is all.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{fademusic: 60}{speed: 6}
+...{speed: 8}...{speed: 3}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+Urk{bgcolor: 2305 8 31}.{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 266 266}{hidetextbox: 0}{speed: 3}
+I believe we've come to{b}
+a conclusion.{wait: 20}{person: 10 259 258} Again.{nextpage_button}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+A-{wait: 10}Apollo!{wait: 20}{b}{speed: 3}
+Were we wrong the whole time?{nextpage_button}{name: 1024}
+I-{wait: 12}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}I can't believe it!{nextpage_button}{speed: 4}
+The poison traces match up!{wait: 12}{b}
+It can't be coincidence!{p}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}
+I'd like to bring some{b}
+closure to this issue,{wait: 16}{b}
+sometime this year.{p}{person: 10 263 262}{speed: 3}
+...Mr. Justice?{p}{bg: 25}{name: 1024}{person: 4 37 36}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...Yes,{wait: 8} Your Honor!{p}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 3}
+Let's review the facts,{wait: 12} and{b}
+see where we stand.{nextpage_button}{person: 10 259 258}{fademusic: 0}{music: 4 0}
+Seven years ago,{wait: 16}{showphoto: 202} Drew Misham{b}
+received a red envelope.{p}
+There were traces of the{b}
+poison atroquinine on the{b}
+document inside that envelope.{nextpage_button}{person: 10 263 262}
+A similar trace was also{b}{bganim: 98 579}{showphoto: 460}
+found at the crime scene...{p}
+...on this tiny picture frame.{nextpage_button}{person: 10 266 266}
+The defense has indicated{b}
+the possibility of a {color: 1}yellow{b}
+envelope{color: 0}.{p}{person: 10 259 258}
+An envelope that left the{b}
+scene of the crime with the{b}
+poisoned stamp on it.{p}{bganim: 98 579}{bg: 26}{name: 13568}{person: 6 151 150}
+Yes,{wait: 12} but even if {showphoto: 202}this envelope{b}
+contained a poisoned stamp...{p}
+...and Drew Misham,{wait: 6} knowing{b}
+this,{wait: 10} {bganim: 98 579}{showphoto: 204}put it in a frame...{p}{person: 6 146 145}
+...he never would have used{b}
+that stamp!{p}{bganim: 98 579}{bg: 29}{name: 2560}{person: 10 260 260}{speed: 8}
+...{0x63}{person: 10 259 258}{speed: 5}I'm afraid you're right.{nextpage_button}{person: 10 263 262}{speed: 3}
+Which means there is a fatal{b}
+flaw in the defense's case!{nextpage_button}{bg: 25}{name: 1024}{person: 4 42 42}{speed: 4}{color: 2}
+(I haven't been on the wrong{b}
+track this whole time,{wait: 8} I'm {b}
+sure of it!){p}{person: 4 40 40}{speed: 4}
+(The traces of atroquinine,{wait: 30}{b}{showphoto: 458}
+the envelope,{wait: 10} the frame...){showphoto: 460}{p}{speed: 3}
+(...{wait: 16}and Drew Misham's{b}{showphoto: 423}
+mysterious death...){nextpage_button}{bganim: 98 579}{person: 4 58 58}{speed: 2}
+(They're all connected{b}{shake: 30 0}{bgcolor: 2305 8 31}
+somehow!){color: 0}{p}{bg: 29}{name: 2560}{person: 10 259 258}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Well,{wait: 12} {speed: 3}Mr. Justice,{wait: 10} do you{b}
+have a conclusion for us?{nextpage_button}{bg: 25}{name: 1024}{person: 4 42 42}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait: 40}{person: 4 41 40}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}The defense stands by{b}
+its case,{wait: 10} Your Honor.{p}{speed: 4}
+We've seen that the logical{b}
+outcome of the evidence makes{b}
+no sense.{nextpage_button}{person: 4 37 36}{speed: 3}
+Which means that one of our{b}
+clues...{wait: 8} must be a {color: 1}fake{color: 0}.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}
+Ah,{wait: 6} a fake clue?{wait: 30}{person: 6 146 145}{bgcolor: 2305 8 31}{speed: 4} Fascinating!{p}{person: 6 149 148}{speed: 3}
+And if we find this fake,{wait: 10}{b}
+your wild fantasies will{b}
+prove quite reasonable,{wait: 10} ja?{nextpage_button}{endjmp}
+
+{{36}}
+{bop}{bg: 25}{name: 1024}{hidetextbox: 0}{person: 4 37 36}The fake clue that's thrown{b}
+us off the poison's trail{b}
+is none other than...{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 88}{0x59}{0x50: 1}{b}{3args_choice_jmp: 165 166 167}{endjmp}
+
+{{37}}
+{bop}{fademusic: 30}{bg: 29}{name: 2560}{person: 10 265 264}{showphoto: 202}{sound: 52 1}{bgcolor: 2305 8 31}This red envelope{speed: 8}...{wait: 12} {speed: 3}is a{b}
+fake?{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 4}
+...Without a doubt,{wait: 10} Your{b}
+Honor.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}
+...{wait: 16}{speed: 3}Wasn't it you who presented{b}
+this evidence to the court?{nextpage_button}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+...Oh.{nextpage_button}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hold on a second,{wait: 12} Apollo!{p}{person: 5 105 104}{speed: 3}
+The poison on that envelope,{wait: 8}{b}
+the frame,{wait: 12} and the coffee{b}
+mug...{p}{person: 5 103 102}
+They're all connected{b}
+somehow!{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Oh{speed: 8}...{wait: 20} {speed: 3}right!{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 5}{color: 2}
+(*sigh*){p}{person: 4 42 42}{color: 2}{speed: 3}
+(I can hear it already.{wait: 20}{b}
+"It looks like the fake...{b}
+was you,{wait: 10} Herr Forehead!"){color: 0}{nextpage_button}{bg: 28}{name: 1280}{person: 5 99 98}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Now's no time for wallowing{b}
+in self-pity!{wait: 20} Let's get{b}
+thinking,{wait: 15} Apollo!{0x23: 0}{music: 255 90}{rejmp: 164}{endjmp}
+
+{{38}}
+{bop}{fademusic: 30}{bg: 29}{name: 2560}{person: 10 265 264}{showphoto: 204}{sound: 52 1}{bgcolor: 2305 8 31}This frame{speed: 8}...{wait: 12} {speed: 3}is the{wait: 6} "fake"{b}
+clue?{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 4}
+...Without a doubt,{wait: 10} Your{b}
+Honor.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 3}
+...{wait: 16}Wasn't it you who presented{b}
+this evidence to the court?{nextpage_button}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+...Oh.{nextpage_button}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hold on a second,{wait: 12} Apollo!{p}{person: 5 105 104}{speed: 3}
+The poison on the envelope,{wait: 12}{b}
+that frame,{wait: 12} and the coffee{b}
+mug...{p}{person: 5 103 102}
+They're all connected{b}
+somehow!{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 8}
+Oh...{wait: 20} {speed: 3}right!{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 5}{color: 2}
+(*sigh*){p}{person: 4 42 42}{speed: 3}{color: 2}
+(I can hear it already.{wait: 10}{b}
+"It looks like the fake...{wait: 10}{b}
+was you,{wait: 8} Herr Forehead!"){color: 0}{nextpage_button}{bg: 28}{name: 1280}{person: 5 99 98}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+We can flog ourselves later,{wait: 10}{b}
+Apollo!{wait: 20} {speed: 3}Now's the time for{b}
+thinking!{0x23: 0}{music: 255 90}{rejmp: 164}{endjmp}
+
+{{39}}
+{bop}{fademusic: 45}{bg: 29}{name: 2560}{person: 10 265 264}{showphoto: 167}{sound: 52 1}{bgcolor: 2305 8 31}Th-{wait: 6}The victim was a "fake{b}
+clue"?{wait: 12} I'm afraid I don't{b}
+understand.{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 4}
+...I'll explain.{nextpage_button}{person: 4 45 44}{speed: 3}
+We have an{wait: 6} {color: 1}envelope{color: 0},{wait: 6} a{wait: 6} {color: 1}frame{color: 0},{wait: 6}{b}
+and a{wait: 6} {color: 1}mug{color: 0},{wait: 6} linked by poison.{p}
+That all makes sense.{p}{person: 4 48 47}
+What doesn't make sense is{b}
+the {color: 1}victim himself{color: 0}!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 4}
+...Congratulations.{wait: 14} You've{b}
+completely lost me.{p}
+So the fake evidence is none{b}
+other than the master of fake{b}
+himself,{wait: 12} the forger?{nextpage_button}{person: 6 149 148}{speed: 4}
+...It makes a good story,{wait: 12}{b}
+I'll give you that.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{name: 1024}{person: 4 42 42}{bgcolor: 516 1 8}{wait: 25}{bg: 4095}{bgcolor: 257 0 8}{wait: 1}{hidetextbox: 0}{speed: 5}{color: 2}
+(The fake clue{speed: 8}...{wait: 20}{speed: 4}{b}{color: 1}
+Fakes{color: 2}...{wait: 20} {speed: 5}{color: 1}forgeries{color: 2}...){p}{color: 0}{bg: 25}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{person: 4 37 36}{wait: 4}
+Ah..{bgcolor: 2305 8 31}.{bgcolor: 2305 8 31}!{p}{bg: 28}{name: 1280}{person: 5 99 98}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{fademusic: 0}{music: 35 0}{speed: 2}
+I know that face!{wait: 10}{bgcolor: 2305 8 31}{speed: 3} That's the{b}
+"I just had an idea" face!{nextpage_button}{name: 1024}{speed: 4}
+I don't know if I'm right...{wait: 12}{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+but I'm going with it anyway!{nextpage_button}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{name: 1024}{person: 4 59 58}
+What if our{wait: 6} "{color: 1}forger{color: 0}"{wait: 30}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{0x59} is the{b}
+"{color: 1}fake{color: 0}"!?{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 5}
+...Come again?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{name: 1024}{person: 4 41 40}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 4}
+Seven years ago,{wait: 6} our forger{b}
+sniffed a trap,{wait: 10} and stepped{b}
+aside.{p}{speed: 4}
+...{wait: 16}Seven years passed.{p}{person: 4 37 36}{speed: 3}
+Now the forger stumbles into{b}
+that very same trap,{wait: 12} and dies.{wait: 20}{b}{person: 4 48 47}{bgcolor: 2305 8 31}
+...Why?{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+That's what I want to know!{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}
+Because the forger who was{b}
+killed{0x5a}{speed: 8}...{wait: 30}{person: 4 48 47}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3} was a{wait: 6} {color: 1}fake{color: 0}.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 166}{wait: 32}{person: 6 167 166}{name: 13568}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Here we are again.{wait: 16} {speed: 3}The{b}
+victim...{wait: 20} was a{wait: 6} "fake"?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{name: 1024}{person: 4 38 38}{0x63}{person: 4 37 36}{hidetextbox: 0}{speed: 4}
+One {color: 1}forger{color: 0} smelled the trap.{wait: 20}{b}
+One {color: 1}forger{color: 0} fell into the trap.{p}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 64 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+That's {bgcolor: 2305 8 31}two forgers!{wait: 20} And one{bgcolor: 2305 8 31}{b}
+of them was a{bgcolor: 2305 8 31} fake!{b}{fademusic: 0}{music: 7 0}{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 29}{name: 2560}{person: 10 263 262}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Order!{wait: 10} Order!{wait: 10} Order!!!{b}{bgcolor: 2305 8 31}{shake: 30 0}{nextpage_button}{bg: 26}{name: 13568}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}
+So you are telling us that{b}
+Drew Misham,{wait: 8} the victim,{wait: 10}{b}
+was a fake?{p}
+Well,{wait: 12} if he was the fake,{wait_noanim: 30}{b}{person: 6 149 148}
+who was the {color: 1}real{color: 0} forger?{p}{person: 6 157 156}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+You'd better not be{bgcolor: 2305 8 31} claiming{b}
+there was some kin{bgcolor: 2305 8 31}d of{b}
+switcheroo?{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+...I'm afraid you're going to{b}
+have to back up your story.{p}{person: 10 263 262}
+Mr. Justice.{wait: 10} Show us just who{b}
+the real {color: 1}Drew Misham{color: 0} was!{nextpage_button}{bg: 25}{name: 1024}{person: 4 58 58}{color: 2}
+(If Drew Misham wasn't the{wait: 30}{b}{color: 1}
+real forger{color: 2}...){p}{speed: 2}
+(...there's only {person: 4 36 36}{bgcolor: 2305 8 31}{shake: 30 0}one other{b}
+person it could have been!){color: 0}{p}{person: 4 38 38}{speed: 5}
+...Understood,{wait: 10} Your Honor.{0x63}{p}{endjmp}
+
+{{40}}
+{bop}{name: 1024}{person: 4 59 58}{speed: 3}Forger Drew Misham was himself{b}
+a{wait: 6} {color: 1}forgery{color: 0}!{p}{person: 4 66 65}
+The real forger was...!{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{b}{special_jmp}{endjmp}
+
+{{41}}
+{bop}{bg: 29}{name: 2560}{person: 10 258 258}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}......{p}{bg: 26}{name: 13568}{person: 6 145 145}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+......{p}{bg: 27}{name: 5120}{person: 20 461 461}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+......{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}{color: 2}
+(Ack!{wait: 20} {speed: 3}"Attorney Makes Wild{b}
+Claim,{wait: 10} Becomes Subject Of{b}
+Mass Ridicule"... end quote!){nextpage_button}{bg: 27}{name: 1024}{person: 20 461 461}{speed: 3}
+(Better come up with something{b}
+quick before that story goes{b}{shake: 30 0}{bgcolor: 2305 8 31}
+to print...!){color: 0}{nextpage_button}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{jmp: 168}{endjmp}
+
+{{42}}
+{bop}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 2}There can be only one{b}{bgcolor: 2305 8 31}{shake: 30 0}
+explanation,{wait: 8} really.{p}{speed: 4}
+The real identity of the{b}{color: 1}
+forger{color: 0}{wait: 10} known as {color: 1}Drew Misham{color: 0}{b}
+is none other than...{p}{person: 4 64 65}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+...his only{bgcolor: 2305 8 31} daughter,{wait: 10} Vera{bgcolor: 2305 8 31}{wait: 12}{b}
+Misham!{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Order!{wait: 10} Order!{wait: 10} Order!{p}{person: 10 265 264}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+...Mr. Justice!{wait: 16}{bgcolor: 2305 8 31} This is going{b}
+out on a limb,{wait: 10} {speed: 3}even for you!{nextpage_button}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+I kinda agree.{wait: 10} {speed: 3}I mean,{wait: 10} Vera,{wait: 10}{b}
+a forger?{nextpage_button}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 4}
+Let's consider it before you{b}
+write it off entirely.{p}{person: 4 45 44}{speed: 3}
+If you look at the paintings{b}
+in the studio,{wait: 8} one fact{b}
+becomes quite clear.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 72}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{color: 1}
+Forgery{color: 0} had been taking place{b}
+in that studio for quite some{b}
+time!{nextpage_button}{bg: 25}{name: 1024}{person: 4 45 44}
+The forger wasn't caught in{b}
+that {color: 1}trap{color: 0} seven years ago.{p}
+This can only mean{wait_noanim: 30}{person: 4 37 36}{showphoto: 423} that the{b}
+one who was caught in the{b}
+trap wasn't the {color: 1}forger{color: 0}!{p}{bganim: 98 579}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 6}{wait: 10}
+Well{0x5a}...{wait: 30}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}{0x59} Actually,{wait: 10} that does{b}{speed: 3}
+make a certain kind of sense.{p}{bg: 25}{name: 1024}{person: 4 37 36}
+One more thing!{p}{person: 4 45 44}
+Only {color: 1}two sets of fingerprints{color: 0}{b}
+were found in the forger's{b}
+studio.{nextpage_button}{person: 4 45 44}{speed: 4}
+Drew Misham's{speed: 8}{0x5a}...{wait: 30}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31} and Vera{b}
+Misham's.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{person: 6 145 145}{name: 13568}{hidetextbox: 0}{speed: 8}
+......{nextpage_button}{bg: 25}{name: 1024}{person: 4 41 40}{speed: 3}
+If we know that Drew Misham{b}
+wasn't the forger...{p}{person: 4 37 36}
+...that leaves only one{b}
+possibility,{wait: 10} by process of{b}
+elimination.{p}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}
+The forger was Vera Misham.{wait_noanim: 40}{b}{person: 4 37 36}{speed: 5}
+...Well?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{person: 6 150 150}{fademusic: 120}{name: 13568}{hidetextbox: 0}{speed: 6}
+.{speed: 8}.{speed: 10}.{speed: 12}...{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{person: 6 170 170}{sound: 165 1}{0x63}{person: 6 171 171}{0x63}{person: 6 172 172}{0x63}{person: 6 173 173}{0x63}{person: 6 174 174}{0x63}{person: 6 175 175}{0x63}{person: 6 176 176}{0x63}{0x63}{wait: 60}{hidetextbox: 0}{speed: 5}
+...Fascinating!{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{bgcolor: 516 1 31}{wait: 25}{bg: 27}{name: 4864}{person: 19 414 414}{bgcolor: 260 1 31}{wait: 25}{fademusic: 0}{music: 1 0}{wait: 60}{bg: 29}{name: 2560}{person: 10 263 262}{hidetextbox: 0}{speed: 4}
+Vera Misham...?{p}{bg: 27}{name: 4864}{person: 19 414 414}{speed: 7}
+......{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+You've been paying attention{b}
+to the trial so far?{nextpage_button}{bg: 27}{name: 4864}{person: 19 414 414}{speed: 7}
+......{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{speed: 3}
+Let's just ask her and be{b}
+done with it,{wait: 10} shall we?{nextpage_button}{person: 6 146 145}
+Who are you?{p}{person: 6 157 156}
+Who is the {color: 1}forger{color: 0},{wait: 12}{b}{color: 1}
+Drew Misham{color: 0}?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 414}{wait: 32}{name: 4864}{person: 19 414 414}{hidetextbox: 0}{speed: 7}
+..{speed: 9}..{speed: 11}..{wait: 60}{nextpage_nobutton}{fademusic: 60}{person: 19 420 420}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+...!{nextpage_button}{speed: 7}
+..{speed: 9}..{speed: 11}..{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{bgcolor: 2305 8 31}{color: 2}{speed: 3}
+(Was that...{wait: 30} an expression{b}
+of emotion I saw on her face?){nextpage_button}{bg: 27}{person: 19 420 420}
+(She's staring holes into{b}
+Prosecutor Gavin's face{speed: 8}...){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{speed: 4}
+...I'm used to being stared{b}
+at by Fr{1988}uleins,{wait: 10} believe me.{p}{speed: 3}
+Though they usually talk to{b}
+me,{wait: 8} too.{p}{speed: 3}
+Tell us.{wait: 30}{person: 6 146 145}{speed: 4} Were you the one{b}
+who forged those works of art?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 420}{wait: 32}{name: 4864}{person: 19 420 420}{hidetextbox: 0}{speed: 7}
+..{speed: 9}..{speed: 11}..{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{0x6b: 0 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 5}
+...Yes...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 3}
+...!{fademusic: 0}{music: 35 0}{bgcolor: 2305 8 31}{p}{bg: 29}{name: 2560}{person: 10 265 264}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+So...{wait: 16} {speed: 3}so the {color: 1}forger{color: 0},{wait: 6} {color: 1}Drew{b}
+Misham{color: 0} was... you!?{nextpage_button}{bg: 27}{name: 4864}{person: 19 414 414}{speed: 7}
+......{wait: 30}{nextpage_nobutton}{hidetextbox: 1}{0x6b: 1 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 5}
+...Yes,{wait: 16} it was me...{p}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 10}
+Wha...{0x5a}{wait: 80}{b}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Whaa{bgcolor: 2305 8 31}aaaa{bgcolor: 2305 8 31}aaaa{bgcolor: 2305 8 31}aaa{bgcolor: 2305 8 31}aaaa{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}a{bgcolor: 2305 8 31}aat!?{wait_noanim: 45}{nextpage_nobutton}{hidetextbox: 1}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 66 1}{sound: 22 1}{wait: 120}{sound: 22 1}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{bgcolor: 257 1 31}{wait: 7}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}
+(The court was in an uproar,{wait: 10}{b}
+and it wasn't coming down.){p}{speed: 3}
+(We had to break for a ten{b}
+minute recess.){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 513 0 31}{wait: 1}{bg: 4095}{person: 0 0 0}{hidetextbox: 0}{0x48: 128 142}{speed: 0}{soundtoggle: 0}{b}{b}
+To be continued.{bgcolor: 260 1 31}{wait: 25}{wait: 160}{fademusic: 120}{sound: 22 0}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{savegame}{bop}{special_jmp}{endjmp}

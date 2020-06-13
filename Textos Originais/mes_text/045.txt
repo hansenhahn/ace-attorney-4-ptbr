@@ -1,0 +1,549 @@
+
+
+{{0}}
+{bop}{0x62: 3 4}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 34 746 746}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 46 11 2 93 1 1 3}{b}
+-- The Big Illusion --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{person: 34 748 746}{name: 8704}{speed: 4}
+I followed the route exactly{b}
+as I was instructed.{p}{person: 34 757 755}
+There is an emergency exit{b}
+in the backstage,{wait: 6} where a{b}
+stagehand waited.{p}{person: 34 748 746}
+From there,{wait: 6} one can enter{b}
+the forum on the opposite{b}
+side from the stage.{nextpage_button}{person: 34 757 755}
+The plan was for me to move{b}
+there in two minutes.{nextpage_button}{person: 34 753 751}
+I was on my way,{wait: 6} when I{b}
+heard the voice.{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{endjmp}
+
+{{1}}
+{bop}{bg: 29}{person: 10 266 266}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{speed: 4}Hmm{0x5a}...{wait: 16}{0x59} {person: 10 259 258}Two minutes,{wait: 8} you{b}
+say?{wait: 16} {speed: 3}The mystery deepens!{nextpage_button}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{speed: 4}{color: 2}
+(I suppose it was too much{b}
+to hope that the judge would{b}
+come up with something{speed: 8}...){color: 0}{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+As does my curiosity!{p}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 3}
+Take it away,{wait: 12} Mr. Justice.{nextpage_button}{bg: 25}{person: 4 38 38}{name: 1024}{speed: 4}
+...Right,{wait: 10} Your Honor.{0x63}{nextpage_button}{person: 4 40 40}{speed: 3}{color: 2}
+(All I have to do is find{b}
+the contradiction between{b}
+what Lamiroir is saying{speed: 8}...){p}
+(...{speed: 4}and what we can see{b}
+plainly in the video.){color: 0}{nextpage_button}{bg: 28}{person: 5 99 98}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I figured it out already!{wait: 12}{b}{speed: 3}
+I am a magician,{wait: 8} after all.{nextpage_button}{person: 5 98 98}{name: 1024}{speed: 3}
+Well,{wait: 6} tell me!{nextpage_button}{person: 5 105 104}{name: 1280}{bgcolor: 2305 8 31}{speed: 3}
+Not a chance!{nextpage_button}{person: 5 99 98}
+I can't reveal another{b}
+magician's secrets!{wait: 10} C'mon!{nextpage_button}{person: 5 98 98}{name: 1024}{speed: 4}{color: 2}
+(Hey!{wait: 16} You're supposed to be on{b}
+my side here!){color: 0}{nextpage_button}{endjmp}
+
+{{2}}
+{bop}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 34 746 746}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 136}{center_text: 1}{speed: 2}{b}{color: 1}
+-- The Big Illusion --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 138 0}{lifebar: 46}{0x53}{person: 34 748 746}{name: 8704}{hidetextbox: 0}{color: 3}I followed the route exactly{b}
+as I was instructed.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 131}{lifebar: 48}{0x53}{person: 34 757 755}{name: 8704}{hidetextbox: 0}{color: 3}There is an emergency exit{b}
+in the backstage, where a{b}
+stagehand waited.{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 132}{lifebar: 46}{0x53}{person: 34 748 746}{name: 8704}{hidetextbox: 0}{color: 3}From there, one can enter{b}
+the forum on the opposite{b}
+side from the stage.{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 141 0}{lifebarset: 0 133}{lifebar: 48}{0x51: 1 53}{41216}{testimony_animation: 15}4{bop}{lifebarset: 1 137}{0x53}{person: 34 757 755}{name: 8704}{hidetextbox: 0}{color: 3}The plan was for me to move{b}
+there in two minutes.{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{testimony_box: 147 0}{lifebarset: 0 134}{lifebar: 47}{0x53}{person: 34 753 751}{name: 8704}{hidetextbox: 0}{color: 3}I was on my way, when I{b}
+heard the voice.{color: 0}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 25}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}(The contradiction between{b}
+Lamiroir's testimony and{b}
+the video...){p}{person: 4 61 61}{animation: 149 1}{speed: 3}
+(Unraveling an illusion can't{b}
+be so different from solving{b}
+a normal case... Right...?){color: 0}{p}{bg: 28}{name: 1280}{person: 5 99 98}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Sorry,{wait: 6} Apollo.{wait: 16} I'm not{b}
+telling.{wait: 16} Not even if you make{b}
+those puppy dog faces.{p}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 8}{color: 2}
+(...{wait: 18}{speed: 4}Fine,{wait: 6} fine.){nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 34 746 746}{name: 8704}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{9}}
+{bop}{testimony_box: 149 0}{lifebarset: 0 134}{lifebarset: 1 136}{lifebar: 47}{0x53}{person: 34 753 751}{name: 8704}{hidetextbox: 0}{color: 3}I... had to keep singing,{b}
+even while I moved.{color: 0}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{speed: 4}How did you,{wait: 8} er,{wait: 8} proceed{b}
+along this "route"?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 34 746}{wait: 32}{bg: 27}{name: 8704}{person: 34 767 766}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+How?{wait: 15} Why,{wait: 8} I walked.{p}{bg: 25}{name: 1024}{person: 4 45 44}{speed: 3}
+But you arrived behind the{b}
+forum much too fast to have{b}
+been walking!{p}{person: 4 48 47}{speed: 4}
+Tell the truth Lamiroir{speed: 8}{0x5a}...{wait: 18}{0x59}{b}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+you rode some kind of vehicle!{p}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 2}
+What!?{wait: 16}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1} A vehicle!?{wait: 16} What{b}
+vehicle?{p}{bg: 26}{name: 13568}{person: 6 149 148}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Ah,{wait: 8} what a novel idea.{wait: 12}{b}
+I like it.{p}{bg: 28}{name: 1280}{person: 5 99 98}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Hey,{wait: 6} that's not a bad{b}
+guess!{wait: 16} Wrong,{wait: 8} but not bad!{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{shake: 30 0}{speed: 4}{color: 2}
+(Hah hah,{wait: 8} yes, laugh at the{b}
+dumb attorney.{wait: 16} I don't mind.){color: 0}{p}{bg: 27}{name: 8704}{person: 34 748 746}{speed: 3}
+Ah ha ha.{wait: 16} I'm sorry,{wait: 12} but the{b}
+girl is right.{wait: 16} {speed: 4}That vent was{b}
+much too small for vehicles.{p}{person: 34 757 755}
+It was a tight fit.{wait: 6} Even I{b}
+had to crouch as I walked.{p}{person: 34 748 746}
+I cannot imagine a vehicle{b}
+that would fit in such a{b}
+small space.{p}{bg: 25}{name: 1024}{person: 4 42 42}{color: 2}
+(Argh!{wait: 8} If it wasn't a vehicle{b}
+what was it?){color: 0}{p}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 4}
+You had me going for a while{b}
+there,{wait: 8} Mr. Justice. Too bad!{p}{bg: 29}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Ready for the next part?{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(Why do I feel like I'm on{b}
+some kind of quiz show?){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 34 755 755}{name: 8704}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}Did everyone on the concert{b}
+staff know about the trick?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 34 746}{wait: 32}{bg: 27}{name: 8704}{person: 34 748 746}{hidetextbox: 0}{speed: 4}
+Not all.{wait: 8} Only a few that were{b}
+needed to help.{p}{bg: 28}{name: 1280}{person: 5 99 98}{speed: 3}
+See?{wait: 6} Like I said,{wait: 6} it's on{b}
+a need-to-know basis.{p}{name: 1024}{person: 5 98 98}{color: 2}
+(So,{wait: 6} not many people knew{b}
+about the trick{speed: 8}...){color: 0}{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+What were these stagehands{b}
+required to do?{p}{bg: 27}{name: 8704}{person: 34 757 755}{speed: 4}
+One needed to open the{b}
+emergency exit.{p}{person: 34 748 746}
+The door to the stairs is{b}
+locked,{wait: 8} but once through{b}
+there{0x5a}...{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 34 746 746}{name: 8704}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}So when you came back out,{wait: 6}{b}{person: 4 59 58}
+you were behind the audience.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 34 746}{wait: 32}{bg: 27}{name: 8704}{person: 34 748 746}{hidetextbox: 0}{speed: 4}
+Yes,{wait: 12} that is how it worked.{p}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 3}
+Not a bad show,{wait: 10} if I do{b}
+say so myself.{p}{bg: 28}{name: 1280}{person: 5 99 98}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+That's Uncle Valant for you!{b}{shake: 30 0}
+The old Gramarye touch!{p}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 3}
+But on the video, you were{b}
+only gone for twenty seconds!{p}{person: 10 266 266}{speed: 4}
+How is that possible?{person: 10 263 262}{p}{bg: 25}{name: 1024}{person: 4 42 42}{speed: 4}{color: 2}
+(That's the part I don't{b}
+get either{speed: 8}{0x5a}...){color: 0}{p}{bg: 27}{name: 8704}{person: 34 748 746}{speed: 3}
+Ah ha ha.{wait: 12} {speed: 4}Yes,{wait: 6} it would be{b}
+hard to go so far in only{b}
+twenty seconds{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 34 755 755}{name: 8704}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{13}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{speed: 4}Two minutes{0x5a}...?{wait: 18}{0x59}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 34 746}{wait: 32}{bg: 27}{person: 34 748 746}{name: 8704}{hidetextbox: 0}{speed: 4}
+Yes.{wait: 12} It can be done in one{b}
+minute,{wait: 8} if you are running.{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Running?{wait: 16} {speed: 3}In that cramped,{wait_noanim: 20}{b}{person: 4 41 40}
+dark tunnel above the ceiling?{nextpage_button}{bg: 27}{person: 34 748 746}{name: 8704}{speed: 4}
+Ha ha,{wait: 8} Mr. Attorney.{wait: 16} Have you{b}
+forgotten?{p}
+Dark or lit,{wait: 6} it makes no{b}
+difference to me.{nextpage_button}{bg: 25}{person: 4 50 49}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+Ah,{wait: 8} that's true,{wait: 8} but{0x5a}...{wait: 18}{0x59}{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 4}
+So,{wait: 6} you're saying that on the{b}
+night of the concert,{wait: 8} you {b}
+made the trip in two minutes?{nextpage_button}{bg: 27}{person: 34 748 746}{name: 8704}{speed: 4}{wait: 12}
+Yes.{0x5a}..{wait: 18}{0x59} {person: 34 757 755}though I nearly didn't{b}
+make it in time.{p}
+You see{speed: 8}{0x5a}...{0x59}{speed: 4} I stopped halfway.{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 3}{color: 2}
+(Lamiroir disappears on the{b}
+video for {color: 1}twenty seconds{color: 2}.){nextpage_button}{person: 4 40 40}{speed: 4}
+(But she says she made the{b}
+trip in {color: 1}two minutes{color: 2}!{wait: 16} How?){color: 0}{nextpage_button}{bg: 28}{person: 5 68 67}{name: 1280}{person: 5 99 98}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+If you want my professional{b}
+opinion,{wait: 8} I'll bet the answer's{b}
+right there in that video.{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}
+Well,{wait: 10} Mr. Justice?{nextpage_button}{person: 10 263 262}{speed: 4}
+Perhaps you have some{b}
+evidence for us?{p}{speed: 3}
+Something that can explain{b}
+the discrepancy between the{b}
+video and her testimony?{nextpage_button}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{shake: 30 0}
+Ack!{wait: 8}{nextpage_button}{endjmp}
+
+{{14}}
+{bop}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 4}{color: 2}(Evidence explaining the{b}
+discrepancy...?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 141}5{65535}{b}{2args_choice_jmp: 144 143}{endjmp}
+
+{{15}}
+{bop}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}{color: 2}(What kind of evidence could{b}
+prove that{speed: 8}...?){color: 0}{p}{bg: 28}{person: 5 98 98}{bgcolor: 2305 8 31}{speed: 3}
+Um,{wait: 6} what's your professional{b}
+opinion about this one,{wait: 8}{b}
+Trucy?{p}{name: 1280}{person: 5 105 104}{speed: 4}
+Sorry.{wait: 10} I don't work in{b}
+evidence.{p}{name: 1024}{person: 5 104 104}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+And I don't work in tricks!{wait: 10}{b}
+I'm an attorney,{wait: 6} not a{b}
+magician for crying out loud!{p}{name: 1280}{person: 5 99 98}{speed: 3}
+Really?{0x5a}{wait: 16}{0x59} {bgcolor: 2305 8 31}I'm sure Daddy would{b}
+have loved working on this.{p}{name: 1024}{person: 5 98 98}{shake: 30 0}{speed: 4}
+Thanks,{wait: 6} that makes me feel{b}
+oh so much better.{p}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 5}
+Well,{wait: 8} {person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}I don't know about {b}
+all of you,{wait: 6} but I find{b}
+this mystery fascinating!{p}{person: 10 263 262}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+And I'm not letting this{b}
+trial go any further until{b}
+we get to the bottom of it!{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+The defense will continue{b}
+with the cross-examination{b}
+until we have some answers!{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(Easier said than done{speed: 8}...){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 34 751 751}{name: 8704}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 135}{endjmp}
+
+{{16}}
+{bop}{0x6c: 0}{0x6e: 20}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{speed: 4}There's one piece of evidence{b}
+that explains the discrepancy{b}
+between video and testimony!{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{fademusic: 45}{0x6d: 0}{bg: 29}{name: 2560}{person: 10 265 264}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}Ah ha!{0x5a}{wait: 16}{0x59}{bgcolor: 2305 8 31} So this is it?{wait: 16} The{b}
+magical key to unlocking{b}
+this illusion's dark secret!?{p}{person: 10 263 262}{bgcolor: 2305 8 31}{speed: 2}
+Tell us how it works!{wait: 12}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Quickly!{wait: 16} {speed: 2}I can't bear{b}
+the suspense!{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 8}{color: 2}
+(...{speed: 4}I was kind of hoping{b}
+someone else would jump in{b}
+at this point.){color: 0}{p}{person: 4 37 36}{speed: 4}
+W-{wait: 8}{shake: 30 0}Well,{wait: 12} you see{0x5a}...{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 26}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 3}
+Herr Judge,{wait: 10} {speed: 4}I do hate to{b}
+spoil the mood{speed: 8}{0x5a}...{p}{person: 6 149 148}{0x5a}{speed: 3}
+...{wait: 6}{0x59}but I haven't the faintest{b}
+idea what he's talking about.{wait: 16}{b}
+And neither does he.{p}{bg: 28}{name: 1280}{person: 5 105 104}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+I'm a little confused, too,{wait: 8}{b}
+there,{wait: 6} Apollo.{p}{name: 1024}{person: 5 104 104}{speed: 8}{0x5a}
+...{wait: 20}{0x59}{speed: 3}Right!{wait: 16} By which I conclude{wait: 10}{b}{shake: 30 0}
+that...{wait: 16} I was wrong.{p}{name: 1280}{person: 5 99 98}{speed: 3}
+Better luck next time,{wait: 8}{b}
+Polly-wog!{p}{bg: 29}{name: 2560}{person: 10 261 261}{speed: 5}
+...Mr. Justice.{0x63}{p}{0x6c: 0}{0x6e: 20}{person: 10 266 266}{speed: 4}
+I'm holding you responsible{b}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+for spoiling my mood!{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(Was that a tear I just saw{b}
+in the judge's eye?){p}{0x23: 0}{music: 255 60}{person: 4 58 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+(...Alright,{wait: 6} nothing to do{b}
+but rethink this through.){p}{person: 4 40 40}{speed: 4}
+(The key's in the video{b}
+somewhere.{wait: 16} I'm sure of it!){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 34 751 751}{name: 8704}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 135}{endjmp}
+
+{{18}}
+{bop}{0x6d: 0}{fademusic: 45}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 4}Lamiroir{0x5a}...{wait: 20}{0x59} {speed: 3}do you happen to{b}
+remember {showphoto: 377}{bgcolor: 2305 8 31}this brooch?{nextpage_button}{bganim: 98 579}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 4}
+Ah ha!{wait: 16} The brooch!{wait: 16} We saw{b}
+that yesterday,{wait: 8} did we not?{nextpage_button}{bg: 25}{person: 4 45 44}{name: 1024}{speed: 4}
+It was found at the scene,{wait: 8}{b}
+Your Honor.{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+And you're bringing this up{b}
+now{speed: 8}{0x5a}...{0x59}{wait: 8} why?{wait: 8}{nextpage_button}{person: 6 149 148}{speed: 3}
+I thought we had already{b}
+determined when that was{b}
+dropped.{nextpage_button}{hidetextbox: 1}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 3}
+So did I{0x5a}...{wait: 20}{0x59} {person: 4 48 47}{bgcolor: 2305 8 31}but we hadn't.{nextpage_button}{bg: 26}{person: 6 145 145}{name: 13568}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+...!{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{speed: 4}
+Take another look at the{b}{showphoto: 383}
+video{speed: 8}{0x5a}...{wait: 18}{0x59}{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{0x26: 1}{bganim: 0 8192}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{person: 0 0 0}{fademusic: 0}{music: 83 60}{0x6b: 0 0 0}{0x7f: 8}{0x6b: 4 0 0}{0x7f: 12}{animation: 212 1}{hidetextbox: 1}{bgcolor: 770 1 31}{wait: 15}{0x6b: 722 0 0}{0x7f: 14}{0x6b: 4 0 280}{0x7f: 13}{0x7f: 9}{bganim: 0 4096}{0x26: 0}{fademusic: 30}{hidetextbox: 0}{name: 1024}{speed: 4}
+Here,{wait: 6} you can see she's{b}{bgcolor: 2305 8 31}
+wearing the {color: 1}brooch{color: 0}!{p}{name: 2560}{speed: 4}
+Hmm{0x5a}...{wait: 16}{0x59} So she is.{p}{name: 1024}{speed: 3}
+Let's look a bit later.{p}{hidetextbox: 1}{0x26: 1}{bganim: 0 8192}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{fademusic: 0}{music: 85 0}{0x6b: 0 0 0}{0x7f: 8}{0x6b: 9 0 0}{0x7f: 12}{animation: 212 1}{wait: 20}{hidetextbox: 1}{bgcolor: 770 1 31}{wait: 15}{0x6b: 4 0 281}{0x7f: 13}{0x6b: 1334 0 0}{0x7f: 14}{0x7f: 9}{bganim: 0 4096}{0x26: 0}{hidetextbox: 0}{name: 2560}{sound: 51 1}{fademusic: 30}{bgcolor: 2305 8 31}{speed: 5}
+Wh-{wait: 8}{speed: 2}Whaaat?{wait: 16} {speed: 3}The brooch!{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+It's gone!{wait: 20}{p}{hidetextbox: 1}{bganim: 0 4096}{0x26: 0}{bg: 26}{name: 13568}{person: 6 160 159}{animation: 149 1}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 3}
+Wh{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}aaat...!?{nextpage_button}{bg: 25}{person: 4 38 38}{name: 1024}{speed: 8}
+Yes...{0x63}{person: 4 37 36}{speed: 4} the brooch disappeared{b}
+in the short space of twenty{b}
+seconds.{nextpage_button}{person: 4 45 44}{speed: 3}
+And it takes a full minute to{b}
+run from the stage to the{b}
+backstage{speed: 8}{0x5a}...{wait: 18}{0x59}{nextpage_button}{hidetextbox: 1}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{speed: 4}
+Which means there can be only{b}
+one explanation.{p}{speed: 3}
+The Lamiroir we see before the{b}
+vanishing act and the Lamiroir{b}
+we see after{speed: 8}{0x5a}...{nextpage_button}{person: 4 64 65}{sound: 26 1}{fademusic: 0}{music: 5 0}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+...are {color: 1}two different people{color: 0}!{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+Wha{speed: 8}{0x5a}...{wait: 30} {0x59}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 3}Wha{bgcolor: 2305 8 31}aa{bgcolor: 2305 8 31}aaaaaaaat!?{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}
+The brooch was found on the{b}
+floor at the crime scene.{p}{speed: 4}
+And not just on the floor{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{0x5f: 3 1 31}{bg: 272}{person: 0 0 0}{bgcolor: 769 1 31}{wait: 7}{name: 1024}{hidetextbox: 0}{speed: 4}
+...{wait: 10}but on the floor directly{b}{bgcolor: 2305 8 31}{shake: 30 0}
+beneath the air vent!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{0x5f: 4 1 1}{bg: 25}{person: 4 36 36}{bgcolor: 769 1 31}{wait: 7}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 3}
+Lamiroir,{wait: 10} tell me{0x5a}...{p}{person: 4 59 58}{speed: 4}
+Did you drop the brooch{b}
+on your way from the stage{b}
+to the backstage?{p}{person: 4 66 65}{0x5a}{sound: 50 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+...{0x59}At the very moment you{b}
+"witnessed" the crime?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 34 751}{wait: 32}{bg: 27}{person: 34 751 751}{name: 8704}{hidetextbox: 0}{speed: 8}
+...{wait: 18}{person: 34 748 746}{speed: 5}Yes,{wait: 6}{speed: 4} I think I did.{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 76 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 263 262}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{wait: 8}{0x59}{speed: 2}
+Order!{wait_noanim: 16}{b}{person: 10 265 264}{speed: 5}
+P-{wait: 8}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}Prosecutor Gavin!{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 5}{0x5a}
+...{0x59}From your expression,{wait: 10} I{b}{person: 6 151 150}{speed: 3}
+gather you had no idea this{b}
+was the case,{wait: 8} Herr Judge.{nextpage_button}{person: 6 146 145}{speed: 4}
+I,{wait: 12} of course,{wait: 12}{bgcolor: 2305 8 31} knew about it.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+Wh-{wait: 6}What?{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+Don't get me wrong,{wait: 8} I wasn't{b}
+hiding it.{wait: 16} It just never{b}
+occurred to me{0x5a}...{0x59}{nextpage_button}{person: 6 151 150}{0x5a}
+...{wait: 18}{0x59}{speed: 3}{bgcolor: 2305 8 31}that the switch and the{b}
+shooting took place at the{b}
+same time.{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+So{speed: 8}..{0x5a}.{wait: 15}{0x59} {speed: 4}I was right?{wait: 16} There{b}
+was a switch?{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}{speed: 3}
+There was.{p}{person: 6 146 145}{speed: 3}
+Just before the stage's tower{b}
+rose,{wait: 8} Lamiroir was {bgcolor: 2305 8 31}"replaced".{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 4}
+While we're on the subject,{wait: 6}{b}
+just who was this replacement{b}
+Lamiroir{0x5a}...?{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+Why,{wait: 8} the man behind the{b}
+illusion.{wait: 16} {color: 1}{person: 6 151 150}{bgcolor: 2305 8 31}Valant Gramarye{color: 0}.{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 4}{color: 2}
+(It was Gramarye{speed: 8}...!?){color: 0}{nextpage_button}{person: 4 41 40}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+That's{0x5a}...{wait: 18}{0x59} quite the illusion.{b}{speed: 3}
+But I still don't get one{b}
+thing...{nextpage_button}{bg: 27}{person: 34 748 746}{name: 8704}{wait: 8}{speed: 4}
+Yes?{wait: 8}{nextpage_button}{hidetextbox: 1}{0x26: 1}{bganim: 0 8192}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{fademusic: 30}{wait: 30}{music: 82 0}{0x6b: 0 0 0}{0x7f: 8}{0x6b: 3 0 0}{0x7f: 12}{animation: 212 1}{hidetextbox: 1}{bgcolor: 769 1 31}{wait: 7}{hidetextbox: 0}{name: 1024}{speed: 3}
+...The switch happened before{b}
+the tower rose,{wait: 4}{speed: 2} correct?{wait: 30}{nextpage_nobutton}{speed: 2}
+So you{bgcolor: 2305 8 31} weren't on the stage!{wait: 28}{nextpage_nobutton}{name: 8704}{speed: 3}
+That's right.{wait: 24}{nextpage_nobutton}{name: 1024}{speed: 2}
+But this,{wait: 6} er,{wait: 6}{speed: 3} fake Lamiroir{b}
+is still singing!{wait: 40}{nextpage_nobutton}{bganim: 0 4096}{0x26: 0}{0x6b: 4 58 25}{0x7f: 13}{0x7f: 9}{sound: 52 1}{fademusic: 30}{bgcolor: 2305 8 31}{person: 4 59 58}{speed: 3}
+And she's pretty good!{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+That's true!{nextpage_button}{bg: 28}{person: 5 105 104}{name: 1280}{speed: 3}
+C'mon,{wait: 12} Apollo!{wait: 16} That's an{b}
+easy one.{p}{person: 5 103 102}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+They were just playing a{b}
+recording!{nextpage_button}{bg: 26}{name: 13568}{person: 6 147 147}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Ah{wait: 6} ha{wait: 6} ha{wait: 6}{speed: 8}{0x5a}...{0x63}{nextpage_button}{person: 6 149 148}{speed: 4}
+The Gavinners aren't some kind{b}
+of air guitar band,{wait: 8} Fr{1988}ulein.{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Oh?{wait: 12} You mean,{wait: 6} I'm wrong?{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 3}
+When we play a show live,{wait: 6} we{b}
+play live.{wait: 16} No recordings.{nextpage_button}{person: 6 146 145}{0x5a}
+...{wait: 10}{0x59}Perhaps you can explain,{wait: 8}{b}
+Lamiroir?{nextpage_button}{bg: 27}{person: 34 748 746}{name: 8704}{speed: 4}
+Very well{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 260 260}{name: 2560}{hidetextbox: 0}{speed: 3}
+Yes,{wait: 6}{0x63} {person: 10 263 262}do tell!{wait: 16} And add it to{b}
+your testimony.{nextpage_button}{0x10: 33185}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 34 751 751}{name: 8704}{fademusic: 0}{music: 2 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}
+
+{{19}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{speed: 4}And it was Daryan's voice{b}
+you heard?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 34 746}{wait: 32}{bg: 27}{name: 8704}{person: 34 748 746}{hidetextbox: 0}{speed: 4}
+Yes,{wait: 8} I am certain it was him.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{bg: 26}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+A matter best left for{b}
+later,{wait: 8} ja?{p}{person: 6 149 148}{speed: 3}
+Put that forehead of yours to{b}
+work on this illusion first.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Hold on!{wait: 12}{shake: 30 0} I think the identity{b}
+of the killer is a little{b}
+more important,{wait: 8} don't you?{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{speed: 3}
+Importance shmortance!{wait: 10}{b}{person: 10 263 262}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Objection overruled!{p}{sound: 27 1}{shake: 30 2}{speed: 2}
+Tell us about the illusion!{p}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+No use trying to avoid the{b}
+problem at hand,{wait: 8} Apollo.{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(Trying to avoid the problem?{b}
+This is a murder trial,{wait: 8} the{b}
+killer is the problem!){color: 0}{nextpage_button}{jmp: 136}{endjmp}
+
+{{20}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 3}All made possible by the{b}
+switching trick.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 34 746}{wait: 32}{bg: 27}{name: 8704}{person: 34 748 746}{hidetextbox: 0}{speed: 4}
+It was quite a surprise to{b}
+me at first.{p}{person: 34 757 755}
+To think,{wait: 6} a man, posing{b}
+as me!{p}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 3}
+An enchantment woven with{b}
+music and magic...{wait: 12} Perfection!{p}{bg: 27}{name: 8704}{person: 34 748 746}{speed: 4}
+Yes,{wait: 10} above all else,{wait: 6} I was{b}
+careful that the music did{b}
+not stop.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 34 751 751}{name: 8704}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}
+
+{{21}}
+{bop}{0x29: 0}{fademusic: 45}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}You were{speed: 8}{0x5a}...{wait: 18}{0x59} {speed: 4}singing{speed: 8}{0x5a}...?{b}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 18 0}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 34 746}{wait: 32}{bg: 27}{person: 34 748 746}{name: 8704}{hidetextbox: 0}{speed: 5}{wait: 8}
+Yes.{wait: 8}{nextpage_button}{person: 34 757 755}{speed: 4}
+Mr. Gavin expressed a dislike{b}
+for recordings{speed: 8}{0x5a}...{nextpage_button}{person: 34 748 746}{showphoto: 117}{speed: 4}
+So I used this.{nextpage_button}{bganim: 98 579}{bg: 25}{person: 4 59 58}{name: 1024}{speed: 4}
+Wait{0x5a}...{wait: 18}{0x59} so you were singing{b}
+the whole time?{nextpage_button}{person: 4 62 61}{animation: 149 1}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Even when you were crawling{b}
+above the ceiling toward the{b}
+backstage!?{nextpage_button}{bg: 27}{person: 34 748 746}{name: 8704}{speed: 4}
+Why should it matter where{b}
+I sing,{wait: 8} when everywhere I go{b}
+is the same darkness?{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 76 1}{sound: 22 1}{wait: 120}{bg: 29}{person: 10 265 264}{name: 2560}{hidetextbox: 0}{speed: 4}
+B-{wait: 6}But if you were singing{b}
+while you were walking{speed: 8}{0x5a}...{nextpage_button}{bg: 28}{person: 5 103 102}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+That's right!{wait: 12} {speed: 3}Wouldn't the{b}
+shooter and victim have heard?{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+She was singing right over{b}
+their heads, after all!{nextpage_button}{person: 5 102 102}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+That{0x5a}...{wait: 18}{0x59} is right!{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 4}{0x5a}
+...{0x59}Are you sure?{nextpage_button}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+You'd have to be pretty hard{b}
+of hearing to miss someone{b}
+singing in the ceiling!{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}{speed: 3}
+Once again we come back to the{b}
+state of the scene of the{b}
+crime.{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+What state{speed: 8}{0x5a}...?{nextpage_button}{bg: 28}{person: 5 103 102}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Ack{speed: 8}..{0x5a}.{wait: 18}{0x59} {speed: 3}I know what he means!{wait: 16}{b}{speed: 2}
+That old speaker,{wait: 8} Apollo!{nextpage_button}{person: 5 102 102}{name: 1024}{speed: 4}
+The speaker!?{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{0x5f: 3 1 31}{bg: 253}{person: 0 0 0}{bgcolor: 769 1 31}{wait: 7}{name: 1024}{hidetextbox: 0}{speed: 4}
+That speaker was blaring at{b}
+the time of the murder{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{name: 2304}{0x59}{hidetextbox: 0}{speed: 3}
+Ah,{wait: 8} that's for monitoring the{b}
+stage from this room.{nextpage_button}{person: 5 76 75}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+Monitoring?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+It pipes in a real-time feed{b}
+from the stage microphones.{p}
+Useful for knowing when your{b}
+set is coming up.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{0x5f: 4 1 1}{bg: 26}{person: 6 145 145}{bgcolor: 769 1 31}{wait: 7}{bg: 26}{person: 6 146 145}{name: 13568}{hidetextbox: 0}{speed: 4}{0x5a}
+...{0x59}Satisfied?{p}{speed: 3}
+That dressing room was fitted{b}
+with a large speaker playing{b}
+a direct feed from the stage.{p}{person: 6 151 150}{speed: 4}{0x5a}
+...{0x59}At my request,{wait: 10} actually.{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+So Lamiroir singing in the{b}
+ceiling{speed: 8}{0x5a}...{p}{speed: 3}{0x5a}
+...{0x59}sounded just like Lamiroir{b}
+singing over the speaker.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{shake: 30 0}{speed: 4}
+Ingenious!{wait: 16} Her voice was{b}
+hidden{0x5a}...{wait: 8}{0x59}{wait: 8} by her voice!{nextpage_button}{bg: 27}{person: 34 757 755}{name: 8704}{wait: 8}{speed: 4}{0x59}
+Ah...{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{speed: 3}
+Lamiroir?{nextpage_button}{bg: 27}{person: 34 757 755}{name: 8704}{speed: 4}
+I...{0x5a}{wait: 18}{0x59} {person: 34 748 746}{sound: 52 1}{bgcolor: 2305 8 31}have just remembered{b}
+something.{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 3}
+Do tell!{nextpage_button}{bg: 27}{person: 34 757 755}{name: 8704}{speed: 4}
+When I heard the noise{speed: 8}{0x5a}...{wait: 18}{0x59}{b}{speed: 4}
+the gunshots,{wait: 8} yes?{p}{speed: 4}
+It startled me,{wait: 8} so I{speed: 8}{0x5a}...{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{speed: 3}
+So you{speed: 8}{0x5a}...?{nextpage_button}{bg: 27}{person: 34 748 746}{name: 8704}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+I stopped singing.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+What{0x5a}...?{nextpage_button}{bg: 27}{person: 34 762 760}{name: 8704}{speed: 4}
+I forgot the words I was{b}
+supposed to sing!!{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}{color: 2}
+(The song{speed: 8}{0x5a}...{wait: 18}{0x59} {speed: 3}stopped!?){color: 0}{p}{bg: 27}{person: 34 748 746}{name: 8704}{speed: 4}
+Thankfully,{wait: 6} it was the very{b}
+beginning of the second verse.{nextpage_button}{person: 34 757 755}{speed: 4}
+So not many would notice.{nextpage_button}{bg: 26}{fademusic: 45}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{name: 13568}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Forehead!{wait: 16} {person: 6 167 166}That mixing board{b}
+I lent you!{wait: 16} {bgcolor: 2305 8 31}Where is it?{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+The mixing{speed: 8}{0x5a}...{wait: 16}{0x59} {speed: 4}huh?{nextpage_button}{bg: 28}{person: 5 103 102}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+That machine,{wait: 8} Apollo!{wait: 16} The one{b}
+that breaks music into tracks!{nextpage_button}{person: 5 102 102}{name: 1024}{speed: 4}
+Oh,{wait: 6} {showphoto: 126}this!{wait: 16} {speed: 3}I'd completely{b}
+forgotten about it...{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{0x64}{p}{pause}{b}{hideperson}{wait: 25}{0x74: 22 3}{wait: 4}{person: 0 0 0}{name: 1024}{bgcolor: 2305 8 31}{speed: 3}
+Let's take a listen!{p}{hidetextbox: 1}{0x74: 22 9}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{person: 0 0 0}{bg: 4095}{0x30: 255}{0x6b: 0 0 0}{0x7f: 8}{bgcolor: 258 1 31}{wait: 15}{name: 0}{center_text: 1}{speed: 8}{b}
+Sugar, Sugar...{wait: 15}{b}{0x6b: 80 0 0}{0x7f: 14}{speed: 6}
+O that night,{wait: 20} in your embrace.{0x6b: 185 0 0}{0x7f: 14}{nextpage_nobutton}{speed: 8}{b}
+When you stole{wait: 20} away the keys{wait: 20}{0x6b: 264 0 0}{0x7f: 14}{speed: 8}{b}
+my heart {wait: 20}held on to so tight.{0x6b: 358 0 0}{0x7f: 14}{nextpage_nobutton}{name: 0}{0x6b: 420 0 0}{0x7f: 14}{speed: 7}{b}
+Pleasure...{wait: 50}{b}{0x6b: 460 0 0}{0x7f: 14}{speed: 8}
+But a fleeting{wait: 45} melody{wait: 80}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{bg: 25}{name: 1024}{person: 4 58 58}{bgcolor: 257 1 31}{wait: 7}{0x10: 33191}{person: 4 59 58}{hidetextbox: 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}The song does stop there!{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+It does?{wait: 12} {speed: 4}I must have missed{b}
+it{0x5a}...{0x59}{p}{bg: 25}{name: 1024}{person: 4 59 58}
+Look at the lyrics sheet,{wait_noanim: 22}{b}{bg: 196}{person: 0 0 0}{speed: 4}
+at the top of the second{b}
+verse.{p}{speed: 3}
+See where it says "{color: 3}Pleasure,{wait: 6}{b}
+Pleasure...{color: 0}"?{p}{bg: 25}{person: 4 66 65}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Now listen again!{nextpage_button}{hidetextbox: 1}{0x30: 255}{0x26: 1}{bganim: 0 8192}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{person: 0 0 0}{hidetextbox: 0}{center_text: 1}{0x7f: 7}{fademusic: 0}{music: 80 0}{0x6b: 0 0 0}{0x7f: 8}{0x6b: 1 0 0}{0x7f: 12}{animation: 212 1}{bgcolor: 770 1 31}{wait: 15}{0x6b: 185 0 0}{0x7f: 14}{nextpage_nobutton}{speed: 6}{b}
+When you stole {speed: 8}away the keys{wait: 20}{0x6b: 264 0 0}{0x7f: 14}{b}{speed: 8}
+my heart{wait: 20} held on to so tight.{0x6b: 358 0 0}{0x7f: 14}{nextpage_nobutton}{name: 0}{0x6b: 420 0 0}{0x7f: 14}{speed: 7}{b}
+Pleasure...{wait: 50}{b}{0x6b: 460 0 0}{0x7f: 14}{speed: 8}
+But a fleeting{wait: 45} melody{center_text: 0}{fademusic: 30}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{0x7f: 9}{nextpage_nobutton}{bg: 29}{person: 10 258 258}{hidetextbox: 1}{bgcolor: 770 1 31}{wait: 15}{bganim: 0 4096}{0x26: 0}{0x30: 0}{hidetextbox: 0}{bg: 29}{person: 10 260 260}{name: 2560}{speed: 4}
+...This is evidence indeed!{0x63}{b}{person: 10 259 258}{nextpage_button}{person: 10 263 262}{speed: 3}
+I believe we are guilty of{b}
+making a terrible mistake.{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{speed: 4}
+The crime didn't happen{b}
+during the third set.{p}{person: 4 59 58}{bgcolor: 2305 8 31}{speed: 3}
+It happened during the second,{wait: 10}{b}
+during Lamiroir's ballad.{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 4}
+If that is true{speed: 8}{0x5a}...{p}{person: 10 259 258}{speed: 8}{0x5a}
+...{wait: 6}{0x59}{speed: 3}then no one on stage during{b}
+the second set could have been{b}
+the shooter!{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{speed: 3}
+Which means that Daryan{b}
+Crescend could have done it!{nextpage_button}{person: 4 64 65}{sound: 26 1}{fademusic: 0}{music: 35 0}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+He wasn't{bgcolor: 2305 8 31} on stage for{bgcolor: 2305 8 31} the{b}
+second set!{nextpage_button}{bg: 26}{person: 6 150 150}{name: 13568}{speed: 8}
+......{nextpage_button}{hidetextbox: 1}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 2}
+Well,{wait: 8} {bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}Prosecutor Gavin?{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 4}{0x5a}
+...{0x59}Fascinating.{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}
+!{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 3}
+I don't believe I've ever{b}
+seen a trial turned around{b}
+quite so thoroughly.{p}{person: 6 146 145}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}{0x5a}
+...{0x59}Yet one problem remains.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 3}
+What's that,{wait: 8} Prosecutor Gavin?{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}
+Herr Forehead's theory does{b}
+have a certain kind of logic{b}
+to it.{nextpage_button}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yet it is entirely based upon{b}
+Lamiroir's testimony.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+Yes?{wait: 16} Is there a problem with{b}
+this?{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+Well,{wait: 8} it's quite simple,{wait: 10}{b}
+though it pains me to say it.{p}{speed: 3}
+What if she is lying to{b}
+protect the defendant?{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+But you have no proof{speed: 8}{0x5a}...!{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 4}
+All I'm saying is that the{b}
+truth is as yet unclear.{nextpage_button}{person: 6 146 145}{speed: 4}{0x5a}
+...{0x59}Until we hear directly{b}
+from the man himself.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+The man{speed: 8}{0x5a}...{wait: 20}{0x59} {person: 10 263 262}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}you don't mean!?{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 4}
+...Yes.{p}{speed: 3}
+Though he is a friend,{wait: 8} and{b}
+band member,{wait: 8} Daryan Crescend{b}
+must take the stand.{nextpage_button}{person: 6 149 148}{bgcolor: 2305 8 31}{speed: 4}
+I see no other way.{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 4}
+As{0x5a}...{0x59} someone with a new{b}
+perspective on the case?{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 8}{0x5a}
+...{wait: 18}{0x59}{speed: 3}As a suspect,{wait: 8} {person: 6 149 148}{sound: 51 1}{bgcolor: 2305 8 31}to be frank.{b}{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 76 1}{sound: 22 1}{wait: 120}{wait: 120}{bg: 25}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{color: 2}
+(...Finally!{wait: 16} The rat's coming{b}
+out of his hole!){color: 0}{p}{bgcolor: 2305 8 31}{speed: 3}{color: 2}
+(And I'm ready to catch him!{wait: 12}{b}{speed: 2}
+Daryan Crescend,{wait: 8} get ready{b}{bgcolor: 2305 8 31}{shake: 30 0}
+for Justice!){nextpage_button}{color: 0}{fademusic: 45}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{sound: 23 0}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+This is as good a time as any{b}
+to pause for a brief recess.{nextpage_button}{person: 10 263 262}{speed: 4}
+The prosecution will summon{b}
+the witness.{p}
+Have him here and ready by the{b}
+time we begin.{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}{speed: 4}{0x5a}
+...{0x59}I'm the last man who needs{b}
+to be reminded of what his{b}
+duties are.{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 3}
+Very well,{wait: 8} court is adjourned{b}
+for a fifteen-minute recess!{nextpage_button}{hidetextbox: 1}{wait: 30}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{hidetextbox: 0}{0x48: 128 142}{speed: 0}{soundtoggle: 0}{b}{b}
+To be continued.{bgcolor: 260 1 31}{wait: 25}{0x73}{wait: 140}{fademusic: 120}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{savegame}{bop}{special_jmp}{endjmp}

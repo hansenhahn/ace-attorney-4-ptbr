@@ -1,0 +1,688 @@
+
+
+{{0}}
+{bop}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 15{b}
+Accident Scene{b}{fademusic: 0}{music: 56 0}{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{person: 0 0 0}{name: 1024}
+So this is where Mr. Wright{b}
+got hit by that car?{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+According to the map,{wait: 8} this is{b}
+the place!{nextpage_button}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{person: 0 0 0}{wait: 60}{name: 1024}{hidetextbox: 0}
+What a huge mansion...{wait: 20}{b}{speed: 4}
+Feels like Chinatown.{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Apollo!{wait: 16} There's a nice-looking{b}
+lady over there.{p}{person: 5 96 95}{speed: 3}
+Let's question her!{p}{person: 5 95 95}{name: 1024}
+Um,{wait: 16} OK.{nextpage_button}{color: 2}
+(I'm a little curious about{wait: 16}{b}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{wait: 1}{0x1d: 260}{0x4c}{wait: 50}
+the park over there, too...){color: 0}{nextpage_button}{hidetextbox: 1}{wait: 1}{0x1d: 4}{0x4c}{personvanish: 3 2}{person: 16 402 402}{wait: 32}{wait: 20}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 160}{person: 5 72 69}{name: 1280}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Excuse me!{wait_noanim: 25}{person: 5 68 67}{speed: 3} Um,{wait: 8} can we have a{b}
+few words with you?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{personvanish: 3 2}{person: 16 402 402}{wait: 32}{wait: 80}{person: 16 390 389}{name: 768}{hidetextbox: 0}{speed: 4}
+You want something?{p}{person: 16 389 389}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}{color: 2}
+(Whoa!{wait: 20} That husky voice...{wait: 16}{b}{speed: 3}
+Why am I suddenly sweating?){color: 0}{p}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{speed: 2}
+That's quite a house you've{b}
+got there!{wait_noanim: 20}{person: 5 68 67}{speed: 3} You must have a{b}
+lot of money...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 394 394}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 768}
+Whoooh.{wait: 40}{person: 16 395 394}{speed: 4} "Money" sounds like{b}
+something my son would call{b}
+his friends.{p}{speed: 3}
+This is the Kitaki Family{wait_noanim: 20}{b}{person: 16 390 389}
+mansion,{wait: 8} little girl.{p}{person: 16 389 389}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Eh.{p}{person: 16 390 389}{name: 768}
+You,{wait: 8} kid with the hair.{wait: 20}{b}
+You want something?{p}{person: 16 389 389}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Urk!{wait: 20} M-{wait: 8}M-{wait: 8}Me?{wait: 20} No,{wait: 8} not a thing!{b}{speed: 3}
+Bye!{nextpage_button}{person: 5 82 81}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Apollo!{wait: 10} We can't leave without{b}{person: 5 96 95}
+questioning her!{wait: 10} What if she{b}
+knows something?{p}{person: 5 95 95}{name: 1024}{speed: 3}
+B-{wait: 8}But th-{wait: 16}the Kitaki Family...!{p}{person: 16 402 402}{sound: 52 1}{bgcolor: 2305 8 31}{color: 2}
+(They're the biggest organized{b}
+crime syndicate in town!){color: 0}{p}{hidetextbox: 1}{fademusic: 30}{person: 16 398 398}{animation: 213 1}{0x63}{person: 16 397 396}{name: 768}{hidetextbox: 0}{speed: 5}
+If you're going to ask{b}
+something,{wait: 10} ask it.{wait_noanim: 30}{0x59}{b}{speed: 4}
+If you're man enough.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Waa{bgcolor: 2305 8 31}aaugh!{wait: 20}{b}{shake: 30 1}
+R-Right!{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yay!{wait: 16} Way to whip him into{b}
+shape,{wait: 16} ma'am!{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Does she know no fear!?){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 397 396}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4096}{newevidence: 32807}
+I'm Plum.{wait: 12} Plum Kitaki.{wait: 20} {speed: 4}Wife{b}
+of the fourth head of the{b}
+Kitaki Family business.{p}{speed: 3}
+Friends call me Little Plum.{nextpage_button}{person: 16 396 396}{name: 1024}
+I-I'm l-little Apollo Justice,{wait: 8}{b}
+attorney at law.{wait: 30} {speed: 4}*gulp*{p}{speed: 3}{color: 2}
+(If looks could kill,{b}
+this woman would be a{b}
+mass-murderer by now...){color: 0}{p}{person: 16 402 402}{fademusic: 0}{music: 20 0}{0x10: 32818}{0x10: 32843}{0x10: 33280}{0x10: 33287}{0x51: 0 96}{bop}{p}{pause}{sound: 255 97}{bop}{p}{color: 6}
+ô{0x60: 5 0 4 8 255}{0x61: 5 0 3 7 255}{0x35: 19456 @RelativeAddress0}{0x60: 0 2 4 7 255}{0x61: 0 2 3 6 255}{@RelativeAddress0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{0x51: 0 34}{person: 49 3 2}{person: 13 331 331}{wait: 32}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 30}{name: 1024}{hidetextbox: 0}{speed: 4}Who's that!?{wait: 30}{b}{speed: 3}
+She's looking at the park.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+She's pretty.{p}{person: 5 76 75}
+I bet she has a story,{wait_noanim: 30}{person: 5 96 95} you{b}
+know?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 13 331 331}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{color: 2}
+(There is something about{b}
+her...{wait: 20} Too bad she seems{b}
+to be in a bit of a rush.){color: 0}{nextpage_button}{hidetextbox: 1}{newevidence: 32803}{0x23: 0}{music: 255 30}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32784 402 402}{0x10: 32813}{0x35: 13824 @RelativeAddress1}{0x35: 10241 @RelativeAddress2}{0x37: 12 0}{0x37: 22 1}{hidetextbox: 3}{special_jmp}{endjmp}{endjmp}{@RelativeAddress2}{0x37: 13 0}{0x37: 14 1}{@RelativeAddress1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{wait: 40}{personvanish: 3 2}{person: 13 320 320}{fademusic: 60}{wait: 32}{name: 768}{wait: 60}{hidetextbox: 0}{speed: 8}...{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{speed: 4}{color: 2}
+(...{wait: 20}That girl from before!){color: 0}{p}{person: 16 389 389}{name: 4096}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Oh!{wait: 20}{person: 16 390 389}{speed: 3} Welcome home,{wait: 8} {speed: 3}sweetie.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 13 321 320}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 768}{speed: 5}
+Ah,{wait: 8} uh{speed: 8}...{wait: 20} {speed: 3}hello,{wait: 8} m-mother.{p}{person: 13 320 320}{name: 1024}{speed: 4}{color: 2}
+(She's a Kitaki,{wait: 8} too!?){color: 0}{p}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Uh,{wait: 8} um,{wait: 8} Miss!{wait: 10} Miss!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 13 320 320}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 768}{speed: 5}
+...?{nextpage_button}{name: 1280}{person: 5 68 67}{showphoto: 87}
+Here,{wait: 8} our flyer.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 13 329 328}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 768}{speed: 5}
+The{0x5a}{wait: 6}{speed: 7}...{wait: 30}{sound: 52 1}{bgcolor: 2305 8 31}{0x59} Wright Anything Agency?{nextpage_button}{person: 13 328 328}{name: 1024}{speed: 4}
+A-{bgcolor: 2305 8 31}{shake: 30 1}Anything Agency?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 74 73}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+Yeah!{wait: 16} Do you like the new{b}
+flyer?{nextpage_button}{removephoto}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+So,{wait: 12} um,{wait: 8} this is our defense{b}
+attorney,{wait: 8} Mr. Apollo Justice!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 13 321 320}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 768}{speed: 5}
+Attorney...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Drop by our office!{wait: 12} We'll be{b}
+waiting!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 13 329 328}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 768}
+Ah...{wait_noanim: 15}{b}{person: 13 321 320}
+Good-bye.{nextpage_button}{hidetextbox: 1}{wait: 40}{personvanish: 4 4}{wait: 64}{wait: 60}{person: 5 67 67}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 3}
+Why did you give her our{b}
+flyer?{p}{person: 5 68 67}{name: 1280}
+I dunno.{wait: 12} She seemed like she{b}
+could use some help.{nextpage_button}{name: 1024}
+She's the heiress to a{b}
+gangster dynasty!{b}
+She doesn't need our help!{p}{person: 5 72 69}{name: 1280}{speed: 5}
+...{wait: 20}I wouldn't be so sure!{nextpage_button}{name: 1024}
+...?{nextpage_button}{0x23: 0}{music: 255 30}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 402 402}{0x10: 32814}{0x51: 0 96}{p}{bgcolor: 255 255 255}{0x60: 3 18 6 5 255}{0x60: 5 18 4 8 255}{0x35: 19456 @RelativeAddress3}{0x60: 3 18 7 5 255}{0x60: 0 2 4 7 255}{@RelativeAddress3}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{person: 0 0 0}{name: 1024}{speed: 3}There's a big trash can on the{b}
+way into the park.{p}
+I guess we could check it{b}
+out...{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{name: 1280}{person: 5 68 67}{hidetextbox: 0}
+A detective's life sure is a{b}
+hard one!{p}{person: 5 67 67}{name: 1024}
+I'm an attorney,{wait: 12} actua...{wait: 20}{b}{speed: 4}
+Huh?{p}{person: 5 76 75}{name: 1280}{speed: 3}
+Hmm.{wait: 8} Two pieces of garbage{b}
+with paint on them.{p}{person: 5 75 75}{name: 1024}{speed: 5}
+These...{wait: 16}{speed: 3} are slippers.{showphoto: 56}{p}
+They look like those slippers{b}
+you get at the hospital...{p}{bganim: 98 579}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Look at this,{wait: 8} Apollo!{wait_noanim: 25}{b}{person: 5 76 75}{speed: 4}
+Doesn't this go on a car...?{nextpage_button}{showphoto: 310}{person: 5 75 75}{name: 1024}{speed: 5}
+It's a side-view mirror!{p}
+Looks like it was torn off{b}
+when it smacked into{b}
+something...{wait: 20} {speed: 4}or someone.{p}{person: 5 76 75}{name: 1280}{speed: 3}
+Wait,{wait: 12} you don't think...{p}{person: 5 75 75}{name: 1024}
+I do.{wait: 16} This could be from the{b}
+car that hit Mr. Wright!{p}{person: 5 76 75}{name: 1280}{speed: 5}
+Wow,{wait: 12} {speed: 3}and he took off its{b}
+mirror?{wait_noanim: 30}{person: 5 76 75} I never knew Daddy{b}
+was so strong.{nextpage_button}{removephoto}{person: 5 68 67}{name: 1280}
+I only have room in my pocket{b}
+for one of these,{wait: 8} though.{p}{person: 5 72 69}
+Which do you want to take?{0x10: 32819}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 128}{0x7f: 65535}{b}{2args_choice_jmp: 132 133}{endjmp}
+
+{{4}}
+{bop}{newevidence: 16440}{name: 0}{color: 2}{speed: 4}Slippers crammed into pocket.{nextpage_button}{speed: 255}{color: 0}{wait: 10}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32784 389 389}{wait: 16}{0x10: 32820}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{person: 5 67 67}{newevidence: 16438}{name: 0}{color: 2}{speed: 4}Mirror slipped into pocket.{nextpage_button}{speed: 255}{color: 0}{wait: 10}{0x10: 32821}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32784 402 402}{wait: 16}{0x10: 32821}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{0x51: 0 53}{16384}{removephoto}{jmp: 158}{endjmp}{endjmp}{name: 1024}There's some paint on {showphoto: 56}the{b}
+slippers in this trash can.{p}{hidetextbox: 1}{bganim: 98 579}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{hidetextbox: 0}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+I can only carry one thing at{b}
+a time in my pocket,{wait: 8} you know.{p}{name: 1024}{person: 5 67 67}{color: 2}
+(Should I swap the mirror for{b}
+the slippers?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 126}{raw_jmp: 65535}{b}{2args_choice_jmp: 135 136}{endjmp}
+
+{{7}}
+{bop}{name: 1024}Sure,{wait: 8} let's swap the evidence.{wait: 16}{b}
+Trucy,{wait: 8} if you would.{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+Right-o!{nextpage_button}{0x18: 54}{newevidence: 16440}{name: 0}{color: 2}{speed: 4}
+Slippers crammed into pocket.{nextpage_button}{speed: 255}{color: 0}{hidetextbox: 1}{wait: 10}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32784 402 402}{wait: 16}{0x10: 53}{0x10: 32820}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32784 402 402}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{name: 1024}{person: 5 67 67}Actually...{wait: 20} let's not and{b}
+say we did.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32784 402 402}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{0x51: 0 53}{16384}{removephoto}{jmp: 158}{endjmp}{endjmp}{name: 1024}There's a side-view mirror{b}{showphoto: 54}
+with some paint on it in{b}
+this trash can.{p}{hidetextbox: 1}{bganim: 98 579}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{hidetextbox: 0}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+I can only carry one thing at{b}
+a time in my pocket,{wait: 8} you know.{p}{name: 1024}{person: 5 67 67}{color: 2}
+(Should I swap the slippers for{b}
+the mirror?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 126}{raw_jmp: 65535}{b}{2args_choice_jmp: 138 139}{endjmp}
+
+{{10}}
+{bop}{name: 1024}{person: 5 67 67}Sure,{wait: 8} let's swap the evidence.{wait: 26}{b}
+Trucy,{wait: 8} if you would.{nextpage_button}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}
+I'm on it!{nextpage_button}{0x18: 56}{newevidence: 16438}{name: 0}{color: 2}{speed: 4}
+Mirror slipped into pocket.{nextpage_button}{speed: 255}{color: 0}{wait: 10}{hidetextbox: 1}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32784 402 402}{wait: 16}{0x10: 32821}{0x10: 52}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{name: 1024}{person: 5 67 67}...{wait: 16}On second thought,{wait: 8} let's{b}
+not and say we did.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32784 402 402}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{person: 0 0 0}{name: 1024}Personally,{wait: 8} I'm a little more{b}
+interested in this park.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{wait: 16}{name: 1280}{hidetextbox: 0}{person: 5 76 75}
+You know what I think?{b}
+I bet they're filming a movie.{p}{person: 5 68 67}
+Let's go take a look!{wait: 8} Maybe{b}
+we'll see someone famous!{nextpage_button}{name: 11264}{bgcolor: 2305 8 31}{shake: 30 0}
+Hey,{wait: 12} Miss!{wait: 20} {sound: 51 1}{person: 5 81 81}{bgcolor: 2305 8 31}Stay out of the{b}
+park!{p}{person: 5 93 92}{name: 1280}
+...{wait: 20}He got mad at me.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{name: 1024}{hidetextbox: 0}
+Um,{wait: 8} did something happen here,{wait: 8}{b}
+officer?{p}{name: 11264}
+Huh?{wait: 20} {speed: 2}Uh,{wait: 8} no,{wait: 8} move along,{wait: 8}{b}
+nothing to see.{p}{speed: 3}
+Why don't you kids go play{b}
+someplace else?{p}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+We're not kids and we're not{b}{bgcolor: 2305 8 31}{shake: 30 0}
+playing!{wait: 16} {speed: 3}I'm an attorney!{p}{fademusic: 30}{name: 768}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 20}{speed: 4}Something wrong?{p}{name: 11264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Ah,{wait: 8} Detective Skye!{wait: 20} We're fine{b}{shake: 30 0}{bgcolor: 2305 8 31}
+ma'am,{wait: 8} nothing to report!{p}{newevidence: 32812}{hidetextbox: 1}{wait: 20}{personvanish: 3 4}{person: 9 247 247}{wait: 64}{wait: 40}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 4}{color: 2}
+(Detective...?){fademusic: 0}{music: 41 0}{color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+Why's she wearing a lab coat?{p}{person: 5 67 67}{name: 1024}
+You're hardly one to comment{b}
+on how people are dressed.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 248 247}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 768}
+And...{wait: 20} these kids are?{p}{person: 9 247 247}{name: 11264}{speed: 5}
+Curiosity seekers,{wait: 8} ma'am.{wait: 16}{b}{speed: 3}
+They claim to be{wait: 6} "lawyers".{p}{person: 9 248 247}{name: 768}
+Ah.{wait: 16} Why don't you kids run{b}
+along and play someplace else?{p}{person: 9 247 247}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Look,{wait: 16} {speed: 3}we're not...{p}{person: 9 248 247}{name: 768}{speed: 4}
+Or I might spill something on{b}
+that pretty face of yours.{nextpage_button}{hidetextbox: 1}{0x8e: 9 254}{0x8f: 257}{0x63}{person: 9 246 245}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}
+Want a dose of experimental{b}
+Hydroxyacelunodosetrase?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}
+...{wait: 16}Come again?{p}{person: 5 68 67}
+What's Hydroxy...{wait: 10} stuff?{p}{person: 5 75 75}{name: 1024}
+Whatever it is,{wait: 8} it doesn't{b}{shake: 30 0}{bgcolor: 2305 8 31}
+sound good.{wait: 20} {speed: 2}Let's go,{wait: 8} Trucy!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 248 247}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 768}{speed: 3}
+Try to keep out the riff-raff,{wait: 8}{b}
+if you would.{nextpage_button}{person: 9 247 247}{name: 11264}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Yes ma'am!{p}{hidetextbox: 1}{wait: 30}{fademusic: 120}{personvanish: 4 2}{wait: 32}{wait: 60}{person: 0 0 0}{name: 1024}{hidetextbox: 0}
+Grr{speed: 8}...{wait: 20} {speed: 4}How are we going to get{b}
+more information like this?{p}{person: 5 68 67}{name: 1280}{bgcolor: 2305 8 31}{speed: 3}
+Why don't we ask that nice{b}
+woman across the street?{nextpage_button}{person: 5 67 67}{name: 1024}{speed: 4}{color: 2}
+(Oh yes,{wait: 8} that nice woman...{b}
+*gulp*){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32784 402 402}{wait: 16}{fademusic: 0}{music: 20 0}{0x10: 32822}{0x51: 0 53}
+{11520}{3344}{0x35: 10241 @RelativeAddress4}{0x37: 12 0}{0x37: 22 1}{hidetextbox: 3}{special_jmp}{endjmp}{endjmp}{@RelativeAddress4}{0x37: 13 0}{0x37: 14 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{person: 0 0 0}{name: 1024}I gotta say,{wait: 7} I'd really like{b}
+to know what happened here...{wait: 20}{p}{name: 11264}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Hey,{wait: 16} I said no one goes in!{p}{speed: 3}
+Unless you want a face-full{b}{shake: 30 0}{bgcolor: 2305 8 31}
+of hydroxyadayadawhatzit!{p}{name: 1024}{speed: 5}{color: 2}
+(Hmm...{wait: 20} {speed: 3}No dice.){color: 0}{p}{personvanish: 3 1}{person: 32784 402 402}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{person: 0 0 0}{name: 1024}There's paint splashed all{b}
+over this gate.{p}{speed: 4}{color: 2}
+(What a mess...){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{name: 1280}{person: 5 68 67}{hidetextbox: 0}{speed: 3}
+Was this paint knocked over{b}
+by the car that hit my Daddy?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4096}{person: 16 395 394}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+That's right.{wait: 16} Feh.{wait: 16} And I'm{b}
+left to clean up the mess.{p}
+If you find whoever did this,{wait: 8}{b}
+bring the scoundrel by,{wait: 8} would{b}
+you?{p}{name: 1280}{person: 5 96 95}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Of course!{wait: 12} {speed: 3}Then you can make{b}
+them clean up their own mess!{p}{name: 4096}{person: 16 393 393}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Ah ha ha ha!{wait: 20}{person: 16 390 389} You're cute.{wait: 30}{b}
+Na{1983}ve,{wait: 8} but cute.{p}{person: 16 395 394}{speed: 5}
+When I find whoever did this,{wait_noanim: 30}{b}{bgcolor: 2305 8 31}{shake: 30 0}{person: 16 395 394}{speed: 2}
+you can bet I'll be doing some{b}
+"cleaning".{person: 16 398 398}{animation: 213 1}{0x63}{nextpage_button}{person: 16 397 396}{speed: 5}
+There's nothing I dislike{b}
+so much...{wait: 15} as a{wait: 6} mess.{p}{name: 1280}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Ooh!{wait: 16} I wish I could say cool{b}
+things like that!{p}{person: 16 390 389}{name: 4096}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+I'll bet you do!{wait: 16}{b}{person: 16 393 393}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 3}
+Wa ha ha ha ha!!!{person: 16 389 389}{nextpage_button}{person: 16 389 389}{name: 1024}{speed: 5}{color: 2}
+(I'd laugh if my teeth weren't{b}
+chattering so hard.){speed: 255}{color: 0}{nextpage_button}{person: 32784 402 402}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{person: 0 0 0}{name: 1024}...{wait: 20}Looks like there's some{b}
+trouble by the park gate.{nextpage_button}{person: 5 96 95}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+I smell an incident!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{name: 11264}{hidetextbox: 0}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Ma'am!{bgcolor: 2305 8 31}{wait: 16} {speed: 3}There's no entry{shake: 30 1} to{b}
+the park!{p}{name: 14336}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Now don't you tell me where{b}
+I can't go,{wait: 8} young fella!{p}
+I always walk through this{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+park on my way home!{p}{name: 11264}
+Please,{wait: 12} get down from there!{wait: 20}{b}
+You'll hurt yourself,{wait: 8} ma'am!{wait: 20}{p}{name: 1024}{speed: 4}{color: 2}
+(That's quite the determined{b}
+old lady.){color: 0}{nextpage_button}{0x51: 0 53}
+{13825}{844}{jmp: 140}{endjmp}{endjmp}{personvanish: 3 1}{person: 32784 402 402}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{person: 0 0 0}{name: 1024}A brightly painted dragon.{wait: 20}{b}
+Why do I get the feeling he's{b}
+glaring at me?{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 16 389 389}{wait: 16}{hidetextbox: 0}
+Those paints must have been{b}
+to repaint this wall.{p}{name: 4096}{person: 16 390 389}
+That's right.{wait: 16} I called in an{b}
+artist to do the job right.{p}{person: 16 395 394}
+...{wait: 20}He's the third so far.{p}{name: 1024}{person: 16 394 394}
+The...{wait: 20} third?{p}{hidetextbox: 1}{person: 16 398 398}{animation: 213 1}{0x63}{name: 4096}{hidetextbox: 0}{person: 16 397 396}
+The first spilled paint all{b}
+over the entrance here, the{b}
+second on my kimono...{p}{speed: 4}
+So I...{nextpage_button}{name: 1024}{person: 16 396 396}{shake: 30 0}{bgcolor: 2305 8 31}
+N-No,{wait: 12} don't tell me.{wait: 20} It's{b}
+better that I don't know.{nextpage_button}{person: 32784 402 402}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}Wow,{wait: 12} {speed: 3}what a big house!{wait: 12} And the{b}
+gate is so big...{p}{name: 1024}{person: 5 69 69}
+The Kitaki Family is pretty{b}
+big around these parts.{p}{name: 1280}{person: 5 96 95}
+I like the fox!{wait: 16} It's so cute!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4096}{person: 16 390 389}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Ah,{wait: 8} that.{wait: 16} That's our family{b}
+crest...{wait: 16} from the old country.{nextpage_button}{name: 1280}{person: 5 76 75}{sound: 51 1}{bgcolor: 2305 8 31}
+Your family{wait: 6} "crest"?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4096}{person: 16 392 391}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+We're clever as the fox...{b}
+and our teeth are sharp.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+So it's like a motto!{p}{person: 5 74 73}{speed: 2}
+You need a crest,{wait: 12} too, Apollo!{wait: 20}{b}{speed: 3}
+Ooh! How about the scales of{b}
+justice? Or a lunar lander!{p}{name: 1024}{person: 5 73 73}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}{color: 2}
+(...{wait: 16}I'll pass,{wait: 8} thanks.){speed: 255}{color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32784 402 402}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{person: 0 0 0}{name: 1024}People Park...{wait: 20} Huh,{wait: 12} kind of{b}
+an odd name for such an empty{b}
+place.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{wait: 16}{name: 1280}{person: 5 76 75}{hidetextbox: 0}
+I wonder why it's named that?{p}{name: 1280}{person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}
+Hey!{wait: 16} There's something written{b}
+on the gate post...{p}{name: 1024}{person: 5 95 95}
+Huh?{wait: 12} Oh yeah...{wait: 20} It says,{b}{person: 5 81 81}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+"{color: 3}Donated by Big Wins Kitaki{color: 0}".{p}{name: 1280}{person: 5 72 69}{speed: 3}
+You mean the Kitaki Family{b}
+built this park?{p}{speed: 3}
+It's so nice of them to give{b}
+to the community like that!{nextpage_button}{name: 1024}{person: 5 67 67}
+...{wait: 20}Let's not get too friendly{b}
+with them,{wait: 8} shall we?{nextpage_button}{speed: 5}{color: 2}
+(A gangster building a park{speed: 8}...?{wait: 20}{b}{speed: 3}
+Odd move for a crime boss.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32784 402 402}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{name: 1280}{hidetextbox: 0}{speed: 2}Little Plum?{wait: 16} {speed: 3}That's a really{b}
+cute name for someone so...{p}{person: 16 395 394}{name: 4096}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Yes...?{wait: 16}{b}{person: 16 398 398}{animation: 213 1}{0x63}{person: 16 397 396}{nextpage_button}{name: 1024}{person: 5 67 67}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Wh-{wait: 12}Whoa!{p}{person: 5 68 67}{name: 1280}
+What is it,{wait: 8} Apollo?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 396 396}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}
+How about you go through me{b}
+when talking to her,{wait: 10} OK,{b}
+Trucy?{p}{person: 5 91 90}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Huh?{wait: 16} That seems like a bit of{b}
+a needless procedure.{p}{person: 5 90 90}{name: 1024}{speed: 4}
+I'm a lawyer.{wait: 16} {speed: 3}I live for{b}
+needless procedures.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 397 396}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4096}{speed: 4}
+Oh little girl,{wait: 12} you should{b}
+know...{wait: 10} {speed: 3}We're gangsters.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+Gangst{speed: 8}...{wait: 12} {speed: 5}Oh!{wait: 20} {speed: 2}That means{wait_noanim: 20}{b}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+you're the bad guys!{p}{person: 5 67 67}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Trucy!{wait: 20} Through me!{wait: 20} Please!{wait: 16}{b}
+I'm begging you here!{nextpage_button}{person: 16 393 393}{name: 4096}{speed: 2}
+Wa ha ha ha ha!!!{0x63}{p}{person: 16 390 389}
+The bad guys...{wait: 20} {speed: 2}I like the{wait: 20}{b}{bgcolor: 2305 8 31}{shake: 30 1}
+sound of that!{p}{person: 16 389 389}{name: 1024}{speed: 4}{color: 2}
+(...{wait: 20}I'm going to need some{b}
+warm tea after this.){color: 0}{p}{person: 16 390 389}{name: 4096}
+It takes a lot of hard work{b}
+to protect a family fortune.{nextpage_button}{person: 16 395 394}{speed: 4}
+Things aren't as easy as they{b}
+used to be for us "bad guys".{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 4}
+So,{wait: 7} you're saying that{wait_noanim: 20}{b}{person: 5 68 67}
+business is in a slump?{p}{person: 5 67 67}{name: 1024}{speed: 4}{color: 2}
+(Let's not ask about{wait: 6} "business"{b}
+if we can help it,{wait: 8} please?){speed: 255}{color: 0}{p}{0x10: 32809}{0x51: 0 53}
+{10752}{2222}{0x35: 11264 @RelativeAddress5}{0x35: 11777 @RelativeAddress6}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{jmp: 130}{endjmp}{endjmp}{@RelativeAddress5}{@RelativeAddress6}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 402 402}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 16 402 402}{name: 1024}{hidetextbox: 0}There was a car accident here{b}
+last night?{p}{name: 4096}{speed: 5}
+Last night...{p}{person: 16 396 396}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Of c-{wait: 8}course you wouldn't know{b}
+about it! S-{wait: 15}Sorry to bother{b}
+you!{p}{hidetextbox: 1}{person: 16 398 398}{animation: 213 1}{0x63}{person: 16 397 396}{hidetextbox: 0}{name: 4096}{speed: 4}
+Wait.{nextpage_button}{name: 1024}{speed: 2}
+Y-{bgcolor: 2305 8 31}{shake: 30 1}Yes?{p}{person: 16 397 396}{name: 4096}{speed: 4}
+You're talking about that man,{wait: 8}{b}
+aren't you?{p}{person: 16 390 389}{speed: 3}
+The one who flew thirty feet{b}
+and just walked away?{nextpage_button}{person: 5 68 67}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+That's my daddy!{wait_noanim: 30}{b}{nextpage_button}{person: 16 393 393}{name: 4096}{speed: 2}
+Ah ha ha!{wait: 20} I should've known!{nextpage_button}{person: 16 390 389}{speed: 3}
+One of our Capos thought he'd{b}
+make a great point man...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 4}
+Capo?{wait: 16} Point man{0x5a}{speed: 8}...?{p}{person: 5 75 75}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Um,{wait: 8} could you avoid using too{b}
+much,{wait: 8} er,{wait: 8} industry lingo?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 395 394}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4096}
+In any case,{wait: 8} it's been nothing{b}
+but trouble.{p}{person: 16 390 389}
+I've been cleaning up this{b}
+mess since morning!{wait: 20} Bah!{nextpage_button}{name: 1024}{speed: 4}
+Cleaning up this{speed: 8}...{wait: 20} {speed: 3}paint?{nextpage_button}{person: 16 402 402}{0x10: 32808}{0x51: 0 53}
+{11009}{1554}{0x35: 13824 @RelativeAddress7}{0x35: 11520 @RelativeAddress8}{0x37: 22 0}{0x37: 28 1}{hidetextbox: 3}{special_jmp}{endjmp}{endjmp}{@RelativeAddress7}{@RelativeAddress8}{0x37: 12 0}{0x37: 13 1}{hidetextbox: 3}{special_jmp}{endjmp}{endjmp}{0x37: 23 0}{0x37: 15 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 1024}{hidetextbox: 0}{speed: 3}Was this paint spilled at{b}
+the time of the accident?{p}{person: 16 395 394}{name: 4096}
+It was around 9 last night.{wait: 16}{b}
+I heard a crashing noise...{p}{person: 16 390 389}
+...{wait: 20}and found your father{b}
+drowning in a sea of paint.{p}{person: 5 68 67}{name: 1280}
+So you came to his rescue?{p}{person: 16 390 389}{name: 4096}
+You've my husband...{wait: 20} the Boss{b}
+to thank for that.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 126}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}
+The car that hit your father{b}
+knocked over this paint{speed: 8}...{p}
+...{wait: 20}{speed: 3}then turned the corner,{wait: 8} and{b}
+sped away.{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 227}{person: 16 395 394}{0x5a}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{0x59}
+We're in the middle of{b}
+repainting our wall,{wait: 10} you see.{nextpage_button}{person: 16 402 402}{name: 1024}{color: 2}
+(I'm sure that dragon is glaring{b}
+at me.){color: 0}{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+But,{wait: 7} why are you out here{b}
+cleaning it up?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 390 389}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4096}
+What do you mean?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+I mean,{wait: 8} aren't you a{b}
+gangster?{p}{person: 5 68 67}
+Don't you have any{wait: 6} "goons"{wait: 6} to{b}
+do your dirty work for you?{p}{person: 5 81 81}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 3}
+Please!{wait: 20} {speed: 2}Go through me when{b}
+you want to...{p}{person: 16 393 393}{name: 4096}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+Wa ha ha ha ha!!!{wait: 20} Don't be{b}
+such a stiff,{wait: 8} lawyer-boy.{p}{person: 16 390 389}{speed: 3}
+I suppose we gangsters do have{b}
+a certain image...{p}{person: 16 389 389}{name: 1024}{speed: 4}
+Urm,{wait: 12} yes.{p}{person: 16 395 394}{name: 4096}{speed: 3}
+But we're community-oriented{b}
+gangsters,{wait: 8} you see.{p}
+...{wait: 20}The Boss likes to give{b}
+back to the people,{wait: 8} see?{nextpage_button}{name: 1024}{color: 2}
+(How noble of him...){color: 0}{p}{person: 16 390 389}{name: 4096}{speed: 3}
+I availed myself of the public{b}
+facilities to get rid of all{b}
+the garbage...{p}{person: 16 395 394}
+Now there's just the paint on{b}
+the street to deal with.{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}{color: 2}
+(Public facilities...?){nextpage_button}{hidetextbox: 1}{person: 0 0 0}{wait: 1}{0x1d: 260}{0x4c}{name: 1024}{hidetextbox: 0}
+(I wonder if she means that{b}{color: 1}
+trash can{color: 2}...){speed: 255}{color: 0}{nextpage_button}{hidetextbox: 1}{wait: 1}{0x1d: 4}{0x4c}{0x10: 32810}{0x51: 0 53}
+{10496}{2768}{0x35: 11264 @RelativeAddress9}{0x35: 11777 @RelativeAddress10}{hidetextbox: 1}{jmp: 130}{endjmp}{endjmp}{@RelativeAddress9}{@RelativeAddress10}{personvanish: 3 1}{person: 16 402 402}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 16 402 402}{name: 1024}{hidetextbox: 0}...{wait: 20}Can I ask you a question?{p}{name: 4096}
+What?{p}{name: 1024}
+...{wait: 20}What happened in the park{b}
+across the street?{p}{person: 16 395 394}{name: 4096}
+Oh,{wait: 16} yes,{wait: 16} quite the commotion.{wait: 16}{b}
+"Chicago Lightning", as the{b}
+Boss would say.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}
+Chicago...{wait: 20} huh?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 402 402}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4096}{speed: 3}
+Gunfire.{wait: 20} Someone was killed.{wait_noanim: 30}{b}{person: 16 392 391}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Strange circumstances,{wait: 8} too.{p}{person: 16 391 391}{name: 1024}{speed: 2}
+You're {bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}kidding!{p}{person: 16 395 394}{name: 4096}{speed: 3}
+What a morning!{p}
+Trouble everywhere.{wait: 20} The park,{wait: 8}{b}
+the gate,{wait: 8} even our house...{p}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Did something happen at your{b}
+house,{wait: 8} too?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 395 394}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4096}{speed: 3}
+A crime without honor!{b}
+Without remorse!{p}{hidetextbox: 1}{person: 16 398 398}{animation: 213 1}{0x63}{person: 16 397 396}{hidetextbox: 0}{name: 4096}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+It's a private matter...{wait: 20}{b}
+Wanna hear about it?{nextpage_button}{name: 1280}
+Somehow I don't think{wait: 6} "no"{wait: 6}{b}
+is an acceptable answer,{wait: 10}{b}
+Polly.{speed: 255}{nextpage_button}{person: 16 402 402}{0x10: 32811}{0x35: 10241 @RelativeAddress11}{0x37: 22 0}{0x37: 23 1}{hidetextbox: 3}{special_jmp}{endjmp}{endjmp}{@RelativeAddress11}{0x37: 14 0}{0x37: 15 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 16 402 402}{name: 1024}{hidetextbox: 0}So...{wait: 20} what happened at your{b}
+house?{p}{person: 16 392 391}{name: 4096}{sound: 52 1}{bgcolor: 2305 8 31}
+Bloomers.{wait: 20} Last night.{p}{person: 16 391 391}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Eh.{wait: 30}{b}{speed: 5}{color: 2}
+(I got a bad feeling about{b}
+this...){color: 0}{p}{hidetextbox: 1}{person: 16 398 398}{animation: 213 1}{0x63}{name: 4096}{person: 16 397 396}{hidetextbox: 0}{fademusic: 30}{sound: 26 1}{shake: 30 0}{speed: 2}
+Me,{wait: 8} Little Plum Kitaki,{wait: 8} the{b}
+victim of a panty-snatcher!{nextpage_button}{person: 5 82 81}{name: 1280}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Whaaaaaaat?{wait_noanim: 25}{person: 5 96 95} So it wasn't just{b}
+my panties that were stolen!?{nextpage_button}{person: 16 397 396}{name: 4096}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Got you too,{wait: 12} did they?{wait: 20}{b}
+Poor thing.{p}{person: 16 395 394}{speed: 3}
+Like I said,{wait: 12} whoever did this{b}
+is a hardened criminal.{nextpage_button}{person: 16 397 396}{name: 4096}{sound: 26 1}{shake: 30 0}{speed: 2}
+It wasn't you,{wait: 8} was it!?{p}{person: 16 396 396}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 3}
+N-{wait: 8}No!{wait: 20} Of course not!{wait: 20} Mercy!{p}{person: 16 395 394}{name: 4096}{speed: 3}
+I've heard word that panties{b}
+have been disappearing lately.{p}{person: 16 392 391}
+...{wait: 20}And the missing panties{b}
+all have something in common.{p}{person: 16 394 394}{name: 1024}{color: 2}
+(It's hard to imagine Trucy's{b}
+and Mrs. Kitaki's panties{b}
+having much in common{speed: 8}...{wait: 12}{speed: 3}){p}
+(I just imagined Mrs. Kitaki's{b}
+panties... *gulp*){color: 0}{p}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+I kn{bgcolor: 2305 8 31}ow!{wait: 8} We'll find your{b}
+bloomers, too!{nextpage_button}{person: 16 397 396}{name: 4096}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Great!{wait: 14} Show me what you're{b}
+made of.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 67 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 5}{color: 2}
+(What have you gotten me into{b}{0x23: 0}{music: 255 90}
+this time,{wait: 16} {speed: 4}Trucy?){speed: 255}{color: 0}{nextpage_button}{0x10: 32812}{0x35: 10752 @RelativeAddress12}{0x35: 10496 @RelativeAddress13}{0x35: 11777 @RelativeAddress14}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{jmp: 130}{endjmp}{endjmp}{@RelativeAddress12}{@RelativeAddress13}{@RelativeAddress14}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 402 402}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{24}}
+{bop}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{25}}
+{bop}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{26}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 1024}{person: 16 389 389}{showphoto: 54}{speed: 4}Can you tell me anything{b}
+about this mirror?{nextpage_button}{name: 4096}{person: 16 390 389}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+That's probably from the car{b}
+that knocked that fellow{b}
+across the street.{nextpage_button}{name: 1024}{person: 16 389 389}{speed: 5}{color: 2}
+(Right!{wait: 16} {speed: 3}That makes this a{b}
+valuable clue!){color: 0}{p}{bganim: 98 579}{name: 4096}{person: 16 397 396}
+Let me know if you find that{b}
+car,{wait: 8} would you?{p}{person: 16 396 397}{animation: 214 1}
+You splash Kitaki paint,{wait: 8} you{b}{person: 16 397 396}
+pay the price.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{27}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 1024}{person: 16 389 389}{showphoto: 54}{speed: 3}I found out who this mirror{b}
+belongs to.{p}{bganim: 98 579}{name: 4096}{person: 16 390 389}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Ooh.{wait: 20} {speed: 3}You're tougher than you{b}
+look.{p}
+Spit it out.{wait: 16} Who was it?{wait: 20}{person: 16 398 398}{animation: 213 1}{0x63}{person: 16 397 396} Where{b}
+do they live?{nextpage_button}{name: 1024}{person: 16 396 396}{speed: 4}
+Urk!{wait: 20} I j-just forgot!{wait: 20} Heh!{nextpage_button}{name: 1280}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+I remember,{wait: 16} Apollo!{wait: 20} It was the{b}
+Meraktis Clinic!{p}{name: 1024}{person: 5 81 81}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Shhhh!{wait: 14}{p}{name: 1280}{person: 5 82 81}
+Why?{wait: 14} I'm right,{wait: 8} aren't I?{p}{name: 4096}{person: 16 392 391}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...{wait: 16}Meraktis,{wait: 8} eh?{nextpage_button}{name: 1024}
+Um,{wait: 12} yes.{wait: 20}{b}{speed: 3}{color: 2}
+(Why's she so quiet all{b}
+of a sudden?){color: 0}{nextpage_button}{person: 16 394 394}
+...{wait: 20}Is something wrong?{nextpage_button}{name: 4096}{person: 16 395 394}
+Erm,{wait: 8} no.{wait: 20} Pay me no mind.{wait: 20}{b}
+And thanks for the info.{nextpage_button}{person: 16 402 402}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{28}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 4096}{person: 16 395 394}Sorry,{wait: 12} kid.{wait: 16} I got no idea{b}
+what you're talking about.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{29}}
+{bop}{0x26: 0}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 15{b}
+Kitaki Mansion{b}{fademusic: 0}{music: 56 0}{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{person: 5 75 75}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{wait: 16}{hidetextbox: 0}
+Little Plum's not here.{wait: 20} She's{b}
+not finished cleaning,{wait: 8} huh.{p}{name: 1024}{person: 5 75 75}
+Maybe she went to get a paint{b}
+scraper...?{p}{name: 4096}{person: 5 81 81}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+OK!{wait: 16} Who's the wise guy who{b}
+spit gum out on the street!?{p}{name: 1024}{person: 5 75 75}{speed: 3}{color: 2}
+(Her voice carries all the way{b}
+out to the street from inside{b}
+the mansion...){color: 0}{p}{name: 1280}{person: 5 72 69}
+She's a neat freak!{wait: 20} How cute!{p}{person: 5 81 81}{name: 4096}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+You there!{wait: 8}{b}
+It was you,{wait: 8} wasn't it!?{wait: 20}{b}
+Fess up!{nextpage_button}{hidetextbox: 1}{bgcolor: 2305 8 31}{shake: 30 0}{sound: 107 1}{wait: 80}{shake: 30 0}{hidetextbox: 0}{speed: 5}
+I hope you've said your{b}
+prayers.{wait: 20} You're gonna{b}
+need them...{nextpage_button}{name: 1024}{person: 5 67 67}{speed: 2}
+Tr-Trucy?{wait: 20} Let's leave.{wait: 8}{b}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+Now.{p}{name: 1280}{person: 5 67 67}
+...?{wait: 20}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{0x10: 32845}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{30}}
+{bop}{name: 1024}There's a big waste basket by{b}
+the park entrance.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{hidetextbox: 0}{name: 1280}{person: 5 68 67}
+...?{wait: 20} You aren't going to{wait_noanim: 20}{b}{person: 5 68 67}
+search through the trash?{p}{name: 1024}{person: 5 75 75}
+I don't think we need to.{nextpage_button}{name: 1280}{person: 5 72 69}
+Oh,{wait: 8} no,{wait: 8} please,{wait: 8} knock yourself{b}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+out.{wait: 20} Don't mind me,{wait: 12} I'll be{b}
+waiting over here.{p}{name: 1024}{person: 5 69 69}{speed: 3}
+Just so we're clear,{wait: 8} searching{b}
+through trash isn't a hobby{b}
+of mine, OK?{p}{0x51: 0 53}
+{19713}{748}{0x35: 20225 @RelativeAddress15}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32784 402 402}{wait: 16}{hidetextbox: 3}{special_jmp}{@RelativeAddress15}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{31}}
+{bop}{name: 1024}They're not letting anyone{b}
+into the crime scene.{p}
+The guard at the entrance{b}
+is humming a song.{p}
+He's got rhythm,{wait: 8} actually.{wait: 20}{b}
+Maybe he plays in a band.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{32}}
+{bop}{name: 1024}Several colors of paint have{b}
+been splashed across the gate.{p}
+It's almost all dry.{wait: 20} This is{b}
+going to be tough to clean.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{33}}
+{bop}{name: 1024}It looks like that woman's{b}
+still causing trouble...{nextpage_button}{name: 11264}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Look,{wait: 16} no one goes in!{wait: 20} That{b}
+means you!{p}{name: 14336}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Oh,{wait: 8} what's the difference?{wait: 15}{b}
+Let{speed: 8}...{wait: 20} me...{wait: 20}{bgcolor: 2305 8 31}{shake: 30 1} {speed: 2}go!{p}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}
+Ow!{wait: 30} Ow ow ow ow ow ow!!!{p}{name: 11264}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Ah!{wait: 20} S-Sorry!{p}{name: 14336}{bgcolor: 2305 8 31}{shake: 30 0}
+That's it,{wait: 8} I'm suing!{p}
+...{wait: 20}But I might change my mind{b}
+for five bucks...{nextpage_button}{name: 1024}{speed: 5}{color: 2}
+(What is she,{wait: 8} some kind of{b}
+con artist?){speed: 255}{color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{34}}
+{bop}{name: 1024}A colorful dragon turns its{b}
+baleful gaze in my direction.{nextpage_button}
+As if to say,{wait: 8} "Abandon all{b}
+hope ye who enter here."{p}
+Don't worry,{wait: 8} Mr. Dragon.{wait: 20} Me{b}
+and hope haven't been on{b}
+speaking terms for a while.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{35}}
+{bop}{name: 1024}An impressive gate befitting{b}
+the Kitaki Mansion.{p}{hidetextbox: 1}{person: 5 69 69}{personvanish: 3 1}{wait: 16}{name: 1280}{person: 5 72 69}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Look at the name plate!{wait: 10}{b}{speed: 3}
+"Kitaki"...!{p}
+That's so cool!{wait: 20} Short and{b}
+blunt, like any good gangster!{wait: 16}{b}
+Ooh!{wait: 8} Let's change our name!{p}{person: 5 76 75}{speed: 5}
+How about{0x5a}{speed: 8}...{wait_noanim: 30}{b}{person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+"W. A. A."!{p}{person: 5 95 95}{speed: 8}
+...{wait: 30}{b}{person: 5 68 67}{speed: 4}
+Maybe that's too short and{b}
+blunt.{wait: 20} What do you think?{nextpage_button}{name: 1024}{speed: 5}
+No comment.{speed: 255}{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{36}}
+{bop}{name: 1024}Apparently,{wait: 8} this park was the{b}
+gift of the Kitaki Family.{p}{speed: 4}
+The friendly{wait: 6} "People Park",{wait: 8}{b}
+brought to you by organized{b}
+crime...{p}{speed: 3}
+A very naughty part of me is{b}
+tempted to write{wait: 6} "We Kill"{wait: 6}{b}
+on the left side of the sign.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{37}}
+{bop}{0x26: 0}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 15{b}
+Kitaki Mansion{b}{fademusic: 0}{music: 56 0}{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{person: 0 0 0}{name: 1024}{color: 2}
+(So this is it{speed: 8}...{wait: 20}{b}{speed: 3}
+My first murder crime scene!){color: 0}{p}{name: 11264}{speed: 5}
+Ah,{wait: 8} {person: 5 81 81}{personvanish: 3 1}{wait: 16}it's you kids again.{p}{speed: 3}
+Look,{wait: 8} can't you find some{b}
+other place to play...{p}{person: 5 91 90}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+We're not playing!{p}{person: 5 76 75}{speed: 3}
+We're um,{wait: 8} "investigating"!{b}{wait_noanim: 30}{person: 5 74 73}
+Aren't we,{wait: 8} Apollo?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 0}{name: 1024}
+Sir,{wait: 16} I have a {showphoto: 62}letter of{b}
+request here.{p}{name: 11264}{bgcolor: 2305 8 31}{speed: 5}
+Letter of{speed: 8}...{wait: 20} huh?{p}{showphoto: 89}{speed: 3}
+Why does it say{wait: 6} "Hit Request"{b}{wait: 6}
+on it?{p}{name: 1024}{speed: 4}{color: 2}
+(Ms. Tiala must have used the{b}
+Kitaki's stationery...){color: 0}{p}{bganim: 98 579}{name: 512}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Excuse me,{wait: 8} coming through.{wait: 16}{p}{hidetextbox: 1}{personvanish: 3 2}{person: 6 133 133}{wait: 32}{name: 11264}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{shake: 30 1}{speed: 2}
+Ah!{wait: 10} It's you!{wait: 10} Mr. Gavin!{p}{name: 1024}{bgcolor: 2305 8 31}
+...!{wait_noanim: 30}{bgcolor: 2305 8 31}{b}{color: 2}
+(Who's this guy...?){color: 0}{p}{person: 6 134 133}{name: 512}{speed: 3}
+I must say I'm used to being{b}
+inspected by the ladies...{p}{person: 6 138 137}
+But this is the first time{b}
+I've felt this way with a man.{nextpage_button}{person: 6 137 137}{name: 1024}{speed: 8}
+Mr....{wait: 20} {speed: 5}Gavin?{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{person: 8 201 201}{bg: 4095}{0x5f: 3 1 31}{bgcolor: 772 1 31}{wait: 25}{wait: 120}{bgcolor: 2305 8 31}{bg: 233}{person: 6 138 137}{0x5f: 4 1 1}{name: 512}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 3}
+Ah,{wait: 12} Fr{1988}ulein.{wait: 16} What is a sweet{b}
+morsel like you doing in such{b}
+a dismal place?{wait: 20} Can I help?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 81 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 8}
+.{speed: 9}.{speed: 10}.{wait: 40}{b}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{person: 5 82 81}{speed: 2}
+Y-{wait: 8}Yes!{nextpage_button}{person: 5 91 90}{speed: 2}
+The police m{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}an officer fellow{b}
+here won't let us in!{p}{person: 5 93 92}
+We even have a letter of{b}{showphoto: 62}
+request!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 138 137}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 512}{speed: 4}
+You must be exhausted,{wait_noanim: 25}{b}{person: 6 134 133}{speed: 3}
+standing out here!{p}{removephoto}
+I will take you to the{b}
+scene of the crime.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Oooh!{bgcolor: 2305 8 31} R-{wait: 16}Really!?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 134 133}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 512}{speed: 4}
+...{wait: 16}By your leave,{wait: 8} Officer.{nextpage_button}{person: 6 133 133}{name: 11264}{speed: 2}
+Ya...{bgcolor: 2305 8 31}{wait: 12}{b}{shake: 30 0}
+Yes sir!{wait: 20}{b}{bgcolor: 2305 8 31}{shake: 30 1}
+Of course,{wait: 8} sir!{p}{person: 6 138 137}{name: 512}{speed: 3}
+Ah ha.{wait: 12} Very well.{wait: 16} This way,{wait: 8}{b}
+Fr{1988}ulein...{p}{person: 5 72 69}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Whee!{nextpage_button}{hidetextbox: 1}{wait: 30}{personvanish: 4 4}{wait: 64}{person: 0 0 0}{wait: 120}{name: 1024}{hidetextbox: 0}{speed: 8}
+.{speed: 10}.{speed: 12}.{wait: 40}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Hey!{wait: 16} What about me!?{nextpage_button}{hidetextbox: 1}{newevidence: 32800}{0x33: 3 0 5 4 255}{0x60: 3 18 7 5 255}{0x61: 3 0 6 4 255}{0x32: 3 227}{0x10: 32847}{fadetoblack: 4}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{38}}
+{bop}{hidetextbox: 3}{special_jmp}{endjmp}

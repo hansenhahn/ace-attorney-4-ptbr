@@ -1,0 +1,128 @@
+
+
+{{0}}
+{bop}{person: 0 0 0}{0x26: 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}July 8,{wait: 10} 10:09 AM{b}
+Wright Anything Agency{color: 0}{nextpage_button}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 30}{0x19: 32877 110}{personvanish: 3 2}{person: 5 67 67}{wait: 32}{name: 1024}{hidetextbox: 0}{speed: 4}
+Wow,{wait: 10} {speed: 3}that concert last night{b}
+sure went south in a hurry!{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 3}
+No kidding.{nextpage_button}{person: 5 91 90}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Why did they arrest Machi!?{wait: 20}{b}
+Why!?{nextpage_button}{person: 5 90 90}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Don't look at me like it's{b}
+my fault!{nextpage_button}{speed: 4}{color: 2}
+(Machi Tobaye,{wait: 8} the blind{b}
+pianist{speed: 8}{0x5a}...){p}
+(...{wait: 20}{0x59}{speed: 4}arrested on suspicion of{b}
+murdering Romein LeTouse.){color: 0}{nextpage_button}{person: 5 91 90}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I can't believe such a cute{b}
+little boy could do something{b}
+so horrible!{nextpage_button}{person: 5 90 90}{name: 1024}{speed: 3}
+I guess they had proof of{b}
+some kind.{nextpage_button}{person: 5 91 90}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+What proof could possibly{b}{shake: 30 0}
+prove that!?{0x5a}{wait: 30}{nextpage_nobutton}{person: 6 134 133}{name: 13568}{sound: 51 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 19 0}
+Mornin'.{nextpage_button}{person: 6 133 133}{name: 1024}{speed: 4}
+P-{wait: 15}{shake: 30 0}Prosecutor Gavin?{nextpage_button}{person: 6 140 139}{name: 13568}{speed: 3}
+What a night,{wait: 6} eh?{p}
+I apologize for being so{b}
+upset...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+Mr. Gavin,{wait: 8} do you know what's{b}
+going on?{nextpage_button}{person: 5 91 90}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Why did they arrest Machi!?{b}
+Why!?{nextpage_button}{person: 5 90 90}{name: 1024}{speed: 4}
+Don't look at him like it's{b}
+his fault either.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 136 135}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{speed: 3}
+It was tough for me,{wait: 6} too.{p}
+We performed together that{b}
+night,{wait: 8} after all.{wait: 16} Yet{speed: 8}...{person: 6 136 135}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+Yet?{wait: 8}{speed: 4}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 134 133}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{speed: 4}
+The powers that be say that,{wait: 8}{b}{speed: 3}
+given the circumstances,{wait: 10} it{b}
+could only have been him.{nextpage_button}{person: 6 133 133}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+What do you mean by the{b}
+"{color: 1}circumstances{color: 0}"?{nextpage_button}{person: 6 134 133}{name: 13568}
+Lamiroir was invited from{b}
+Borginia as an ambassador{b}
+of goodwill.{p}
+It is vital that this case{b}
+be wrapped up swiftly.{nextpage_button}{person: 6 140 139}{speed: 3}
+That's all the powers that{b}
+be want,{wait: 8} really.{nextpage_button}{person: 6 139 139}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+Well those are circumstances,{wait: 12}{b}
+alright.{p}
+But what makes Machi the{b}
+only possible suspect?{nextpage_button}{person: 6 138 137}{name: 13568}{speed: 4}
+Herr Forehead...{p}{speed: 3}
+You seem to have forgotten{b}
+that you're talking to the{b}
+prosecution...{wait: 20} the enemy.{nextpage_button}{person: 6 137 137}{name: 1024}
+Ah.{wait: 6} {shake: 30 0}Right.{p}{speed: 4}{color: 2}
+(I think I like this side of{b}
+Prosecutor Gavin better,{wait: 8}{b}
+actually.){color: 0}{nextpage_button}{person: 6 134 133}{name: 13568}{speed: 3}
+I'm not at liberty to discuss{b}
+the particulars of the case.{nextpage_button}{person: 6 140 139}{0x5a}
+...{wait: 20}{0x59}Especially not to the{b}
+defense attorney.{nextpage_button}{person: 6 141 141}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 60}{speed: 4}
+What{wait: 18}{speed: 8}...{wait: 20} {speed: 3}{shake: 30 0}did you just say?{wait: 12}{b}{shake: 30 0}
+Me?{wait: 16} {speed: 4}The defense attorney?{nextpage_button}{person: 6 134 133}{name: 13568}{speed: 4}
+That's what I came to tell{b}
+you.{nextpage_button}{person: 6 138 137}{speed: 3}
+He's down at the detention{b}
+center{wait: 12}{speed: 4}{0x5a}...{wait: 20}{0x59} He wants to request{b}
+your services.{nextpage_button}{person: 6 137 137}{name: 1024}{shake: 30 0}{speed: 4}
+He{0x5a}{speed: 8}...?{wait: 16} {0x59}{speed: 4}You mean Machi?{wait: 20} Machi{b}
+wants me{speed: 8}{0x5a}...?{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+This is what we've been{b}{bgcolor: 2305 8 31}{shake: 30 0}
+waiting for,{wait: 10} Apollo!{wait: 12}{b}
+Let's get going!{nextpage_button}{person: 5 95 95}{name: 1024}{speed: 4}
+Uh{speed: 8}...{wait: 18}{b}{shake: 30 0}{speed: 4}
+Right{speed: 8}...!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 134 133}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{speed: 3}
+Good luck.{p}{speed: 3}
+I'm off to question Lamiroir.{nextpage_button}{person: 6 133 133}{name: 1024}{speed: 3}
+R-{wait: 6}Right.{wait: 18} Later!{wait: 18}{b}{speed: 4}{color: 2}
+(I hope I'm up to this{speed: 8}...){color: 0}{nextpage_button}{hidetextbox: 1}{0x10: 33025}{bgcolor: 514 1 31}{wait: 15}{person: 0 0 0}{endjmp}
+
+{{1}}
+{bop}{0x4d: 39 0}{bgcolor: 258 1 31}{wait: 15}{0x26: 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}July 8{b}
+Detention Center{b}
+Visitor's Room{p}{color: 0}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 30}{fademusic: 0}{music: 17 0}{personvanish: 3 2}{person: 5 91 90}{0x5a}{wait: 32}{hidetextbox: 0}{0x59}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Well,{wait: 8} I just don't get it.{0x5a}{wait: 35}{nextpage_nobutton}{person: 5 91 90}{bgcolor: 2305 8 31}{shake: 30 0}
+I refuse to believe a cute{b}
+little kid like that could{b}
+do something so{shake: 30 0} terrible.{nextpage_button}{person: 5 90 90}{name: 1024}{speed: 4}
+...{wait: 20}You said that already.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 4}{person: 35 777 777}{wait: 64}{name: 8960}{person: 35 790 790}{hidetextbox: 0}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{0x63}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{person: 5 96 95}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+Machi!{wait: 8} {speed: 3}Everything's going to{b}
+be OK!{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+We're here for you!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 777 777}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 4}
+Um,{wait: 6} h-{wait: 8}hi.{wait: 18} {speed: 3}Maybe you can tell{b}
+me about last night{speed: 8}{0x5a}...{nextpage_button}{name: 8960}{person: 35 778 777}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 120}{speed: 5}
+{1888}{1882}{1881}{1874}{1873}{1881}{1882}{1880}{1884}{1885}{wait: 6}{b}
+{1887}{1875}{1873}{1883}{1886}{1872}{1879}{speed: 8}{0x5a}{392}{392}{p}{0x4d: 39 0}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Huh?{nextpage_button}{0x4d: 39 1}{person: 35 785 784}{name: 8960}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+{1886}{1881}{1878}{1872}{1880}{1878}{1881}{1879}{b}
+{1877}{1876}{1879}{1873}{1874}{1884}{1875}{1882}{1883}{1885}{speed: 8}{0x5a}{392}{392}{0x59}{wait: 30}{nextpage_nobutton}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+{1885}{1882}{1875}{1873}{1888}{1876}{1874}{1880}{1878}{1874}{1887}{b}
+{1886}{1884}{1883}{1887}{1877}{1881}{1879}{1877}{1872}{1980}{nextpage_button}{person: 35 784 784}{name: 1024}{fademusic: 0}{music: 18 0}{speed: 4}{color: 2}
+(That was when I realized{b}
+how tough it must be{speed: 8}...){p}{speed: 4}
+(A little kid like this{speed: 8}...){p}{speed: 8}
+(...{wait: 20}{speed: 4}in a country so far from{b}
+everything he's ever known.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+Um,{wait: 6} {bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}maybe Lamiroir can help?{nextpage_button}{person: 5 81 81}{name: 1024}{speed: 3}
+But didn't Prosecutor Gavin{b}
+say she was with him?{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 243}{person: 6 134 133}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 13568}{hidetextbox: 0}{0x59}{speed: 3}
+Good luck.{p}{speed: 3}
+I'm off to question Lamiroir.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{0x4d: 39 0}{person: 5 91 90}{0x5a}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{name: 1280}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Well,{wait: 12} what are we {shake: 30 0}going to do?{wait: 12}{nextpage_button}{person: 5 90 90}{name: 1024}{speed: 4}
+That's,{wait: 10} um,{wait: 10} a good question.{p}{speed: 4}{color: 2}
+(I can't think of anything{b}
+we can do but go with this.){p}{speed: 4}
+(...{wait: 20}And hope for the best at{b}
+the trial tomorrow.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 785 784}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8960}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+{1886}{1887}{1876}{1872}{1882}{1878}{1882}{1883}{1884}{1885}{wait: 8}{b}
+{1880}{1873}{1878}{1879}{1875}{1874}{1879}{1882}{1888}{speed: 8}{0x5a}{392}{392}{nextpage_nobutton}{0x59}{speed: 5}
+{1887}{1881}{1888}{1887}{1872}{1882}{1878}{wait: 6}{1879}{1873}{1883}{1884}{1885}{b}
+{1886}{1877}{1875}{1874}{speed: 8}{0x5a}{392}{392}{wait: 40}{nextpage_nobutton}{hidetextbox: 1}{0x10: 33026}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{hidetextbox: 0}{0x48: 128 142}{speed: 0}{soundtoggle: 0}{b}{b}
+To be continued.{bgcolor: 260 1 31}{wait: 25}{wait: 160}{fademusic: 120}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{savegame}{bop}{special_jmp}{endjmp}

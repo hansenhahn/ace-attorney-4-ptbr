@@ -1,0 +1,438 @@
+
+
+{{0}}
+{bop}{0x62: 4 2}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{person: 19 414 414}{bg: 27}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 30 11 2 93 1 1 3}{b}
+-- The Red Envelope --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{bg: 27}{name: 4864}{person: 19 415 414}{fademusic: 0}{music: 2 0}{speed: 5}
+...I created things and{b}
+   Father sold them...{p}{showphoto: 458}
+...{wait: 12}This envelope came after{b}
+   my first work...{wait: 12} that was{b}
+   other than a painting...{nextpage_button}{removephoto}{person: 19 417 416}
+...{wait: 12}Father handled the deal,{wait: 10}{b}
+   all of it...{nextpage_button}{hidetextbox: 1}{0x6b: 7 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{hidetextbox: 0}{speed: 7}
+...{wait: 12}{speed: 5}I received the stamp that{b}
+   was in that envelope{speed: 6}...{p}{person: 19 415 414}
+...{wait: 15}It was after that job that{b}
+   we moved to the current{b}
+   studio...{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{person: 10 266 266}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{speed: 5}
+Hmm...{p}{person: 10 265 264}{speed: 3}
+There certainly was much of{b}
+great interest in your{b}
+testimony.{p}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+...{wait: 30}Not that the witness{b}
+realizes it.{p}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+Very well,{wait: 12} please begin the{b}
+cross-examination!{p}{bg: 25}{name: 1024}{person: 4 37 36}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Right!{wait: 14} OK!{p}{person: 4 42 42}{speed: 4}{color: 2}
+(I need more information{b}
+about this "forger"...){p}{person: 4 36 36}{speed: 3}
+(...This "{color: 1}Drew Misham{color: 2}"...){color: 0}{p}{endjmp}
+
+{{1}}
+{bop}{0x6b: 0 1 0}{bganim: 98 513}{0x6b: 1 0 0}{bganim: 98 513}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 19 414 414}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 135}{center_text: 1}{speed: 2}{b}{color: 1}
+-- The Red Envelope --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 137 0}{lifebar: 30}{0x53}{person: 19 415 414}{name: 4864}{hidetextbox: 0}{color: 3}...I created things and{b}
+   Father sold them...{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 138 0}{lifebarset: 0 130}{lifebar: 30}{0x53}{person: 19 415 414}{name: 4864}{hidetextbox: 0}{color: 3}...This envelope came after{b}
+   my first work... that was{b}
+   other than a painting...{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 131}{lifebar: 31}{0x53}{person: 19 417 416}{name: 4864}{hidetextbox: 0}{color: 3}...Father handled the deal,{b}
+   all of it...{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 140 1}{lifebarset: 0 132}{lifebar: 30}{0x53}{hidetextbox: 1}{0x6b: 7 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{name: 4864}{hidetextbox: 0}{color: 3}...I received the stamp that{b}
+   was in that envelope...{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 141 0}{lifebar: 30}{lifebarset: 0 133}{0x51: 3 53}{18688}{fademusic: 84}{b}{0x88}{0x53}{person: 19 415 414}{name: 4864}{hidetextbox: 0}{color: 3}
+...It was after that job that{b}
+   we moved to the current{b}
+   studio...{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 36 36}{showphoto: 458}{color: 2}(The red envelope came after{b}
+she'd completed her first{wait: 6}{b}
+"job"{wait: 6}...){p}
+(That makes it a letter from{b}
+her client...{wait: 10} whoever wanted{b}
+a forgery made.){nextpage_button}{color: 0}{bganim: 98 579}{bg: 28}{name: 1280}{person: 5 103 102}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Apollo...!{p}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 4}
+We're close.{wait: 16} We just have{b}
+to piece together the parts:{p}
+A {color: 1}deadly weapon{color: 0} in a red{b}
+envelope...{p}{person: 4 59 58}{speed: 3}
+...and the path it took to{b}
+take Drew Misham's life.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 4864}{person: 19 414 414}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{8}}
+{bop}{testimony_box: 143 0}{lifebarset: 0 134}{lifebarset: 1 135}{lifebar: 30}{0x53}{name: 4864}{hidetextbox: 1}{0x6b: 7 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{hidetextbox: 0}{color: 3}...The stamp was a picture of{b}
+   my favorite magicians... so{b}
+   I kept it...{color: 0}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{0x6d: 0}{0x10: 33605}{bg: 25}{name: 1024}{person: 4 41 40}So,{wait: 6} these "{color: 1}things{color: 0}" you were{b}
+making,{wait: 12} er...{p}{person: 4 37 36}{0x5a}
+...{wait: 20}{0x59}you mean paintings{wait: 6}{b}{color: 1}
+identical{color: 0} to other paintings,{wait: 14}{b}
+right?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 19 414}{wait: 32}{name: 4864}{person: 19 415 414}{hidetextbox: 0}{speed: 5}
+...The closer they were,{wait: 10} the{b}
+   happier Father was...{p}{hidetextbox: 1}{0x6b: 0 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{hidetextbox: 0}
+...I was happy, too...{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 3}
+Still,{wait: 10} you're quite young{b}
+now.{p}{person: 10 263 262}
+When did you begin this work?{p}{bg: 27}{name: 4864}{person: 19 417 416}{speed: 5}
+...My first painting sold when{b}
+   I was twelve...{p}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{name: 1024}{hidetextbox: 0}{person: 4 59 58}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...Your Honor!{p}{speed: 3}
+She had no idea what she was{b}
+doing was illegal!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 6}
+...{speed: 4}Easy there,{wait: 6} little{b}
+attorney.{p}{person: 6 149 148}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+You're not here to defend{b}
+her for the crime of forgery.{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 6}
+Hmm...{wait: 20}{person: 10 259 258}{speed: 4}{wait: 10} true.{p}{person: 10 259 258}{speed: 3}
+Please,{wait: 12} tell us more about{b}{showphoto: 202}
+this envelope.{wait: 12}{p}{person: 10 263 262}
+...This envelope that may very{b}
+well have killed your father.{p}{bg: 27}{name: 4864}{person: 19 417 416}{speed: 5}
+...Alright...{nextpage_button}{removephoto}{0x51: 3 53}
+{18689}{1648}{0x35: 17664 @RelativeAddress0}{0x35: 17920 @RelativeAddress1}{0x35: 18176 @RelativeAddress2}{0x35: 18432 @RelativeAddress3}{jmp: 142}{endjmp}{endjmp}{@RelativeAddress0}{@RelativeAddress1}{@RelativeAddress2}{@RelativeAddress3}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 4864}{person: 19 414 414}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{0x10: 33606}{bg: 25}{name: 1024}{person: 4 45 44}{speed: 4}By "{color: 1}other than a painting{color: 0}",{b}
+you mean...{p}{person: 4 37 36}{speed: 3}
+...{wait: 10}you'd only done {color: 1}paintings{color: 0}{b}
+up to that point?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 19 414}{wait: 32}{name: 4864}{person: 19 415 414}{hidetextbox: 0}{speed: 5}
+...Yes...{p}
+...{wait: 16}But Father had a {b}
+   realization...{nextpage_button}{person: 19 417 416}
+...{wait: 12}He noticed my talent{b}
+   extended to making things{b}
+   other than paintings...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{name: 1024}{person: 4 41 40}{hidetextbox: 0}
+For instance...?{p}{bg: 27}{name: 4864}{person: 19 417 416}{speed: 5}
+...{wait: 16}For instance... a letter{b}
+   someone had written...{p}{person: 19 415 414}
+...Or a fingerprint left upon{b}
+   a cup...{p}{person: 19 417 416}
+...{wait: 20}Or a signature on a{b}
+   document... a seal upon{b}
+   a letter...{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}{color: 2}
+(...None of this makes{b}
+her sound very innocent{b}
+at all!){color: 0}{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+And the {color: 1}$100,000{color: 0} promised{b}{showphoto: 202}
+in this letter was the start.{p}{speed: 4}
+...{wait: 20}The beginning of a new{b}
+industry for Drew Misham.{p}{bg: 29}{name: 2560}{person: 10 259 258}
+A new{speed: 8}...{wait: 12} {speed: 3}"industry"?{p}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 5}
+The creation of {color: 1}items to be{b}
+used in criminal proceedings{color: 0}.{p}{speed: 8}{0x5a}
+...{wait: 30}{person: 6 146 145}{0x59}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}{color: 1}Forging evidence{color: 0}, in other{b}
+words.{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{shake: 30 0}{speed: 4}{color: 2}
+(Uh{bgcolor: 2305 8 31} oh...){color: 0}{speed: 255}{nextpage_button}{0x51: 3 53}
+{18689}{1860}{0x35: 17664 @RelativeAddress4}{0x35: 17920 @RelativeAddress5}{0x35: 18176 @RelativeAddress6}{0x35: 18432 @RelativeAddress7}{jmp: 142}{endjmp}{endjmp}{@RelativeAddress4}{@RelativeAddress5}{@RelativeAddress6}{@RelativeAddress7}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 4864}{person: 19 414 414}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}So,{wait: 8} you didn't know how the{b}
+things you were making were{b}
+being used?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 19 414}{wait: 32}{0x6b: 0 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{name: 4864}{hidetextbox: 0}{speed: 5}
+...{wait: 16}I enjoy painting very{b}
+   much...{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+I think I understand.{p}{person: 6 149 148}{speed: 3}
+The Fr{1988}ulein has lived in{b}
+an... unusual little world.{nextpage_button}{bg: 25}{name: 1024}{person: 4 41 40}
+Can you tell us what happened{b}
+to the "papers" that were in{b}{showphoto: 458}
+this envelope?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 19 414}{wait: 32}{name: 4864}{person: 19 415 414}{hidetextbox: 0}{speed: 5}
+...Father signed them and{b}
+   sent them back I believe...{nextpage_button}{bg: 25}{name: 1024}{person: 4 45 44}
+Um...{wait: 20} {speed: 3}did he follow the{b}
+instructions?{p}
+"{color: 1}Send in the enclosed envelope{b}
+with the enclosed stamp{color: 0}"{wait: 12}...{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 19 416}{wait: 32}{name: 4864}{person: 19 416 416}{hidetextbox: 0}{speed: 8}
+......{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+This is a rather important{b}
+matter!{wait: 16} Give your answer{b}
+some thought.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 4864}{person: 19 414 414}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{0x10: 33607}{bg: 25}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 2}What do you mean,{wait: 8} you{0x5a}{wait: 30}{b}{person: 4 66 65}{bgcolor: 2305 8 31}{shake: 30 0}
+"{color: 1}received{color: 0}" it!?{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{swoosh: 0 4096 19 414}{wait: 32}{0x6b: 1 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{name: 4864}{hidetextbox: 0}{speed: 5}
+...Did I do something{b}
+   wrong...?{nextpage_button}{bg: 25}{name: 1024}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Y-{wait: 10}{speed: 3}You didn't use that stamp{b}
+because it was dangerous,{b}
+correct!?{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Deadly{bgcolor: 2305 8 31} poison!{wait: 8} On the back!{0x5a}{wait: 15}{b}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{0x59}{bgcolor: 2305 8 31}
+Atroquinine...!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 4}
+...{wait: 16}A moment,{wait: 8} Herr Forehead.{p}{bg: 25}{name: 1024}{person: 4 58 58}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...!{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+You can't force an answer{b}
+upon the witness.{p}{person: 6 149 148}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Now then.{wait: 12} Perhaps{0x5a}{speed: 6}...{wait: 30}{0x59} {speed: 4}you{b}
+would tell me, Fr{1988}ulein Vera?{p}{speed: 3}
+Why did you "{color: 1}receive{color: 0}" this{b}
+stamp?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 420}{wait: 32}{name: 4864}{person: 19 420 420}{hidetextbox: 0}{speed: 8}
+......{p}{bg: 29}{name: 2560}{person: 10 263 262}{sound: 51 1}{0x5a}{bgcolor: 2305 8 31}{0x59}{speed: 3}
+Is something wrong?{p}{hidetextbox: 1}{bg: 27}{name: 4864}{0x6b: 7 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{hidetextbox: 0}{speed: 5}
+...It was...{wait: 16} beautiful...{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{0x5a}{speed: 5}
+...{wait: 30}{0x59}{speed: 3}Ah.{wait: 8} You mean it was one of{b}
+those {color: 1}commemorative stamps{color: 0}?{nextpage_button}{hidetextbox: 1}{bg: 27}{name: 4864}{0x6b: 7 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{hidetextbox: 0}{speed: 5}
+...{wait: 16}Yes,{wait: 8} I think it was...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{name: 1024}{person: 4 37 36}{hidetextbox: 0}{speed: 8}
+So...{wait: 15} {speed: 3}you didn't know about{b}{bgcolor: 2305 8 31}{shake: 30 0}
+the {color: 1}poison{color: 0}?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 19 414}{wait: 32}{name: 4864}{person: 19 414 414}{hidetextbox: 0}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{0x6b: 3 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 430 430}{wait: 90}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{speed: 6}
+......{b}{wait: 30}{speed: 4}{color: 2}
+(I guess not!){color: 0}{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{showphoto: 202}{speed: 3}
+So the {color: 1}trap{color: 0} failed by{b}
+chance... by mistake.{p}{person: 6 149 148}
+Thanks to this {color: 1}commemorative{b}
+stamp{color: 0}.{nextpage_button}{bganim: 98 579}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 6}
+Hmm.{wait: 30}{person: 10 265 264}{speed: 3} Quite the close call!{nextpage_button}{0x51: 3 53}
+{18689}{2390}{0x35: 17664 @RelativeAddress8}{0x35: 17920 @RelativeAddress9}{0x35: 18176 @RelativeAddress10}{0x35: 18432 @RelativeAddress11}{jmp: 142}{endjmp}{endjmp}{@RelativeAddress8}{@RelativeAddress9}{@RelativeAddress10}{@RelativeAddress11}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 4864}{person: 19 414 414}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{13}}
+{bop}{0x6d: 0}{0x10: 33608}{bg: 25}{name: 1024}{person: 4 41 40}You mean you moved to where{b}
+the current "Drew Studio" is?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 19 414}{wait: 32}{name: 4864}{person: 19 415 414}{hidetextbox: 0}{speed: 5}
+...Yes... we saw very few{b}
+   people there...{p}
+...I began drawing picture{b}
+   books...{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{showphoto: 202}{speed: 3}
+This single job had tied them{b}
+to the criminal underworld.{p}{person: 6 146 145}
+I'd think Mr. Misham wished{b}
+to reduce their visibility{b}
+in the world at large.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 2 4096 19 414}{wait: 32}{name: 4864}{person: 19 415 414}{hidetextbox: 0}{speed: 5}
+...When we had to meet{b}
+   someone for some reason...{p}
+...Father posed as the{b}
+   creator of the work...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{name: 1024}{person: 4 41 40}{hidetextbox: 0}{speed: 4}
+So that was the real essence{b}
+of the artist, "Drew Misham".{nextpage_button}{person: 4 37 36}{speed: 3}
+You did the work,{wait: 6} and he{b}
+supplied the face.{nextpage_button}{0x51: 3 53}
+{18689}{1210}{0x35: 17664 @RelativeAddress12}{0x35: 17920 @RelativeAddress13}{0x35: 18176 @RelativeAddress14}{0x35: 18432 @RelativeAddress15}{jmp: 142}{endjmp}{endjmp}{@RelativeAddress12}{@RelativeAddress13}{@RelativeAddress14}{@RelativeAddress15}{jmp: 135}{endjmp}{endjmp}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 4864}{person: 19 414 414}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 136}{endjmp}
+
+{{14}}
+{bop}{0x10: 33609}{fademusic: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 266 266}{hidetextbox: 0}{speed: 8}So...{wait: 30}{person: 10 263 262}{speed: 3} you really didn't know{b}
+anything,{wait: 10} did you?{p}{person: 10 265 264}
+You had no idea how much{b}
+danger you were in.{nextpage_button}{hidetextbox: 1}{bg: 27}{0x6b: 1 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 430 430}{name: 4864}{wait: 90}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 4}
+Apparently not.{nextpage_button}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 8}
+......{wait: 60}{b}{person: 4 41 40}{speed: 3}
+About this{wait: 3} "commemorative{b}
+stamp".{nextpage_button}{person: 4 37 36}
+Could you tell us more about{b}
+it?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 19 414}{wait: 32}{name: 4864}{person: 19 414 414}{hidetextbox: 0}{speed: 8}
+......{nextpage_button}{hidetextbox: 1}{0x6b: 7 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{hidetextbox: 0}{speed: 5}
+...It was very pretty.{wait: 15}{b}
+   And,{wait: 16} more than that...{nextpage_button}{bg: 25}{name: 1024}{person: 4 41 40}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Yes?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 19 414}{wait: 32}{name: 4864}{person: 19 415 414}{hidetextbox: 0}{speed: 5}
+...It was a picture of people{b}
+   I liked at the time...{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...!{wait: 30}{b}{color: 2}{speed: 4}
+(This is something new!){bgcolor: 2305 8 31}{shake: 30 0}{color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 170 170}{sound: 165 1}{0x63}{person: 6 171 171}{0x63}{person: 6 172 172}{0x63}{person: 6 173 173}{0x63}{person: 6 174 174}{0x63}{person: 6 175 175}{0x63}{person: 6 176 176}{0x63}{0x63}{fademusic: 0}{music: 2 120}{hidetextbox: 0}{speed: 5}
+...{wait: 16}Apparently,{wait: 8} we've got some{b}
+cross-examination yet ahead{b}
+of us.{nextpage_button}{person: 6 157 156}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+If you would be so kind as{b}
+to continue your testimony,{b}
+Fr{1988}ulein.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 414}{wait: 32}{name: 4864}{person: 19 414 414}{hidetextbox: 0}{speed: 8}
+......{wait: 40}{nextpage_nobutton}{hidetextbox: 1}{0x6b: 0 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 430 430}{wait: 80}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 4864}{person: 19 414 414}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 136}{endjmp}
+
+{{15}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}M-{wait: 10}Magicians{0x5a}{speed: 8}...?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 19 414}{wait: 32}{name: 4864}{person: 19 415 414}{hidetextbox: 0}{speed: 5}
+...{wait: 16}I love mysterious things,{wait: 8}{b}
+   I always have...{p}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 3}
+...{wait: 6}Even though she fainted{b}
+when she saw Mr. Hat.{nextpage_button}{name: 1024}
+You're confusing{wait: 6} "mysterious"{wait: 6}{b}
+with "freaky".{p}{bg: 27}{name: 4864}{person: 19 415 414}{speed: 5}
+...{wait: 16}Father took me when I was{b}
+   very young...{p}
+...It was a great magic show.{wait: 16}{b}
+   I loved it so much...{nextpage_button}{bg: 28}{name: 1280}{person: 5 99 98}{bgcolor: 2305 8 31}{sound: 51 1}{speed: 2}
+See!?{wait: 10} See!?{wait: 10} Isn't magic great?{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Fine,{wait: 8} great,{wait: 8} yeah,{wait: 8} sure.{wait: 16}{b}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+No need to get all excited.{nextpage_button}{bg: 27}{name: 4864}{person: 19 415 414}{speed: 5}
+...{wait: 16}But the magic troupe we{b}
+   saw disbanded soon after...{nextpage_button}{hidetextbox: 1}{0x6b: 1 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{hidetextbox: 0}
+...I was quite sad...{nextpage_button}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 8}
+......{wait: 40}{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}{color: 2}
+(Did she just say what I{b}
+think she said?){p}{speed: 4}
+(Magic "troupe"?{wait: 30} Now where{b}
+have I heard that before...?){color: 0}{speed: 255}{nextpage_button}{jmp: 135}{endjmp}
+
+{{16}}
+{bop}{0x29: 0}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}Those magicians you liked,{0x5a}{wait: 30}{b}{showphoto: 449}{person: 4 64 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+was{bgcolor: 2305 8 31} it this{bgcolor: 2305 8 31} bunch!?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 19 414}{wait: 32}{name: 4864}{person: 19 414 414}{hidetextbox: 0}{speed: 6}
+.{speed: 8}.{speed: 10}..{speed: 12}..{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{0x6b: 0 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 430 430}{sound: 51 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 9 0}{wait: 60}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+Apollo!{wait: 16} They're not a{wait: 6} "bunch"!{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 6}
+Hmm...{wait: 25}{person: 10 259 258}{speed: 4} I see!{wait: 16} {speed: 3}Still,{wait: 10} I have{b}
+to wonder.{nextpage_button}{person: 10 265 264}{sound: 52 1}{bgcolor: 2305 8 31}
+Why include a commemorative{b}
+stamp like that in a business{b}
+letter?{nextpage_button}{bg: 25}{name: 1024}{person: 4 41 40}{speed: 4}
+Good question!{p}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Well,{wait: 8} pretty stamps are always{b}
+better,{wait: 16} and you can't beat{b}
+Troupe Gramarye!{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}
+But,{wait: 16} {speed: 4}the whole murder plan{b}
+was a failure because of it.{p}{speed: 3}
+Ironic,{wait: 8} don't you think.{wait_noanim: 30}{b}{person: 10 263 262}{speed: 3}
+...{wait: 12}Prosecutor Gavin?{nextpage_button}{bg: 26}{person: 6 159 159}{animation: 149 1}{name: 13568}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+.{speed: 8}.{speed: 10}..{speed: 12}..{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{0x5a}{speed: 6}
+...{wait: 20}{0x59}Prosecutor Gavin?{nextpage_button}{bg: 26}{name: 13568}{person: 6 159 159}{animation: 149 1}{speed: 8}{0x5a}
+......{wait: 30}{speed: 5}{0x59}{b}{person: 6 160 159}{animation: 149 1}
+Gram...{wait: 20} Gram...{wait: 20} Gramarye.{nextpage_button}{bg: 25}{name: 1024}{person: 4 40 40}{bgcolor: 2305 8 31}{speed: 4}{color: 2}
+(What's with Gavin...?){nextpage_button}{color: 0}{hidetextbox: 1}{swoosh: 1 1 6 159}{wait: 32}{name: 13568}{person: 6 160 159}{animation: 149 1}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 18 0}{hidetextbox: 0}{speed: 5}
+...{wait: 16}{speed: 4}Might I ask just one{b}
+question of this witness?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 414}{wait: 32}{name: 4864}{person: 19 414 414}{hidetextbox: 0}{speed: 8}
+...?{nextpage_button}{bg: 26}{name: 13568}{person: 6 160 159}{animation: 149 1}{speed: 4}
+In your testimony just now,{wait: 8}{b}
+you stated...{p}{speed: 3}
+...{wait: 12}this was your{wait: 6} "first work{b}
+that was other than a{b}
+painting".{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 425}{wait: 32}{name: 4864}{person: 19 425 425}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 8}
+......{p}{bg: 26}{name: 13568}{person: 6 160 159}{animation: 149 1}{speed: 5}
+Please,{wait: 10} tell me...{p}{speed: 3}
+...{wait: 16}what exactly did you make?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 425}{wait: 32}{name: 4864}{person: 19 425 425}{hidetextbox: 0}{speed: 8}
+......{wait: 40}{b}{person: 19 415 414}{speed: 5}
+...{wait: 16}Can I ask why--{nextpage_nobutton}{bg: 26}{name: 13568}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{wait: 8}{speed: 2}
+No!{wait: 30}{b}{person: 6 167 166}{speed: 3}
+Answer the question!{0x5a}{wait: 30}{b}{person: 6 157 156}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+...{bgcolor: 2305 8 31}Now!{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 425}{wait: 32}{name: 4864}{person: 19 424 424}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}
+Eeeeeeeeeek!{wait: 40}{nextpage_nobutton}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 66 1}{sound: 22 1}{wait: 120}{bg: 29}{name: 2560}{person: 10 265 264}{hidetextbox: 0}{speed: 5}
+P-{wait: 16}{bgcolor: 2305 8 31}Prosecutor Gavin...?{shake: 30 0}{p}{speed: 4}
+You're usually not the one{b}{person: 10 263 262}
+whose volume concerns me.{p}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 3}
+...Yes,{wait: 8} it is unbecoming of{b}
+me.{wait: 16} I apologize.{p}{0x59}{wait: 8}
+But{0x5a}...{wait_noanim: 25}{person: 6 146 145} I must know. Please,{wait: 10}{b}
+Ms. Misham, tell me.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 422}{wait: 32}{name: 4864}{person: 19 422 422}{hidetextbox: 0}{speed: 8}
+......{wait: 40}{b}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...{wait: 20}{person: 19 423 422}It was... a book...{p}
+...A single page...{wait: 15}{b}
+   In a{wait: 6} "book"{wait: 6}...{nextpage_button}{bg: 26}{name: 13568}{person: 6 167 166}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 6}
+A "book"{0x5a}{speed: 8}...?{wait: 30}{b}{0x59}{speed: 3}
+Please be more specific.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 422}{wait: 32}{name: 4864}{person: 19 422 422}{hidetextbox: 0}{speed: 8}
+......{nextpage_button}{person: 19 423 422}{speed: 5}
+...It was a handwritten book.{wait_noanim: 30}{b}{0x59}
+   Like{wait: 16}{speed: 8}{0x5a}...{0x59} {speed: 5}Like a diary...{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 161}{wait: 32}{name: 13568}{person: 6 161 161}{animation: 149 1}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 60}{fademusic: 120}{bgcolor: 516 1 8}{wait: 25}{bg: 4095}{bgcolor: 257 0 8}{wait: 1}{hidetextbox: 0}{speed: 6}
+.{speed: 8}.{speed: 10}..{speed: 12}..{wait: 60}{nextpage_nobutton}{bg: 26}{person: 6 154 154}{sound: 168 1}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Nn{bgcolor: 2305 8 31}nno!{wait: 30}{b}{speed: 3}
+I don't...{wait: 12}{speed: 2}{b}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+N{bgcolor: 2305 8 31}o{bgcolor: 2305 8 31}!!!{wait: 120}{nextpage_nobutton}{hidetextbox: 1}{hidetextbox: 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 25}{person: 4 58 58}{bgcolor: 772 1 31}{wait: 25}{wait: 45}{bgcolor: 1025 1 31}{wait: 1}{bg: 27}{person: 19 422 422}{bgcolor: 772 1 31}{wait: 25}{wait: 45}{bgcolor: 1025 1 31}{wait: 1}{bg: 29}{person: 10 264 264}{bgcolor: 772 1 31}{wait: 25}{wait: 45}{bgcolor: 1025 1 31}{wait: 1}{bg: 28}{person: 5 100 100}{bgcolor: 772 1 31}{wait: 25}{wait: 45}{name: 1280}{person: 5 103 102}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Wh-{wait: 16}{shake: 30 0}What's wrong with {b}
+Prosecutor Gavin?{wait: 20} {person: 5 101 100}He looks{b}
+like he just saw a ghost!{p}{bg: 26}{name: 13568}{person: 6 162 161}{animation: 149 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+...Ms. Misham.{wait: 16}{b}
+This{wait: 6} "book"...{nextpage_button}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+...{wait: 6}was there a picture of a{b}{color: 1}
+silk hat{color: 0} on the back cover?{wait: 16}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Yes or no!?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 422}{wait: 32}{name: 4864}{person: 19 424 424}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+...{bgcolor: 2305 8 31}!{shake: 30 0}{wait: 50}{b}{person: 19 423 422}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 35 0}{speed: 5}
+...How...{wait: 20} How did you know...?{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+...Prosecutor Gavin!{wait: 20}{b}{speed: 3}
+The defendant is answering{b}
+all of your questions!{p}{person: 4 66 65}{bgcolor: 2305 8 31}{shake: 30 0}
+Stop badgering her!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 159}{wait: 32}{name: 13568}{person: 6 159 159}{animation: 149 1}{hidetextbox: 0}{speed: 8}
+......{p}{person: 6 160 159}{animation: 149 1}{speed: 5}
+He's told you nothing,{wait: 10}{b}
+has he?{p}{person: 6 157 156}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 20}Your soiled,{wait: 10}{bgcolor: 2305 8 31} sullied{b}
+mentor.{wait: 16} Nothing!?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{speed: 5}
+Sullied... who?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{showphoto: 157}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Phoenix Wright.{wait: 30}{b}{speed: 3}
+Who else!?{nextpage_button}{bganim: 98 579}{bg: 28}{name: 1280}{person: 5 101 100}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+...Daddy?{p}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 4}
+He never told you about the{b}
+trial,{wait: 10} seven years ago?{p}
+About how he came to lose his{b}
+attorney's badge{speed: 8}...{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 2}
+...!{p}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 3}
+It was a certain {sound: 52 1}{bgcolor: 2305 8 31}{color: 1}piece of{b}
+evidence{color: 0} that decided his{b}
+fate,{wait: 10} you know.{p}
+...{wait: 16}A certain diary.{p}{person: 6 146 145}{speed: 4}
+On the back,{wait: 6} it bore the mark{b}
+of a silk hat.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 60 60}{fademusic: 30}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{hidetextbox: 0}{speed: 8}
+...{wait: 12}{speed: 2}{bgcolor: 2305 8 31}Wha{bgcolor: 2305 8 31}aa{bgcolor: 2305 8 31}aa{bgcolor: 2305 8 31}{shake: 30 1}at!?{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 66 1}{sound: 22 1}{wait: 120}{bg: 25}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{speed: 4}{color: 2}
+(Phoenix Wright,{wait: 10} tossed out{b}
+of the profession by {color: 1}false{b}
+evidence{color: 2}...){p}
+(And the forger who made{b}
+that evidence...){nextpage_button}{bg: 27}{person: 19 425 425}{name: 1024}{hidetextbox: 0}{speed: 8}
+(...{wait: 60}{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}is this girl standing{b}
+right in front of me!?){color: 0}{p}{bg: 25}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Vera!{wait: 20}{b}
+You must tell us!{p}{speed: 4}
+The evidence you made was{b}
+used in a trial seven years{b}
+ago.{nextpage_button}{person: 4 37 36}
+Who asked{wait: 6} "Drew Misham",{wait: 4} you,{wait: 12}{b}{speed: 3}
+to {color: 1}forge{color: 0} that evidence!?{nextpage_button}{fademusic: 30}{person: 4 64 65}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 20}For all of our sakes,{0x5a}{wait: 35}{b}{0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}
+who{bgcolor: 2305 8 31} was{bgcolor: 2305 8 31} it!?{nextpage_button}{hideperson}{0x26: 0}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 66 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{0x6b: 4 1 0}{bganim: 98 271}{bg: 27}{person: 19 425 425}{wait: 60}{bgcolor: 260 1 31}{wait: 25}{wait: 30}{name: 4864}{hidetextbox: 0}{speed: 8}
+......{nextpage_button}{speed: 5}
+...{person: 19 415 414}{wait: 8}We... only met once...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 59 58}{0x59}{wait: 16}{hidetextbox: 0}{speed: 2}
+You{wait: 4}{0x5a}...{wait: 30} {bgcolor: 2305 8 31}{shake: 30 0}{0x59}You {color: 1}met{color: 0} the client!?{p}{person: 4 37 36}{speed: 4}
+Well,{0x5a}{wait: 30}{person: 4 66 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0} who{bgcolor: 2305 8 31} was it!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 19 422}{wait: 32}{name: 4864}{person: 19 423 422}{hidetextbox: 0}{speed: 6}
+...It was{speed: 8}{0x5a}...{wait: 40}{b}
+   ...{0x59}{speed: 6}It was{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{sound: 52 1}{bgcolor: 2305 8 31}{person: 19 420 420}{fademusic: 0}{music: 18 0}{wait: 60}{hidetextbox: 0}{person: 19 420 420}{speed: 6}
+.{speed: 8}.{speed: 10}..{speed: 12}..{p}{bg: 28}{name: 1280}{person: 5 101 100}{speed: 4}
+What's going on with Vera?{0x5a}{wait: 30}{p}{speed: 3}
+She's staring at Prosecutor{b}
+Gavin's {person: 5 103 102}face again...{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{0x5a}{bgcolor: 2305 8 31}{shake: 30 0}{0x59}{speed: 3}
+Yes, what?{wait: 15} Is there something{b}
+about me{0x5a}...?{p}{hidetextbox: 1}{swoosh: 2 4096 19 420}{wait: 32}{name: 4864}{person: 19 420 420}{hidetextbox: 0}{speed: 8}
+......{p}{person: 19 421 420}{0x5a}{speed: 5}
+...{wait: 16}{0x59}I remember clearly...{p}{0x5a}
+...{wait: 16}{0x59}I remember who gave me{b}
+   the book... the diary...{nextpage_button}{person: 19 420 420}{speed: 6}
+.{speed: 8}.{speed: 10}..{speed: 12}..{nextpage_button}{bg: 25}{name: 1024}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Who was it!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 19 420}{wait: 32}{name: 4864}{person: 19 420 420}{hidetextbox: 0}{speed: 8}
+.{speed: 10}.{speed: 12}..{speed: 14}..{wait: 60}{nextpage_nobutton}{person: 19 424 424}{0x23: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 1}
+Ugh...{bgcolor: 2305 8 31}!{wait: 40}{b}{person: 19 422 422}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+*choke*...{bgcolor: 2305 8 31}!{wait: 60}{nextpage_nobutton}{0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{name: 1024}{hidetextbox: 0}{sound: 50 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+Ve...{wait: 16} {bgcolor: 2305 8 31}Vera!!!{nextpage_button}{hidetextbox: 1}{bganim: 98 631}{bganim: 1024 0}{bganim: 1040 0}{bganim: 1039 0}{0x26: 1}{hideperson}{0x26: 0}{bg: 4095}{name: 0}{person: 0 0 0}{hidetextbox: 0}{soundtoggle: 0}{center_text: 1}{bganim: 0 8192}{speed: 6}
+...{bgcolor: 2305 8 31}The... {wait: 40}{bgcolor: 2305 8 31}De... {wait: 40}{bgcolor: 2305 8 31}vil...{wait: 100}{nextpage_nobutton}{0x30: 255}{sound: 54 1}{shake: 30 1}{bgcolor: 2305 8 31}{b}{speed: 2}{color: 3}
+...*thump*...{color: 0}{bgcolor: 2305 8 31}{wait: 100}{bgcolor: 516 1 31}{wait: 25}{nextpage_nobutton}{hidetextbox: 1}{wait: 80}{endjmp}
+
+{{17}}
+{bop}{0x26: 0}{bg: 24}{person: 0 0 0}{bgcolor: 260 1 31}{wait: 25}{name: 0}{wait: 90}{center_text: 0}{hidetextbox: 0}{color: 3}{speed: 5}Defendant Vera Misham --{wait: 30}{b}
+Condition: unconscious.{wait: 120}{nextpage_nobutton}
+Examiner's diagnosis: Acute{b}
+atroquinine poisoning.{color: 0}{wait: 120}{nextpage_nobutton}{soundtoggle: 1}{hidetextbox: 1}{wait: 80}{bgcolor: 516 1 31}{wait: 25}{bganim: 0 4096}{bg: 4095}{bgcolor: 257 1 31}{wait: 7}{name: 0}{0x26: 1}{hidetextbox: 0}{speed: 8}
+...{wait: 30}{speed: 3}This ends the recording of{b}
+the trial for the murder of{b}
+Drew Misham.{p}{speed: 4}
+Vera Misham was,{wait: 8} during the{b}
+trial,{wait: 8} poisoned by an unknown{b}
+assailant.{p}{speed: 3}
+The dosage was just under the{b}
+lethal amount,{wait: 10} sparing the{b}
+defendant's life.{nextpage_button}
+She is currently in intensive{b}
+care,{wait: 8} and is not to be{b}
+disturbed for any reason.{p}{speed: 5}
+...A very simple case,{wait: 15} at{b}
+first glance...{p}{speed: 3}
+...{wait: 16}until it finally began to{b}
+show its true colors.{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 34}{person: 0 0 0}{0x5f: 15 1 31}{bgcolor: 772 1 31}{wait: 25}{fademusic: 0}{music: 46 0}{wait: 30}{hidetextbox: 0}{speed: 5}
+The long road to the truth{b}
+takes us to the {color: 1}record of{b}
+another trial{color: 0}.{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 32}{person: 21 467 467}{0x5f: 15 1 31}{bgcolor: 772 1 31}{wait: 25}{wait: 30}{hidetextbox: 0}{speed: 4}
+In some ways,{wait: 10} that was the{b}{color: 1}
+starting point{color: 0} of it all.{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 33}{person: 23 509 509}{0x5f: 15 1 31}{bgcolor: 772 1 31}{wait: 25}{wait: 30}{hidetextbox: 0}{speed: 4}
+And that is where we{b}
+must go...{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 257}{person: 27 607 607}{0x5f: 15 1 31}{bgcolor: 772 1 31}{wait: 25}{wait: 30}{hidetextbox: 0}{speed: 7}
+...{speed: 4}to find the whole truth.{wait: 60}{nextpage_button}{hidetextbox: 1}{wait: 80}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{0x5f: 16 1 1}{person: 0 0 0}{hidetextbox: 0}{0x48: 128 142}{speed: 0}{soundtoggle: 0}{b}{b}
+To be continued.{bgcolor: 260 1 31}{wait: 25}{wait: 160}{fademusic: 120}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{savegame}{bop}{special_jmp}{endjmp}

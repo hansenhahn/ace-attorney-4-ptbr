@@ -1,0 +1,314 @@
+
+
+{{0}}
+{bop}{0x62: 1 1}{0x6b: 1 0 31}{bganim: 98 626}{0x6b: 0 0 0}{bganim: 98 625}{wait: 1}{0x6b: 4 1 31}{bganim: 98 627}{0x6b: 0 0 0}{bganim: 98 513}{bganim: 0 8192}{0x26: 1}{bg: 4095}{0x30: 255}{person: 0 0 0}{hidetextbox: 1}{sound: 68 1}{wait: 20}{bganim: 257 0}{bganim: 258 0}{bganim: 259 0}{bganim: 260 0}{bganim: 261 0}{bganim: 263 0}{bganim: 264 0}{bganim: 265 0}{bganim: 266 0}{bganim: 267 0}{bg: 82}{wait: 80}{name: 0}{hidetextbox: 0}Showdown time.{wait: 60}{bganim: 268 0}{nextpage_nobutton}{bganim: 269 0}{bganim: 270 0}{name: 0}{hidetextbox: 0}
+...You lose.{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{bganim: 272 0}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 2}{name: 0}{sound: 71 1}{speed: 2}
+Auu{bgcolor: 2305 8 31}uuu{shake: 30 1}uuu{bgcolor: 2305 8 31}gh!{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{bganim: 274 0}{bgcolor: 2305 8 31}{sound: 48 1}{bg: 79}{wait: 45}{bg: 4095}{wait: 5}{bgcolor: 2305 8 31}{bg: 80}{sound: 48 1}{wait: 10}{bg: 4095}{wait: 3}{bgcolor: 2305 8 31}{bg: 81}{sound: 48 1}{wait: 30}{bganim: 281 0}{name: 256}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 69 1}{shake: 30 1}
+Eeeee{bgcolor: 2305 8 31}eee{bgcolor: 2305 8 31}eek!{wait: 50}{bgcolor: 1028 1 31}{wait: 20}{sound: 73 1}{wait: 5}{speed: 3}{nextpage_nobutton}{hidetextbox: 1}{bganim: 279 0}{bgcolor: 769 0 31}{wait: 1}{wait: 200}{name: 0}{hidetextbox: 0}{speed: 5}
+...I seem to be in a bit{b}
+of trouble.{wait: 80}{nextpage_nobutton}
+Something like that.{wait: 80}{nextpage_nobutton}
+...Dead.{wait: 45} Someone hit him.{b}
+Hard.{wait: 80}{nextpage_nobutton}
+Me?{wait: 20} Please.{wait: 30} The cops should{b}
+be here any minute.{wait: 80}{nextpage_nobutton}
+I'm in your hands...{wait: 30}{b}{speed: 7}
+Should it come to that.{wait: 80}{nextpage_nobutton}{hidetextbox: 1}{wait: 120}{0x6b: 4 1 31}{bganim: 98 626}
+A{bgcolor: 516 1 31}{wait: 25}{bganim: 0 4096}{newevidence: 7}{newevidence: 9}{newevidence: 8}{newevidence: 32774}{endjmp}
+
+{{1}}
+{bop}{0x62: 1 1}{0x26: 0}{bg: 30}{person: 0 0 0}{name: 0}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{0x74: 2 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}April 20, 9:37 AM{b}
+District Court{b}
+Defendant Lobby No. 3{p}{center_text: 0}{hidetextbox: 1}{color: 0}{wait: 30}{speed: 255}{fademusic: 0}{music: 39 0}{name: 1024}{hidetextbox: 0}{speed: 6}{color: 2}
+(Panicked...{wait: 20} Palms sweaty...{wait: 20}{b}
+I can admit it.{wait: 20} I'm nervous.){color: 0}{p}{hidetextbox: 1}{wait: 30}{name: 512}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 5}
+Ah,{wait: 10} good morning!{nextpage_button}{hidetextbox: 1}{wait: 35}{personvanish: 3 2}{person: 8 201 201}{wait: 32}{wait: 40}{name: 1024}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+G-{wait: 15}Good{shake: 30 0}{wait: 8} morning,{wait: 10} sir!{p}{newevidence: 32768}{person: 8 204 203}{name: 2048}{speed: 3}
+You look tense,{wait: 15} Justice.{wait: 20}{b}
+Wound up tight.{nextpage_button}{name: 1024}{speed: 2}
+W-{wait: 16}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}Wound up,{wait: 10} sir?{wait: 20} No!{wait: 30}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I'm loose!{wait: 20} I'm fine!{p}{person: 8 202 201}{name: 2048}{speed: 4}
+That screeching noise...{wait_noanim: 25}{person: 8 202 201} Is{b}
+that your voice?{wait: 20}{speed: 5} I suppose{b}
+it's to be expected...{p}{speed: 4}
+Your first trial,{wait: 10} and it's{b}
+a homicide.{wait_noanim: 25}{person: 8 202 201} I guess {wait_noanim: 20}{sound: 51 1}{bgcolor: 2305 8 31}{person: 8 204 203}"Justice"{b}
+doesn't start small,{wait: 10} eh?{nextpage_button}{name: 1024}{speed: 4}
+I-{wait: 15}{speed: 2}{shake: 30 0}{bgcolor: 2305 8 31}I'm fine!{nextpage_button}
+I got up at 5 AM to do my{wait: 8}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+"Chords of Steel" voice{b}
+workout!{wait: 20} I'm fine!{p}{person: 8 202 201}{name: 2048}{speed: 5}
+Ah,{wait: 10} that explains it.{p}{speed: 3}
+I did detect a certain rasping{b}
+quality to your screech.{nextpage_button}{name: 1024}{speed: 4}
+...{shake: 30 0}*cough*{wait: 30}{b}{color: 2}
+(I overdid it again...){color: 0}{p}{speed: 255}{hidetextbox: 1}{person: 8 209 209}{0x63}{wait: 15}{person: 8 202 201}{name: 2048}{hidetextbox: 0}
+As you know,{wait: 10} your client today{b}
+is a good friend of mine.{p}{speed: 5}
+I wouldn't want to let him{b}
+down{0x5a}...{wait: 30}{0x59}{speed: 255} if you get my drift.{nextpage_button}{name: 1024}{speed: 2}
+Drift gotten,{wait: 10} sir!{wait: 18} I-{wait: 15}{shake: 30 0}I'm all{b}
+over that drift!{p}{name: 2048}{speed: 3}
+As it happens,{wait: 12} I dined with{b}
+him the night of the murder.{p}{speed: 6}
+We can't{wait_noanim: 20}{person: 8 204 203}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4} let this case fall{b}
+through.{nextpage_button}{speed: 255}{name: 1024}
+Yes.{wait: 30}{b}
+Yes!{speed: 2}{wait: 20}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1} I'm fine,{wait: 10} sir!{p}{name: 2048}{person: 8 202 201}{speed: 4}
+One more thing.{p}{person: 8 204 203}
+Don't say you're fine quite{b}
+so much.{p}{speed: 3}
+People might take you the{b}
+wrong way.{nextpage_button}{name: 1024}{speed: 5}
+*gulp*{p}{name: 2048}{person: 8 202 201}{speed: 3}
+I'll be preparing our case.{p}
+You might want to introduce{b}
+yourself to the client.{nextpage_button}{hidetextbox: 1}{personvanish: 4 4}{wait: 64}{wait: 30}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{name: 1024}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{speed: 3}
+My name is Apollo Justice.{p}
+If it isn't clear already,{wait: 10}{b}
+I'm a new attorney.{p}{speed: 5}
+And today is my first trial.{p}{speed: 3}
+N-{wait: 5}{shake: 30 0}{speed: 2}Not that I'm worried or{b}{shake: 30 0}
+anything!{p}{speed: 3}
+The defendant has been accused{b}
+of{speed: 8}...{wait: 20}{speed: 4} {color: 1}murder{color: 0}.{p}{speed: 3}
+My boss wants to help him out,{wait: 10}{b}
+of course...{wait: 20} and so do I!{p}{speed: 5}
+I mean,{wait: 12} there's no way he did{b}
+it.{wait: 20}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} Not him!{wait: 20} No way!{p}{speed: 255}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 30}{name: 512}{bgcolor: 260 1 31}{wait: 25}{newevidence: 32769}{person: 7 177 177}{personvanish: 3 4}{wait: 64}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 39 100}{wait: 100}{hidetextbox: 0}{speed: 6}
+...{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}{shake: 30 1}
+Whoa!{p}{person: 7 183 183}{name: 512}{speed: 6}
+..{speed: 8}.{nextpage_button}{name: 1024}{speed: 3}
+Good uh,{wait: 20}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} morning!{p}{name: 512}{speed: 7}
+..{speed: 9}{person: 7 177 177}.{p}{person: 7 178 177}{speed: 5}
+Morning.{wait_noanim: 30}{person: 7 178 177}{speed: 3} It's all up to you{b}
+today.{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(First trial:{wait: 10} nervous.{wait: 20}{b}
+Meeting him:{wait: 10} cardiac arrest.){color: 0}{p}{person: 7 177 177}{name: 512}{speed: 5}
+...{nextpage_button}{person: 7 183 183}{name: 1024}
+..{speed: 7}.{wait: 30}{b}{shake: 30 0}{speed: 5}{color: 2}
+(I think I'm supposed to say{b}
+something...{wait: 20} Uh...{wait: 15} help?){color: 0}{p}{person: 7 178 177}{name: 512}{speed: 5}
+So,{wait: 8} you're...{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Fine!{wait: 10}{speed: 2} I-{wait: 20}I'm{wait: 12}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1} fine!{p}{person: 7 178 177}{name: 512}{speed: 6}
+Ah...{wait: 30}{speed: 3}{b}{sound: 52 1}{bgcolor: 2305 8 31}
+Mr. Fine,{wait: 10} is it?{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}
+Uh.{p}{name: 512}{speed: 4}
+I did remember you having{b}
+an odd name.{nextpage_button}{name: 1024}{speed: 5}{color: 2}
+(Well,{wait: 10} we're off to a great{b}
+start.){color: 0}{nextpage_button}{speed: 5}
+Um{speed: 9}...{wait: 25}{speed: 4} Are you sure you're{b}
+OK,{wait: 16} I mean,{wait: 10} with me?{p}{person: 7 177 177}{name: 512}{speed: 6}
+...{nextpage_button}{name: 1024}{speed: 3}
+Mr. Gavin is a top-notch{b}
+defense attorney.{nextpage_button}{speed: 4}
+And he's your friend!{wait: 20}{b}
+So why...{nextpage_button}{name: 512}{person: 7 187 187}{fademusic: 60}{speed: 7}
+...{wait: 40}{b}{person: 7 182 181}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+You'll see.{nextpage_button}{name: 1024}{person: 7 181 181}{sound: 51 1}{bgcolor: 2305 8 31}
+Uh?{p}{name: 512}{person: 7 182 181}{speed: 5}
+You can do it.{wait: 12}{b}{speed: 4}
+Be confident.{nextpage_button}{name: 1024}{person: 7 181 181}{speed: 5}
+Um,{wait: 15} I...{p}{name: 1024}{speed: 3}
+I'm really sorry this happened{b}
+to you. I mean...{p}{person: 7 187 187}{speed: 5}
+I mean,{wait: 12} I...{nextpage_button}{person: 7 187 187}{name: 512}{sound: 52 1}{bgcolor: 2305 8 31}{person: 7 178 177}{speed: 3}
+It's time.{wait_noanim: 35}{b}{person: 7 182 181}
+Shall we?{nextpage_button}{name: 1024}{speed: 2}
+Y-{wait: 12}{bgcolor: 2305 8 31}{shake: 30 0}Yes,{wait: 10} sir!{nextpage_button}{hidetextbox: 1}{wait: 40}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{name: 1024}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{speed: 4}{color: 2}
+(...OK.{wait: 20}{b}{speed: 3}
+I need to focus.){nextpage_button}
+(First trial,{wait: 30}{speed: 3} here comes{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Justice!){nextpage_button}{fademusic: 0}{music: 0 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x26: 1}{endjmp}
+
+{{2}}
+{bop}{0x26: 0}{person: 0 0 0}{bg: 4095}{bgcolor: 258 1 31}{wait: 15}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}April 20, 10:00 AM{b}
+District Court{b}
+Courtroom No. 2{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{fademusic: 0}{music: 1 0}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+The court is now in session.{p}{newevidence: 32773}{bg: 26}{person: 11 268 267}{name: 2816}
+The prosecution is ready,{wait: 10}{b}
+Your Honor.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 2}
+Uh,{wait: 15} the defense is,{wait: 10} uh,{wait: 20} fine!{b}{bgcolor: 2305 8 31}{shake: 30 0}
+I mean ready,{wait: 10} Your Honor!{p}{person: 4 61 61}{animation: 149 1}{speed: 5}{color: 2}
+(Mind going blank...{wait: 12}{speed: 3} Don't{b}
+panic...{wait: 20} Ack,{wait: 10} too late!){color: 0}{p}{speed: 255}{bg: 29}{person: 10 259 258}{name: 2560}
+Your name was...{wait: 15} Mr. Justice?{p}{speed: 4}
+And this is your first trial?{p}{bg: 25}{person: 4 37 36}{name: 1024}{speed: 2}
+Y-{wait: 15}{shake: 30 0}Yes,{wait: 10} Your Honor!{wait: 20}{b}
+But {wait: 18}{bgcolor: 2305 8 31}{shake: 30 0}I'm fine!{wait: 20} Really!{p}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 4}
+Are you quite sure?{wait: 15}{speed: 3}{person: 10 263 262} Your{b}
+voice sounds a bit strained.{p}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{speed: 7}{0x5a}
+...*cough*{p}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 4}
+Ahem.{wait: 15} Mr. Gavin?{p}{bg: 28}{person: 8 224 223}{name: 2048}
+...Yes,{wait: 10} Your Honor?{p}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+I was under the impression{b}
+that you would be heading{b}
+up this case...?{p}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 3}
+That was my intention,{wait: 10} yes.{p}{speed: 6}
+However...{p}{speed: 3}
+A defense attorney must always{b}
+cede to his client's wishes.{p}{person: 8 220 219}{speed: 4}
+And my client specifically{b}
+requested Mr. Justice.{p}{bg: 29}{person: 10 266 266}{0x63}{name: 2560}{speed: 5}
+Well,{wait: 10}{person: 10 263 262} of course he wants{b}
+justice!{p}{speed: 255}{person: 10 259 258}{speed: 4}
+But to entrust his case to{b}
+this greenhorn...{wait: 20} Why?{p}{speed: 3}
+I do not exaggerate when I say{b}
+that you're the best defense{b}
+attorney in town,{wait_noanim: 16}{person: 10 263 262}{speed: 4} Mr. Gavin.{p}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 4}{color: 2}
+(OK,{wait: 5}{shake: 30 0} so Gavin's got trial{b}
+experience,{wait: 10} fine.{wait: 15}{speed: 3} But does{b}
+he have Chords of Steel!?){color: 0}{p}{speed: 255}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Then let's begin.{wait_noanim: 30}{person: 10 259 258} The{b}
+defendant may enter the{b}
+courtroom.{nextpage_button}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 27}{person: 7 177 177}{bgcolor: 260 1 31}{wait: 25}{wait: 60}{name: 512}{hidetextbox: 0}{speed: 7}
+...{p}{hidetextbox: 1}{bg: 29}{person: 10 261 261}{wait: 70}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 4}
+This is truly an unfortunate{b}
+turn of events.{p}
+I'm sorry we had to meet again{person: 10 263 262}{b}
+under these circumstances.{p}{bg: 27}{person: 7 177 177}{speed: 4}
+Long time no see,{wait: 10}{sound: 52 1}{bgcolor: 2305 8 31} Mr. Wright.{nextpage_button}{0x19: 32769 2}{person: 7 188 187}{name: 1792}{speed: 3}
+Let's put the past behind{b}
+us,{wait: 10} shall we?{p}
+These days,{wait: 8}{speed: 5} I'm merely{b}
+Phoenix Wright,{wait_noanim: 20}{person: 7 182 181}{speed: 3} piano player.{p}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 6}{color: 2}
+(Mr. Wright...{wait: 20} How could this{b}
+have happened?){color: 0}{p}{hidetextbox: 1}{bg: 29}{name: 2560}{hidetextbox: 0}{person: 10 259 258}{speed: 5}
+I won't speak of it further{b}
+then.{p}{speed: 255}{person: 10 263 262}
+If the prosecution would be{b}
+so kind as to explain the{b}
+charges.{wait: 20} Mr. Payne?{p}{bg: 26}{person: 11 272 271}{name: 2816}{sound: 52 1}{bgcolor: 2305 8 31}
+To think,{wait: 10} I saw you enter this{b}
+room a fresh attorney,{wait: 12} and now{b}
+I'll see you leave in chains.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 7 177}{wait: 32}{person: 7 178 177}{name: 1792}{hidetextbox: 0}{speed: 4}
+Ah,{wait: 10} Winston Payne.{wait: 20} Subtle as{b}
+ever,{wait: 12} I see.{nextpage_button}{speed: 255}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 26}{person: 11 268 267}{0x5a}{name: 2816}{bgcolor: 258 1 31}{wait: 15}{0x59}{hidetextbox: 0}{speed: 4}
+Ahem.{fademusic: 0}{music: 4 0}{p}{speed: 3}
+The crime occurred at the{b}{color: 1}
+Borscht Bowl Club{color: 0}...{wait: 20} a{b}
+Russian restaurant.{p}{person: 11 272 271}
+The defendant,{wait: 10} Phoenix Wright,{wait: 10}{b}
+took the victim,{wait: 10} a customer{speed: 8}...{speed: 3}{p}
+...and he hit him!{wait_noanim: 20}{person: 11 268 267}{speed: 2} Wham!{wait: 20} On{b}
+the head!{wait: 20}{sound: 53 1}{bgcolor: 2305 8 31}{shake: 30 1} Smack!{wait: 20} Killed him{b}
+cold!{p}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 6}
+Hmm...{wait: 20}{person: 10 263 262}{speed: 4} A customer at the{b}
+restaurant,{wait: 10} you say?{p}{person: 10 265 264}{speed: 3}
+And the defendant,{wait: 10}{b}
+you say he was...?{p}{bg: 26}{person: 11 272 271}{name: 2816}{bgcolor: 2305 8 31}{speed: 5}
+The pianist{wait: 15}{speed: 4} for the club,{wait: 10}{b}
+it seems.{p}{bg: 29}{person: 10 263 262}{name: 2560}
+Phoenix Wright...{wait_noanim: 30}{b}{bg: 27}{person: 7 183 183}{speed: 3}
+A pianist?{p}{speed: 255}{bg: 26}{person: 11 268 267}{name: 2816}
+This is the weapon{showphoto: 19} that took{b}
+the victim's life.{wait: 30} A bottle{b}
+of grape juice.{p}
+Grape juice is apparently our{b}
+defendant's drink of choice.{nextpage_button}{bganim: 98 579}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+The court accepts the deadly{b}
+bottle as evidence.{nextpage_button}{newevidence: 16394}{name: 0}{color: 2}{speed: 4}
+Deadly Bottle added to{b}
+the Court Record.{nextpage_button}{speed: 255}{color: 0}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 4}
+Something to note,{wait: 10} Justice.{p}{person: 8 220 219}{name: 2048}{speed: 4}
+All evidence is filed in the{b}{wait: 12}{color: 1}
+Court Record{color: 0}.{p}{speed: 3}
+Make a practice of checking{b}
+it frequently.{p}{person: 8 219 219}{name: 1024}{speed: 5}
+The {color: 1}Court Record{color: 0}{speed: 8}...{wait: 20}{shake: 30 1}{speed: 2} Right!{wait: 15}{b}
+I've heard of that!{p}{name: 2048}{person: 8 220 219}{speed: 3}
+Use the {color: 1}Court Record Button{color: 0} to{b}
+look at the evidence so far.{nextpage_button}{0x59}{speed: 4}
+I'm confident in your ability{b}{person: 8 222 221}
+to handle this.{nextpage_button}{name: 1024}{color: 2}
+(Right,{wait: 10} the {color: 1}Court Record{b}
+Button{color: 2}.{wait: 15} Sounds like it's time{b}
+for some hands-on action!){color: 0}{p}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 3}
+So,{wait: 10} the victim was a customer{b}
+at this restaurant.{p}{person: 10 263 262}{showphoto: 6}
+But just who was this,{wait: 10} erm,{b}
+"Shadi Smith" fellow?{nextpage_button}{bganim: 98 579}{bg: 26}{person: 11 268 267}{name: 2816}
+We believe he was a traveler,{wait: 12}{b}
+Your Honor.{p}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+A...{wait: 12} traveler?{p}{bg: 26}{person: 11 268 267}{name: 2816}{speed: 3}
+According to his passport,{wait: 12} he{b}
+had been out of the country{b}
+for a number of years.{p}{speed: 3}
+He had only returned to this{b}
+country recently,{wait: 15} though his{b}
+place of residence is unclear.{p}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+And he had some sort of{b}
+connection with the defendant?{p}{bg: 26}{person: 11 268 267}{name: 2816}
+...That,{wait: 10} too, is unclear at{b}
+present,{wait: 10} Your Honor.{p}
+We believe they first met at{b}
+the Borscht Bowl Club on the{b}
+night of the crime.{p}{bg: 29}{person: 10 265 264}{name: 2560}
+If they had only just met,{wait: 10}{b}
+then why murder?{p}{person: 10 263 262}
+Perhaps the victim slighted{b}
+the defendant's piano playing?{p}{endjmp}
+
+{{3}}
+{bop}{endjmp}
+
+{{4}}
+{bop}{endjmp}
+
+{{5}}
+{bop}{endjmp}
+
+{{6}}
+{bop}{bg: 26}{name: 2816}{person: 11 268 267}{speed: 3}That doesn't appear to have{b}
+been the case.{p}{person: 11 272 271}
+No,{wait: 15}{speed: 4} the motive had nothing to{b}
+do with the defendant's lack{b}
+of playing skill.{p}{speed: 3}
+At least not piano playing.{b}
+I'll let{showphoto: 25} this photo explain{b}
+what I mean.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{person: 0 0 0}{bg: 102}{bgcolor: 258 1 31}{wait: 15}{wait: 100}{hidetextbox: 0}
+As we can see,{wait: 20}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5} a game of {color: 1}poker{color: 0}{b}
+was in progress at the scene{b}
+of the crime.{p}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Wait a second!{p}{person: 10 259 258}{speed: 5}
+Isn't poker gambling?{p}{person: 10 263 262}{fademusic: 30}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+That's a crime in and of{b}{person: 10 263 262}
+itself!{wait_noanim: 50}{nextpage_nobutton}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 59 1}{sound: 22 1}{wait: 120}{fademusic: 0}{music: 18 0}{bg: 26}{person: 11 272 271}{name: 2816}{hidetextbox: 0}
+Indeed.{wait_noanim: 20}{b}{person: 11 272 271}{speed: 5}
+It appears our defendant{speed: 8}...{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{swoosh: 2 4096 7 177}{wait: 32}{person: 7 177 177}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 3}
+...has fallen to become the{b}
+basest sort of criminal!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 41 1}{wait: 60}{bg: 28}{person: 8 224 223}{name: 2048}{hidetextbox: 0}{speed: 3}
+It is true that the defendant{b}
+was engaged in a game of poker{b}
+with the victim.{p}
+Yet it was only that:{wait: 10} a game,{wait: 10}{b}
+in the purest sense.{wait_noanim: 25}{b}{sound: 52 1}{bgcolor: 2305 8 31}{person: 8 224 223}
+A {color: 1}competition{color: 0},{wait: 10} Your Honor.{p}{bg: 26}{person: 11 268 267}{name: 2816}
+A...{wait: 12} competition?{p}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 4}
+Yes,{wait: 10} a test of wits,{wait: 12} a silent{b}
+clash of passions...{p}
+Only the cards,{wait: 10} their backs{b}
+wreathed in blue flame,{wait: 10} know{b}
+its final outcome.{p}{bg: 29}{person: 10 258 258}{name: 2560}{hidetextbox: 0}{speed: 8}
+...{wait: 60}{b}{person: 10 263 262}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Er,{wait: 10} come again?{p}{bg: 26}{person: 11 268 267}{name: 2816}{showphoto: 20}{speed: 3}
+The cards on the table had{b}
+blue backs,{wait: 10} Your Honor.{p}
+I believe the defense was{b}
+waxing poetic in an attempt to{b}
+mystify those present...{p}{person: 11 272 271}{speed: 4}
+...and impress women.{nextpage_button}{bganim: 98 579}{bg: 29}{name: 2560}{person: 10 259 258}
+That will be our first order{b}
+of business here then:{p}{person: 10 263 262}
+To find out more about this{b}
+fatal game of cards.{nextpage_button}{bg: 27}{person: 7 187 187}{name: 1792}{speed: 7}
+...{speed: 255}{p}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 263 262}{name: 2560}{hidetextbox: 0}{speed: 4}
+Very well,{wait: 12} Defendant.{p}{person: 10 259 258}{speed: 3}
+You will testify to the court{b}
+about the poker {color: 1}competition{color: 0}{b}
+held the night of the crime.{p}{bg: 27}{person: 7 182 181}{name: 1792}{speed: 6}
+...My pleasure.{p}{bg: 25}{name: 1024}{person: 4 58 58}{speed: 5}{color: 2}
+(This is it,{wait: 30}{shake: 30 0}{speed: 2} my first trial!{shake: 30 0}{b}
+Here goes nothing!){color: 0}{p}{testimony_animation: 1}{special_jmp}{endjmp}

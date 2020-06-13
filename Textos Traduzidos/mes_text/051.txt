@@ -1,0 +1,362 @@
+
+
+{{0}}
+{bop}{0x62: 4 2}{0x51: 3 38}{b}{bgcolor: 514 1 31}{wait: 15}{person: 20 449 449}{bg: 27}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 25 11 2 93 1 1 3}{b}
+-- The Scent Of A Story --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{name: 5120}{person: 20 450 449}{speed: 2}
+Actually,{wait: 10} it took a bit of{b}
+work to get a thumbs-up{b}
+on the interview.{p}{person: 20 452 451}
+"Reporter Leverages Story,{wait: 6}{b}
+Gets His Interview",{wait: 6} end{b}
+quote.{p}{person: 20 457 456}{speed: 3}
+The story concerned a certain{b}
+case from seven years ago.{p}{person: 20 450 449}{speed: 2}
+That red envelope probably had{b}
+something to do with it.{p}{person: 20 457 456}
+Say what you will,{wait: 8} but Drew's{b}
+talent was without compare.{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{person: 10 263 262}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{0x59}{hidetextbox: 0}{speed: 4}
+So you threatened to go to{b}
+press with this "story"?{p}{person: 10 265 264}{speed: 3}
+That's how you got your{b}
+interview?{wait: 16} Blackmail?{p}{bg: 27}{name: 5120}{person: 20 452 451}{bgcolor: 2305 8 31}{speed: 2}
+Well,{wait: 8} yes.{wait: 14}{b}
+...{wait_noanim: 80}{b}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+I mean no!{wait: 16} No, no, no, no!{p}{person: 20 464 463}{animation: 149 1}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+It wasn't exactly black...{wait: 20}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+I mean,{wait: 8} I'm not... urk!{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 4}
+...Something wrong,{wait: 8}{b}
+Mr. Brushel?{p}{bg: 27}{name: 5120}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 4}
+L{wait: 8}-Look!{p}{person: 20 464 463}{animation: 149 1}{bgcolor: 2305 8 31}{shake: 30 0}
+This is my story!{wait: 14} My tidbit!{wait: 14}{b}{person: 20 457 456}
+"Journalist's Info Is{b}
+Livelihood",{0x5a}{wait: 15}{speed: 2}{person: 20 450 449}{shake: 30 0}{wait: 10} end quote.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 4}
+...I see.{nextpage_button}{bg: 27}{name: 5120}{person: 20 464 463}{animation: 149 1}{speed: 3}
+While you have me chatting{b}
+away in here,{wait: 8} what's going{b}
+on out there?{p}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+What if some Wally Wordsworth{b}
+or Sally Scooper gets wind{b}
+of my story?{nextpage_button}{person: 20 464 463}{animation: 149 1}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+They could be going to press{b}
+while I'm going to waste!{p}{hidetextbox: 1}{bg: 29}{name: 2560}{person: 10 260 260}{0x63}{person: 10 259 258}{hidetextbox: 0}{speed: 5}
+The court feels your pain,{b}
+Mr. Brushel.{wait: 15}{person: 10 259 258}{speed: 3} Mr. Justice,{wait: 15}{b}
+let's pick up the pace.{nextpage_button}{bg: 25}{name: 1024}{person: 4 42 42}{color: 2}
+(A certain case,{wait: 16} seven years{b}
+ago...{wait: 40} {person: 4 40 40}{speed: 4}Wait... {sound: 52 1}{bgcolor: 2305 8 31}"{color: 1}seven years{b}
+ago{color: 2}"?){p}{color: 0}{bg: 28}{name: 1280}{person: 5 98 98}
+...?{nextpage_button}{endjmp}
+
+{{1}}
+{bop}{0x6b: 0 1 0}{bganim: 98 513}{0x6b: 1 1 0}{bganim: 98 513}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 20 449 449}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 135}{center_text: 1}{speed: 2}{b}{color: 1}
+-- The Scent of A Story --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 136 0}{lifebarset: 2 130}{lifebar: 25}{0x53}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{color: 3}{0x7e}{bop}Actually, {0x7e}{bop}it took a bit of{b}
+work {0x7e}{bop}to get a thumbs-up{0x7e}{bop}{b}
+on the interview.{0x7e}{b}{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 137 0}{lifebarset: 0 130}{lifebarset: 2 131}{lifebar: 27}{0x53}{name: 5120}{person: 20 452 451}{hidetextbox: 0}{color: 3}{0x7e}{bop}"Reporter Leverages Story,{0x7e}{bop}{b}
+Gets His Interview", {0x7e}{bop}end{b}
+quote.{0x7e}{b}{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 138 0}{lifebarset: 0 131}{lifebarset: 2 132}{lifebar: 28}{0x53}{name: 5120}{person: 20 457 456}{hidetextbox: 0}{color: 3}{0x7e}{bop}The story concerned {0x7e}{bop}a certain{b}
+case {0x7e}{bop}from seven years ago.{0x7e}{b}{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 132}{lifebarset: 2 133}{lifebar: 25}{0x53}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{color: 3}{0x7e}{bop}That red envelope {0x7e}{bop}probably had{0x7e}{bop}{b}
+something to do with it.{0x7e}{b}{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 133}{lifebarset: 2 134}{lifebar: 28}{0x53}{name: 5120}{person: 20 457 456}{hidetextbox: 0}{color: 3}{0x7e}{bop}Say what you will, {0x7e}{bop}{0x56: 181 200}t Drew's{b}
+talent {0x7e}{bop}{psychelock: 202}as without compare.{0x7e}{b}{psychelock: 3}{bop}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 28}{name: 1280}{person: 5 105 104}...That testimony left a bad{b}
+taste in my mouth.{p}{person: 5 104 104}{name: 1024}
+It all makes sense.{wait: 30} {speed: 3}Nothing{b}
+jumps out as ridiculous.{p}{name: 1280}{person: 5 99 98}
+I wonder what this{wait: 6} "story"{wait: 6}{b}
+he's talking about is?{p}{person: 5 105 104}
+It must have been good,{wait: 12} to get{b}
+an interview with a famous{b}
+recluse like that.{nextpage_button}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 4}{color: 2}
+(Something powerful enough to{b}
+drag Drew Misham out of{b}
+hiding.){p}
+(I wonder...){p}{person: 4 36 36}{speed: 3}
+(Maybe it had something to do{b}
+with Mr. Misham's art?){nextpage_button}{color: 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{8}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}The victim,{wait: 8} Drew Misham,{wait: 8} had{b}
+an aversion to reporters?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+Boy,{wait: 8} I guess.{wait: 16} Not even my{b}
+considerable charms did much{b}
+for him.{nextpage_button}{person: 20 457 456}
+Until I finally got my{b}
+thumbs-up,{wait: 12} that is.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 3}
+Maybe you can elaborate on{b}
+that a bit for us?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{9}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}...Exactly what sort of{b}
+story was this?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 459}{wait: 32}{name: 5120}{person: 20 460 459}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Oh a little one.{wait: 12} Like I said.{p}{person: 20 457 456}{speed: 5}
+"Nothing More,{wait: 8} Nothing Less,{wait: 12}{b}
+Nothing In-Between",{0x5a}{wait: 15}{speed: 2} {person: 20 450 449}{shake: 30 0}{wait: 10}end{b}
+quote.{nextpage_button}{person: 20 457 456}
+I might have suggested I had{b}
+a lead on this particular{b}
+story.{p}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+But I didn't threaten,{wait: 8} or{b}
+cajole,{wait: 8} or nothing!{wait: 16} Honest!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{speed: 4}{color: 2}
+(So a suggestion was enough{b}
+to get an interview?){p}{speed: 3}
+(Mr. Misham must have really{b}
+wanted to keep it under{b}
+wraps...){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 41 40}A certain case,{wait: 12} seven years{b}
+ago?{p}{person: 4 37 36}
+Tell us! What case!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 120}{person: 20 463 463}{animation: 149 1}{wait: 90}{name: 5120}{person: 20 464 463}{animation: 149 1}{hidetextbox: 0}{speed: 2}
+Let me state one thing,{wait: 10}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+Mr. Attorney,{wait: 8} and you can{b}
+quote me on this!{p}{speed: 2}
+I...{0x5a}{wait: 35} {person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}can't talk about that{b}
+case!{p}{bg: 25}{name: 1024}{person: 4 37 36}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Wh-{wait: 16}Why not!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+It's about journalistic{b}
+pride,{wait: 8} and staunchness,{wait: 8} and{b}
+credibility,{wait: 8} and connections!{nextpage_button}{person: 20 457 456}{speed: 5}
+"Journalist Reveals Sources{b}
+Only Over His Dead Body",{0x5a}{wait: 15}{speed: 2}{b}{person: 20 450 449}{shake: 30 0}{wait: 10}
+end quote.{nextpage_button}{person: 20 452 451}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+So what'll it be?{wait: 18} Gonna{b}
+strangle me?{wait_noanim: 30}{person: 20 462 462}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 3} Dead men don't{b}
+tell tales,{wait: 12} Mr. Attorney!{wait: 35}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{color: 2}{speed: 4}
+(He sounds pretty determined{b}
+not to talk.){color: 0}{p}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 3}
+Hmm.{wait: 12} Our chances of breaking{b}
+his will aren't looking good.{nextpage_button}{0x23: 0}{music: 255 60}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 45 44}On the one hand we have your{b}
+"story",{wait: 6} and on the other,{wait: 8}{b}{showphoto: 458}
+this letter.{p}{person: 4 37 36}
+What makes you think the two{b}
+are related?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 20 459}{wait: 32}{name: 5120}{person: 20 460 459}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+Oh!{wait: 10} Ah,{wait: 10} er,{wait: 10} I was just saying{b}
+it's possible.{p}{person: 20 464 463}{animation: 149 1}
+Call it{wait: 6} "Reporter's{bgcolor: 2305 8 31}{b}{shake: 30 0}
+Intuition", end quote.{nextpage_button}{person: 20 452 451}
+Hey,{wait: 10} I say a lot of things.{wait: 16}{b}
+You going to pick all of them{b}
+apart?{wait: 16} Be my guest!{nextpage_button}{person: 20 453 453}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{name: 1024}{person: 4 36 36}{hidetextbox: 0}{speed: 4}{color: 2}
+(All of them?{wait: 16} No.{wait: 16} Just the{b}
+incredibly suspicious ones.){color: 0}{p}{bg: 29}{name: 2560}{person: 10 265 264}
+...{wait: 16}I see.{wait: 10} Anything else to{wait: 16}{b}
+add about Mr. Misham?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}Just how amazing was{b}
+"{color: 1}Mr. Misham's talent{color: 0}"?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 451}{wait: 32}{name: 5120}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{shake: 30 2}{speed: 2}{wait: 8}
+Huh{bgcolor: 2305 8 31}?{nextpage_button}{person: 20 464 463}{animation: 149 1}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hoo wee,{wait: 8} boy.{wait: 10} I mean, hey!{b}
+He's a star,{wait: 5} man,{wait: 5} a star!{p}{bgcolor: 2305 8 31}{shake: 30 0}
+The flow of his brush is like{b}
+a great,{wait: 8} undulating river{b}
+across the canvas!{p}
+"Artist's Paints Light Up{b}
+Studio Like Sun",{0x5a}{wait: 15}{speed: 2}{person: 20 452 451}{shake: 30 0}{wait: 10} end quote.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{speed: 4}{color: 2}
+(This guy is full of wacky{b}
+gestures...){p}{person: 4 36 36}{speed: 3}
+(But that one just now was{b}
+wackier than usual.){nextpage_button}{color: 0}{bg: 28}{name: 1280}{person: 5 103 102}
+He looks kind of nervous to{b}
+me,{wait: 8} Apollo.{nextpage_button}{name: 1024}
+Definitely.{wait: 30}{bg: 27}{person: 20 463 463}{animation: 149 1}{speed: 4} I'm sensing{b}
+something different than{b}
+before here...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 58 58}{hidetextbox: 0}{speed: 4}{color: 2}
+(Maybe it's time to bring{b}
+out {color: 1}you-know-what{color: 2}...){color: 0}{nextpage_button}{jmp: 135}{endjmp}
+
+{{13}}
+{bop}{wait: 20}{0x51: 2 53}{2817}{1350}{fademusic: 45}{0x6d: 0}{0x74: 1 0}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{fademusic: 30}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}Mr. Brushel!{wait: 20} {speed: 3}You're hiding{b}
+something!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 462 462}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Yooo{bgcolor: 2305 8 31}oooo{bgcolor: 2305 8 31}oooo{bgcolor: 2305 8 31}oooo{bgcolor: 2305 8 31}oooo{bgcolor: 2305 8 31}wrk!{wait: 40}{nextpage_nobutton}{person: 20 452 451}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Dontyellallofasuddenlikethat!{wait: 16}{b}
+You'll give a guy a heart{b}
+attack...{nextpage_button}{bg: 25}{person: 4 60 60}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Ack! Sorry!{bgcolor: 2305 8 31}{wait: 15} It's just...{wait: 25} {person: 4 62 61}{animation: 149 1}{speed: 5}the{b}
+way you were moving just now.{p}{person: 4 50 49}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+It was particularly{b}
+suspicious.{person: 4 51 51}{wait: 20}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 459}{wait: 32}{name: 5120}{person: 20 460 459}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+What's that supposed to mean!?{p}{person: 20 464 463}{animation: 149 1}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+So usually I'm just sort of{wait: 6}{b}
+"averagely" suspicious?{nextpage_button}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{speed: 4}
+...Sorry.{wait: 16} My mistake.{wait: 16}{b}
+You're fine.{p}{person: 4 61 61}{animation: 149 1}{showphoto: 339}{speed: 3}{color: 2}
+(I know I'm on to something{b}
+here.{wait: 16} Time to focus!){nextpage_button}{color: 0}{bganim: 98 579}{0x51: 3 28}{b}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{0x5e}{fademusic: 0}{music: 2 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{0x7c: 134}{endjmp}{endjmp}{0x10: 33292}{0x51: 3 108}{bop}{fademusic: 0}{music: 2 0}{wait: 15}{0x29: 2}{0x7c: 134}{endjmp}
+
+{{14}}
+{bop}{wait: 20}{0x29: 0}{0x74: 1 0}{fademusic: 45}{0x6d: 0}{person: 20 456 456}{name: 1024}{hidetextbox: 0}Sweat much, Mr. Brushel?{p}{person: 20 452 451}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Urk!{wait: 20} Eh,{wait: 16} yeah, well{wait: 8}{speed: 8}...{p}{person: 20 464 463}{animation: 149 1}{speed: 4}
+...a man can't help his{b}
+glands,{wait: 16} you know!{nextpage_button}{person: 20 449 449}{name: 1024}{speed: 5}
+It's more than that. When{wait: 6}{b}
+"{color: 1}Mr. Misham's talent{color: 0}" was{b}
+mentioned...{p}{wait: 20}{speed: 8}
+...{speed: 4}you suddenly {sound: 52 1}{bgcolor: 2305 8 31}{color: 1}began to{b}
+sweat buckets{color: 0}.{p}{name: 5120}{person: 20 460 459}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+...Ack!{0x5a}{p}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{name: 1024}{0x5a}{speed: 2}
+You're hiding {bgcolor: 2305 8 31}something...{wait: 12}{b}{bgcolor: 2305 8 31}
+about{bgcolor: 2305 8 31} his talent!{p}{person: 20 464 463}{animation: 149 1}{name: 5120}{bgcolor: 2305 8 31}{speed: 2}
+Whaaaaaaaaaaaaaaaaaaaaaa{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}aaat!{0x5a}{b}{wait: 25}{0x59}{bgcolor: 2305 8 31}
+Th-Th-Th-Th-Th-That's{wait: 20} r-r-r-{b}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+ridiculous!{fademusic: 0}{music: 10 100}{p}{person: 20 463 463}{animation: 149 1}{name: 1024}{speed: 3}{color: 2}
+(Evidence time.){p}
+(Let's show where Mr. Misham's{b}
+true "{color: 1}talent{color: 2}" lay!){color: 0}{p}{endjmp}
+
+{{15}}
+{bop}{hidetextbox: 0}{0x6c: 0}{0x6e: 20}{name: 1024}{color: 3}{speed: 4}It just so happens I have{b}
+evidence showing the "{color: 1}talent{color: 3}"{b}
+mentioned in that {color: 1}letter{color: 3}!{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{0x6d: 0}{0x74: 1 0}{person: 20 464 463}{animation: 149 1}{name: 5120}{hidetextbox: 0}{speed: 2}Er,{wait: 8} I can't help but wonder{wait_noanim: 40}{b}{person: 20 452 451}{sound: 52 1}{bgcolor: 2305 8 31}
+what the court is supposed to{b}
+conclude from this evidence?{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Oh...{nextpage_button}{person: 20 450 449}{name: 5120}{speed: 2}
+Other than that you've made{b}
+a horrible mistake?{nextpage_button}{0x6c: 0}{0x6e: 20}{person: 20 457 456}
+"Man Burns Bridge,{wait: 8} Forgets{b}
+To Cross First",{0x5a}{wait_noanim: 20}{speed: 2}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{wait: 10} end quote.{person: 20 450 449}{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{name: 1024}{person: 20 451 451}{color: 2}
+(...Let's try that again.{wait: 15} All{b}
+I have to do is reveal what{b}
+Mr. Misham really was.){p}
+(That shouldn't be so hard,{wait: 10} {b}
+right?){color: 0}{nextpage_button}{hidetextbox: 1}{jmp: 143}{endjmp}
+
+{{17}}
+{bop}{0x29: 0}{0x6d: 0}{0x6b: 1 0 0}{bganim: 98 513}{0x74: 1 0}{fademusic: 45}{name: 1024}{person: 20 451 451}{hidetextbox: 0}{showphoto: 201}This painting was found in{b}
+Mr. Misham's studio.{p}{name: 5120}{person: 20 463 463}{animation: 149 1}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+...!{p}{name: 1024}{speed: 4}
+There are two problems with{b}
+this painting.{p}
+The first is it wasn't painted{b}
+by Mr. Misham.{nextpage_button}
+The second is that there was{b}
+another painting in the{b}
+studio...{p}
+...which looked exactly like{b}
+this one.{wait: 20} Except it was only{b}
+half done!{nextpage_button}{name: 5120}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 8}
+......{nextpage_button}{name: 1024}{bganim: 98 579}{showphoto: 458}{speed: 3}
+Then we have a letter{b}
+discussing a payment of{b}
+$100,000.{nextpage_button}{speed: 4}
+Which suggests a certain{b}{color: 1}
+business{color: 0} operation.{p}{removephoto}{speed: 3}
+The business{bgcolor: 2305 8 31}{shake: 30 0} of making{b}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{color: 1}
+forge{bgcolor: 2305 8 31}ries{color: 0}!{nextpage_button}{person: 20 462 462}{name: 5120}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Aooo{bgcolor: 2305 8 31}oooo{bgcolor: 2305 8 31}oooo{bgcolor: 2305 8 31}ooogg!{0x63}{speed: 3}{wait: 40}{sound: 50 1}{hidetextbox: 1}{0x6b: 8 1 0}{bganim: 98 632}{0x5f: 3 1 31}{shake: 30 2}{bgcolor: 2305 8 31}{wait: 5}{bgcolor: 2305 8 31}{wait: 3}{bgcolor: 2305 8 31}{wait: 70}{wait: 60}{bgcolor: 2566 1 31}{wait: 25}{nextpage_nobutton}{hidetextbox: 1}{0x5f: 4 1 1}{0x6b: 6 0 0}{bganim: 98 632}{bg: 27}{name: 5120}{hidetextbox: 1}{0x6b: 4 6 0}{bganim: 98 632}{wait: 1}{bganim: 98 377}{wait: 4}{bgcolor: 2308 1 31}{wait: 25}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{name: 1024}{person: 4 37 36}{hidetextbox: 0}{speed: 5}
+...That is all,{wait: 16} Your Honor.{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{wait: 60}{bg: 27}{name: 5120}{person: 20 464 463}{animation: 149 1}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Everyone!{wait: 10} Please,{wait: 10} everyone!{person: 20 460 459}{p}{person: 20 464 463}{animation: 149 1}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Can we keep this private?{wait: 20}{b}
+Please!?{p}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{person: 20 460 459}
+This is my story!{wait: 10} My scoop!{p}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 5}
+Forgery...{wait: 16} {speed: 3}that's a serious{b}{person: 10 263 262}{fademusic: 0}{music: 18 0}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+crime!{p}{bg: 27}{person: 20 457 456}{name: 5120}{speed: 3}
+Drew Misham is known as an{b}
+artist these days.{p}
+But there were rumors he{b}
+dabbled in another kind of{b}
+art until a few years back.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 5}
+"Another art" meaning{0x5a}...{wait: 30}{b}{person: 10 265 264}{speed: 3}
+forgery?{nextpage_button}{bg: 27}{name: 5120}{person: 20 457 456}{speed: 4}
+Drew Misham was talented,{wait: 8}{b}
+alright.{wait_noanim: 30} {person: 20 457 456}Talented at making{b}
+precise,{wait: 8} detailed fakes.{p}{speed: 3}
+A fact that certain criminal{b}{person: 20 452 451}{sound: 52 1}{bgcolor: 2305 8 31}
+elements were quick to{b}
+discover.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{person: 4 37 36}{name: 1024}{hidetextbox: 0}
+Criminal elements...?{p}{person: 4 59 58}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+What..{bgcolor: 2305 8 31}.!?{wait: 16} {bgcolor: 2305 8 31}{shake: 30 0}{0x59}{speed: 3}You can't seriously{b}
+be talking about...{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 456}{wait: 32}{name: 5120}{person: 20 457 456}{hidetextbox: 0}
+...Exactly.{0x5a}{wait: 30}{b}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{0x59}
+I'm talking about {color: 1}forging{b}
+evidence{color: 0}!{p}{speed: 4}
+The rumors started circulating{0x5a}{wait: 30}{b}{0x59}
+seven years ago.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}
+S-{wait: 20}{speed: 5}Seven years ago...?{p}{speed: 5}
+So,{wait: 8} are we to understand that{b}{person: 10 265 264}{showphoto: 202}
+this letter...{p}
+...this payment of {color: 1}$100,000{color: 0}{b}
+was for...?{nextpage_button}{bg: 27}{name: 5120}{person: 20 457 456}{speed: 4}
+...Exactly.{p}{bganim: 98 579}{person: 20 462 462}{fademusic: 30}{sound: 50 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+"{color: 1}Forged Evidence{color: 0}{bgcolor: 2305 8 31} Nets{bgcolor: 2305 8 31} Tidy{b}
+Profit", end quote.{0x63}{shake: 30 0}{wait: 30}{person: 20 451 451}{p}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Order!{wait: 10} Order!{wait: 10} Order!{p}{person: 10 265 264}
+Why,{wait: 6} it's like our victim{b}
+was living a double life!{p}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 2}{color: 2}
+(Ah ha!{wait: 20} This is my chance!){bgcolor: 2305 8 31}{shake: 30 0}{color: 0}{p}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{speed: 3}
+So the victim had ties to the{b}
+criminal world,{wait: 20}{speed: 2}{bgcolor: 2305 8 31}{shake: 30 0} right?{p}{person: 4 64 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{fademusic: 0}{music: 35 0}
+He could have had plenty of{b}
+enemies we know nothing about!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{speed: 4}
+This is my first time hearing{b}
+of this "criminal world".{p}{person: 6 146 145}{speed: 3}
+We certainly found no criminal{b}
+connections when we conducted{b}
+our investigation.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{speed: 2}
+But how do you explain all{b}
+this money?{p}{person: 4 66 65}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+You have to admit there's{b}
+a possibility of some illegal{b}
+activity here!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{speed: 5}
+...{wait_noanim: 30}{showphoto: 202}{person: 6 146 145}{speed: 4}But there is no proof tying{b}
+this letter to our case.{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 58 58}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{0x5a}{hidetextbox: 0}{speed: 5}
+...{wait: 20}{speed: 3}{0x59}Our case was,{wait: 12} and remains,{b}
+simple from the beginning.{p}{speed: 4}
+Only the defendant could have{b}
+poisoned that mug that night.{p}
+And,{wait: 10} you,{wait: 30} {bg: 27}{person: 20 461 461}{sound: 52 1}{bgcolor: 2305 8 31}of course.{p}{name: 5120}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hey,{wait: 10} hey,{wait: 10} hey,{wait: 10} the only thing{b}
+I poison is my pen... when{b}
+I'm writing reviews!{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 263 262}{hidetextbox: 0}{speed: 4}
+Mr. Brushel,{wait: 10} your testimony{b}
+to this point has been quite{b}
+unreliable.{p}{person: 10 265 264}
+...{wait: 20}It doesn't speak well of{b}
+your reporting acumen.{p}{bg: 27}{name: 5120}{person: 20 462 462}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+What're you talking about!?{b}{shake: 30 0}
+My journalism is rock solid!{0x63}{wait: 30}{nextpage_nobutton}{person: 20 450 449}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+"Journalism So Solid,{wait: 12} You{b}
+Could Stand An Elephant On{b}
+It",{wait_noanim: 30}{person: 20 452 451}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{wait: 10} end quote.{p}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 5}
+In any case...{p}{person: 10 263 262}{speed: 3}
+Let's hear a summarized{b}
+recap of your testimony.{p}{person: 10 259 258}
+If we can ascertain the{b}
+situation in that studio from{b}
+the recap,{wait: 10} the trial is over.{p}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Apollo!{wait: 15}{b}{speed: 3}
+What's he talking about?{nextpage_button}{name: 1024}{speed: 3}
+The cross-examination showed{b}
+Mr. Brushel didn't have reason{b}
+or means to poison him.{p}{person: 5 104 104}
+As long as there're no other{b}
+suspects{speed: 8}...{p}
+...{wait: 12}{speed: 3}then the killer had to be{b}
+Vera. That's what.{p}{person: 5 102 102}{speed: 2}
+...This next testimony is our{b}{bgcolor: 2305 8 31}{shake: 30 0}
+last chance!{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+Mr. Brushel,{wait: 10} your testimony{b}
+please!{nextpage_button}{hidetextbox: 1}{testimony_animation: 1}{special_jmp}{endjmp}

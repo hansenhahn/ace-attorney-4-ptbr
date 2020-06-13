@@ -1,0 +1,415 @@
+
+
+{{0}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}There's a number inscribed on{b}
+the back of the badge.{p}
+There are many numbers like{b}
+it,{wait: 8} but this one is mine.{wait: 16}{b}
+Proof that I'm an attorney.{p}{speed: 4}
+To tell the truth,{wait: 12} {speed: 3}I get a{b}
+happy feeling inside just{b}
+looking at it.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{endjmp}
+
+{{2}}
+{bop}{name: 1280}{hidetextbox: 0}{0x76: 0 1}{speed: 3}It's cut clean off!{wait: 16} I wonder{b}{0x76: 0 6}
+what's in there...?{p}{name: 1024}
+Don't.{wait: 12} There are bare wires{b}
+hanging out.{p}{name: 1280}{speed: 4}
+Let's see...{b}{0x76: 0 2}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Zzzzzzaaaaap!{wait: 16} Eeek!{p}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Wha--!?{wait: 12}{b}
+A-Are you OK!?{p}{name: 1280}{0x76: 0 4}{speed: 3}
+Hee hee!{wait: 16}{b}
+Just a little joke!{p}{name: 1024}{speed: 8}
+......{wait: 12}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Don't scare me like that!{p}{name: 1280}{0x76: 0 6}{speed: 3}
+You mean,{wait: 8} don't{wait: 6} "shock"{wait: 6} you?{wait: 16}{b}
+Zzzzzzaaaaap!{wait: 16} Hee hee!{nextpage_button}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}Huh?{wait: 16} This spot here is black.{p}{name: 1280}{0x76: 0 3}
+I wonder what that is...?{p}
+It doesn't look like paint{speed: 8}...{p}{speed: 3}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{0x51: 0 14}{1024}{hidetextbox: 0}I wonder{speed: 8}...{wait: 12} {speed: 3}Could this be{b}
+a {color: 1}print{color: 0}?{p}{name: 1280}{0x76: 0 4}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Why would there be a finger...{wait: 12}{b}{speed: 3}
+Oh,{wait: 8} {speed: 2}you mean a toe print!{wait: 16}{b}
+Good call,{wait: 8} Apollo!{p}{name: 1024}{speed: 3}
+I bet we can analyze it{b}
+just like a regular print.{p}{name: 1280}{0x76: 0 5}
+This could be a vital piece{b}
+of evidence!{p}{bganim: 98 579}{hidetextbox: 1}{0x74: 9 1}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{endjmp}
+
+{{6}}
+{bop}{endjmp}
+
+{{7}}
+{bop}{endjmp}
+
+{{8}}
+{bop}{name: 1024}{hidetextbox: 0}{name: 1280}{0x76: 0 5}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}The bottom is covered with{b}
+paint!{p}{name: 1024}{0x76: 0 2}{sound: 52 1}{bgcolor: 2305 8 31}
+Huh?{wait: 16} What's this weird{b}
+shape here?{p}{name: 1280}{0x76: 0 3}
+It looks like a leaf was stuck{b}
+to the bottom when the wearer{b}
+stepped in some yellow paint.{p}{bganim: 98 579}{name: 1024}
+So the outline was left when{b}
+the leaf was removed!{p}{bgcolor: 2305 8 31}{speed: 2}
+Ack!{wait: 12} {speed: 3}I got paint on my hand!{p}{name: 1280}{0x76: 1 7}{speed: 4}
+......{b}{sound: 52 1}{bgcolor: 2305 8 31}
+Apollo!{p}{0x76: 1 9}{speed: 3}
+I saw you try to wipe your{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+hand on my cape!{p}{bganim: 98 579}{0x10: 33729}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}So,{wait: 8} we have a toe print now.{p}{name: 1280}{0x76: 0 3}{speed: 3}
+I'm not sure what good it's{b}
+going to do us without a list{b}
+of toe prints to check it on.{p}{name: 1024}{color: 2}
+(Maybe our detective friend{b}
+can help us...){color: 0}{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}The toe prints match...{p}
+Which means the sandals and{b}
+the slippers were worn by{b}
+the same person.{p}
+And the slippers are from the{b}
+Meraktis Clinic.{wait: 16} These have to{b}
+be connected to the crime!{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{endjmp}
+
+{{12}}
+{bop}{name: 1280}{0x76: 0 4}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}Ooh,{wait: 12} {speed: 3}look!{wait: 10} {speed: 4}I love these little{b}
+personal touches!{p}{name: 1024}
+Seems a shame to hide it on{b}
+the bottom of the bowl.{p}{bganim: 98 579}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}Huh?{wait: 12} When I touched it the{b}
+paint flaked off.{p}{0x76: 0 6}{name: 1280}{speed: 3}
+He must have painted it on by{b}
+hand with warm,{wait: 8} professional{b}
+care!{p}{name: 1024}{speed: 4}
+After buying the cheapest{b}
+paint he could find with cold{b}
+professional thrift.{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{name: 1280}{hidetextbox: 0}{0x76: 0 4}{speed: 3}It's the Eldoon's Noodles's{b}
+mascot!{p}{bgcolor: 2305 8 31}
+Mr. Salty!{wait: 16}{b}{speed: 2}
+He's so cute!{p}{name: 1024}{speed: 3}
+It's not a very endearing{b}
+mascot,{wait: 8} is it?{p}{name: 1280}{0x76: 0 3}{speed: 4}
+You know...{wait: 16}{b}{0x76: 0 7}{speed: 3}
+Come to think of it{speed: 8}...{wait: 8}{p}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 16}It looks a lot like you,{wait: 8}{b}
+Apollo.{wait: 16} Especially the red{b}
+parts.{p}{name: 1024}{speed: 3}
+Can I help it if I like red?{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 4}......{p}{name: 1280}{0x76: 0 1}{speed: 3}
+Something the matter?{p}{name: 1024}
+Uh{speed: 8}...{wait: 12} {speed: 3}I was just wondering{b}
+if there was,{wait: 8} like,{wait: 8} a switch{b}
+on these...{p}{name: 1280}{0x76: 0 5}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Of course not!{p}{name: 1024}{speed: 3}
+...{wait: 20}Huh.{wait: 12} Mysterious.{p}{name: 1280}{0x76: 0 6}
+Oh?{wait: 16} {speed: 2}Do you want to know the{b}
+secret of my panties?{p}{name: 1024}{speed: 3}
+Ack!{wait: 12} N-{wait: 8}No!{wait: 16} No thanks!{wait: 16}{b}{speed: 4}{color: 2}
+(Who uses magic panties in{b}
+a stage show anyway...?){color: 0}{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{name: 1280}{0x76: 0 4}{speed: 2}Look at this cute little{b}
+watch-strap!{wait: 16} I want one!{p}{name: 1024}{speed: 4}
+...{wait: 20}It's kind of {sound: 52 1}{bgcolor: 2305 8 31}odd,{wait: 8} though.{p}{name: 1280}{0x76: 0 2}{bgcolor: 2305 8 31}{speed: 4}
+What is?{p}{name: 1024}
+I mean,{wait: 8} if you wanted to know{b}
+the time,{wait: 8} you could just look{b}
+at the phone itself.{p}{name: 1280}{speed: 4}
+Hey,{wait: 12} {speed: 3}you're right!{wait: 16}{b}{0x76: 0 4}{bgcolor: 2305 8 31}
+Sharp,{wait: 8} Apollo!{p}{name: 1024}{speed: 3}
+Th-{wait: 8}Thanks.{wait: 16}{b}{speed: 4}{color: 2}
+(Finally,{wait: 12} some respect!){color: 0}{p}{name: 1280}{0x76: 0 5}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+So,{wait: 8} what does that tell you?{p}{name: 1024}{speed: 3}
+Well,{wait: 8} the owner of this{b}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+phone doesn't think through{b}
+the details,{wait: 8} for one.{p}{name: 1280}{0x76: 0 3}{speed: 3}
+They did drop their phone,{wait: 8}{b}
+after all.{p}{0x76: 0 4}
+I kinda figured they were{b}
+a little spacey already.{p}{name: 1024}{bgcolor: 2305 8 31}
+Oh...{wait: 16} good point.{nextpage_button}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{name: 1280}{hidetextbox: 0}{0x76: 0 3}{speed: 3}Why does this envelope{b}
+say "Hit Request"?{p}{name: 1024}{speed: 3}
+Um...{wait: 16} it's a bit of lingo.{b}
+Like{wait: 6} "call in a hit",{wait: 6} or a{wait: 6}{b}
+"hit man"{wait: 6}...{p}{name: 1280}{0x76: 0 1}
+Ooh,{wait: 8} you mean gangster-talk!?{0x76: 0 3}{p}{speed: 3}
+So,{wait: 6} so,{wait: 6} does{wait: 6} "hit"{wait: 6} mean{wait: 6}{b}
+"to defend"{wait: 6} in gangster-ese?{wait: 16}{b}
+Well,{wait: 10} "hit man"?{p}{name: 1024}
+I certainly hope not{speed: 8}...{wait: 16}{b}{speed: 3}{color: 2}
+(Something tells me she used{b}
+the wrong envelope...){p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}Hmm.{wait: 16} The bottle has a label{b}
+on it.{p}{name: 1280}{0x76: 0 2}{speed: 3}
+Can you read it?{p}{name: 1024}
+Uh,{wait: 8} not a word.{wait: 16} I'm not sure{b}
+I speak whatever language this{b}
+is written in.{p}{name: 1280}{0x76: 0 3}
+That's too bad.{wait: 16} {speed: 4}I guess we're{b}
+stuck with this mysterious{b}
+bottle of white powder...{p}{speed: 3}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}The label reads "Fingerprint{b}
+Powder" in some strange{b}
+language.{p}{name: 1280}{0x76: 0 3}{speed: 4}
+How do we know for sure?{p}{0x76: 0 6}{speed: 2}
+What if this is really a{b}
+jar for something else,{wait: 10} like{b}
+jam,{wait: 8} or honey?{p}{name: 1024}
+Why would anyone go through{b}
+the trouble?{p}{name: 1280}{0x76: 0 5}{speed: 2}
+Well,{wait: 12} so the police don't{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+find out,{wait: 8} that's why!{p}{name: 1024}{speed: 3}
+I hardly think possessing{b}
+fingerprint powder{b}
+is a crime.{p}{name: 1280}{0x76: 0 3}
+Oh,{wait: 12} {speed: 4}huh,{wait: 8} I guess.{wait: 16}{b}{speed: 3}
+That's boring.{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{name: 1280}{hidetextbox: 0}{0x76: 0 7}{speed: 4}These bloomers sure have a...{wait: 12}{b}
+distinct design!{p}{name: 1024}
+You certainly know who they{b}
+belong to at a glance.{p}{name: 1280}{0x76: 0 4}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+That way,{wait: 8} she doesn't have to{b}
+write her name on them!{p}{bgcolor: 2305 8 31}{speed: 2}
+Genius!{p}{name: 1024}{speed: 4}
+...{wait: 20}I would think writing your{b}
+name would be easier than{b}
+drawing a plum blossom.{p}{speed: 3}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{endjmp}
+
+{{21}}
+{bop}{hidetextbox: 0}{name: 2304}{0x76: 0 24}{bgcolor: 2305 8 31}{speed: 2}Well!{wait: 12} {speed: 3}First you need to choose{b}
+the fingerprint to analyze.{p}{name: 1024}{speed: 4}
+Choose...?{p}{name: 2304}{0x76: 0 23}
+Look at the knife handle!{p}{0x76: 2 0}{hidetextbox: 1}{endjmp}
+
+{{22}}
+{bop}{name: 2304}{hidetextbox: 0}See how there's more than{b}
+one print?{p}{name: 1280}{0x76: 1 2}{sound: 51 1}{bgcolor: 2305 8 31}
+Wow!{wait: 16} {speed: 2}All the prints show up{b}
+as black spots!{p}{0x76: 2 0}{name: 2304}{0x76: 0 16}{speed: 3}
+Just choose the one you want{b}
+to analyze!{p}{hidetextbox: 1}{endjmp}
+
+{{23}}
+{bop}{endjmp}
+
+{{24}}
+{bop}{0x74: 9 0}{special_jmp}{endjmp}
+
+{{25}}
+{bop}{endjmp}
+
+{{26}}
+{bop}{endjmp}
+
+{{27}}
+{bop}{endjmp}
+
+{{28}}
+{bop}{endjmp}
+
+{{29}}
+{bop}{name: 1280}{0x76: 0 7}{speed: 3}So,{wait: 8} the defendant's prints{b}
+are on this knife...{p}{name: 1024}{speed: 3}
+That would mean he was here{b}
+the night of the crime.{p}{name: 1280}{0x76: 0 5}{speed: 3}
+That's what I call irrefutable{b}{bgcolor: 2305 8 31}{shake: 30 1}
+scientific evidence!{wait: 16} Neat!{p}{name: 1024}{speed: 3}
+Not so neat when it happens{b}
+to be evidence against our{b}
+client...{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{30}}
+{bop}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}Whoa!{wait: 12} Don't point that thing{b}{shake: 30 0}
+at me!{p}{name: 1280}{0x76: 0 6}{speed: 3}
+Don't worry!{wait: 16} I can handle{b}
+myself around guns.{p}{0x76: 0 1}
+Magic guns,{wait: 8} at least.{wait: 16} The ones{b}
+that pigeons come out of.{p}{name: 1024}{speed: 4}
+...{wait: 20}Very reassuring.{speed: 255}{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{31}}
+{bop}{name: 1280}{hidetextbox: 0}{0x76: 0 1}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}Huh?{wait: 12} Look at this,{wait: 12} Apollo!{wait: 16}{b}
+Mr. Eldoon spelled his name{b}
+backwards on this side!{p}{name: 1024}
+Um,{wait: 8} I think that says{wait: 8}{b}
+"Noodle".{p}{0x76: 0 3}
+As in "Eldoon's Noodles".{p}{name: 1280}{speed: 2}
+Huh{speed: 5}...{b}{0x76: 0 4}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oh,{wait: 12} I get it!{nextpage_button}{0x76: 0 6}{speed: 3}
+So the name of his store is{b}
+the same whether you read it{b}
+forward or backwards!{nextpage_button}{name: 1024}{speed: 5}
+Yeah...{wait: 20} {speed: 3}I guess it would be.{wait: 16}{b}
+Well,{wait: 8} except for the last{b}
+"'s".{nextpage_button}{name: 1280}{0x76: 0 3}{speed: 8}
+..{speed: 10}{shake: 30 0}..{speed: 12}..{wait: 12}{b}{speed: 4}
+Then,{wait: 10} how about a store called {wait: 45}{b}{0x76: 0 4}{sound: 52 1}{bgcolor: 2305 8 31}
+"Team Meat"?{nextpage_button}{name: 1024}{speed: 4}
+Uh,{wait: 6} close,{wait: 8} but that would be{wait: 25}{b}
+"Taem Maet"{wait: 8} backwards.{wait: 16} And{b}
+what kind of store is that?{nextpage_button}{0x76: 0 6}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Why,{wait: 8} a store that sells{b}
+meat!{wait: 16} "It's not meat,{wait: 8} unless{b}
+it's Team Meat!"{speed: 255}{nextpage_button}{0x76: 2 0}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{32}}
+{bop}{0x51: 0 14}{1280}{hidetextbox: 0}{0x76: 0 2}{speed: 3}Hey,{wait: 8} Apollo!{wait: 16}{b}
+You think this is{speed: 8}...?{p}{name: 1024}{speed: 4}
+Huh...{wait: 12}{b}{speed: 3}
+This could be a {sound: 51 1}{bgcolor: 2305 8 31}{color: 1}toe print{color: 0}.{p}{name: 1280}{0x76: 0 4}{speed: 2}
+Maybe we can get a print{b}
+off of this!{p}{name: 1280}{0x76: 0 5}{bgcolor: 2305 8 31}{shake: 30 0}
+Let's try it out!{p}{bganim: 98 579}{hidetextbox: 1}{0x74: 9 2}{special_jmp}{endjmp}
+
+{{33}}
+{bop}{endjmp}
+
+{{34}}
+{bop}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{35}}
+{bop}{endjmp}
+
+{{36}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}So,{wait: 10} we have a toe print now.{p}{name: 1280}{0x76: 0 3}{speed: 3}
+I'm not sure what good it's{b}
+going to do us without a list{b}
+of toe prints to check it on.{p}{name: 1024}{color: 2}
+(Maybe our detective friend{b}
+can help us...){color: 0}{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{37}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}The toe prints match...{p}
+Which means the sandals and{b}
+the slippers were worn by{b}
+the same person.{p}{speed: 3}
+If only we knew who these{b}
+sandals belonged to...{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{38}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}{color: 2}(If these sandals belong{b}
+to Ms. Tiala...){p}
+(...{wait: 20}then is this print hers,{wait: 8}{b}
+too?){color: 0}{p}{name: 1280}{0x76: 0 1}
+Something wrong?{p}{name: 1024}
+No...{wait: 10} Nothing.{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{39}}
+{bop}{name: 1280}{0x76: 0 4}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}She put a little heart by{b}
+her name!{wait: 16} {speed: 3}How cute!{p}{name: 1024}{speed: 3}
+Isn't she a little old for{b}
+cute?{p}{name: 1280}{0x76: 0 9}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Apollo!{wait: 16} Shame on you!{wait: 12} {speed: 3}Cute{b}
+is eternal!{wait: 16} Cute is timeless!{wait: 15}{p}{0x76: 0 5}{speed: 2}
+No matter how old a woman gets{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+she always carries a little{b}
+innocent maiden inside her!{p}{name: 1024}{speed: 4}
+...{wait: 16}R-{wait: 8}Really now.{wait: 16} I suppose.{b}{speed: 3}
+I've never heard it put quite{b}
+that way before.{p}{name: 1280}{0x76: 0 4}
+When I sign my name,{wait: 8} I always{b}
+put in a little diamond!{p}{speed: 4}
+"Trucy {color: 2}{1954}{color: 0} {wait: 6}Wright"...{wait: 26}{b}
+See?{wait: 20} Cute,{wait: 8} don'tcha think?{p}{name: 1024}{speed: 4}
+It's a little confusing.{wait: 25}{b}{speed: 3}
+Won't people think your{b}
+middle name is diamond?{p}{name: 1280}{0x76: 0 6}{speed: 3}
+Hey!{wait: 20} You could write your{b}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+name like "Apollo {color: 1}{408}{color: 0}{wait: 12} Justice"!{p}{name: 1024}{speed: 3}
+I do like justice,{wait: 8} but that's{b}
+taking it a bit far.{nextpage_button}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{40}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}The bulb is broken.{wait: 16}{b}
+It won't turn on.{p}{name: 1280}{0x76: 0 6}{speed: 4}
+Oh?{wait: 10} {speed: 3}How is it broken...?{p}{name: 1024}
+Don't touch that.{wait: 16} You'll{b}
+cut yourself.{p}{name: 1280}{0x76: 0 2}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Eeeek!{p}{name: 1024}{speed: 3}
+Yeah,{wait: 8} yeah,{wait: 8} fool me once,{wait: 8}{b}
+shame on me,{wait: 8} fool me twice{speed: 8}...{nextpage_nobutton}{name: 1280}{0x76: 0 10}{bgcolor: 2305 8 31}{speed: 4}
+M-{wait: 12}{shake: 30 0}My finger!{p}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{shake: 30 1}{speed: 2}
+Ack!{wait: 16} Y-{wait: 8}{speed: 4}You're bleeding!{wait: 10}{b}
+Let me see that...{p}{0x76: 0 1}{speed: 5}
+.{speed: 6}.{speed: 7}..{speed: 8}..{b}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Wait.{p}{name: 1280}{0x76: 0 4}{speed: 3}
+...{wait: 16}Magic blood!{wait: 16} Tee hee!{wait: 16}{b}
+Gotcha!{p}{name: 1024}{speed: 6}
+...{wait: 16}{speed: 4}Please don't do that again.{p}{speed: 3}
+I have enough to worry about{b}
+without my co-workers injuring{b}
+themselves on the evidence.{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{41}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}This cord runs to the lamp.{wait: 16}{b}
+It has a red stain on it.{p}
+Hmm...{wait: 10} Gotta wonder what left{b}
+that stain.{p}{name: 1280}{0x76: 0 6}
+Wait,{wait: 8} I know!{wait: 16} Maybe it was{b}
+left there by a red marker!{p}
+Like,{wait: 16} they were trying to{b}
+write their name,{wait: 10} and slipped.{p}{name: 1024}
+Why would anyone write their{b}
+name on a lamp cord?{p}{name: 1280}{0x76: 0 3}
+I used to write my name on{b}
+my magic ropes...{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{42}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}This cord runs to the lamp.{wait: 16}{b}
+It has a red stain on it.{p}
+Ms. Tiala's lipstick,{wait: 8} no{b}
+doubt.{p}{0x76: 0 1}{name: 1280}
+Ah,{wait: 8} the sweet touch of her{b}
+lips!{wait: 16} A tender kiss!{nextpage_button}{name: 1024}{speed: 4}
+...{wait: 8}{speed: 3}I'm inclined to say that's{b}
+not quite the case, given what{b}
+happened with this lamp.{nextpage_button}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{43}}
+{bop}{name: 1280}{0x76: 0 2}{hidetextbox: 0}{speed: 3}Wow!{wait: 12}{b}{speed: 2}
+It's all mushed!{p}{name: 1024}{speed: 3}
+That was one tough safe.{p}{name: 1280}{0x76: 0 1}{speed: 3}
+You know,{wait: 10} it looks kinda{b}
+yummy.{p}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}
+...Huh?{p}{name: 1280}{0x76: 0 4}
+...{wait: 20}Like ice cream!{wait: 16} Mmm-mmm!{wait: 16}{b}
+Caramel!{p}{name: 1024}{speed: 4}
+You certainly have an active{b}
+imagination,{wait: 8} Trucy.{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}

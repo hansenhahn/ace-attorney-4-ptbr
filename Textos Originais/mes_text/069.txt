@@ -1,0 +1,293 @@
+
+
+{{0}}
+{bop}{person: 0 0 0}{0x26: 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}July 9,{wait: 8} 5:53 PM{b}
+Hickfield Clinic{b}
+Waiting Room{color: 0}{nextpage_button}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 30}{person: 5 84 83}{name: 1280}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Ema!{wait: 12} {speed: 4}How's Lamiroir?{wait: 16}{b}
+Is she OK?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+Ah,{wait: 6} you.{wait_noanim: 30} {person: 9 239 238}{speed: 4}We all owe you a big{b}
+"thanks",{wait: 8} that's for sure.{nextpage_button}{person: 5 96 95}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+So{speed: 7}...{0x5a}{wait: 20}{0x59} {speed: 3}she's OK?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 246 245}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Yes.{wait: 20} She came to a short{b}
+while ago.{p}{person: 9 233 232}{speed: 3}
+You found her before it was{b}
+too late.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+Th-That's good to hear...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 4}
+So,{wait: 8} what happened!?{nextpage_button}{person: 9 235 234}{name: 2304}{speed: 4}
+Someone attacked her.{wait: 16}{b}{speed: 8}{0x5a}
+...{wait: 18}{0x59}{speed: 4}She was struck on the{b}
+forehead.{nextpage_button}{person: 9 234 234}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+By who!?{wait: 18}{nextpage_button}{person: 9 239 238}{name: 2304}{speed: 4}
+We don't know.{0x5a}{wait: 18}{0x59}{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+But they hit her on the{b}
+forehead,{wait: 6} right?{wait: 18} {shake: 30 0}{speed: 2}That's{b}
+right in front of her!{p}{person: 5 96 95}{speed: 4}
+How could she not see{speed: 8}{0x5a}...{wait: 18}{0x59} {person: 5 82 81}{sound: 51 1}{bgcolor: 2305 8 31}Oh.{b}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 239 238}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 4}
+Right.{wait: 20} {person: 9 233 232}Would you like to see{b}
+her now?{nextpage_button}{person: 9 232 232}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Is that alright?{nextpage_button}{person: 9 233 232}{name: 2304}{speed: 3}
+She wants to thank you for{b}
+saving her life.{nextpage_button}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{fademusic: 120}{person: 34 746 746}{bgcolor: 260 1 31}{wait: 25}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Lamiroir!{nextpage_button}{person: 34 748 746}{name: 8704}{speed: 4}
+Ah,{wait: 12} Mr. Attorney.{wait: 16} You were{b}
+the one who found me?{p}
+Thank you from the bottom{b}
+of my heart.{nextpage_button}{person: 34 746 746}{name: 1024}{speed: 3}
+I-{wait: 10}{speed: 4}I'm just glad you're OK.{p}{speed: 3}
+Tell me,{wait: 12} {bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}what happened?{b}{nextpage_button}{person: 34 760 760}{name: 8704}{speed: 8}
+......{nextpage_button}{fademusic: 0}{music: 33 0}{0x10: 33121}{0x33: 0 1 18 9 2}{0x60: 0 1 13 12 2}{0x61: 0 25 16 15 23}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{name: 1024}{person: 34 746 746}{fademusic: 120}{speed: 4}{color: 2}({color: 1}Cocoon smuggling{color: 2}{speed: 8}...){p}{speed: 4}
+(And Mr. LeTouse had Lamiroir{b}
+marked{speed: 8}...{wait: 20} Hmm...){color: 0}{p}{shake: 30 0}
+...{wait: 20}{speed: 5}It couldn't be her.{nextpage_button}{name: 1280}{person: 5 75 75}
+Huh?{nextpage_button}{name: 1024}{person: 5 75 75}{sound: 51 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 18 0}{shake: 30 0}{speed: 4}{color: 2}
+(There's one other person I{b}
+need to talk to!){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 746 746}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Thank you for talking to us,{wait: 8}{b}
+Lamiroir!{nextpage_button}{name: 8704}{person: 34 748 746}{speed: 4}
+It was the least I could do.{nextpage_button}{name: 1024}{person: 34 746 746}{speed: 4}
+Actually,{wait: 8} I have another{b}
+request.{p}{name: 8704}{person: 34 757 755}
+If it is within my power{speed: 8}{0x5a}...{p}{name: 1024}{person: 34 755 755}{speed: 3}
+I need an {bgcolor: 2305 8 31}{color: 1}interpreter{color: 0}.{wait: 12}{b}{speed: 4}
+Someone who speaks Borginian.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Apollo{speed: 8}...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 8704}{person: 34 751 751}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 8}
+......{p}{name: 1024}{speed: 4}
+Would you come with us,{wait: 8} if{b}
+you're well enough?{p}{name: 8704}{person: 34 757 755}{speed: 5}
+I see{speed: 8}{wait: 10}{0x5a}...{wait: 20}{0x59} {speed: 3}Yes,{wait: 15} yes of course.{wait: 24}{b}{person: 34 748 746}
+I shall accompany you.{p}{name: 1280}{person: 5 82 81}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Huh?{wait: 12} Where are we going?{p}{person: 5 81 81}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+C'mon,{wait: 10} Trucy.{wait: 16} We're about to{b}
+get to the bottom of this!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 4095}{person: 0 0 0}{0x10: 33167}{0x37: 2 0}{0x37: 17 1}{fadetoblack: 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{person: 0 0 0}{name: 1024}A nurse watches,{wait: 6} hawk-like,{wait: 10}{b}
+from the reception desk.{p}
+She glares at me whenever I{b}
+talk.{wait: 16} Maybe my voice carries?{p}{jmp: 134}{endjmp}
+
+{{3}}
+{bop}{person: 0 0 0}{name: 1024}{speed: 3}Some visitors are here in the{b}
+waiting room,{wait: 6} watching TV.{p}{name: 14848}
+"{color: 3}...murder during a concert{b}
+at Sunshine Coliseum{speed: 8}...{color: 0}"{p}{name: 1024}{bgcolor: 2305 8 31}{speed: 3}
+Huh,{wait: 12} looks like we're on the{b}
+news.{p}{name: 14848}{speed: 3}
+"{color: 3}...with his current hit song,{wait: 6}{b}
+"Guilty Love", is in the{b}
+courtroom as prosecutor{speed: 8}...{color: 0}"{p}{speed: 3}
+"{color: 3}...singing the defendant{b}
+all the way to death row{speed: 8}...{color: 0}"{p}{name: 1024}{speed: 8}
+......{p}{speed: 3}
+Prosecutor {bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}Gavin this,{wait: 6} {b}
+Prosecutor Gavin that!{wait: 20}{b}
+Where's my fifteen minutes!?{p}{name: 14848}
+"{color: 3}...The Guitar's Serenade...{wait: 20}{b}
+On sale now!{color: 0}"{p}{jmp: 134}{endjmp}
+
+{{4}}
+{bop}{name: 1024}{speed: 3}That must be a recovering{b}
+patient.{p}{speed: 4}
+He keeps staring at us.{p}
+What's so unusual about an{b}
+attorney and a magician?{nextpage_button}{jmp: 134}{endjmp}
+
+{{5}}
+{bop}{name: 1024}{speed: 3}The door down the hall reads{b}
+"X-ray Room".{p}{speed: 4}
+I never did like X-rays{speed: 8}...{wait: 18}{b}{speed: 3}
+I don't think I'd enjoy{b}
+looking at someone's insides.{p}{speed: 4}
+Spotting nervous tics is{b}
+intense enough.{p}{jmp: 134}{endjmp}
+
+{{6}}
+{bop}{0x51: 1 53}{36609}{testimony_animation: 28}{b}{personvanish: 3 1}{person: 34 746 746}{wait: 16}{hidetextbox: 3}{special_jmp}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{person: 34 748 746}{name: 8704}{hidetextbox: 0}{speed: 4}It was after I spoke with you{b}
+in front of the dressing room.{p}
+I sensed someone approaching.{nextpage_button}{person: 34 757 755}
+I thought it might be someone{b}
+come to see me,{wait: 8} but they{b}
+said nothing.{p}{person: 34 762 760}{speed: 4}
+When I went to return to my{b}
+dressing room{speed: 8}{0x5a}...{nextpage_button}{person: 34 760 760}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{0x5a}
+...{wait: 20}{0x59}{speed: 4}You were hit?{nextpage_button}{person: 34 748 746}{name: 8704}{speed: 4}
+I knew,{wait: 8} that very moment,{wait: 8}{b}
+I knew!{p}
+The assailant{0x5a}...{wait: 18}{0x59} was trying{b}
+to kill me.{nextpage_button}{person: 5 84 83}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 4}
+Ack!{wait: 16}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 8704}{person: 34 757 755}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+It was lucky for me the first{b}
+blow did not knock me out.{p}
+I turned and ran for the{b}
+stage.{p}
+Someone was chasing me,{wait: 8}{b}
+I could hear footsteps{speed: 8}{0x5a}...{p}{speed: 4}
+Yet I reached the stage first.{nextpage_button}{person: 34 755 755}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Why the stage?{nextpage_button}{person: 34 753 751}{name: 8704}{speed: 4}
+I had overheard maintenance{b}
+people talking.{p}{speed: 4}
+The power to the stage area{b}
+was off,{wait: 8} they said,{wait: 8} for{b}
+electrical work.{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Ah{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 748 746}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 4}
+Darkness is my ally.{p}{0x5f: 3 1 31}{bg: 142}{person: 0 0 0}
+There was a contrabass case{b}
+near the stage.{p}{speed: 4}
+That is where I hid.{nextpage_button}{0x5f: 4 1 1}{bg: 238}{person: 34 746 746}{name: 1024}{bgcolor: 2305 8 31}{speed: 3}
+So the assailant couldn't{b}
+see you!{nextpage_button}{person: 34 762 760}{name: 8704}{speed: 4}
+Once in the case{0x5a}...{wait: 18} {0x59}I'm afraid{b}
+I passed out.{nextpage_button}{person: 34 760 760}{name: 1024}{speed: 3}
+Wow,{wait: 10} that sounds like a really{b}
+close call.{nextpage_button}{0x51: 1 53}
+{25089}{2132}{0x10: 33122}{0x35: 25344 @RelativeAddress0}{0x35: 25856 @RelativeAddress1}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress0}{@RelativeAddress1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 4}Do you have any idea who it{b}
+might have been?{nextpage_button}{name: 8704}{person: 34 753 751}{speed: 4}
+Unfortunately,{wait: 8} no.{wait: 16} Whoever it{b}
+was,{wait: 8} they said not a word.{nextpage_button}{name: 1024}{person: 34 751 751}{speed: 3}
+Too bad{speed: 8}{0x5a}...{nextpage_button}{name: 8704}{person: 34 757 755}{speed: 4}
+Yet,{wait: 8} when I consider that I{b}
+was struck high on the{b}
+forehead{0x5a}...{p}{speed: 4}
+I must conclude that whoever{b}
+hit me was taller than I am.{nextpage_button}{name: 1024}{person: 34 755 755}{speed: 4}
+Good point{speed: 8}{0x5a}...{wait: 18}{b}{speed: 3}{color: 2}
+(She's sharp!){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+And you're much taller than{b}
+I am.{p}{speed: 3}
+You're about as tall as{b}
+Apollo.{nextpage_button}{name: 1024}{person: 5 75 75}{speed: 3}
+So,{wait: 6} that means it was likely{b}
+an adult,{wait: 8} and probably a man.{nextpage_button}{speed: 8}{color: 2}
+(...{wait: 18}{speed: 4}Could it be {bgcolor: 2305 8 31}{color: 1}him{color: 2}!?){b}{color: 0}{nextpage_button}{name: 1280}{person: 5 91 90}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+But why would anyone attack{b}
+you,{wait: 6} Lamiroir!?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 8704}{person: 34 762 760}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+The detective asked me this,{wait: 8}{b}
+too.{p}{speed: 4}
+And to her I gave the same{b}
+answer I give you: I do not{b}
+know.{nextpage_button}{name: 1024}{person: 34 760 760}{speed: 3}
+Hmm...{nextpage_button}{0x51: 1 53}
+{25345}{1502}{0x10: 33123}{0x35: 25088 @RelativeAddress2}{0x35: 25856 @RelativeAddress3}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress2}{@RelativeAddress3}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{person: 34 748 746}{name: 8704}{hidetextbox: 0}{speed: 4}Well,{wait: 8} they call it{wait: 6}{b}
+"{color: 1}Borginian{color: 0}"{0x5a}...{p}{person: 34 757 755}{speed: 4}
+It must only be found in{b}
+Borginia.{p}
+For certain,{wait: 6} all in Borginia{b}
+know of these.{nextpage_button}{name: 1280}{person: 5 76 75}
+It's a cocoon{0x5a}...{wait: 18}{0x59} so,{wait: 10} {person: 5 68 67}{sound: 51 1}{bgcolor: 2305 8 31}do you{b}
+get silk from it?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 757 755}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 4}
+I do not know the details,{wait: 6}{b}
+I am sorry to say.{nextpage_button}{person: 34 755 755}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}{color: 2}
+(I thought she said all in{b}
+Borginia knew of these?){color: 0}{nextpage_button}{person: 34 748 746}{name: 8704}{speed: 4}
+There is one fact I do know{b}
+about the cocoon,{wait: 8} though.{p}{speed: 4}
+Something all in Borginia{b}
+know.{nextpage_button}{person: 34 746 746}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}{0x5a}
+...{wait: 20}{0x59}What's that?{nextpage_button}{person: 34 753 751}{name: 8704}{speed: 4}
+The {color: 1}cocoons{color: 0}{0x5a}...{0x59} They are not to{b}
+be taken out of the country.{nextpage_button}{person: 34 748 746}{speed: 4}
+If someone does,{wait: 8} and is{b}
+caught,{wait: 10} they will be {color: 1}put{b}
+to {bgcolor: 2305 8 31}death{color: 0}.{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+T-{wait: 6}{bgcolor: 2305 8 31}T-{wait: 6}{bgcolor: 2305 8 31}T-{wait: 6}{bgcolor: 2305 8 31}To {color: 1}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}death{color: 0}!?{wait_noanim: 20}{nextpage_button}{person: 5 81 81}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Why!?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 748 746}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 3}
+I do not know.{nextpage_button}{person: 34 757 755}{speed: 4}
+Yet,{wait: 6} if Interpol was{b}
+involved{speed: 8}{0x5a}...{p}{speed: 4}{0x5a}
+...{wait: 20}{0x59}I'm sure there is a{wait: 4} {color: 1}good{b}
+reason{color: 0}.{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{showphoto: 140}{speed: 2}
+But this is {shake: 30 0}just a piece of{b}
+plastic!{nextpage_button}{bganim: 98 579}{person: 5 95 95}{name: 1024}{speed: 4}
+He was carrying a{wait: 8} {color: 1}replica{color: 0}{speed: 8}...{wait: 20}{b}{speed: 4}
+but looking for the {color: 1}real deal{color: 0}.{p}{speed: 3}
+That's my best guess.{nextpage_button}{person: 5 84 83}{name: 1280}{shake: 30 0}{speed: 3}
+So,{wait: 6} that's what he was up to?{nextpage_button}{person: 5 83 83}{name: 1024}{speed: 4}
+Tracking down {bgcolor: 2305 8 31}{color: 1}Borginian{b}
+Cocoon smuggling{color: 0}...{nextpage_button}{person: 5 84 83}{name: 1280}{speed: 4}
+Smuggling...{nextpage_button}{0x10: 33124}{0x37: 4 0}{0x37: 5 1}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 746 746}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{person: 34 748 746}{name: 8704}{hidetextbox: 0}{speed: 4}It seems I was "marked".{nextpage_button}{person: 5 76 75}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+"Marked"...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 753 751}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 4}
+Life changed for me with the{b}
+popularity of my songs.{p}{speed: 4}
+I began to travel around{b}
+the world.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Ah!{wait: 10} So you could have brought{b}
+those {color: 1}Borginian Cocoons{color: 0} with{b}
+you{0x5a}...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 753 751}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}
+...{wait: 12}{speed: 4}On my trips,{wait: 8} yes.{wait: 16} That was{b}{person: 34 748 746}
+probably the suspicion.{nextpage_button}{person: 34 746 746}{name: 1024}{speed: 3}
+And Mr. LeTouse was placed{b}
+as an undercover agent to{b}
+look into it.{nextpage_button}{person: 34 762 760}{name: 8704}{speed: 4}
+Borginia is a small,{wait: 6} sheltered{b}
+country.{nextpage_button}{person: 34 748 746}{speed: 4}
+Not many of our people venture{b}
+into the world outside.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+Is that why they suspected{b}
+you?{nextpage_button}{person: 5 75 75}{name: 1024}{speed: 4}
+But{0x5a}...{wait: 18}{0x59}{speed: 3} Mr. LeTouse wasn't a{b}
+Borginian,{wait: 8} was he.{p}{speed: 3}
+He was an Interpol agent,{wait: 18}{b}
+which means{speed: 8}{0x5a}...{nextpage_button}{person: 5 96 95}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+What,{wait: 12} Apollo?{nextpage_button}{person: 5 95 95}{name: 1024}{speed: 4}
+Well,{wait: 8} there must have been{b}
+some reason other countries{b}
+didn't want the {color: 1}cocoons{color: 0} out.{p}{speed: 3}
+Something scary enough to get{b}
+Interpol involved.{nextpage_button}{person: 5 82 81}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 4}
+Huh?{wait: 12} Like what?{p}{speed: 3}
+How could such a tiny ball of{b}
+thread cause such a commotion?{nextpage_button}{0x51: 1 53}
+{25857}{2040}{0x10: 33125}{0x35: 25088 @RelativeAddress4}{0x35: 25344 @RelativeAddress5}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress4}{@RelativeAddress5}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 746 746}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{person: 34 746 746}{name: 1024}{bgcolor: 2305 8 31}{speed: 3}Ah,{wait: 8} Lamiroir,{wait: 10} I wanted to{b}
+ask you about this.{p}{showphoto: 140}{speed: 4}
+Do you know what this is?{nextpage_button}{person: 34 767 766}{name: 8704}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+This{speed: 8}{wait: 8}{0x5a}...{wait: 12}{0x59}{speed: 4} this is what?{nextpage_button}{person: 34 766 766}{name: 1024}{speed: 3}
+Mr. LeTouse was carrying it.{nextpage_button}{speed: 3}
+It's a replica of the thing{b}
+he was after.{nextpage_button}{person: 34 757 755}{name: 8704}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+He was "after"{speed: 8}{0x5a}...?{nextpage_button}{bganim: 98 579}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+You know,{wait: 8} in his secret{b}
+identity!{p}{person: 5 74 73}{speed: 3}
+As an {color: 1}undercover agent{color: 0}!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 753 751}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 8}{0x5a}
+...{wait: 20}{0x59}{speed: 5}So that's what he was{b}
+doing.{nextpage_button}{person: 34 751 751}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}
+...!{b}{speed: 3}
+You mean,{wait: 8} you know what...{nextpage_button}{person: 34 748 746}{name: 8704}{speed: 4}
+Yes,{wait: 8} I know,{wait: 12} of course.{wait: 16}{b}
+This must be{speed: 8}{0x5a}...{p}{bgcolor: 2305 8 31}{speed: 4}{0x5a}
+...{wait: 20}{0x59}a {color: 1}Borginian Cocoon{color: 0}.{nextpage_button}{person: 34 757 755}{speed: 8}{0x5a}
+...{wait: 18}{0x59}{speed: 4}Or rather a convincing{b}
+replica thereof.{nextpage_button}{0x19: 140 141}{person: 34 755 755}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}{color: 2}
+(Why haven't I heard of a{b}
+Borginian Cocoon before?){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+Why would he be carrying this{b}
+around?{wait: 20} {person: 5 96 95}Was it some kind of{b}
+souvenir?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 748 746}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 4}
+I wonder{speed: 8}{0x5a}...{nextpage_button}{0x51: 1 53}
+{26113}{1660}{0x10: 33126}{0x37: 3 0}{0x37: 4 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{name: 8704}{person: 34 762 760}{speed: 4}I'm sorry,{wait: 6} I'm not quite{b}
+recovered from the attack{speed: 8}{0x5a}...{p}{name: 1024}{person: 34 760 760}{speed: 3}{color: 2}
+(She looks like she's had{b}
+a rough day{speed: 8}...){p}{speed: 3}
+(I'll just put this piece of{b}
+evidence away for later.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}

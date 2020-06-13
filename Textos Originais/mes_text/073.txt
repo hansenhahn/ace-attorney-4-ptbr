@@ -1,0 +1,760 @@
+
+
+{{0}}
+{bop}{name: 1024}A trash can sits next to the{b}
+path here.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{wait: 16}{name: 1280}{person: 5 76 75}{hidetextbox: 0}{showphoto: 67}
+And I guess now we know it was{b}
+Mr. Stickler who hid Little{b}
+Plum's bloomers here, huh?{nextpage_button}{name: 1024}
+That's right,{wait: 8} Trucy.{wait: 16} And what{b}
+a web of lies grew from that{b}
+one little act.{nextpage_button}{removephoto}{name: 1280}{person: 5 68 67}
+I can still remember that{b}
+moment...{nextpage_button}{name: 1280}{person: 5 96 95}
+You brandished those bloomers{b}
+on high,{wait: 6} and shouted...{b}{shake: 30 0}{bgcolor: 2305 8 31}
+"Objection!"{nextpage_button}{name: 1024}
+...{wait: 20}Here's what I want you to{b}
+do,{wait: 8} Trucy.{nextpage_button}{person: 5 81 81}{speed: 3}
+Take that memory,{wait: 8} gently{b}
+lock it away deep in your{b}
+heart,{wait: 8} and never speak of it.{nextpage_button}{0x35: 39168 @RelativeAddress0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{hidetextbox: 3}{special_jmp}{@RelativeAddress0}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{name: 1024}{person: 0 0 0}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}A knife is sticking straight{b}
+into the ground.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{wait: 16}{name: 1024}{person: 5 75 75}{hidetextbox: 0}{speed: 3}
+Remember what{wait: 8} Wesley Stickler{b}
+said in the trial today...{p}{showphoto: 70}
+Wocky was very likely pointing{b}
+this at the victim.{p}{name: 1280}{person: 5 84 83}
+...{wait: 20}Like he wanted to{wait: 6} kill him.{nextpage_button}{removephoto}{name: 1024}{person: 5 83 83}{color: 2}
+(Yeah,{wait: 8} that's the problem.){speed: 255}{color: 0}{nextpage_button}{0x35: 39168 @RelativeAddress1}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{hidetextbox: 3}{special_jmp}{@RelativeAddress1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{person: 0 0 0}{name: 1024}{showphoto: 46}Poor Mr. Eldoon.{wait: 16} His stand's{b}
+been standing here since this{b}
+whole thing started.{p}{hidetextbox: 1}{removephoto}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{name: 1280}{person: 5 68 67}{hidetextbox: 0}
+It almost looks at home here{b}
+in the park now.{p}{person: 5 76 75}
+I think it should be made into{b}
+a playhouse for children!{nextpage_button}{name: 1024}
+I think its owner would{b}
+disagree.{nextpage_button}{0x35: 39168 @RelativeAddress2}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{hidetextbox: 3}{special_jmp}{@RelativeAddress2}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{person: 0 0 0}{name: 1024}A mannequin put in place of{b}
+the body.{wait: 16} I think I've seen{b}
+him by the police station.{p}
+The way he's forced to look at{b}
+the ground now, day in and day{b}
+out...{wait: 20} It's kind of sad.{nextpage_button}{0x35: 39168 @RelativeAddress3}{personvanish: 3 1}{person: 9 232 232}{wait: 16}{@RelativeAddress3}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{person: 0 0 0}{name: 1024}Blue plastic tarps cover the{b}
+ground around the stand.{p}
+They were apparently put here{b}
+to preserve the crime scene.{p}{0x35: 39168 @RelativeAddress4}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{@RelativeAddress4}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{person: 0 0 0}{name: 1024}Benches line the river running{b}
+through the park.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{name: 1280}{person: 5 68 67}{hidetextbox: 0}
+Ahh,{wait: 8} a{wait: 6} little urban oasis.{p}{person: 5 74 73}
+I bet children come here to{b}
+splash around in the water.{p}{name: 1024}{person: 5 73 73}
+That river's a little deep{b}
+for splashing...{wait: 20} and a little{b}
+dirty.{p}{name: 1280}{person: 5 76 75}
+Well,{wait: 8} they could listen to the{b}
+water and pretend they were{b}
+playing.{nextpage_button}{0x35: 39168 @RelativeAddress5}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{wait: 16}{hidetextbox: 3}{special_jmp}{@RelativeAddress5}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{0x26: 0}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16{b}
+People Park{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{name: 1024}{person: 0 0 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Huh?{wait: 10} {speed: 4}Does something about this{b}
+scene look different to you?{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 67 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{person: 5 68 67}{hidetextbox: 0}{speed: 3}
+The blue tarps are gone!{wait: 10}{b}
+Maybe that's it?{p}{name: 1024}{person: 5 67 67}
+Yeah,{wait: 10} I think you're right.{wait: 30}{b}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Look over there.{p}{name: 1280}{person: 5 76 75}{speed: 3}
+The white-frocked detective{b}
+from yesterday.{p}{person: 5 68 67}
+She seems to be apologizing{b}
+reverently...{wait: 20} to the trash{b}
+can.{nextpage_button}{name: 1024}{speed: 4}
+She's...{wait: 20} under a lot of{b}
+stress.{p}{person: 5 75 75}
+The investigation's probably{b}
+not going so well.{p}{name: 2304}{person: 9 235 234}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Hey,{wait: 20} you there!{p}{speed: 3}
+If you're going to talk about{b}
+someone behind their back,{wait: 8}{b}
+do it more quietly,{wait: 8} please!{nextpage_button}{fademusic: 0}{music: 41 0}{name: 1024}{person: 9 234 234}{speed: 3}
+Oh,{wait: 10} Detective Skye.{wait: 12} Hello.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+You seem as gloomy as ever.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 239 238}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+This is miserable!{wait: 10} Miserable!{wait: 16}{b}{speed: 3}
+I just got a new kit, and I{b}
+can't get the stuff to work.{p}
+And everyone's all smiles for{b}
+that glimmerous fop.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Glimmerous...?{wait: 25} {speed: 3}Does she mean{0x5a}{b}{0x59}
+Prosecutor Gavin?{wait: 20}{nextpage_button}{name: 1024}
+More to the point,{wait: 6} doesn't she{b}
+mean{wait: 6} "glamorous"?{nextpage_button}{name: 2304}{person: 9 252 251}{bgcolor: 2305 8 31}
+When he walks his shiny chains{b}
+catch the sun and glimmer in{b}
+my eyes!{wait: 16} It's distracting.{nextpage_button}{person: 9 253 253}{speed: 2}{color: 3}{shake: 30 0}{sound: 182 1}
+MUNCH{wait: 7} {wait: 7}{sound: 183 1}MUNCH{wait: 7} {sound: 182 1}{shake: 30 1}MUNCH{wait: 7} {sound: 183 1}{shake: 30 1}MUNCH{wait: 7}{b}{sound: 182 1}{shake: 30 0}
+MUNCH{wait: 7} {sound: 183 1}MUNCH{wait: 7} {sound: 182 1}{shake: 30 1}MUNCH{wait: 7} {sound: 183 1}{shake: 30 1}MUNCH{wait: 7}{color: 0}{nextpage_button}{person: 9 251 251}{name: 1024}{speed: 4}{color: 2}
+(Speaking of distracting...){color: 0}{nextpage_button}{name: 2304}{person: 9 237 236}{shake: 30 0}{bgcolor: 2305 8 31}{0x5a}
+*sigh*{wait: 12}{0x59}{b}{speed: 3}
+I guess I just have to accept{b}
+the fact that I lack talent.{p}{name: 1024}{person: 9 236 236}{color: 2}
+(Sounds like she's trying out{b}
+some sort of new forensics{b}
+technique...){color: 0}{p}{0x10: 32921}{0x61: 3 0 6 5 255}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{fademusic: 60}{name: 2304}{person: 9 241 240}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}Right,{wait: 5} allow me to explain!{wait_noanim: 25}{b}{person: 9 250 249}{speed: 4}
+Ahem,{wait: 8} one moment...{nextpage_button}{name: 1280}{person: 5 82 81}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+She's reading the instructions{b}
+for her kit...{nextpage_button}{name: 1024}{color: 2}
+(Why does this not fill me{b}
+with confidence?){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+First,{wait: 10} we have to pick the{b}
+footprint, or in this case,{wait: 8}{b}
+shoe print we want to analyze!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{person: 0 0 0}{bg: 92}{littlesprite: 11777}{littlesprite: 12033}{littlesprite: 12289}{fademusic: 0}{music: 4 0}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}
+I've taken the liberty of{b}
+marking all the shoe prints{b}
+in the park.{nextpage_button}{hidetextbox: 1}{0x74: 17 0}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{endjmp}
+
+{{9}}
+{bop}{endjmp}
+
+{{10}}
+{bop}{endjmp}
+
+{{11}}
+{bop}{endjmp}
+
+{{12}}
+{bop}{endjmp}
+
+{{13}}
+{bop}{endjmp}
+
+{{14}}
+{bop}{bganim: 98 514}{hidetextbox: 0}{bg: 230}{name: 1024}{person: 9 232 232}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}So the shoe prints belong to{b}
+Wocky Kitaki after all{speed: 8}...{p}{name: 2304}{person: 9 241 240}{speed: 3}
+He was in the park on the{b}
+night of the crime!{nextpage_button}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Wow!{wait: 16} {speed: 3}I can almost see the{b}
+science at work!{nextpage_button}{fademusic: 0}{music: 41 100}{name: 2304}{person: 9 241 240}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+Don't{bgcolor: 2305 8 31} you love{bgcolor: 2305 8 31} it!?{wait: 12}{wait_noanim: 20}{b}{person: 9 246 245}
+Ahhh!{wait: 12} Nothing feels better.{speed: 3}{nextpage_button}{person: 9 245 245}{name: 1024}{color: 2}
+(She's definitely waaaay more{b}
+into this than I am...){color: 0}{nextpage_button}{name: 2304}{person: 9 241 240}
+Just let me know if you want{b}
+to do some more.{p}{person: 9 233 232}
+I'll be here,{wait: 12} solving the{b}
+case...{wait: 20} with science!{p}{person: 9 245 245}{name: 1024}{speed: 4}{color: 2}
+(Well,{wait: 8} that certainly{b}
+brightened her mood.){color: 0}{p}{0x37: 8 0}{0x37: 9 1}{0x10: 32966}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{bganim: 98 514}{hidetextbox: 0}{bg: 230}{fademusic: 30}{person: 9 232 232}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}So these shoe prints belong{b}
+to Wesley Stickler.{p}{name: 1024}{person: 9 232 232}
+This confirms his testimony.{wait: 16}{b}
+The final version of it,{wait: 8}{b}
+at least.{p}{name: 2304}{person: 9 250 249}
+Now we know where the panty-{b}
+snatcher was standing!{nextpage_button}{fademusic: 0}{music: 41 80}{0x10: 32967}{0x37: 9 0}{0x37: 10 1}{0x51: 0 53}
+{39424}{462}{0x10: 32971}{0x37: 10 0}{0x37: 21 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{bganim: 98 514}{hidetextbox: 0}{name: 1280}{bg: 122}{person: 0 0 0}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}...{wait: 20}Huh.{wait: 10} {speed: 3}That's a funny shoe{b}{wait: 6}
+print.{p}{speed: 3}
+Is that even a shoe?{p}{name: 2304}{speed: 3}
+It is strange.{wait: 15} So smooth...{p}{name: 1024}
+Except for the part with the{b}
+leaf.{p}{bg: 230}{name: 2304}{person: 9 250 249}{fademusic: 0}{music: 41 100}
+I can say without even looking{b}
+that this print doesn't match{b}
+any print on our list.{p}{name: 1024}{person: 9 249 249}{speed: 4}{color: 2}
+(Hmm...{wait: 20} A {color: 1}mystery print{color: 2}.){color: 0}{p}{speed: 255}{0x10: 32922}{0x37: 9 0}{0x37: 10 0}{0x37: 21 1}{0x51: 0 53}
+{50944}{646}{0x10: 32971}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{name: 2304}{person: 9 233 232}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}I know that face.{p}{person: 9 241 240}
+That's the face of someone{b}
+who's made...{wait: 20} a discovery!{nextpage_button}{name: 1280}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Hey,{wait: 15} how did you know?{nextpage_button}{name: 2304}{person: 9 241 240}{bgcolor: 2305 8 31}
+You can't fool someone trained{b}
+in the ways of science!{p}{name: 1024}{person: 9 240 240}{speed: 4}{color: 2}
+(Next she'll have us analyzing{b}
+face prints...){color: 0}{nextpage_button}{name: 1280}{person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Let's ask Detective Skye to{b}
+help us,{wait: 8} Apollo!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{fademusic: 0}{music: 41 0}{0x10: 32923}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{name: 2304}{person: 9 233 232}{fademusic: 45}{sound: 51 1}{bgcolor: 2305 8 31}Ooh! The print on these{b}
+is nice and clear, too.{b}
+That makes our job easy.{p}{bganim: 98 579}{name: 1024}{person: 9 232 232}
+Can you analyze it for us?{p}{name: 2304}{person: 9 241 240}
+Of course!{wait: 16} Hang on...{nextpage_button}{hidetextbox: 1}{wait: 20}{bgcolor: 516 1 31}{wait: 25}{person: 9 232 232}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{name: 2304}{person: 9 246 245}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Bingo!{wait: 15}{b}
+Gosh,{wait: 10} I'm good.{p}{name: 1024}{person: 9 240 240}{speed: 4}{color: 2}
+(Hey,{wait: 12} we were the ones who{b}
+found the prints...){color: 0}{p}{name: 2304}{person: 9 233 232}{speed: 3}
+A perfect match!{p}{showphoto: 73}
+The same person wore these{b}{removephoto}{showphoto: 312}
+sandals and slippers!{b}{fademusic: 0}{music: 33 0}{nextpage_button}{removephoto}{name: 1024}{person: 9 240 240}{speed: 4}
+I was afraid of that...{p}{name: 2304}{person: 9 250 249}{speed: 3}
+All you have to do is find out{b}
+who these sandals belong to!{p}{speed: 4}
+Or...{wait: 20} {person: 9 233 232}{sound: 52 1}{bgcolor: 2305 8 31}do you already know?{nextpage_button}{name: 1024}{speed: 4}
+I...{wait: 20} can't say.{wait: 12} Not yet.{p}{name: 1024}{person: 9 249 249}{speed: 4}{color: 2}
+(Well,{wait: 15} that's one big step{b}
+closer...){p}{speed: 3}
+(...to the{wait: 6} truth{wait: 6}!){color: 0}{nextpage_button}{0x10: 32924}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{person: 0 0 0}{name: 1024}The tarps that were here{b}
+yesterday are gone.{p}{hidetextbox: 1}{person: 5 75 75}{personvanish: 3 1}{wait: 16}{name: 1280}{person: 5 76 75}{hidetextbox: 0}
+I wonder why Detective Skye{b}
+put them out?{p}{name: 1024}{person: 5 75 75}
+Yeah...{wait: 20} The only thing they{b}
+were covering is the ground.{p}{name: 1280}{person: 5 81 81}{sound: 51 1}{bgcolor: 2305 8 31}
+Oh!{wait: 30} You know,{wait: 8} I think I see{b}{person: 5 82 81}
+something there...{wait: 20} a {color: 1}print{color: 0}!{p}{name: 1024}{person: 5 83 83}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+A...{wait: 20} "print"?{speed: 255}{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 9 232 232}{personvanish: 3 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{name: 1024}{person: 9 232 232}{hidetextbox: 0}Detective Skye,{wait: 8} you know{b}
+Mr. Wright,{wait: 10} correct?{nextpage_button}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{person: 5 96 95}
+How do you know my daddy!?{0x5a}{b}{0x59}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+I want details!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 244 243}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Ah?{wait: 12}{shake: 30 0} Ah...{wait: 20} {speed: 3}Well...{p}{person: 9 239 238}
+...{wait: 20}He helped me out a long{b}
+time ago.{p}{speed: 3}
+You might say he{wait: 6} "saved" me.{p}{name: 1024}{person: 9 238 238}{color: 2}
+(Wasn't she saying something{b}
+about{wait: 4} "getting involved in{b}
+an incident"?){nextpage_button}{color: 0}{name: 2304}{person: 9 233 232}
+I can't stand it when things{b}
+are vague...{wait: 20} especially in{b}
+a case.{p}{person: 9 241 240}
+I went to study to become a{b}
+forensic scientist... in{b}
+Europe.{p}{name: 1024}{person: 9 240 240}
+But{speed: 8}...{wait: 20} {speed: 3}you're a detective now?{b}{person: 9 249 249}{sound: 52 1}{bgcolor: 2305 8 31}{p}{name: 2304}{person: 9 250 249}
+Well...{wait: 16} I failed the test.{p}{person: 9 235 234}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+But,{wait: 8} you know,{wait: 8} rank and title{wait_noanim: 20}{b}{person: 9 241 240}
+don't matter!{wait: 16} {speed: 3}What matters is{b}
+what's inside your heart!{p}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I've always thought that,{wait: 8} too!{p}{name: 2304}{person: 9 239 238}{speed: 3}
+And my heart is full of{b}
+science!{wait: 16} That's why I bought{b}{showphoto: 84}
+this kit through mail order.{p}{person: 9 241 240}
+And I'm going to test it here{b}
+before the forensics team{b}
+arrives!{p}{name: 1024}{person: 9 240 240}{color: 2}
+(Are you sure that's OK...?){color: 0}{p}{removephoto}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{name: 2304}{person: 9 239 238}{hidetextbox: 0}I won't lie,{wait: 12} I'm not fond of{b}
+the man.{p}
+Those glimmerous types always{b}
+rub me the wrong way.{p}{name: 1024}{person: 9 238 238}
+"Glamorous"{speed: 8}...{wait: 12} {speed: 3}right.{p}{name: 2304}{person: 9 250 249}
+A prosecutor should be cool{b}
+of wit and furrowed of brow.{p}{person: 9 246 245}{bgcolor: 2305 8 31}
+Less{wait: 6} "glimmerous"{wait: 6} and more{wait: 6}{b}
+"simmerous"{wait: 6}...{wait: 20} you know?{nextpage_button}{name: 1024}{speed: 4}
+...{wait: 20}No,{wait: 8} actually,{wait: 8} I don't.{nextpage_button}{name: 2304}{person: 9 235 234}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Well,{wait: 7} that,{wait: 10} and what happened{b}
+seven years ago!{p}{person: 9 237 236}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}
+Prosecutor Gavin was the one{b}
+who stripped Mr. Wright of{b}
+his attorney's badge!{p}{name: 1024}{person: 9 243 243}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+Whaaa{bgcolor: 2305 8 31}aaa--!?{wait: 14} Really!?{wait_noanim: 25}{b}{speed: 3}{color: 2}
+(He was the one!?){color: 0}{p}{name: 2304}{person: 9 237 236}
+...{wait: 20}You mean you didn't know?{p}
+I thought you were one of{b}
+his boys!{nextpage_button}{name: 1024}{color: 2}
+(I'm neither a{wait: 6} "boy"{wait: 6} nor one{b}
+of his...{wait: 20} but let's see{b}
+what she has to say.){color: 0}{nextpage_button}
+Um{speed: 8}...{wait: 20} {speed: 3}What exactly happened{b}
+seven years ago?{nextpage_button}
+I never actually heard the{b}
+details.{p}{name: 2304}{person: 9 239 238}
+...{wait: 16}Then investigate.{wait: 20}{b}
+It's better you learned it{b}
+for yourself,{wait: 8} anyway.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 85 85}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 7}
+...{nextpage_button}{0x23: 0}{music: 255 90}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 238 238}{0x10: 32925}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{0x51: 0 53}{52224}{removephoto}{jmp: 154}{endjmp}{endjmp}{0x10: 32972}{name: 1024}{person: 9 232 232}{hidetextbox: 0}...{wait: 12}Do you mind me asking{b}
+exactly what it is you've{b}
+been doing...{p}
+...{wait: 20}squatting down on the{b}
+ground like that?{p}{name: 2304}{person: 9 246 245}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Ooh!{wait: 12}{bgcolor: 2305 8 31} {speed: 3}You want to know?{wait: 20}{b}
+Do you?{wait_noanim: 30}{b}{showphoto: 84}{person: 9 241 240}{speed: 3}
+Well,{wait: 16} I splurged on a new toy!{p}{name: 1024}{person: 9 240 240}{color: 2}
+(You splurged{speed: 8}...{wait: 16} {speed: 4}You mean,{wait: 6}{b}{color: 1}
+it wasn't police issue{color: 2}?){color: 0}{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{showphoto: 340}
+What is it?{wait: 20}{b}
+I see a roller{speed: 8}...{wait: 12} {speed: 3}and glue?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 246 245}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+This is a {color: 1}footprint{color: 0} analysis{b}
+kit!{nextpage_button}{bganim: 98 579}{name: 1024}{person: 9 245 245}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Footprint...?{p}{name: 2304}{person: 9 233 232}{speed: 3}
+It was raining on the night{b}
+of the murder,{wait: 8} which means{b}
+that footprints were left!{nextpage_button}{name: 1280}{person: 5 76 75}{sound: 51 1}{bgcolor: 2305 8 31}
+Oh,{wait: 16} does that have anything to{b}
+do with those blue tarps?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Right.{wait: 16} The ground was muddy,{wait: 8}{b}
+so I had to protect it as it{b}
+was that night.{p}{person: 9 250 249}
+Ever wanted to know exactly{b}
+where someone was standing?{p}
+Like your panty-snatching{b}
+student witness,{wait: 6} for instance?{nextpage_button}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah ha!{wait: 20} So with that kit...!{nextpage_button}{name: 2304}{person: 9 233 232}{sound: 51 1}{bgcolor: 2305 8 31}{fademusic: 60}{speed: 3}
+Right!{p}{name: 1024}{person: 9 232 232}
+...{wait: 20}What?{p}{name: 2304}{person: 9 241 240}{sound: 52 1}{bgcolor: 2305 8 31}{showphoto: 84}
+Want to try this stuff out?{p}{name: 1024}{person: 9 240 240}{bgcolor: 2305 8 31}
+Huh?{wait: 16} Are you sure?{wait: 16} I mean,{wait: 8}{b}
+we're sort of on opposing{b}
+teams and all{speed: 8}...{speed: 3}{p}{name: 2304}{person: 9 233 232}
+Oh,{wait: 8} pshaw!{wait_noanim: 16}{b}{person: 9 246 245}
+You're friends!{nextpage_button}{person: 9 239 238}
+And...{wait: 16} to tell the truth,{wait: 6} I'm{b}
+not so good at doing this.{p}{person: 9 237 236}
+Guess I'm a little clumsy.{wait: 20}{b}
+I could use your help.{nextpage_button}{bganim: 98 579}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Ooh!{wait: 16} I'm good at stuff like{b}
+this!{wait: 16} I used to make magic{b}
+bunnies out of paper mache!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1024}{person: 9 232 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{fademusic: 0}{music: 4 60}{speed: 3}{color: 2}
+(Footprint analysis,{wait: 6} huh?{wait: 12}{b}
+Well,{wait: 8} should I give it a go?){color: 0}{0x10: 33293}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 120}{raw_jmp: 65535}{b}{2args_choice_jmp: 152 151}{endjmp}
+
+{{23}}
+{bop}{0x10: 525}{person: 0 0 0}{name: 1024}{person: 9 232 232}{fademusic: 60}{speed: 3}I think I'll pass.{wait: 16} Wouldn't{b}
+want to waste a kit if I{b}
+messed up.{p}{name: 2304}{person: 9 250 249}{speed: 3}
+Really?{wait: 20} That's too bad{speed: 8}...{wait: 16}{b}{speed: 3}
+I really could use the help.{nextpage_button}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Aww,{wait: 8} I want to try!{wait: 16} {speed: 3}It'll be{b}
+just like making pancakes in{b}
+the dirt!{nextpage_button}{name: 1024}{person: 9 249 249}{color: 2}
+(I guess I can always talk{b}
+to her again if I change{b}
+my mind{fademusic: 0}{music: 41 100}...){color: 0}{p}{person: 9 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{24}}
+{bop}{0x10: 525}{name: 1024}{person: 9 232 232}OK{speed: 8}...{wait: 20}{b}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+I'll give it a go!{p}{name: 2304}{person: 9 246 245}{sound: 51 1}{bgcolor: 2305 8 31}
+That's the spirit!{nextpage_button}{0x37: 8 0}{0x37: 9 1}{jmp: 135}{endjmp}{endjmp}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{25}}
+{bop}{bganim: 98 514}{fademusic: 60}{hidetextbox: 0}{name: 2304}{person: 9 250 249}{speed: 3}Huh?{wait: 16} Giving up already?{wait_noanim: 15}{b}{person: 9 233 232}
+Suit yourself.{p}{person: 9 246 245}
+If you want to take another{b}
+swing at it,{wait: 8} just let me know.{nextpage_button}{fademusic: 0}{music: 41 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{26}}
+{bop}{name: 2304}{person: 9 246 245}{fademusic: 60}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}Hmm?{wait: 16} Still interested in the{b}
+bleeding edge of forensic{b}
+science?{p}{person: 9 241 240}
+Why didn't you say so in{b}
+the first place!?{p}{name: 1024}{person: 9 240 240}{fademusic: 0}{music: 4 0}{color: 2}
+(Footprint analysis,{wait: 6} huh?{wait: 12}{b}
+Well,{wait: 8} should I give it a go?){color: 0}{0x10: 33293}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 120}{raw_jmp: 65535}{b}{2args_choice_jmp: 152 151}{endjmp}
+
+{{27}}
+{bop}{name: 1024}{person: 9 232 232}{hidetextbox: 0}Detective Skye?{wait: 16} Mind if we{b}
+give it another go?{p}{name: 2304}{person: 9 241 240}{fademusic: 30}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Right on!{wait: 20} {speed: 3}Leave no print{b}
+un-analyzed,{wait: 10} I say!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{person: 0 0 0}{bg: 92}{littlesprite: 11777}{littlesprite: 12033}{littlesprite: 12289}{fademusic: 0}{music: 4 100}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}
+...{wait: 20}Now to pick which print{b}
+you want to analyze!{nextpage_button}{hidetextbox: 3}{0x74: 17 1}{special_jmp}{endjmp}
+
+{{28}}
+{bop}{0x51: 0 53}{51968}{removephoto}{jmp: 157}{endjmp}{endjmp}{name: 1024}{person: 9 232 232}{hidetextbox: 0}Detective Skye?{wait: 16} Mind if we{b}
+give it another shot?{p}{name: 2304}{person: 9 241 240}{fademusic: 30}{sound: 51 1}{bgcolor: 2305 8 31}
+I believe you're beginning to{b}
+appreciate the wonder that is{b}
+forensic science!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{person: 0 0 0}{bg: 92}{littlesprite: 11777}{littlesprite: 12033}{littlesprite: 12289}{fademusic: 0}{music: 4 100}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}
+...{wait: 20}Now to pick which print{b}
+you want to analyze!{nextpage_button}{hidetextbox: 3}{0x74: 17 1}{special_jmp}{endjmp}
+
+{{29}}
+{bop}{name: 1024}{person: 9 232 232}{hidetextbox: 0}Detective Skye?{wait: 16} Mind if we{b}
+give it another shot?{p}{name: 2304}{person: 9 236 236}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{person: 9 237 236}
+I wish there were more{b}
+prints to analyze{speed: 8}{0x5a}...{wait: 20} {speed: 4}*sniffle*{p}{person: 9 235 234}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+I know!{wait: 10} Quick!{wait: 16} {speed: 3}Step in that{b}{bgcolor: 2305 8 31}
+mud over there!{p}{name: 1024}{person: 9 234 234}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Uh,{wait: 12} {speed: 3}I don't think analyzing{b}
+my footprint is going to do{b}
+us much good.{p}{name: 2304}{person: 9 237 236}{0x5a}{speed: 4}
+*sigh*{0x59} I would have had fun.{fademusic: 0}{music: 41 100}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{30}}
+{bop}{bg: 122}{person: 0 0 0}{name: 2304}{hidetextbox: 0}{speed: 3}This print is far too smooth{b}
+to be from a regular shoe.{p}{name: 1280}
+It is a shoe print of some{b}
+kind though,{wait: 8} that's certain.{p}{bg: 230}{name: 2304}{person: 9 250 249}
+Still,{wait: 8} you have to wonder{b}
+what it's doing here.{nextpage_button}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}{speed: 3}
+It's right next to the{b}
+Eldoon's Noodles stand!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{shake: 30 0}{speed: 4}
+It does make one wonder...{wait_noanim: 30}{b}{person: 9 237 236}
+...{wait: 8}{speed: 3}Hey,{wait: 8} you.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}
+...{wait: 20}Yes?{p}{name: 2304}
+Why are you so quiet all of{b}
+a sudden?{p}{person: 9 239 238}{speed: 7}
+...{wait: 20}{speed: 3}You wouldn't happen to have{0x5a}{b}{person: 9 239 238}{0x59}
+something in mind?{nextpage_button}{person: 9 241 240}
+Something that might have left{b}
+this {color: 1}mystery shoe print{color: 0}?{p}{name: 1024}{person: 9 240 240}{color: 2}
+(This {color: 1}mystery shoe print{color: 2} does{b}
+remind me of something{speed: 8}...){color: 0}{0x10: 33293}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 121}{raw_jmp: 65535}{b}{2args_choice_jmp: 160 159}{endjmp}
+
+{{31}}
+{bop}{0x10: 525}{person: 0 0 0}{name: 1024}{person: 9 240 240}{shake: 30 0}{speed: 5}Hmm...{wait: 25} {speed: 3}No,{wait: 12} sorry.{wait: 20} No idea.{p}{name: 2304}{person: 9 250 249}
+Too bad.{wait: 16} I wonder what it is.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Something's familiar about{b}
+that smooth surface...{wait: 20} so{b}
+smooth it's almost slippery.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+...{wait: 16}Well,{wait: 8} if you think of{b}
+something,{wait: 8} I'm all ears.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{32}}
+{bop}{0x10: 525}{person: 0 0 0}{name: 1024}{person: 9 240 240}{color: 2}(I'm pretty sure I've seen{b}
+something that would leave a{b}
+print like that.){color: 0}{p}{person: 9 232 232}
+You know,{wait: 6} I think I have{b}
+our culprit right here...{0x10: 33293}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{33}}
+{bop}{0x10: 525}{name: 2304}{person: 9 251 251}{wait: 60}{hidetextbox: 0}{speed: 7}...{wait: 40}{b}{person: 9 252 251}{speed: 3}
+Know what I'm eating?{nextpage_button}{name: 1024}{speed: 5}
+Um...{wait: 20} {speed: 3}Snacks?{p}{name: 2304}
+Snacks.{wait: 16} More precisely,{b}
+whenever I'm in a bad mood,{wait: 8}{b}
+I eat chocolate Snackoos.{nextpage_button}{name: 1024}
+...{wait: 20}I had no idea.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+I think she means you picked{b}
+the wrong evidence,{wait: 8} Apollo.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1024}{person: 9 251 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{color: 2}
+(...{wait: 20}I had no idea.){color: 0}{nextpage_button}{0x51: 0 28}{color: 21}{endjmp}
+
+{{34}}
+{bop}{0x10: 525}{0x51: 3 53}{49409}{hidetextbox: 16}{33292}{jmp: 161}{endjmp}{endjmp}{0x51: 0 34}{0x3c: 14}{1024}{hidetextbox: 0}Well,{wait: 8} I think it's these{b}{showphoto: 56}
+slippers,{wait: 8} actually.{nextpage_button}{name: 2304}{person: 9 244 243}{sound: 52 1}{bgcolor: 2305 8 31}
+Slippers{speed: 8}{0x5a}...{wait: 20}{b}{person: 9 237 236}{speed: 3}
+What would slippers be doing{b}
+out here?{nextpage_button}{bganim: 98 579}{showphoto: 312}{name: 1024}{person: 9 249 249}
+But look at the bottom!{b}
+See?{nextpage_button}{hidetextbox: 1}{0x76: 0 48}{wait: 40}{hidetextbox: 0}{person: 9 244 243}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+It's covered with paint!{wait: 16}{b}{speed: 3}
+Except for{0x5a}{wait: 25}...{0x59}{nextpage_button}{name: 1024}{speed: 3}
+See,{wait: 12} right here?{nextpage_button}{0x76: 1 48}{name: 2304}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{person: 9 244 243}{speed: 2}
+Hey,{wait: 14} that spot is shaped{b}
+like a leaf!{fademusic: 0}{music: 35 0}{nextpage_button}{name: 1024}
+What if a leaf was stuck on{b}
+the bottom,{wait: 8} and came off when{b}
+the slipper stepped in paint?{nextpage_button}{person: 9 249 249}{speed: 3}
+...{wait: 20}Makes sense,{wait: 8} doesn't it?{nextpage_button}{name: 2304}{person: 9 250 249}{showphoto: 56}
+Wait,{wait: 8} something's written{b}
+on them...{wait: 20}{b}
+...{wait: 20}{person: 9 235 234}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}"The {color: 1}Meraktis Clinic{color: 0}"!{p}{name: 1024}{person: 9 243 243}{speed: 4}
+Exactly!{wait: 20} The victim's clinic!{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Wait,{wait: 8} that means...{0x5a}{nextpage_button}{person: 5 86 85}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 20}that someone from the{b}
+clinic was involved?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 251 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 8}
+...{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Why is she just standing{b}
+there eating?){color: 0}{nextpage_button}{name: 1280}{person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Um,{wait: 8} Detective Skye?{wait: 16}{b}
+I have a favor to ask!{nextpage_button}{name: 2304}{person: 9 252 251}{bgcolor: 2305 8 31}
+Wh-{wait: 20}What?{nextpage_button}{name: 1024}{speed: 4}
+Can you get us access into the{b}
+Meraktis Clinic?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+The police won't let us in!{wait: 12}{b}
+They say the murder and the{b}
+clinic are not connected.{p}
+And it's off limits until we{b}
+prove they are!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 251 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{fademusic: 60}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait_noanim: 30}{b}{person: 9 233 232}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+I should be able to do{b}
+something for you,{wait: 8} yes.{p}{name: 1024}{person: 9 232 232}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Eh?{wait: 20} Really?{p}{name: 2304}{person: 9 246 245}{showphoto: 84}
+Well,{wait: 8} you did my work for{b}
+me here with the shoe prints.{nextpage_button}{removephoto}{person: 9 233 232}
+Seems like I should return{b}
+the favor.{nextpage_button}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Thank you,{wait: 8} Detective Skye!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{showphoto: 76}{speed: 3}
+Here,{wait: 8} show this to the police{b}
+officer on duty.{nextpage_button}{bganim: 98 579}{newevidence: 16460}{name: 0}{color: 2}{speed: 4}
+Detective Skye's Orders added{b}
+to the Court Record.{b}{speed: 255}{color: 0}{fademusic: 0}{music: 33 0}{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Righ{shake: 30 0}t!{wait: 16} {speed: 2}Meraktis Clinic,{wait: 8}{b}{bgcolor: 2305 8 31}
+here comes Justice!){color: 0}{p}{0x10: 32927}{0x37: 21 0}{0x37: 12 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{35}}
+{bop}{showphoto: 56}{name: 2304}{person: 9 233 232}They say{wait: 6} "The Meraktis{b}
+Clinic"...{wait_noanim: 25}{person: 9 243 243}{sound: 51 1}{bgcolor: 2305 8 31} Hey!{nextpage_button}{name: 1024}{person: 9 243 243}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Wh-{wait: 16}What?{p}{person: 9 244 243}{name: 2304}
+This slipper{speed: 8}...{wait: 8} {speed: 3}Look right{b}{person: 9 250 249}
+here!{wait: 20} I think I see a {color: 1}toe{b}{sound: 52 1}{bgcolor: 2305 8 31}
+mark{color: 0}!{p}{name: 1024}{person: 9 232 232}
+A {color: 1}toe mark{color: 0}{speed: 8}...{wait: 16} {speed: 3}You think we{b}
+can get a {color: 1}print{color: 0} off that!?{p}{name: 2304}{person: 9 241 240}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Sure!{wait: 16} {speed: 3}Toes have prints just{b}
+like fingers do,{wait: 8} you know.{p}{name: 1024}{person: 9 240 240}{color: 2}
+(This little clue might be{b}
+a gold mine!){color: 0}{p}{removephoto}{name: 2304}{person: 9 250 249}
+Oh...{wait: 12} There's one problem.{p}{name: 2304}{person: 9 250 249}
+The police station doesn't{b}
+keep a record of toe prints.{p}{person: 9 233 232}
+So we won't know whose it is.{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(...{wait: 20}I guess that would be{b}
+too much to hope for.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Still,{wait: 8} it might be useful{b}
+somehow!{p}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Let's analyze it!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 9 232 232}{personvanish: 3 1}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{36}}
+{bop}{0x51: 0 53}{39936}{removephoto}{jmp: 176}{endjmp}{endjmp}{name: 2304}{person: 9 250 249}{showphoto: 56}{speed: 4}Ah,{wait: 16} the slippers{0x5a}...{p}{person: 9 233 232}{speed: 3}
+That's quite a clear print{b}
+there. ...{wait: 20}A toe print.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Too bad we don't know whose{b}
+toe it is.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Well,{wait: 8} there is a way of{b}
+finding out,{wait: 12} of course.{nextpage_button}{person: 9 249 249}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+There is!?{wait: 16} What?{p}{name: 2304}{person: 9 241 240}{speed: 3}
+All you need is a sample of{b}
+the same toe print,{wait: 8} off{b}
+another shoe,{wait: 10} for instance.{nextpage_button}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}
+Oh,{wait: 8} right.{wait: 16} So if the prints{b}
+matched,{wait: 8} you'd know the same{b}
+person wore both.{nextpage_button}{removephoto}{name: 1024}{person: 9 232 232}{color: 2}
+(Hmm.{wait: 16} Do I have another shoe{b}
+worn by the same person?){color: 0}{0x10: 33293}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 122}{0x7b}{65535}{b}{2args_choice_jmp: 166 165}{endjmp}
+
+{{37}}
+{bop}{0x10: 525}{person: 0 0 0}{name: 1024}{person: 9 232 232}{speed: 4}No...{wait: 16} {speed: 3}I can't think of{b}
+anything I might have with{b}
+a toe print on it.{p}{name: 2304}{person: 9 250 249}
+Ah well,{wait: 8} it was too much to{b}
+hope for,{wait: 8} I suppose.{wait: 16} Let me{b}
+know if you find something.{p}{name: 1024}{person: 9 251 251}{color: 2}
+(A toe print{wait: 6} sample...{wait: 20} Hmm.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{38}}
+{bop}{0x10: 525}{person: 0 0 0}{name: 1024}{person: 9 232 232}{speed: 4}I think I just might,{wait: 6}{b}
+actually.{p}{name: 2304}{person: 9 244 243}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Really!?{p}{name: 1024}{person: 9 243 243}{speed: 4}{color: 2}
+(I'm beginning to{wait: 6} suspect{wait: 6}{b}
+something here...){color: 0}{p}{person: 9 232 232}{name: 1024}
+Detective Skye!{wait: 16} Can you{b}
+compare this sample with{b}
+this other print?{0x10: 33293}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{39}}
+{bop}{0x10: 525}{name: 2304}{person: 9 236 236}{fademusic: 60}{hidetextbox: 0}{speed: 7}...{p}{person: 9 237 236}{speed: 4}
+I did say{wait: 8} "toe print"{wait: 6} sample,{wait: 8}{b}
+didn't I?{p}{person: 9 235 234}
+Where exactly is the toe{b}
+print on this evidence!?{p}{name: 1024}{person: 9 234 234}{speed: 4}{color: 2}
+(Oops.{wait: 16} Stormy Skyes ahead...){color: 0}{p}{name: 2304}{person: 9 241 240}{speed: 3}
+Try again.{wait: 16} Scientifically{b}
+this time,{wait: 8} if you would.{p}{fademusic: 0}{music: 41 100}{name: 1024}{person: 9 240 240}{color: 2}
+(Hmm,{wait: 8} a {color: 1}toe print{color: 2}.{wait: 16} {speed: 3}Right!){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{40}}
+{bop}{0x10: 525}{name: 2304}{person: 9 236 236}{fademusic: 60}{hidetextbox: 0}{speed: 7}...{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+What's with the scowl?{nextpage_button}{person: 5 96 95}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+It's got a toe print on it,{wait: 8}{b}
+doesn't it?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 237 236}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+...{wait: 20}Of course it matches.{wait: 16} {speed: 3}It's{wait_noanim: 40}{b}{person: 9 235 234}{sound: 52 1}{bgcolor: 2305 8 31}
+the same evidence as before!{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Huh?{wait: 12} Oh,{wait: 8} right.{p}{name: 2304}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+What are you thinking, trying{b}
+to compare something with{b}
+itself!?{fademusic: 0}{music: 41 100}{nextpage_button}{name: 1024}{person: 9 253 253}{shake: 30 0}{speed: 4}{color: 2}
+(I'd better stop messing up{b}
+or I'm gonna get struck down{b}{shake: 30 0}
+by lightning from the Skye.){color: 0}{p}{name: 2304}{person: 9 252 251}{speed: 3}
+Try again!{wait: 16} And...{wait: 20} try{b}
+scientifically,{wait: 8} please.{p}{name: 1024}{person: 9 251 251}{color: 2}
+(Hmm,{wait: 8} another {color: 1}toe print{color: 2}.{b}
+Right!){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{41}}
+{bop}{0x10: 525}{name: 1024}{hidetextbox: 0}{showphoto: 73}{sound: 52 1}{bgcolor: 2305 8 31}This pair of sandals,{wait: 8}{b}
+toe print and all.{p}{jmp: 146}{endjmp}
+
+{{42}}
+{bop}{0x10: 525}{name: 2304}{person: 9 250 249}{shake: 30 0}{speed: 4}Hmm...{wait: 20} {speed: 3}Ye{shake: 30 0}s...{wait: 20} {speed: 5}Yes!{nextpage_button}{name: 1024}{person: 9 249 249}
+Did you find something?{p}{name: 2304}{person: 9 248 247}{speed: 4}
+Well,{wait: 8} scientifically{b}
+speaking...{p}{person: 9 241 240}{speed: 3}
+These are a pair of woman's{b}
+sandals.{wait: 16} Pretty cute,{wait: 8} too.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+We found them in the lobby{b}
+at the Meraktis Clinic!{p}{name: 2304}{person: 9 233 232}{sound: 52 1}{bgcolor: 2305 8 31}
+Hmm?{wait: 16} Say,{wait: 8} this sandal has{b}
+a toe mark...{p}{name: 1024}{person: 9 232 232}
+A {color: 1}toe mark{color: 0}{speed: 8}...{wait: 16} {speed: 3}You mean a{b}{color: 1}
+toe print{color: 0}?{p}{name: 2304}{person: 9 241 240}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+That I do!{wait: 16} {speed: 3}You can analyze it{b}{person: 9 233 232}
+just like a fingerprint!{p}{name: 1024}{person: 9 240 240}{color: 2}
+(This little clue might be{b}
+a real windfall!){color: 0}{p}{name: 2304}{person: 9 250 249}
+Oh...{wait: 20} There's one problem.{p}{name: 2304}{person: 9 250 249}
+The police station doesn't{b}
+keep a record of toe prints.{p}{person: 9 233 232}
+So we won't know whose it is.{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(...{wait: 20}I guess that would be{b}
+too much to hope for.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Still,{wait: 16} it might be useful{b}
+somehow!{p}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Let's analyze it!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 9 232 232}{personvanish: 3 1}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{43}}
+{bop}{0x51: 0 53}{39936}{removephoto}{jmp: 176}{endjmp}{endjmp}{name: 2304}{person: 9 241 240}{showphoto: 73}{speed: 4}These sandals{0x5a}...{p}{person: 9 233 232}{speed: 3}
+That's quite a clear print{b}
+there. ...{wait: 20}A toe print.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Too bad we don't know whose{b}
+toe it is.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+Well,{wait: 8} {speed: 4}there is a way of{b}
+finding out,{wait: 12} of course.{nextpage_button}{person: 9 249 249}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+There is!?{wait: 16} What?{p}{name: 2304}{person: 9 241 240}{speed: 3}
+All you need is a sample of{b}
+the same toe print,{wait: 8} off{b}
+another shoe,{wait: 8} for instance.{nextpage_button}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}
+Oh,{wait: 8} right.{wait: 16} So if the prints{b}
+matched,{wait: 8} you'd know the same{b}
+person wore both.{nextpage_button}{removephoto}{name: 1024}{person: 9 232 232}{color: 2}
+(Hmm.{wait: 16} Do I have another shoe{b}
+worn by the same person?){color: 0}{0x10: 33293}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 122}{0x7b}{65535}{b}{2args_choice_jmp: 173 172}{endjmp}
+
+{{44}}
+{bop}{0x10: 525}{person: 0 0 0}{name: 1024}{person: 9 232 232}{speed: 4}No...{wait: 16} {speed: 4}I can't think of{b}
+anything I might have with{b}
+a toe print on it.{p}{name: 2304}{person: 9 250 249}
+Ah well,{wait: 8} it was too much to{b}
+hope for,{wait: 8} I suppose.{wait: 16} Let me{b}
+know if you find something.{p}{name: 1024}{person: 9 251 251}{color: 2}
+(A toe print sample...{wait: 20} Hmm.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{45}}
+{bop}{0x10: 525}{person: 0 0 0}{name: 1024}{person: 9 232 232}{speed: 4}I think I just might,{wait: 8}{b}
+actually.{p}{name: 2304}{person: 9 244 243}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Really!?{p}{name: 1024}{person: 9 243 243}{speed: 4}{color: 2}
+(I'm beginning to suspect{b}
+something here...){color: 0}{p}{name: 1024}
+Detective Skye!{wait: 16} Can you{b}
+compare this sample with{b}
+this other print?{0x10: 33293}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{hidetextbox: 1}{endjmp}
+
+{{46}}
+{bop}{0x10: 525}{hidetextbox: 0}{name: 2304}{person: 9 236 236}{fademusic: 60}{speed: 7}...{p}{person: 9 237 236}{speed: 4}
+I did say{wait: 8} "toe print"{wait: 6} sample,{wait: 8}{b}
+didn't I?{p}{person: 9 235 234}
+Where exactly is the toe{b}
+print on this evidence!?{p}{name: 1024}{person: 9 234 234}{speed: 4}{color: 2}
+(Oops.{wait: 16} Stormy Skyes ahead...){color: 0}{p}{name: 2304}{person: 9 241 240}{speed: 3}
+Try again.{wait: 16} Scientifically{b}
+this time,{wait: 8} if you would.{p}{fademusic: 0}{music: 41 100}{name: 1024}{person: 9 240 240}{color: 2}
+(Hmm,{wait: 8} a {color: 1}toe print{color: 2}.{wait: 16} {speed: 3}Right!){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{47}}
+{bop}{0x10: 525}{name: 1024}{hidetextbox: 0}{showphoto: 56}{sound: 52 1}{bgcolor: 2305 8 31}This pair of slippers,{wait: 8}{b}
+toe print and all.{p}{jmp: 146}{endjmp}
+
+{{48}}
+{bop}{0x10: 525}{name: 2304}{person: 9 233 232}{showphoto: 56}Well,{wait: 8} if the prints on these{b}{showphoto: 329}
+slippers and these sandals{b}
+match,{wait: 8} which they do...{p}{person: 9 241 240}
+...{wait: 20}it means that the same{b}
+person was wearing them.{nextpage_button}{name: 1280}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+You know,{wait: 8} I thought that's{b}
+what it might mean!{p}{person: 5 96 95}
+Science is amazing!{p}{bganim: 98 579}{name: 2304}{person: 9 241 240}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 3}
+It is,{wait: 8} isn't it!?{wait: 16} {person: 9 235 234}{bgcolor: 2305 8 31}I've n{bgcolor: 2305 8 31}ever{b}
+felt {person: 9 246 245}so alive!{nextpage_button}{name: 1024}{person: 9 240 240}{color: 2}
+(I don't know about science,{wait: 8}{b}{speed: 3}
+but this is a major lead!){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{49}}
+{bop}{name: 1024}{person: 9 232 232}Say,{wait: 16} could you take a look{b}{showphoto: 77}
+at this lamp?{p}{name: 2304}{person: 9 233 232}
+Hmm.{wait: 16} The bulb's broken.{p}{name: 1024}{person: 9 249 249}
+Right.{wait: 16} Strange,{wait: 8} isn't it?{p}{name: 2304}{person: 9 250 249}
+Really?{wait: 16} I break bulbs all{b}
+the time.{p}{person: 9 233 232}
+My desk is a mess and my lamp{b}
+is always falling over.{b}
+...{wait: 20}Not too bright,{wait: 8} huh?{nextpage_button}{person: 9 251 251}{name: 1024}{speed: 4}{color: 2}
+(Ouch...){color: 0}{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+I still think it's kind of{b}
+odd...{speed: 255}{nextpage_button}{0x10: 32935}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{50}}
+{bop}{showphoto: 63}{person: 9 246 245}{name: 2304}{speed: 3}Fingerprint analysis is the{b}
+very basis of modern forensic{b}
+science!{nextpage_button}{name: 1024}{person: 9 245 245}
+...{wait: 20}I guess you could put{b}
+it that way.{nextpage_button}{removephoto}{name: 2304}{person: 9 241 240}
+And you two know how to dust{b}
+for prints on your own now!{p}
+Make sure to examine anything{b}
+you find that might have{b}
+prints on it!{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{51}}
+{bop}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}Detective Skye,{wait: 8} {showphoto: 78}I was{b}
+wondering about this...{p}{name: 1024}{person: 5 81 81}{sound: 51 1}{bgcolor: 2305 8 31}{bganim: 98 579}{shake: 30 0}{speed: 2}
+Ack,{wait: 8} Trucy!{wait: 16} Wait!{p}{name: 1280}{person: 5 68 67}{speed: 3}
+What?{p}{name: 1024}{person: 5 81 81}
+That's vital evidence there.{wait: 16}{b}
+You can't show her that!{p}{person: 5 81 81}
+That's our secret weapon{b}
+in tomorrow's trial for sure!{p}{name: 1280}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Ooh!{wait: 16} {speed: 3}Clever,{wait: 8} Apollo!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+...{wait: 20}What did I tell you before?{p}{speed: 3}
+If you're going to talk behind{b}
+someone's back,{wait: 8} do it quietly.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{52}}
+{bop}{name: 1280}{person: 5 68 67}Detective Skye,{wait: 8} {showphoto: 79}I was{b}
+wondering about this...{p}{name: 1024}{person: 5 81 81}{sound: 51 1}{bgcolor: 2305 8 31}{bganim: 98 579}{shake: 30 0}
+Ack,{wait: 8} Trucy!{wait: 16} Wait!{p}{name: 1280}{person: 5 68 67}{speed: 3}
+What?{p}{name: 1024}{person: 5 75 75}
+This bullet was inside the{b}
+safe,{wait: 8} right?{p}
+That means the police don't{b}
+know about it yet!{p}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oh,{wait: 8} right!{wait: 16} We can use this{b}
+in the trial tomorrow!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+...{wait: 16}Do I have to repeat myself{b}
+every time?{p}{speed: 3}
+If you're going to talk behind{b}
+someone's back,{wait: 10} do so quietly!{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{53}}
+{bop}{name: 2304}{person: 9 239 238}Sorry...{wait: 12} I don't think I can{b}
+help you with that.{p}{person: 9 250 249}
+I think you need more than{b}
+just scientific help.{p}{person: 9 233 232}
+But ask me anything you like!{wait: 16}{b}
+...{wait: 20}Just ask scientifically.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}

@@ -1,0 +1,129 @@
+
+
+{{0}}
+{bop}{0x62: 1 2}{0x26: 0}{bg: 4095}{person: 0 0 0}{name: 0}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{0x74: 2 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}April 20, 12:14 PM{b}
+District Court{b}
+Courtroom No. 2{p}{color: 0}{center_text: 0}{wait: 30}{speed: 255}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{fademusic: 0}{music: 1 0}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+Cout will now reconvene.{p}{person: 10 263 262}{speed: 4}
+Has our witness,{wait: 12}{speed: 3} Ms. Olga{b}
+Orly, recovered?{p}{bg: 26}{person: 11 270 269}{name: 2816}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Y-{wait: 5}Yes,{wait: 16}{speed: 3} Your Honor!{wait: 20} Er,{wait: 5} well,{wait: 5}{b}
+she's regained consciousness.{p}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 3}
+Perhaps we can hear her{b}
+version of the events again?{p}{bg: 26}{person: 11 270 269}{name: 2816}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 6}
+That's the thing...{wait: 16}{speed: 3}{person: 11 270 269} You see,{wait: 8}{b}{speed: 6}{speed: 4}
+she's quite fatigued.{speed: 255}{p}{bg: 29}{person: 10 263 262}{name: 2560}
+You're looking a bit fatigued{b}
+yourself,{wait: 12} Mr. Payne.{p}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 4}
+Sadly,{wait: 10} fatigue is insufficient{b}
+grounds for refusing to{b}
+testify{speed: 8}...{wait: 10}{speed: 4} or prosecute.{p}{speed: 3}
+The defense would like to{b}
+request that Ms. Orly take{b}
+the stand.{p}{bg: 29}{person: 10 260 260}{name: 2560}{speed: 4}
+Very well.{wait_noanim: 40}{b}{person: 10 259 258}{speed: 3}
+The witness will take the{b}
+stand!{nextpage_button}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{endjmp}
+
+{{1}}
+{bop}{bg: 27}{person: 12 283 283}{bgcolor: 260 1 31}{wait: 25}{wait: 45}{bg: 28}{person: 8 224 223}{name: 2048}{hidetextbox: 0}{speed: 3}Perhaps you could repeat your{b}
+name and profession?{nextpage_button}{bg: 27}{person: 12 283 283}{name: 3072}{hidetextbox: 0}{speed: 7}
+.{shake: 30 0}{speed: 9}.{shake: 30 0}{speed: 11}.{speed: 13}{shake: 30 0}{p}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 3}
+Or perhaps you'd rather admit{b}
+that you're a poor liar,{wait: 16}{speed: 4} and{b}
+a poorer loser.{nextpage_button}{bg: 27}{person: 12 283 283}{name: 3072}{hidetextbox: 0}{fademusic: 60}{speed: 6}{shake: 30 0}
+Ny-{shake: 30 0}{speed: 8}Ny-{shake: 30 0}{speed: 10}Nye-!{wait: 10}{b}
+..{shake: 30 0}{speed: 12}.{wait: 30}{speed: 255}{b}{person: 12 286 285}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Not.{wait_noanim: 90}{nextpage_nobutton}{hidetextbox: 1}{person: 12 288 288}{wait: 62}{animation: 152 1}{person: 12 308 308}{wait: 30}{0x63}{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}{person: 12 291 290}{name: 3072}{hidetextbox: 0}{speed: 3}
+Name's Olga Orly.{wait_noanim: 25}{person: 12 291 290}{speed: 4} That's the{b}
+truth.{wait: 20} I'm a pro dealer.{p}
+People call me{speed: 8}...{wait_noanim: 30}{b}{person: 12 293 292}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Olga {wait: 6}"Quick-Fingers"{wait: 6} Orly!{nextpage_button}{bg: 29}{person: 10 264 264}{name: 2560}{speed: 8}
+Oh...{wait: 30}{speed: 6}{b}{person: 10 265 264}
+Oh really?{nextpage_button}{bg: 27}{person: 12 291 290}{name: 3072}{speed: 3}
+Want to know something else?{wait_noanim: 30}{nextpage_button}{person: 12 291 290}
+I'm not really Russian!{b}{person: 12 291 290}
+And my last name sounds like{b}{wait: 6}
+"Oh really"!{nextpage_button}{0x59}{speed: 4}
+There,{wait: 10} that's the truth!{wait: 12}{b}
+I hope you're satisfied.{nextpage_button}{0x19: 32771 4}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 61 1}{sound: 22 1}{wait: 120}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 2}
+Witness!{wait_noanim: 20}{speed: 3}{person: 4 66 65}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2} You will tell the{b}
+court what you were really{b}
+up to that night!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 294}{wait: 32}{person: 12 295 294}{name: 3072}{hidetextbox: 0}{speed: 4}
+Fine,{wait: 15} I'll talk.{wait: 18}{b}{speed: 4}
+We had a {color: 1}plan{color: 0},{wait_noanim: 20}{person: 12 293 292}{speed: 2}{bgcolor: 2305 8 31} see.{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 3}
+Let me remind you that you{b}
+are currently under oath.{p}{person: 10 263 262}{speed: 4}
+Any further fabrications will{b}
+have serious consequences.{nextpage_button}{bg: 27}{person: 12 290 290}{name: 3072}{speed: 6}
+...{wait: 35}{b}{sound: 51 1}{bgcolor: 2305 8 31}{person: 12 295 294}
+Fine.{wait_noanim: 60}{nextpage_nobutton}{speed: 255}{hidetextbox: 1}{wait: 30}{bgcolor: 516 1 31}{wait: 25}{person: 12 291 290}{0x5a}{bgcolor: 260 1 31}{wait: 25}{fademusic: 0}{music: 18 0}{0x23: 0}{music: 255 90}{name: 3072}{0x59}{hidetextbox: 0}{speed: 3}
+Like I said,{wait: 10} I'm a pro.{wait: 12}{b}{showphoto: 6}
+That guy,{wait: 12} Smith, hired me{b}
+to do what I do best.{nextpage_button}{removephoto}{person: 12 295 294}
+I was planted at the Borscht{b}
+Bowl Club several days prior{b}
+to the night of the game.{p}{person: 12 291 290}{speed: 4}
+As a waitress.{p}{bg: 25}{person: 4 41 40}{name: 1024}{speed: 3}
+So you were in {color: 1}cahoots{color: 0} with{b}
+the victim!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 294}{wait: 32}{person: 12 295 294}{name: 3072}{hidetextbox: 0}
+Not that he needed my help.{wait: 12}{b}
+Smith is a well-known{b}
+poker player in some circles.{p}{person: 12 291 290}{speed: 5}{speed: 4}
+But winning wasn't the main{wait: 12}{b}{bgcolor: 2305 8 31}{speed: 2}
+purpose of this game.{p}{person: 12 293 292}{speed: 4}
+It was about destroying a{b}
+legend:{wait: 12}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 3} the unbeatable{b}
+Phoenix Wright!{nextpage_button}{person: 12 291 290}{0x59}{speed: 3}
+The plan was simple.{wait: 18} Elegant,{wait: 8}{b}
+really.{wait: 18} You see,{wait: 10}{speed: 4} we set up a{b}{color: 1}
+trap{color: 0} of sorts...{p}{person: 12 291 290}{speed: 3}
+I was to {sound: 52 1}{bgcolor: 2305 8 31}{color: 1}plant a card{color: 0} in{b}
+Wright's pocket beforehand...{p}
+...and then deal five aces{b}
+during one of their games.{nextpage_button}{person: 0 0 0}{bg: 110}{0x5f: 4 1 1}{speed: 2}
+When their hands were{b}
+revealed,{wait: 10}{speed: 3} Smith would {sound: 26 1}{shake: 30 1}{bgcolor: 2305 8 31}call{b}
+him out and search Wright.{p}
+He would then pull out the{b}
+planted card and the trap{b}
+would {shake: 30 0}{bgcolor: 2305 8 31}snap shut!{nextpage_button}{hidetextbox: 1}{wait: 30}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{wait: 15}{bg: 4095}{bgcolor: 769 0 31}{wait: 1}{name: 0}{center_text: 1}{speed: 2}{hidetextbox: 0}{sound: 50 1}{shake: 30 2}{color: 3}{bgcolor: 2305 8 31}
+You swapped {bgcolor: 2305 8 31}the cards!{color: 0}{p}{center_text: 0}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 27}{person: 12 291 290}{0x5a}{bgcolor: 260 1 31}{wait: 25}{name: 3072}{0x59}{hidetextbox: 0}{speed: 4}
+Exposed as a cheater and{b}
+losing on top of it!{0x5a}{wait: 25}{speed: 2}{bgcolor: 2305 8 31}{shake: 30 0}{0x59} It would{b}
+have made a great double play.{nextpage_button}{person: 12 293 292}{speed: 4}
+Just like that,{wait: 12} the legend{b}
+would be dashed to pieces.{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 5}
+Indeed{speed: 8}...{p}{person: 10 265 264}{speed: 3}
+Getting caught red-handed at{b}
+cheating would cast doubt on{b}
+all his prior wins...{p}{bg: 27}{person: 12 291 290}{name: 3072}{speed: 4}
+A seven-year legend,{wait: 12} destroyed{b}
+by one little card...{p}{speed: 4}
+That was{wait_noanim: 15}{person: 12 293 292}{fademusic: 30}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}{bgcolor: 2305 8 31} the {bgcolor: 2305 8 31}plan!{p}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 61 1}{sound: 22 1}{wait: 120}{bg: 28}{person: 8 224 223}{name: 2048}{hidetextbox: 0}{speed: 5}
+"Oh really, {wait: 8}Orly"?{wait: 18}{b}{speed: 4}
+How droll.{p}{speed: 3}
+But...{wait: 12}{speed: 4} it appears you made{b}
+quite the mistake.{p}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 5}
+A mistake?{p}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 3}
+I agree,{wait: 12}{speed: 4} the trap was elegant.{p}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Yet,{wait: 8} what happened to that{b}{color: 1}
+planted card{color: 0}?{nextpage_button}{person: 8 219 219}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Hey,{bgcolor: 2305 8 31}{speed: 8}{wait: 12}{speed: 2} that's right!{nextpage_button}{bg: 27}{person: 12 291 290}{name: 3072}{speed: 5}
+He's lucky,{wait: 16}{speed: 4} I'll give him{b}
+that.{p}{person: 12 293 292}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+You'd have to be to {bgcolor: 2305 8 31}slip{b}
+free from a {bgcolor: 2305 8 31}trap laid by{b}{bgcolor: 2305 8 31}
+Olga {wait: 6}"Quick-Fingers"{bgcolor: 2305 8 31}{wait: 6} Orly!{p}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 7}
+Oh really?{speed: 11}{speed: 255}{p}{person: 10 259 258}{speed: 4}
+The witness would be much{b}
+cuter if she dispensed with{b}
+the evil mastermind shtick.{p}{bg: 27}{person: 12 293 292}{name: 3072}{speed: 2}
+Cute...?{wait: 8}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2} Who wants to be cute?{p}{speed: 5}
+I'm not cute!{wait_noanim: 20}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{0x59}{speed: 2} I'm {bgcolor: 2305 8 31}bad!{wait: 12}{b}{bgcolor: 2305 8 31}
+You hear{bgcolor: 2305 8 31} me?{wait: 18} {bgcolor: 2305 8 31}Bad!!!{p}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 4}
+When you're through being bad,{wait: 15}{b}{speed: 3}
+perhaps you could testify to{b}
+the court?{p}{person: 10 263 262}
+Tell us about this {wait: 6}"{color: 1}trap{color: 0}"{wait: 6}...{wait: 12}{b}
+and how it was sprung.{nextpage_button}{testimony_animation: 1}{special_jmp}{endjmp}

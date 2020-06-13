@@ -1,0 +1,646 @@
+
+
+{{0}}
+{bop}{0x62: 2 4}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 13 320 320}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 18 11 2 93 1 1 3}{b}
+-- The Meraktis Clinic 2 --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{name: 3328}{fademusic: 0}{music: 2 0}{name: 3328}{person: 13 337 336}
+Yes,{wait: 8} I went to the clinic that{b}
+day to speak to the doctor.{nextpage_button}{person: 13 329 328}
+I wanted that chart,{wait: 6} but I{b}
+failed to get it. So I went{b}
+back to the clinic later.{nextpage_button}{person: 13 337 336}
+In any case, I didn't shoot{b}
+him.{wait: 16} You don't even have proof{b}
+I stole that pistol, do you.{nextpage_button}{person: 13 340 339}
+And that brat was spotted in{b}
+the park at the moment of the{b}
+crime!{p}
+Frankly, I don't think it{b}
+matters if Dr. Meraktis was{b}
+shot in the temple or not.{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{person: 10 259 258}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{0x59}
+You went back{wait: 6} "later"{speed: 8}...?{nextpage_button}{bg: 27}{person: 13 332 331}{name: 3328}{showphoto: 78}{speed: 4}
+That chart was dangerous,{wait: 12}{b}
+you understand.{p}
+I needed to get rid of it,{wait: 9}{b}
+that's why I went that day...{nextpage_button}{bganim: 98 579}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 3}
+But you couldn't get the chart{b}
+then,{wait: 12} could you?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 13 328}{wait: 32}{person: 13 329 328}{name: 3328}{hidetextbox: 0}{speed: 4}
+...{wait: 10}{speed: 3}And later that night,{wait_noanim: 20}{b}{person: 13 335 334}
+Dr. Meraktis was shot.{nextpage_button}{person: 13 332 331}{speed: 4}
+I heard about the shooting,{wait: 8}{b}
+waited a day,{wait: 12} but then I had{b}
+to go back...{p}
+...{wait: 20}No easy feat with the cops{b}
+all over the place.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{wait: 20}{person: 4 58 58}{name: 1024}{sound: 51 1}{shake: 30 0}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+...Ah!{wait: 30}{person: 4 59 58} Th-{wait: 16}That was you!?{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 222}{person: 5 67 67}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 0}{sound: 112 1}{shake: 30 0}{hidetextbox: 0}{person: 5 81 81}{speed: 5}
+*thump*{nextpage_button}{name: 1280}{person: 5 81 81}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 6}
+......!{wait: 30}{b}{person: 5 82 81}{speed: 2}
+Ah...{wait: 20}{shake: 30 0} Apollo!{wait: 16} That sound...{wait: 20}{b}{bgcolor: 2305 8 31}
+It came from behind this door!{0x5a}{person: 5 84 83}{shake: 30 0}{bgcolor: 2305 8 31}{fademusic: 0}{music: 18 0}{p}{name: 1024}{person: 5 81 81}{bgcolor: 2305 8 31}{color: 2}
+(...{wait: 20}Someone's in there!){color: 0}{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 223}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{name: 1024}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+A break-in!{wait: 20}{b}{speed: 3}
+They left through that window!{p}{hidetextbox: 1}{wait: 20}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 25}{person: 4 59 58}{0x5a}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{0x59}
+So you were the burglar{speed: 8}...{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 336}{wait: 32}{person: 13 337 336}{name: 3328}{hidetextbox: 0}{speed: 4}
+That was you two?{wait: 12} {speed: 3}If only{wait_noanim: 20}{b}{person: 13 340 339}
+I had one more minute...{p}
+...then I could have opened{b}
+that safe and gotten the{b}
+chart!{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+What!?{wait: 16} {speed: 3}That's trespassing!{wait: 8}{b}
+And brazen,{wait: 8} at that!{nextpage_button}{bg: 27}{person: 13 340 339}{name: 3328}
+Oh,{wait: 12} is this a trial for{b}
+trespassing now?{wait_noanim: 25} {person: 13 340 339}Besides...{nextpage_button}{person: 13 329 328}{speed: 4}
+You can't blame a girl for{b}
+wanting to protect herself.{p}{person: 13 327 326}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+They are gangsters,{wait: 8} you know.{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+In any case,{wait: 8} Mr. Justice,{wait: 8} your{b}
+cross-examination!{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{color: 2}
+(Admitting the little crime to{b}
+avoid the big one,{wait: 8} eh?){color: 0}{nextpage_button}{endjmp}
+
+{{1}}
+{bop}{0x6b: 0 1 0}{bganim: 98 513}{0x6b: 1 0 0}{bganim: 98 513}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 13 320 320}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 135}{center_text: 1}{speed: 2}{b}{color: 1}
+-- The Meraktis Clinic 2 --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 136 0}{lifebar: 22}{0x53}{person: 13 337 336}{name: 3328}{hidetextbox: 0}{color: 3}Yes, I went to the clinic that{b}
+day to speak to the doctor.{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 137 0}{lifebarset: 0 130}{lifebar: 21}{0x53}{person: 13 329 328}{name: 3328}{hidetextbox: 0}{color: 3}I wanted that chart, but I{b}
+failed to get it. So I went{b}
+back to the clinic later.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 138 0}{lifebarset: 0 131}{lifebar: 22}{0x53}{person: 13 337 336}{name: 3328}{hidetextbox: 0}{color: 3}In any case, I didn't shoot{b}
+him. You don't even have proof{b}
+I stole that pistol, do you.{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 132}{lifebar: 23}{0x53}{person: 13 340 339}{name: 3328}{hidetextbox: 0}{color: 3}And that brat was spotted in{b}
+the park at the moment of the{b}
+crime!{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 133}{lifebar: 23}{0x53}{person: 13 340 339}{name: 3328}{hidetextbox: 0}{color: 3}Frankly, I don't think it{b}
+matters if Dr. Meraktis was{b}
+shot in the temple or not.{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 25}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{color: 2}(I think we're seeing her{b}
+true colors now...){color: 0}{p}{bg: 28}{name: 1280}{person: 5 103 102}
+She's trying to push all the{b}
+blame on Wocky!{p}
+And she's getting away{b}
+with it!{p}{bg: 25}{name: 1024}{person: 4 58 58}{speed: 4}{color: 2}
+(My{wait: 6} {color: 1}bracelet{color: 2} didn't react{b}
+to anything this time...){nextpage_button}
+(I guess that means there's{b}
+nothing worth perceiving...{b}
+Time to get old school!){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 13 336 336}{name: 3328}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{8}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}Why{wait: 6} "that day"?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 320}{wait: 32}{name: 3328}{person: 13 321 320}{hidetextbox: 0}
+That brat was uncontrollable.{wait: 16}{b}
+He was ready to kill!{nextpage_button}{person: 13 329 328}
+And that would bring in the{b}
+police...{p}
+And that chart would become{b}
+evidence...{nextpage_button}{person: 13 332 331}{speed: 5}
+And I'd be hung out to dry{0x5a}...{b}
+*sniffle*{nextpage_button}{bg: 28}{name: 1280}{person: 5 99 98}{speed: 3}
+But the police didn't check{b}
+the safe,{wait: 8} did they?{nextpage_button}{name: 1024}{speed: 5}
+Well,{wait: 12} {speed: 3}they thought the crime{b}
+scene was the park.{nextpage_button}{bg: 26}{name: 13568}{person: 6 149 148}
+I'll make sure the responsible{b}
+parties feel the heat...{p}
+Such sloppiness won't be{b}
+tolerated,{wait: 8} ja?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{name: 1024}{person: 4 40 40}{hidetextbox: 0}{speed: 4}{color: 2}
+(I'm kinda thankful for{b}
+that sloppiness myself,{wait: 8}{b}
+actually...){color: 0}{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 13 328 328}{name: 3328}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{9}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 4}"Later"{speed: 8}{0x5a}...?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 328}{wait: 32}{name: 3328}{person: 13 329 328}{hidetextbox: 0}{speed: 3}
+When I heard what happened,{wait: 8}{b}
+well,{wait: 8} I was too scared to{b}
+do anything that day.{nextpage_button}{person: 13 337 336}
+So I waited until the day{b}
+after...{wait: 20} The 16th,{wait: 10} was it?{nextpage_button}{person: 13 340 339}{speed: 4}
+...{wait: 20}Of course,{wait: 8} you and that{b}
+meddling kid had to get in{b}
+my way.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+But why did Dr. Meraktis keep{b}
+that chart around?{p}
+It was clearly dangerous for{b}
+him.{wait: 16} He could have burned it.{p}{bg: 27}{name: 3328}{person: 13 340 339}
+Because he's a coward.{p}
+The chart was his insurance.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 4}
+Insurance...?{p}{bg: 27}{name: 3328}{person: 13 337 336}
+My signature on that chart,{wait: 8}{b}
+to be more specific.{p}
+That made sure I couldn't{b}
+betray him.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 13 336 336}{name: 3328}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 2}But you could have stolen it!{shake: 30 0}{bgcolor: 2305 8 31}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 339}{wait: 32}{name: 3328}{person: 13 340 339}{hidetextbox: 0}{speed: 3}
+"Could have"?{wait: 16} Is this some new{b}
+definition of proof?{nextpage_button}{bg: 25}{name: 1024}{person: 4 59 58}
+We'll ask Wocky.{wait: 8} He'll tell{b}
+us!{p}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 3}
+Might I remind you this is a{b}
+cross-examination?{p}{person: 6 149 148}
+You might want to keep your{wait: 6}{b}
+baseless theories{wait: 6} to yourself.{nextpage_button}{bg: 25}{name: 1024}{person: 4 58 58}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+Mmmmmnk!{wait: 30}{b}{speed: 4}{color: 2}
+(He's right,{wait: 8} isn't he...){speed: 255}{color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 13 339 339}{name: 3328}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 66 65}{name: 1024}{hidetextbox: 0}{sound: 26 1}{shake: 30 0}{speed: 2}Y-{wait: 12}Yeah,{wait: 8} but...{0x5a}{wait: 30}{b}{0x59}{speed: 5}
+Um{0x5a}{speed: 6}.{speed: 8}.{speed: 10}.{wait: 20}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 339}{wait: 32}{name: 3328}{person: 13 340 339}{hidetextbox: 0}{speed: 3}
+But what?{wait: 16} You have nothing{b}
+to say.{wait: 16} This case is over.{p}
+It was over the moment that{b}
+brat was seen in the park!{nextpage_button}{person: 13 337 336}
+What's the point in dragging{b}
+it out any further?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 13 339 339}{name: 3328}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{12}}
+{bop}{0x29: 0}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}The doctor was shot in{b}
+the right temple,{wait: 12} yes?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 339}{wait: 32}{person: 13 340 339}{name: 3328}{hidetextbox: 0}
+So it seems.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{person: 6 151 150}{name: 13568}{fademusic: 60}{hidetextbox: 0}
+...{wait: 20}Let's review the facts{b}
+again,{wait: 8} shall we?{nextpage_button}{fademusic: 60}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 92}{person: 0 0 0}{littlesprite: 513}{littlesprite: 9985}{0x3a: 2 168 102}{0x3b: 9989 16384}{littlesprite: 769}{littlesprite: 10241}{0x3a: 3 96 102}{0x3b: 10245 49152}{bgcolor: 258 1 31}{wait: 15}{fademusic: 0}{music: 4 0}{wait: 60}{name: 13568}{hidetextbox: 0}{speed: 4}
+If the killer shot from this{b}
+location...{nextpage_button}{speed: 3}
+...the bullet would've struck{b}
+our victim square in the{b}
+forehead.{nextpage_button}
+However!{wait: 16}{b}
+The entry wound...{nextpage_button}{littlesprite: 11009}{0x3a: 43 168 86}{0x3c: 11009}
+...{wait: 20}was in the right temple.{nextpage_button}{hidetextbox: 1}{0x3c: 11008}{wait: 60}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 514}{bg: 29}{person: 10 259 258}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{0x59}
+Yes,{wait: 8} we heard testimony on{b}{showphoto: 42}
+this yesterday.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 92}{person: 0 0 0}{littlesprite: 513}{littlesprite: 9985}{0x3a: 2 168 102}{0x3b: 9989 16384}{littlesprite: 769}{littlesprite: 10241}{0x3a: 3 96 102}{0x3b: 10245 49152}{littlesprite: 1025}{littlesprite: 10497}{0x3a: 4 132 136}{0x3b: 10501 32768}{bgcolor: 258 1 31}{wait: 15}{wait: 30}{name: 2560}{hidetextbox: 0}{speed: 3}
+At the time of the shooting,{wait: 16}{b}
+the witness was standing here.{nextpage_button}{hidetextbox: 1}{0x3c: 1025}{wait: 100}{hidetextbox: 0}
+Just before the gun was fired,{wait: 8}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+he {color: 1}shouted{color: 0}.{nextpage_button}
+The victim turned his head{b}
+to look...{wait: 16}{0x3c: 1024}{0x3b: 9989 16384}{wait: 8}{0x3b: 9989 8192}{wait: 8}{0x3b: 9989 4096}{wait: 8}{0x3b: 9989 0}{wait: 8}{speed: 3} and was{sound: 96 1} shot.{shake: 30 0}{bgcolor: 2305 8 31}{littlesprite: 11009}{0x3a: 43 152 102}{0x3b: 11013 49152}{0x3c: 11009}{wait: 90}{0x3c: 11008}{nextpage_button}{hidetextbox: 1}{wait: 40}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{bganim: 98 514}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}
+But that testimony was proven{b}
+to be a {wait: 6}lie!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 92}{person: 0 0 0}{littlesprite: 513}{littlesprite: 9985}{0x3a: 2 168 102}{0x3b: 9989 16384}{littlesprite: 769}{littlesprite: 10241}{0x3a: 3 96 102}{0x3b: 10245 49152}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}
+Our egregious panty-snatcher,{wait: 8}{b}
+Mr. Stickler, did witness the{b}
+crime...{nextpage_button}
+But he was standing to the{b}{littlesprite: 1025}{littlesprite: 10497}{0x3a: 4 126 36}{0x3c: 1025}{wait: 30}{speed: 3}{color: 1}
+north{color: 0}{wait: 6},{wait: 8} next to the trash can{b}
+where he tossed those panties!{nextpage_button}{speed: 2}
+If Mr. Stickler shouted from{b}{shake: 30 0}{bgcolor: 2305 8 31}
+this location,{wait: 8} the bullet{b}
+couldn't hit his right temple!{nextpage_button}{0x3c: 1024}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 514}{bg: 27}{person: 13 340 339}{0x5a}{bgcolor: 257 1 31}{wait: 7}{name: 3328}{0x59}{hidetextbox: 0}{speed: 3}
+Silly,{wait: 12} silly attorney...{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Wh-{wait: 12}What...!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 339}{wait: 32}{person: 13 340 339}{name: 3328}{hidetextbox: 0}{speed: 3}
+Do you remember what you had{b}
+for breakfast that morning?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{person: 4 40 40}{name: 1024}{hidetextbox: 0}{speed: 6}
+.{speed: 8}.{speed: 10}.{nextpage_button}{bg: 28}{person: 5 98 98}{name: 1024}{speed: 3}
+Do you remember,{wait: 8} Trucy?{nextpage_button}{person: 5 105 104}{name: 1280}
+I always have a glass of milk{b}
+for breakfast.{nextpage_button}{bg: 27}{person: 13 321 320}{name: 3328}
+What matters is one thing:{wait_noanim: 25}{b}{person: 13 321 320}
+The doctor was shot in his{b}
+right temple.{nextpage_button}{person: 13 329 328}
+If that's the case,{wait: 8} there can{b}
+only be one explanation!{nextpage_button}{fademusic: 60}{person: 13 327 326}{sound: 52 1}{bgcolor: 2305 8 31}
+The panties guy was mistaken.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+But his location was proven!{p}{person: 4 66 65}
+You can't write that off as{b}
+him being{wait: 6} "mistaken"!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{name: 13568}{hidetextbox: 0}{speed: 4}
+...{wait: 20}Then why don't you show{b}
+us,{wait: 8} Herr Forehead?{b}{fademusic: 0}{music: 18 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Show you...{wait: 20} what?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{person: 6 146 145}{name: 13568}{hidetextbox: 0}
+Must I explain everything?{wait_noanim: 20}{b}{person: 6 151 150}
+Very well,{wait: 8} let's recap:{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 92}{person: 0 0 0}{littlesprite: 513}{littlesprite: 9985}{0x3a: 2 168 102}{0x3b: 9989 16384}{littlesprite: 769}{littlesprite: 10241}{0x3a: 3 96 102}{0x3b: 10245 49152}{littlesprite: 1025}{littlesprite: 10497}{0x3a: 4 126 36}{bgcolor: 258 1 31}{wait: 15}{wait: 60}{name: 13568}{hidetextbox: 0}
+If the witness,{wait: 8} panties guy,{wait: 8}{b}
+was standing to the north{speed: 8}...{nextpage_button}
+...{wait: 16}{speed: 3}then {color: 1}where was the shooter{b}
+standing{color: 0}?{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+From what location did the{b}
+killer shoot the victim?{nextpage_button}{bganim: 98 514}{bg: 29}{person: 10 265 264}{name: 2560}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+But wait!{wait: 16} {speed: 3}If the witness was{b}
+standing there...{nextpage_button}{person: 10 263 262}
+...how could anyone shoot the{b}
+victim in the right temple?{p}{bg: 26}{person: 6 147 147}{name: 13568}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}
+...{wait: 20}Ah{wait: 8} ha{wait: 8} ha{wait: 8} ha{wait: 8} ha!{wait: 30}{person: 6 149 148} I merely{b}
+laid out the facts for us.{p}{person: 6 157 156}
+It is up to the one possessing{b}
+the shiny forehead to show us.{p}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{person: 4 40 40}{hidetextbox: 0}{speed: 8}
+...{wait: 20}{speed: 3}If you can,{wait: 10} that is.{p}{bg: 25}{person: 4 40 40}{name: 1024}{color: 2}
+(Wocky Kitaki was standing at{b}
+the "{color: 1}Killer{color: 2}" mark...){p}
+(Wesley Stickler at the{b}
+"{color: 1}Witness{color: 2}" mark...){p}
+(And of course Pal Meraktis{b}
+was at the "{color: 1}Victim{color: 2}" mark...){color: 0}{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{endjmp}
+
+{{13}}
+{bop}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}Let's hear what the defense{b}
+has to say.{p}{littlesprite: 513}{littlesprite: 9985}{0x3a: 2 168 102}{0x3b: 9989 16384}{littlesprite: 769}{littlesprite: 10241}{0x3a: 3 96 102}{0x3b: 10245 49152}{littlesprite: 1025}{littlesprite: 10497}{0x3a: 4 126 36}{bg: 92}{person: 0 0 0}
+Where was the killer standing{b}
+when they shot the victim?{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 41}{0x2a: 43 1 1}{3args_choice_jmp: 142 143 145}{endjmp}
+
+{{14}}
+{bop}{bganim: 98 514}{fademusic: 45}{bg: 25}{name: 1024}{person: 4 66 65}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}At the "{color: 1}Killer{color: 0}" mark,{wait: 8}{b}
+of course!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 3}
+In one fell swoop,{wait: 8} we are back{b}
+where we were yesterday,{wait: 8} ja?{p}{person: 6 146 145}
+How do you explain the wound{b}
+in the victim's right temple?{p}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 6}
+...{speed: 8}....{speed: 10}.....{wait: 35}{b}{person: 4 50 49}{sound: 52 1}{bgcolor: 2305 8 31}
+Uh,{wait: 8} {speed: 4}that is a problem,{wait: 8}{b}
+isn't it?{p}{bg: 29}{name: 2560}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Thank you,{wait: 8} Mr. Justice,{wait: 8} for{b}
+pointing out the obvious!{p}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+That would make Wocky the{b}
+killer,{wait: 8} Apollo!{wait: 16} Geez!{p}{bg: 29}{name: 2560}{person: 10 261 261}{speed: 4}
+One more time,{0x63}{person: 10 263 262} if you would.{0x23: 0}{music: 255 60}{nextpage_button}{jmp: 141}{endjmp}
+
+{{15}}
+{bop}{bganim: 98 514}{fademusic: 45}{bg: 25}{name: 1024}{person: 4 66 65}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}The killer was standing at{b}
+the "{color: 1}Witness{color: 0}" mark!{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+That would explain the wound{b}
+in the victim's right temple.{p}{bg: 26}{name: 13568}{person: 6 151 150}
+So,{wait: 8} once again,{wait: 8} you are{b}
+accusing Wesley Stickler?{p}{person: 6 146 145}{speed: 4}
+...{wait: 20}As the murderer of Pal{b}
+Meraktis?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{name: 1024}{person: 4 40 40}{hidetextbox: 0}{speed: 4}{color: 2}
+(I would be,{wait: 8} wouldn't I...){color: 0}{p}{bg: 27}{name: 3328}{person: 13 327 326}
+Finally,{wait: 7} a glimmer of sense.{p}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 3}
+Very well,{wait: 8} Herr Forehead.{b}
+Show us proof!{p}{person: 6 157 156}
+Have you evidence that{b}
+incriminates Wesley Stickler?{p}{0x23: 0}{music: 255 60}{bg: 25}{name: 1024}{person: 4 58 58}{color: 2}
+(I guess he really is the most{b}
+likely suspect...){p}{bganim: 98 514}{0x6c: 0}{0x6e: 20}{speed: 4}
+(Do I have some evidence that{b}
+shows Mr. Stickler did it?){color: 0}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{0x6d: 0}{fademusic: 60}{bg: 26}{name: 13568}{person: 6 145 145}{hidetextbox: 0}{speed: 8}.........{nextpage_button}{bg: 29}{name: 2560}{person: 10 261 261}{speed: 4}
+Apparently,{wait: 8} you lack this{0x63}{b}{person: 10 263 262}
+promised evidence.{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 6}{color: 2}
+(Ugh...{wait: 20} {speed: 3}That wasn't it...){color: 0}{p}{bg: 26}{name: 13568}{person: 6 146 145}
+You'll never succeed if your{b}
+base assumption is faulty.{p}{person: 6 149 148}
+Perhaps you should rethink{b}
+this from the top,{wait: 8} ja?{p}{bg: 25}{name: 1024}{person: 4 58 58}{color: 2}
+(Maybe he's right...){color: 0}{p}{bg: 26}{name: 13568}{person: 6 151 150}
+In fact,{wait: 8} you may want to{b}
+rethink your choice of career.{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{color: 2}
+(Hey,{wait: 10} that was a bit uncalled{b}
+for,{wait: 10} don't you think!?){p}{color: 0}{person: 4 37 36}
+Your Honor,{wait: 8} the defense would{b}
+like to reconsider!{p}{bg: 29}{name: 2560}{person: 10 260 260}{speed: 5}
+...{wait: 20}Very well.{0x63}{p}{person: 10 263 262}{0x6e: 20}{0x6c: 0}{speed: 4}
+This penalty should help keep{b}
+you on track.{person: 10 262 262}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{hidetextbox: 1}{0x6d: 0}{wait: 10}{0x52}{0x23: 0}{music: 255 60}{wait: 30}{jmp: 141}{endjmp}
+
+{{17}}
+{bop}{fademusic: 45}{bganim: 98 514}{bg: 25}{person: 4 59 58}{name: 1024}As the facts stand now,{wait: 8} we{b}
+can't explain this crime...{p}
+...{wait: 20}without contradicting{b}
+ourselves at some point.{nextpage_button}{person: 4 37 36}
+But I know why.{p}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+The real killer{bgcolor: 2305 8 31} shot from an{b}
+entirely different{bgcolor: 2305 8 31} location!{fademusic: 0}{music: 35 0}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 336}{wait: 32}{person: 13 337 336}{name: 3328}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{hidetextbox: 0}
+What are you talking about!?{wait: 16}{b}
+I don't see any other place...{wait: 20}{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 266 266}{name: 2560}{hidetextbox: 0}{speed: 5}
+Apparently,{wait: 8}{person: 10 259 258} Mr. Justice does.{p}
+...{wait: 20}Let's hear it.{nextpage_button}{0x6c: 0}{0x6e: 20}{person: 10 263 262}
+Where in the park did the{b}
+killer shoot the victim from?{nextpage_button}{0x6d: 1}{hidetextbox: 1}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 26}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{name: 13568}{hidetextbox: 0}{speed: 4}
+It's time to raise the roof!{b}{speed: 3}
+...{wait: 20}And the stakes.{nextpage_button}{bg: 25}{person: 4 36 36}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}
+Eh?{wait: 20}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{person: 6 150 150}{person: 6 151 150}{name: 13568}{hidetextbox: 0}{speed: 4}
+Penalties are such frightening{b}
+things,{wait: 8} don't you think?{b}{0x6c: 0}{0x6e: 20}{nextpage_button}{person: 6 149 148}{speed: 3}
+But what if they were a bit{b}
+more... terrifying?{nextpage_button}{fademusic: 30}{hidetextbox: 1}{person: 6 170 170}{sound: 165 1}{0x63}{person: 6 171 171}{0x63}{person: 6 172 172}{0x63}{person: 6 173 173}{0x63}{person: 6 174 174}{0x63}{person: 6 175 175}{0x63}{person: 6 176 176}{0x63}{0x63}{wait: 10}{0x6e: 40}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 60}{hidetextbox: 0}{speed: 5}
+...{wait: 20}Like so.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+D-{wait: 20}{speed: 3}{bgcolor: 2305 8 31}Double penalty?{0x23: 0}{music: 255 90}{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 4}
+Herr Forehead wishes to take{b}
+us in a new direction?{nextpage_button}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{sound: 26 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 3}
+Then he must be ready for the{b}
+challenges ahead!{nextpage_button}{0x6d: 0}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{name: 1024}{person: 4 42 42}{wait: 80}{person: 4 37 36}{hidetextbox: 0}{bgcolor: 2305 8 31}
+...{wait: 20}Challenge accepted.{wait_noanim: 30}{b}{speed: 4}{color: 2}
+(It's Justice time!){color: 0}{nextpage_button}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+A-{wait: 12}Are you sure,{wait: 8} Apollo?{nextpage_button}{endjmp}
+
+{{18}}
+{bop}{bg: 25}{person: 4 40 40}{name: 1024}{color: 2}(The key is the witness,{wait: 8}{b}
+Mr. Stickler's testimony!){nextpage_button}{bg: 92}{person: 0 0 0}{littlesprite: 513}{littlesprite: 9985}{0x3a: 2 168 102}{0x3b: 9989 16384}{littlesprite: 769}{littlesprite: 10241}{0x3a: 3 96 102}{0x3b: 10245 49152}{littlesprite: 1025}{littlesprite: 10497}{0x3a: 4 126 36}{speed: 4}
+(If we believe that,{wait: 8} and we{b}
+know where he stood...){nextpage_button}{speed: 3}
+(...{wait: 20}and the victim turned{b}
+when he shouted...){wait: 8}{0x3b: 9989 16384}{wait: 8}{0x3b: 9989 24576}{wait: 8}{0x3b: 9989 32768}{wait: 8}{p}{speed: 3}
+(...{wait: 20}there's only one place the{b}
+killer could have been!){color: 0}{nextpage_button}{0x6c: 0}{0x6e: 40}{color: 3}
+The killer shot the victim{b}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+from...{wait: 16} here!{color: 0}{speed: 255}{0x3e: 7}{wait: 60}{0x3f}{endjmp}
+
+{{19}}
+{bop}{bganim: 98 514}{fademusic: 45}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 66 65}{hidetextbox: 0}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}This is where the killer{bgcolor: 2305 8 31}{b}
+shot from!{p}{hidetextbox: 1}{bg: 29}{person: 10 261 261}{wait: 70}{name: 2560}{person: 10 263 262}{hidetextbox: 0}{speed: 3}
+But then the killer couldn't{b}
+have shot his right temple.{p}{bg: 26}{name: 13568}{person: 6 147 147}
+So young,{wait: 8} and already senile.{wait: 20}{b}{person: 6 149 148}
+How unfortunate...{p}{bg: 29}{name: 2560}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I'll have you know I'm not{b}
+senile!{p}{speed: 3}
+Why I remember exactly what I{b}
+ate the morning of the crime!{p}{person: 10 266 266}{speed: 6}
+........{shake: 30 1}.{speed: 8}.......{shake: 30 1}.{speed: 10}......{speed: 12}.{shake: 30 1}......{wait: 60}{nextpage_nobutton}{bg: 29}{name: 2560}{person: 10 263 262}{0x6c: 0}{0x6e: 40}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ahem!{wait: 16}{b}
+Penalty!{0x5a}{0x6b: 1 0 0}{0x2b}{testimony_animation: 45}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}(...{wait: 20}No fair.){color: 0}{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+You seem intent on digging{b}
+your own grave.{wait: 16} Here, have{b}{0x23: 0}{music: 255 60}
+a shovel and try again.{nextpage_button}{jmp: 146}{endjmp}
+
+{{20}}
+{bop}{bganim: 98 514}{fademusic: 45}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 66 65}{hidetextbox: 0}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}This is where the killer{bgcolor: 2305 8 31}{b}
+shot from!{p}{hidetextbox: 1}{bg: 29}{person: 10 261 261}{wait: 70}{name: 2560}{person: 10 263 262}{hidetextbox: 0}{speed: 3}
+But then the killer couldn't{b}
+have shot his right temple.{p}{bg: 26}{name: 13568}{person: 6 147 147}
+So young,{wait: 8} and already senile.{wait: 20}{b}{person: 6 149 148}
+How unfortunate...{p}{bg: 29}{name: 2560}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I'll have you know I'm not{b}
+senile!{p}{speed: 3}
+Why I remember exactly what I{b}
+ate the morning of the crime!{p}{person: 10 266 266}{speed: 6}
+........{shake: 30 1}.{speed: 8}.......{shake: 30 1}.{speed: 10}......{speed: 12}.{shake: 30 1}......{wait: 60}{nextpage_nobutton}{bg: 29}{name: 2560}{person: 10 263 262}{0x6c: 0}{0x6e: 40}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ahem!{wait: 16}{b}
+Penalty!{b}{0x5a}{0x6b: 1 0 0}{0x2b}{testimony_animation: 45}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(...{wait: 20}No fair.){color: 0}{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+You seem intent on digging{b}
+your own grave.{wait: 16} Here, have{b}{0x23: 0}{music: 255 60}
+a shovel and try again.{nextpage_button}{jmp: 146}{endjmp}
+
+{{21}}
+{bop}{bganim: 98 514}{fademusic: 45}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 66 65}{hidetextbox: 0}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}This is where the killer{bgcolor: 2305 8 31}{b}
+shot from!{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+Hmm.{wait: 16} I hadn't thought of{b}
+that.{p}{bg: 25}{name: 1024}{person: 4 38 38}{speed: 4}
+None of us did,{wait: 8} Your Honor!{0x63}{p}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 3}
+And this explains the wound{b}
+in the right temple how?{p}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{name: 1024}{person: 4 40 40}{hidetextbox: 0}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait: 40}{b}{person: 4 56 55}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+I hadn't thought of that.{p}{bg: 29}{name: 2560}{person: 10 263 262}{0x6c: 0}{0x6e: 40}{speed: 3}
+An amusing diversion,{wait: 8}{b}
+Mr. Justice.{wait: 16} Penalty.{b}{0x5a}{0x6b: 1 0 0}{0x2b}{testimony_animation: 45}{0x6d: 0}{0x52}{bg: 26}{name: 13568}{person: 6 151 150}
+Yes,{wait: 8} amusing...{wait: 14} like your{b}
+career,{wait: 8} Mr. Justice.{p}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{color: 2}
+(Fine,{wait: 8} rub it in...){color: 0}{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+Perhaps you would be so kind{b}
+as to try again?{b}{0x23: 0}{music: 255 60}{nextpage_button}{jmp: 146}{endjmp}
+
+{{22}}
+{bop}{bganim: 98 514}{fademusic: 45}{0x6d: 0}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}I believe we all owe a debt{b}
+of gratitude...{p}{person: 4 48 47}
+...{wait: 20}to Ms. Alita Tiala.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 323}{wait: 32}{person: 13 324 323}{animation: 149 1}{name: 3328}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Wh-{wait: 20}{speed: 4}What do you mean?{nextpage_button}{bg: 25}{person: 4 48 47}{name: 1024}
+Thanks to you,{wait: 8} we had a chance{b}
+to review the crime...{nextpage_button}{showphoto: 337}{person: 4 45 44}
+...{wait: 20}and this time,{wait: 8} we were{b}
+prepared.{nextpage_button}{person: 4 37 36}
+We know that Wesley Stickler{b}
+was telling the truth!{nextpage_button}{bganim: 98 579}{fademusic: 0}{music: 9 0}{bg: 92}{person: 0 0 0}{littlesprite: 513}{littlesprite: 9985}{0x3a: 2 168 102}{0x3b: 9989 16384}{littlesprite: 769}{littlesprite: 10241}{0x3a: 3 96 102}{0x3b: 10245 49152}{littlesprite: 1025}{littlesprite: 10497}{0x3a: 4 126 36}{name: 1024}
+We should have listened to{b}
+him from the beginning.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{person: 0 0 0}{bganim: 98 514}{0x75}{bop}{bop}{name: 1}{0x75}{pause}
+L{bop}{bop}{0x75}{music: 165 0}{bop}{0x75}{b}
+{16384}{bop}{bop}{bgcolor: 769 1 31}{wait: 7}{wait: 60}{hidetextbox: 0}Wesley Stickler was standing{b}
+next to the trash can when he{b}
+saw the two men.{nextpage_button}{hidetextbox: 1}{0x75}{music: 217 0}{bop}{0x75}{b}{b}{bop}{bop}{0x75}{sound: 0 0}{bop}{hidetextbox: 0}{speed: 4}
+...{wait: 25}{speed: 3}He shouted,{wait: 8} just as he{b}{bgcolor: 2305 8 31}{shake: 30 0}
+told us in his{bgcolor: 2305 8 31} testimony.{nextpage_button}{hidetextbox: 1}{0x75}{music: 237 0}{bop}{0x75}{b}{b}{bop}{bop}{wait: 160}{hidetextbox: 0}{speed: 5}
+...{wait: 16}And the victim turned to{b}
+look in his direction.{nextpage_button}{name: 1024}{sound: 96 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+A shot was fired!{bgcolor: 2305 8 31}{wait: 30} {speed: 3}The victim{b}
+was hit in the {color: 1}right temple{color: 0}.{0x75}{sound: 0 0}{bop}{nextpage_button}{bg: 29}{person: 10 265 264}{0x75}{b}{p}{bop}{bop}{name: 2560}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Oh no...{nextpage_button}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{name: 1024}{person: 4 59 58}
+Oh yes!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 92}{person: 0 0 0}{0x75}{bop}{bop}{name: 1}{0x75}{pause}
+{310}{bop}{bop}{0x75}{music: 310 0}{bop}{0x75}{b}
+{16384}{bop}{bop}{bgcolor: 769 1 31}{wait: 7}{0x75}{music: 337 0}{bop}{0x75}{b}{b}{bop}{bop}{hidetextbox: 0}{speed: 3}
+Which direction was his{wait: 6} right{b}
+temple{wait: 6} facing at that moment?{p}{bgcolor: 2305 8 31}{speed: 2}
+That's right!{b}
+Toward the noodle stand!{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}{bgcolor: 2305 8 31}{0x75}{sound: 0 0}{bop}{p}{0x75}{b}{p}{bop}{bop}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 65 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Order!{wait: 12} Order!{wait: 12} Order!!!{nextpage_button}{person: 10 265 264}{speed: 5}
+S-{wait: 12}So you'{shake: 30 0}re saying...{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+...{wait: 20}the killer was{wait: 10} {color: 1}inside the{b}
+noodle stand{color: 0}!?{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 26}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{name: 13568}{hidetextbox: 0}{person: 6 167 166}{speed: 4}
+...{wait: 20}Let's think about this a{b}
+bit more,{wait: 8} shall we?{p}{speed: 3}
+You say the killer was{wait: 6} "inside{b}
+the noodle stand".{p}{showphoto: 52}
+Which would mean the victim,{wait: 8}{b}
+Dr. Meraktis came to the{b}
+park...{p}{person: 6 146 145}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 20}wheeling his own murderer{b}
+in the cart behind him!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 2 4096 13 336}{wait: 32}{person: 13 337 336}{name: 3328}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+This is the most ridiculous{b}
+thing I've ever heard!{nextpage_button}{person: 13 340 339}
+I'd think you'd notice if you{b}
+were pulling someone along!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 5}
+There's something we should{b}
+worry about before that!{p}
+Why was he pulling the noodle{b}
+stand in the first place!?{p}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{person: 6 151 150}{name: 13568}{hidetextbox: 0}{speed: 4}
+Let's deal with our problems{b}
+one at a time,{wait: 8} shall we?{nextpage_button}{showphoto: 72}{0x59}{speed: 3}
+Someone was hiding in the{b}
+stand...{nextpage_button}{person: 6 146 145}
+We have not come this far{b}
+to talk about{wait: 12} "possibilities".{nextpage_button}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{hidetextbox: 0}
+...{wait: 20}Let's talk about{wait: 8} "proof",{wait: 8}{b}
+baby.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Show us evidence {wait: 18}that proves{b}
+someone was in that stand!{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 4}{color: 2}
+(Can I prove that...?){color: 0}{nextpage_button}{person: 4 59 58}
+You want evidence that someone{b}
+was in that stand{0x5a}{speed: 8}...?{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 44}{nextpage_button}
+{65535}{b}{2args_choice_jmp: 152 151}{endjmp}
+
+{{23}}
+{bop}{bg: 25}{name: 1024}{person: 4 64 65}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}Well,{wait: 16} {speed: 3}too bad!{0x63}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{fademusic: 45}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{name: 13568}{person: 6 166 166}{hidetextbox: 0}{speed: 8}
+.........{nextpage_button}{bg: 25}{name: 1024}{person: 4 50 49}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 2}
+...{wait: 20}Kidding!{wait: 16} Just kidding!{wait_noanim: 25}{b}{person: 4 48 47}{speed: 3}
+I've got it!{wait: 12}{0x23: 0}{music: 255 60}{p}{person: 4 61 61}{animation: 149 1}{speed: 5}{color: 2}
+(...{wait: 20}Whew,{wait: 8} close one.){color: 0}{p}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 4}
+...{wait: 20}Then let's see it.{nextpage_button}{jmp: 153}{endjmp}
+
+{{24}}
+{bop}{bg: 25}{person: 4 38 38}{name: 1024}{speed: 4}...{wait: 20}I've got it right here.{0x63}{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 4}
+Intriguing!{wait_noanim: 25}{b}{person: 10 263 262}{speed: 3}
+Let's see what you've got.{nextpage_button}{endjmp}
+
+{{25}}
+{bop}{bg: 29}{person: 10 263 262}{name: 2560}{0x6c: 0}{0x6e: 20}Show us proof that someone was{b}
+hiding in the noodle stand!{b}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{26}}
+{bop}{0x6d: 0}{fademusic: 60}{bg: 29}{name: 2560}{person: 10 266 266}{hidetextbox: 0}{speed: 6}.{speed: 8}.{speed: 10}.{p}{person: 10 263 262}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Thoughts,{wait: 12} Prosecutor Gavin?{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+We have a choice between{wait_noanim: 20}{b}{person: 6 146 145}
+Heaven{wait: 14}{speed: 8}...{wait: 20} {speed: 3}or{wait: 14} Hell.{p}
+Either our brains are damaged,{wait: 12}{b}
+or Herr Forehead's is.{p}{person: 6 149 148}
+I wonder which it is?{nextpage_button}{0x6c: 0}{0x6e: 20}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 5}
+...{wait: 20}{speed: 4}{person: 10 259 258}This court finds{b}
+Mr. Justice's brain faulty.{p}
+...{wait: 20}By majority vote.{b}{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}{color: 2}
+(Ugh...{wait: 20} {speed: 4}Time to pick something{b}
+else...){color: 0}{0x23: 0}{music: 255 90}{p}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+How about showing us the right{b}
+evidence this time?{nextpage_button}{jmp: 153}{endjmp}
+
+{{27}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 48 47}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{showphoto: 312}{speed: 5}"The Meraktis Clinic"{speed: 8}{0x5a}...{wait: 30}{b}{0x59}{speed: 3}
+And they're covered with{b}
+paint.{p}{person: 4 45 44}
+These slippers were found in{b}
+a trash can near the crime{b}
+scene.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{person: 6 151 150}{name: 13568}{hidetextbox: 0}{speed: 5}
+And...?{nextpage_button}{bg: 25}{person: 4 41 40}{name: 1024}{speed: 3}
+A single slipper print was{b}
+found at the scene...{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 230}{0x5f: 3 1 31}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 20}Right next to the noodle{b}
+stand!{nextpage_button}{bg: 27}{person: 13 323 323}{animation: 149 1}{0x5f: 4 1 1}{name: 3328}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Ack{bgcolor: 2305 8 31}...!{wait: 30}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{fademusic: 30}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}
+Oh,{wait: 12} {speed: 3}and Ms.Tiala.{nextpage_button}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Your {color: 1}toe print{color: 0} was found in{b}
+the left slipper!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 13 323}{wait: 32}{person: 13 323 323}{animation: 149 1}{name: 3328}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+Urk{bgcolor: 2305 8 31}...!{nextpage_button}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{speed: 3}
+In other words...{p}{0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 7 0}{speed: 2}
+...this is pr{bgcolor: 2305 8 31}oof you were{b}
+ins{bgcolor: 2305 8 31}ide that noo{bgcolor: 2305 8 31}dle stand!{nextpage_button}{hideperson}{0x26: 0}{bg: 27}{person: 13 344 344}{animation: 215 1}{name: 3328}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}
+Eeeee{bgcolor: 2305 8 31}eeeeee{bgcolor: 2305 8 31}eeeeeeeee{bgcolor: 2305 8 31}eeeeek!{0x63}{nextpage_nobutton}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{name: 13568}{hidetextbox: 0}{speed: 3}
+Yet there was{wait: 6} only one{wait: 6} slipper{b}
+mark found at the scene...{p}{person: 6 146 145}{speed: 4}
+...{wait: 20}{speed: 3}Can this be called a{wait: 6}{b}
+footprint{wait: 6},{wait: 8} in good faith?{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{showphoto: 337}
+...{wait: 20}Observe the diagram!{nextpage_button}{bganim: 98 579}{person: 0 0 0}{bg: 92}{littlesprite: 12289}{speed: 3}
+A park pathway runs right{b}
+next to the slipper mark!{nextpage_button}{littlesprite: 12288}{bg: 25}{person: 4 66 65}
+A slipper wouldn't leave a{b}
+trace on a cobblestone path!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{person: 6 146 145}{name: 13568}{hidetextbox: 0}
+...{wait: 20}Yet you still cannot say{b}
+this is a{wait: 6} "footprint",{wait: 5} ja?{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Why not!?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{person: 6 149 148}{name: 13568}{hidetextbox: 0}
+You have an impression left{b}
+by a single slipper{speed: 8}{0x5a}...{p}{0x59}{person: 6 146 145}{speed: 3}
+What if it was on the stand{b}
+and simply fell to the ground?{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{person: 4 43 42}{name: 1024}{hidetextbox: 0}{speed: 4}
+That's{speed: 8}{0x5a}...{wait: 26}{b}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{person: 4 62 61}{animation: 149 1}{speed: 2}
+That's just{bgcolor: 2305 8 31} dumb!{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 4}
+One more thing.{p}{speed: 3}
+A noodle stand is typically{b}
+cluttered with the tools of{b}
+the noodle-making trade.{p}{person: 6 149 148}
+There's no room for a person{b}
+to ride in there!{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 6}
+Hmm...{wait: 20}{person: 10 259 258}{speed: 3} You have a point.{nextpage_button}{person: 10 259 258}{showphoto: 72}
+Could someone have hidden in{b}
+that stand?{nextpage_button}{bganim: 98 579}{bg: 28}{person: 5 103 102}{name: 1280}{bgcolor: 2305 8 31}{speed: 2}
+Apollo!{wait: 16} {speed: 3}I think I might{b}
+be on to something!{nextpage_button}{name: 1024}{speed: 5}
+...?{nextpage_button}{person: 5 105 104}{name: 1280}{speed: 3}
+I think I've figured out one{b}
+of our pieces of evidence!{p}{person: 5 99 98}
+In order to make room in the{b}
+stand,{wait: 10} some things would have{b}
+to be...{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 263 262}{name: 2560}{hidetextbox: 0}{speed: 4}
+Well,{wait: 23} Mr. Justice?{p}
+Do you have proof that someone{b}
+could have hidden in the{b}
+stand?{nextpage_button}{endjmp}
+
+{{28}}
+{bop}{bg: 25}{person: 4 41 40}{name: 1024}{speed: 5}I can prove one thing.{nextpage_button}{0x6c: 0}{0x6e: 20}{person: 4 37 36}{speed: 3}
+Someone did{wait: 6} {color: 1}scheme{color: 0}{wait: 6} to clear{b}
+space in that stand!{b}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{29}}
+{bop}{0x6d: 0}{fademusic: 60}{bg: 29}{name: 2560}{person: 10 266 266}{hidetextbox: 0}{speed: 8}...{p}{person: 10 263 262}{speed: 3}
+I don't se{shake: 30 0}e how that evidence{b}
+relates to the matter at hand.{p}{bg: 25}{name: 1024}{person: 4 58 58}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}{color: 2}
+(Ack!{wait: 16}{b}{speed: 3}
+...{wait: 20}That wasn't it.){p}{person: 4 40 40}
+(Maybe if I submit another{b}
+piece of evidence while he's{b}
+thinking...){color: 0}{p}{bg: 29}{name: 2560}{person: 10 263 262}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Stop right there!{p}{person: 10 259 258}
+I think someone's{wait: 6} "scheming"{wait: 12}{b}
+to avoid a penalty.{p}{0x6c: 0}{0x6e: 20}{person: 10 261 261}{speed: 4}
+...{wait: 20}We'll have none of that.{wait: 30}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 5}{color: 2}
+(Oops...){0x23: 0}{music: 255 60}{color: 0}{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}
+Again,{wait: 7} Mr. Justice,{wait: 8} if you{b}
+would.{wait: 16} Your evidence?{p}{jmp: 156}{endjmp}
+
+{{30}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{showphoto: 314}This is a noodle bowl from{b}
+the stolen Eldoon's Noodles{b}
+noodle stand.{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}
+Yes, and what about it?{nextpage_button}{bg: 25}{person: 4 48 47}{name: 1024}
+We discovered a large quantity{b}
+of these bowls yesterday...{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 222}{0x5f: 3 1 31}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 4}
+...in the lobby of the{b}
+Meraktis Clinic!{nextpage_button}{bg: 27}{person: 13 323 323}{animation: 149 1}{name: 3328}{0x5f: 4 1 1}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}
+...!{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 4}
+A large quantity of noodle{b}
+bowls in the victim's clinic?{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{speed: 3}
+Mr. Eldoon was very clear{b}
+about those bowls.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 234}{person: 15 379 378}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 3840}{hidetextbox: 0}{0x59}{speed: 3}
+Well,{wait: 8} I don't care who did it!{wait: 16}{b}
+Without that stand,{wait: 8} I'm{b}
+finished!{p}
+All my noodle bowls were in{b}
+there,{wait: 8} too.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 25}{person: 4 58 58}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Yet the bowls were removed!{p}{speed: 3}
+That night,{wait: 12} {color: 1}there was space{color: 0}{b}
+inside that noodle stand!{nextpage_button}{person: 4 37 36}
+Space{wait: 6} created at {bg: 222}{person: 0 0 0}{0x5f: 3 1 31}{bgcolor: 2305 8 31}the{b}
+Meraktis Clinic,{wait: 8} no less.{nextpage_button}{fademusic: 30}{bg: 25}{person: 4 66 65}{0x5f: 4 1 1}{sound: 50 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Right aro{bgcolor: 2305 8 31}und the time that y{bgcolor: 2305 8 31}ou{b}
+were there,{wait_noanim: 20} {0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{sound: 26 1}{shake: 30 1}{bgcolor: 2305 8 31}Ms. Alita{bgcolor: 2305 8 31} Tiala!{nextpage_button}{hideperson}{0x26: 0}{jmp: 159}{endjmp}{endjmp}{endjmp}
+
+{{31}}
+{bop}{bg: 27}{person: 13 344 344}{animation: 215 1}{name: 3328}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}Stoo{bgcolor: 2305 8 31}ooooooo{bgcolor: 2305 8 31}ooo{shake: 30 1}{bgcolor: 2305 8 31}op!{0x63}{nextpage_nobutton}{hidetextbox: 1}{sound: 48 1}{bgcolor: 2305 8 31}{bg: 29}{person: 10 264 264}{wait: 30}{sound: 48 1}{bgcolor: 2305 8 31}{bg: 25}{person: 4 47 47}{wait: 25}{sound: 48 1}{bgcolor: 2305 8 31}{bg: 26}{person: 6 150 150}{wait: 40}{sound: 48 1}{bgcolor: 2305 8 31}{bg: 28}{person: 5 104 104}{wait: 30}{sound: 48 1}{bgcolor: 2305 8 31}{bg: 27}{person: 13 323 323}{animation: 149 1}{wait: 40}{person: 13 324 323}{animation: 149 1}{name: 3328}{hidetextbox: 0}{speed: 2}
+I won't listen to any more of{b}
+these wild fantasies!{p}{0x59}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+No...{wait: 16} not fantasies{speed: 8}{0x5a}...{p}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+They're worse lies than that{b}
+spoiled bra{bgcolor: 2305 8 31}t's pickup lines!{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{fademusic: 0}{music: 18 0}{speed: 4}
+I would like to remind the{b}
+witness of her current status.{p}{person: 10 263 262}
+This court does not consider{b}
+you entirely{wait: 6} innocent{wait: 6}.{nextpage_button}{bg: 27}{person: 13 324 323}{animation: 149 1}{name: 3328}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Show me an innocent...{wait: 20} I'll{b}
+show you a fairy tale.{b}{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 5}
+...{wait: 20}In any case.{p}{person: 10 259 258}{speed: 3}
+The defense has,{wait: 8} somehow,{wait: 8}{b}
+made its point.{nextpage_button}{person: 10 263 262}{speed: 4}
+The witness had both a motive{b}{bg: 27}{person: 13 336 336}
+and an opportunity to kill{b}
+Dr. Meraktis.{nextpage_button}{bg: 27}{person: 13 337 336}{name: 3328}{speed: 4}
+More fairy tales!{wait_noanim: 30}{person: 13 340 339}{speed: 3} This whole{b}
+trial is a fairy tale!{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}
+Then please,{wait: 8} pull us back down{b}
+to reality,{wait: 8} Ms. Tiala.{p}{person: 10 259 258}{speed: 4}
+I'm giving you one last chance{b}
+to explain yourself.{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 3}{color: 2}
+(This is it!){p}
+(Why was Dr. Meraktis pulling{b}
+that stand that night...?){p}
+(...{wait: 20}And what was Alita Tiala{b}
+doing inside it?){p}{hidetextbox: 1}{swoosh: 0 4096 13 341}{wait: 32}{person: 13 341 341}{fademusic: 30}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+(Time to get to the bottom of{b}
+this case!){color: 0}{nextpage_button}{hidetextbox: 1}{testimony_animation: 1}{special_jmp}{endjmp}

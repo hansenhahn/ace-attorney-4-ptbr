@@ -1,0 +1,287 @@
+
+
+{{0}}
+{bop}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 15{b}
+Meraktis Clinic{b}
+Garage{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{person: 5 96 95}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+This is the place!{wait: 16} {speed: 3}This is{b}
+where that panty-snatcher ran!{nextpage_button}{name: 1024}
+Are you sure?{p}{person: 5 68 67}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Maybe!{wait_noanim: 25}{b}{person: 5 68 67}{speed: 3}
+Let's look for clues!{p}{person: 5 76 75}
+Clues{speed: 7}{0x5a}... {speed: 4}{wait: 20}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}to a panty-snatching!{p}{person: 5 74 73}{speed: 3}
+Clues...{wait: 20} like a pair of{b}
+panties!{nextpage_button}{name: 1024}{speed: 4}
+...{wait: 20}Um,{wait: 8} Trucy?{nextpage_button}{person: 5 81 81}{sound: 52 1}{bgcolor: 2305 8 31}
+Could you try not saying{b}
+"panties" so many times?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{0x10: 32830}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{fademusic: 30}{hidetextbox: 1}{person: 5 69 69}{bgcolor: 257 8 31}{wait: 1}{person: 5 72 69}{name: 1280}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}Apollo!{nextpage_button}{name: 1024}{speed: 3}
+Huh?{wait: 16} What is it?{p}{person: 5 68 67}{name: 1280}
+Now that we've solved this{b}
+case,{wait: 8} we should go report{b}
+to Daddy!{p}{person: 5 76 75}
+He'll mope if we leave him{b}
+alone too long,{wait: 12} knowing him.{nextpage_button}{name: 1024}
+Um,{wait: 8} OK.{wait: 16}{b}
+...{wait: 20}He doesn't seem the type{b}
+to mope,{wait: 8} though.{nextpage_button}{speed: 4}{color: 2}
+(And this is hardly a case{b}
+worth reporting...){speed: 255}{color: 0}{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{0x10: 32833}{0x67}{b}{0x41}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{0x51: 0 53}{16640}{removephoto}{jmp: 143}{endjmp}{endjmp}{name: 1024}There's something about{b}
+this car...{p}{0x38: 1}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Let's take a closer look!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{wait: 60}{0x71: 103 2 53}
+{16129}{334}{0x35: 24065 @RelativeAddress0}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 239}{wait: 60}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 225}{wait: 60}{0x72}{bop}{hidetextbox: 3}{special_jmp}{@RelativeAddress0}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 251}{wait: 60}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 249}{wait: 60}{0x72}{bop}{hidetextbox: 3}{special_jmp}{0x35: 24065 @RelativeAddress1}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 252}{wait: 60}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 237}{wait: 60}{0x72}{bop}{hidetextbox: 3}{special_jmp}{@RelativeAddress1}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 240}{wait: 60}{sound: 59 1}{bgcolor: 2305 8 31}{bg: 250}{wait: 60}{0x72}{bop}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{0x51: 0 53}{16128}{removephoto}{jmp: 132}{endjmp}{endjmp}{person: 0 0 0}{name: 1024}{speed: 4}That reminds me...{p}{speed: 3}
+I once read a record of a case{b}
+that Mr. Wright worked on many{b}
+years ago.{p}{0x76: 0 3}{name: 1280}
+...?{nextpage_button}{name: 1024}
+Apparently,{wait: 12} there was this{b}
+car with a piece of{wait: 6} cloth{wait: 6}{b}
+shoved into the tailpipe!{p}
+That piece of cloth turned out{b}
+to be a vital clue to solving{b}
+the case!{p}{removephoto}{0x76: 0 4}{name: 1280}{speed: 4}
+Wow!{nextpage_button}{name: 1024}{speed: 3}
+I remember that case record{b}
+whenever I'm checking out{b}
+a car...{p}
+And I always check the{b}
+tailpipe!{p}{0x76: 0 3}{name: 1280}
+Everyone's gotta have a hobby,{wait: 8}{b}
+I guess.{nextpage_button}{removephoto}{person: 0 0 0}{name: 1024}{speed: 5}
+Wouldn't it be funny if...{wait: 30}{b}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+...{wait: 20}Hey!{wait: 30}{b}{speed: 3}
+There's something in there!{p}{0x76: 0 2}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+What!?{p}{bganim: 98 579}{name: 1024}{showphoto: 86}
+W-{wait: 20}{speed: 3}Wait a second{speed: 8}...{wait: 16}{b}{speed: 4}
+Are these your{speed: 8}...{p}{bganim: 98 579}{0x76: 1 2}{name: 1280}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Aaaaa{bgcolor: 2305 8 31}aaaa{bgcolor: 2305 8 31}aaaa{bgcolor: 2305 8 31}aaah!{wait: 30}{b}
+My panties!!!{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Whaaaat!?{wait: 20} Already!?{p}{removephoto}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 224}{person: 5 69 69}{bgcolor: 258 1 31}{wait: 15}{person: 5 72 69}{name: 1280}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 2}
+Wow,{wait: 8} thank you,{wait: 12} Apollo!{wait: 16}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+You're a genius!{wait: 10}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+Amazing!{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 3}
+No,{wait: 8} no,{wait: 8} really,{wait: 8} don't{wait: 12}{b}
+mention it.{p}{person: 5 68 67}{name: 1280}{showphoto: 86}
+No,{wait: 12} I'm serious,{wait: 8} I'm really{b}
+impressed!{p}{person: 5 72 69}{showphoto: 315}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+You must have a nose for{b}{fademusic: 0}{music: 22 0}
+finding girls' panties!{nextpage_button}{person: 5 73 73}{name: 1024}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait: 20}{b}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Um, what are those?{p}{person: 5 68 67}{name: 1280}{speed: 3}
+My little panties,{wait: 16} of course!{b}
+They've come home to mama!{b}
+I can't wait to use them!{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 1}
+Y-You're going to put{b}
+them on?{wait: 14} N-Now!?{nextpage_button}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{person: 5 74 73}{speed: 2}
+Watch closely now...{p}{speed: 3}
+See?{wait: 20} Nothing in the panties...{nextpage_button}{hidetextbox: 1}{bgcolor: 1025 8 31}{wait: 1}{bganim: 98 579}{bgcolor: 769 1 31}{wait: 7}{showphoto: 58}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{0x59}{speed: 2}
+...{wait: 20}Ta-{bgcolor: 2305 8 31}da!!!{nextpage_button}{person: 5 73 73}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Whoa!{wait: 20}{b}
+Wh-{wait: 8}{shake: 30 1}{bgcolor: 2305 8 31}Where'd that come from!?{p}{speed: 3}
+How did that bowl get in{b}
+your panties!?{p}{person: 5 74 73}{name: 1280}{speed: 3}
+My panties are an{b}
+extra-dimensional space...{b}
+Anything can fit in there!{p}{person: 5 72 69}{speed: 3}
+...{wait: 20}They're my{wait: 10} Magic{wait: 8} Panties!{b}
+It's one of my best tricks.{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 5}
+Magic{speed: 8}...{wait: 16} {speed: 5}panties?{p}{person: 5 68 67}{name: 1280}{speed: 3}
+They love them over at the{wait: 8}{b}
+Wonder Bar{wait: 6}.{wait: 16} I do shows there{b}
+nightly.{nextpage_button}{name: 1024}{fademusic: 120}{speed: 11}
+...{wait: 20}{speed: 4}You mean those panties{b}
+are a prop!?{wait: 45}{person: 5 81 81}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2} You could have{b}
+told me a little sooner!{p}{bganim: 98 579}{newevidence: 16443}{name: 0}{color: 2}{speed: 4}
+Trucy's Panties put discreetly{b}
+away in Trucy's pocket.{nextpage_button}{speed: 255}{color: 0}{person: 5 67 67}{name: 1024}
+Well,{wait: 12} {speed: 3}that's one case closed,{wait: 8}{b}
+at least.{p}{person: 5 91 90}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+What are you saying!?{p}{person: 5 96 95}{speed: 3}
+We still have to catch the{b}
+sly devil that ran off with{b}
+the tool of my trade!{nextpage_button}{person: 5 90 90}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+Oh,{wait: 14} right.{speed: 255}{p}{hidetextbox: 1}{0x10: 32831}{0x37: 2 0}{0x37: 29 1}{0x51: 0 53}
+{16384}{4150}{0x35: 24064 @RelativeAddress2}{0x35: 16641 @RelativeAddress3}{bg: 248}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress2}{@RelativeAddress3}{bgcolor: 514 1 31}{wait: 15}{bg: 237}{0x35: 24064 @RelativeAddress4}{bg: 250}{@RelativeAddress4}{0x72}{bop}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{color: 2}(Something tells me we're not{b}
+finished searching this{b}
+garage,{wait: 16} {speed: 3}anyway{speed: 8}...){speed: 255}{color: 0}{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{name: 1024}Still,{wait: 12} I'm glad.{wait: 16} If I hadn't{b}
+picked up that habit of{b}
+looking up tailpipes...{p}
+...I might never have seen{b}
+your panties.{wait: 16} I mean,{wait: 8} found{b}
+your panties.{wait: 16} Magic panties.{p}{name: 1280}{0x76: 0 4}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+I know,{wait: 8} it was amazing how{b}
+you slyly peeked up there!{p}{0x76: 1 6}{speed: 3}
+I think you have a successful{b}
+career in peeking up tailpipes{b}
+ahead of you!{p}{name: 1024}{speed: 4}{color: 2}
+(I'm so glad all of this makes{b}
+sense in context.){color: 0}{p}{name: 1280}{0x76: 0 3}{speed: 3}
+You gotta wonder why my{b}
+panties were here,{wait: 12} though.{p}{name: 1024}
+That is a mystery...{p}{bganim: 98 579}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{person: 0 0 0}{name: 1024}{showphoto: 60}Look{speed: 7}...{wait: 16} {speed: 3}a cell phone.{p}{name: 1280}{0x76: 0 3}
+Someone dropped it beneath{b}
+this tire!{p}{0x76: 0 5}{speed: 2}
+If the car moved, it would{b}{shake: 30 0}{bgcolor: 2305 8 31}
+be crushed for sure!{nextpage_button}{name: 1024}{speed: 5}
+Hmm{speed: 8}...{wait: 20} {speed: 3}I wonder if it belongs{b}
+to the doctor here?{p}{name: 1280}{0x76: 0 1}
+We should bring it to him{b}
+later!{p}{bganim: 98 579}{newevidence: 16444}{name: 0}{color: 2}{speed: 4}
+Cell Phone added to the Court{b}
+Record.{nextpage_button}{speed: 255}{color: 0}{bg: 249}{0x35: 16128 @RelativeAddress5}{bg: 250}{@RelativeAddress5}{0x72}{bop}{0x32: 6 248}{0x10: 32862}{0x51: 0 53}
+{16384}{660}{0x35: 16128 @RelativeAddress6}{0x35: 16641 @RelativeAddress7}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 248}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress6}{@RelativeAddress7}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{0x51: 0 53}{16384}{removephoto}{jmp: 139}{endjmp}{endjmp}{name: 1280}{0x76: 1 2}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}Hey!{wait: 20} Look at that!{p}{removephoto}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+The mirror's been broken off!{wait: 20}{b}{speed: 3}{color: 2}
+(Now THIS is a clue!){fademusic: 0}{music: 18 0}{color: 0}{p}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 224}{person: 5 74 73}{0x5a}{bgcolor: 257 1 31}{wait: 7}{name: 1280}{0x59}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+What!?{wait: 20} {speed: 3}You're smiling like{b}
+you know something I don't...{wait: 20}{p}
+You aren't keeping a clue{b}
+from me,{wait: 8} are you,{wait: 8} Polly?{p}{person: 5 73 73}{name: 1024}{speed: 4}{color: 2}
+(A clue?{wait: 6} {speed: 3}Let's see{speed: 8}...){color: 0}{b}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 25}{swoosh: 65535 1 8 136}{0x87}{endjmp}
+
+{{7}}
+{bop}{name: 1024}{person: 5 73 73}{speed: 5}Hmm.{wait: 20} {speed: 3}Not that I can think of.{p}{name: 1280}{person: 5 91 90}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+No?{wait: 16} {speed: 3}Then what were you smiling{b}
+about?{p}{name: 1024}{person: 5 90 90}
+Oh,{wait: 8} I wasn't smiling.{wait: 16} It was{b}
+the dust in here.{wait: 16} I thought{b}
+I was going to sneeze...{p}{speed: 8}
+Ah...{wait: 12} ah...{wait: 17} ah...{wait: 20}{wait_noanim: 30}{b}{person: 5 81 81}{fademusic: 30}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+WAAC{bgcolor: 2305 8 31}HOOO!{p}{name: 1280}{person: 5 96 95}
+Well,{wait: 8} don't make faces that{b}
+ah{0x5a}{speed: 8}...{wait_noanim: 30}{nextpage_nobutton}{person: 5 81 81}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{shake: 30 0}{speed: 2}
+AH-CHOO!{wait_noanim: 20}{b}{person: 5 91 90}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+...{wait: 20}are so misleading then.{p}{name: 1024}{person: 5 75 75}{speed: 4}{color: 2}
+(I know yawns are contagious,{wait: 20}{b}
+but sneezes...?){color: 0}{p}{person: 5 76 75}{name: 1280}{shake: 30 0}{speed: 3}
+Mmm.{wait: 16} {speed: 5}Well,{wait: 8} I'm sure there's{b}
+gotta be a clue somewhere!{p}{person: 5 96 95}
+Let's keep checking things{b}
+out!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x72}{b}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{name: 1024}{person: 5 73 73}I think I do have just the{b}
+clue you've got in mind...{wait: 20}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{p}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{name: 1280}{person: 5 85 85}{fademusic: 60}{hidetextbox: 0}{speed: 8}...{wait: 20}{p}{person: 5 76 75}{speed: 3}
+That's your clue?{wait: 10}{p}{person: 5 76 75}
+Sorry,{wait: 8} but that leaves me{b}
+feeling kind of...{wait: 20} clueless.{p}{name: 1024}{person: 5 75 75}{color: 2}
+(Like father like daughter{b}
+with the humor,{wait: 8} apparently.){color: 0}{p}{name: 1280}{person: 5 68 67}
+There's no need to bluff here,{wait: 8}{b}
+Apollo!{p}{person: 5 72 69}
+Save that for the court!{p}{name: 1024}{person: 5 67 67}{speed: 4}{color: 2}
+(Thanks for the advice...){speed: 255}{color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x72}{b}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{0x51: 0 14}{1024}{person: 5 67 67}{fademusic: 60}{hidetextbox: 0}{speed: 4}My clue is{speed: 8}...{wait_noanim: 10} {showphoto: 54}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{fademusic: 0}{music: 33 0}{speed: 3}this!{p}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{0x72}{b}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{wait: 40}{showphoto: 54}{wait: 30}{name: 1280}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Who{bgcolor: 2305 8 31}a!{wait: 16} It's the same color{b}
+and size and everything!{wait: 30}{b}{speed: 4}
+A perfect match!{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bganim: 98 579}{bg: 232}{person: 0 0 0}{0x5f: 3 1 31}{bgcolor: 769 1 31}{wait: 7}{name: 1024}{hidetextbox: 0}{speed: 3}
+I guess we could check it{b}
+out...{p}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{0x5f: 3 1 31}{name: 1280}{0x59}{speed: 3}
+Hmm.{wait: 16} Two pieces of garbage{b}
+with paint on them.{p}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Look at this,{wait: 8} Apollo!{wait_noanim: 25}{b}{person: 5 76 75}{speed: 4}
+Doesn't this go on a car...?{nextpage_button}{showphoto: 310}{person: 5 75 75}{name: 1024}{speed: 5}
+It's a side-view mirror!{p}
+Looks like it was torn off{b}
+when it smacked into{b}
+something...{wait: 16} or someone.{p}{hidetextbox: 1}{fademusic: 60}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bganim: 98 579}{bg: 224}{person: 5 67 67}{0x5f: 4 1 1}{bgcolor: 769 1 31}{wait: 7}{name: 1024}{hidetextbox: 0}{speed: 5}
+Well...{wait: 16} {speed: 3}looks like we've just{b}
+solved a case.{p}{person: 5 96 95}{name: 1280}
+So the car that hit Daddy{b}
+last night{speed: 7}...{p}{person: 5 95 95}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...{wait: 12}{speed: 3}Is sitting right in front{b}
+of us,{wait: 8} yep.{p}{0x19: 54 55}{person: 5 72 69}{name: 1280}
+Wow.{wait: 16} {speed: 2}You put the "pro" in{b}{shake: 30 0}{bgcolor: 2305 8 31}
+"professional",{wait: 8} Apollo!{nextpage_button}{person: 5 67 67}{name: 1024}{speed: 3}
+Gee,{wait: 12} thanks,{wait: 8} Trucy.{p}{0x10: 32832}{0x51: 0 53}
+{16128}{1654}{0x35: 24064 @RelativeAddress8}{0x35: 16641 @RelativeAddress9}{bg: 248}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress8}{@RelativeAddress9}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x72}{b}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{name: 1024}{showphoto: 54}{hidetextbox: 0}This mirror fits this car{b}
+door perfectly...{nextpage_button}{bganim: 98 579}{name: 1280}{0x76: 1 3}
+So the car that hit Daddy{b}
+last night{speed: 7}...{p}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 20}{speed: 3}Is sitting right in front{b}
+of us,{wait: 12} yep.{nextpage_button}{name: 1280}{0x76: 1 4}{shake: 30 0}{bgcolor: 2305 8 31}
+Wow.{wait: 16} You put the{wait: 12} {speed: 2}"pro" in{b}
+"professional",{wait: 8} Apollo!{nextpage_button}{bganim: 98 579}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{hidetextbox: 1}{person: 5 81 81}{0x38: 1}{name: 1280}{person: 5 82 81}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}Eeeeeeek!{wait: 12}{b}
+Some{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}one's there!{p}{person: 5 81 81}{speed: 8}
+.{speed: 10}.{speed: 12}.{p}{person: 5 68 67}{name: 1280}{speed: 3}
+Oh,{wait: 8} it's just a gold-painted{b}
+human skeleton.{p}{name: 1024}{person: 5 75 75}{speed: 4}{color: 2}
+(Just a human skeleton!?{b}
+...{wait: 20}And painted gold?){color: 0}{p}{name: 1280}{person: 5 72 69}{speed: 3}
+There's a mannequin hand{b}
+waving to us from the box{b}
+behind the skeleton.{p}{person: 5 74 73}
+This place just screams{wait: 6}{b}
+"hospital storage",{wait: 6} don't{b}
+you think?{p}{name: 1024}{person: 5 73 73}
+It{wait: 6} screams{wait: 6} something,{wait: 8} that's{b}
+for sure.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{person: 5 69 69}{0x38: 1}{name: 1280}{person: 5 72 69}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Hey!{wait: 16} A kitty-cat!{wait: 12} {speed: 3}Here,{wait: 8} kitty{b}
+kitty kitty.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{sound: 119 1}{name: 0}{hidetextbox: 0}{soundtoggle: 0}
+Meow.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{wait: 16}{person: 5 76 75}{name: 1280}{soundtoggle: 1}{hidetextbox: 0}{speed: 4}
+...{wait: 20}It's not coming down.{p}{name: 1024}{person: 5 75 75}{speed: 3}
+We do look kind of{wait: 6} suspicious,{wait: 8}{b}{person: 5 81 81}
+you have to admit.{p}{name: 1280}{person: 5 76 75}
+It's OK kitty-cat!{wait: 16} His hair{b}
+won't hurt you!{nextpage_button}{name: 1024}
+It's OK kitty-cat!{wait: 16} She won't{b}
+make you disappear in her hat!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{name: 1024}{hidetextbox: 0}Look,{wait: 8} it's a folding ladder.{p}{person: 5 67 67}{personvanish: 3 1}{name: 1280}{person: 5 68 67}{hidetextbox: 0}
+Polly!{wait: 12} That's called a{wait_noanim: 20}{b}{person: 5 74 73}
+"stepladder"!{wait: 16} C'mon!{nextpage_button}{name: 1024}{speed: 5}
+...{wait: 20}{speed: 3}A stepladder?{wait: 16} How is that{b}{person: 5 81 81}{sound: 52 1}{bgcolor: 2305 8 31}
+different from a regular{b}
+ladder then?{p}{person: 5 76 75}{name: 1280}
+It's a much more complex{wait_noanim: 16}{b}{person: 5 68 67}
+piece of machinery.{wait: 16} {speed: 3}It's like{b}
+two ladders stuck together!{nextpage_button}{name: 1024}{speed: 5}
+...{wait: 12}{speed: 3}So you admit that basically{b}
+it's a ladder,{wait: 8} right?{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Wait...{wait: 20} Huh?{nextpage_button}{name: 1024}
+You have to look past the{b}
+form...{wait: 20} at the essence of{b}
+the thing.{nextpage_button}{person: 5 75 75}{name: 1280}{speed: 5}
+Er{speed: 8}...{wait: 40} {person: 5 91 90}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}Can we talk about{b}
+something else?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{name: 1024}This car belongs to someone{b}
+at the Meraktis Clinic...{b}
+and it hit Mr. Wright.{p}
+Mr. Wright sprained his{b}
+ankle,{wait: 8} and the car lost{b}
+a side-view mirror.{p}{speed: 4}
+This car vs.{wait: 16} Mr. Wright...{wait: 20}{b}{speed: 3}
+Not quite the match of the{b}
+century.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}

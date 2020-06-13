@@ -1,0 +1,551 @@
+
+
+{{0}}
+{bop}{0x62: 4 5}{0x10: 32799}{0x10: 33587}{bg: 4095}{person: 0 0 0}{fademusic: 0}{music: 30 100}{hidetextbox: 1}{bgcolor: 2049 0 31}{wait: 1}{bganim: 0 8192}{0x26: 1}{0x6b: 1 0 0}{bganim: 98 570}{0x74: 2 0}{wait: 10}{animation: 314 1}{wait: 8}{person: 7 186 185}{0x5a}{bgcolor: 1796 1 31}{wait: 25}{bganim: 0 4096}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 80}{name: 1792}{hidetextbox: 0}{0x59}{speed: 4}...{wait: 8}Welcome to court.{p}
+Seven years{0x5a}...{wait: 20}{0x59}{speed: 3} all leading{b}
+to one verdict.{nextpage_button}{person: 7 188 187}
+A verdict which you must{b}
+decide.{p}{person: 7 186 185}{speed: 4}
+Is the defendant,{wait: 8} Vera Misham,{wait: 8}{b}{color: 1}
+innocent{color: 0}{wait: 5}... or{wait: 5} {color: 1}guilty{color: 0}{wait: 5}?{p}{person: 7 188 187}{speed: 3}
+The courtroom doors are{b}
+opening... the trial awaits.{nextpage_button}{person: 7 178 177}{speed: 4}
+Are you ready to begin?{nextpage_button}{hidetextbox: 1}{fademusic: 120}{0x6b: 4 1 31}{bganim: 98 626}{wait: 25}{0x6b: 3 0 0}{bganim: 98 515}{0x74: 18 0}{special_jmp}{wait: 1}{0x6b: 1 0 31}{bganim: 98 626}{0x6b: 3 0 0}{bganim: 98 625}{wait: 1}{0x6b: 4 1 31}{bganim: 98 627}{0x30: 255}{bganim: 0 8192}{bg: 4095}{bgcolor: 257 8 31}{wait: 1}{hidetextbox: 0}{name: 0}{person: 0 0 0}{speed: 7}
+...{wait: 30}{fademusic: 0}{music: 11 0}Something inside me...{wait: 60}{b}
+rising... surfacing...{wait: 120}{nextpage_nobutton}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 166}{0x5f: 3 1 31}{bgcolor: 769 1 31}{wait: 7}{wait: 5}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 235}{0x5f: 3 1 31}{bgcolor: 769 1 31}{wait: 7}{wait: 5}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 104}{0x5f: 3 1 31}{bgcolor: 769 1 31}{wait: 7}{wait: 3}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 170}{0x5f: 3 1 31}{bgcolor: 769 1 31}{wait: 7}{wait: 2}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 102}{0x5f: 3 1 31}{bgcolor: 769 1 31}{wait: 7}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 242}{0x5f: 3 1 31}{bgcolor: 769 1 31}{wait: 7}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 106}{0x5f: 3 1 31}{bgcolor: 769 1 31}{wait: 7}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 262}{0x5f: 3 1 31}{bgcolor: 769 1 31}{wait: 7}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 100}{0x5f: 3 1 31}{bgcolor: 769 1 31}{wait: 7}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 192}{0x5f: 3 1 31}{bgcolor: 772 1 31}{wait: 25}{wait: 60}{bgcolor: 1030 1 31}{wait: 25}{0x5f: 4 1 1}{bg: 4095}{person: 0 0 0}{bgcolor: 772 1 31}{wait: 25}{name: 0}{hidetextbox: 0}
+...Something important...{wait: 20}{b}
+lost long ago...{wait: 20} it's{b}
+close now...{wait: 20} so close.{wait: 100}{nextpage_nobutton}{hidetextbox: 1}{fademusic: 45}{wait: 45}{fademusic: 0}{music: 0 0}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 513 0 31}{wait: 1}{bganim: 0 4096}{endjmp}
+
+{{1}}
+{bop}{newevidence: 32870}{0x62: 4 5}{0x74: 2 0}{0x26: 0}{0x6b: 0 0 0}{bganim: 98 570}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{wait: 30}{center_text: 1}{speed: 10}{0x30: 2}{color: 3}October 9, 10:00 AM{b}
+District Court{b}
+Courtroom No. 3{nextpage_button}{center_text: 0}{hidetextbox: 1}{color: 0}{wait: 30}{speed: 255}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{fademusic: 0}{music: 1 0}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 259 258}
+Court is now in session for{b}
+the trial of Vera Misham.{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}
+...{wait: 12}The defense is ready,{wait: 12}{b}
+Your Honor.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 4}
+...{wait: 16}Prosecution's ready{b}
+to rock.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+Prosecutor Gavin. How is the{b}
+defendant...{wait_noanim: 14}{person: 10 265 264}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Vera Misham's{b}
+condition?{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+Acute atroquinine poisoning.{wait: 16}{b}{speed: 3}
+According to her physician...{p}{person: 6 146 145}
+...she could die at any time.{p}
+Thus{speed: 8}...{wait: 12}{speed: 3} her absence from{b}
+the courtroom today.{nextpage_button}{bg: 28}{name: 1280}{person: 5 101 100}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+What{bgcolor: 2305 8 31}!?{wait: 20}{p}{person: 5 103 102}{speed: 3}
+They can't put her on trial{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+without her being here!{nextpage_button}{name: 1024}{speed: 3}
+It...{wait: 14} is unusual.{nextpage_button}{bg: 28}{name: 1280}{person: 5 105 104}
+They should wait for her to{b}
+get better and do it then.{p}{speed: 4}
+...{wait: 12}It's so{wait_noanim: 30}{person: 5 103 102} bureaucratic{wait: 12}{speed: 2}{bgcolor: 2305 8 31}{b}{shake: 30 0}
+of them!{nextpage_button}{name: 1024}{speed: 3}
+That's being a little harsh.{nextpage_button}{person: 5 104 104}{color: 2}
+(They can't delay the trial{b}
+any longer.){p}{person: 5 100 100}{speed: 4}
+(...Or they risk having no{b}
+one left to try.){nextpage_button}{color: 0}{bg: 26}{name: 13568}{person: 6 151 150}
+A trial without a verdict{b}
+can only cause grief...{p}{person: 6 146 145}
+...The records of this case,{wait: 8}{b}
+and experience,{wait: 12} tell us this.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 0 0}{wait: 32}{person: 0 0 0}{wait: 60}{hidetextbox: 0}{speed: 4}
+...{wait: 10}Apologies to the defendant,{wait: 10}{b}
+but the show must go on.{nextpage_button}{bg: 25}{name: 1024}{person: 4 58 58}{color: 2}
+(Right...{wait: 20}{speed: 3} if Vera dies,{wait: 8} the{b}
+trial will be cancelled.){p}{speed: 4}
+(...{wait: 20}I'm not going to let{b}{bgcolor: 2305 8 31}{shake: 30 0}
+that happen!){p}{person: 4 36 36}{speed: 3}
+(Mr. Wright told me everything{b}
+that's been going on behind{b}
+the curtain all these years.){nextpage_button}{speed: 3}
+(I'm going to get Vera her{b}{color: 1}
+innocent{color: 2}{wait: 8} verdict while{b}
+there's still time!){nextpage_button}{color: 0}{bg: 29}{name: 2560}{person: 10 259 258}
+...Very well.{wait: 16} Your opening{b}
+statement,{wait: 8} Prosecutor Gavin.{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}
+The prosecution's case{wait: 8}{b}
+is unchanged by recent{b}
+events.{p}
+Why did Vera Misham succumb{b}
+to poison?{p}{person: 6 149 148}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Because she {color: 1}couldn't live{b}
+with the{wait: 5} guilt{color: 0} of what she'd{b}
+done.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{bg: 25}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 2}
+But Vera was poisoned with{b}
+atroquinine!{p}{person: 4 37 36}
+The exact same poison that{b}
+took her father's life!{nextpage_button}{bg: 26}{name: 13568}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{speed: 5}{0x5a}
+...{wait: 20}{0x59}{speed: 4}What better {color: 1}confession{color: 0}{b}
+could you ask for?{p}
+Being the killer she would{b}
+have had access to the poison.{nextpage_button}{person: 6 146 145}{speed: 3}
+Significant,{wait: 8} since it's rather{b}
+hard to come by.{p}{bg: 29}{name: 2560}{person: 10 266 266}
+Hmm{speed: 6}... {speed: 3}That is true.{person: 10 259 258}{nextpage_button}{bg: 26}{name: 13568}{person: 6 149 148}
+In other words...{wait: 16} I see no{b}
+need for further discussion.{p}{person: 6 146 145}
+We could have had our{b}
+verdict... yesterday.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}
+Well,{wait: 8} Mr. Justice?{p}{person: 10 259 258}
+If you have no objections,{wait: 12}{b}
+I see no reason to postpone{b}
+a verdict.{nextpage_button}{bg: 25}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}
+...What we need to worry about{b}
+isn't the verdict... but the{b}
+trial itself!{nextpage_button}{person: 4 37 36}
+The defense holds that Vera{b}
+Misham is the {color: 1}victim{color: 0} {wait: 6}not the{b}
+killer!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}
+If that's so{speed: 8}{0x5a}...{wait: 20}{speed: 3}{0x59} then you{b}
+have to prove something.{nextpage_button}{hidetextbox: 1}{fademusic: 30}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 27}{person: 19 425 425}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{speed: 4}
+She was in court,{wait: 8} giving{b}{person: 19 414 414}
+her testimony before us.{nextpage_button}{hidetextbox: 1}{bganim: 1024 0}{bganim: 1035 0}{bganim: 1039 0}{0x5f: 4 1 1}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}
+How do you propose her{wait: 4}{b}
+"{color: 1}killer{color: 0}" poisoned her?{p}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 26}{person: 6 146 145}{0x5a}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{0x59}
+Oh{speed: 8}{0x5a}...{wait: 12}{speed: 3}{0x59} and incidentally,{wait_noanim: 30}{person: 6 149 148}{sound: 52 1}{bgcolor: 2305 8 31} it{b}{speed: 4}
+would be nice if you told us{b}{color: 1}
+who{color: 0} her mystery "killer" was.{nextpage_button}{fademusic: 60}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+...The prosecution's objection{b}
+is sustained.{nextpage_button}{person: 10 263 262}
+I ask the defense to prove{b}
+its claims to this court.{p}{speed: 4}
+Tell us how Vera Misham{b}
+was {person: 10 259 258}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}"{color: 1}poisoned{color: 0}"!{fademusic: 0}{music: 4 0}{nextpage_button}{endjmp}
+
+{{2}}
+{bop}{bg: 25}{name: 1024}{person: 4 58 58}{speed: 4}{color: 2}(...I've got two things to{b}
+prove here.){p}{speed: 255}
+({color: 1}Who{color: 2} did it,{wait: 6} and {color: 1}how{color: 2}.{wait: 30}{b}{person: 4 36 36}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Which to hit first?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 112}{0x71: 65535 1 8}{0x83}{0x8a}{endjmp}
+
+{{3}}
+{bop}{bg: 25}{name: 1024}{person: 4 41 40}{speed: 3}How did the killer poison{b}
+Vera Misham...?{nextpage_button}{person: 4 37 36}
+I will focus first on the{b}
+method used.{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}
+Hmm{speed: 6}...{wait: 30}{speed: 3}{b}{person: 10 263 262}
+Any comments before we begin,{wait: 12}{b}
+Prosecutor Gavin?{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}
+Not a bottle or container of{b}
+the poison was found on the{b}
+defendant's body.{nextpage_button}{bg: 29}{name: 2560}{person: 10 260 260}{speed: 5}
+I see...{wait: 35}{person: 10 259 258}{speed: 3} So the vector of{b}
+poisoning is unknown.{p}{person: 10 263 262}
+Is the defense prepared to{b}
+prove how the poison reached{b}
+Vera Misham?{nextpage_button}{bg: 25}{name: 1024}{person: 4 38 38}{speed: 5}
+...Yes,{wait: 8} Your Honor.{0x63}{nextpage_button}{endjmp}
+
+{{4}}
+{bop}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}Very well.{p}{0x6c: 0}{0x6e: 20}{person: 10 263 262}
+What{wait: 6} {color: 1}method{color: 0} was used to {b}
+poison Vera Misham?{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{0x6d: 0}{fademusic: 60}{bg: 29}{name: 2560}{person: 10 266 266}{hidetextbox: 0}{speed: 5}From what I hear...{nextpage_button}{person: 10 259 258}{speed: 3}
+...{wait: 12}atroquinine takes a while{b}
+before it acts on the body.{nextpage_button}{bg: 26}{name: 13568}{person: 6 149 148}
+Yes.{wait: 16} "Slow acting", it's{b}
+called.{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 5}
+Also from what I hear...{nextpage_button}{0x6c: 0}{0x6e: 20}{person: 10 259 258}{speed: 3}
+...my penalties hurt more{b}
+later than at the moment{b}
+they're given.{nextpage_button}{person: 10 263 262}
+...But let's find out!{speed: 2}{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{0x23: 0}{music: 255 90}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{color: 2}{speed: 4}
+(OK,{wait: 8} {speed: 3}I'm wrong,{wait: 8} I get it.){color: 0}{nextpage_button}{bg: 28}{name: 1280}{person: 5 103 102}
+They've really made an art{b}
+out of this penalty thing.{nextpage_button}{jmp: 132}{endjmp}
+
+{{6}}
+{bop}{fademusic: 60}{0x66: 109 0 27}{0x1d: 14}{2560}{person: 10 265 264}{hidetextbox: 0}{showphoto: 223}{speed: 5}What's this{0x5a}...?{wait: 30}{b}{speed: 3}{0x59}
+My,{wait: 10} what a beautiful bottle.{nextpage_button}{person: 10 259 258}
+I'd like to give whoever{b}
+designed that a hand.{nextpage_button}{bganim: 98 579}{bg: 26}{name: 13568}{person: 6 151 150}
+Is that...{wait: 16} nail polish?{wait: 16}{b}
+Hmm,{wait: 8} it's colorless.{nextpage_button}{person: 6 145 145}{sound: 52 1}{bgcolor: 2305 8 31}
+Ah...!{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 3}
+Something the matter?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}
+N-{wait: 8}No.{wait: 16} Nothing.{wait: 16} Nothing at all.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 4}
+So the killer put poison{b}
+in this bottle,{wait: 12} {speed: 3}and made{b}
+her drink it?{nextpage_button}{bg: 25}{name: 1024}{person: 4 41 40}
+As Prosecutor Gavin has told{b}{showphoto: 479}
+us,{wait: 12} this is nail polish.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}
+Nail polish{speed: 7}...?{nextpage_button}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}{0x5a}
+...{0x59}It's like paint for nails.{wait: 35}{b}{person: 4 37 36}{speed: 3}
+Know any women with red nails?{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Ah!{wait: 12} My wife has red nails!{wait_noanim: 35}{b}{person: 10 266 266}{shake: 30 0}
+I see{speed: 5}...{wait: 16} so she's been{b}
+painting them all this time!{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 4}
+Let's recall yesterday's{b}
+trial.{p}{person: 4 37 36}{speed: 3}
+Remember when Vera was{b}
+testifying to the court?{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 29}{name: 2560}{person: 10 259 258}{0x5a}{0x5f: 3 1 31}{fademusic: 0}{music: 25 120}{bgcolor: 772 1 31}{wait: 25}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+Court is now back in session.{wait: 16}{nextpage_button}{bg: 27}{person: 19 425 425}{name: 4864}{hidetextbox: 0}{speed: 8}
+...{shake: 30 0}...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{color: 2}{speed: 4}
+(Vera seems pretty tense.){nextpage_button}{bg: 27}{person: 19 425 425}
+(She's practically chewing{b}
+her fingernails clean off!){color: 0}{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 25}{name: 1024}{person: 4 36 36}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{person: 4 37 36}
+Whenever Vera became nervous,{wait: 16}{b}
+she had a habit...{p}{sound: 52 1}{bgcolor: 2305 8 31}
+...of biting her nails.{nextpage_button}{fademusic: 60}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 5}
+Her nails{speed: 8}{0x5a}...{wait: 40}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2} Aaah!{bgcolor: 2305 8 31}{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 4}
+...Prosecutor Gavin?{p}{speed: 3}
+When the prosecution had Vera{b}
+examined,{wait: 8} {speed: 4}did they check{b}
+her nails?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 159}{wait: 32}{name: 13568}{person: 6 160 159}{animation: 149 1}{shake: 30 0}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 4}
+I...{wait: 20} Well I...{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Bailiff!{wait_noanim: 35}{person: 10 263 262} Have them check the{b}{speed: 3}
+defendant's{shake: 30 0} nails at once!{wait: 12}{b}{bgcolor: 2305 8 31}{speed: 2}
+...Mr.{bgcolor: 2305 8 31} Justice!{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 4}
+...Yes?{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 3}
+Do you know who did this?{p}{person: 10 263 262}{showphoto: 223}
+Do you know who put poison{b}
+in that nail polish!?{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 38 38}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 4 0}{speed: 5}
+...Yes.{0x63}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 159}{wait: 32}{name: 13568}{person: 6 160 159}{animation: 149 1}{hidetextbox: 0}{showphoto: 223}{speed: 3}
+That bottle{0x5a}{wait: 20}...{wait: 12}{0x59}{speed: 4} belongs to{b}
+Vera Misham?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{speed: 3}
+Why do you ask?{0x5a}{wait: 30}{b}{person: 4 37 36}{speed: 4}
+Know someone else who might{b}
+have a bottle like this?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 159}{wait: 32}{name: 13568}{person: 6 159 159}{animation: 149 1}{hidetextbox: 0}{speed: 6}
+......{wait: 30}{b}{shake: 30 0}{bgcolor: 2305 8 31}{person: 6 160 159}{animation: 149 1}{speed: 4}
+No.{wait: 16} Just checking.{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 263 262}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Mr. Justice.{p}{speed: 3}
+You are about to accuse{b}
+someone of poisoning that{b}
+bottle of nail polish!{nextpage_button}{person: 10 259 258}
+Please dispense with the{b}
+chatter.{nextpage_button}{0x6c: 0}{0x6e: 40}{person: 10 263 262}
+You realize the weight of{b}
+this accusation?{wait: 15} Here,{wait: 8} let{b}
+me show you.{nextpage_button}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 38 38}{speed: 4}
+...Understood,{wait: 8} Your Honor.{wait: 15}{b}{person: 4 36 36}{speed: 3}{color: 2}
+(No problem.{wait: 20} I know what{b}
+I'm doing this time.){nextpage_button}{color: 0}{endjmp}
+
+{{7}}
+{bop}{0x6c: 0}{0x6e: 40}{bg: 29}{name: 2560}{person: 10 259 258}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}Then let us ask!{p}{person: 10 263 262}{speed: 3}
+Who poisoned Vera Misham{b}
+via her nail polish!?{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{b}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{0x6d: 0}{fademusic: 60}{bg: 29}{person: 10 266 266}{name: 2560}{hidetextbox: 0}{speed: 6}Hmm...{wait: 30}{b}{person: 10 259 258}{speed: 3}
+I'm having a little trouble{b}
+following your reasoning.{nextpage_button}{person: 10 265 264}
+Any insights,{wait: 8} Prosecutor{b}
+Gavin?{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+It is clear just who is{b}
+poisonous here.{p}{speed: 3}
+Herr Forehead is poisoning{b}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+the hearts and minds of{b}
+this court!{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 4}
+...Very well.{nextpage_button}{0x6c: 0}{0x6e: 40}{person: 10 259 258}{speed: 3}
+Then let's fight poison,{wait: 10}{b}
+with penalty!{b}{0x5a}{0x6b: 1 0 0}{0x2b}{testimony_animation: 45}{0x6d: 0}{0x52}{0x23: 0}{music: 255 90}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{color: 2}
+(...No slouching now,{wait: 8}{b}
+Justice!){nextpage_button}{person: 4 42 42}
+(This is my chance to drag{b}
+the real killer out into{b}
+the light of day!){nextpage_button}{person: 4 58 58}
+(I know who gave Vera that{b}
+bottle!){nextpage_button}{color: 0}{jmp: 135}{endjmp}
+
+{{9}}
+{bop}{0x66: 109 0 34}{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{hidetextbox: 0}{showphoto: 187}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Wh-{wait: 8}What's this?{wait: 25}{b}
+Kristoph Gavin{0x5a}...?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 26}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{name: 13568}{hidetextbox: 0}{speed: 5}
+...What's your game?{p}
+My bro{speed: 8}{0x5a}...{wait: 30}{speed: 4}{0x59} There's no way{b}
+he could do a thing like{b}
+that!{nextpage_button}{person: 6 157 156}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+You should know that better{b}
+than anyone else!{fademusic: 0}{music: 35 0}{nextpage_button}{bg: 29}{name: 2560}{person: 10 260 260}{speed: 5}
+Indeed...{wait: 40}{person: 10 259 258}{nextpage_button}{person: 10 265 264}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 16}He is behind bars.{nextpage_button}{bg: 25}{name: 1024}{person: 4 38 38}{speed: 4}
+...I know.{0x63}{b}{person: 4 41 40}
+However...{p}{person: 4 37 36}
+...that doesn't mean it was{b}
+impossible to do what he did.{nextpage_button}{bg: 26}{person: 6 167 166}{name: 13568}{shake: 30 0}{speed: 6}
+What...?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{name: 1024}{person: 4 37 36}{hidetextbox: 0}{speed: 4}
+Ask yourselves{wait: 6} "when" he{b}
+put the poison in the bottle.{p}{person: 4 43 42}{speed: 3}
+It could have been yesterday.{wait: 16}{b}
+...{speed: 4}It could have been a{b}
+month ago.{p}{speed: 3}
+Maybe it was a year ago?{wait_noanim: 60}{b}{person: 4 39 39}{speed: 5}
+...{speed: 3}Or perhaps,{wait: 40}{person: 4 37 36} it was seven{b}
+years ago.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+B-{wait: 12}But...!{nextpage_button}{person: 10 263 262}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Kristoph Gavin had no motive{b}{showphoto: 163}
+for killing this poor girl!{p}{speed: 4}
+...It's{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0} simply{bgcolor: 2305 8 31} inconceivable!{nextpage_button}{bganim: 98 579}{bg: 25}{person: 4 37 36}{name: 1024}{speed: 4}
+...Prosecutor Gavin doesn't{b}
+seem to think so.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 159}{wait: 32}{name: 13568}{person: 6 159 159}{animation: 149 1}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 60}{hidetextbox: 0}{speed: 8}
+......{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}{hidetextbox: 0}{speed: 8}
+...{speed: 3}That face tells me{b}
+one thing.{nextpage_button}{person: 4 48 47}
+Kristoph Gavin's own younger{b}
+brother doesn't find it{b}{speed: 5}
+inconceivable at all.{nextpage_button}{speed: 3}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 266 266}{name: 2560}{hidetextbox: 0}{speed: 6}
+Hmm{speed: 8}...{wait: 40}{b}{person: 10 263 262}{speed: 3}
+Well,{wait: 8} Prosecutor Gavin?{p}
+If you feel there is a{b}
+clear and pressing need...{nextpage_button}{person: 10 259 258}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 12}then we may have to summon{b}
+Kristoph Gavin from jail as{b}
+a special witness.{nextpage_button}{bg: 26}{name: 13568}{person: 6 166 166}{speed: 8}
+......{wait: 40}{b}{person: 6 167 166}{speed: 5}
+Fine.{p}{speed: 4}
+I've known for some time that{b}
+an impenetrable darkness{b}
+lurked at the bottom of this.{p}{person: 6 146 145}{speed: 3}
+...{wait: 16}A darkness that has{b}
+swallowed even myself.{nextpage_button}{bg: 25}{name: 1024}{person: 4 58 58}{speed: 6}
+......{nextpage_button}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 4}
+...OK.{0x5a}{wait: 30}{b}{person: 6 146 145}{speed: 3}
+The defense's wish is granted.{p}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Let prisoner Kristoph Gavin{b}
+take the{bgcolor: 2305 8 31} stand!{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+Bailiff,{wait: 12} begin proceedings{b}
+to call a special witness!{p}{person: 10 259 258}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+The witness is Kristoph Gavin,{wait: 8}{b}
+currently residing in Solitary{b}
+Cell 13 at Central Prison!{nextpage_button}{jmp: 146}{endjmp}
+
+{{10}}
+{bop}{bg: 25}{name: 1024}{person: 4 41 40}Just{wait: 12} {color: 1}who{color: 0}{wait: 6} poisoned Vera{b}
+Misham?{p}{person: 4 37 36}
+I have a name for you.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 3}
+Just a moment,{wait: 8} Herr{b}
+Forehead.{nextpage_button}{person: 6 146 145}{speed: 2}
+You are aware this is an{b}{bgcolor: 2305 8 31}{shake: 30 0}
+accusation you're making?{nextpage_button}{0x6c: 0}{0x6e: 40}{person: 6 149 148}{speed: 3}
+I think a bit of risk{b}
+is in order.{wait: 15} This much,{wait: 8}{b}
+to be precise.{nextpage_button}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 38 38}{speed: 4}
+...I understand.{b}{person: 4 36 36}{speed: 3}{color: 2}
+(No problem.{wait: 15} I know what{b}
+I'm doing this time.){color: 0}{nextpage_button}{endjmp}
+
+{{11}}
+{bop}{0x6c: 0}{0x6e: 40}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}Then let's hear it!{p}{person: 10 263 262}{color: 1}
+Who{color: 0} poisoned Vera Misham?{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{b}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{fademusic: 60}{bg: 29}{person: 10 266 266}{name: 2560}{hidetextbox: 0}{speed: 6}Hmm...{wait: 30}{person: 10 259 258}{speed: 3} I'm not sure I{b}
+entirely understand.{nextpage_button}{person: 10 265 264}
+Do you understand,{wait: 8} Prosecutor{b}
+Gavin?{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+It is clear just who is{b}
+poisonous here.{p}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Herr Forehead is poisoning{b}
+the hearts and minds of{b}
+this court!{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 4}
+...Very well.{nextpage_button}{0x6c: 0}{0x6e: 40}{person: 10 259 258}{speed: 3}
+Then let's fight poison,{wait: 10}{b}
+with penalty!{b}{0x5a}{0x6b: 1 0 0}{0x2b}{testimony_animation: 45}{0x6d: 0}{0x52}{0x23: 0}{music: 255 90}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{color: 2}
+(...No slouching now,{wait: 8}{b}
+Justice!){nextpage_button}{person: 4 42 42}
+(This is my chance to drag{b}
+the real killer out into{b}
+the light of day!){nextpage_button}{person: 4 58 58}
+(I know who gave Vera that{b}
+bottle!){nextpage_button}{color: 0}{jmp: 139}{endjmp}
+
+{{13}}
+{bop}{0x66: 109 0 34}{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{hidetextbox: 0}{showphoto: 187}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Wh-{wait: 10}What's this?{wait: 25}{b}
+Kristoph Gavin{0x5a}...?{p}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 26}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{name: 13568}{hidetextbox: 0}{speed: 5}
+...What's your game?{p}
+My bro{speed: 8}{0x5a}...{wait: 30}{speed: 4}{0x59} There's no way{b}
+he could do a thing like{b}
+that!{nextpage_button}{person: 6 157 156}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+You should know that better{b}
+than anyone else!{fademusic: 0}{music: 35 0}{nextpage_button}{bg: 29}{name: 2560}{person: 10 260 260}{speed: 5}
+Indeed...{wait: 40}{b}{person: 10 259 258}{nextpage_button}{person: 10 265 264}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 16}He is behind bars.{nextpage_button}{bg: 25}{name: 1024}{person: 4 38 38}{speed: 4}
+...I know.{0x63}{b}{person: 4 41 40}
+However...{p}{person: 4 37 36}
+...that doesn't mean it was{b}
+impossible to do what he did.{nextpage_button}{bg: 26}{name: 13568}{person: 6 167 166}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+What...?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{hidetextbox: 0}{person: 4 37 36}{name: 1024}{speed: 3}
+Kristoph Gavin had the{b}
+opportunity to poison{b}
+Vera Misham!{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 5}
+Apparently,{wait: 30}{person: 10 263 262}{speed: 3} the defense has{b}
+something in mind.{p}{person: 10 259 258}
+Let's see what it is!{nextpage_button}{endjmp}
+
+{{14}}
+{bop}{endjmp}
+
+{{15}}
+{bop}{0x6c: 0}{0x6e: 20}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 3}How did Kristoph Gavin,{wait: 10}{b}
+currently in solitary{b}
+confinement,{wait: 6} poison her!?{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{0x6d: 0}{fademusic: 60}{bg: 29}{name: 2560}{person: 10 266 266}{hidetextbox: 0}{speed: 5}From what I hear...{nextpage_button}{person: 10 259 258}{speed: 3}
+...{wait: 12}atroquinine takes a while{b}
+before it acts on the body.{nextpage_button}{bg: 26}{name: 13568}{person: 6 149 148}
+Yes.{wait: 16} "Slow acting", it's{b}
+called.{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 5}
+Also from what I hear...{nextpage_button}{0x6c: 0}{0x6e: 20}{person: 10 259 258}{speed: 3}
+...my penalties hurt more{b}
+later than at the moment{b}
+they're given.{nextpage_button}{person: 10 263 262}
+...{wait: 20}But let's find out!{speed: 2}{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{0x23: 0}{music: 255 90}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(OK,{wait: 8} I'm wrong,{wait: 8} I get it.){color: 0}{nextpage_button}{bg: 28}{name: 1280}{person: 5 103 102}
+They've really made an art{b}
+out of this penalty thing.{nextpage_button}{jmp: 143}{endjmp}
+
+{{17}}
+{bop}{0x66: 109 0 27}{0x1d: 14}{2560}{person: 10 265 264}{hidetextbox: 0}{showphoto: 223}{speed: 5}What's this{0x5a}...?{wait: 20}{b}{speed: 3}{0x59}
+My,{wait: 8} what a beautiful bottle.{nextpage_button}{person: 10 259 258}
+I'd like to give whoever{b}
+designed that a hand.{nextpage_button}{bganim: 98 579}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+Is that...{wait: 16} nail polish?{wait: 16}{b}
+Hmm,{wait: 8} it's colorless.{nextpage_button}{person: 6 145 145}{sound: 52 1}{bgcolor: 2305 8 31}
+Ah...!{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 3}
+Something the matter?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}
+N-{wait: 8}No.{wait: 16} Nothing.{wait: 16} Nothing at all.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 3}
+So the killer put poison{b}
+in this bottle,{wait: 12} and made{b}
+her drink it?{nextpage_button}{bg: 25}{name: 1024}{person: 4 41 40}
+As Prosecutor Gavin has told{b}{showphoto: 479}
+us,{wait: 10} this is nail polish.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}
+Nail polish{speed: 7}...{wait: 16}?{nextpage_button}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+...It's like paint for nails.{wait: 35}{b}{person: 4 37 36}{speed: 3}
+Know any women with red nails?{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Ah!{wait: 12} My wife has red nails!{wait_noanim: 35}{b}{person: 10 266 266}{shake: 30 0}{speed: 5}
+I see...{wait: 16} so she's been{b}
+painting them all this time!{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 5}
+Let's recall yesterday's{b}
+trial.{p}{person: 4 37 36}{speed: 3}
+Remember when Vera was{b}
+testifying to the court?{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 29}{name: 2560}{person: 10 259 258}{0x5a}{0x5f: 3 1 31}{bgcolor: 772 1 31}{wait: 25}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+Court is now back in session.{nextpage_button}{bg: 27}{person: 19 425 425}{name: 4864}{hidetextbox: 0}{speed: 8}
+...{shake: 30 0}...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{color: 2}{speed: 4}
+(Vera seems pretty tense.){nextpage_button}{bg: 27}{person: 19 425 425}
+(She's practically chewing{b}
+her fingernails clean off!){color: 0}{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 25}{name: 1024}{person: 4 36 36}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{person: 4 37 36}
+Whenever Vera became nervous,{wait: 8}{b}
+she had a habit...{nextpage_button}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}
+...of biting her nails.{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 5}
+Her nails{speed: 8}{0x5a}...{wait: 40}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1} Aaah!{bgcolor: 2305 8 31}{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 4}
+...Prosecutor Gavin?{p}{speed: 3}
+When the prosecution had Vera{b}
+examined,{wait: 8} did they check{b}
+her nails?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 159}{wait: 32}{name: 13568}{person: 6 160 159}{animation: 149 1}{shake: 30 0}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 4}
+I...{wait: 20} Well I...{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Bailiff!{wait: 16} Have them check the{b}
+defendant's nails at once!{nextpage_button}{fademusic: 45}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{name: 1024}{person: 4 59 58}{speed: 3}
+Kristoph Gavin didn't have to{b}
+"poison"{wait: 6} that bottle the day{b}
+of the poisoning, Your Honor!{p}{showphoto: 479}{speed: 4}
+The moment Vera first{b}
+held that {bgcolor: 2305 8 31}bottle in her hand,{wait_noanim: 40}{b}{person: 4 64 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}
+her fate {bgcolor: 2305 8 31}was sealed!{speed: 2}{fademusic: 0}{music: 18 0}{nextpage_button}{bganim: 98 579}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+B-{wait: 12}But wait!{nextpage_button}{person: 10 263 262}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+This business about Kristoph{b}{showphoto: 223}
+Gavin giving her that bottle{b}
+is only conjecture!{p}{speed: 4}
+...It's{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} simply {bgcolor: 2305 8 31}inconceivable!{nextpage_button}{bganim: 98 579}{bg: 25}{person: 4 37 36}{name: 1024}{speed: 4}
+...Prosecutor Gavin doesn't{b}
+seem to think so.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 159}{wait: 32}{name: 13568}{person: 6 159 159}{animation: 149 1}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 60}{hidetextbox: 0}{speed: 8}
+......{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}{hidetextbox: 0}{speed: 8}
+...{speed: 4}That face tells me{b}
+one thing.{nextpage_button}{person: 4 48 47}{speed: 3}
+Kristoph Gavin's own younger{b}
+brother doesn't find it{b}
+inconceivable at all.{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{person: 10 266 266}{bg: 29}{name: 2560}{hidetextbox: 0}{speed: 6}
+Hmm{speed: 8}...{wait: 40}{b}{person: 10 263 262}{speed: 3}
+Well,{wait: 8} Prosecutor Gavin?{p}
+If you feel there is a{b}
+clear and pressing need...{nextpage_button}{person: 10 259 258}{sound: 52 1}{bgcolor: 2305 8 31}
+...then we may have to summon{b}
+Kristoph Gavin from jail as{b}
+a special witness.{nextpage_button}{bg: 26}{name: 13568}{person: 6 166 166}{speed: 8}
+......{wait: 40}{b}{person: 6 167 166}{speed: 5}
+Fine.{p}{speed: 4}
+I've known for some time that{b}
+an impenetrable darkness{b}
+lurked at the bottom of this.{p}{person: 6 146 145}{speed: 3}
+...{wait: 16}A darkness that has{b}
+swallowed even myself.{nextpage_button}{bg: 25}{name: 1024}{person: 4 58 58}{speed: 6}
+......{nextpage_button}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 4}
+...OK.{0x5a}{wait: 30}{b}{person: 6 146 145}{speed: 3}
+The defense's wish is granted.{p}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Let prisoner Kristoph Gavin{b}
+take the{bgcolor: 2305 8 31} stand!{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+Bailiff,{wait: 12} begin proceedings{b}
+to call a special witness!{p}{person: 10 259 258}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+The witness is Kristoph Gavin,{wait: 10}{b}
+currently residing in Solitary{b}
+Cell 13 at Central Prison!{nextpage_button}{jmp: 146}{endjmp}
+
+{{18}}
+{bop}{hidetextbox: 1}{wait: 60}{bgcolor: 516 1 31}{wait: 25}{wait: 60}{bg: 27}{name: 14592}{person: 8 530 530}{bgcolor: 260 1 31}{wait: 25}{fademusic: 0}{music: 27 0}{wait: 90}{name: 14592}{person: 8 531 530}{hidetextbox: 0}{speed: 4}...Ah,{wait: 8} Your Honor.{wait: 16} How nice{b}
+to see you again.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I-{wait: 8}It's been quite a while,{wait_noanim: 30}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{0x59}
+hasn't it?{nextpage_button}{bg: 27}{name: 14592}{person: 8 536 535}{speed: 4}
+To what do I owe the pleasure{b}
+of your company?{p}{person: 8 553 553}{speed: 5}
+It's not every day I'm{b}
+summoned from my solitary{b}
+cell.{wait: 20} In fact,{wait: 8} it's never.{person: 8 552 552}{0x63}{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{name: 1024}{person: 4 37 36}{hidetextbox: 0}{speed: 3}
+I think you already know,{wait: 16}{b}{speed: 4}
+Mister Kristoph Gavin.{nextpage_button}{bg: 27}{name: 14592}{person: 8 531 530}{bgcolor: 2305 8 31}{speed: 4}
+Ah...{wait: 16} Mr. Justice.{p}{person: 8 534 533}{speed: 3}
+...I hear you've been doing{b}
+quite well for yourself.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{shake: 30 0}{speed: 6}{color: 2}
+(Ack...){p}{speed: 3}
+(Why do I feel like somehow,{wait: 6}{b}
+he's still my boss{speed: 8}...?){nextpage_button}{color: 0}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Stiff upper lip,{wait: 12} Apollo!{wait: 16}{b}
+You can do it!{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}{showphoto: 479}{speed: 3}
+...Does this bottle look{b}
+familiar?{nextpage_button}{bganim: 98 579}{bg: 27}{name: 14592}{person: 8 531 530}{showphoto: 223}{speed: 4}
+Ariadoney nail polish?{0x5a}{wait: 30}{b}
+...{0x59}Why yes,{wait: 8} I use it myself.{p}{speed: 4}
+As did the late defendant,{0x5a}{wait: 20}{b}{person: 8 542 541}
+I hear.{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 59 58}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+She's not dead yet!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 8 535}{wait: 32}{name: 14592}{person: 8 536 535}{hidetextbox: 0}{speed: 5}
+And...?{wait: 15} {showphoto: 223}{speed: 4}Was there something{b}
+concerning this bottle you{b}
+wished to ask me about?{p}{person: 8 553 553}
+I admit,{wait: 6} I respect her for{b}
+her taste in nail polish.{p}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 45 44}{speed: 3}
+Her{wait: 6} "taste" indeed!{nextpage_button}{person: 4 66 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+This nail polish {bgcolor: 2305 8 31}was how{b}
+Vera Misham was poisoned!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 8 533}{wait: 32}{name: 14592}{person: 8 534 533}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Atroquinine{speed: 7}{0x5a}...{wait: 20}{speed: 3}{0x59} was it?{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 3}
+You're well informed about{b}
+the case,{wait: 8} Mr. Gavin.{nextpage_button}{hidetextbox: 1}{bg: 27}{name: 14592}{person: 8 540 540}{0x63}{person: 8 542 541}{hidetextbox: 0}{speed: 4}
+Even in solitary,{wait: 14} much comes{b}
+to my desk.{wait: 18} And I have nothing{b}
+to do but read.{nextpage_button}{person: 8 536 535}
+...{wait: 16}Well,{wait: 8} Klavier?{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 159}{wait: 32}{name: 13568}{person: 6 159 159}{animation: 149 1}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}
+...!{nextpage_button}{bg: 27}{name: 14592}{person: 8 553 553}{speed: 3}
+...{wait: 12}Maybe you can explain this?{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 159}{wait: 32}{name: 13568}{person: 6 159 159}{animation: 149 1}{hidetextbox: 0}{speed: 4}
+......{nextpage_button}{fademusic: 45}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}
+You're being accused again.{wait_noanim: 30}{b}{bg: 27}{person: 8 530 530}{speed: 3}
+...By him. Again.{nextpage_button}{person: 8 552 552}{bg: 27}{name: 14592}{person: 8 553 553}{speed: 5}
+Ahh.{wait: 40} {speed: 3}And?{wait: 35}{person: 8 531 530}{speed: 4} You agree with his{b}
+accusation,{wait: 8} do you?{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 166}{wait: 32}{name: 13568}{person: 6 166 166}{hidetextbox: 0}{speed: 4}
+......{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+Let's hold a proper trial,{wait: 16}{b}
+shall we?{nextpage_button}{person: 10 263 262}{speed: 4}
+Kristoph Gavin...{wait: 16} your{b}
+testimony,{wait: 10} please.{nextpage_button}{bg: 27}{name: 14592}{person: 8 553 553}
+...{speed: 5}I'd be delighted.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+The charges against you are{b}
+quite severe,{wait: 8} Mr. Gavin.{p}{person: 10 266 266}
+You are suspected of the{b}
+poisoning of the defendant,{wait: 8}{b}
+Vera Misham{0x5a}...{p}{person: 10 259 258}{shake: 30 0}{bgcolor: 2305 8 31}
+...{speed: 2}Please testify on this{b}
+matter to the court!{nextpage_button}{speed: 255}{hidetextbox: 1}{testimony_animation: 1}{special_jmp}{endjmp}

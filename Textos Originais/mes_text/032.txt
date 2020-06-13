@@ -1,0 +1,956 @@
+
+
+{{0}}
+{bop}{0x62: 2 2}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 30 677 677}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 14 11 2 93 1 1 3}{b}
+-- Stickler's "Truth" --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{name: 7680}{fademusic: 0}{music: 3 0}{name: 7680}{person: 30 678 677}
+That night...{wait: 12} {speed: 3}Yes!{wait: 16} I went{b}
+to the supermarket.{p}{person: 30 691 690}{animation: 221 1}
+I must have dropped my cell{b}
+phone on my way back.{p}{person: 30 678 677}
+And when I was walking through{b}
+the park,{wait: 8} I happened to{b}
+witness the crime!{p}{person: 30 691 690}{animation: 221 1}
+...{wait: 20}I saw the killer,{wait: 8} the{b}
+victim,{wait: 8} the stand...{wait: 20} all{b}
+as clear as day!{p}{person: 30 678 677}
+It was him!{wait: 16} I saw the{b}
+defendant at the scene!{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{person: 10 259 258}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{0x59}{hidetextbox: 0}
+Yes{speed: 8}...{wait: 20} {speed: 3}but your cell phone{wait: 12}{b}
+was lying in a garage.{nextpage_button}{bg: 27}{person: 30 674 673}{name: 7680}
+Ah,{wait: 8} yes,{wait: 8} well,{wait: 8} as you can{b}{showphoto: 60}
+see my model of cell phone{b}
+has a defect...{p}{person: 30 686 685}
+It is given to rolling!{wait: 16} It's{b}
+quite a pain when I drop it{b}
+alongside the road,{wait: 8} you know.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}
+...{wait: 20}Looks like a normal cell{b}
+phone to me.{p}{person: 10 259 258}
+In any case,{wait: 8} Mr. Justice,{wait: 8} the{b}
+cross-examination,{wait: 8} please.{nextpage_button}{bganim: 98 579}{bg: 25}{person: 4 36 36}{name: 1024}{speed: 4}{color: 2}
+(That's funny...){nextpage_button}{person: 4 40 40}{showphoto: 339}{speed: 3}
+(My bracelet didn't react at{b}
+all during that testimony.){color: 0}{nextpage_button}{bganim: 98 579}{bg: 28}{person: 5 105 104}{name: 1280}
+His nervous habit must not be{b}
+acting up...{p}
+I didn't sense anything{b}
+either,{wait: 8} actually.{nextpage_button}{person: 5 99 98}
+Looks like you're on your own{b}
+this time around!{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}{color: 2}
+(Right,{wait: 8} no problem{wait: 20}{speed: 8}...{wait: 12} {speed: 3}I hope.{wait: 16}{b}
+Here comes Justice!){color: 0}{nextpage_button}{endjmp}
+
+{{1}}
+{bop}{0x6b: 0 1 0}{bganim: 98 513}{0x6b: 1 0 0}{bganim: 98 513}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 30 677 677}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 135}{center_text: 1}{speed: 2}{b}{color: 1}
+-- Stickler's "Truth" --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 3 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 137 0}{lifebar: 26}{0x53}{person: 30 678 677}{name: 7680}{hidetextbox: 0}{color: 3}That night... Yes! I went{b}
+to the supermarket.{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 138 0}{lifebarset: 0 130}{lifebar: 17}{0x53}{person: 30 691 690}{animation: 221 1}{name: 7680}{hidetextbox: 0}{color: 3}I must have dropped my cell{b}
+phone on my way back.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 131}{lifebar: 26}{0x53}{person: 30 678 677}{name: 7680}{hidetextbox: 0}{color: 3}And when I was walking through{b}
+the park, I happened to{b}
+witness the crime!{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 132}{0x51: 0 53}{30720}{reset}{testimony_box: 146 0}{lifebarset: 1 136}{lifebar: 17}{0x53}{person: 30 691 690}{animation: 221 1}{name: 7680}{hidetextbox: 0}{color: 3}...I saw the killer, the{b}
+victim, the stand... all{b}
+as clear as day!{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 148 1}{lifebarset: 0 133}{0x51: 0 53}{30720}{person: 84 0 136}{lifebar: 26}{0x53}{person: 30 678 677}{name: 7680}{hidetextbox: 0}{color: 3}It was him! I saw the{b}
+defendant at the scene!{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 28}{person: 5 105 104}{name: 1280}{hidetextbox: 0}His habit isn't acting up...{wait: 12}{b}{speed: 3}
+which means he isn't lying.{nextpage_button}{name: 1024}{color: 2}
+(Hmm...{wait: 20} I was kind of relying{b}{showphoto: 83}
+on my bracelet to get me{b}
+through this one...){color: 0}{nextpage_button}{removephoto}{person: 5 99 98}{name: 1280}
+But he's pretty unsettled!{wait: 16} The{b}
+odds are really high that you{b}
+can get something out of him!{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}
+That gleam in your eyes...{wait: 12}{b}
+You're a gambler's daughter{b}
+through and through.{nextpage_button}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I'm a magician,{wait: 8} thank you{b}
+very much!{speed: 255}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 677 677}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{8}}
+{bop}{testimony_box: 147 0}{lifebarset: 0 133}{lifebarset: 1 134}{lifebar: 26}{0x53}{person: 30 678 677}{name: 7680}{hidetextbox: 0}{color: 3}Why I even remember the sign{b}
+on the stand the victim was{b}
+pulling! It said "NOODLE"!{color: 0}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}So you went shopping.{wait: 16}{b}
+Which means...{p}
+...you were holding a grocery{b}
+bag when you witnessed the{b}
+murder taking place?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}
+Eh!?{wait: 20} W-Well,{wait: 12} yes,{wait: 8} of course...{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}
+Incidentally,{wait: 8} the prosecution{b}
+has received no report of{b}
+this domestic detail.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}
+...{wait: 20}Mr. Stickler?{wait: 20} Can you{b}
+explain yourself?{p}{bg: 27}{name: 7680}{person: 30 691 690}{animation: 221 1}{speed: 2}
+No!{wait: 16} I mean,{wait: 8} yes!{wait: 16} I did go{b}
+shopping,{wait: 8} really.{p}{person: 30 686 685}{speed: 5}
+I walked around the{b}
+supermarket,{wait: 8} trying out the{b}
+free samples...{p}{person: 30 683 682}{speed: 3}
+It's...{wait: 20} a deeply spiritual{b}
+time for me.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}
+I'm sure the store clerks{b}
+would disagree.{nextpage_button}{bg: 28}{name: 1280}{person: 5 99 98}
+Do you think sampling free{b}
+food counts as a religion?{nextpage_button}{bg: 27}{person: 30 674 673}{name: 7680}{shake: 30 0}{speed: 2}
+In any case!{wait: 20} {speed: 3}That night...{p}{person: 30 686 685}
+...I sampled to my heart's{b}
+content,{wait: 12} and was on my way{b}
+back home, yes.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{wait: 1}{0x1d: 264}{0x4c}{bganim: 98 514}{0x6c: 0}{bg: 27}{person: 30 690 690}{animation: 221 1}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 255}That's when you passed in{b}
+front of the Meraktis Clinic?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{person: 30 673 673}{wait: 120}{person: 30 676 676}{0x63}{name: 7680}{person: 30 686 685}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}
+Why{speed: 8}...{wait: 20} {speed: 4}yes.{wait: 16} That's correct.{p}{bg: 28}{name: 1280}{person: 5 99 98}{speed: 3}
+That was a pretty suspicious{b}
+pause there.{p}{bg: 25}{person: 4 59 58}{name: 1024}
+Mr. Stickler,{wait: 8} do you think{b}
+you could be a bit more{b}
+specific?{p}
+Please show us the exact{b}
+route you took on the night{b}
+of the murder.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 682}{wait: 32}{name: 7680}{person: 30 683 682}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}
+O-{wait: 16}Of course.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 94}{person: 0 0 0}{littlesprite: 5377}{littlesprite: 5633}{littlesprite: 6401}{littlesprite: 7425}{littlesprite: 7681}{littlesprite: 8193}{littlesprite: 8705}{littlesprite: 8961}{littlesprite: 9473}{bgcolor: 258 1 31}{wait: 15}{littlesprite: 7937}{0x3c: 7937}{wait: 10}{name: 7680}{hidetextbox: 0}
+The supermarket is here,{wait: 8} along{b}
+the main road.{b}{0x10: 33761}{p}{0x3c: 7936}{wait: 10}{littlesprite: 7936}{speed: 3}
+My way home from there{littlesprite: 6145}{0x3a: 24 368 96}{0x6b: 368 50 60}{0x3b: 6148 0}{0x3d: 6144}{0x6b: 290 44 60}{0x3b: 6148 0}{0x3d: 6144}{wait: 10} takes{b}
+me past the Meraktis Clinic.{p}
+This is probably when I{wait: 12}{showphoto: 60}{b}
+dropped my cell phone.{p}
+Yet,{wait: 8} woe is I,{wait: 8} I walked on,{wait: 8}{b}
+unaware of my loss!{nextpage_button}{hidetextbox: 1}{removephoto}{wait: 1}{0x1d: 4}{0x6b: 128 28 120}{0x3b: 6148 0}{0x3d: 6144}{wait: 10}{hidetextbox: 0}
+...{wait: 20}And walked right into that{b}
+fateful park.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 677 677}{name: 7680}{bganim: 98 514}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 41 40}{hidetextbox: 0}Which entrance did you enter{b}
+the park from?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{hidetextbox: 0}{person: 30 674 673}{speed: 5}
+Well,{wait: 8} to be exact...{p}{speed: 3}
+One might say that I went in{b}
+from the entrance closest to{b}
+the Meraktis Clinic.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}
+The same entrance our victim{b}
+used.{p}{bg: 25}{name: 1024}{person: 4 59 58}
+Did you notice anything when{b}
+you entered?{p}{person: 4 41 40}{speed: 4}
+Wheel marks from a noodle{b}
+stand,{wait: 8} for instance?{p}{bg: 27}{name: 7680}{person: 30 674 673}
+...{wait: 20}I have no recollection of{b}
+such a thing,{wait: 8} no.{p}{bg: 27}{name: 7680}{person: 30 683 682}
+Yet,{wait: 8} though I might have{b}
+missed the tracks,{wait: 10} I could not{b}
+miss what happened next!{nextpage_button}{person: 30 686 685}
+I am a keen observer...{wait: 20}{b}
+of the obvious,{wait: 8} you might say.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 690 690}{animation: 221 1}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 40 40}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}(This part of the testimony{b}
+is the key.{wait: 10} I know it!){p}{person: 4 58 58}{speed: 3}
+(Should I press him about{b}
+the killer,{wait: 8} the victim,{wait: 8}{b}
+or the noodle stand?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 27}{hidetextbox: 29}{b}{b}{3args_choice_jmp: 141 142 143}{endjmp}
+
+{{13}}
+{bop}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}Are you sure you remember{b}
+the killer clearly?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 677}{wait: 32}{name: 7680}{person: 30 678 677}{hidetextbox: 0}{speed: 3}
+How many times must I repeat{b}
+myself!?{p}{person: 30 674 673}
+It was him,{wait: 8} that unscrupulous,{b}
+fox-like fellow in the{b}
+defendant's chair!{p}{person: 30 686 685}{speed: 3}
+He was looking even more{b}
+unscrupulous at the time,{wait: 8}{b}
+no less.{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 6}
+Hmm...{wait: 20} {person: 10 263 262}{speed: 3}He does look a bit like{b}
+one of those trickster foxes{b}
+in legends of yore.{showphoto: 37}{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 40 40}{color: 2}
+(I guess the victim's identity{b}
+is already old territory...{wait: 20}{b}
+Time to ask something new.){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 677 677}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{14}}
+{bop}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}You could see the victim{b}
+quite clearly,{wait: 8} too?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}
+Oh,{wait: 8} clear as clear can be,{wait: 8}{b}
+I assure you.{p}{bg: 25}{name: 1024}{person: 4 41 40}
+I see.{wait: 16} So{speed: 8}...{wait: 12}{b}
+Um...{wait: 20} {speed: 3}How'd he look?{p}{bg: 27}{name: 7680}{person: 30 674 673}
+How?{wait: 16} How do you mean,{wait: 6} "how"?{wait: 16}{b}
+Be specific.{p}{bg: 25}{name: 1024}{person: 4 41 40}
+Um,{wait: 8} I mean,{wait: 8} in general.{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}
+The defense will refrain from{b}
+straining to come up with{b}
+questions.{nextpage_button}{person: 10 263 262}
+Find the question that lies{b}
+in your heart and ask that!{nextpage_button}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}
+Y-{wait: 12}Yes,{wait: 8} Your Honor.{0x5a}{b}{speed: 4}{color: 2}
+(Great,{wait: 8} a judge who moonlights{b}
+as a self-help guru...){speed: 255}{color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 677 677}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{15}}
+{bop}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}Do you happen to remember the{b}
+noodle stand?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{person: 30 686 685}{name: 7680}{hidetextbox: 0}{speed: 2}
+Quite well,{wait: 8} yes!{p}{speed: 3}
+For a student of the sciences,{wait: 8}{b}
+keen observation and healthy{b}
+curiosity are vital!{p}{person: 30 683 682}
+I remember everything!{wait: 16} I could{b}
+even read the sign!{p}{speed: 4}
+I believe it said{speed: 9}{0x5a}...{wait: 25}{b}{person: 30 688 688}{shake: 30 0}
+Er{speed: 8}.{speed: 10}.{speed: 12}.{wait: 90}{nextpage_nobutton}{person: 30 674 673}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+"NOODLE".{wait: 20}{b}
+.........{b}
+Yes,{wait: 8} that was it.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}
+For remembering something{wait: 8}{b}
+"quite well" it sure took you{b}
+a while to tell us.{nextpage_button}{person: 10 259 258}
+And thank you for telling us{b}
+that a noodle stand sells{b}
+noodles.{wait: 8} Very enlightening.{p}{person: 10 263 262}
+Well,{wait: 8} Mr. Justice?{nextpage_button}{bg: 25}{person: 4 42 42}{name: 1024}{speed: 5}{color: 2}
+(Hmm...{wait: 20} {speed: 3}What about that{wait: 6} sign{wait: 6}?{b}
+Could that be important?){speed: 255}{color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 30}{hideperson}{65535}{b}{2args_choice_jmp: 144 145}{endjmp}
+
+{{16}}
+{bop}{bg: 25}{name: 1024}{person: 4 40 40}{color: 2}(How could the sign matter at{b}
+all?{wait: 16} We know it's a noodle{b}
+stand!){color: 0}{p}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 263 262}{hidetextbox: 0}
+Very well,{wait: 8} please continue{b}
+with the testimony!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 677 677}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{17}}
+{bop}{fademusic: 30}{name: 1024}{person: 4 59 58}{speed: 4}So the sign on the noodle{b}
+stand said{wait: 6} "NOODLE"{0x5a}{wait: 6}...?{p}{speed: 3}
+It appears the defense has{b}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}
+just obtained a vital piece{b}
+of testimony!{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Is this noodle stand's broth{b}
+really that delicious?{p}{person: 10 266 266}
+I'll have to go sample the{b}
+wares one of these days.{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+I think that's worth adding to{b}
+the testimony as well.{nextpage_button}{bg: 27}{person: 30 685 685}{name: 7680}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+...{wait: 20}Hmph!{nextpage_button}{person: 30 686 685}{speed: 3}
+Whatever sort of noodles that{b}
+stand sells,{wait: 8} it can't match{b}
+up to Ivy U.'s cafeteria!{p}{person: 30 683 682}
+Some apply to the school{b}
+merely for a taste of our{b}
+Smart Noodles!{nextpage_button}{bg: 25}{person: 4 42 42}{name: 1024}{speed: 4}{color: 2}
+(I wouldn't mind a taste of{b}
+that myself...){color: 0}{nextpage_button}{fademusic: 0}{music: 3 90}{0x10: 32888}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 677 677}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 136}{endjmp}
+
+{{18}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 48 47}{name: 1024}{hidetextbox: 0}Mr. Stickler,{wait: 8} you've proven{b}
+to be a most skilled witness.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 677}{wait: 32}{name: 7680}{person: 30 678 677}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Skilled?{wait: 16} What do you mean?{p}{bg: 25}{person: 4 48 47}{name: 1024}
+I thank you for your powers of{b}
+recollection.{wait: 16} Your testimony{b}
+just now was quite vital.{p}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{person: 6 151 150}{name: 13568}{hidetextbox: 0}
+Something going on up in your{b}
+noodle,{wait: 8} Herr Forehead?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{person: 4 40 40}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}
+(If my gut feeling here is{b}
+right...){nextpage_button}{person: 4 36 36}{speed: 3}
+(I've just stumbled across a{b}
+major contradiction!){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 677 677}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 136}{endjmp}
+
+{{19}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 4}So the sign said{wait: 6} "NOODLE"?{b}
+You're absolutely sure?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{fademusic: 120}{person: 30 679 679}{0x63}{person: 30 680 680}{0x63}{wait: 120}{person: 30 679 679}{0x63}{person: 30 680 680}{0x63}{person: 30 673 673}{wait: 180}{person: 30 676 676}{0x63}{wait: 60}{person: 30 686 685}{name: 7680}{hidetextbox: 0}{speed: 5}
+Let me be frank:{0x5a}{wait: 20}{b}{person: 30 683 682}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Yes.{p}{speed: 4}
+In fact,{wait: 8} the word "unsure"{b}
+isn't even in my dictionary!{b}
+Nor the word "uncertain" or...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}{color: 2}
+(He was wasting time looking{b}
+that stuff up!?){color: 0}{0x23: 0}{music: 255 90}{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 4}
+"NOODLE",{wait: 8} eh?{wait: 20} I like that.{b}{person: 10 265 264}{speed: 3}
+It tells you what you're{b}
+getting,{wait: 8} no nonsense.{p}{bg: 25}{name: 1024}{person: 4 47 47}{speed: 3}{color: 2}
+(It tells me a lot more than{b}
+that,{wait: 8} actually!){color: 0}{nextpage_button}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 4}
+Why are you smiling like that,{wait: 8}{b}
+Apollo?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 677 677}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{20}}
+{bop}{0x6d: 0}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 4}Are you absolutely sure{b}
+it was the defendant?{nextpage_nobutton}{speed: 255}{bg: 27}{name: 7680}{person: 30 678 677}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Stop asking me the same{b}
+questions over and over!{nextpage_button}{person: 30 691 690}{animation: 221 1}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+This isn't some kind of{b}
+make-up test!{nextpage_button}{bg: 28}{name: 1280}{person: 5 99 98}
+What's a{wait: 5} "make-up test",{b}
+Apollo?{nextpage_button}{name: 1024}
+Nothing a good student like{b}
+you has to worry about.{nextpage_button}{person: 5 104 104}{color: 2}
+(Time to find his weak spot{b}
+and press it till he breaks!){color: 0}{nextpage_button}{jmp: 135}{endjmp}
+
+{{21}}
+{bop}{fademusic: 60}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}And you're absolutely sure the{b}
+sign read{wait: 6} "NOODLE"?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{person: 30 674 673}{name: 7680}{hidetextbox: 0}{speed: 3}
+Why,{wait: 8} just last week,{wait: 8} my{b}
+professor offered me this{b}
+praise:{nextpage_button}{hidetextbox: 1}{person: 30 676 676}{0x63}{person: 30 683 682}{hidetextbox: 0}
+"At least you have good{b}
+eyesight,{wait: 10} Stickler.{wait: 8} I'll{b}
+give you that."{p}{person: 30 674 673}
+...{wait: 20}It read,{wait: 8} without a doubt,{wait: 8}{b}
+"NOODLE".{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 47}{wait: 32}{person: 4 48 47}{name: 1024}{hidetextbox: 0}{speed: 5}
+I see...{nextpage_button}{bg: 27}{person: 30 678 677}{name: 7680}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+What?{wait: 8} Why are you looking at{b}
+me like that?{wait: 20} {speed: 3}Is that...{wait: 16} pity{b}
+I see in your eyes!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 44}{wait: 32}{person: 4 45 44}{name: 1024}{hidetextbox: 0}
+Let's take a look at our{b}
+map,{wait: 8} shall we?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 92}{person: 0 0 0}{littlesprite: 513}{littlesprite: 9985}{0x3a: 2 168 102}{0x3b: 9989 16384}{littlesprite: 769}{0x3a: 3 96 102}{littlesprite: 10241}{0x3b: 10245 49152}{littlesprite: 1025}{0x3a: 4 132 136}{littlesprite: 10497}{0x3b: 10501 32768}{fademusic: 0}{music: 4 0}{bgcolor: 258 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}
+So,{wait: 6} you're claiming that when{b}
+you saw the sign,{wait: 6} you were{b}
+standing{speed: 8}...{p}{hidetextbox: 1}{0x3c: 1025}{wait: 90}{0x3c: 1024}{wait: 70}{hidetextbox: 0}{speed: 3}
+Here,{wait: 10} was it?{wait: 20} ...Although, it{b}
+would've been a bit hard to{b}
+read the sign from this spot.{p}{bganim: 98 514}{bg: 27}{person: 30 678 677}{name: 7680}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+Y-{wait: 20}You think so?{p}{bg: 25}{person: 4 45 44}{name: 1024}
+Mr. Stickler.{b}
+I'd like you to please take{b}
+another look at the stand...{p}{person: 4 48 47}
+...and to carefully read what{b}
+the sign says.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 229}{person: 0 0 0}{wait: 40}{bgcolor: 772 1 31}{wait: 25}{name: 1024}{hidetextbox: 0}{speed: 4}
+See?{wait: 16} The sign actually states{b}
+the name of the stand's owner.{nextpage_button}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...{wait: 20}"{color: 1}ELDOON'S{color: 0}".{p}{bg: 27}{person: 30 678 677}{name: 7680}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 5}
+E...{speed: 6} El...{speed: 7} Eld...{b}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Inconceivable!{nextpage_button}{person: 30 689 688}
+I'm certain it was definitely{wait: 6}{b}
+"NOODLE"{wait: 2} for sure!{wait: 16} Positive!{nextpage_button}{bg: 29}{person: 10 266 266}{0x63}{name: 2560}{speed: 3}
+I'm afraid your professor{b}{person: 10 259 258}
+was wrong about that eyesight.{nextpage_button}{bg: 25}{person: 4 48 47}{name: 1024}
+I wouldn't be so quick to{b}
+jump to that conclusion.{0x23: 0}{music: 255 90}{nextpage_button}{color: 2}
+(The sign he saw changes{b}
+everything!){color: 0}{nextpage_button}{person: 4 37 36}
+The witness says the sign{b}
+said{wait: 16} "{color: 1}NOODLE{color: 0}"...{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 32}{evidence_window_lifebar}{65535}{b}{2args_choice_jmp: 150 151}{endjmp}
+
+{{22}}
+{bop}{bg: 25}{name: 1024}{person: 4 37 36}The answer is quite simple.{wait: 16}{b}
+The witness saw the sign{b}
+wrong.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}
+That would seem to be the{b}
+case,{wait: 8} yes...{nextpage_button}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Apollo!{wait: 16} {speed: 3}The only thing that{b}
+changes is the witness's{b}
+eyesight!{nextpage_button}{name: 1024}{person: 5 102 102}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Eh...?{nextpage_button}{name: 1280}{person: 5 103 102}{speed: 3}
+OK,{wait: 8} so you've proven the{b}
+witness has bad eyesight,{wait: 8}{b}
+and is overconfident.{p}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+But that just proves he's a{b}
+bad witness!{wait: 20} It doesn't solve{b}
+the case!{nextpage_button}{bg: 27}{name: 7680}{person: 30 678 677}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+How rude!{wait: 12} I've not made a{b}
+single mistake,{wait: 8} I assure you!{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+I am a student of science!{wait: 12}{b}
+Errors are not tolerated in{b}
+my field,{wait: 8} I'll have you know!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{name: 1024}{person: 4 40 40}{hidetextbox: 0}{speed: 4}{color: 2}
+(What if Mr. Stickler is right{b}
+to be so confident...?){nextpage_button}
+(And if he is right about the{b}
+sign...{wait: 20} what does that mean{b}
+for the entire case!?){color: 0}{nextpage_button}{jmp: 151}{endjmp}
+
+{{23}}
+{bop}{0x29: 0}{bg: 25}{person: 4 41 40}{name: 1024}{speed: 4}What would you say if I told{b}
+you...{p}{person: 4 37 36}{speed: 8}
+...{wait: 12}{speed: 3}that there is one spot from{b}
+which the sign would be read{b}
+the way Mr. Stickler claims?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{person: 30 674 673}{name: 7680}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}
+What...?{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 263 262}{name: 2560}{hidetextbox: 0}{speed: 2}
+Mr. Justice!{b}{speed: 3}
+Show us this sp{shake: 30 0}ot!{bgcolor: 2305 8 31}{nextpage_button}{endjmp}
+
+{{24}}
+{bop}{0x6c: 0}{0x6e: 20}{bg: 92}{person: 0 0 0}{name: 1024}{color: 3}The witness actually viewed{b}
+the stand from this location!{color: 0}{0x3e: 6}{wait: 60}{0x3f}{endjmp}
+
+{{25}}
+{bop}{littlesprite: 256}{fademusic: 60}{bg: 29}{0x6d: 0}{name: 2560}{person: 10 266 266}{hidetextbox: 0}{speed: 8}...{wait: 25}{b}{person: 10 263 262}{speed: 3}
+Any thoughts,{wait: 8} Prosecutor{b}
+Gavin?{p}{bg: 26}{name: 13568}{person: 6 146 145}
+What,{wait: 14} it's my turn to chastise{b}{person: 6 147 147}
+the upstart,{wait: 8} is it?{nextpage_button}{person: 6 149 148}
+Herr Forehead...{wait: 12} Recall what{b}
+you just told the court!{p}{0x5f: 3 1 31}{bg: 229}{person: 0 0 0}{speed: 4}
+The sign on the stand reads{wait: 5}{b}
+"{color: 1}ELDOON'S{color: 0}",{wait: 20} ja?{nextpage_button}{bg: 26}{person: 6 149 148}{0x5f: 4 1 1}{speed: 3}
+How would the witness standing{b}
+where you have indicated{b}
+change anything!?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{person: 4 40 40}{name: 1024}{hidetextbox: 0}{speed: 6}
+..{speed: 8}..{speed: 10}..{b}{person: 4 43 42}{speed: 5}
+Um...{nextpage_button}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+I picked the wrong place.{p}{bg: 29}{name: 2560}{person: 10 263 262}{0x6c: 0}{0x6e: 20}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Your honesty becomes you,{wait: 8}{b}
+Mr. Justice.{wait: 16} However,{wait: 8} your{b}
+mistake does not.{person: 10 262 262}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{speed: 5}
+Sorry,{wait: 8} Your Honor...{wait: 20}{b}
+Do I get another chance?{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 4}
+Tell us,{wait: 8} once again,{wait: 8} where{b}
+was the witness standing?{0x23: 0}{music: 255 60}{nextpage_button}{jmp: 152}{endjmp}
+
+{{26}}
+{bop}{0x6d: 0}{littlesprite: 256}{bg: 29}{name: 2560}{fademusic: 60}{person: 10 266 266}{hidetextbox: 0}{speed: 8}...{wait: 25}{b}{person: 10 265 264}{speed: 3}
+That's a river.{nextpage_button}{bg: 25}{person: 4 40 40}{name: 1024}{hidetextbox: 0}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait: 25}{b}{sound: 52 1}{bgcolor: 2305 8 31}{person: 4 53 52}{speed: 3}
+Oh.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{0x6c: 0}{0x6e: 20}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Yes,{wait: 6} "Oh". As in,{wait: 8} I{wait: 6} "oh" you{b}
+a penalty!{b}{person: 10 262 262}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{speed: 5}
+Urk...{wait: 20} Sorry,{wait: 8} Your Honor.{b}
+Mind if I try again?{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 4}
+Tell us,{wait: 20} if you would,{wait: 20} where{b}
+was the witness standing?{speed: 3}{0x23: 0}{music: 255 60}{nextpage_button}{jmp: 152}{endjmp}
+
+{{27}}
+{bop}{littlesprite: 256}{fademusic: 60}{0x6d: 0}{bg: 29}{name: 2560}{person: 10 266 266}{hidetextbox: 0}{speed: 8}...{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+Though it pains me to point{b}
+out the obvious...{wait: 20} I see{b}
+you leave me with no choice.{p}{person: 6 149 148}{sound: 52 1}{bgcolor: 2305 8 31}
+It was the victim,{wait: 8} Herr{b}
+Doktor Meraktis who was{b}
+pulling the stand,{wait: 8} ja?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{name: 1024}{person: 4 40 40}{hidetextbox: 0}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait: 25}{b}{person: 4 50 49}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Ja.{p}{bg: 29}{name: 2560}{person: 10 263 262}{0x6c: 0}{0x6e: 20}{speed: 4}
+Mr. Justice,{wait: 8} hopefully this{b}
+penalty will inspire you to{b}
+take this case more seriously.{person: 10 262 262}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{speed: 5}
+Sorry,{wait: 8} Your Honor...{wait: 20}{b}{speed: 4}
+One more time,{wait: 8} please...{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 4}
+Tell us,{wait: 8} if you would,{wait: 8} where{b}
+was the witness standing?{0x23: 0}{music: 255 60}{nextpage_button}{jmp: 152}{endjmp}
+
+{{28}}
+{bop}{littlesprite: 256}{0x66: 109 0 27}{0x19: 34 30}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{speed: 4}The witness was standing...{wait: 12}{b}{bgcolor: 2305 8 31}{speed: 2}
+Here!{wait_noanim: 20}{b}{sound: 26 1}{bgcolor: 2305 8 31}{person: 4 66 65}
+On the {color: 1}opposite{color: 0} side!{fademusic: 0}{music: 9 0}{nextpage_button}{hidetextbox: 1}{0x26: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{person: 0 0 0}{0x6b: 0 1 0}{bganim: 98 261}{bgcolor: 2305 1 31}{wait: 7}{wait: 10}{0x6b: 0 1 1}{bganim: 98 261}{nextpage_nobutton}{wait: 40}{bgcolor: 2305 8 31}{name: 2560}{hidetextbox: 0}
+H-{wait: 16}How do you know that?{nextpage_button}{nextpage_nobutton}{name: 1024}{speed: 4}
+When viewed from the south...{nextpage_button}{hidetextbox: 1}{hidetextbox: 0}{speed: 3}
+...the sign on the stand reads{b}
+"{color: 1}ELDOON'S{color: 0}",{wait: 6}{wait: 10} as we know.{nextpage_button}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 20}However!{nextpage_button}{hidetextbox: 1}{wait: 40}{0x6b: 0 1 2}{bganim: 98 261}{nextpage_nobutton}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Observe the other side of{b}
+the stand!{p}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oh!{wait: 30} {speed: 6}This side says "{color: 1}NOODLE{color: 0}"!{p}{name: 1024}{speed: 3}
+Exactly!{wait: 16} The name of the stand{b}
+is split between the front{b}
+and back signs!{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 2561 1 31}{wait: 1}{0x6b: 0 1 3}{bganim: 98 261}{nextpage_nobutton}{name: 1024}{bg: 25}{person: 4 58 58}{bgcolor: 769 0 31}{wait: 1}{bgcolor: 2306 1 31}{wait: 15}{0x26: 0}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{hidetextbox: 0}{speed: 2}
+Mr. Stickler,{wait: 16} {speed: 3}you lied to the{b}
+court!{p}{person: 4 64 65}{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+You witnessed the crime{b}
+from the {color: 1}northern{color: 0} side{b}
+of the park,{wait: 8} not the south!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{hidetextbox: 1}{person: 30 695 695}{animation: 219 1}{name: 7680}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{hidetextbox: 0}{speed: 2}
+Yeeeow!{shake: 30 1}{wait: 25} Y-{wait: 8}{bgcolor: 2305 8 31}You got me!{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{person: 6 151 150}{name: 13568}{hidetextbox: 0}{speed: 4}
+...{wait: 16}So what.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+S-{wait: 16}So what!?{p}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 4}
+What does it matter if he{b}
+saw the killing from the{b}
+north or the south side?{nextpage_button}{person: 6 149 148}{speed: 3}
+It makes no{wait: 6} difference{wait: 6} at{b}
+all!{nextpage_button}{bg: 27}{person: 30 678 677}{name: 7680}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+H-{wait: 16}He's right!{wait: 16} Travel far{wait_noanim: 20}{b}{person: 30 678 677}
+enough to the south,{wait: 8} and you{b}
+will end up going north!{p}{speed: 2}
+Viewed on a global scale,{wait: 12}{b}{person: 30 691 690}{animation: 221 1}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+directions are utterly{b}
+without meaning!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{person: 4 42 42}{name: 1024}{hidetextbox: 0}{color: 2}
+({speed: 8}...{wait: 16}{speed: 3}Actually,{wait: 10} maybe he's{b}
+right.{wait: 16} What does it change?){color: 0}{nextpage_button}{bg: 28}{person: 5 105 104}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 60}{speed: 4}
+It changes everything,{wait: 8} Apollo!{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Trucy?{nextpage_button}{person: 5 101 100}{name: 1280}{speed: 3}
+Remember his testimony from{b}
+before...{p}{speed: 5}
+Though to be honest,{wait: 8} I'm a{0x5a}{wait: 25}{b}{bg: 27}{person: 30 690 690}{animation: 221 1}
+little scared of where this{b}
+is leading...{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 92}{person: 0 0 0}{fademusic: 0}{music: 4 0}{0x75}{bop}{bop}{name: 3}{0x75}{pause}{bop}{bop}{bop}{0x75}{music: 44 0}{bop}{0x75}{b}
+{16384}{bop}{bop}{bgcolor: 770 1 31}{wait: 15}{wait: 30}{bgcolor: 2305 1 31}{wait: 7}{0x75}{b}{b}{bop}{bop}{0x75}{sound: 0 0}{bop}{name: 1280}{hidetextbox: 0}{speed: 3}
+The killer and the victim{b}
+are facing each other here.{b}{p}{0x75}{music: 61 0}{bop}{0x75}{b}{b}{bop}{bop}
+Then,{wait: 8} at the moment the{b}
+killer raises his weapon...{b}{0x75}{sound: 0 0}{bop}{p}{hidetextbox: 1}{person: 0 0 0}{0x75}{music: 89 0}{bop}{0x75}{b}{b}{bop}{bop}{hidetextbox: 0}
+...{wait: 16}Mr. Stickler {color: 1}shouts{color: 0}!{b}{0x75}{sound: 0 0}{bop}{p}{0x75}{music: 108 0}{bop}{0x75}{b}{b}{bop}{bop}{name: 1280}
+At which point,{wait: 8} the victim{b}
+turns his head to look...{b}{0x75}{sound: 0 0}{bop}{p}{0x75}{music: 130 0}{bop}{0x75}{b}{b}{bop}{bop}
+...{wait: 16}and the killer fires his{b}
+pistol.{0x75}{sound: 0 0}{bop}{p}{hidetextbox: 1}{0x75}{music: 163 0}{bop}{0x75}{b}{b}{bop}{bop}{0x75}{sound: 0 0}{bop}{0x75}{pause}
+J{bop}{bop}{0x75}{music: 163 0}{bop}{0x75}{b}{b}{bop}{bop}{wait: 20}{0x75}{pause}
+K{bop}{bop}{0x75}{music: 164 0}{bop}{0x75}{b}{b}{bop}{bop}{wait: 20}{0x75}{pause}
+J{bop}{bop}{0x75}{music: 163 0}{bop}{0x75}{b}{b}{bop}{bop}{wait: 20}{0x75}{pause}
+K{bop}{bop}{0x75}{music: 164 0}{bop}{0x75}{b}{b}{bop}{bop}{wait: 20}{0x75}{pause}
+J{bop}{bop}{0x75}{music: 163 0}{bop}{0x75}{b}{b}{bop}{bop}{wait: 20}{hidetextbox: 0}
+That's why the bullet hit{b}
+him in the {color: 1}right temple{color: 0}.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x75}{b}{p}{bop}{bop}{bg: 28}{person: 5 99 98}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 1280}{hidetextbox: 0}{0x59}{speed: 3}
+No contradictions,{wait: 8} right?{nextpage_button}{person: 5 98 98}{name: 1024}{speed: 5}
+Right{speed: 8}...{wait: 30} {speed: 3}But if Mr. Stickler{b}{bg: 92}{person: 0 0 0}{littlesprite: 513}{littlesprite: 9985}{0x3a: 2 168 102}{0x3b: 9989 16384}{littlesprite: 769}{littlesprite: 10241}{0x3a: 3 96 102}{0x3b: 10245 49152}{littlesprite: 1025}{0x3a: 4 126 36}{littlesprite: 10497}
+was standing on the {color: 1}north{color: 0}{b}
+side of the park...{p}{sound: 52 1}{bgcolor: 2305 8 31}
+...that{wait: 8} {color: 1}reverses{color: 0} the whole{b}
+scenario!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bganim: 98 514}{0x75}{bop}{bop}{name: 1}{0x75}{pause}
+L{bop}{bop}{0x75}{music: 165 0}{bop}{0x75}{b}
+{16384}{bop}{bop}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{wait: 20}{bgcolor: 2305 8 31}{0x75}{music: 217 0}{bop}{0x75}{b}{b}{bop}{bop}{wait: 120}{name: 1280}{hidetextbox: 0}{speed: 3}
+Completely!{wait: 12} If Mr. Stickler{b}
+shouts from where he is now{speed: 8}...{0x75}{sound: 0 0}{bop}{p}{0x75}{music: 237 0}{bop}{0x75}{b}{b}{bop}{bop}
+...{wait: 20}{speed: 3}and the victim looks in{b}
+his direction...{0x75}{sound: 0 0}{bop}{p}{hidetextbox: 1}{0x75}{music: 308 0}{bop}{0x75}{b}{b}{bop}{bop}{0x75}{sound: 0 0}{bop}{0x75}{pause}
+{308}{bop}{bop}{0x75}{music: 308 0}{bop}{0x75}{b}{b}{bop}{bop}{wait: 20}{0x75}{pause}
+{309}{bop}{bop}{0x75}{music: 309 0}{bop}{0x75}{b}{b}{bop}{bop}{wait: 20}{0x75}{pause}
+{308}{bop}{bop}{0x75}{music: 308 0}{bop}{0x75}{b}{b}{bop}{bop}{wait: 20}{0x75}{pause}
+{309}{bop}{bop}{0x75}{music: 309 0}{bop}{0x75}{b}{b}{bop}{bop}{wait: 20}{0x75}{pause}
+{308}{bop}{bop}{0x75}{music: 308 0}{bop}{0x75}{b}{b}{bop}{bop}{wait: 20}{hidetextbox: 0}{speed: 3}
+...{wait: 10}the bullet would have to{b}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}
+hit his{wait: 6} {color: 1}left{color: 0} temple!{p}{hidetextbox: 1}{bgcolor: 513 0 31}{wait: 1}{0x75}{b}{p}{bop}{bop}{bg: 29}{person: 10 264 264}{bgcolor: 257 8 31}{wait: 1}{name: 2560}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{person: 10 265 264}{speed: 5}
+Ah{speed: 8}...{bgcolor: 2305 8 31}{wait: 30}{b}{shake: 30 1}{speed: 3}
+Aaa{bgcolor: 2305 8 31}aah!{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{speed: 4}
+In other words,{wait: 8} someone{wait_noanim: 20}{b}{bg: 92}{person: 0 0 0}{littlesprite: 513}{littlesprite: 9985}{0x3a: 2 168 102}{0x3b: 9989 16384}{littlesprite: 769}{littlesprite: 10241}{0x3a: 3 96 102}{0x3b: 10245 49152}{littlesprite: 1025}{0x3a: 4 126 36}{littlesprite: 10497}
+standing at point "K"...{p}
+...{wait: 12}couldn't shoot the victim{b}
+in his right temple.{b}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+It's {color: 1}impossible{color: 0}!{nextpage_button}{bganim: 98 514}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Th-{wait: 8}That's{bgcolor: 2305 8 31} right!{fademusic: 0}{music: 18 0}{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{speed: 3}
+So,{wait: 16} now that we know that{b}
+Mr. Stickler was standing on{b}
+the northern side...{p}
+...{wait: 20}the wound location takes{b}{person: 5 103 102}{bgcolor: 2305 8 31}{shake: 30 0}
+on an entirely different{b}
+meaning!{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 5}
+Indeed{wait: 8}...{wait: 20} {speed: 3}You are absolutely{b}
+correct,{wait: 16} Fr{1988}ulein.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 3}
+Wh...{wait: 16} {speed: 2}What meaning!?{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{speed: 3}
+The entry wound was on the{b}
+right side of the victim's{b}
+head,{wait: 8} correct?{p}
+Well,{wait: 8} the right side of the{b}
+victim's head{speed: 8}{0x5a}...{wait: 30}{bg: 92}{person: 0 0 0}{littlesprite: 513}{littlesprite: 9985}{0x3a: 2 168 102}{0x3b: 9989 16384}{littlesprite: 769}{littlesprite: 10241}{0x3a: 3 96 102}{0x3b: 10245 49152}{littlesprite: 1025}{0x3a: 4 126 36}{littlesprite: 10497}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3} is {color: 1}north{color: 0}.{p}{name: 2560}{speed: 5}
+North...{wait: 30}{b}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+Ah{bgcolor: 2305 8 31}!!!{p}{speed: 3}
+But that's where the {color: 1}witness{color: 0},{wait: 12}{b}
+Wesley Stickler was standing!{nextpage_button}{bganim: 98 514}{bg: 28}{person: 5 101 100}{name: 1280}{speed: 4}
+Correct.{wait: 16} So,{wait: 6} if he was{b}
+standing to the{wait: 6} north...{p}{speed: 3}
+...{wait: 20}then the only person here{b}
+who could have shot the victim{b}
+in the{wait: 6} right temple...{nextpage_button}{fademusic: 30}{bg: 27}{person: 30 690 690}{animation: 221 1}{sound: 50 1}{shake: 30 2}{speed: 2}
+...{wait: 20}{bgcolor: 2305 8 31}was Mr. Stickler himself!{nextpage_button}{hidetextbox: 1}{bg: 27}{person: 30 695 695}{animation: 219 1}{name: 7680}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{fademusic: 0}{music: 7 0}{hidetextbox: 0}
+Yeeee{bgcolor: 2305 8 31}eeee{bgcolor: 2305 8 31}eeeeo{shake: 30 2}oooooo{b}
+wwwrgh!{wait: 80}{nextpage_nobutton}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 81 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Order!{wait: 12} Order!{shake: 30 0}{bgcolor: 2305 8 31}{wait: 16} Order!{nextpage_button}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{color: 2}
+(Wow{speed: 8}...{wait: 16} {speed: 3}The apple didn't{b}
+fall far from the tree!){p}{speed: 4}
+(She's flipped this whole{b}{person: 5 98 98}{bg: 28}{shake: 30 0}{bgcolor: 2305 8 31}
+case on its head while I was{b}
+still figuring it out!){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 26}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{name: 13568}{speed: 5}
+...{wait: 20}{speed: 4}Clarify one point for me{b}
+if you would,{wait: 12} Herr Forehead.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+What now?{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}
+Are you truly accusing this{b}
+college student...{p}{hidetextbox: 1}{swoosh: 2 4096 30 690}{wait: 32}{person: 30 690 690}{animation: 221 1}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...{wait: 20}of murder?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 58 58}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+...!{p}{person: 4 40 40}{speed: 4}{color: 2}
+(Well,{wait: 6} I can't say he exactly{wait: 26}{b}
+looks innocent{speed: 8}...){p}{bg: 25}{person: 4 58 58}{name: 1024}{color: 2}
+(But{speed: 8}...{wait: 20} {speed: 3}something still{b}
+doesn't feel right.){p}{hidetextbox: 1}{swoosh: 0 4096 30 690}{wait: 32}{person: 30 690 690}{animation: 221 1}{hidetextbox: 0}{speed: 2}
+(I just can't picture him as{b}{shake: 30 0}{bgcolor: 2305 8 31}
+the {color: 1}real killer{color: 2}!){color: 0}{nextpage_button}{person: 30 691 690}{animation: 221 1}{name: 7680}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+No,{wait: 8} please!{wait: 16} Looks aside,{wait: 8} I'm{b}
+really a nice guy!{nextpage_button}{person: 30 689 688}
+All my friends say so!{nextpage_button}{endjmp}
+
+{{29}}
+{bop}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}Let's hear what the defense{b}
+has to say.{nextpage_button}{bg: 25}{person: 4 42 42}{name: 1024}{color: 2}
+(What are you going to do now,{wait: 11}{b}
+Justice!?){p}{person: 4 58 58}
+(Should I really accuse{b}
+Mr. Stickler!?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 34}{0x23: 36}{b}{b}{3args_choice_jmp: 158 160 159}{endjmp}
+
+{{30}}
+{bop}{bg: 25}{name: 1024}{person: 4 66 65}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}I accuse Mr. Stickler of{b}
+murder!{p}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{bg: 26}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 16}Are you quite sure,{wait: 12}{b}
+Herr Forehead?{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Y-{wait: 12}Yes.{wait: 16} Yes!{p}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{bg: 26}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{speed: 3}
+"Accuse of murder"...{wait: 16}{b}
+Only three words,{wait: 8} but a{b}
+very,{wait: 8} very long sentence.{p}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{speed: 4}
+...{wait: 20}You have evidence worthy{b}
+of such a bold accusation,{wait: 8}{b}
+I hope?{p}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{speed: 8}
+...{wait: 30}{b}{person: 4 50 49}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Um,{wait: 8} maybe I'd better think{b}
+this over some more.{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+...{wait: 20}A wise decision.{nextpage_button}{jmp: 157}{endjmp}
+
+{{31}}
+{bop}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 4}...{wait: 20}No accusations,{wait: 8} Your Honor.{p}{fademusic: 120}{bg: 29}{name: 2560}{person: 10 264 264}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{p}{bg: 26}{name: 13568}{person: 6 145 145}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+......{wait: 20}{p}{bg: 27}{name: 7680}{person: 30 677 677}{speed: 8}
+.....{speed: 10}....{wait: 30}{nextpage_nobutton}{person: 30 689 688}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Well.{wait: 20}{b}
+I'm glad that's sorted out.{p}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Apollo!{wait: 16} You sure you're doing{b}
+the right thing!?{p}{person: 5 105 104}{speed: 3}
+They'll end up convicting{b}
+Wocky if you let Mr. Stickler{b}
+off the hook!{p}{name: 1024}{person: 5 102 102}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ack!{wait: 16} {speed: 3}You think?{p}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{speed: 2}
+Uh,{wait: 8} w-wait,{wait: 8} Your Honor!{wait: 16}{b}
+Let me rethink that...{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 5}
+If you must...{speed: 255}{0x23: 0}{music: 255 90}{nextpage_button}{wait: 10}{jmp: 157}{endjmp}
+
+{{32}}
+{bop}{bg: 25}{person: 4 40 40}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}(...I don't think Wesley{b}
+Stickler is a killer.{wait: 16} But{b}
+he's not innocent,{wait: 8} either!){p}{speed: 3}
+(His unusual silence tells{b}
+me that much...){color: 0}{p}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 20}Mr. Stickler!{b}{speed: 3}
+You seem unusually quiet{0x5a}{speed: 8}...{p}{person: 4 66 65}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Tell us why,{wait: 8} now!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 677}{wait: 32}{person: 30 677 677}{name: 7680}{hidetextbox: 0}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait: 60}{nextpage_nobutton}{person: 30 691 690}{animation: 221 1}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Th-The word{wait: 6} "confession"{wait: 6} isn't{b}
+in my dictionary!{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{person: 6 146 145}{name: 13568}{hidetextbox: 0}{speed: 3}
+Tsk,{wait: 8} tsk,{wait: 8} tsk,{wait: 8} Herr Forehead.{wait: 16}{p}{person: 6 149 148}
+I'm afraid it falls to you{b}
+to elucidate Herr Stickler's{b}
+silence.{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}
+Mr. Justice,{wait: 16} you did say you{b}
+were{wait: 6} accusing{wait: 6} the witness{b}
+just now...{p}{speed: 4}
+...{wait: 20}for a crime other than{wait_noanim: 25}{b}{person: 10 263 262}
+murder.{wait: 16} {speed: 3}Your reason?{wait: 16} The{b}
+court's all ears.{nextpage_button}{endjmp}
+
+{{33}}
+{bop}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 4}{color: 2}(Gah!{wait: 16} I know he's guilty of{b}{bgcolor: 2305 8 31}{shake: 30 0}
+something...{wait: 20} {speed: 2}but what crime{b}
+other than murder is there?){nextpage_button}{person: 4 36 36}{speed: 3}
+(Do I have evidence that shows{b}
+his involvement in some{wait: 4} other{wait: 4}{b}
+crime...?){color: 0}{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}
+Your evidence?{wait: 16} The court's{b}
+all eyes,{wait: 8} Mr. Justice.{p}{0x6c: 0}{0x6e: 20}{person: 10 259 258}{name: 2560}
+Show us evidence that points{b}
+to the witness's involvement{b}
+in a crime!{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{34}}
+{bop}{0x6d: 0}{fademusic: 120}{bg: 29}{name: 2560}{person: 10 266 266}{hidetextbox: 0}{speed: 5}...{p}{bg: 26}{name: 13568}{person: 6 145 145}{speed: 5}
+...{nextpage_button}{bg: 25}{name: 1024}{person: 4 58 58}{speed: 4}{color: 2}
+(Something tells me this isn't{b}
+one of those good silences.){color: 0}{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+...{wait: 20}Something else to say,{wait: 8}{b}
+Mr. Justice?{nextpage_button}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}
+Um...{wait: 20} One more chance?{wait: 16} Please?{wait_noanim: 20}{b}{person: 4 61 61}{animation: 149 1}{nextpage_button}{bg: 29}{person: 10 266 266}{0x6c: 0}{0x6e: 20}{name: 2560}{person: 10 266 266}{speed: 4}
+...{wait: 20}By all means.{wait: 16}{person: 10 263 262} But your{b}
+effort wasn't wasted.{wait: 16} {speed: 3}Look,{wait: 8}{b}
+a brand-new penalty.{person: 10 262 262}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{0x23: 0}{music: 255 60}{bg: 29}{person: 10 259 258}{name: 2560}
+Now,{wait: 8} please reveal your{b}
+thoughts to the court.{p}{jmp: 161}{endjmp}
+
+{{35}}
+{bop}{0x66: 109 0 34}{nextpage_button}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 5}
+The evidence{speed: 8}...{wait_noanim: 30} {showphoto: 315}{person: 4 64 65}{person: 4 66 65}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}is this!{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+What!?{wait: 12} Is that{speed: 8}...{wait_noanim: 30}{b}{person: 10 265 264}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+women's underwear!?{nextpage_button}{bg: 28}{person: 5 99 98}{name: 1280}{showphoto: 59}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Hey!{wait: 16} Those are mine!{wait: 16}{nextpage_button}{bganim: 98 579}{bg: 25}{person: 4 58 58}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{person: 30 679 679}{0x63}{person: 30 680 680}{0x63}{wait: 120}{person: 30 679 679}{0x63}{person: 30 680 680}{0x63}{person: 30 673 673}{wait: 180}{person: 30 676 676}{0x63}{wait: 60}{person: 30 695 695}{animation: 219 1}{name: 7680}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{bgcolor: 2305 8 31}{fademusic: 0}{music: 7 0}{hidetextbox: 0}{speed: 2}
+D-{wait: 8}{bgcolor: 2305 8 31}Don't look at{bgcolor: 2305 8 31} me like{b}
+thaaa{shake: 30 1}aaaat!!!{wait_noanim: 60}{nextpage_nobutton}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 81 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Order!{wait: 12} Order!{wait: 16}{shake: 30 0}{bgcolor: 2305 8 31} Order!!!{nextpage_button}{person: 10 266 266}
+...{wait: 20}Mr. Stickler. {wait_noanim: 60}{person: 10 263 262}{sound: 52 1}{bgcolor: 2305 8 31}While I can't{b}{speed: 4}
+say this comes as a shock...{nextpage_button}{hidetextbox: 1}{bg: 27}{person: 30 695 695}{animation: 219 1}{name: 7680}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+I-{wait: 16}{bgcolor: 2305 8 31}It's not what{bgcolor: 2305 8 31} it seems!{wait: 16}{b}
+By Pythagorilla's{shake: 30 2} Theorem,{wait: 8}{b}
+I swear it!{wait_noanim: 60}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 0 1 4 44}{wait: 32}{person: 4 45 44}{name: 1024}{hidetextbox: 0}
+On the night of the murder,{wait: 12}{b}{speed: 3}
+just past 9 PM...{p}{0x76: 1 5}
+A young girl catches a{b}
+panty-snatcher red-handed!{nextpage_button}{bg: 124}{person: 0 0 0}{bganim: 98 579}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Bravely,{bgcolor: 2305 8 31}{wait: 8} she gives chase,{wait: 8} but{b}
+the snatcher flees...{nextpage_button}
+...{wait: 20}and hides himself in no{b}{bg: 224}{0x5f: 3 1 31}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+other place than the Meraktis{b}
+Clinic garage!{nextpage_button}{bg: 29}{person: 10 264 264}{name: 2560}{0x5f: 4 1 1}{sound: 51 1}{bgcolor: 2305 8 31}
+Ah ha!{nextpage_button}{bg: 25}{person: 4 45 44}{name: 1024}{speed: 3}
+Incidentally...{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{0x5f: 3 1 31}{bg: 224}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{wait: 10}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 225}{bgcolor: 770 1 31}{wait: 15}{name: 1024}{wait: 40}{hidetextbox: 0}
+...these panties were found in{b}
+the exhaust pipe of the car{b}
+there.{p}
+Presumably,{wait: 8} he was trying to{b}
+hide the evidence of his{b}
+crime.{p}{bg: 25}{0x5f: 4 1 1}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{speed: 2}
+Ergo!{wait: 20} {speed: 3}While you may not be{b}
+a murderer...{nextpage_button}{person: 4 66 65}{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 20}you are gu{bgcolor: 2305 8 31}ilty of{b}
+pa{bgcolor: 2305 8 31}nty-snatching in the{b}
+fir{bgcolor: 2305 8 31}st degree!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 677}{wait: 32}{person: 30 695 695}{animation: 219 1}{name: 7680}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{bgcolor: 2305 8 31}{hidetextbox: 0}
+Please!{bgcolor: 2305 8 31}{wait: 16} Hear me out!{bgcolor: 2305 8 31}{wait: 16} It's{b}
+not wh{bgcolor: 2305 8 31}at it lo{shake: 30 1}oks like!!!{b}{wait_noanim: 60}{nextpage_nobutton}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 81 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Order!{wait: 16} Order!{wait: 16}{shake: 30 0} Order!!!{bgcolor: 2305 8 31}{nextpage_button}{person: 10 266 266}
+Mr. Stickler.{wait_noanim: 60}{b}{person: 10 263 262}{sound: 52 1}{speed: 4}
+You should be ashamed!{nextpage_button}{bg: 27}{person: 30 678 677}{name: 7680}{fademusic: 60}{speed: 6}
+It's{speed: 8}...{wait: 20} {speed: 6}not{speed: 8}...{wait: 20} {speed: 6}what{speed: 8}...{wait: 20} {speed: 6}it{speed: 8}...{wait_noanim: 60}{nextpage_nobutton}{person: 30 696 696}{animation: 220 1}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+seeeeeee{bgcolor: 2305 8 31}eeeeeeeeeee{bgcolor: 2305 8 31}eeeeeee{b}
+eeeee{bgcolor: 2305 8 31}eeee{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}eeee{bgcolor: 2305 8 31}eeeeeee...{nextpage_nobutton}
+...{sound: 50 1}{shake: 30 1}ee{bgcolor: 2305 8 31}eee{bgcolor: 2305 8 31}eeeeeeee{b}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 3}
+eeeee{bgcolor: 2305 8 31}eeeeeeeeee...{nextpage_nobutton}
+...{wait: 20}eee{bgcolor: 2305 8 31}eeeeeee{bgcolor: 2305 8 31}eeeems... *gasp*{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{0x63}{nextpage_nobutton}{wait: 30}{0x19: 32810 43}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{person: 10 263 262}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{0x59}{speed: 4}
+So,{wait: 12} are we to understand that{b}
+you were silent not because{b}
+you were guilty of murder...{p}{person: 10 265 264}{speed: 3}
+...{wait: 20}but because you lacked the{b}
+courage to admit your theft{b}{person: 10 265 264}
+of this girl's undergarments?{nextpage_button}{bg: 27}{person: 30 700 700}{animation: 149 1}{name: 7680}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Ahem.{wait: 16} Perhaps you are not{b}
+aware that my school's name{b}
+was originally written "IV"!{p}{speed: 3}
+"I" stands for "Intelligent",{b}
+"V" stands for "Valiant"!{b}
+See!?{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 4}
+...{wait: 12}Your point?{nextpage_button}{bg: 27}{person: 30 700 700}{animation: 149 1}{name: 7680}{speed: 3}
+I'm not done!{wait: 12} Now,{wait: 8} I'm a major{b}
+in the Science Department...{p}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}
+...{wait: 20}and what does science teach{b}
+if not curiosity!?{nextpage_button}{speed: 3}
+Yes,{wait: 8} we of the Ivy U.{wait: 16}{b}
+Science Department are{b}
+valiantly curious!{p}{person: 30 695 695}{animation: 219 1}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}
+No challenge is too daunting,{wait: 8}{b}
+and what greater challenge{b}{fademusic: 0}{music: 35 0}
+to science than a mystery!?{wait_noanim: 60}{nextpage_nobutton}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+C'mon!{wait: 20} You're talking about{b}
+a girl's panties here!{nextpage_button}{bg: 27}{person: 30 678 677}{name: 7680}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+No!{wait: 20} {speed: 4}You do not understand!{wait: 16}{b}{speed: 3}
+A mystery is the unknown,{wait: 8} and{b}
+the unknown is unacceptable!{p}
+And,{wait: 8} my friends,{wait: 8} when it comes{b}
+to mysteries,{wait: 8} those panties{b}
+are the promised land!{p}{person: 30 689 688}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+From the moment I first laid{b}
+eyes on them,{wait: 8} I was compelled{b}
+to investigate...{wait: 20} for science!{p}{person: 30 678 677}{speed: 3}
+A full-sized car tire was{wait: 16}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+only the first mystery those{b}
+panties revealed!{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+A...{wait: 20} tire?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{person: 30 686 685}{name: 7680}{hidetextbox: 0}{speed: 2}
+Yes!{wait: 16}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1} I saw her do it!{wait: 20}{b}
+She pulled a tire out{b}
+of those panties!{p}{person: 30 683 682}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}
+But that's not all!{wait: 16} First,{b}
+there was the tire,{wait: 8} then a{b}
+stewpot,{wait: 8} and a frozen chicken!{p}{person: 30 689 688}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+One mystery after another!{wait: 16}{b}
+It was...{wait: 20} It was magic!{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Oh,{wait: 8} I remember now!{p}{person: 5 99 98}{speed: 3}
+He's one of the regulars in{b}
+the audience at the Wonder{b}
+Bar!{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Huh...?{p}{person: 5 99 98}{name: 1280}{speed: 2}
+He's talking about my{wait_noanim: 25}{b}{person: 5 99 98}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}
+Magic Panties trick!{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 81 1}{sound: 22 1}{wait: 120}{bg: 27}{person: 30 689 688}{name: 7680}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I just don't understand...{p}{speed: 4}
+A broom...{wait: 20} from a pair{b}
+of panties?{wait: 8} It mocks the{b}
+very laws of physics...{nextpage_button}{bg: 28}{person: 5 98 98}{name: 1024}
+A broom...{wait: 20} and a frozen{b}
+chicken,{wait: 8} Trucy?{nextpage_button}{person: 5 104 104}{sound: 52 1}{bgcolor: 2305 8 31}
+What ever happened to{b}
+doves and bunny rabbits?{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+M-{wait: 12}Mr. Stickler!{p}{speed: 3}
+You stole this girl's panties{b}
+to understand a magic trick?{nextpage_button}{bg: 27}{person: 30 686 685}{name: 7680}{speed: 3}
+You say{wait: 8} "panties"{wait: 8} but they{b}
+are so much more than that!{p}{person: 30 689 688}
+For me,{wait: 8} they are an object{b}
+for serious study!{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{person: 6 151 150}{name: 13568}{hidetextbox: 0}
+...{wait: 20}I wonder...{p}
+There has been a recent{b}{showphoto: 59}
+rash of panty-snatchings{b}
+in the area...{p}{person: 6 149 148}{speed: 4}
+...{wait: 20}Were they all you?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 2 4096 30 688}{wait: 32}{person: 30 689 688}{name: 7680}{hidetextbox: 0}
+I...{wait: 12} I am sorry.{b}{person: 30 689 688}{speed: 2}{bgcolor: 2305 8 31}{shake: 30 0}
+But I did it for science!{p}{speed: 4}
+Each time I spied a pair of{b}
+panties flapping in the{b}
+breeze,{wait: 8} I thought maybe!{wait: 12}{nextpage_nobutton}
+Maybe this would be the pair{b}
+that would elucidate the{b}
+mystery...{wait: 12}{nextpage_nobutton}{person: 30 686 685}
+Even that night as she chased{b}
+me through the streets,{wait: 8} I wept{b}
+tears of joy!{wait: 12}{nextpage_nobutton}{person: 30 683 682}
+Perhaps this is the night that{b}
+I will seize the truth that{b}
+lies within those panties!{wait: 12}{nextpage_nobutton}{person: 30 689 688}
+Yet woe was I!{wait: 16} For once again{b}
+the lacy heart-patterned truth{b}
+slipped through my fingers a--{wait: 12}{nextpage_nobutton}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+Still,{wait: 8} that leaves one{b}
+thing unexplained.{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 4}
+Ah,{wait: 8} you refer to our witness's{b}
+other lie,{wait: 8} yes?{p}{speed: 4}
+The witness claimed he saw{0x5a}{b}{person: 6 146 145}
+the crime from the south,{wait: 8} but{b}
+was in fact,{wait: 10} in the north.{nextpage_button}{hidetextbox: 1}{bg: 29}{person: 10 260 260}{0x63}{name: 2560}{hidetextbox: 0}{speed: 3}
+Indeed.{nextpage_button}{person: 10 263 262}{speed: 3}
+Would anyone care to explain{b}
+why he lied about that?{nextpage_button}{bg: 27}{person: 30 700 700}{animation: 149 1}{name: 7680}{speed: 8}
+...{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 148}{wait: 32}{person: 6 149 148}{name: 13568}{hidetextbox: 0}{speed: 3}
+Be my guest,{wait: 12} Herr Forehead.{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...{wait: 20}Me!?{nextpage_button}{fademusic: 0}{music: 18 0}{bg: 26}{person: 6 149 148}{name: 13568}
+Did I not hear you correctly?{p}
+Did you not say you{wait: 8} "do not{b}
+accuse the witness of murder"?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{person: 4 36 36}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...!{bgcolor: 2305 8 31}{speed: 2}{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 4}
+Why, then, did the witness lie{b}
+about his location at the time{b}
+of the shooting?{p}{person: 6 146 145}{speed: 3}
+...{wait: 12}Or have you no idea?{p}{bg: 28}{person: 5 99 98}{name: 1280}
+Apollo...{nextpage_button}{person: 5 105 104}{name: 1280}
+There's something about the{b}
+way the diagram is arranged{b}
+right now...{p}{person: 5 103 102}
+When you think about it, right{b}
+near where Mr. Stickler was{b}
+standing... Isn't there a...?{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+Well,{wait: 12} Mr. Justice?{b}
+What say you?{nextpage_button}{endjmp}
+
+{{36}}
+{bop}{0x6c: 0}{0x6e: 20}{person: 10 259 258}{name: 2560}{speed: 3}Do you have any evidence to{b}
+show why the witness lied{b}
+about his location?{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{37}}
+{bop}{0x6d: 0}{bg: 29}{name: 2560}{person: 10 266 266}{fademusic: 60}{hidetextbox: 0}{speed: 7}...{p}{person: 10 263 262}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+I fail to see how this{b}
+evidence relates to our{b}
+witness's fabrication...{p}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 2}
+As do I!{wait: 16} But I'm sure it{b}
+does!{wait_noanim: 15} {person: 4 66 65}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}Somehow!{wait: 20} Somewhere!{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+...{wait: 10}It appears the fabrication{b}
+was yours,{wait: 8} Mr. Justice.{p}{0x6c: 0}{0x6e: 20}{person: 10 259 258}
+Penalty!{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{color: 2}
+(Somebody help...){color: 0}{p}{0x52}{0x23: 0}{music: 255 60}{bg: 29}{name: 2560}{person: 10 263 262}
+You're welcome to show us{b}
+another piece of evidence.{nextpage_button}{jmp: 164}{endjmp}
+
+{{38}}
+{bop}{0x66: 109 0 34}{nextpage_button}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 4}
+The evidence that shows why{b}
+he lied{speed: 8}...{0x5a}{wait_noanim: 25} {0x59}{showphoto: 323}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}is this.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+What!?{wait: 16} More panties!?{nextpage_button}{bganim: 98 579}{bg: 26}{person: 6 149 148}{name: 13568}
+How many panties are you{b}
+carrying in your pocket,{wait: 8}{b}
+Herr Forehead?{nextpage_button}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+These are the last!! Honest!!{p}{person: 4 41 40}{showphoto: 323}{speed: 3}
+These were found in a{b}{person: 4 37 36}
+trash can at the park.{p}{speed: 5}
+Looking at the diagram{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{bganim: 98 579}{bg: 92}{person: 0 0 0}{littlesprite: 513}{littlesprite: 9985}{0x3a: 2 168 102}{0x3b: 9989 16384}{littlesprite: 769}{littlesprite: 10241}{0x3a: 3 96 102}{0x3b: 10245 49152}{littlesprite: 1025}{littlesprite: 10497}{0x3a: 4 126 36}{littlesprite: 11521}{0x3c: 11521}{wait: 90}{0x3c: 11520}{wait: 30}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{fademusic: 0}{music: 9 0}
+...{wait: 20}{speed: 4}we can see that the{b}
+trash can was right next to{b}
+where the witness stood.{nextpage_button}{bganim: 98 514}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 5}
+Mr. Stickler...{wait: 16} {speed: 3}You didn't...{nextpage_button}{bg: 27}{person: 30 678 677}{name: 7680}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Alas!{wait: 12} I'm a failure as a{b}
+scientist!{p}{shake: 30 0}{bgcolor: 2305 8 31}
+I can't unravel the mysteries{b}
+of the universe!{wait: 16} I can't even{b}
+unravel a pair of panties!{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 4}
+So...{wait_noanim: 30}{person: 10 265 264}{showphoto: 323} these panties are your{b}
+handiwork as well...?{nextpage_button}{bganim: 98 579}{bg: 120}{person: 0 0 0}{name: 7680}
+Th... That night, I had been{b}
+chased,{wait: 8} hounded into the{b}
+Meraktis Clinic garage...{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Weeping in frustration,{wait: 8} I was{b}
+forced to abandon my prize!{p}{bg: 27}{person: 30 689 688}{speed: 3}
+Don't you see how I felt!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{person: 4 62 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{speed: 4}
+...{wait: 20}Believe me,{wait: 8} I'd rather{b}
+not.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{name: 7680}{bg: 94}{person: 0 0 0}{littlesprite: 5377}{littlesprite: 5633}{littlesprite: 6401}{littlesprite: 7425}{littlesprite: 7681}{littlesprite: 8193}{littlesprite: 8705}{littlesprite: 8961}{littlesprite: 9473}{littlesprite: 6145}{0x3a: 24 294 44}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{speed: 4}
+I hid in the garage for a{b}
+short while...{p}{0x6b: 294 126 120}{0x3b: 6148 0}{speed: 4}
+Then,{wait: 12} abandoning the panties,{wait: 8}{b}
+I made for home.{0x3d: 6144}{0x6b: 208 126 120}{0x3b: 6148 0}{nextpage_button}{speed: 4}
+To avoid the office where the{b}
+girl works,{wait: 8} I went towards the{b}
+south entrance...{nextpage_button}{hidetextbox: 1}{0x3d: 6144}{wait: 1}{0x1d: 4}{0x6b: 112 156 60}{0x3b: 6148 0}{0x3d: 6144}{0x6b: 116 96 60}{0x3b: 6148 0}{0x3d: 6144}{0x6b: 88 90 40}{0x3b: 6148 0}{0x3d: 6144}{nextpage_nobutton}{hidetextbox: 0}{speed: 3}
+...{wait: 20}when I saw them hanging{b}
+there on a clothesline by{b}
+a giant mansion{speed: 8}...{nextpage_button}{showphoto: 323}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...{wait: 20}A giant pair of panties!{nextpage_button}{bganim: 98 579}{bganim: 98 514}{bg: 25}{person: 4 40 40}{name: 1024}{speed: 4}{color: 2}
+(Apparently he didn't know{b}
+those bloomers belonged to{b}
+the mob...){color: 0}{nextpage_button}{0x19: 67 68}{bg: 27}{person: 30 689 688}{name: 7680}{showphoto: 67}{speed: 3}
+I had them,{wait: 10} safe in my pocket,{wait: 8}{b}
+ready to take home...{p}
+...when I stumbled upon a{b}
+murder.{nextpage_button}{bganim: 98 579}{bg: 25}{person: 4 37 36}{name: 1024}
+The murder of Dr. Meraktis.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 688}{wait: 32}{person: 30 689 688}{name: 7680}{hidetextbox: 0}
+I reported what I had seen,{wait: 8}{b}
+but as I waited for the police{b}
+to arrive...{wait: 20} I got scared.{p}
+What if they searched me!?{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}
+That's when you disposed{b}
+of the bloomers?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 688}{wait: 32}{person: 30 689 688}{name: 7680}{hidetextbox: 0}
+Yes...{wait: 20} it was a severe blow{b}
+to the progress of science,{wait: 8}{b}
+but one that had to be born.{nextpage_button}{hidetextbox: 1}{bg: 29}{person: 10 261 261}{0x63}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{speed: 5}
+A fascinating,{wait: 8} if disturbing{b}
+tale.{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 81 1}{sound: 22 1}{wait: 120}{fademusic: 120}{bgcolor: 516 1 31}{wait: 25}{wait: 100}{bg: 29}{person: 10 259 258}{0x5a}{bgcolor: 260 1 31}{wait: 25}{name: 2560}{fademusic: 0}{music: 40 0}{wait: 60}{hidetextbox: 0}{0x59}{speed: 3}
+I believe this brings today's{b}
+proceedings to a close.{p}{person: 10 263 262}
+And I'm more than pleased to{b}
+dismiss this witness for the{b}
+remainder of the trial.{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}
+One last thing,{wait: 8} if I might.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{shake: 30 0}{bgcolor: 2305 8 31}
+Yes,{wait: 8} Prosecutor Gavin?{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}
+Regardless of where we ended{b}
+today,{wait: 8} some vital points were{b}
+made.{nextpage_button}{bg: 117}{person: 0 0 0}
+Namely,{wait: 8} that the defendant,{wait: 8}{b}
+Wocky Kitaki,{wait: 8} was at the{b}
+scene of the crime.{p}
+And...{wait: 20} he was pointing a{b}
+weapon at the victim.{p}{speed: 4}
+...{wait: 20}One more thing.{p}{bg: 26}{person: 6 149 148}{speed: 3}
+Wocky Kitaki has a clear{b}
+motive.{p}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Indeed,{wait: 8} the defendant Wocky{b}
+Kitaki is still the prime{b}
+suspect in this case.{p}
+The only suspect,{wait: 12} in fact.{wait: 16}{b}
+Assuming there was no one else{b}
+on the scene at the time.{p}{person: 10 263 262}
+Yet,{wait: 8} a mystery remains...{p}
+The location of the wound in{b}
+the victim's right temple has{b}
+yet to be explained.{p}{person: 10 259 258}
+The court requests further{b}
+investigation from both the{b}
+defense and prosecution.{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 4}
+...{wait: 20}Ja,{wait: 8} baby.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 20}No problem!{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 4}
+Very well.{wait: 16} {speed: 3}This brings the{b}
+trial for the day to a close.{p}{person: 10 263 262}
+Court is adjourned!{nextpage_button}{hidetextbox: 1}{wait: 30}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{hidetextbox: 0}{0x48: 128 142}{speed: 0}{soundtoggle: 0}{b}{b}
+To be continued.{bgcolor: 260 1 31}{wait: 25}{wait: 80}{fademusic: 120}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{savegame}{bop}{special_jmp}{endjmp}

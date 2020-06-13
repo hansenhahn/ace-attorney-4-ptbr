@@ -1,0 +1,1059 @@
+
+
+{{0}}
+{bop}{0x62: 4 4}{bganim: 98 267}{0x74: 2 0}{bg: 4095}{person: 0 0 0}{name: 1792}{speed: 4}The nightmare trial was{b}
+over{speed: 8}...{p}
+...{wait: 10}{speed: 4}and the new nightmare of{b}
+figuring out what had happened{b}
+had just begun.{p}
+I wanted to wake up,{wait: 8}{b}
+to walk away.{p}{speed: 4}
+...But I figured I'm the{b}
+only one who could do this,{wait: 8}{b}
+probably.{p}
+And besides,{wait: 8} I had plenty of{b}
+time.{p}{speed: 4}
+Thanks to the Bar Association{b}
+review board's decision.{p}{speed: 5}
+It's hard to work when{b}
+your attorney's badge{b}
+has been taken away.{nextpage_button}{0x10: 33633}{jmp: 130}{endjmp}
+
+{{1}}
+{bop}{person: 26 603 603}{name: 1792}{speed: 4}{color: 2}(My {color: 1}Magatama{color: 2}{speed: 8}...{wait: 8} {speed: 4}one of my most{b}
+prized possessions, which I{b}
+got during a certain case...){p}{speed: 3}
+(It can show me the{wait: 6} {color: 1}locks{color: 2}{wait: 6}{b}
+on people's hearts.){p}
+(And if I can{wait: 6} {color: 1}unlock{color: 2}{wait: 6} their{b}
+hearts...){p}
+(...they'll tell me their{b}{color: 1}
+secrets{color: 2}!){p}{speed: 4}
+(The{wait: 6} {color: 1}Magatama{color: 2}{wait: 6} starts it all.){p}{speed: 3}
+(And the{wait: 6} {color: 1}Magatama{color: 2}{wait: 6} ends it!){color: 0}{nextpage_button}{0x89}{0x10: 33641}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{0x62: 4 4}{0x25: 1}{bganim: 98 267}{bg: 4095}{bganim: 98 267}{person: 0 0 0}{name: 0}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{0x74: 2 0}{center_text: 1}{color: 3}Seven Years Ago{b}
+Drew Studio{color: 0}{nextpage_button}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 30}{bgcolor: 513 0 31}{wait: 1}{bg: 242}{bgcolor: 260 1 31}{wait: 25}{wait: 40}{name: 512}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+I{speed: 8}...{wait: 30} {speed: 4}figured you'd come{b}
+here sooner or later.{nextpage_button}{hidetextbox: 1}{wait: 30}{person: 26 599 599}{personvanish: 3 4}{wait: 64}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 20}{fademusic: 0}{music: 25 0}{wait: 40}{name: 1792}{hidetextbox: 0}{speed: 4}
+I decided on sooner.{wait: 20}{b}
+Drew Misham{speed: 8}...{wait: 12} {speed: 3}was it?{nextpage_button}{person: 26 600 599}{0x5a}{name: 6656}{speed: 8}
+......{nextpage_button}
+I...{0x59} {speed: 4}{shake: 30 0}I haven't done{shake: 30 0} anything{b}
+illegal.{nextpage_button}{person: 26 599 599}{name: 1792}{name: 1792}{speed: 4}
+...{wait: 16}{speed: 3}And I didn't come here to{b}
+whine about past events.{nextpage_button}
+I wanted to ask you some{b}
+questions.{nextpage_button}{person: 26 602 601}{name: 6656}{speed: 5}
+...{wait: 8}I suppose{shake: 30 0} you have{shake: 30 0} that{b}
+right.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 34}{person: 26 601 601}{0x5f: 3 1 31}{bgcolor: 772 1 31}{wait: 25}{wait: 40}{hidetextbox: 0}{speed: 5}
+That day{speed: 8}...{wait: 25} {speed: 4}the entire court{b}
+descended into chaos.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 467}{wait: 32}{person: 21 467 467}{wait: 40}{hidetextbox: 0}{speed: 5}
+Only you stood still,{wait: 8} your{b}
+eyes calmly watching.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x5f: 4 1 1}{bg: 242}{person: 26 601 601}{bgcolor: 258 1 31}{wait: 15}{person: 26 602 601}{hidetextbox: 0}{speed: 5}
+I admit,{wait: 8}{shake: 30 0} it made quite an{b}{shake: 30 0}
+impression on me.{nextpage_button}{name: 1792}{speed: 3}
+I'm used to finding myself{b}
+in outrageous situations.{nextpage_button}{name: 6656}{speed: 4}
+Phoenix{shake: 30 0} Wright,{wait: 8} was it?{wait_noanim: 25}{b}{person: 26 600 599}
+I'll answer{shake: 30 0} what I can.{nextpage_button}{person: 26 599 599}{name: 1792}{fademusic: 120}{speed: 8}
+......{wait: 16}{b}{speed: 4}{color: 2}
+(I'm not sure, but...){nextpage_button}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}{color: 2}
+(...it feels like I'm being{b}
+watched...{wait: 16} intensely.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 28 656 656}{personvanish: 3 4}{wait: 64}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 60}{name: 768}{hidetextbox: 0}{speed: 6}
+......{nextpage_button}{person: 26 600 599}{name: 6656}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Ah,{wait: 10} this is my daughter.{wait_noanim: 25}{b}{person: 26 602 601}{newevidence: 32934}{speed: 4}
+Vera{shake: 30 0},{wait: 8} say hello.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 28 656 656}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4864}{speed: 7}
+......{nextpage_button}{hidetextbox: 1}{wait: 40}{personvanish: 4 4}{wait: 64}{person: 0 0 0}{wait: 60}{name: 1792}{hidetextbox: 0}{speed: 5}{color: 2}
+(She's gone...){color: 0}{0x23: 0}{music: 255 120}{nextpage_button}{hidetextbox: 1}{personvanish: 3 2}{person: 26 600 599}{0x5a}{wait: 32}{name: 6656}{hidetextbox: 0}{0x59}{speed: 4}
+Shall{shake: 30 0} we begin,{wait: 6} then?{nextpage_button}{speed: 255}{0x80}{p}{p}{swoosh: 16 155 177 178}{0x82}{p}
+MIH{0x10: 33671}{0x32: 16 242}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 26 599 599}{name: 1792}{hidetextbox: 0}{speed: 3}Judging from this place{speed: 6}...{wait: 20}{b}{speed: 4}
+you're a painter?{nextpage_button}{person: 26 606 605}{name: 6656}{shake: 30 0}{speed: 5}
+Not,{wait: 8} sadly,{wait: 8} a profitable one.{wait: 16}{b}
+I've never sold a painting.{p}{speed: 4}
+It's a source of{shake: 30 0} considerable{b}
+embarrassment.{nextpage_button}{person: 26 602 601}
+I would be able to get{b}
+by,{wait: 7} were it only{shake: 30 0} me...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 28 656 656}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Your daughter...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 26 606 605}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 6656}{speed: 4}
+Her mother...{wait: 16}{shake: 30 0} grew weary of{b}
+me and left.{p}{person: 26 602 601}
+I don't want her to grow{b}
+up needy,{wait: 8} Mr. Wright.{nextpage_button}{person: 26 604 603}{shake: 30 0}
+That is why{speed: 8}...{wait: 8} {speed: 3}I{shake: 30 0} began my{b}
+other{shake: 30 0} occupation.{nextpage_button}{person: 26 603 603}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}{color: 1}
+Forgeries{color: 0}{speed: 8}...{nextpage_button}{0x10: 33673}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 26 606 605}{name: 6656}{hidetextbox: 0}{shake: 30 0}{speed: 4}...{wait: 16}Don't look at me with{b}
+those eyes.{wait: 16} I{shake: 30 0} know what it{b}
+is that I do.{p}{person: 26 602 601}
+More than half of the{b}
+paintings they bring me{b}
+are stolen.{p}
+And who knows what my copies{b}
+are used for...{nextpage_button}{name: 1792}
+But{speed: 8}...{wait: 20} {speed: 3}some of your{wait: 4} "{color: 1}works{color: 0}"{b}
+aren't paintings,{wait: 8} correct?{nextpage_button}{person: 26 602 601}{name: 6656}{speed: 4}
+You may not believe me{shake: 30 0} when{b}
+I tell you this...{p}
+...but that was my first work{wait_noanim: 16}{b}{person: 26 600 599}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}
+outside painting.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+What...?{nextpage_button}{person: 26 604 603}{name: 6656}{shake: 30 0}{speed: 5}
+...{wait: 16}To think it would be used{b}
+as evidence in a murder{b}
+trial...{p}{person: 26 606 605}{speed: 4}
+I never even{shake: 30 0} imagined the{b}
+possibility.{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{speed: 2}
+Then why {bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}did you take{b}
+the job!?{p}{name: 6656}{speed: 5}
+I was...{wait: 16} {speed: 3}well paid.{wait: 16}{b}{speed: 4}
+Very{shake: 30 0} well paid.{nextpage_button}{name: 1792}{speed: 3}{color: 2}
+(I think he feels worse about{b}
+it than I do...){nextpage_button}{speed: 4}
+(The past is hard to escape.){nextpage_button}{color: 0}{person: 26 602 601}{name: 6656}{speed: 5}
+Honestly,{wait: 8} the sooner I can put{b}{person: 26 600 599}
+this behind me,{wait: 16} the better.{p}
+With apologies to you,{wait: 8} of{b}
+course.{nextpage_button}{name: 1792}{speed: 3}
+Sorry,{wait: 8} but it's not going{b}
+to be quite so easy.{nextpage_button}{color: 2}{color: 2}
+(He's trying to forget what{b}
+he {color: 1}made{color: 2}.){nextpage_button}{0x23: 0}{music: 255 90}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+(Looks like I'll have to{b}
+remind him.){nextpage_button}{color: 0}{speed: 255}{0x10: 33674}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 26 601 601}{name: 1792}{hidetextbox: 0}{speed: 3}Well then.{wait: 20}{b}{showphoto: 211}
+Ready to tell me about{b}
+this{wait: 4} "{color: 1}work{color: 0}"{wait: 4} you did?{nextpage_button}{person: 26 606 605}{name: 6656}{speed: 5}
+...It was unlike {shake: 30 0}anything{b}
+I had attempted before.{nextpage_button}{name: 1792}{speed: 3}
+I guess it would be a little{b}
+different from paintings.{nextpage_button}{person: 26 600 599}{name: 6656}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+That is not what I mean.{nextpage_button}{person: 26 602 601}{shake: 30 0}
+In all my previous work,{wait: 16} it{b}
+sufficed to create a "copy".{nextpage_button}{name: 1792}{speed: 3}
+...This wasn't a copy?{nextpage_button}{removephoto}{name: 6656}{person: 26 600 599}{fademusic: 0}{music: 34 100}{speed: 4}
+...{wait: 16}The {shake: 30 0}client gave me two{b}
+things that day.{p}
+The first was a sample{shake: 30 0} page,{wait: 14}{b}
+as reference.{nextpage_button}{person: 26 602 601}
+The second,{wait: 8} a {shake: 30 0}printed document{b}
+I can only surmise was written{b}
+by my client.{nextpage_button}{name: 1792}
+So you used the real writing{b}
+as a reference to "reproduce"{b}
+what the client wrote?{nextpage_button}{person: 26 600 599}{name: 6656}{shake: 30 0}{speed: 5}
+Y-{wait: 16}Yes... {speed: 4}As I said,{wait: 8} it was{b}
+my first{shake: 30 0} job of that nature.{nextpage_button}{name: 1792}{speed: 5}
+So...{nextpage_button}{speed: 3}
+...who was your client?{nextpage_button}{person: 26 600 599}{name: 6656}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+A-{wait: 14}{speed: 4}As I said{shake: 30 0} in court,{wait_noanim: 30}{b}{person: 26 606 605}
+I do {shake: 30 0}not know.{nextpage_button}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...Really?{wait: 30} Even for such a{b}
+suspicious request?{nextpage_button}{name: 1792}
+If it was me,{wait: 16} I'd want to{b}{person: 26 603 603}
+know as much as I could{b}
+about the requester.{p}{person: 26 604 603}{name: 6656}{speed: 4}{shake: 30 0}
+I...{wait: 16} {speed: 3}I never met{shake: 30 0} them!{b}
+N-{wait: 10}{speed: 4}Not {shake: 30 0}personally,{wait: 10} I...{nextpage_button}{fademusic: 30}{0x88}{p}{person: 26 603 603}{name: 1792}{hidetextbox: 0}{color: 2}{speed: 3}
+(Ah.{wait: 16} A Psyche-{wait: 4}Lock.{wait: 16}{b}
+Of course.){color: 0}{p}{speed: 3}
+It seems like you're still{b}
+hiding something.{p}{showphoto: 211}
+Something about this "{color: 1}work{color: 0}".{nextpage_button}{person: 26 603 603}{name: 6656}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 8}
+Unnk...{speed: 6}{wait: 30} Unn{shake: 30 0}h...{nextpage_button}{removephoto}{fademusic: 0}{music: 25 100}{0x8c}{0x85}{0x51: 3 53}
+{26881}{2410}{jmp: 129}{endjmp}{endjmp}{0x89}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 26 606 605}{name: 6656}{hidetextbox: 0}{speed: 4}I...{wait: 12} don't know{shake: 30 0} how you{b}
+knew,{wait: 10} but,{wait: 10} you're{shake: 30 0} right.{p}{shake: 30 0}{speed: 3}
+The one who made this page...{wait_noanim: 20}{b}{showphoto: 211}{person: 26 600 599}
+was my daughter,{wait: 4} Vera.{wait: 12} {speed: 3}Not I.{p}{person: 26 602 601}{speed: 4}
+She's only twelve{speed: 8}...{wait: 16}{shake: 30 0}{speed: 3} A genius,{wait: 6}{b}{speed: 4}
+you might call her.{nextpage_button}{removephoto}{name: 1792}{speed: 3}
+...A precocious little girl{b}
+outshining her father.{nextpage_button}
+There's been a lot of that{b}
+going around recently.{nextpage_button}{person: 26 600 599}{name: 6656}{speed: 4}
+I let her play in the studio,{wait: 12}{b}
+and she{shake: 30 0} watched me...{p}{person: 26 602 601}
+...She taught herself{shake: 30 0} in that{b}
+way.{p}{speed: 4}
+The drafting tools and{b}
+analytical devices I bought{b}
+when{shake: 30 0} they became necessary.{p}{person: 26 600 599}{shake: 30 0}
+They're my little girl's{b}
+playthings{shake: 30 0},{wait: 10} now.{nextpage_button}{name: 1792}{speed: 3}{color: 2}
+(...Ah,{wait: 8} do I detect a bit{b}
+of fatherly pride?){color: 0}{nextpage_button}{showphoto: 211}
+So,{wait: 6} Vera was the one who{b}
+made this page.{nextpage_button}{speed: 3}
+Would she know who the{b}{color: 1}
+client{color: 0}{wait: 4} was, then?{nextpage_button}{removephoto}{person: 26 601 601}{name: 6656}{shake: 30 0}{speed: 8}
+...{shake: 30 0}...{wait: 30}{b}{person: 26 602 601}{speed: 4}
+Actually,{wait: 20} the client came{b}
+once.{nextpage_button}{person: 26 600 599}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Here... to this studio.{nextpage_button}{person: 26 599 599}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}
+...What{bgcolor: 2305 8 31}!?{wait: 40}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Why didn't you say so sooner!?{wait: 40}{nextpage_button}{person: 26 602 601}{name: 6656}{speed: 4}
+But their face{shake: 30 0} was covered,{wait: 10}{b}{shake: 30 0}
+and they did not want to talk{b}
+to me.{nextpage_button}{name: 1792}{speed: 4}
+So{speed: 8}...{wait: 16}{person: 26 599 599}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3} they talked to your{b}
+daughter?{nextpage_button}{person: 26 602 601}{name: 6656}{speed: 4}
+"I will speak{shake: 30 0} only with the{b}
+artist,"{shake: 30 0} the client told me.{nextpage_button}{person: 26 601 601}{name: 1792}{speed: 3}{color: 2}
+(That little girl might know{b}{bgcolor: 2305 8 31}
+something about him!){color: 0}{nextpage_button}{speed: 255}{fademusic: 0}{music: 55 0}{0x51: 3 53}
+{35585}{2406}{0x10: 33675}{0x37: 21 0}{0x37: 22 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 26 599 599}{name: 1792}{hidetextbox: 0}{speed: 3}{color: 2}(OK,{wait: 8} what do I do now...?){p}
+(Maybe I should talk to her{b}
+father a bit more...){p}{color: 2}
+(Or is it time to turn my{b}
+attention to Vera?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 129}{0x82}{65535}{b}{2args_choice_jmp: 137 136}{endjmp}
+
+{{8}}
+{bop}{name: 1792}{color: 2}{speed: 255}(...I suppose there's no{b}
+sense in rushing things.){nextpage_button}
+(Let's see if there's any more{b}
+to get out of Daddy first.){nextpage_button}{color: 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{name: 1792}{speed: 3}...{speed: 4}Mr. Misham,{wait: 8} I have a{b}
+request.{nextpage_button}{person: 26 606 605}{name: 6656}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Let me guess.{wait_noanim: 30}{0x59}{speed: 4} You'd like to{b}
+speak with my daughter.{nextpage_button}{name: 1792}{speed: 3}
+...Can I?{nextpage_button}{person: 26 602 601}{name: 6656}{speed: 4}
+...My daughter{shake: 30 0} has never been{b}
+one to talk{shake: 30 0} to strangers.{p}
+She's quite{shake: 30 0} shy.{wait: 12} Extremely{b}
+so,{wait: 8} actually.{nextpage_button}{person: 26 600 599}
+...With only one{shake: 30 0} exception.{nextpage_button}{name: 1792}{speed: 3}
+Which was...?{nextpage_button}{person: 26 602 601}{name: 6656}{speed: 5}
+Oddly enough,{0x5a}{wait: 20}{person: 26 600 599}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4} it was that{b}{wait: 4}{color: 1}
+client{color: 0}.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...!{nextpage_button}{person: 26 602 601}{name: 6656}{speed: 4}
+I left the studio while{b}{shake: 30 0}
+they talked.{p}{person: 26 600 599}
+I returned when they had{b}
+finished...{wait: 12}{shake: 30 0} and she was{b}
+laughing!{p}
+It was the first time I'd{b}
+seen anything of the sort.{nextpage_button}{person: 26 599 599}{name: 1792}{speed: 3}
+...Please,{wait: 12} let me speak with{b}
+her.{nextpage_button}{person: 26 606 605}{name: 6656}{speed: 5}
+...Alright.{nextpage_button}{hidetextbox: 1}{wait: 30}{personvanish: 4 2}{wait: 32}{wait: 40}{person: 28 656 656}{personvanish: 3 4}{wait: 64}{wait: 30}{name: 4864}{hidetextbox: 0}{speed: 8}
+......{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}{color: 2}
+(Uh oh{speed: 8}...{wait: 20} {speed: 4}this could be{b}
+tough.){color: 0}{speed: 255}{nextpage_button}{0x80}{p}{p}{hidetextbox: 16}
+QXY{0x82}{p}
+{223}TS{0x10: 33680}{0x41}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{name: 1792}{speed: 3}That's a pretty bottle.{nextpage_button}{name: 6656}{showphoto: 167}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+Ah,{wait: 8} don't touch that,{wait: 8} please.{wait: 16}{b}
+I'll get in trouble.{nextpage_button}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...?{nextpage_button}{name: 6656}{speed: 4}
+It belongs to Vera,{shake: 30 0}{wait: 8} you see.{p}
+She always{shake: 30 0} puts it somewhere{b}
+she can see it.{wait: 12} She looks at{b}
+it often.{nextpage_button}{removephoto}{name: 1792}{speed: 3}{color: 2}
+(There's a light pink fluid{b}
+inside.){p}{speed: 4}
+(Nail polish,{wait: 16} I'm guessing.){color: 0}{speed: 255}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{name: 1792}That's an awfully small{b}
+frame.{p}{speed: 3}
+What's that inside it?{wait: 16}{b}
+A stamp?{p}{name: 6656}{showphoto: 423}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+Ah,{wait: 8} please don't touch{b}
+that.{wait: 16} I'll get in trouble.{nextpage_button}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...?{nextpage_button}{name: 6656}{speed: 4}
+That stamp{shake: 30 0} belongs to Vera,{wait: 20}{b}
+you see.{nextpage_button}
+She always{shake: 30 0} puts it somewhere{b}
+she can see it.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 151}{bgcolor: 260 1 31}{wait: 25}{wait: 40}{name: 1792}{hidetextbox: 0}
+That's "Zak & Valant"{speed: 8}...{wait: 30}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3} the{b}
+Gramaryes,{wait: 8} isn't it?{p}{showphoto: 167}{name: 6656}{speed: 4}
+The {shake: 30 0}post office issued that{b}
+commemorative stamp last year.{nextpage_button}{shake: 30 0}
+When the Gramaryes were at the{b}
+height of their{shake: 30 0} popularity.{nextpage_button}{removephoto}{name: 1792}{speed: 5}{color: 2}
+(Not anymore...){p}{speed: 3}
+(...{wait: 12}now that one of them has{b}
+vanished off the face of{b}
+the Earth.){color: 0}{nextpage_button}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 266}{bgcolor: 258 1 31}{wait: 15}{wait: 30}{name: 6656}{showphoto: 423}{hidetextbox: 0}{speed: 4}
+Vera went to see one{b}
+of their shows when{b}
+she was quite{shake: 30 0} small.{nextpage_button}
+She's been a dedicated{b}{shake: 30 0}
+fan ever since.{nextpage_button}
+She watched them every time{b}
+they came on TV... until the{b}
+end.{nextpage_button}{name: 1792}{speed: 3}
+...I see.{nextpage_button}{name: 6656}{speed: 4}
+That stamp's quite hard to{b}
+come by,{wait: 16} I hear.{p}
+...I still wonder how she{b}
+got her {shake: 30 0}hands on it.{nextpage_button}{bganim: 98 579}{newevidence: 16608}{name: 0}{speed: 4}{color: 2}
+Commemorative Stamp added to{b}
+the Court Record.{nextpage_button}{speed: 255}{color: 0}{0x10: 33706}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{name: 1792}That's an awfully small{b}
+frame.{p}
+There's a commemorative stamp{b}
+of the Gramaryes inside.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{person: 26 600 599}{0x38: 1}{name: 6656}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}Ah,{wait: 12} going home by any chance?{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{speed: 2}
+Ah,{wait: 8} er,{wait: 8} no,{wait: 8} I was just{b}
+checking out the door.{p}{name: 6656}{person: 26 606 605}{shake: 30 0}{speed: 6}
+...Oh.{p}{name: 1792}{person: 26 605 605}{speed: 3}{color: 2}
+(Good thing I'm far too{b}
+stubborn to take hints like{b}
+that.){color: 0}{nextpage_button}{jmp: 151}{endjmp}
+
+{{14}}
+{bop}{name: 1792}{speed: 4}What's this painting here...?{p}{hidetextbox: 1}{personvanish: 3 1}{person: 26 599 599}{wait: 16}{person: 26 599 599}{name: 6656}{hidetextbox: 0}{person: 26 600 599}{speed: 3}
+Ah,{wait: 8}{bgcolor: 2305 8 31}{shake: 30 0} that's one of mine.{wait: 16} It's{b}
+an illust{shake: 30 0}ration for a book.{p}
+It's not on sale, yet,{wait: 10} of{b}
+course.{wait: 16}{person: 26 602 601} But I thought it{shake: 30 0} might{b}
+be a good business.{p}
+As a father,{wait: 16} I'd like to be{b}
+able to put{shake: 30 0} food on my{b}
+daughter's{shake: 30 0} table.{nextpage_button}{name: 1792}{speed: 3}{color: 2}
+(Hmm... Not a feeling I{b}
+know anything about...{b}
+At least not yet.){color: 0}{nextpage_button}{jmp: 151}{endjmp}
+
+{{15}}
+{bop}{name: 1792}{speed: 3}Paints are scattered all{b}
+around.{wait: 16} Probably the ones{b}
+he's currently using.{p}
+There's something very{b}
+artistic about a messy room.{wait: 8}{p}
+Not that this is anything{b}
+compared to my office.{nextpage_button}{speed: 6}
+......{nextpage_button}{speed: 3}
+I guess that would make my{b}
+office a{wait: 4} "masterpiece".{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{name: 1792}Paints and pigments are lined{b}
+up on the shelves...{wait: 16} with some{b}
+noticeable gaps.{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 26 599 599}{wait: 16}{person: 26 600 599}{name: 6656}{hidetextbox: 0}{shake: 30 0}{speed: 4}
+It's embarrassing,{wait: 12} {speed: 3}but I can't{b}{person: 26 606 605}{shake: 30 0}
+afford all the paints I want.{p}
+I insist on{shake: 30 0} buying the ones{b}
+I use with my own money.{nextpage_button}{name: 1792}{speed: 3}
+I can see how you'd want to{b}
+do that,{wait: 8} sure.{nextpage_button}{person: 26 602 601}{name: 6656}{speed: 5}
+Perhaps{shake: 30 0} you've heard that{b}
+you can make any color{speed: 8}...{p}{speed: 4}
+...as long as you have the{b}
+three {shake: 30 0}primary colors?{0x5a}{wait: 30}{b}{person: 26 600 599}{shake: 30 0}{speed: 4}
+Well,{wait: 8} it's a lie.{nextpage_button}{name: 1792}{color: 2}
+(...Poor guy.){color: 0}{nextpage_button}{jmp: 150}{endjmp}
+
+{{17}}
+{bop}{name: 1792}You use these gizmos for{b}
+painting?{wait: 14} They're pretty...{b}
+elaborate.{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 26 601 601}{wait: 16}{person: 26 602 601}{name: 6656}{hidetextbox: 0}{speed: 5}
+Ah,{wait: 8}{shake: 30 0} those...{p}{person: 26 600 599}{speed: 4}
+Those aren't for painting.{wait: 16}{b}
+They're for analyzing.{p}{person: 26 602 601}
+Paint composition,{wait: 8} age{0x5a}{speed: 8}...{wait: 25}{b}{0x59}{speed: 4}
+every conceivable angle.{nextpage_button}{person: 26 601 601}{name: 1792}{speed: 3}{color: 2}
+(...Tools of the {color: 1}forgery{color: 2}{b}
+trade,{wait: 8} I guess.){nextpage_button}{color: 0}{jmp: 150}{endjmp}
+
+{{18}}
+{bop}{name: 1792}There are some finished{b}
+paintings stacked here.{p}
+They don't look all that{b}
+bad,{wait: 8} really.{nextpage_button}{hidetextbox: 1}{personvanish: 3 2}{person: 26 605 605}{wait: 32}{person: 26 606 605}{name: 6656}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...{wait: 16}I'll sell you one for{shake: 30 0}{b}
+50 cents.{nextpage_button}{name: 1792}
+......{wait: 30}{b}{speed: 3}
+That's OK.{wait: 16} They look kind{b}
+of heavy.{p}{name: 6656}{speed: 6}
+...{shake: 30 0}Oh.{nextpage_button}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{person: 0 0 0}{name: 1792}{hidetextbox: 0}{speed: 4}{color: 2}
+(Maybe he needs to work on {b}
+his sales technique a bit.){color: 0}{nextpage_button}{personvanish: 3 1}{person: 32794 599 599}{wait: 16}{jmp: 150}{endjmp}
+
+{{19}}
+{bop}{name: 1792}{speed: 3}This is you and Vera?{nextpage_button}{name: 6656}{showphoto: 423}{shake: 30 0}{speed: 4}
+Yes...{wait: 10} Yes.{wait: 10} We took that one{b}
+quite{shake: 30 0} recently.{p}{speed: 5}
+I know,{wait: 8} I'm a painter.{wait: 16} Why not{b}
+paint a portrait{shake: 30 0} instead.{nextpage_button}{speed: 4}
+...{wait: 16}I've never been that good{b}
+at{shake: 30 0} people,{wait: 10} unfortunately.{nextpage_button}{name: 1792}
+Ah...{wait: 14} {speed: 3}right.{wait: 20}{b}{color: 2}
+(Shouldn't you practice?){nextpage_button}{color: 0}{removephoto}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{name: 1792}What's this red envelope{speed: 8}...?{nextpage_button}{name: 6656}{showphoto: 167}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Ah!{wait: 20} {speed: 4}Don't touch that!{p}{speed: 5}
+That's,{wait: 8} er,{wait: 8} it's quite{b}{bgcolor: 2305 8 31}{shake: 30 0}
+important.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}{color: 2}
+(The painter's face just{b}
+changed hues.){nextpage_button}
+(Guess I'd better behave.{wait: 16}{b}
+Though it's tempting to{b}
+just grab it...){nextpage_button}{color: 0}{bganim: 98 579}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{name: 1792}Maybe I'll just sidle on over{b}
+here for a closer look...{p}{hidetextbox: 1}{0x71: 103 7 18}
+{2305}{2args_choice_jmp: 31 6}{0x3b: 1 27}{268}{wait: 30}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 267}{wait: 30}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 266}{wait: 30}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{0x51: 3 53}{36864}{nextpage_nobutton}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32796 646 646}{hidetextbox: 3}{special_jmp}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32794 599 599}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{0x51: 3 53}{36864}{testimony_animation: 28}{b}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32796 646 646}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{24}}
+{bop}{0x51: 3 53}{36352}{removephoto}{jmp: 153}{endjmp}{endjmp}{wait: 1}{0x1d: 8}{0x4c}{person: 26 599 599}{name: 1792}{showphoto: 211}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}Your{wait: 4} "{color: 1}work{color: 0}{speed: 7}"{wait: 4}... {speed: 3}Don't try to{b}{person: 26 603 603}
+pretend you've forgotten.{nextpage_button}{name: 6656}{speed: 8}
+......{nextpage_button}{name: 1792}{speed: 3}
+Sure,{wait: 16} all you did was make{b}
+a{wait: 4} "copy"{wait: 4}...{p}
+...but that{wait: 8} "copy" might have{b}
+destroyed the life of an{b}
+innocent man.{nextpage_button}{person: 26 605 605}{name: 6656}{speed: 8}
+......{nextpage_button}{removephoto}{person: 26 603 603}{name: 1792}{speed: 4}
+I'm responsible, too.{wait: 16} {speed: 3}Which is{b}
+why I have to know.{nextpage_button}{speed: 8}
+...{wait: 20}{speed: 3}And you have to tell me.{nextpage_button}{person: 26 606 605}{name: 6656}{shake: 30 0}{speed: 4}
+I...{wait: 16} knew it would be{b}
+difficult to{shake: 30 0} escape this.{nextpage_button}{name: 1792}{speed: 3}
+Then...{wait: 12} let's talk.{nextpage_button}{name: 6656}{speed: 6}
+......{nextpage_button}{0x23: 0}{music: 255 90}{0x10: 33678}{0x37: 19 0}{0x37: 20 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{25}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 26 605 605}{name: 1792}{showphoto: 211}Your{wait: 4} "{color: 1}work{color: 0}{speed: 7}"{wait: 4}...{speed: 3} Don't try to{b}
+pretend you've forgotten.{nextpage_button}{name: 6656}{speed: 8}
+......{nextpage_button}{name: 1792}{speed: 3}
+Sure,{wait: 16} all you did was make{b}
+a "copy"...{p}
+...but that{wait: 8} "copy" might have{b}
+destroyed the life of an{b}
+innocent man.{nextpage_button}{removephoto}{person: 26 606 605}{name: 6656}{shake: 30 0}{speed: 4}
+I...{wait: 16} knew it would be{b}
+difficult to{shake: 30 0} escape this.{nextpage_button}{person: 26 603 603}{name: 1792}{speed: 3}
+So,{wait: 8} Mr. Misham.{wait: 16} {speed: 3}Tell me about{b}
+Magnifi's diary.{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{26}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 26 599 599}{name: 1792}{speed: 3}Mr. Misham,{wait: 16} I was wondering{b}
+if you could tell me about{b}
+this...{nextpage_button}{person: 26 602 601}{name: 6656}{speed: 5}
+I've...{wait: 16} {speed: 4}{shake: 30 0}not been in touch{b}
+with the outside world for{b}
+some time now.{p}{person: 26 600 599}
+I'm sorry,{wait: 14}{shake: 30 0} but that...{wait: 14} isn't{b}
+much of an inspiration to me.{nextpage_button}{person: 26 601 601}{name: 1792}{speed: 4}{color: 2}
+(...Oh,{wait: 8} so now he's the{b}
+sensitive artist.){color: 0}{speed: 255}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{27}}
+{bop}{person: 26 603 603}{name: 0}{hidetextbox: 0}{speed: 2}{center_text: 1}{b}{color: 1}
+-- You're Hiding Something --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{fademusic: 0}{music: 31 0}{0x6c: 0}{person: 26 601 601}{name: 1792}{speed: 3}
+...Let's hear it,{wait: 8} then.{p}
+What are you hiding from me,{wait: 6}{b}
+Mr. Misham?{nextpage_button}{person: 26 600 599}{name: 6656}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+I'm sorry,{wait: 10} but I really don't{b}
+know.{wait: 16} I never met the {shake: 30 0}client!{nextpage_button}{name: 1792}{speed: 6}
+......{nextpage_button}{name: 1792}{hidetextbox: 0}{speed: 3}{color: 2}
+(...True,{wait: 8} when I asked the{b}{color: 1}
+client's name{color: 2}...){nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}
+(...{wait: 10}there were no Psyche-Locks{b}
+in sight.){nextpage_button}{color: 0}{speed: 4}
+...{wait: 16}Regardless,{wait: 8} you're hiding{b}
+something!{nextpage_button}
+You have to be,{wait: 15} otherwise{b}
+it wouldn't make any sense.{nextpage_button}{person: 26 603 603}{name: 6656}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 6}
+Hrrrm...{wait: 30}{person: 26 604 603} Why are {shake: 30 0}you doing{b}
+this to me...?{nextpage_button}{endjmp}
+
+{{28}}
+{bop}{0x6e: 20}{person: 26 603 603}{name: 1792}{speed: 3}{color: 2}(Well,{wait: 12} I've made my stand.{wait: 16}{b}
+No backing down now.){p}
+(So... what's Misham{b}
+hiding?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 106}{bganim: 104 1}{b}{3args_choice_jmp: 159 158 157}{endjmp}
+
+{{29}}
+{bop}{person: 26 600 599}{name: 6656}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}...Like I said,{wait: 4} I never met{b}
+the{shake: 30 0} client.{p}
+How could I hide{shake: 30 0} someone{b}
+I do not know?{wait: 20}{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{name: 1792}{color: 2}
+(He did say that,{wait: 16} {speed: 3}didn't he?){nextpage_button}{person: 26 601 601}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+(And with no Psyche-Locks,{wait: 12}{b}
+either.){nextpage_button}
+(So{speed: 8}...{wait: 20} {speed: 3}he's not lying about{b}
+that, I guess.){color: 0}{nextpage_button}{person: 26 600 599}{name: 6656}{shake: 30 0}
+Ask as many times as you{b}
+want...{wait: 20} My answer's{shake: 30 0} the same.{p}
+I personally{shake: 30 0} never spoke to{b}
+the{shake: 30 0} client!{nextpage_button}{name: 1792}{speed: 3}
+You{wait: 4} "personally"{speed: 8}...?{nextpage_button}{person: 26 604 603}{name: 6656}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+Ah,{wait: 8} er,{wait: 8} that is...{wait: 16}{b}
+Ahem.{nextpage_button}{person: 26 603 603}{name: 1792}{speed: 6}
+......{nextpage_button}{0x6c: 0}{jmp: 156}{endjmp}
+
+{{30}}
+{bop}{person: 26 600 599}{name: 6656}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}Yes,{wait: 6} there was a reference...{wait: 16}{b}
+Why should I hide{shake: 30 0} that?{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}
+Huh...?{p}{name: 6656}
+After the trial,{wait: 14} I submitted{b}
+everything to the{shake: 30 0} court.{p}
+My "work", the sample page,{wait: 16}{b}{shake: 30 0}
+everything.{p}{person: 26 602 601}
+I can give {shake: 30 0}you directions{b}
+to the{shake: 30 0} court,{wait: 10} if you'd like...{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Th-{wait: 8}That's fine.{wait: 20} {speed: 3}I know where{b}
+the court is.{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{name: 1792}
+...Unless you were just trying{b}{person: 26 603 603}
+to get me to leave.{nextpage_button}{person: 26 604 603}{name: 6656}{speed: 4}
+Ah,{wait: 8} sorry.{wait: 20} I can sometimes{b}
+be a little blunt.{nextpage_button}{0x6c: 0}{jmp: 156}{endjmp}
+
+{{31}}
+{bop}{fademusic: 30}{0x66: 109 0 14}{1792}{speed: 3}I can pretty much piece{b}
+together what it is from{b}
+what you've said.{nextpage_button}{person: 26 600 599}{name: 6656}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Wh-{wait: 20}What is it,{wait: 8} then?{nextpage_button}{name: 1792}{speed: 3}
+You told me what you{b}
+knew about the client...{nextpage_button}
+...and I couldn't see any{b}
+Psyche-Locks...{nextpage_button}{person: 26 602 601}{name: 6656}{speed: 4}
+...Psycho locks?{wait: 16} Is that some{b}
+sort of asylum security?{wait: 10} Or{b}
+a new hairstyle,{wait: 8} perhaps?{nextpage_button}{name: 1792}{speed: 3}
+...{wait: 8}But then they did show{b}
+up,{wait: 8} didn't they?{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 242}{person: 26 599 599}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 1792}{hidetextbox: 0}{speed: 3}
+...{wait: 16}who was your client?{nextpage_button}{person: 26 600 599}{name: 6656}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+A-{wait: 14}{speed: 4}As I said{shake: 30 0} in court,{wait_noanim: 30}{b}{person: 26 606 605}{speed: 4}
+I {shake: 30 0}do not know.{nextpage_button}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...Really?{wait: 30} Even for such a{b}
+suspicious request?{nextpage_button}{name: 1792}
+If it was me,{wait: 8} I'd want to{b}{person: 26 603 603}
+know as much as I could{b}
+about the requester.{p}{person: 26 604 603}{name: 6656}{speed: 4}{shake: 30 0}
+I... I never met them{shake: 30 0}!{wait: 20}{b}{speed: 5}
+N-{wait: 10}{speed: 4}Not personally{shake: 30 0},{wait: 10} I...{nextpage_button}{hidetextbox: 1}{0x5f: 4 1 1}{0x86}{person: 26 599 599}{name: 1792}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+"{color: 1}Not personally{color: 0}"...{wait: 16}{b}{speed: 3}
+Those words triggered the{b}
+Psyche-Lock!{nextpage_button}{person: 26 604 603}{name: 6656}{speed: 4}
+Again with the psycho locks!{wait: 16}{b}
+Now I really must know what{b}
+they are!{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{speed: 2}
+So,{wait: 8} you didn't meet with{b}
+the client...{nextpage_button}{speed: 3}
+...but someone{wait: 4} {sound: 26 1}{shake: 30 0}{color: 1}else{color: 0}{wait: 4} did!{nextpage_button}{showphoto: 211}{speed: 4}
+...{wait: 12}Maybe the{wait: 6} {sound: 52 1}{bgcolor: 2305 8 31}{color: 1}real forger{color: 0}{wait: 6}{b}
+behind this "evidence"?{nextpage_button}{name: 6656}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+Hrrm{speed: 8}..{shake: 30 0}.{wait: 30}{person: 26 604 603}{speed: 4} Perhaps I'm hung up{b}
+on this{wait: 6} "lock"{wait: 10} business...{p}
+...but I'm afraid you've{b}{person: 26 606 605}{shake: 30 0}{bgcolor: 2305 8 31}
+lost me.{nextpage_button}{bganim: 98 579}{0x84}{p}{person: 26 605 605}{name: 1792}{hidetextbox: 0}{speed: 3}{color: 2}
+(Yeah,{wait: 8} well,{wait: 12} I didn't{b}
+come here to talk about{b}
+Psyche-Locks.){p}{color: 0}
+...{wait: 16}As long as I come to the{b}
+right conclusion,{wait: 8} it doesn't{b}
+matter how I got there.{p}{person: 26 606 605}{name: 6656}{shake: 30 0}{speed: 5}
+And your conclusion is...?{nextpage_button}{showphoto: 211}{name: 1792}{speed: 3}
+The real forger behind this{b}
+wasn't you,{wait: 8} Mr. Misham!{p}{bganim: 98 579}{person: 26 604 603}{name: 6656}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 3}
+P-{wait: 12}{bgcolor: 2305 8 31}Poppycock!{p}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+I don't know what you're{b}
+talking about.{wait: 12}{shake: 30 0} That's my{b}
+work,{wait: 8} I tell you.{p}
+Made here in my studio!{wait: 16}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+Who else could it have{b}
+been but me!?{nextpage_button}{0x23: 0}{music: 255 90}{person: 26 603 603}{name: 1792}{speed: 4}
+...{wait: 20}{speed: 3}That's the real question,{wait: 8}{b}
+isn't it?{nextpage_button}{0x6c: 0}{endjmp}
+
+{{32}}
+{bop}{0x6e: 20}{name: 1792}If the{wait: 4} {color: 1}forger{color: 0} wasn't you...{nextpage_button}{speed: 3}
+...then I don't have many{b}
+other people to choose from.{nextpage_button}{color: 3}
+The real forger at Drew{b}
+Studio is...!{color: 0}{0x82}{p}
+MIH{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{b}{special_jmp}{endjmp}
+
+{{33}}
+{bop}{name: 1792}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 2}...Well,{wait: 12} Mr. Misham!?{nextpage_button}{name: 6656}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 30}{b}{person: 26 600 599}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Sure.{wait: 16} Why not?{nextpage_button}{name: 1792}{person: 26 601 601}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+...Huh?{p}{person: 26 600 599}{name: 6656}{speed: 4}
+Feel free to accuse them{b}
+of being a{shake: 30 0} forger.{nextpage_button}{person: 26 602 601}
+I'll even tell{shake: 30 0} you how to{wait: 16}{b}
+get to the{shake: 30 0} court.{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 20}{speed: 3}I know how to get to{b}
+the court.{b}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(OK... now I'm confused.){nextpage_button}{speed: 3}
+(Who's really making the{b}
+fakes here...?){color: 0}{nextpage_button}{0x6c: 0}{jmp: 160}{endjmp}
+
+{{34}}
+{bop}{fademusic: 30}{0x66: 109 0 14}{1792}{hidetextbox: 0}{speed: 4}The real{wait: 4} {color: 1}forger{color: 0}{speed: 8}...{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...is your daughter,{wait: 8} Vera{b}{person: 26 603 603}
+Misham,{wait: 8} isn't it?{nextpage_button}{person: 26 604 603}{name: 6656}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Ridiculous!{wait: 12} My daughter's{b}{bgcolor: 2305 8 31}{shake: 30 0}
+only twelve years old,{wait: 8}{b}
+Mr. Wright.{p}{bgcolor: 2305 8 31}{shake: 30 0}
+I've always been more one for{b}
+landscapes... not{shake: 30 0} surrealism.{nextpage_button}{person: 26 603 603}{name: 1792}{speed: 3}{color: 2}
+(Nice comeback...{wait: 16} but you're{b}
+shaking in your boots.){p}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+(I've got you now!){p}{color: 0}{speed: 3}
+The only two people with{b}
+access to this studio are{b}
+you...{wait: 16} and your daughter.{p}
+The Psyche-{wait: 12}Locks tell me{b}
+you're not the forger.{p}{speed: 4}
+Which makes your daughter{b}
+the only possibility.{p}{person: 26 606 605}{name: 6656}{shake: 30 0}{speed: 5}
+...Ahem.{p}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 3}
+I feel very{bgcolor: 2305 8 31} much on the verge{b}
+of{shake: 30 1}{bgcolor: 2305 8 31} going psycho{bgcolor: 2305 8 31} lock myself!!!{nextpage_button}{0x84}{p}{0x8d}{0x85}{0x51: 3 53}
+{37121}{1334}{0x10: 33681}{0x37: 20 0}{0x37: 21 1}{fademusic: 0}{music: 25 100}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{35}}
+{bop}{fademusic: 120}{name: 1792}{speed: 4}Well{speed: 6}...{wait: 16} {speed: 3}I think that's all.{wait: 15}{b}
+I'll be leaving now.{nextpage_button}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{person: 26 605 605}{personvanish: 3 2}{wait: 64}{sound: 52 1}{bgcolor: 2305 8 31}{person: 26 606 605}{name: 6656}{hidetextbox: 0}{speed: 4}
+...{wait: 14}I am sorry{shake: 30 0} for what{b}{shake: 30 0}
+happened.{nextpage_button}{name: 1792}{speed: 3}
+If you want to apologize,{wait: 8} try{b}
+my client,{wait: 8} Zak Gramarye.{nextpage_button}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{person: 28 656 656}{personvanish: 3 2}{wait: 64}{sound: 52 1}{bgcolor: 2305 8 31}{name: 4864}{hidetextbox: 0}{shake: 30 0}{speed: 5}
+Um...{nextpage_button}{person: 28 647 646}{name: 4864}{speed: 3}
+Did I... do something bad?{nextpage_button}{name: 1792}{speed: 3}
+...{wait: 12}What makes you think that?{p}{name: 4864}
+Your eyes{speed: 4}...{wait: 16} {speed: 3}they're sad.{wait: 16}{b}
+Very sad.{nextpage_button}{person: 28 653 653}{name: 1792}{speed: 6}
+......{nextpage_button}{speed: 3}
+I'll put on my smile next{b}
+time I come,{wait: 8} promise.{nextpage_button}{speed: 8}
+...{wait: 16}{speed: 3}I hope to see you smile{b}{person: 28 653 653}{sound: 51 1}{bgcolor: 2305 8 31}
+then,{wait: 8} too,{wait: 8} Vera.{nextpage_button}{person: 28 654 653}{name: 4864}{speed: 5}{wait: 8}
+Oh{0x5a}...{wait: 20}{b}{person: 28 649 648}{bgcolor: 2305 8 31}{speed: 3}{wait: 10}
+OK.{nextpage_button}{person: 28 648 648}{name: 1792}
+...Take care.{nextpage_button}{hidetextbox: 1}{0x26: 1}{bganim: 98 519}{wait: 60}{fademusic: 0}{music: 25 100}{0x5f: 15 3 0}{name: 1792}{hidetextbox: 0}{speed: 4}
+Thinking back on my first{b}
+encounter with the young{b}{wait: 5}{color: 1}
+forger{color: 0}{wait: 5}...{nextpage_button}{speed: 3}
+...{wait: 10}I witnessed something of{b}
+vital importance that day.{nextpage_button}
+...Of course,{wait: 8} by the time{b}
+I realized it...{nextpage_button}{speed: 4}
+...it was already too late.{nextpage_button}{hidetextbox: 1}{wait: 60}{fademusic: 120}{wait: 120}{0x64}{rejmp: 4}{b}{hideperson}{wait: 25}{0x5f: 16 1 1}{0x10: 33672}{0x10: 33670}{0x26: 0}{bganim: 0 4096}{0x74: 18 0}{special_jmp}{endjmp}
+
+{{36}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 28 656 656}{name: 1792}{hidetextbox: 0}{speed: 3}Vera,{wait: 8} was it?{nextpage_button}{speed: 6}
+I...{wait: 16} {speed: 3}Would you like to{b}
+have a friendly chat?{nextpage_button}{name: 4864}{speed: 8}
+......{nextpage_button}{person: 28 646 646}{person: 28 646 646}{name: 1792}{speed: 5}
+Er...{wait: 25} {speed: 3}I'm Phoenix Wright,{wait: 6}{b}
+ex-lawyer... and pianist!{nextpage_button}{person: 28 656 656}{name: 4864}{speed: 8}
+......{nextpage_button}{name: 1792}{speed: 3}
+I'm still looking for the{b}
+keys that say{wait: 12} "do re me".{b}
+Can't find 'em anywhere!{nextpage_button}{person: 28 656 656}{name: 4864}{speed: 8}
+......{nextpage_button}{person: 28 646 646}{person: 28 646 646}{name: 1792}{speed: 5}{color: 2}
+(I'm no good at this.){p}{speed: 3}
+(I need something to get{b}
+through to this girl...){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{37}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 28 647 646}{name: 4864}{hidetextbox: 0}{speed: 5}I...{speed: 3} don't go outside much.{nextpage_button}{person: 28 649 648}
+I like to paint in here.{nextpage_button}{name: 1792}{speed: 4}
+Why don't you like the{b}{person: 28 646 646}
+outside?{nextpage_button}{person: 28 651 650}{name: 4864}{sound: 52 1}{bgcolor: 2305 8 31}
+There's bad people out there!{nextpage_button}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}
+Well,{wait: 8} true,{wait: 8} but there're lots{b}
+of good people,{wait: 8} too.{nextpage_button}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{personvanish: 3 2}{person: 26 605 605}{wait: 64}{person: 26 606 605}{name: 6656}{hidetextbox: 0}{shake: 30 0}{speed: 5}
+Actually,{wait: 8} I should{shake: 30 0} tell{b}
+you...{nextpage_button}{person: 26 604 603}{name: 6656}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 20}she was almost{shake: 30 0} kidnapped,{wait: 8}{b}
+once.{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{speed: 3}
+K-{wait: 16}Kidnapped...!?{p}{name: 6656}{speed: 4}
+Since then,{wait: 8}{shake: 30 0} she's been{speed: 8}...{wait: 16}{b}{speed: 4}
+Well,{wait: 8} you can see for{b}
+yourself.{nextpage_button}{person: 26 606 605}
+She refuses to leave{shake: 30 0} the{b}
+house.{nextpage_button}{name: 1792}{speed: 3}
+I see{speed: 8}...{wait: 40}{b}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Wait.{wait: 20} {speed: 3}But that doesn't{b}
+make sense.{nextpage_button}{speed: 4}
+She said she went to the{b}
+Gramarye Museum...{nextpage_button}{speed: 3}
+...with you,{wait: 6} in fact.{nextpage_button}{person: 26 600 599}{name: 6656}{speed: 4}
+Ah...{wait: 10} yes,{wait: 10} actually,{wait: 8} she was{b}
+quite{shake: 30 0} insistent on it,{wait: 10} much{b}
+to my surprise.{nextpage_button}{person: 26 602 601}
+That was the {shake: 30 0}first and last{b}
+time she expressed such a {b}
+desire to me.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 28 647 646}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4864}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+That person gave me...{wait: 20} {speed: 3}a good{b}
+luck charm.{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{speed: 5}
+A good luck charm?{p}{person: 28 647 646}{name: 4864}{speed: 3}
+For when I absolutely had{b}
+to go outside.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 26 602 601}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 6656}{speed: 5}
+Yes,{wait: 12} apparently,{wait: 8}{shake: 30 0} she{wait: 12}{b}
+received something...{wait: 20}{speed: 4} a gift.{p}{person: 26 600 599}{name: 6656}{shake: 30 0}
+...From that client,{wait: 6} actually.{wait: 16}{b}
+She won't{shake: 30 0} tell me what it was.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+...!{nextpage_button}{person: 28 651 650}{name: 4864}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Father!{wait: 20} {speed: 3}I told you to keep{b}
+that a secret!{nextpage_button}{person: 28 650 650}{name: 1792}{color: 2}
+(From that{wait: 4} {color: 1}client{color: 2},{wait: 6} huh?{wait: 30}{b}{speed: 3}
+This I have to hear about.){fademusic: 0}{music: 25 100}{color: 0}{nextpage_button}{0x51: 3 53}
+{35841}{2566}{0x10: 33676}{0x37: 24 0}{0x37: 25 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{38}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 28 646 646}{name: 1792}{hidetextbox: 0}{speed: 3}So,{wait: 7} your father tells me{b}
+you're good at painting all{b}
+sorts of things...?{nextpage_button}{person: 28 649 648}{name: 4864}{sound: 52 1}{bgcolor: 2305 8 31}
+I really like painting.{wait: 16}{b}
+A lot.{p}
+Father is always very happy{b}
+when I paint them exactly{b}
+the same.{nextpage_button}{name: 1792}{speed: 8}
+So...{speed: 3} you did {showphoto: 211}this, too?{p}{bganim: 98 579}{name: 4864}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Oh!{wait: 8} Yes!{wait: 12}{b}
+That was my first job!{nextpage_button}{name: 1792}{speed: 5}
+Your first...?{nextpage_button}{person: 28 649 648}{name: 4864}{speed: 3}
+All I used to do was paint{b}
+the same thing I saw.{p}
+...{wait: 16}But this was totally{b}
+different!{p}
+The pen slips and the way the{b}
+writer held the pen,{wait: 8} and the{b}
+pressure on the nib...{p}
+...{wait: 12}I had to use a microscope{b}
+and analyze it on the{b}
+computer!{nextpage_button}{person: 28 648 648}{name: 1792}{speed: 4}{color: 2}
+(She seems happy.){nextpage_button}
+(Odd... Her work was the last{b}
+nail in the Gramarye coffin.){nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}
+(I guess no one told her.){color: 0}{nextpage_button}{0x10: 33713}{0x51: 3 53}
+{45056}{1374}{0x35: 36096 @RelativeAddress0}{0x35: 34817 @RelativeAddress1}{jmp: 163}{endjmp}{endjmp}{@RelativeAddress0}{@RelativeAddress1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{39}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 28 649 648}{name: 4864}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{hidetextbox: 0}{speed: 2}They're the best in {bgcolor: 2305 8 31}the{b}
+world!{nextpage_button}{name: 1792}{fademusic: 30}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 3}
+Huh?{wait: 12} Oh,{wait: 8} you mean Troupe{b}
+Gramarye?{wait: 16} Of course.{nextpage_button}{hidetextbox: 1}{bganim: 98 579}{person: 0 0 0}{bg: 151}{bgcolor: 2305 8 31}{sound: 26 1}{shake: 30 0}{fademusic: 0}{music: 22 0}{wait: 60}{name: 4864}{hidetextbox: 0}{speed: 3}
+Father gave it to me.{nextpage_button}{name: 1792}{speed: 5}
+Your father...?{p}{speed: 3}
+But...{wait: 16} I asked him about it.{p}
+He didn't know how you{b}
+got it.{nextpage_button}{bg: 242}{name: 4864}{person: 28 654 653}{fademusic: 120}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 8}
+Oh...{wait: 16} {speed: 3}Oh,{wait: 7} um,{wait_noanim: 30}{person: 28 649 648} I guess I just{b}
+took it.{wait: 16} Yeah.{nextpage_button}{name: 1792}{speed: 5}
+"Took" it...?{nextpage_button}{person: 28 649 648}{name: 4864}
+Father got a letter{0x5a}...{showphoto: 202}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}{0x59} from{b}
+that person.{nextpage_button}{name: 1792}{speed: 4}
+That person?{wait: 16} You mean,{wait: 8} that{b}
+letter was from the {color: 1}client{color: 0}?{nextpage_button}{removephoto}{person: 28 649 648}{name: 4864}{speed: 3}
+Oh,{wait: 14} we talked about the{b}
+Gramaryes forever that day!{p}{showphoto: 480}
+...I'm sure that's why I was{b}
+sent that stamp.{p}
+I didn't want to just send{b}
+it back{speed: 8}...{wait: 15}{speed: 3} so I took it.{nextpage_button}{removephoto}{person: 28 648 648}{name: 1792}{speed: 4}{color: 2}
+(They're a sneaky one,{wait: 8} this{b}{color: 1}
+client{color: 2}.){nextpage_button}{speed: 3}
+(So they were trying to get on{b}
+her good side.){nextpage_button}{0x51: 3 53}
+{45057}{1702}{0x10: 33712}{0x19: 16608 16609}{name: 0}{speed: 4}{color: 2}Commemorative Stamp updated{b}
+in the Court Record.{nextpage_button}{speed: 255}{color: 0}{0x51: 3 53}
+{36096}{1702}{0x35: 45312 @RelativeAddress2}{0x35: 34817 @RelativeAddress3}{jmp: 163}{endjmp}{endjmp}{@RelativeAddress2}{@RelativeAddress3}{fademusic: 0}{music: 25 100}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{40}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 1792}{showphoto: 211}{hidetextbox: 0}So...{wait: 16} you met the person{b}
+that asked you to do this job?{p}{person: 28 646 646}{bgcolor: 2305 8 31}
+And... you talked with them?{nextpage_button}{removephoto}{person: 28 656 656}{name: 4864}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 8}
+......{nextpage_button}{name: 1792}{speed: 3}
+What's this about a "good luck{b}
+charm" you received?{nextpage_button}{name: 4864}{speed: 8}
+......{wait: 40}{b}{person: 28 647 646}{speed: 3}
+I can't talk about it.{nextpage_button}{person: 28 646 646}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Eh...?{p}{person: 28 647 646}{name: 4864}
+If I do, it won't work{b}
+anymore!{wait: 20}{b}
+...That's what I was told.{nextpage_button}{name: 1792}
+Yeah... but I really,{wait: 12} really{b}
+have to know.{p}{person: 28 656 656}{name: 4864}{speed: 8}
+......{wait: 40}{nextpage_nobutton}{fademusic: 30}{0x88}{p}{person: 28 656 656}{name: 1792}{hidetextbox: 0}{speed: 4}{color: 2}
+(Right.{wait: 20} Time to do some{b}
+psyche-{wait: 8}unlocking.){nextpage_button}{color: 0}{speed: 255}{0x23: 0}{music: 255 90}{0x8c}
+O{0x89}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{41}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 28 651 650}{name: 4864}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 3}I'm sorry.{wait: 15} I can't talk about{b}
+the client.{wait: 16} I promised.{p}
+And if I break my promise,{wait: 6}{b}
+the spell won't work!{nextpage_button}{person: 28 650 650}{name: 1792}{color: 2}
+(I don't need a name anymore.{wait: 16}{b}{speed: 4}
+I've got my answer...){color: 0}{nextpage_button}{speed: 3}
+You're pretty confident in{b}{showphoto: 223}{person: 28 656 656}{sound: 52 1}{bgcolor: 2305 8 31}
+this charm,{wait: 6} then?{nextpage_button}{name: 4864}{speed: 6}
+......{wait: 30}{b}{speed: 4}
+I think...{wait: 20}{person: 28 647 646}{speed: 3} they might be{b}
+the Devil.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{bganim: 98 579}{speed: 3}
+...Huh?{p}{name: 4864}{speed: 6}
+Or maybe...{wait: 30}{speed: 3} an angel.{nextpage_button}{person: 28 656 656}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}
+Wh-{wait: 20}What do you mean?{p}{name: 4864}{speed: 5}
+I saw it{speed: 8}...{wait: 20} {speed: 4}{person: 28 647 646}Or I think I saw{b}
+it,{0x5a}{wait: 20}{showphoto: 479}{0x59} when they gave me this.{p}{removephoto}{fademusic: 45}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...I saw the Devil's face.{nextpage_button}{name: 1792}{speed: 3}
+...Are you saying the client's{b}
+face {person: 28 653 653}looked like the Devil's?{nextpage_button}{name: 4864}{person: 28 654 653}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+No!{wait: 16} The client{speed: 8}...{speed: 3} was{b}
+gentle...{wait: 16} {person: 28 649 648}with a gentle smile.{nextpage_button}{name: 1792}
+So...{wait: 8} where'd you see this{wait: 4}{b}
+"Devil" then?{nextpage_button}{person: 28 647 646}{name: 4864}{speed: 4}
+It was so quick{speed: 8}...{wait: 20}{speed: 4} I don't{b}
+remember well.{p}{name: 4864}{speed: 3}
+But...{wait: 16} {speed: 4}that's when I knew{0x5a}{wait: 30}{b}{speed: 3}{0x59}
+that person wasn't like other{b}
+people.{p}
+That's why {person: 28 649 648}I believe in my{b}
+good luck charm.{nextpage_button}{name: 1792}{0x23: 0}{music: 255 120}{speed: 4}{color: 2}
+(...I'm not sure what this{b}
+"Devil" she saw was...){nextpage_button}{speed: 3}
+(...{wait: 16}but it's pretty clear that{b}
+Kristoph Gavin has her{wait: 6}{b}
+"charmed"...){color: 0}{nextpage_button}{0x10: 33677}{0x51: 3 53}
+{45056}{2114}{0x35: 45312 @RelativeAddress4}{0x35: 34817 @RelativeAddress5}{jmp: 163}{endjmp}{endjmp}{@RelativeAddress4}{@RelativeAddress5}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{42}}
+{bop}{name: 0}{hidetextbox: 0}{speed: 2}{center_text: 1}{b}{color: 1}
+-- The Client --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{fademusic: 0}{music: 31 0}{0x6c: 0}{person: 28 656 656}{name: 1792}{speed: 3}
+You seem to trust this{b}{wait: 8}{color: 1}
+client{color: 0}{wait: 6}... Quite a lot,{b}
+in fact.{p}{name: 4864}{speed: 6}
+......{nextpage_button}{name: 1792}{showphoto: 224}{speed: 3}
+Because they gave you this{wait: 4}{b}{color: 1}
+stamp{color: 0}?{nextpage_button}{removephoto}{name: 4864}
+N-{wait: 16}{speed: 3}No...{bgcolor: 2305 8 31}{shake: 30 0} that's not why.{p}{person: 28 649 648}
+They listened to me.{wait_noanim: 25}{person: 28 649 648} To my{b}
+problem...{nextpage_button}{name: 1792}{color: 2}
+(The problem...{wait: 12} that keeps{b}
+her inside all the time?){p}{color: 0}{name: 4864}
+"Don't go outside if you{b}
+don't want to"...{p}
+That's what they told me.{p}{person: 28 647 646}{speed: 8}
+But...{wait: 20}{speed: 4} when I absolutely{b}
+have to go out...{p}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 14}all I had to do...{wait: 6} was use{b}
+a good luck charm.{nextpage_button}{person: 28 656 656}{name: 1792}
+A good luck charm{speed: 8}...{wait: 20} that{b}
+your client gave you?{nextpage_button}{name: 4864}{speed: 7}
+......{nextpage_button}{endjmp}
+
+{{43}}
+{bop}{0x6e: 20}{name: 1792}{speed: 4}I think I know what {color: 1}your{b}
+client{color: 0} might have given you,{wait: 8}{b}
+actually.{p}{color: 3}
+Is this your good luck{b}
+charm{speed: 8}...?{color: 0}{0x82}{p}
+{223}TS{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{44}}
+{bop}{name: 1792}{hidetextbox: 0}If this doesn't bring good{b}
+luck,{wait: 10} I don't know what would.{nextpage_button}{person: 28 656 656}{name: 4864}{speed: 6}
+......{wait: 35}{b}{person: 28 647 646}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+I see.{p}{person: 28 649 648}{speed: 3}
+Good luck charms are different{b}
+for different people,{wait: 8} I guess.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...Hmm?{wait: 25}{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+What do you mean?{p}{name: 4864}
+If you say it's lucky,{wait: 7} then{b}
+it must work for you.{p}
+That's the beautiful thing{b}
+about good luck charms{0x5a}...{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{person: 28 648 648}{name: 1792}{color: 2}
+(See that innocent smile?{wait: 16}{b}
+Everyone has a different{b}
+way of breaking the news.){p}
+(That's the beautiful thing{b}
+about being totally wrong.){nextpage_button}{color: 0}{0x6c: 0}{jmp: 171}{endjmp}
+
+{{45}}
+{bop}{fademusic: 30}{0x66: 109 0 30}{hidetextbox: 646}{646}{name: 1792}{hidetextbox: 0}Thi{speed: 8}s...{wait: 16} {showphoto: 223}{speed: 3}was what they gave{b}
+you,{wait: 8} wasn't it?{nextpage_button}{person: 28 655 655}{name: 4864}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Ah...{wait: 30}{person: 28 653 653}{nextpage_button}{person: 28 653 653}{name: 1792}{speed: 3}
+The same bottle's over there{b}
+on your desk.{p}
+Your good luck charm...{wait: 12} right?{nextpage_button}{bganim: 98 579}{person: 28 652 652}{0x84}{p}{person: 28 656 656}{name: 4864}{hidetextbox: 0}{speed: 5}
+I heard once...{nextpage_button}{person: 28 647 646}
+Cosmetics were once thought{b}
+to ward off evil.{p}{showphoto: 223}
+This...{wait: 14} is a magic bottle.{wait: 16}{b}
+It has the power.{p}{bganim: 98 579}{person: 28 646 646}{name: 1792}{speed: 5}
+Ah...{wait: 20}{speed: 3} Of course it does.{nextpage_button}{color: 2}
+(I'll just refrain from{b}
+commenting any more on{b}
+that one.){color: 0}{nextpage_button}{0x23: 0}{music: 255 90}{0x6c: 0}{endjmp}
+
+{{46}}
+{bop}{0x6e: 20}{person: 28 656 656}{name: 1792}{speed: 3}I think I know who gave{b}
+you that bottle,{wait: 8} actually.{p}{showphoto: 211}
+The one who asked you to{b}
+do this "job".{p}{bganim: 98 579}{0x82}{p}
+iWV{color: 3}Was this the {color: 1}client{color: 3}?{color: 0}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{b}{special_jmp}{endjmp}
+
+{{47}}
+{bop}{person: 28 656 656}{name: 4864}{hidetextbox: 0}{speed: 7}......{nextpage_button}{name: 1792}{speed: 3}
+Vera?{wait: 16} Is something wrong?{nextpage_button}{person: 28 647 646}{name: 4864}{speed: 4}
+...I won't tell you.{0x5a}{wait: 33}{bgcolor: 2305 8 31}{shake: 30 0}{0x59}{speed: 3} Even if{b}
+that is the client,{wait: 8} I won't.{nextpage_button}{name: 1792}{color: 2}
+(...So you say.){nextpage_button}
+(But... I know it wasn't{b}
+the client.){nextpage_button}{person: 28 656 656}{speed: 4}
+(I don't see any Psyche-Locks{b}
+clattering to the floor.){nextpage_button}{speed: 3}
+(*sigh*){wait: 6}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{speed: 3}
+(How could I get that one{b}
+wrong?){nextpage_button}
+(The answer is dangling{b}
+in front of my face!){nextpage_button}{color: 0}{0x6c: 0}{jmp: 174}{endjmp}
+
+{{48}}
+{bop}{fademusic: 30}{0x66: 109 0 30}{hidetextbox: 646}{646}{name: 1792}{hidetextbox: 0}{showphoto: 187}{speed: 3}This man... is a friend of{b}
+mine.{wait: 20} Know him?{p}{person: 28 653 653}{name: 4864}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+...{bgcolor: 2305 8 31}!{nextpage_button}{person: 28 650 650}{name: 1792}{speed: 3}
+His name is Kristoph Gavin.{wait: 12}{b}{speed: 8}
+...{wait: 20}{speed: 3}He's a lawyer,{wait: 8} actually.{p}{removephoto}{person: 28 651 650}{name: 4864}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+I...{wait: 15} {speed: 3}I promised.{bgcolor: 2305 8 31}{shake: 30 0}{p}{speed: 5}
+I promised not to tell!{nextpage_button}{person: 28 652 652}{0x84}{p}{0x8d}
+O{0x10: 33682}{0x37: 25 0}{0x37: 26 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{49}}
+{bop}{0x66: 109 0 14}{1792}{color: 2}{speed: 4}(I may not have enough{b}
+evidence right now to{b}
+pull this off.){nextpage_button}{speed: 3}
+(Maybe it's time to do a{b}
+little more legwork.){color: 0}{speed: 255}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{50}}
+{bop}{name: 0}{speed: 4}{color: 1}...Any more of this,{wait: 8} and{b}
+something's going to give.{nextpage_button}{speed: 3}
+...Time to cool off a bit{b}
+and rethink what I'm doing.{nextpage_button}{color: 0}{0x66: 109 0 28}{color: 21}{endjmp}
+
+{{51}}
+{bop}{0x51: 3 53}{36608}{removephoto}{jmp: 183}{endjmp}{endjmp}{wait: 1}{0x1d: 8}{0x4c}{person: 28 656 656}{name: 1792}{speed: 3}And then{wait: 16}{showphoto: 224} there's this{speed: 8}...{nextpage_button}{name: 4864}{speed: 8}
+......{wait: 35}{b}{person: 28 647 646}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+My {wait: 16}stamp...{nextpage_button}{bganim: 98 579}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{color: 2}
+(Hey!{wait: 20} She spoke!{wait: 30}{b}{speed: 3}
+She can talk!){nextpage_button}{color: 0}{person: 28 646 646}
+Yeah,{wait: 16} so this stamp...{wait: 16}{b}{speed: 4}{color: 2}
+(How can I keep her talking?){color: 0}{speed: 255}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 107}{0x6c: 109}{b}{b}{3args_choice_jmp: 180 181 182}{endjmp}
+
+{{52}}
+{bop}{person: 28 646 646}{name: 1792}Can I have your stamp?{nextpage_button}{person: 28 652 652}{name: 4864}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+No way!{wait: 20}{b}{person: 28 651 650}{speed: 3}
+...{wait: 20}It's{shake: 30 0}{bgcolor: 2305 8 31} my favoritest{b}
+thing in the whole world!{nextpage_button}{person: 28 650 650}{name: 1792}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Ack,{wait: 12} sorry,{wait: 12} sorry!{wait: 20}{b}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+I won't take it,{wait: 8} promise.{p}{person: 28 656 656}{speed: 4}{color: 2}
+(Wow,{wait: 8} if looks could kill...){nextpage_button}{color: 0}{speed: 255}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{53}}
+{bop}{person: 28 646 646}{name: 1792}This stamp...{wait: 16} It's got{b}
+a really nice frame.{nextpage_button}{person: 28 656 656}{name: 4864}{speed: 8}
+......{wait: 40}{b}{person: 28 647 646}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+I don't think so.{nextpage_button}{person: 28 656 656}{speed: 8}
+......{p}{name: 1792}{speed: 3}{color: 2}
+(Yep,{wait: 8} just keep her talking{b}
+like that.{wait: 16} Great job,{wait: 8} Wright.){nextpage_button}{color: 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{54}}
+{bop}{person: 28 646 646}{name: 1792}Isn't Troupe Gramarye{b}
+amazing?{nextpage_button}{person: 28 653 653}{name: 4864}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 60}{wait: 10}
+Ah{0x5a}...{nextpage_button}{person: 28 653 653}{name: 1792}{bgcolor: 2305 8 31}
+Hmm?{wait: 16} Yes?{nextpage_button}{person: 28 647 646}{name: 4864}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}{wait: 10}
+Oh...{nextpage_button}{person: 28 646 646}{name: 1792}{speed: 3}
+I especially like those two,{wait: 6}{b}
+Zak and Valant.{p}{speed: 4}
+I mean they're,{wait: 8} uh,{wait: 8} just{b}{person: 0 0 0}{bg: 168}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{fademusic: 0}{music: 22 0}{speed: 2}
+so{bgcolor: 2305 8 31} magical!{nextpage_button}{bg: 242}{person: 28 654 653}{name: 4864}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+Aren't they,{wait: 8} {bgcolor: 2305 8 31}aren't they!?{0x5a}{wait: 30}{0x59}{nextpage_button}{name: 1792}{speed: 4}
+Yeah!{wait: 16} {speed: 5}Whenever I go to one{b}
+of their shows,{wait: 6} I'm like...{nextpage_button}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Whoa!{wait: 25}{speed: 3} Magic! ...{wait: 20}You know?{nextpage_button}{person: 28 649 648}{name: 4864}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+Me, too!{wait: 14}{bgcolor: 2305 8 31} Me, too!{wait: 15} I love{b}{bgcolor: 2305 8 31}{shake: 30 0}
+them!{wait: 15} They're so cool!{p}{speed: 4}
+It's like{0x5a}...{wait: 35}{person: 0 0 0}{bg: 168}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2} like{bgcolor: 2305 8 31} magic!{wait: 25}{b}{speed: 3}
+Yeah!{nextpage_button}{bg: 242}{person: 28 648 648}{name: 1792}{bgcolor: 2305 8 31}{speed: 2}{color: 2}
+(Alright!{wait: 20}{speed: 3} She's talking!{wait: 16}{b}
+Not saying much...{wait: 16} but{b}
+it's a start!){color: 0}{nextpage_button}{person: 28 649 648}{name: 4864}{speed: 3}
+...I went and saw them with{b}
+Father the other day!{p}{person: 0 0 0}{bg: 168}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+The opening ceremony at the{wait: 25}{b}{speed: 3}
+Gramarye {bgcolor: 2305 8 31}Museum of Magic!{nextpage_button}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+The Gramarye M-{wait: 20}{wait: 6}Museum?{wait: 16}{b}{speed: 4}
+They have one of those?{nextpage_button}{speed: 3}{color: 2}
+(I guess it makes sense now{b}
+that they have their own{b}
+commemorative stamp...){nextpage_button}{color: 0}{bg: 242}{person: 28 648 648}{speed: 3}
+So... {wait: 30}{person: 28 653 653}have you been to one{b}
+of their shows?{nextpage_button}{person: 28 649 648}{name: 4864}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+Just once,{wait: 10} when I was little.{wait: 10}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+With Father.{nextpage_button}{person: 28 649 648}
+The Gramaryes on stage{0x5a}...{wait: 20}{b}{bgcolor: 2305 8 31}{shake: 30 0}{0x59}{speed: 4}
+It was like a dream!{p}{speed: 3}
+Disappearing,{wait: 20}{speed: 2}{bgcolor: 2305 8 31}{shake: 30 0} reappearing,{0x5a}{wait: 35}{b}{0x59}{speed: 3}
+cutting apart,{wait: 20}{speed: 2} {bgcolor: 2305 8 31}{shake: 30 0}putting back{b}
+together... they do it all!{nextpage_button}{person: 28 653 653}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Yeah,{wait: 8} yeah!{wait: 20} Maybe you can{b}
+keep telling me stuff like{b}
+this?{p}{speed: 5}
+You know...{wait: 20}{speed: 3} about Zak and{b}
+Valant maybe...?{nextpage_button}{person: 28 649 648}{name: 4864}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Oh.{wait: 15} Oh,{wait: 8} sure.{nextpage_button}{person: 28 646 646}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}{color: 2}
+(Alright!{wait: 20}{speed: 3} Better get asking{b}
+before she changes her mind.){nextpage_button}{color: 0}{0x10: 33679}{0x37: 23 0}{0x37: 24 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{55}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 28 646 646}{name: 1792}{showphoto: 224}{speed: 3}They look pretty incredible{b}{bgcolor: 2305 8 31}{shake: 30 0}
+in this stamp.{nextpage_button}{speed: 4}
+I mean...{wait: 35}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} it's like magic!{nextpage_button}{person: 28 649 648}{name: 4864}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I know,{wait: 8} I know!{wait: 20}{bgcolor: 2305 8 31}{shake: 30 0} I love the{b}{person: 28 649 648}
+Gramaryes!{p}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+They're just so...{wait: 16} {speed: 3}um...{b}
+magical!{nextpage_button}{person: 28 648 648}{name: 1792}{color: 2}
+(She's talking up a storm{b}
+now!){p}
+(Better get what I can out{b}
+of her before the storm{b}
+passes over...){color: 0}{nextpage_button}{bganim: 98 579}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{56}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 28 656 656}{name: 1792}Um,{wait: 6} what do you think{b}
+about this?{nextpage_button}{person: 28 656 656}{name: 4864}{speed: 6}
+......{nextpage_button}{name: 1792}{person: 28 656 656}{color: 2}
+(...I think I just made her{b}
+nervous.){p}
+(I need something to grab{b}
+her attention... but what?){nextpage_button}{color: 0}{hidetextbox: 3}{special_jmp}{endjmp}

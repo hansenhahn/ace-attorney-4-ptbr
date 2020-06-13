@@ -1,0 +1,382 @@
+
+
+{{0}}
+{bop}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}July 9{b}
+Detention Center{b}
+Visitor's Room{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{0x4d: 39 0}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{wait: 16}{name: 1024}{hidetextbox: 0}{speed: 3}{color: 2}
+(Machi may not be guilty,{wait: 8} but{b}
+he's still a suspect.){color: 0}{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+But they don't have any{b}
+decisive evidence!{nextpage_button}{person: 5 95 95}{name: 1024}{speed: 3}
+Yeah,{wait: 6} but only someone as{b}
+small as him could have gotten{b}
+out of that room.{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 4}{wait: 10}
+Right{0x5a}...{wait: 18}{0x59} the air vent.{nextpage_button}{person: 5 75 75}{name: 1024}{speed: 4}
+And{0x5a}...{wait: 18} {0x59}he lied.{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}
+Lied?{nextpage_button}{person: 5 81 81}{name: 1024}{speed: 4}{color: 2}
+(Machi Tobaye {color: 1}can see{color: 2}{speed: 8}{0x5a}...){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{person: 35 777 777}{personvanish: 3 4}{wait: 64}{name: 8960}{hidetextbox: 0}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Ah!{wait: 10} Machi!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 777 777}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 3}
+Speak of the devil.{nextpage_button}{person: 35 779 779}{name: 8960}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{0x4d: 39 0}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+He looks like he's doing OK!{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 4}
+I forget.{wait: 18} Why did we come{b}
+here?{p}{speed: 4}
+It's not like we can talk to{b}
+him or anything.{nextpage_button}{person: 5 74 73}{name: 1280}{speed: 3}
+Words are overrated!{wait: 12}{p}{bgcolor: 2305 8 31}
+Feelings are what matter,{wait: 10}{b}
+Apollo.{nextpage_button}{person: 5 73 73}{name: 1024}{speed: 4}
+It's kinda hard to build a{b}
+court case on feelings.{nextpage_button}{person: 5 67 67}
+But,{wait: 8} since we're here,{wait: 8} anyway.{nextpage_button}{person: 5 81 81}{sound: 51 1}{bgcolor: 2305 8 31}
+Might as well get what I want{b}
+to say off my chest.{nextpage_button}{person: 5 84 83}{name: 1280}{speed: 4}
+If you need someone to{b}
+complain to,{wait: 8} I'll listen...{nextpage_button}{name: 1024}{color: 2}
+(I think she's actually{b}
+worried for me...){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 777 777}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8960}{person: 35 790 790}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{fademusic: 0}{music: 17 0}{0x10: 33114}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{fademusic: 45}{person: 35 777 777}{name: 1024}{speed: 4}{0x5a}...{wait: 18}{0x59}I must be imagining it.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Imagining what,{wait: 8} Apollo?{nextpage_button}{person: 5 75 75}{name: 1024}
+It's just,{wait: 10} {speed: 4}I couldn't help{b}
+but feel that...{wait: 20} I dunno.{nextpage_button}{person: 5 75 75}{name: 1024}{speed: 4}
+Machi{0x5a}...{p}
+...{wait: 6}He doesn't understand{b}
+what we're saying,{wait: 6} right?{nextpage_button}{person: 5 74 73}{name: 1280}{shake: 30 0}{speed: 3}
+How could he?{p}
+He's a young Borginian!{wait: 10}{b}
+He doesn't speak English.{nextpage_button}{person: 5 73 73}{name: 1024}{speed: 4}
+Yeah,{wait: 12} but my bracelet is{b}{showphoto: 83}{bgcolor: 2305 8 31}
+reacting to him.{nextpage_button}{bganim: 98 579}{person: 5 76 75}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Huh?{wait: 10}{b}
+Maybe it's malfunctioning?{p}{person: 5 96 95}{speed: 3}
+Or it's scared,{wait: 6} because you{b}
+keep making those "I'm so{b}
+mad" faces.{nextpage_button}{person: 5 75 75}{name: 1024}{speed: 4}
+Was I that bad?{p}{speed: 3}{color: 2}
+(Machi lied about not being{b}
+able to see...){p}{speed: 4}
+(But what if that's not all{b}
+he lied about?){color: 0}{nextpage_button}{person: 5 68 67}{name: 1280}{speed: 3}
+If you're curious about it{b}
+there's only one thing to do.{nextpage_button}{person: 5 74 73}{bgcolor: 2305 8 31}
+You should ask him.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 777 777}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 4}{color: 2}
+(I think it'll take something{b}
+big to get to him... Some{b}
+kind of {color: 1}undeniable{color: 2} evidence.){color: 0}{p}
+...{wait: 20}We'll be back,{wait: 6} Machi.{nextpage_button}{name: 8960}{person: 35 790 790}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{0x23: 0}{music: 255 60}{0x10: 33115}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{person: 0 0 0}{name: 1024}{speed: 3}That security camera is{b}
+looking at me.{p}
+Why do I feel this sudden{b}
+urge to make a silly face?{p}{0x4d: 39 1}{personvanish: 3 1}{person: 35 777 777}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{person: 0 0 0}{name: 1024}{speed: 3}A security guard.{wait: 16} He stands{b}
+here,{wait: 8} watching this room.{p}
+His eyes when he looks at{b}
+Machi are gentle.{wait: 16} Maybe he{b}
+has a kid the same age.{p}{0x4d: 39 1}{personvanish: 3 1}{person: 35 777 777}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{0x4d: 39 0}{person: 5 68 67}{name: 1280}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 4}So,{wait: 12} what did you think of{b}
+the trial today?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 790 790}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8960}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+...{wait: 6}{speed: 3}{shake: 30 0}Whew.{wait: 16} I'm glad he doesn't{b}
+understand English after all.{p}{person: 5 72 69}
+If he did,{wait: 6} {bgcolor: 2305 8 31}{shake: 30 0}he would have been{b}
+scared out of his mind by{b}
+that trial.{wait_noanim: 16}{person: 5 70 70}{nextpage_button}{person: 5 70 70}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Hey,{wait: 10} all's well that ends{b}
+well.{p}
+You have to be more goal{b}
+oriented.{wait: 16} If he's not guilty,{wait: 6}{b}
+we win.{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+No,{wait: 6} if he's innocent, we win.{nextpage_button}{person: 5 88 90}{0x8f: 89}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 4}
+Machi might not understand{b}
+English,{0x63} {person: 5 91 90}{speed: 3}but I bet he gets{b}
+that better than you do.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 790 790}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8960}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{showphoto: 83}{person: 35 777 777}{name: 1024}{fademusic: 30}{sound: 74 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+...!{wait: 20}{b}{sound: 51 1}{bgcolor: 2305 8 31}{color: 2}
+({shake: 30 0}Huh{speed: 8}...?){color: 0}{nextpage_button}{removephoto}{0x51: 1 53}
+{24065}{1310}{0x10: 33118}{0x35: 24320 @RelativeAddress0}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress0}{0x23: 0}{music: 255 60}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{hidetextbox: 0}{speed: 3}I'm glad Lamiroir testified!{wait: 10}{b}
+What a great person.{nextpage_button}{person: 5 96 95}
+She even got Machi off the{b}
+hook by naming another{b}
+suspect!{nextpage_button}{person: 5 95 95}{name: 1024}{speed: 4}
+Daryan of the Gavinners{0x5a}...{wait: 18}{0x59}{b}{speed: 3}
+The detective.{p}
+I wonder if Machi knows what{b}
+happened?{nextpage_button}{person: 5 75 75}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}
+?{nextpage_button}{person: 5 75 75}{name: 1024}{speed: 3}
+I mean,{wait: 6} if he could follow how{b}
+the trial went at all.{p}{speed: 4}
+If no one told him there's a{b}
+new suspect,{wait: 6} how would he{b}
+know?{p}{showphoto: 83}{fademusic: 30}{sound: 74 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Hey...{nextpage_button}{person: 5 82 81}{name: 1280}{speed: 3}
+What is it,{wait: 12} Apollo?{nextpage_button}{person: 5 81 81}{name: 1024}{speed: 3}
+No{speed: 8}{0x5a}...{0x59}{speed: 3} It's nothing.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 790 790}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8960}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{removephoto}{0x51: 1 53}
+{24321}{1040}{0x10: 33119}{0x35: 24064 @RelativeAddress1}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress1}{0x23: 0}{music: 255 60}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{hidetextbox: 0}{speed: 4}So,{wait: 6} Machi{speed: 8}{0x5a}...{wait: 18}{b}{bgcolor: 2305 8 31}{speed: 3}{0x59}
+You can see,{wait: 12} right?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 790 790}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8960}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 4}
+Machi can see,{wait: 6} and Lamiroir{b}
+can't...{nextpage_button}{person: 5 68 67}{shake: 30 0}{speed: 3}
+The whole world's gone{b}
+topsy-turvy!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 790 790}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8960}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+Sorry,{wait: 6} Apollo.{wait: 10} {speed: 3}I don't think{b}
+we're going to get any{b}
+information out of Machi.{nextpage_button}{person: 5 68 67}{speed: 3}{0x5a}
+...{0x59}Which makes sense.{nextpage_button}{person: 5 67 67}{name: 1024}{speed: 4}{color: 2}
+(...Yeah,{wait: 8} I guess it does...){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 777 777}{0x10: 33120}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x51: 1 53}{36864}{removephoto}{jmp: 145}{endjmp}{endjmp}{0x4d: 39 1}{name: 8960}{person: 35 780 779}{speed: 4}{1884}{1873}{1874}{1882}{1878}{1877}{1885}{1883}{1873}{1876}{1883}{1877}{1881}{1882}{1885}{1875}{b}
+{1877}{1876}{1881}{1883}{1877}{1875}{speed: 8}{0x5a}{392}{392}{p}{name: 1280}{person: 35 779 779}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+I think he said{speed: 8}...{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 1280}{personvanish: 3 1}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+"I am sorry I cannot speak{b}
+your language.{wait: 18} You are very{b}
+beautiful, fair maiden."{p}{name: 1024}{person: 5 69 69}{speed: 4}
+...This is why I never trust{b}
+a translator.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 777 777}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{0x26: 0}{0x4d: 39 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}July 9{b}
+Detention Center{b}
+Visitor's Room{p}{hidetextbox: 1}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{name: 1280}{person: 5 76 75}{hidetextbox: 0}{speed: 3}
+Looks like Machi is in{b}
+questioning.{p}{name: 1024}{person: 5 75 75}{speed: 4}
+Huh,{wait: 6} the police must have{b}
+a Borginian interpreter.{p}{speed: 3}
+That's no fair.{wait: 16} I wish we{b}
+could talk to him.{p}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{speed: 3}
+I guess we'll just have to{b}
+come back later if we want{b}
+to see him.{p}{name: 1024}{person: 5 69 69}
+I guess so.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{0x10: 33116}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{person: 0 0 0}{name: 1024}{speed: 3}That security camera is{b}
+looking at me.{p}
+Does that thing just sit there{b}
+recording 24 hours a day?{p}{speed: 4}
+It must use one of those{b}
+ultra-long-play tapes.{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{person: 0 0 0}{name: 1024}A security guard.{wait: 16} He stands{b}
+here,{wait: 8} watching this room.{p}
+I think the guard is trying to{b}
+set a record for the longest{b}
+time without blinking.{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{0x26: 0}{0x4d: 39 1}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}July 9{b}
+Detention Center{b}
+Visitor's Room{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{0x10: 33168}{hidetextbox: 1}{personvanish: 3 1}{person: 35 777 777}{wait: 16}{hidetextbox: 0}{name: 1024}{person: 35 777 777}{speed: 4}
+Machi{0x5a}...{wait: 18}{0x59} {speed: 3}We came to talk to{b}
+you about the case.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 748 746}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}{wait: 8}
+Machi{wait: 8}{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 8960}{personvanish: 3 1}{person: 35 786 786}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+{1980}{wait: 12}{b}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{name: 1024}{person: 35 779 779}{speed: 4}
+Could you interpret for us,{wait: 10}{b}
+Lamiroir?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 762 760}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}{wait: 8}
+Yes.{wait: 8}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 1024}{personvanish: 3 1}{person: 35 777 777}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Machi...{wait: 10} I'd like to talk{b}
+to you about when we first{b}
+met.{p}{speed: 3}
+...{wait: 20}When we still thought you{b}
+were {color: 1}blind{color: 0}.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 762 760}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+{1881}{1880}{1876}{1872}{1886}{1879}{1873}{1882}{1885}{1874}{1884}{1887}{1888}{1878}{1875}{b}
+{1882}{1883}{1877}{speed: 8}{0x5a}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 8960}{personvanish: 3 1}{person: 35 779 779}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{name: 1024}{speed: 3}
+Now we know the{bgcolor: 2305 8 31} truth.{p}
+You can see,{wait: 8} right?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 1280}{personvanish: 3 1}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+I was completely fooled,{wait: 8}{b}
+myself.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 1024}{personvanish: 3 1}{person: 35 779 779}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Machi...{p}{bgcolor: 2305 8 31}{speed: 3}
+Isn't there another secret{b}
+you're hiding from us?{nextpage_button}{name: 8960}{person: 35 788 788}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 6}
+{392}{392}{392}{1980}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 764 763}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Wait,{wait: 10} Mr. Attorney!{nextpage_button}{person: 34 764 763}{0x5a}{wait: 30}{shake: 30 0}{0x59}{speed: 4}
+What do you mean by{wait: 6} "{color: 1}secret{color: 0}"?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 8960}{personvanish: 3 1}{person: 35 779 779}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 8}
+{392}{392}{392}{392}{392}{392}{nextpage_button}{endjmp}
+
+{{12}}
+{bop}{0x4d: 39 1}{name: 1024}{person: 35 779 779}{speed: 4}What do I mean by "{color: 1}secret{color: 0}"?{b}
+Well...{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{fademusic: 45}{name: 1024}{person: 35 779 779}{hidetextbox: 0}{speed: 4}Do you know what this is?{p}{name: 8960}{person: 35 790 790}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{b}{person: 35 780 779}{speed: 5}
+{1876}{1884}{1885}{1883}{1874}{1884}{1881}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 757 755}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Ah,{wait: 6} Mr. Attorney{speed: 8}{0x5a}...{p}{name: 1024}{person: 34 755 755}{speed: 3}
+I don't need a translation to{b}
+understand that.{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+I'd know that{wait: 6} "wrong evidence"{wait: 6}{b}
+look anywhere.{p}{name: 8704}{person: 34 762 760}{speed: 4}
+I'd imagine you would.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x23: 0}{music: 255 60}{0x4d: 39 1}{name: 1024}{personvanish: 3 1}{person: 35 779 779}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{shake: 30 0}{speed: 4}{color: 2}
+(Ugh,{wait: 8} let's try that again.){color: 0}{rejmp: 140}{endjmp}
+
+{{14}}
+{bop}{fademusic: 45}{0x4d: 39 1}{name: 1024}{person: 35 777 777}{hidetextbox: 0}{speed: 4}If I'm not mistaken{speed: 8}{0x5a}...{p}
+...{speed: 3}you know something about{b}{showphoto: 140}{bgcolor: 2305 8 31}{shake: 30 0}
+this,{wait: 6} don't you!?{b}{nextpage_button}{0x4d: 39 1}{name: 8960}{person: 35 789 789}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 3}
+{392}{392}{392}{1980}{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 1280}{personvanish: 3 1}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{sound: 51 1}{fademusic: 0}{music: 35 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Hey,{wait: 6} you got a reaction!{wait: 12}{b}{shake: 30 0}
+A big one!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 764 763}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Machi,{wait: 6} you didn't{0x5a}...!{wait: 18}{0x59}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 1024}{personvanish: 3 1}{person: 35 784 784}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}{0x5a}
+...{0x59}Trucy and I are trained to{b}
+see people's uncertainty.{p}{speed: 4}
+Not that we would have needed{b}
+any training to see that one.{nextpage_button}{0x4d: 39 1}{name: 8960}{person: 35 784 784}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 764 763}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Mr. Attorney,{wait: 12} please tell me{b}
+what this is all about!{wait: 10}{nextpage_nobutton}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{0x5a}{speed: 2}
+Lamiroir,{wait: 6} please,{wait: 6} interpret!{nextpage_button}{name: 8704}{person: 34 762 760}{speed: 8}{0x5a}
+...{wait: 8}{0x59}{wait: 8}{speed: 5}Very well.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 1024}{personvanish: 3 1}{person: 35 779 779}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+I know you know something{b}
+about this by your reaction.{p}
+If you won't tell me,{wait: 6} I might{b}
+have to give it to the{b}
+prosecution{speed: 8}...{p}{bgcolor: 2305 8 31}{shake: 30 0}
+...{wait: 6}{speed: 3}and have them look into it!{nextpage_button}{0x4d: 39 1}{name: 8960}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{person: 35 789 789}{speed: 3}
+{1980}{p}{person: 35 784 784}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{b}{person: 35 785 784}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+{1882}{1879}{1883}{1874}{1877}{1884}{1881}{1980}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 762 760}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+He asks you to{wait: 6}{bgcolor: 2305 8 31} "wait,{wait: 6} do not{b}
+be so hasty."{nextpage_button}{name: 1280}{person: 5 82 81}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+M-{wait: 12}Machi{speed: 8}{0x5a}...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 8960}{personvanish: 3 1}{person: 35 779 779}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{b}{person: 35 778 777}{bgcolor: 2305 8 31}{speed: 5}{wait: 18}
+{1873}{1887}{0x5a}{392}{392}{wait: 18}{0x59}{speed: 4}{1883}{1876}{1884}{1885}{1883}{1884}{1885}{1982}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 762 760}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+"Do you know everything?"{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 1024}{personvanish: 3 1}{person: 35 777 777}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+...{wait: 10}Yes,{wait: 6} everything.{wait: 10}{b}{speed: 3}
+Well,{wait: 10} sort of.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 1280}{personvanish: 3 1}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Have him tell us about it!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 8960}{personvanish: 3 1}{person: 35 780 779}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{fademusic: 120}{speed: 5}{0x5a}
+{392}{392}{0x59}{1881}{1886}{1872}{1882}{1883}{1880}{1878}{1884}{speed: 8}{0x5a}{392}{392}{0x59}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 762 760}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+"Very well"{speed: 8}...{nextpage_button}{fademusic: 0}{music: 33 0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 777 777}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 1024}{personvanish: 3 1}{person: 35 777 777}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}If Machi really did bring one{b}
+into the country...{p}{speed: 4}
+...was he planning on {color: 1}making a{b}
+deal{color: 0} for its sale?{nextpage_button}{0x4d: 39 1}{name: 8960}{person: 35 785 784}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+{1885}{1877}{1883}{1881}{1882}{1877}{1875}{speed: 8}{0x5a}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 762 760}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{speed: 4}
+"I can't go home"{speed: 8}{0x5a}...{p}{name: 1280}{person: 5 82 81}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Can't go home!?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 8960}{personvanish: 3 1}{person: 35 785 784}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}{0x5a}
+{392}{392}{0x59}{shake: 30 0}{1882}{1880}{1878}{1881}{1877}{1875}{0x5a}{392}{392}{wait: 18}{0x59}{shake: 30 0}{1881}{1886}{1872}{1882}{0x5a}{b}
+{392}{392}{wait: 18}{0x59}{shake: 30 0}{1877}{1873}{1874}{1882}{1881}{1877}{1875}{speed: 8}{0x5a}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 762 760}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+"I can't go{shake: 30 0} home to {shake: 30 0}Borginia.{wait: 16}{b}
+I do not want to go{shake: 30 0} home."{nextpage_button}{name: 8704}{person: 34 762 760}{bgcolor: 2305 8 31}{speed: 4}
+The penalty for taking a{b}
+cocoon from Borginia{speed: 8}{0x5a}...{wait: 18}{b}{0x59}
+is death.{nextpage_button}{0x4d: 39 1}{name: 1024}{person: 35 784 784}{shake: 30 0}{speed: 4}{color: 2}
+(That's right! It's punishable{b}
+by death!){color: 0}{nextpage_button}{0x4d: 39 1}{name: 8960}{person: 35 785 784}{speed: 6}
+{1882}{1877}{1875}{1880}{wait: 8}{speed: 8}{0x5a}{392}{392}{392}{392}{nextpage_button}{0x4d: 39 0}{name: 8704}{person: 34 767 766}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+"About the case{speed: 8}{0x5a}..."?{wait: 18}{0x59}{b}{shake: 30 0}{speed: 3}
+What about the case?{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}{color: 2}
+(He wants to tell us about{b}{shake: 30 0}
+Mr. LeTouse's death!?){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 8960}{personvanish: 3 1}{person: 35 785 784}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+{1873}{1874}{1881}{1886}{1882}{1987}{wait: 6}{1881}{1882}{1877}{speed: 8}{0x5a}{392}{392}{wait: 30}{nextpage_nobutton}{person: 35 784 784}{name: 512}{sound: 26 1}{fademusic: 45}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+This meeting's over.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{wait: 60}{0x4d: 39 0}{personvanish: 3 4}{person: 37 815 815}{wait: 64}{wait: 80}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 18 0}{hidetextbox: 0}{speed: 3}{0x5a}
+...{wait: 18}{0x59}Daryan?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 37 815 815}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 3}
+Wh-{wait: 8}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}What do you mean?{wait: 12} Visiting{b}{shake: 30 0}
+hours aren't over yet.{nextpage_button}{person: 37 818 817}{name: 9472}{speed: 4}
+There's a call for Machi{b}
+from the Borginian Embassy.{nextpage_button}{person: 37 816 815}{speed: 3}
+This meeting is over.{wait: 12}{b}{0x5a}
+...{wait: 18}{0x59}Sorry.{nextpage_button}{person: 37 815 815}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Just give us five more{b}
+minutes.{wait: 10} We can call them{b}
+back after that.{nextpage_button}{person: 37 818 817}{name: 9472}{speed: 3}
+Sorry,{wait: 8} no go.{wait: 12} C'mon,{wait: 8}{b}
+piano-boy.{wait: 12} We're leaving.{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Daryan!{wait: 12} {speed: 2}{shake: 30 0}Wait!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 37 816 815}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 9472}{speed: 4}{0x5a}
+...{wait: 20}{bgcolor: 2305 8 31}{0x59}I never liked you. Either{b}
+of you.{nextpage_button}{person: 37 815 815}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}
+Huh{speed: 8}{0x5a}...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 4}{wait: 64}{person: 0 0 0}{wait: 100}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{hidetextbox: 0}{speed: 3}
+Darn it!{wait: 12} We were so close!{wait: 12}{b}{shake: 30 0}
+He was about to tell us!{nextpage_button}{person: 5 68 67}{speed: 3}
+Hey,{wait: 6} Apollo...{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(He didn't want us to hear{b}
+what Machi had to say{speed: 8}...){color: 0}{nextpage_button}{person: 5 96 95}{name: 1280}{shake: 30 0}{speed: 3}
+Apollo!{nextpage_button}{person: 5 95 95}{name: 1024}{speed: 8}{color: 2}
+(...{wait: 10}{speed: 4}And there can be only one{b}
+reason why.){color: 0}{nextpage_button}{person: 5 93 92}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 4}
+Why is everyone ignoring me!?{nextpage_button}{person: 5 92 92}{name: 1024}{bgcolor: 2305 8 31}{person: 5 95 95}{speed: 3}
+Oh,{wait: 10} sorry!{wait: 16}{b}{speed: 4}{color: 2}
+(This is it{speed: 8}...){nextpage_button}{speed: 4}
+(I know {color: 1}who{color: 2} I'm after now.){p}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+(It all happens tomorrow...{b}
+in court!){color: 0}{nextpage_button}{0x10: 33117}{hidetextbox: 1}{wait: 40}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{hidetextbox: 0}{0x48: 128 142}{speed: 0}{soundtoggle: 0}{b}{b}
+To be continued.{bgcolor: 260 1 31}{wait: 25}{wait: 160}{fademusic: 120}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{savegame}{bop}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{0x4d: 39 0}{name: 1280}{person: 5 76 75}{showphoto: 140}{hidetextbox: 0}{speed: 4}What is this cocoon,{wait: 6} anyway?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{bganim: 98 579}{0x4d: 39 1}{name: 8960}{personvanish: 3 1}{person: 35 778 777}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+{1873}{1883}{1875}{1877}{1881}{1883}{speed: 8}{0x5a}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 748 746}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+"The cocoon,{wait: 6} the silk,{wait: 6} is a{b}
+potent cure."{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+A cure{speed: 8}{0x5a}...?{nextpage_button}{name: 1024}{person: 5 75 75}{speed: 3}
+It must cure some disease.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 8960}{personvanish: 3 1}{person: 35 780 779}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+{1876}{1877}{1885}{1874}{1882}{1873}{1884}{1878}{1882}{1885}{speed: 8}{0x5a}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 762 760}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{speed: 4}
+It's a cure for{wait: 4} "{color: 1}Incuritis{color: 0}".{nextpage_button}{name: 1024}{person: 34 760 760}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+A cure for Incuritis?{nextpage_button}{0x19: 16525 16526}{name: 0}{color: 2}{speed: 4}
+Replica updated in the Court{b}
+Record.{nextpage_button}{speed: 255}{color: 0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+But,{wait: 12} if it's a cure,{wait: 6} {shake: 30 0}why keep{b}
+it in Borginia like that?{p}{speed: 3}
+Just think of all the lives{b}
+they could save by sharing{b}
+the medicine!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 8960}{personvanish: 3 1}{person: 35 779 779}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 762 760}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+I do not understand the{b}
+reasons myself.{nextpage_button}{name: 1024}{person: 34 760 760}{speed: 3}
+OK,{wait: 8} well,{wait: 8} at least we know{b}
+what it is:{wait: 6}{bgcolor: 2305 8 31} {color: 1}a cure{color: 0}{wait: 6}.{p}{speed: 3}
+And Mr. LeTouse was after{b}
+cocoon {bgcolor: 2305 8 31}{color: 1}smugglers{color: 0}.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 779 779}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Wait,{wait: 8} was Machi{0x5a}...{0x59}?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 762 760}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{shake: 30 0}{speed: 4}
+Machi,{wait: 8} {shake: 30 0}you weren't{0x5a}{speed: 8}...!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{name: 1280}{personvanish: 3 1}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+He couldn't be a smuggler!{wait_noanim: 16}{b}{person: 5 96 95}{shake: 30 0}
+He's so little!{nextpage_button}{name: 1024}{person: 5 95 95}
+Well,{wait: 6} you're only 15,{wait: 10} and{b}
+you're sort of a magician,{wait: 8}{b}
+aren't you?{nextpage_button}{name: 1280}{person: 5 76 75}{speed: 4}
+Well,{wait: 8} that's true.{wait: 16} I am sort{b}
+of a magician.{nextpage_button}{name: 1024}{person: 5 75 75}{speed: 4}{color: 2}
+(She said "sort of"!{wait: 16} Oh,{wait: 8} to{b}
+have a copy of that security{b}
+camera tape...){color: 0}{nextpage_button}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Well,{wait: 12} Machi?{wait: 16}{b}{speed: 4}
+Are you{0x5a}...{0x59}{wait: 8} a smuggler?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 8960}{personvanish: 3 1}{person: 35 778 777}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+{1877}{1876}{1881}{1883}{1877}{1875}{speed: 8}{0x5a}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 748 746}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{shake: 30 0}{0x59}{speed: 4}
+{1873}{1887}{1874}{1881}{1882}{1875}{wait: 6}{shake: 30 0}{1876}{1880}{1879}{1872}{1883}{1887}{1880}{1884}{1885}{1980}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{name: 8960}{personvanish: 3 1}{person: 35 779 779}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 8}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{person: 34 762 760}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 4}
+He...{wait: 8} won't tell me.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+First he plays blind,{wait: 8} now{b}
+he plays dumb{0x5a}...{0x59}{nextpage_button}{name: 1024}{person: 5 75 75}{speed: 4}
+I wonder{speed: 8}{0x5a}...{nextpage_button}{person: 5 75 75}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Do you think he{wait: 4} brought a{b}
+cocoon here {color: 1}to sell it{color: 0} to{b}
+someone?{nextpage_button}{jmp: 143}{endjmp}{endjmp}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{0x4d: 39 1}{name: 8960}{person: 35 779 779}{speed: 8}{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 8704}{personvanish: 3 1}{person: 34 762 760}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Machi,{wait: 6} he is upset he could{b}
+not speak with you.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 1280}{personvanish: 3 1}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Well, let's hear him out{b}
+before he gets grumpy,{wait: 8} Apollo!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 35 777 777}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}

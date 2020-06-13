@@ -1,0 +1,318 @@
+
+
+{{0}}
+{bop}{0x25: 1}{0x6b: 1 0 31}{bganim: 98 626}{0x6b: 3 0 0}{bganim: 98 625}{wait: 1}{0x6b: 4 1 31}{bganim: 98 627}{bganim: 0 8192}{0x26: 1}{bg: 4095}{wait: 30}{0x62: 4 3}{0x30: 255}{person: 0 0 0}{speed: 5}{hidetextbox: 0}{name: 0}{center_text: 1}{bgcolor: 2305 8 31}{speed: 3}...Showdown time.{wait: 40}{fademusic: 0}{music: 11 0}{wait: 40}{nextpage_nobutton}{center_text: 0}{hidetextbox: 1}{bganim: 284 0}{bganim: 283 0}{0x75}{sound: 0 0}{bop}{wait: 40}{bgcolor: 514 1 31}{wait: 15}{0x75}{b}{p}{bop}{bop}{bg: 4095}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{name: 0}{speed: 10}
+I...{wait: 30} {speed: 7}I lost.{wait: 80}{nextpage_nobutton}{name: 0}{speed: 7}
+It's only a game of poker.{wait: 80}{nextpage_nobutton}{name: 0}{speed: 7}
+A game I've played for a long{b}
+time{speed: 10}...{wait: 30} {speed: 7}and only lost twice.{wait: 100}{nextpage_nobutton}{name: 0}{speed: 10}
+...{speed: 7}Who was the first?{wait: 80}{nextpage_nobutton}{name: 0}
+The man I "killed"{speed: 10}...{speed: 7} of{b}
+course.{wait: 80}{nextpage_nobutton}{name: 0}{speed: 10}
+......{wait: 10}{bgcolor: 513 0 8}{wait: 1}{bg: 167}{person: 0 0 0}{bgcolor: 260 1 8}{wait: 25}{wait: 40}{nextpage_nobutton}{fademusic: 0}{music: 0 0}{name: 0}{bgcolor: 2305 8 31}{speed: 3}
+...Well.{wait: 100}{nextpage_nobutton}{fademusic: 0}{music: 29 0}{speed: 5}
+It seems I've found the{b}
+partner I've been looking{b}
+for all along.{wait: 100}{nextpage_nobutton}{name: 0}{speed: 4}
+...{wait: 16}Over a game of cards?{wait: 80}{nextpage_nobutton}{name: 0}{speed: 6}
+Why,{wait: 8} yes.{wait: 40}{b}{speed: 5}
+Over a game of cards.{wait: 120}{nextpage_nobutton}{hidetextbox: 1}{wait: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{name: 1792}{hidetextbox: 0}{speed: 3}
+That was how we first met.{wait: 100}{nextpage_nobutton}
+...Seven years ago.{wait: 120}{nextpage_nobutton}{hidetextbox: 1}{wait: 60}{speed: 255}{bgcolor: 513 0 31}{wait: 1}{hidetextbox: 0}{0x48: 0 80}{name: 0}{center_text: 1}{color: 2}{speed: 1}
+ -- Seven Years Earlier --{b}
+ Phoenix Wright's Final Trial{color: 0}{bgcolor: 260 1 31}{wait: 25}{wait: 200}{fademusic: 120}{bgcolor: 516 1 31}{wait: 25}{nextpage_nobutton}{center_text: 0}{0x48: 65535 0}{hidetextbox: 1}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{bganim: 0 4096}{wait: 30}{newevidence: 207}{newevidence: 32941}{newevidence: 208}{newevidence: 209}{endjmp}
+
+{{1}}
+{bop}{0x26: 0}{bg: 257}{person: 0 0 0}{name: 0}{bgcolor: 260 1 31}{wait: 25}{0x74: 2 0}{center_text: 1}{wait: 30}{speed: 10}{0x30: 2}{hidetextbox: 0}{color: 3}April 19, 9:27 AM{b}
+District Court{b}
+Defendant Lobby No. 2{nextpage_button}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{fademusic: 0}{music: 45 0}{name: 1792}{color: 2}{speed: 5}
+(Whew,{wait: 8} OK.{wait: 30} {speed: 3}It's been a long{b}
+time since I've felt like{b}
+such a rookie.){p}
+(Got to try and relax.){color: 0}{nextpage_button}{hidetextbox: 1}{wait: 12}{personvanish: 3 2}{person: 31 704 704}{wait: 32}{name: 1792}{hidetextbox: 0}{bgcolor: 2305 8 31}
+Ah,{wait: 10} good morning,{wait: 10} Mr. Enigmar.{nextpage_button}{person: 31 705 704}{name: 12288}{speed: 4}
+I'm...{wait: 16} sorry to have sprung{b}
+this on you so suddenly.{nextpage_button}{person: 31 704 704}{name: 1792}
+I received the files from{b}
+your previous attorney only{b}
+yesterday.{p}
+Honestly,{wait: 10} I'm not entirely{b}
+sure I'm prepared.{nextpage_button}{person: 31 705 704}{name: 12288}{speed: 4}
+...{wait: 16}I understand I am asking{b}
+the impossible of you.{nextpage_button}{person: 31 704 704}{name: 1792}{speed: 3}
+Yes,{wait: 10} well,{wait: 10} you haven't really{b}
+told me what happened yet!{p}
+All we did...{wait: 20} was {sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}play cards.{nextpage_button}{person: 31 705 704}{name: 12288}
+And that was enough.{nextpage_button}{person: 31 704 704}{name: 1792}{color: 2}{shake: 30 0}
+(Actually,{wait: 10} it wasn't.{wait: 20}{b}
+Trust me.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 27 607 607}{personvanish: 3 4}{wait: 64}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 80}{person: 27 614 613}{name: 768}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+Ooh!{wait: 16} Morning,{wait: 12} Daddy!{fademusic: 0}{music: 16 0}{nextpage_button}{person: 31 712 711}{name: 12288}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Ah,{wait: 10} I'm so glad you came.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 612 611}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 768}
+You OK,{wait: 10} Daddy?{wait: 20} {speed: 3}They picking{b}
+on you?{nextpage_button}{person: 31 710 710}{name: 12288}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha.{wait: 30}{b}{person: 31 712 711}
+I am fine,{wait: 12} as always.{p}
+This old boy is here to{b}
+help me,{wait: 8} after all.{nextpage_button}{person: 31 704 704}{name: 1792}{color: 2}
+(That's{speed: 6} "young man" to you.){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 27 607 607}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Good morning.{wait: 30} That's a cute{b}
+outfit you have on.{nextpage_button}{person: 27 614 613}{name: 768}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Thanks!{wait: 20} {speed: 3}My first show's today,{wait: 12}{b}
+after all!{nextpage_button}{person: 27 613 613}{name: 1792}{speed: 5}
+Oh,{wait: 16} {speed: 3}I'm sure it is!{wait: 20}{b}{color: 2}
+(What the heck is she talking{b}
+about?){color: 0}{nextpage_button}{person: 27 608 607}{name: 768}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Oh{0x5a}...{wait: 20} {0x59}{speed: 3}Old boy!{nextpage_button}{person: 27 607 607}{name: 1792}
+Huh?{wait: 10} Me?{wait: 20}{b}{color: 2}
+(Look what he's started.){color: 0}{nextpage_button}{person: 27 608 607}{name: 768}
+Um,{wait: 10} uh{speed: 8}{0x5a}...{wait: 16}{speed: 3}{b}{showphoto: 211}{0x59}{wait: 10}
+Here.{nextpage_button}{hidetextbox: 1}{wait: 20}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 197}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{wait: 60}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 6}
+What's this...?{nextpage_button}{bg: 257}{person: 5 612 611}{name: 768}{showphoto: 211}{speed: 3}
+I dunno!{wait: 14} I just got it over{b}
+there in the hall.{p}{person: 27 608 607}
+They told me to give it to the{wait: 6}{b}
+"old boy in the blue suit with{b}
+the spiky hair".{p}{person: 27 614 613}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+They said it was really{b}
+important!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 31 707 706}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 12288}{speed: 4}
+...What's this?{wait: 20}{b}{speed: 3}
+A memo for you or some such?{nextpage_button}{name: 1792}
+Hmm{speed: 8}...{wait: 30} {speed: 3}Not from the looks{b}
+of it.{p}{person: 31 708 708}{speed: 5}{color: 2}
+(What is this?{wait: 20} {speed: 4}Looks like a{b}
+page from someone's diary.){p}{color: 0}{speed: 3}
+I'll give it a read later.{nextpage_button}{bganim: 98 579}{fademusic: 60}{newevidence: 16595}{name: 0}{speed: 4}{color: 2}
+Notebook Page added to the{b}
+Court Record.{nextpage_button}{speed: 255}{color: 0}{person: 31 707 706}{name: 12288}{fademusic: 0}{music: 45 120}{speed: 4}
+Well,{wait: 16} {speed: 3}how do you feel about{b}
+the trial today?{b}{nextpage_button}{name: 1792}
+We'll get through it.{wait: 20}{b}
+Somehow.{nextpage_button}
+Incidentally{speed: 8}...{wait: 20} {speed: 3}the prosecutor{b}
+today is a new guy,{wait: 16} I hear.{nextpage_button}{person: 31 704 704}{name: 12288}{bgcolor: 2305 8 31}
+Ah{speed: 6}...{wait: 30}{b}{person: 31 705 704}{speed: 4}
+An easy win,{wait: 6} then,{wait: 6} yes?{nextpage_button}{name: 1792}{speed: 3}
+They're calling him a "true{b}
+thoroughbred in the history{b}
+of the prosecutor's office".{p}{person: 31 708 708}{speed: 3}
+...{wait: 20}Of course,{wait: 10} there's one of{b}
+those every year.{nextpage_button}{person: 31 709 708}{name: 12288}{speed: 4}
+...{wait: 14}The switching of attorneys{b}
+just before the trial...{p}{speed: 3}
+...I know it is a difficult{b}
+situation I put you in.{p}
+But{speed: 6}...{wait: 30}{person: 31 707 706}{speed: 3} allow me to say one{b}
+thing,{wait: 10} Mr. Wright.{nextpage_button}{name: 1792}
+...Yes?{nextpage_button}{person: 31 707 706}{name: 12288}
+They will not be able to{b}
+pronounce me guilty today.{nextpage_button}{person: 31 705 704}
+So,{wait: 10} do your best,{wait: 10} but do{b}
+not worry.{nextpage_button}{person: 31 704 704}{name: 1792}{color: 2}
+(First time a defendant's ever{b}
+given me a pep speech...){color: 0}{p}
+I'll do what I can.{nextpage_button}{person: 31 710 710}{name: 12288}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha.{wait: 30}{b}{person: 31 712 711}{speed: 4}
+I see you do not understand.{p}{speed: 3}
+You see,{wait: 10} it will be {person: 31 705 704}{sound: 52 1}{bgcolor: 2305 8 31}{color: 1}impossible{color: 0}{b}
+for them to declare a verdict.{nextpage_button}{person: 31 711 711}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+I-{wait: 20}Impossible?{nextpage_button}{person: 31 709 708}{name: 12288}
+Yes.{wait: 30}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0} Isn't that right,{wait: 10} Trucy?{nextpage_button}{newevidence: 32927}{person: 27 614 613}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Yup!{wait: 20} You bet,{wait: 10} Daddy.{nextpage_button}{person: 27 613 613}{name: 1792}{speed: 4}{color: 2}
+(My first look at the case{b}
+was only yesterday.){p}
+(And the information I was{b}
+given was a tad bit lacking,{wait: 10}{b}
+to be honest.){p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 31 711 711}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+(Still,{wait: 10} I'll do what I can.{wait: 20}{b}
+...{speed: 4}For their sake.){color: 0}{nextpage_button}{person: 31 709 708}{name: 12288}
+I believe the curtains will{b}
+be lifting any time now.{nextpage_button}{person: 31 710 710}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+I am in your capable hands,{wait: 10}{b}
+Mr. Wright.{nextpage_button}{hidetextbox: 1}{bgcolor: 516 1 8}{wait: 25}{bg: 4095}{bgcolor: 257 0 8}{wait: 1}{name: 1792}{hidetextbox: 0}
+My client is Shadi Enigmar.{nextpage_button}{person: 31 704 704}
+Known to the world as{wait: 6} {color: 1}Zak{b}
+Gramarye{color: 0}.{p}
+A wildly popular magician,{wait: 16}{b}
+star of Troupe Gramarye.{p}
+His mentor,{wait: 10} {color: 1}Magnifi Gramarye{color: 0},{wait: 10}{b}
+was a rare breed of magician.{p}{person: 31 708 708}
+He single-{wait: 10}handedly ushered in{b}
+a golden age of stage magic{speed: 8}...{wait: 25}{b}{speed: 3}
+until he was shot dead.{p}
+And Zak Gramarye is the{b}{color: 1}
+suspect{color: 0}.{p}{hidetextbox: 1}{wait: 40}{fademusic: 60}{bgcolor: 514 1 31}{wait: 15}{endjmp}
+
+{{2}}
+{bop}{0x26: 0}{person: 0 0 0}{bg: 4095}{bgcolor: 258 1 31}{wait: 15}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}April 19, 10:00 AM{b}
+District Court{b}
+Courtroom No. 7{nextpage_button}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{bg: 31}{person: 0 0 0}{animation: 69 1}{animation: 70 1}{animation: 71 1}{animation: 73 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{fademusic: 0}{music: 46 0}{bg: 36}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Court is now in session for{b}
+the trial of Shadi Enigmar.{nextpage_button}{bg: 32}{person: 21 468 467}{name: 1792}
+The defense is ready,{wait: 12} Your{b}
+Honor.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 514}{wait: 32}{person: 23 514 514}{name: 512}{hidetextbox: 0}{speed: 8}
+......{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{speed: 3}
+Is the prosecution ready?{nextpage_button}{bg: 33}{person: 23 515 514}{name: 512}{0x59}{speed: 5}
+I was just thinking,{wait: 20} {person: 23 510 509}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}is this{b}
+what all the fuss is about?{p}
+Bit of a buzz-kill,{wait: 10} really.{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{bgcolor: 2305 8 31}{speed: 5}
+"Buzz-kill"...? Is this some{b}
+new kind of crime?{nextpage_button}{bg: 33}{person: 23 510 509}{name: 512}{speed: 4}
+One of the worst.{wait: 12}{b}
+This is a trial,{wait: 10} ja?{p}{person: 23 515 514}
+Where are the sweaty palms?{wait: 20}{b}
+The pounding hearts?{nextpage_button}{person: 23 513 512}{speed: 3}
+A Gavinners concert's{b}
+got ten times the thrill{b}
+this gig's got.{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{0x5a}{speed: 6}
+Who...{wait: 23} {0x59}{speed: 4}were you,{wait: 10} again?{nextpage_button}{bg: 33}{person: 23 510 509}{name: 13568}
+Klavier.{wait: 16} Klavier Gavin.{nextpage_button}{person: 23 513 512}{speed: 3}
+I came...{wait: 16} to get the party{b}
+started.{wait: 16} Legally,{wait: 10} ja?{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Gavin?{wait: 12} Defense Attorney{b}
+Kristoph Gavin's...?{nextpage_button}{bg: 33}{person: 23 515 514}{name: 13568}{speed: 3}{wait: 8}
+Ah,{wait: 10} figures my bro's more{b}
+famous in this part of town.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 467}{wait: 32}{person: 21 467 467}{name: 1792}{hidetextbox: 0}{color: 2}
+(Klavier Gavin{speed: 8}...){p}{speed: 3}
+(Lead singer for the megahit{b}
+band,{wait: 10} the Gavinners.){nextpage_button}{person: 21 469 469}{speed: 3}
+(You're out of your league,{wait: 25}{b}
+rock-boy.){nextpage_button}{color: 0}{newevidence: 32929}{hidetextbox: 1}{swoosh: 1 1 6 514}{wait: 32}{person: 23 515 514}{name: 13568}{hidetextbox: 0}{speed: 4}
+I know what you're thinking:{b}
+"You're out of your league,{wait: 6}{b}
+rock-boy."{nextpage_button}{bg: 32}{person: 21 467 467}{name: 1792}{speed: 5}
+......{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 509}{wait: 32}{name: 13568}{person: 23 510 509}{hidetextbox: 0}
+True,{wait: 10} my debut single,{b}
+"13 Years Hard Time for Love",{b}
+went platinum overnight...{p}{person: 23 513 512}{speed: 3}
+...{wait: 16}but that's just a hobby{b}
+to me compared to this,{wait: 12} ja?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 467}{wait: 32}{person: 21 468 467}{name: 1792}{hidetextbox: 0}{speed: 4}
+...Talkative,{wait: 8} aren't you?{wait: 20}{b}
+I like your affected{b}
+Euro-rock accent,{wait: 8} by the way.{nextpage_button}{bg: 33}{person: 23 513 512}{name: 13568}{speed: 5}
+I'm just getting warmed up,{wait_noanim: 30}{b}{person: 23 510 509}
+Herr Attorney Wright.{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 36}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+Perhaps you would be so kind{b}
+as to fill us in on the case?{nextpage_button}{bg: 33}{person: 23 513 512}{name: 13568}
+...Achtung, baby.{wait: 20}{b}
+Time to call on the opening{b}
+act.{nextpage_button}{person: 23 515 514}
+...What was his name again?{wait: 45}{b}{shake: 30 0}
+Ah yes{speed: 8}...{speed: 3} Detective Gumshoe!{wait: 30}{b}{person: 23 510 509}
+Hit it!{nextpage_button}{hidetextbox: 1}{wait: 30}{bgcolor: 516 1 31}{wait: 25}{endjmp}
+
+{{3}}
+{bop}{bg: 34}{person: 22 491 491}{bgcolor: 258 1 31}{wait: 15}{wait: 60}{fademusic: 0}{music: 46 0}{hidetextbox: 1}{swoosh: 2 1 23 509}{wait: 32}{person: 23 510 509}{name: 13568}{0x5a}{hidetextbox: 0}{speed: 5}...{wait: 30}{speed: 3}{0x59}And you are?{nextpage_button}{bg: 34}{person: 22 504 503}{name: 5632}{speed: 4}
+Hey,{wait: 8} you were the one who{b}
+called me up here... sir.{nextpage_button}{person: 22 492 491}{speed: 3}
+Name's Dick Gumshoe.{p}
+I'm a homicide detective{b}
+down at the precinct.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 467}{wait: 32}{person: 21 467 467}{name: 1792}{hidetextbox: 0}{color: 2}
+(Detective Gumshoe{speed: 8}...{wait: 12} {speed: 3}Long{b}
+time no see.){nextpage_button}{color: 0}{newevidence: 32952}{bg: 34}{person: 22 502 501}{name: 5632}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Hey,{wait: 10} you!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 467}{wait: 32}{person: 21 468 467}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}
+H-{wait: 12}Huh?{wait: 16} {speed: 3}Me?{nextpage_button}{bg: 34}{person: 22 492 491}{name: 5632}
+Today's the day,{wait: 8} pal.{nextpage_button}{person: 22 506 505}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Today,{wait: 6} I win,{wait: 6} and you lose!{p}{speed: 3}
+I got confidence in my{b}
+testimony today,{wait: 20}{person: 22 502 501}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{bgcolor: 2305 8 31}{shake: 30 0} see.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 481}{wait: 32}{person: 21 481 481}{name: 1792}{hidetextbox: 0}{speed: 4}{color: 2}
+(What,{wait: 8} you normally lack{b}
+confidence in your{b}
+testimony...?){color: 0}{nextpage_button}{bg: 33}{person: 23 515 514}{name: 13568}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 16}{speed: 3}Herr Detective,{wait: 8} this is my{b}
+stage.{wait: 16} Can the antics.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 22 493}{wait: 32}{person: 22 494 493}{name: 5632}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+Huh...?{nextpage_button}{bg: 33}{person: 23 515 514}{name: 13568}
+All this{wait: 6} "hey you"-ing and{b}
+such.{p}{person: 23 510 509}{speed: 3}
+And I could care less about{b}
+your history together.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 22 503}{wait: 32}{person: 22 503 503}{name: 5632}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+Urk.{nextpage_button}{fademusic: 45}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 36}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+...Very well,{wait: 12} Detective{b}
+Gumshoe,{wait: 12} if you would.{p}{person: 10 263 262}
+Please tell us about the{b}
+case at hand.{nextpage_button}{fademusic: 0}{music: 49 0}{bg: 34}{person: 22 506 505}{name: 5632}
+It happened six days back,{wait: 10}{b}
+in a room at the General{b}
+Hospital!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{person: 0 0 0}{bg: 152}{bgcolor: 258 1 31}{wait: 15}{wait: 30}{hidetextbox: 0}{speed: 3}
+The facts are as simple as{b}
+they come.{wait: 16} Here's the crime{b}
+scene.{nextpage_button}
+The victim was a patient,{wait: 10}{b}
+asleep in a hospital bed.{nextpage_button}
+The killer comes in,{wait: 8} puts a{b}
+pistol to his forehead,{wait: 8} and{b}
+bam.{wait: 16} Lights out.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 34}{person: 22 493 493}{bgcolor: 258 1 31}{wait: 15}{name: 5632}{person: 22 496 495}{hidetextbox: 0}
+...Them's the facts.{nextpage_button}{hidetextbox: 1}{fademusic: 60}{bgcolor: 514 1 31}{wait: 15}{bg: 36}{person: 10 266 266}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{speed: 6}
+Hmm...{nextpage_button}{person: 10 259 258}{speed: 3}
+Not so long ago,{wait: 10} the victim,{b}
+Magnifi Gramarye was a famous{b}
+man.{p}{hidetextbox: 1}{person: 0 0 0}{bg: 177}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 40}{hidetextbox: 0}{speed: 3}
+He had the entire country{b}
+under his "magical spell",{b}
+as it were.{nextpage_button}{name: 13568}{speed: 4}
+Ah yes,{wait: 10} the great magician.{wait: 30}{b}
+He retired years ago,{wait: 10} though.{nextpage_button}{bg: 33}{person: 23 513 512}{speed: 3}
+Say the name{wait: 8} "Magnifi" to one{b}
+of my generation... and you'd{b}
+be lucky to get a blank stare.{nextpage_button}{bg: 36}{person: 10 260 260}{name: 2560}
+Yes, {0x63}{person: 10 259 258}though I'm sure the{b}
+youngsters today know his{b}
+disciples even better.{p}{person: 10 265 264}
+I daresay {color: 1}Troupe Gramarye{color: 0}{b}
+has made quite a name for{b}
+themselves.{nextpage_button}{bg: 34}{person: 22 492 491}{name: 5632}
+Anyhow,{wait: 10} the retired Magnifi's{b}
+been in the hospital for the{b}
+last year.{nextpage_button}{person: 22 494 493}
+Hmm,{wait: 10} what was it?{p}{showphoto: 210}{speed: 6}
+A mall-{wait: 8}{shake: 30 0}ignorant tutor or{b}
+something.{p}{0x59}
+Doing something{shake: 30 0} to his{wait: 30}{b}
+liver,{shake: 30 0}{wait: 10} I think.{wait: 20} Yeah.{0x59}{nextpage_button}{bganim: 98 579}{bg: 36}{person: 10 265 264}{name: 2560}{speed: 3}
+A "malignant tumor", perhaps?{nextpage_button}{bg: 33}{person: 23 510 509}{name: 13568}
+In other words,{wait: 12} {speed: 3}he had{b}{color: 1}
+liver cancer{color: 0}.{p}{person: 23 515 514}
+He had only three months{b}
+left to live,{wait: 10} in fact.{nextpage_button}{newevidence: 16594}{name: 0}{speed: 3}{color: 2}
+Magnifi's Chart added to the{b}
+Court Record.{b}{speed: 255}{color: 0}{fademusic: 0}{music: 45 0}{nextpage_button}{bg: 36}{person: 10 266 266}{name: 2560}{speed: 6}
+Hmm...{nextpage_button}{person: 10 259 258}{speed: 3}
+The facts do seem simple{b}
+enough.{p}{person: 10 265 264}{sound: 52 1}{bgcolor: 2305 8 31}
+But... something's not right.{nextpage_button}{bg: 33}{person: 23 510 509}{name: 13568}{speed: 4}
+...{wait: 10}The victim was already{b}
+climbing a three-month{b}
+stairway to heaven.{nextpage_button}{person: 23 515 514}
+...{wait: 12}Why not wait for him to{b}
+knock-knock-knock on heaven's{b}
+door?{wait: 16} Why {color: 1}shoot{color: 0} him?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 469}{wait: 32}{person: 21 469 469}{name: 1792}{hidetextbox: 0}{speed: 5}{color: 2}
+(I wouldn't have put it quite{b}
+so lyrically,{wait: 10} but it's true.){p}{person: 21 467 467}{speed: 5}
+(Why make the effort to commit{b}
+murder when the victim was{b}
+about to die?){color: 0}{nextpage_button}{bg: 34}{person: 22 492 491}{name: 5632}{speed: 3}
+Incidentally,{wait: 8} the victim had{b}
+a serious case of diabetes.{nextpage_button}{bg: 32}{person: 21 470 469}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Diabetes?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 23 509}{wait: 32}{person: 23 510 509}{name: 13568}{hidetextbox: 0}{speed: 3}
+In fact,{wait: 8} he was about to{b}
+"shoot up" with insulin...{p}{person: 0 0 0}{bg: 152}{bgcolor: 2305 8 31}
+...when he was shot with{b}
+a pistol.{wait: 12} The syringe was{b}
+found at the crime scene.{nextpage_button}{bg: 33}{person: 23 515 514}{name: 13568}{speed: 5}
+Chronic diabetes...{wait: 16} and{b}
+cancer.{p}
+As much as it pains me to{b}
+say it...{p}{person: 23 510 509}{speed: 3}
+...the victim was clearly{b}
+at the end of his life.{nextpage_button}{newevidence: 16597}{name: 0}{speed: 4}{color: 2}
+Small Syringe added to the{b}
+Court Record.{nextpage_button}{speed: 255}{color: 0}{fademusic: 60}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 36}{person: 10 266 266}{name: 2560}{hidetextbox: 0}{speed: 6}
+Hmm...{wait: 30}{person: 10 259 258}{speed: 4} I believe the question{b}
+before us is clear,{wait: 12} {speed: 3}then.{nextpage_button}{person: 10 263 262}
+Why did the killer have to{b}
+shoot this dying man?{p}{person: 10 266 266}
+What reason could he have had?{nextpage_button}{bg: 33}{person: 23 510 509}{name: 13568}
+...Very well,{wait: 12} Detective.{p}{person: 23 513 512}
+Perhaps you can enlighten us{b}
+as to the {color: 1}circumstances{color: 0} of{b}
+the shooting.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 22 491}{wait: 32}{person: 22 491 491}{name: 5632}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Y-Yes, sir!{nextpage_button}{hidetextbox: 1}{testimony_animation: 1}{special_jmp}{endjmp}

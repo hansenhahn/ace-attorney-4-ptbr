@@ -1,0 +1,4 @@
+O texto é descomprimido em 02159170
+
+Para depurar a rom, colocar um breakpoint em 0201C4E0
+Nesse endereço há a instrução para ler dois bytes do texto.

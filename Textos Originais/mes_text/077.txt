@@ -1,0 +1,77 @@
+
+
+{{0}}
+{bop}{hidetextbox: 1}{person: 5 81 81}{0x38: 1}{name: 1280}{person: 5 82 81}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}Eeeeeeek!{wait: 20}{b}
+Someone's{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1} there!{p}{person: 5 81 81}{speed: 8}
+.{speed: 10}.{speed: 12}.{p}{person: 5 68 67}{name: 1280}{speed: 3}
+Oh,{wait: 8} it's just a gold-painted{b}
+human skeleton.{p}{name: 1024}{person: 5 75 75}{speed: 4}{color: 2}
+(Just a human skeleton!?{b}
+...{wait: 20}And painted gold?){color: 0}{p}{name: 1280}{person: 5 72 69}{speed: 3}
+There's a mannequin hand{b}
+waving to us from the box{b}
+behind the skeleton.{p}{person: 5 74 73}
+This place just screams{wait: 6}{b}
+"hospital storage",{wait: 6} don't{b}
+you think?{p}{name: 1024}{person: 5 73 73}{speed: 3}
+It screams something,{wait: 8} that's{b}
+for sure.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{person: 5 69 69}{0x38: 1}{name: 1280}{person: 5 72 69}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Hey!{wait: 16} A kitty-cat!{wait: 16} {speed: 3}Here,{wait: 12} kitty{b}
+kitty kitty.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{sound: 119 1}{name: 0}{hidetextbox: 0}{soundtoggle: 0}
+Meow.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{wait: 16}{person: 5 76 75}{name: 1280}{soundtoggle: 1}{hidetextbox: 0}
+...{wait: 20}It's not coming down.{p}{name: 1024}{person: 5 75 75}
+We do look kind of suspicious,{wait: 8}{b}{person: 5 81 81}
+you have to admit.{p}{name: 1280}{person: 5 76 75}
+It's OK kitty-cat!{wait: 16} His hair{b}
+won't hurt you!{nextpage_button}{name: 1024}
+It's OK kitty-cat!{wait: 16} She won't{b}
+make you disappear in her hat!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{name: 1024}{hidetextbox: 0}Look,{wait: 8} it's a folding ladder.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{name: 1280}{person: 5 68 67}{hidetextbox: 0}
+Polly!{wait: 12} That's called a{wait: 8}{b}{person: 5 74 73}
+"stepladder"!{wait: 16} C'mon!{nextpage_button}{name: 1024}{speed: 5}
+...{wait: 20}{speed: 3}A stepladder?{wait: 16} How is that{b}{person: 5 81 81}{sound: 52 1}{bgcolor: 2305 8 31}
+different from a regular{b}
+ladder then?{p}{person: 5 76 75}{name: 1280}{speed: 3}
+It's a much more complex{b}
+piece of machinery.{wait: 16} {person: 5 68 67}It's like{b}
+two ladders stuck together!{nextpage_button}{name: 1024}{speed: 4}
+...{wait: 20}So you admit that basically{b}
+it's a ladder,{wait: 10} right?{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Wait...{wait: 20} Huh?{nextpage_button}{name: 1024}{speed: 3}
+You have to look past the{b}
+form...{wait: 20} at the essence of{b}
+the thing.{nextpage_button}{person: 5 75 75}{name: 1280}
+Er{speed: 8}...{wait: 40} {speed: 3}{person: 5 91 90}{bgcolor: 2305 8 31}{shake: 30 0}Can we talk about{b}
+something else?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{person: 0 0 0}{name: 1024}This is where we found your{b}
+panties,{wait: 8} isn't it,{wait: 10} Trucy?{p}{person: 5 72 69}{name: 1280}
+And I can't thank you enough,{wait: 8}{b}
+Apollo!{nextpage_button}{name: 1024}
+Well,{wait: 8} thank you for saying{b}
+thank you!{p}{person: 5 68 67}{name: 1280}
+Oh,{wait: 8} I'm always polite!{wait: 16} It's{b}
+part of being a performer.{wait: 16}{b}
+You know what Daddy says:{nextpage_button}{person: 5 76 75}
+"It doesn't cost anything to{b}
+be polite,{wait: 12} and it could bring{b}
+you more business."{nextpage_button}{name: 1024}{speed: 4}
+...{wait: 20}Typical.{nextpage_button}{person: 5 72 69}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Just kidding!{wait: 16} I really am{b}
+grateful!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{name: 1024}This car belongs to someone{b}
+at the Meraktis Clinic...{wait: 16}{b}
+and it hit Mr. Wright.{p}
+Mr. Wright sprained his{b}
+ankle,{wait: 8} and the car lost{b}
+a side-view mirror.{p}{speed: 4}
+This car vs.{wait: 16} Mr. Wright...{wait: 20}{b}{speed: 3}
+Not quite the match of the{b}
+century.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}

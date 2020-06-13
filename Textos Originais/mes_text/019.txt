@@ -1,0 +1,417 @@
+
+
+{{0}}
+{bop}{0x62: 4 6}{0x26: 1}{0x6b: 1 0 0}{bganim: 98 570}{0x74: 2 0}{wait: 30}{0x64}{3args_choice_jmp: 4 1 31}{wait: 25}{hidetextbox: 0}{name: 0}{speed: 4}...And so a verdict was{b}
+reached on October 9,{wait: 12} 2:14 PM.{nextpage_button}{fademusic: 0}{music: 29 100}{speed: 3}
+The first verdict under the{b}
+Jurist System.{nextpage_button}{speed: 4}
+...A "{color: 1}hung jury{color: 0}".{b}{speed: 3}
+The final verdict would have{b}
+to wait for the following day.{nextpage_button}{hidetextbox: 1}{bgcolor: 513 0 31}{wait: 1}{bg: 24}{person: 0 0 0}{0x5f: 3 1 31}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{speed: 5}
+But fate had different plans.{nextpage_button}{speed: 3}
+That night,{wait: 30} {speed: 4}defendant Vera{b}
+Misham's condition worsened.{nextpage_button}{speed: 5}
+She died in her hospital bed.{nextpage_button}
+Her verdict was postponed...{b}
+for eternity.{nextpage_button}{hidetextbox: 1}{wait: 120}{fademusic: 120}{bgcolor: 516 1 31}{wait: 25}{0x5f: 4 1 1}{bg: 4095}{bgcolor: 257 8 31}{wait: 1}{wait: 100}{0x6b: 0 0 0}{bganim: 98 570}{hidetextbox: 1}{reset}{endjmp}
+
+{{1}}
+{bop}{0x62: 4 6}{0x74: 2 0}{0x26: 1}{0x6b: 1 0 0}{bganim: 98 570}{wait: 30}{0x64}{3args_choice_jmp: 4 1 31}{wait: 25}{bg: 4095}{name: 0}{person: 0 0 0}{hidetextbox: 0}{speed: 4}...And so a verdict was{b}
+reached on October 9,{wait: 12} 2:14 PM.{wait: 20}{nextpage_button}{fademusic: 0}{music: 34 100}{speed: 3}
+The first verdict under the{b}
+Jurist System.{nextpage_button}{speed: 4}
+...{wait: 6}"{color: 1}Innocent{color: 0}",{wait: 6} by unanimous{b}
+decision.{nextpage_button}{hidetextbox: 1}{bgcolor: 513 0 31}{wait: 1}{bg: 29}{person: 10 258 258}{0x5f: 3 1 31}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{speed: 4}
+The record will show...{nextpage_button}{hidetextbox: 1}{bg: 27}{person: 8 566 566}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 100}{hidetextbox: 0}{speed: 3}
+...that when the verdict was{b}
+announced,{wait: 12} special witness{b}
+Kristoph Gavin... laughed.{p}
+A laugh louder than any ever{b}{person: 8 568 568}{shake: 30 1}{bgcolor: 2305 8 31}
+heard before{speed: 8}...{wait: 30} {bgcolor: 2305 8 31}{speed: 4}or since{shake: 30 0}.{nextpage_button}{bgcolor: 2305 8 31}
+A laugh that {shake: 30 0}echoed in the{wait: 3}{b}{person: 0 0 0}{bgcolor: 513 0 8}{wait: 1}{bg: 24}{bganim: 98 573}{bgcolor: 260 1 8}{wait: 25}
+halls of justice,{wait: 8} {speed: 6}lingering{b}
+for what seemed like hours.{nextpage_button}{bganim: 98 574}{hidetextbox: 1}{wait: 120}{fademusic: 120}{bgcolor: 516 1 31}{wait: 25}{0x5f: 4 1 1}{bg: 4095}{person: 0 0 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{speed: 3}
+October 10,{wait: 8} 8:30 AM, the{b}
+morning after the trial...{nextpage_button}
+In an intensive care ward{speed: 8}...{b}{speed: 4}
+a true miracle occurred.{nextpage_button}{speed: 4}
+Vera Misham opened her eyes.{nextpage_button}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{0x6b: 0 0 0}{bganim: 98 570}{endjmp}
+
+{{2}}
+{bop}{0x74: 2 0}{0x62: 4 6}{0x10: 33763}{newevidence: 32870}{0x26: 0}{bg: 226}{person: 0 0 0}{name: 0}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}October 10, 10:12 AM{b}
+Hickfield Clinic{nextpage_button}{center_text: 0}{color: 0}{wait: 30}{speed: 255}{hidetextbox: 1}{fademusic: 0}{music: 36 0}{wait: 35}{personvanish: 3 4}{person: 19 414 414}{wait: 64}{wait: 20}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 40}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Vera!!!{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4} I'm so glad,{wait: 8}{shake: 30 0}{b}
+I{speed: 8}...{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Don't cry,{wait: 16}{bgcolor: 2305 8 31} Apollo!{nextpage_button}{person: 5 72 69}{speed: 3}
+...I'm happy, too.{wait: 16} And proud.{wait: 12}{b}{person: 5 68 67}
+You did well,{wait: 12} Apollo.{nextpage_button}{person: 5 84 83}{speed: 4}
+When I thought about{speed: 8}{0x5a}...{wait: 12}{speed: 3}{0x59}{shake: 30 0} what{wait: 20}{b}
+if Vera{0x5a}{wait: 30}{speed: 5}...{b}{person: 5 93 92}{0x59}{speed: 8}{shake: 30 0}
+I...{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 3}
+Hey now,{wait: 8} don't you start{b}
+crying,{wait: 8} too!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 19 414 414}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Um...{wait: 10} sorry you had to{b}
+see us like this.{nextpage_button}{name: 4864}{speed: 8}
+......{nextpage_button}{fademusic: 120}{hidetextbox: 1}{person: 19 418 418}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 90}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 3}
+V-{wait: 30}{speed: 5}Vera{speed: 8}...?{nextpage_button}{name: 4864}{person: 19 419 418}{speed: 4}
+...Thank you so much.{wait: 16}{b}
+Apollo,{wait: 8} thank you.{nextpage_button}{name: 1024}{speed: 4}
+No,{wait: 16}{speed: 3} I'm sorry...{wait: 30} I shouldn't{b}
+have pressed you like that{speed: 8}...{speed: 4}{p}{person: 19 414 414}{speed: 4}
+If{speed: 8}...{wait: 20}{speed: 2} If I hadn't you never{b}
+would have bitten your nails!{shake: 30 0}{bgcolor: 2305 8 31}{nextpage_button}{name: 4864}{person: 19 415 414}{speed: 6}{wait: 10}
+No{0x5a}...{wait: 30}{b}{speed: 4}{0x59}
+I was wrong.{p}{person: 19 417 416}
+Staying locked inside like{b}
+that{speed: 8}{0x5a}...{0x59}{speed: 4} clinging to my "good{b}
+luck charm"...{nextpage_button}{name: 1024}{person: 19 414 414}{speed: 5}
+Vera...{nextpage_button}{name: 4864}{person: 19 415 414}{speed: 4}
+...When I opened my eyes,{wait: 8}{b}
+and saw you...{wait: 8} I finally{b}
+understood.{p}{speed: 5}
+It's important to be{b}
+a part of the world{0x5a}...{nextpage_button}{person: 19 419 418}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...to see things with{b}{0x23: 0}{music: 255 60}
+your own eyes.{nextpage_button}{name: 1024}{person: 19 418 418}{color: 2}
+(It looks like that poison{b}
+had some effect after all.){p}
+(It{wait: 6} {color: 1}killed off{color: 2} whatever was{b}
+holding Vera back from life.){color: 0}{nextpage_button}{name: 1280}{person: 5 96 95}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I knew you'd pull through,{wait: 12}{b}
+Vera!{p}{person: 5 68 67}{speed: 3}
+I mean,{wait: 8} that's what Apollo{b}
+was fighting for the whole{b}
+time!{p}{person: 5 72 69}{bgcolor: 2305 8 31}
+Your future!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 419 418}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+I won't forget it.{0x5a}{wait: 20}{0x59}{speed: 3} Here,{wait: 10}{b}
+let me thank you!{nextpage_button}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}
+No,{wait: 8} really,{wait: 8} it's OK...{nextpage_button}{hidetextbox: 1}{0x6b: 4 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 30}{name: 1280}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Oooh!{wait: 16} Look!{wait: 16} It's me!{bgcolor: 2305 8 31}{shake: 30 0}{nextpage_button}{speed: 4}
+I love it!{0x5a}{wait: 20}{b}{bgcolor: 2305 8 31}{shake: 30 0}{0x59}{speed: 2}
+Thanks!{nextpage_button}{hidetextbox: 1}{0x6b: 5 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 40}{name: 1024}{hidetextbox: 0}{speed: 5}{color: 2}
+(Is that...{wait: 12} me?){color: 0}{nextpage_button}{name: 1280}{person: 5 74 73}{sound: 51 1}{bgcolor: 2305 8 31}
+She really captured your{b}
+essence,{wait: 8} Apollo!{wait: 30} Well,{wait: 8} I think{b}
+so,{wait: 8} at least.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 417 416}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+That reminds me...{nextpage_button}{person: 19 415 414}{speed: 4}
+...do you know where the{b}
+other lawyer is...?{nextpage_button}{name: 1024}{speed: 5}
+The other lawyer...?{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Oh!{wait: 16} You mean Daddy.{wait_noanim: 30}{person: 5 76 75}{speed: 3} 'Cept{b}
+he's not a lawyer anymore.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 417 416}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{fademusic: 120}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 10}It's my fault,{wait: 10} isn't it?{wait: 16}{b}{speed: 5}
+I'm sorry.{nextpage_button}{name: 1280}{person: 5 82 81}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Oh!{wait: 10}{speed: 4} No,{wait: 8} no,{wait: 8} no,{wait: 8} that's not{b}
+what I meant...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 417 416}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+...No,{wait: 8} it's OK.{p}{person: 19 415 414}{speed: 4}
+I'm through looking away{b}
+from the things I've done.{p}
+I hope I can look him in the{b}
+eyes again someday and{b}
+apologize.{nextpage_button}{name: 1024}{person: 19 414 414}
+...I'm sure he'd be happy{b}
+to hear that.{nextpage_button}{person: 19 419 418}{name: 4864}
+He...{wait: 16} brought all those things{b}
+for me... when he came to{b}
+visit... earlier.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{wait: 30}{person: 0 0 0}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}
+You mean that stack of videos?{wait: 14}{b}{speed: 4}{color: 2}
+(...Mr. Wright finished{b}
+watching them all?){color: 0}{nextpage_button}{hidetextbox: 1}{person: 5 67 67}{personvanish: 3 2}{wait: 50}{name: 1280}{person: 5 68 67}{hidetextbox: 0}
+You know,{wait_noanim: 40}{person: 5 68 67}{sound: 52 1}{bgcolor: 2305 8 31} I knew my real{b}
+daddy was alive.{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+Huh...?{p}{name: 1280}{speed: 3}
+I was there,{wait: 16} seven years{b}
+ago,{wait: 8} remember?{nextpage_button}{person: 5 96 95}
+I was the one who helped him{wait: 6}{b}
+"vanish"{wait: 12} from the courtroom!{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 6}
+Y-{wait: 12}{speed: 3}You did wha... How?{nextpage_button}{person: 5 74 73}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}
+I'm{wait: 16} not{wait: 16} telling!{nextpage_button}{speed: 4}{0x5a}
+...{wait: 20}{speed: 3}{0x59}He promised me,{wait: 10} that day{b}
+he went away.{nextpage_button}{hidetextbox: 1}{fademusic: 0}{music: 29 100}{sound: 49 1}{bgcolor: 2561 1 31}{wait: 1}{person: 31 704 704}{bg: 257}{0x5f: 3 1 31}{bgcolor: 2308 1 31}{wait: 25}{name: 7936}{person: 31 705 704}{hidetextbox: 0}{speed: 4}
+We may not meet again for{b}
+some time,{wait: 8} Trucy...{p}{speed: 3}
+...but know this,{wait: 6} I will be{b}
+watching.{wait: 16} And,{wait: 8} one day,{wait: 8}{b}
+I shall return.{p}{speed: 5}{0x5a}
+...{wait: 35}{person: 31 712 711}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}You're the next Gramarye,{wait: 8}{b}
+after all!{nextpage_button}{hidetextbox: 1}{person: 31 710 710}{bgcolor: 2305 8 31}{shake: 30 0}{wait: 10}{wait: 30}{shake: 30 0}{bgcolor: 516 1 31}{wait: 25}{fademusic: 120}{person: 5 67 67}{bg: 226}{0x5f: 4 1 1}{bgcolor: 260 1 31}{wait: 25}{name: 1024}{hidetextbox: 0}{speed: 4}
+Oh...{wait: 16} Trucy...{wait: 30}{b}{speed: 5}{color: 2}
+(In the end...{wait: 8} he couldn't{b}
+keep that promise,{wait: 8} could he?){color: 0}{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+It's OK!{wait: 20} {speed: 3}Phoenix is my{b}{fademusic: 0}{music: 16 100}
+daddy now.{wait: 8} Even if he can't{b}
+really play the piano.{nextpage_button}{name: 1024}{speed: 4}
+That he can't...{nextpage_button}{person: 5 74 73}{name: 1280}{speed: 3}
+...Oh,{wait: 8} and I've got you, too!{wait: 16}{b}
+Even if your voice is{b}
+kinda loud sometimes.{nextpage_button}{name: 1024}
+Glad I made your list.{nextpage_button}{person: 5 82 81}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+Hey!{wait: 8} Come to think of it...{nextpage_button}{person: 5 76 75}{speed: 3}
+...where is Daddy?{wait: 16}{b}
+The one who can't play.{nextpage_button}{person: 5 68 67}
+Do you know,{wait: 8} Apollo?{nextpage_button}{name: 1024}{person: 5 67 67}
+I think he said he had{b}
+to meet someone.{nextpage_button}{name: 1280}{person: 5 76 75}{0x5a}{wait: 25}{speed: 4}{0x59}
+Hmm.{speed: 5} I wonder{speed: 8}...{nextpage_button}{person: 5 68 67}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 2}
+...Maybe it's a new mommy!{nextpage_button}{name: 1024}{person: 5 69 69}{color: 2}{speed: 4}
+(*sigh*){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 419 418}{0x5a}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{0x59}{shake: 30 0}{speed: 5}
+Tee hee{speed: 8}{0x5a}...{wait: 50}{speed: 3}{0x59}{b}{person: 19 415 414}{bgcolor: 2305 8 31}
+Oh,{wait: 10} Trucy?{nextpage_button}{sound: 51 1}{bgcolor: 2305 8 31}{name: 1280}{person: 5 68 67}{speed: 2}
+Hmm?{wait: 12} Yes,{wait: 12} Vera?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 19 418 418}{name: 4864}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{person: 19 419 418}{speed: 5}
+I was wondering{speed: 8}{0x5a}...{wait: 25}{0x59} {speed: 4}Could{b}
+you show him to me once more?{p}{speed: 5}
+...{wait: 10}{speed: 3}Sir Hat,{wait: 10} was it?{nextpage_button}{name: 1280}{person: 5 82 81}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Oh,{wait: 8} he's not been knighted.{wait_noanim: 25}{b}{person: 5 96 95}{speed: 3}
+...Yet!{nextpage_button}{fademusic: 30}{person: 5 72 69}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Here{bgcolor: 2305 8 31} goes...{wait: 12} do{bgcolor: 2305 8 31} us an{b}
+impers{bgcolor: 2305 8 31}onation,{wait: 12} {fademusic: 0}{music: 22 0}Mr. Hat!{b}{nextpage_button}{hidetextbox: 1}{0x8e: 5 87}{sound: 186 1}{0x63}{0x8e: 5 109}{0x63}{0x8e: 5 110}{0x63}{0x8e: 5 111}{0x63}{0x8e: 5 112}{0x63}{0x8e: 5 113}{0x63}{0x8e: 5 114}{0x63}{0x8e: 5 115}{0x63}{0x8e: 5 116}{0x63}{0x8e: 5 117}{0x63}{0x8e: 5 118}{0x63}{0x8e: 5 119}{0x63}{0x8e: 5 120}{0x63}{0x8e: 5 121}{0x63}{0x8e: 5 122}{0x63}{0x8e: 5 123}{0x63}{0x8e: 5 124}{0x63}{0x8e: 5 125}{0x63}{0x8e: 5 126}{0x63}{0x8e: 5 127}{0x63}{0x8e: 5 128}{0x63}{0x8e: 5 129}{0x63}{0x8e: 5 130}{0x63}{0x63}{person: 5 108 106}{name: 11776}{hidetextbox: 0}{soundtoggle: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}{color: 3}
+...Objection!!!{b}{speed: 4}
+...Ahem.{color: 0}{nextpage_button}{soundtoggle: 1}{name: 1024}
+Not loud enough.{wait: 16} And I like{b}{showphoto: 315}
+Ms. Magic Underwear better,{wait: 8}{b}
+anyway.{nextpage_button}{bganim: 98 579}{name: 1280}{person: 5 91 90}{fademusic: 30}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+That's "Magic Panties",{b}{wait: 6}
+Apollo!{nextpage_button}{endjmp}
+
+{{3}}
+{bop}{0x26: 1}{0x6b: 1 0 0}{bganim: 98 570}{hidetextbox: 1}{wait: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 243}{name: 1792}{person: 7 187 187}{wait: 60}{bgcolor: 260 1 31}{wait: 25}{wait: 30}{hidetextbox: 0}{person: 7 180 179}{wait: 6}So{speed: 5}...{b}{speed: 4}
+Your memory's returned.{nextpage_button}{name: 256}{person: 7 179 179}{speed: 4}
+Mr. Wright...{wait: 20}{speed: 3} was this all{b}
+a part of your{wait: 6} {color: 1}plan{color: 0},{wait: 8} too?{nextpage_button}{name: 1792}{person: 7 188 187}{sound: 52 1}{bgcolor: 2305 8 31}
+I don't know what you're{b}{fademusic: 0}{music: 44 100}
+talking about.{b}{nextpage_button}{name: 256}{speed: 4}
+When I lost my memory,{wait: 6} I was{b}
+reborn{speed: 8}...{speed: 3} as Lamiroir.{nextpage_button}
+But,{wait: 12} you knew my true{b}
+identity,{wait: 12} did you not?{nextpage_button}{speed: 4}
+...{wait: 16}That is why you chose{b}
+me as one of your jurists.{nextpage_button}{name: 1792}{person: 7 188 187}
+Ah,{wait: 6} you're thinking into it{b}
+too much.{0x5a}{wait: 40} ...{0x59}Besides.{nextpage_button}{person: 7 178 177}{speed: 3}
+There was no guarantee that{b}
+regaining your memory would{b}
+make you happy.{nextpage_button}{name: 256}
+Of course it is a happy{b}
+thing.{nextpage_button}{name: 1792}{person: 7 179 179}{speed: 7}
+......{nextpage_button}{name: 256}{speed: 3}
+For so long,{wait: 8} I thought I was{b}
+alone...{p}{person: 7 187 187}{speed: 3}
+...but now I know I have{b}
+children.{wait: 16} Two dear children.{p}{speed: 4}
+I'm so proud of them{speed: 8}...{wait: 30}{b}
+This, too,{wait: 12} I think,{wait: 12} is thanks{b}
+to you.{p}{person: 7 188 187}{name: 1792}{speed: 4}
+Are you going to{person: 7 180 179} tell them?{nextpage_button}{name: 256}{speed: 3}
+They do not know?{p}{name: 1792}{0x59}{wait: 10}
+Nope.{p}{speed: 4}
+They don't know their mother.{wait: 25}{b}{person: 7 182 181}{speed: 3}
+They don't even know they're{b}
+siblings.{nextpage_button}{name: 256}
+I will go to them...{wait: 8} when{b}
+the time is right.{wait: 20} {speed: 4}Until{b}
+then,{wait: 8} I...{nextpage_button}{name: 1792}{person: 7 180 179}{speed: 3}
+...Don't worry,{wait: 8} I'll take care{b}
+of them for you.{p}{wait: 8}{speed: 4}
+They're...{nextpage_button}{person: 7 190 189}
+They're very important to{b}
+me,{wait: 8} too.{nextpage_button}{person: 7 184 183}{speed: 4}
+...A little annoying at{b}
+times,{wait: 8} but still.{nextpage_button}{fademusic: 120}{name: 1792}{speed: 3}{color: 2}
+(I have to keep an eye on{b}
+her,{wait: 8} at least.){nextpage_button}{bganim: 0 8192}{bg: 4095}{person: 5 97 97}{0x5f: 3 1 31}{bgcolor: 2305 8 31}{soundtoggle: 0}{speed: 4}
+(Because I'm the only one who{b}
+knows how she really feels...{b}
+on the inside.){wait: 100}{soundtoggle: 1}{personvanish: 4 4}{wait: 64}{color: 0}{nextpage_button}{hidetextbox: 1}{wait: 60}{bg: 243}{person: 7 188 187}{0x5f: 4 1 1}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{bganim: 0 4096}{speed: 5}
+...Your bracelet.{nextpage_button}{name: 256}
+Yes{speed: 6}...?{nextpage_button}{name: 1792}{person: 7 180 179}{speed: 3}
+I've seen a lot of mysterious{b}
+things these past seven years.{p}{showphoto: 83}
+...But your bracelets were{b}
+the strangest of all.{nextpage_button}{fademusic: 0}{music: 29 100}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{person: 0 0 0}{bg: 211}{bgcolor: 260 1 31}{wait: 25}{showphoto: 339}{wait: 30}{hidetextbox: 0}
+I remember meeting him,{wait: 6} half{b}
+a year ago now,{wait: 8} in Kristoph{b}
+Gavin's office...{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 210}{bgcolor: 260 1 31}{wait: 25}{showphoto: 83}{wait: 30}{hidetextbox: 0}
+...and then I met you.{nextpage_button}{bganim: 98 579}{person: 7 188 187}{bg: 243}{speed: 4}
+Two fates destined to{b}
+intertwine{speed: 8}{0x5a}... {wait: 30}{person: 7 178 177}{speed: 3}and I was{b}
+there when they crossed.{nextpage_button}{person: 7 182 181}
+I'll never forget that.{nextpage_button}{hidetextbox: 1}{wait: 30}{name: 256}{person: 7 181 181}{hidetextbox: 0}{speed: 6}
+......{nextpage_button}{person: 7 179 179}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Such a small thing,{wait: 6} that{b}
+bullet.{wait: 16} Yet it tore who{b}
+I was away...{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 2561 1 31}{wait: 1}{person: 0 0 0}{bganim: 98 61}{bganim: 1036 0}{bgcolor: 2306 1 31}{wait: 15}{bganim: 1037 0}{bganim: 98 62}{sound: 48 1}{bgcolor: 2561 8 31}{wait: 1}{bg: 85}{0x5f: 3 1 31}{bgcolor: 2308 1 31}{wait: 25}{wait: 30}{name: 256}{hidetextbox: 0}{speed: 4}
+Ten years ago{speed: 8}...{wait: 20}{speed: 4} During a{b}
+simple rehearsal{speed: 8}...{wait: 20}{speed: 4}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 4095}{bgcolor: 257 1 31}{wait: 7}{bgcolor: 513 0 8}{wait: 1}{bganim: 98 573}{bg: 139}{hidetextbox: 0}{speed: 4}
+It was a miracle no one{b}
+died{speed: 8}...{wait: 16} {bgcolor: 260 1 8}{wait: 25}{speed: 4}but "I" didn't{b}
+survive that accident.{nextpage_button}{bganim: 98 574}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 4095}{bgcolor: 257 8 31}{wait: 1}{hidetextbox: 0}
+That is why I left the{b}
+troupe{speed: 8}...{speed: 4} my family.{nextpage_button}{hidetextbox: 1}{bgcolor: 513 0 31}{wait: 1}{0x5f: 4 1 1}{bg: 243}{person: 7 187 187}{bgcolor: 260 1 31}{wait: 25}{name: 1792}{hidetextbox: 0}{fademusic: 120}{speed: 7}
+......{nextpage_button}{name: 256}{speed: 3}
+Now,{wait: 12} my memory has returned.{wait: 16}{b}
+I am myself once more.{p}{speed: 4}
+For the first time...{wait: 15}{person: 7 179 179}{speed: 3} I am{b}
+glad to be alive,{wait: 10} Mr. Wright.{nextpage_button}{name: 1792}{person: 7 180 179}
+...{speed: 4}Speaking of miracles.{nextpage_button}{person: 7 182 181}{speed: 3}
+Vera Misham regained{b}
+consciousness this morning.{p}{person: 7 190 189}
+I can only hope she's as{b}
+glad as you are.{nextpage_button}{name: 256}{person: 7 189 189}{speed: 4}
+It is...{wait: 10} a strange thing,{wait: 8}{b}
+fate.{nextpage_button}{speed: 3}
+Sometimes a life is taken.{p}
+Sometimes a life is spared.{nextpage_button}{name: 1792}{person: 7 184 183}
+You know what I've been{b}
+thinking?{p}
+People don't die that easily,{wait: 8}{b}
+really.{nextpage_button}{person: 7 178 177}{speed: 4}
+...As long as they've got{b}
+something worth living for.{nextpage_button}{hidetextbox: 1}{wait: 20}{wait: 60}{bganim: 0 8192}{bgcolor: 516 1 31}{wait: 25}{0x6b: 1 37 0}{bganim: 98 269}{bg: 4095}{name: 1024}{person: 0 0 0}{bgcolor: 257 8 31}{wait: 1}{hidetextbox: 0}{soundtoggle: 0}{name: 1024}{speed: 4}
+...{music: 37 0}And that's pretty much{b}
+the end of my story.{wait: 20}{b}
+For now, anyway.{wait: 80}{nextpage_nobutton}{speed: 4}
+I've still got a long way to{b}
+go.{wait: 8} And this power of mine...{b}
+well,{wait: 10} it needs some work.{wait: 80}{nextpage_nobutton}{speed: 4}
+But{speed: 4}... there's hope now.{wait: 12}{b}
+We'd lost it,{wait: 8} but somehow,{wait: 8}{b}
+we found it again.{wait: 80}{nextpage_nobutton}{speed: 4}
+That's why people are{b}
+smiling again{speed: 4}... Hope.{wait: 88}{nextpage_nobutton}{speed: 4}
+Yeah,{wait: 12} I think I'll keep at{b}
+this lawyer thing for a while.{wait: 80}{nextpage_nobutton}{speed: 4}
+Oops,{wait: 8} training time.{wait: 8} Gotta go.{b}
+Chords of Steel...{b}
+here comes Justice!{wait: 160}{nextpage_nobutton}{hidetextbox: 1}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{wait: 30}{0x6b: 1 1 31}{bganim: 98 626}{bg: 4095}{person: 0 0 0}{hidetextbox: 1}{soundtoggle: 0}{wait: 60}{0x6b: 4 0 0}{bganim: 98 262}{bg: 243}{person: 5 68 67}{name: 1280}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 3}
+I'm glad you're staying with{b}
+the agency,{wait: 8} Apollo!{wait_noanim: 70}{nextpage_nobutton}{person: 5 76 75}{speed: 4}
+It's like...{wait_noanim: 20}{person: 5 72 69}{speed: 5} like I've found{b}
+my long-lost, big, little{b}
+brother!{wait_noanim: 70}{nextpage_nobutton}{person: 5 96 95}
+Oh,{wait: 8} and don't you worry about{b}
+Troupe Gramarye!{wait: 10} Trucy's on{b}
+the case!{wait_noanim: 70}{nextpage_nobutton}{person: 5 68 67}{0x5a}{showphoto: 450}{speed: 8}
+...{wait: 20}{speed: 3}{0x59}Now that I have this,{wait: 6}{b}
+thanks to Daddy.{wait_noanim: 70}{nextpage_nobutton}{bganim: 98 579}{hidetextbox: 1}{0x8e: 5 87}{sound: 186 1}{0x63}{0x8e: 5 109}{0x63}{0x8e: 5 110}{0x63}{0x8e: 5 111}{0x63}{0x8e: 5 112}{0x63}{0x8e: 5 113}{0x63}{0x8e: 5 114}{0x63}{0x8e: 5 115}{0x63}{0x8e: 5 116}{0x63}{0x8e: 5 117}{0x63}{0x8e: 5 118}{0x63}{0x8e: 5 119}{0x63}{0x8e: 5 120}{0x63}{0x8e: 5 121}{0x63}{0x8e: 5 122}{0x63}{0x8e: 5 123}{0x63}{0x8e: 5 124}{0x63}{0x8e: 5 125}{0x63}{0x8e: 5 126}{0x63}{0x8e: 5 127}{0x63}{0x8e: 5 128}{0x63}{0x8e: 5 129}{0x63}{0x8e: 5 130}{0x63}{0x63}{person: 5 108 106}{name: 11776}{hidetextbox: 0}{speed: 4}{color: 3}
+Trucy Gramarye?{wait: 16} Frankly,{wait: 8} I got{b}
+my doubts.{wait: 16} But Hat Gramarye?{wait: 16}{b}
+Now that'll pack 'em in!{wait_noanim: 120}{color: 0}{nextpage_nobutton}{hidetextbox: 1}{wait: 90}{0x6b: 8 0 0}{0x7f: 8}{0x6b: 60 0 0}{0x7f: 14}{0x6b: 0 1 0}{bganim: 98 262}{0x6b: 3 1 0}{bganim: 98 262}{bg: 261}{person: 6 134 133}{name: 13568}{hidetextbox: 0}{speed: 3}
+It's not every day you get{b}
+a trial that rocks harder{b}
+than one of our gigs,{wait: 8} ja?{wait_noanim: 70}{nextpage_nobutton}{person: 6 134 133}{speed: 4}
+That's why it's over!{0x5a}{wait: 30}{b}{person: 6 136 135}{speed: 3}{0x59}
+The Gavinners are breaking up.{wait_noanim: 70}{nextpage_nobutton}{person: 6 136 135}{speed: 4}
+...{wait: 12}{speed: 3}The news caused a run{b}
+on tissues {wait_noanim: 30}{person: 6 140 139}at supermarkets{b}
+nation-wide.{person: 6 143 143}{0x63}{person: 6 144 144}{0x63}{wait: 40}{nextpage_nobutton}{person: 6 138 137}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+You're the real stars,{wait: 8} now!{wait_noanim: 35}{b}{person: 6 134 133}
+I look forward to our next{b}
+jam session.{wait_noanim: 120}{nextpage_nobutton}{hidetextbox: 1}{wait: 90}{0x6b: 9 0 0}{0x7f: 8}{0x6b: 60 0 0}{0x7f: 14}{0x6b: 0 2 0}{bganim: 98 262}{0x6b: 3 2 0}{bganim: 98 262}{bg: 226}{person: 7 180 179}{name: 1792}{hidetextbox: 0}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 3}
+Well,{wait: 5} it's finally over.{wait_noanim: 30}{b}{person: 7 184 183}{speed: 4}
+You know,{wait: 12} thinking about it{speed: 8}{0x5a}...{wait: 70}{nextpage_nobutton}{person: 7 178 177}{speed: 4}
+...{wait: 12}I've been a piano player{b}
+longer than I was a lawyer.{wait_noanim: 70}{nextpage_nobutton}{person: 7 188 187}{speed: 4}
+Now that everything's sorted,{wait: 8}{b}
+and I've got time on my hands,{wait: 8}{b}
+maybe I'll take some lessons.{wait_noanim: 70}{nextpage_nobutton}{person: 7 182 181}{speed: 3}
+...Or maybe I'll take the{b}
+bar exam...{wait_noanim: 30}{person: 7 190 189}{speed: 5} again.{wait_noanim: 120}{nextpage_nobutton}{hidetextbox: 1}{person: 7 191 191}{wait: 90}{0x6b: 10 0 0}{0x7f: 8}{0x6b: 60 0 0}{0x7f: 14}{0x6b: 0 3 0}{bganim: 98 262}{0x6b: 3 3 0}{bganim: 98 262}{bg: 274}{person: 9 251 251}{wait: 150}{name: 2304}{person: 9 250 249}{hidetextbox: 0}{speed: 4}
+...So,{wait: 10} I was standing around,{wait: 8}{b}
+eating Snackoos the other{b}
+day...{wait_noanim: 70}{nextpage_nobutton}{person: 9 233 232}{speed: 3}
+...{wait: 12}when I got this crazy idea!{wait_noanim: 70}{nextpage_nobutton}{person: 9 241 240}{showphoto: 240}
+What if they were...{wait: 8} golden!?{wait: 6}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+You could augment the crunch,{wait: 8}{b}
+or better yet,{wait: 6} make them {sound: 184 1}ding!{wait_noanim: 70}{nextpage_nobutton}{person: 9 246 245}
+Ah... the power of science!{wait_noanim: 40}{b}{person: 9 251 251}{sound: 184 1}{speed: 4}
+...Although{sound: 184 1} the preservatives{b}{sound: 184 1}
+might not be{sound: 184 1} 100% safe...{shake: 30 0}{wait_noanim: 120}{nextpage_nobutton}{hidetextbox: 1}{removephoto}{wait: 90}{0x6b: 11 0 0}{0x7f: 8}{0x6b: 60 0 0}{0x7f: 14}{0x6b: 0 4 0}{bganim: 98 262}{0x6b: 3 4 0}{bganim: 98 262}{bg: 276}{person: 12 278 279}{0x63}{name: 3072}{hidetextbox: 0}{person: 12 280 279}{speed: 4}
+In unlikely event you are{b}
+wanting Russian feast,{wait: 8} come{b}
+to Borscht Bowl Club!{wait_noanim: 70}{nextpage_nobutton}{person: 12 277 276}
+The only thing colder than{b}
+restaurant... is borscht!{wait_noanim: 70}{nextpage_nobutton}{person: 12 277 276}
+Dah,{wait: 12} but if greater challenge{b}
+is being required{speed: 8}{0x5a}...{wait: 70}{nextpage_nobutton}{hidetextbox: 1}{person: 12 288 288}{wait: 62}{animation: 152 1}{person: 12 308 308}{wait: 30}{0x63}{person: 12 291 290}{hidetextbox: 0}{speed: 3}
+...then come to the Hydeout.{wait: 4}{b}
+You know who to ask for!{wait_noanim: 120}{nextpage_nobutton}{hidetextbox: 1}{wait: 90}{0x6b: 12 0 0}{0x7f: 8}{0x6b: 60 0 0}{0x7f: 14}{0x6b: 0 5 0}{bganim: 98 262}{0x6b: 3 5 0}{bganim: 98 262}{bg: 227}{person: 16 402 402}{wait: 120}{person: 16 398 398}{animation: 213 1}{0x63}{name: 4096}{person: 16 397 396}{hidetextbox: 0}
+So,{wait: 12} Kitaki Pastries is getting{b}
+back to its Eastern "roots".{b}
+Spread the culture,{wait: 8} and all.{wait_noanim: 70}{nextpage_nobutton}{person: 16 395 394}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Yo,{wait: 16} Boss!{b}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+Culture time!!!{0x5a}{wait: 50}{nextpage_nobutton}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 17 403 403}{personvanish: 3 2}{wait: 32}{wait: 60}{name: 4352}{showphoto: 241}{hidetextbox: 0}{person: 17 404 403}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}{0x5a}
+...{0x59}This is how we write{wait: 4}{b}
+"root",{speed: 4} capice?{wait_noanim: 70}{nextpage_nobutton}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 390 389}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4096}{speed: 3}
+But we're still about giving{b}{person: 16 390 389}
+back to the people!{wait_noanim: 70}{nextpage_nobutton}{person: 16 395 394}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Yo,{wait: 8} Boss!{wait: 16}{b}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+P.R. time!!!{0x5a}{wait: 50}{nextpage_nobutton}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 17 403 403}{personvanish: 3 2}{person: 17 405 405}{0x63}{showphoto: 242}{name: 4352}{hidetextbox: 0}{person: 17 407 406}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...And this is how we write{wait: 4}{b}
+"people",{wait: 4} alright?{wait_noanim: 70}{nextpage_nobutton}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 395 394}{0x5a}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4096}{wait: 40}{speed: 4}{0x59}
+Not that Wocky's paying any{b}
+attention.{wait: 12} Whoooh...{wait: 12} Kids{0x5a}...{wait: 120}{nextpage_nobutton}{hidetextbox: 1}{wait: 90}{0x6b: 13 0 0}{0x7f: 8}{0x6b: 60 0 0}{0x7f: 14}{0x6b: 0 6 0}{bganim: 98 262}{0x6b: 3 6 0}{bganim: 98 262}{bg: 227}{person: 14 355 354}{name: 3584}{hidetextbox: 0}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 3}
+Bizzoy!{wait: 16}{bgcolor: 2305 8 31} Chinese characters on{b}
+cake was a fly idea like {bgcolor: 2305 8 31}3,000{b}
+years ago.{wait: 16} Believe dat!{wait_noanim: 70}{nextpage_nobutton}{person: 14 360 359}{speed: 4}
+Man,{wait: 10} you wanna make it today,{wait: 10}{b}
+you gotta keep it real,{wait: 10} you{b}
+know what I'm saying?{wait_noanim: 70}{nextpage_nobutton}{person: 14 358 357}{showphoto: 499}{speed: 4}
+Yo,{wait: 8} that's why I made the{0x5a}{wait: 25}{b}{0x59}{speed: 5}
+"O.G. Cracker".{wait: 10} {speed: 3}Fo real!{wait_noanim: 70}{nextpage_nobutton}{person: 14 358 357}{speed: 4}
+I KNOW it don't look like no{b}
+cracker,{bganim: 98 579}{person: 14 355 354}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31} G. What,{wait: 10}{bgcolor: 2305 8 31} you want me{b}
+to call it the O.G.{bgcolor: 2305 8 31} Muffin!?{wait_noanim: 30}{person: 14 371 371}{wait: 90}{nextpage_nobutton}{hidetextbox: 1}{wait: 90}{0x6b: 14 0 0}{0x7f: 8}{0x6b: 60 0 0}{0x7f: 14}{0x6b: 0 7 0}{bganim: 98 262}{0x6b: 3 7 0}{bganim: 98 262}{bg: 234}{person: 15 382 383}{name: 3840}{hidetextbox: 0}{speed: 4}
+...I don't know where all{b}
+this talk about food is{b}
+coming from.{wait_noanim: 70}{nextpage_nobutton}{person: 15 374 373}
+You ask me,{wait: 12} there's only one{b}
+food,{wait: 10} and that's noodles.{0x5a}{wait: 20}{0x59}{b}
+Noodles forever!{wait_noanim: 70}{nextpage_nobutton}{person: 15 375 373}{speed: 5}
+I got a new one,{wait: 8} too.{wait: 16} See,{wait: 8}{b}
+this time,{wait: 6} I just put a big{b}
+chunk of salt in the bowl!{wait_noanim: 70}{nextpage_nobutton}{person: 15 381 380}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Why pretend?{wait: 4} Eldoon's{bgcolor: 2305 8 31} Noodles{b}
+is about the salt!{wait_noanim: 30}{b}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{person: 15 388 388}{wait: 10}{sound: 164 1}
+Salt forever!!!{wait: 120}{nextpage_nobutton}{hidetextbox: 1}{wait: 90}{0x6b: 15 0 0}{0x7f: 8}{0x6b: 60 0 0}{0x7f: 14}{0x6b: 0 8 0}{bganim: 98 262}{0x6b: 3 8 0}{bganim: 98 262}{bg: 230}{person: 30 679 679}{0x63}{person: 30 680 680}{0x63}{wait: 30}{name: 7680}{hidetextbox: 0}{person: 30 674 673}{speed: 4}
+My exceptionally inquisitive{b}
+nature has won me unequivocal{b}
+adoration in my department.{wait_noanim: 70}{nextpage_nobutton}{person: 30 674 673}
+You see,{wait: 6} they used to call{b}
+me Wesley Stinkler.{wait: 16} And{b}
+Wesley Stickyhands.{wait_noanim: 70}{nextpage_nobutton}{hidetextbox: 1}{person: 30 676 676}{0x63}{wait: 30}{person: 30 686 685}{hidetextbox: 0}{speed: 5}
+But no longer.{wait: 16} I have a new{b}
+name,{wait: 12} one that reflects my{b}
+true academic nature...{wait_noanim: 70}{nextpage_nobutton}{person: 30 683 682}
+...Wesley Sicko,{wait: 8} reporting!{0x5a}{wait: 30}{b}{person: 30 689 688}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+Yes,{wait: 12} curiosity is a sickness,{wait: 8}{b}
+and I am the cure!{wait_noanim: 120}{nextpage_nobutton}{hidetextbox: 1}{wait: 90}{0x6b: 16 0 0}{0x7f: 8}{0x6b: 60 0 0}{0x7f: 14}{0x6b: 0 9 0}{bganim: 98 262}{0x6b: 3 9 0}{bganim: 98 262}{bg: 260}{person: 34 770 769}{name: 8704}{hidetextbox: 0}{speed: 4}
+I don't know how to thank{b}
+you for all you've done.{wait_noanim: 70}{nextpage_nobutton}{person: 34 770 769}
+Light has returned to my{b}
+life,{wait: 8} and with it,{wait: 8} joy.{wait_noanim: 70}{nextpage_nobutton}{person: 34 770 769}{speed: 5}
+I may have lost years,{wait: 10} but{b}
+I have gained a treasure.{b}{speed: 4}
+...Two treasures,{wait: 8} in fact.{wait_noanim: 70}{nextpage_nobutton}{person: 34 770 769}
+I will think of them when{b}
+I write my next song.{wait_noanim: 120}{nextpage_nobutton}{hidetextbox: 1}{wait: 90}{0x6b: 17 0 0}{0x7f: 8}{0x6b: 60 0 0}{0x7f: 14}{0x6b: 0 10 0}{bganim: 98 262}{0x6b: 3 10 0}{bganim: 98 262}{bg: 262}{person: 20 450 449}{name: 5120}{hidetextbox: 0}{speed: 3}
+Brush-a Brush-a Brushel!{wait: 8}{b}
+Brush-a Brush-a Brushel!{wait_noanim: 70}{nextpage_nobutton}{person: 20 450 449}
+Brushel here,{wait: 6} back on the{0x5a}{wait: 25}{b}{person: 20 452 451}
+beat with another interview!{b}{wait_noanim: 70}{nextpage_nobutton}{person: 20 452 451}{wait: 8}
+Eh?{wait: 8}{wait_noanim: 24} {person: 20 461 461}How do I feel about how{b}
+things{shake: 30 0} turned{shake: 30 0} out?{wait: 150}{nextpage_nobutton}{person: 20 457 456}{speed: 5}
+"No Scoop Yet But Journalist's{b}
+Confidence In Mint Condition",{0x5a}{speed: 10}{wait: 60}{b}{person: 20 462 462}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+end quoooooote!{wait: 100}{nextpage_nobutton}{hidetextbox: 1}{wait: 90}{0x6b: 18 0 0}{0x7f: 8}{0x6b: 60 0 0}{0x7f: 14}{0x6b: 0 11 0}{bganim: 98 262}{0x6b: 3 11 0}{bganim: 98 262}{bg: 241}{person: 19 415 414}{name: 4864}{hidetextbox: 0}{speed: 4}
+...I've decided to keep{b}
+painting.{wait: 16} Originals only,{wait: 8}{b}
+of course.{wait_noanim: 70}{nextpage_nobutton}{person: 19 417 416}
+...I suppose I'll have to see{b}
+a bit of the world outside{b}
+to find what to paint.{wait_noanim: 70}{nextpage_nobutton}{person: 19 415 414}{speed: 5}
+...But,{wait: 8} I know there are good{b}
+people out there now.{wait: 40} {person: 19 419 418}I've{b}
+met them.{wait_noanim: 70}{nextpage_nobutton}{hidetextbox: 1}{0x6b: 6 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{hidetextbox: 0}{speed: 5}
+...{wait: 8}The door is open.{0x5a}{wait: 30}{b}{0x59}{speed: 3}
+The world is waiting.{wait: 12}{b}
+Thank you.{wait_noanim: 120}{nextpage_nobutton}{hidetextbox: 1}{wait: 90}{0x6b: 19 0 0}{0x7f: 8}{0x6b: 60 0 0}{0x7f: 14}{0x6b: 0 12 0}{bganim: 98 262}{0x6b: 3 12 0}{bganim: 98 262}{bg: 176}{wait: 255}{wait: 60}{fademusic: 250}{wait: 220}{wait: 80}{bgcolor: 516 1 31}{wait: 25}{wait: 255}{wait: 90}{bg: 4095}{person: 0 0 0}{0x62: 4 15}{wingame}{special_jmp}{endjmp}

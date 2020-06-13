@@ -1,0 +1,380 @@
+
+
+{{0}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}There's a number inscribed on{b}
+the back of the badge.{p}
+There are many numbers like{b}
+it,{wait: 10} but this one is mine.{b}
+Proof that I'm an attorney.{p}{speed: 4}
+To tell the truth,{wait: 12} {speed: 3}I get a{b}
+happy feeling inside just{b}
+looking at it.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{hidetextbox: 0}{0x76: 0 2}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Hey...{wait: 20} look{shake: 30 0} there!{p}{0x76: 0 5}{speed: 3}
+That stain doesn't look so{b}
+healthy, Apollo!{p}{0x76: 0 4}
+That must be the{wait: 7} "Blue{b}
+Mountain"{wait: 6} stuff we've been{b}
+hearing about!{p}{name: 1024}
+Something tells me that even{b}
+Blue Mountain Coffee isn't{b}
+THIS blue.{p}
+No, this stain is probably...{wait: 20}{b}{color: 2}
+(Hmm, better ask Ema.){color: 0}{p}{bganim: 98 579}{0x10: 33567}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{hidetextbox: 0}{0x76: 0 1}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}See that,{wait: 12} there?{wait: 20} That's{b}
+poison.{nextpage_button}{name: 1024}
+Yeah.{nextpage_button}{0x76: 0 5}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Don't lick it,{wait: 16} Apollo!{nextpage_button}{name: 1024}{speed: 3}
+Don't worry,{wait: 10} I'll be fine.{nextpage_button}{0x76: 0 9}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+No,{wait: 10} you won't!{wait: 20} You'll die!{nextpage_button}{0x76: 0 2}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Look, I know! I meant I won't{b}
+lick it!{nextpage_button}{0x76: 0 3}{name: 1280}{speed: 4}
+Who knows what you do when{b}
+I'm not watching...{nextpage_button}{0x76: 0 1}{name: 1024}{color: 2}
+(...The concern is touching,{wait: 10}{b}
+really.){nextpage_button}{speed: 3}
+(Next thing you know she'll{b}
+be telling me not to drink{b}
+coffee before bedtime...){nextpage_button}{color: 0}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{hidetextbox: 0}{0x76: 0 5}{name: 1280}{speed: 3}Are you ready,{wait: 10} Apollo!?{p}{name: 1024}
+Ready?{wait: 10} For what?{p}{0x76: 0 4}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+For what!?{wait: 20} For the Troupe{wait: 20}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+Gramarye Grand Magic Show!{p}{speed: 3}{name: 1024}
+I-{wait: 15}It's not like I'm getting{b}
+up on stage or anything...{p}{0x76: 0 9}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 10}What are you talking about,{b}
+Apollo!?{p}{speed: 3}
+You can't enjoy magic if{b}
+you're not part of what's{b}
+going on up on stage!{p}{0x76: 0 4}
+I'll lend you my spare{b}
+costume if you need one.{p}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Huh?{wait: 20}{b}
+You mean,{wait: 10} I can't go in this?{p}{0x76: 0 8}{name: 1280}
+No.{p}{name: 1024}{color: 2}
+(...Doesn't get more{b}
+straightforward than that.){color: 0}{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{hidetextbox: 0}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}Ah,{wait: 10} lookey here.{wait: 16}{b}
+A handwritten signature.{p}
+It says{speed: 8}...{wait: 20} {speed: 3}I can't read it.{p}{0x76: 0 3}{name: 1280}
+That seems odd to me.{p}
+I mean,{wait: 10} isn't a signature{b}
+intended to show ownership?{p}{0x76: 0 5}
+What's the use if no one{b}
+can read it?{p}{name: 1024}
+Isn't it enough if you{b}
+can read your own?{p}{0x76: 0 2}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...{wait: 12}Oh!{wait: 8} I never thought{b}
+of it that way!{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{hidetextbox: 0}{0x76: 0 1}{name: 1280}{speed: 3}What a pretty business card.{wait: 15}{b}
+Looks like a postcard,{wait: 10} almost.{p}{name: 1024}
+And on the back... {speed: 5}Hmm.{wait: 20}{b}
+Just her name.{p}{0x76: 0 5}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+That seems odd to me.{p}{name: 1024}{speed: 3}
+Huh?{wait: 16} What does?{p}{name: 1280}
+Why write your name on the{b}
+front and back of the card?{p}{0x76: 0 4}
+Why not use the space on{b}
+the back for a self-portrait!{wait: 20}{b}
+Or a caricature!{p}{bgcolor: 2305 8 31}{shake: 30 0}
+Then people would remember{b}
+what you look like,{wait: 10} too.{p}{name: 1024}
+That's not a bad idea,{wait: 15}{b}
+actually.{p}{0x76: 0 6}{name: 1280}
+Here,{wait: 8} give me one of your{b}
+cards,{wait: 10} Apollo{speed: 8}...{p}{name: 1024}{color: 2}{speed: 3}
+(...{wait: 15}She's drawing something.{wait: 20}{b}
+Hey!{wait: 20} My hair's not THAT{b}
+spiky!){color: 0}{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{hidetextbox: 0}{0x76: 0 1}{name: 1280}{speed: 3}I guess you gotta have a{b}
+good business card if you{b}
+work freelance.{p}{name: 1024}
+Really.{wait: 20} What's this{speed: 8}...{wait: 20} {speed: 3}a{b}
+camera lens finder?{p}{0x76: 0 3}{name: 1280}
+Do reporters take photos{b}
+too?{p}{name: 1024}
+I guess if he's freelance,{wait: 10}{b}
+he'd have to.{p}{0x76: 0 4}{name: 1280}
+Maybe you should try being{b}
+a prosecutor and a defense{b}
+attorney!{wait: 20} You'd always win!{p}{name: 1024}
+Why don't I become a rock{b}
+star, too,{wait: 12} while I'm at it?{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{hidetextbox: 0}{name: 1024}{speed: 3}Well,{wait: 12} what do we have here...?{p}
+It looks like a person...{wait: 8}{b}
+thinking about something.{p}{name: 1280}{0x76: 0 3}
+Maybe they're worried?{p}{name: 1024}
+Like,{wait: 12} what should I have for{b}
+supper: a hot dog,{wait: 12} {speed: 3}or a{b}
+hamburger?{p}{name: 1280}{0x76: 0 3}{speed: 8}
+......{p}{name: 1280}{0x76: 0 1}{speed: 3}
+You know,{wait: 12} I've always wondered{b}
+about that.{p}
+Why is there "supper" and{b}
+"dinner"?{wait: 12} Are they different{b}
+meals or the same thing?{p}{0x76: 0 3}{name: 1024}{speed: 5}
+...{wait: 30}{speed: 3}Maybe that's what this{b}
+person's thinking about.{nextpage_button}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{hidetextbox: 0}{name: 1024}{speed: 3}Is that{speed: 8}...{wait: 20} {speed: 3}a pufferfish?{p}{0x76: 0 5}{name: 1280}
+Apollo!{wait: 6} That's clearly a{b}
+porcupinefish!{p}{name: 1024}{speed: 4}
+...{wait: 20}They're not the same{b}
+thing?{p}{0x76: 0 1}{name: 1280}{speed: 3}
+You know what gets me?{wait: 12} They've{b}
+got all these needles,{wait: 10} right?{p}
+But what's protecting that{b}
+soft spot on the lower belly{b}
+there?{wait: 20} Nothing!{p}{name: 1024}{speed: 4}{color: 2}
+(...{wait: 20}Must remember to keep{b}
+Trucy away from small,{wait: 10}{b}
+round fish.){color: 0}{nextpage_button}{speed: 255}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{hidetextbox: 0}{0x76: 0 1}{name: 1280}{speed: 3}Apollo,{wait: 12} look at this painting.{wait: 20}{b}
+You can see the rough sketch!{p}{name: 1024}
+Oh.{wait: 10} Looks like it was only{b}
+half-completed.{p}{0x76: 0 3}{name: 1280}
+Huh?{wait: 20}{b}
+That's funny.{p}{0x76: 0 8}
+Do the rough sketch and the{b}
+finished painting look totally{b}
+different to you,{wait: 10} too?{p}{name: 1024}
+...{wait: 20}They do,{wait: 10} actually!{wait: 20}{b}{color: 2}
+(What's that all about...?){color: 0}{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{0x76: 0 1}{hidetextbox: 0}{name: 1280}This rough sketch is only{b}
+half-{wait: 6}hidden by the oil{b}
+painting.{nextpage_button}{name: 1024}{speed: 3}
+I'll never understand{b}
+artists.{nextpage_button}{0x76: 0 3}{name: 1280}{speed: 4}
+Still,{wait: 10} it's impressive.{nextpage_button}{0x76: 0 1}{speed: 3}
+I wouldn't think you could{b}
+hide such a dark sketch{b}
+under a little paint.{nextpage_button}{name: 1024}
+Well,{wait: 6} it is called "oil{b}
+paint" for a reason.{nextpage_button}
+I'll bet it's pretty oily.{wait: 20}{b}
+The paint I mean.{nextpage_button}{0x76: 0 4}{name: 1280}{bgcolor: 2305 8 31}
+I'm still waiting for you to{b}
+get to your point.{nextpage_button}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{hidetextbox: 0}{0x76: 0 4}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}Hey, Apollo.{wait: 20} This painting,{wait: 8}{b}
+I know it!{p}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+Huh?{wait: 20} Really!?{p}{0x76: 0 1}{name: 1280}
+It's that story where the{b}
+old woman is doing the wash{b}
+in the river...{p}
+...{wait: 20}and this giant peach{b}
+comes a' floating on down.{p}{name: 1024}
+...{wait: 12}That might possibly be the{b}
+strangest thing I have ever{b}
+heard.{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{hidetextbox: 0}{0x76: 0 1}{name: 1280}{speed: 3}Apollo,{wait: 8} look!{wait: 16} It's been{b}
+opened once here.{p}{name: 1024}
+...{wait: 16}You're right.{wait: 20}{b}
+I wonder if there's some way{b}
+we can see what's inside?{p}{0x76: 0 5}{name: 1280}
+Should I try to get it open{b}
+and then stick it back shut?{p}{name: 1024}
+Let's not tamper with the{b}
+evidence,{wait: 8} shall we?{wait: 20} I've got{b}
+a better idea...{p}{0x76: 0 4}{name: 1280}
+...Ema!{wait: 16}{b}
+Let's ask her!{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{hidetextbox: 0}{name: 1024}{speed: 3}Hmm...{wait: 15} Looks like you have{b}
+to take this back part off{b}
+first to put a photo inside.{p}{0x76: 0 1}{name: 1280}
+It'd have to be a really{b}
+small photo to fit in there.{p}{name: 1024}
+True.{wait: 15}{b}
+And that pale bluish stain...{p}
+Why would there be poison{b}
+in a place like this?{p}{0x76: 0 3}{name: 1280}
+Well,{wait: 15} there's one obvious{b}
+reason.{p}{0x76: 0 6}
+Whoever put poison in the{b}
+coffee rubbed a bit on here,{wait: 12}{b}
+too!{nextpage_button}{0x76: 0 1}{name: 1024}
+That's not very obvious,{wait: 10}{b}
+Trucy.{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{hidetextbox: 0}{name: 1792}{speed: 3}Each attorney's badge has{b}
+a number engraved on the back.{p}
+No two numbers are the same.{p}
+So if you drop it,{wait: 8} people{b}
+will know it was you.{p}
+Better make sure I don't{b}
+lose mine.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{hidetextbox: 0}{name: 1792}{speed: 3}...I always hated getting{b}
+shots.{p}
+I guess Magnifi was giving{b}
+himself the insulin shots...{p}
+There's no way I could do{b}
+that... *shudder*{p}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...!{wait: 20} Wait!{p}
+If Magnifi used this to{b}
+inject his insulin...{p}
+...{wait: 12}why are there no traces of{b}
+it having been used?{p}
+Hmm...{wait: 20}{b}
+Something to keep in mind.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{hidetextbox: 0}{name: 1792}{speed: 3}If you look closely,{wait: 8} you can{b}
+see how the pistol's made to{b}
+bend here.{p}
+It's a one-shot only model,{b}
+and I guess this bend is where{b}
+you load it.{p}
+So...{wait: 20} this is the famous{b}
+Gramarye Golden Gun.{p}
+They say kids used to love{b}
+pretending they had one of{b}
+these.{p}
+I wonder if they pretended{b}
+to miss their targets, too?{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{hidetextbox: 0}{name: 1792}This is the last page.{wait: 16}{b}
+The diary ends here.{p}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...!{p}
+Huh?{wait: 20} What's this?{p}
+It looks like...{wait: 20} a page{b}
+was ripped out?{p}
+Well now,{wait: 10} isn't that{b}
+interesting?{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{hidetextbox: 0}{name: 1792}{speed: 3}...{wait: 8}So this is Trucy's mother,{wait: 10}{b}
+Thalassa.{p}
+She's pretty.{wait: 20} I can picture{b}
+her on stage with Zak.{p}
+Still,{wait: 10} she looks like a{b}
+down-to-earth type,{wait: 10} too.{wait: 20}{b}
+I guess Trucy takes after her.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{hidetextbox: 0}{name: 1792}{speed: 3}Hmm...{wait: 6} "Ariadoney"{wait: 6}... I've{b}
+heard of that brand.{nextpage_button}
+And this must be the brand{b}
+symbol...{wait: 16} It's supposed to{b}
+be some kind of flower.{nextpage_button}
+Wait,{wait: 4} no,{wait: 4} maybe it's a hand.{wait: 25}{b}
+Wait...{wait: 8} on second thought.{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}
+Is that an eagle?{nextpage_button}{speed: 8}
+......{nextpage_button}{speed: 3}
+Who makes these things up,{wait: 16}{b}
+anyway?{nextpage_button}
+You'd think they'd try for a{b}
+clearer symbol,{wait: 10} at least.{nextpage_button}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{hidetextbox: 0}{name: 1792}{speed: 3}There's no mistaking it.{wait: 20}{p}
+This commemorative stamp was{b}{bgcolor: 2305 8 31}{shake: 30 0}
+the one on the desk at{b}
+Drew Studio.{p}
+...{wait: 20}Which makes this the letter{b}
+he mailed just before he died.{p}
+Better hold on to this one.{nextpage_button}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{hidetextbox: 0}{name: 1024}{speed: 3}This stamp...{wait: 20} It's of the{b}
+Gramaryes,{wait: 10} isn't it?{p}
+Why did Mr. Wright give{b}
+me this letter right before{b}
+the trial?{p}
+What could it mean...?{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{hidetextbox: 0}{name: 1024}{speed: 3}This is...{wait: 20} a commemorative{b}
+stamp of Troupe Gramarye.{p}
+But Mr. Wright wrote this{b}
+letter himself.{p}
+Based on the video, right?{p}
+Did he go out of his way to{b}
+find an identical stamp and{b}
+put it on here?{p}
+Seems like a bit of wasted{b}
+effort if you ask me...{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{hidetextbox: 0}{name: 1792}{speed: 3}Zak's signature.{p}
+I'm sure he's written it many{b}
+times,{wait: 15} being an ex-{wait: 8}star and{b}
+all.{p}
+Hmm.{wait: 15} I bet there's plenty of{b}
+people out there who'd kill{b}
+for a Zak Gramarye autograph.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{24}}
+{bop}{hidetextbox: 0}{name: 1024}{speed: 3}The nail polish Mr. Wright{b}
+gave me.{p}
+This must be the brand{b}
+symbol.{nextpage_button}
+It's an{wait: 6} "A",{wait: 6} drawn like a{b}
+flower.{nextpage_button}
+It's refreshing to see a{b}
+brand with a simple,{wait: 10} clear{b}
+design like this.{nextpage_button}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{25}}
+{bop}{hidetextbox: 0}{name: 1024}{speed: 3}There's an address on here...{wait: 20}{b}
+And a name I've never heard{b}
+of.{p}
+At least,{wait: 8} I think so...{wait: 20}{b}
+It's too blurry to read.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{26}}
+{bop}{hidetextbox: 0}{name: 1280}{0x76: 0 3}{speed: 3}Hey,{wait: 12} Apollo.{wait: 20} It's not{b}
+addressed to Kristoph!{p}{name: 1024}
+Huh,{wait: 8} you're right.{wait: 20}{b}
+...{wait: 16}I guess it makes sense.{p}
+It would show a connection,{wait: 12}{b}
+if it was.{nextpage_button}
+And,{wait: 10} for the killer,{wait: 6} it's{b}
+kind of the murder weapon.{p}
+I doubt he'd give out his{b}
+real name along with his{b}
+address.{nextpage_button}{0x76: 0 1}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Oh,{wait: 10} good point.{wait: 20}{b}
+How sneaky!{p}{name: 1024}{color: 2}
+(Murder by mail...{wait: 15}{b}
+That's a scary thought.){color: 0}{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{27}}
+{bop}{hidetextbox: 0}{name: 1792}{speed: 3}Valant used this to manipulate{b}
+the time of death,{wait: 10} washed it,{wait: 10}{b}
+and left the scene.{p}
+...{wait: 15}Which is why it shows{b}
+no signs of use.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{28}}
+{bop}{hidetextbox: 0}{name: 1792}{speed: 5}The ripped-{wait: 15}out page...{b}
+Now I see that everything{b}
+has been a set-up.{p}{bgcolor: 2305 8 31}{shake: 30 0}
+All so I would present forged{b}
+evidence to the court.{p}{0x74: 5 0}{special_jmp}{endjmp}

@@ -1,0 +1,182 @@
+
+
+{{0}}
+{bop}{newevidence: 32870}{0x62: 4 2}{0x10: 32799}{0x26: 0}{bg: 30}{person: 0 0 0}{name: 0}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{0x74: 2 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}October 8, 1:24 PM{b}
+District Court{b}
+Defendant Lobby No. 6{color: 0}{p}{center_text: 0}{hidetextbox: 1}{wait: 30}{speed: 255}{wait: 30}{personvanish: 3 4}{person: 5 76 75}{0x5a}{wait: 64}{name: 1280}{hidetextbox: 0}{0x59}{speed: 5}
+OK...{nextpage_button}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+So where exactly does this{b}
+leave us,{wait: 12} Apollo?{nextpage_button}{name: 1024}{speed: 3}
+Well,{wait: 12} the Drew Misham who{b}
+was killed...{p}{person: 5 75 75}
+...wasn't{wait: 6} "Drew Misham the{b}
+forger", basically.{p}{name: 1280}{person: 5 82 81}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Huh?{wait: 10}{b}
+Well then,{wait: 8} who was he?{p}{name: 1024}{person: 5 75 75}
+Well{wait: 6} "he" was actually...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 416 416}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{showphoto: 223}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 25 0}{name: 4864}{speed: 6}
+..{speed: 8}..{speed: 10}..{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(...Doing her nails.){color: 0}{nextpage_button}{speed: 5}
+So,{wait: 20} {speed: 3}you really made those{b}{color: 1}
+forgeries{color: 0}?{p}{name: 4864}{speed: 6}
+..{speed: 8}..{speed: 10}..{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{sound: 52 1}{bgcolor: 2305 8 31}{person: 19 414 414}{wait: 80}{0x6b: 1 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{hidetextbox: 0}{name: 4864}{speed: 8}{0x5a}
+...{0x59}{speed: 5}Yes...{0x5a}{wait: 30}{b}
+   {0x59}For Father...{p}
+...I know{b}
+   it was wrong...{nextpage_button}{name: 1280}{person: 5 68 67}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Could you tell us how it{b}
+happened?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 414 414}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 8}
+......{p}{person: 19 417 416}{speed: 4}
+...{wait: 14}My father was a painter...{p}
+...{wait: 14}I loved painting ever since{b}
+   I was a child...{p}
+...One day,{wait: 10} Father saw it{b}
+   in me...{p}{speed: 5}
+...{wait: 14}{speed: 4}He saw that I had the{wait_noanim: 25}{b}{person: 19 415 414}{sound: 52 1}{bgcolor: 2305 8 31}
+   "talent"{wait: 6}{speed: 6}...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+The talent{speed: 6}...{wait: 14} {speed: 3}for making{b}{color: 1}
+forgeries{color: 0}?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 417 416}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+...How should I say it?{wait: 16} It was{b}
+   not only paintings I made...{p}{speed: 4}
+...Given the materials,{wait: 10}{b}
+   I could make...{wait: 16} anything...{nextpage_button}{name: 1024}{person: 19 416 416}{speed: 5}
+Anything...?{p}{hidetextbox: 1}{0x6b: 0 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{name: 4864}{person: 19 431 430}{hidetextbox: 0}
+...Father was so proud,{wait: 16}{b}
+   and I,{wait: 16} so happy...{nextpage_button}{hidetextbox: 1}{0x6b: 1 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{hidetextbox: 0}{speed: 6}
+...But,{wait_noanim: 20} {0x59}in the end,{wait: 8} I was{b}
+   making... those...{nextpage_button}{name: 1024}{speed: 4}
+...{wait: 20}{speed: 3}{color: 1}Forgeries{color: 0}.{p}{name: 4864}{speed: 5}
+...{wait: 10}I've never had a good{b}
+   constitution,{wait: 8} nor...{wait: 16}{b}
+   personality...{p}
+...{wait: 10}I know very little of the{b}
+   world outside my door...{nextpage_button}{speed: 8}
+......{nextpage_button}{person: 19 417 416}{speed: 6}{0x5a}
+...{0x59}Now,{wait: 8} because of me{0x5a}...{wait: 30}{b}{person: 19 415 414}
+   Father... is...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+...Do you know about this{b}{showphoto: 202}
+red envelope?{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 415 414}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+...I remember that envelope.{wait: 16}{b}
+   It was some time ago...{nextpage_button}{name: 1024}{speed: 3}
+So,{wait: 8} you were already a,{wait: 12} um...{nextpage_button}{person: 19 416 416}{sound: 52 1}{bgcolor: 2305 8 31}
+You were already creating your{wait: 6}{b}
+"{color: 1}works{color: 0}" back then?{p}{name: 4864}{person: 19 417 416}{speed: 5}
+...I started when I was only{b}
+   twelve years old...{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+So the one who figured out{b}
+the stamp was poisoned,{wait: 8} that{b}
+was...{nextpage_button}{name: 11008}{person: 19 414 414}{fademusic: 60}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 12}Mr. Justice!{wait: 20} It's time!{wait: 20}{b}
+To the courtroom,{wait: 8} please!{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{speed: 2}
+R-{wait: 12}Right!{wait: 20}{b}{speed: 5}{color: 2}
+(Out of time...){color: 0}{nextpage_button}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Wait,{wait: 10} Vera!{wait: 14} Just one more{b}
+thing,{wait: 8} please!{nextpage_button}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Those three paintings in the{b}
+studio...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 415 414}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+...{wait: 14}I painted those,{wait: 8} as part{b}
+   of my work...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 86 85}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+Right.{wait: 15} See,{wait: 8} we checked them{b}
+out and we saw what was{b}
+underneath.{p}{hidetextbox: 1}{person: 0 0 0}{bg: 64}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 25 80}{hidetextbox: 0}{speed: 5}
+We saw the rough sketches{b}{bg: 68}{bgcolor: 2305 8 31}
+underneath the three finished{b}
+paintings...{bg: 67}{bgcolor: 2305 8 31}{nextpage_button}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{bg: 30}{person: 19 416 416}{bgcolor: 260 1 31}{wait: 25}{name: 4864}{person: 19 415 414}{hidetextbox: 0}{speed: 5}
+...I see...{nextpage_button}{person: 19 416 416}{speed: 6}
+..{speed: 8}..{speed: 10}..{nextpage_button}{name: 4864}{person: 19 415 414}{speed: 5}
+...Mr. Justice...{p}{name: 1024}{person: 19 414 414}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...Yes!?{p}{name: 4864}{person: 19 417 416}{speed: 5}
+...Father{0x5a}...{0x59}{wait: 16}{b}
+   He knew of you...{p}{person: 19 415 414}{sound: 52 1}{bgcolor: 2305 8 31}
+...Of both of you...{p}{name: 1024}{person: 19 414 414}{showphoto: 167}{speed: 4}
+Your late father...?{p}{name: 4864}{person: 19 415 414}{speed: 5}
+...He was watching,{wait: 8} gathering{b}
+   information...{p}
+...{wait: 15}All about the "Wright & Co.{b}
+   Law Offices"...{nextpage_button}{bganim: 98 579}{name: 1280}{person: 5 82 81}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+B-{wait: 10}But lately,{wait: 8} we're not doing{b}
+just law...!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 415 414}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+...Yes.{wait: 10} You do tricks,{wait: 10} gags to{b}
+   amuse... and play piano...{nextpage_button}{name: 1280}{person: 5 82 81}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Well,{wait: 8} they're not really{b}
+"gags"...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 415 414}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+...Yet when Father heard{b}
+   you had resumed the legal{b}
+   business...{nextpage_button}{hidetextbox: 1}{0x6b: 0 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{hidetextbox: 0}
+...{wait: 12}How pleased he was...{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}{0x5a}
+...{wait: 20}{0x59}Who was Mr. Misham?{nextpage_button}{name: 1024}{person: 5 81 81}
+...How'm I supposed to know?{nextpage_button}{name: 1280}{person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+What if he was Daddy's{b}
+Daddy?{nextpage_button}{person: 5 75 75}{name: 1024}
+Judging from the relative{b}
+ages involved,{wait: 8} I'd say it's{b}
+highly unlikely.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 19 416 416}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{showphoto: 223}{speed: 4}{color: 2}
+(Things are already confusing{b}
+enough with all these daddies{b}
+running around.){p}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{bganim: 98 579}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{speed: 4}
+(We know that the victim's{wait: 10}{b}
+daughter,{wait: 8} Vera,{wait: 8} was the{b}{color: 1}
+forger{color: 2}.){p}{speed: 3}
+(What does this mean for the{b}
+case...?{wait: 12} Guess we're about{b}
+to find out.){color: 0}{nextpage_button}{fademusic: 120}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{endjmp}
+
+{{1}}
+{bop}{0x26: 0}{bg: 4095}{person: 0 0 0}{name: 0}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{center_text: 1}{wait: 30}{speed: 10}{0x30: 2}{color: 3}October 8, 1:36 PM{b}
+District Court{b}
+Courtroom, No. 3{p}{color: 0}{center_text: 0}{wait: 30}{speed: 255}{wait: 30}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 66 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{fademusic: 0}{music: 1 0}{bg: 29}{name: 2560}{hidetextbox: 0}{person: 10 259 258}
+Court is now back in session.{p}{bg: 27}{person: 19 425 425}{name: 4864}{hidetextbox: 0}{speed: 8}
+...{shake: 30 0}...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{speed: 4}{color: 2}
+(Vera seems pretty tense.){nextpage_button}{bg: 27}{person: 19 425 425}
+(She's practically chewing{b}
+her fingernails clean off!){color: 0}{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+Perhaps you could begin by{b}
+telling us how it all worked.{nextpage_button}{person: 6 149 148}
+How did you set up this{wait: 6} "{color: 1}Drew{b}
+Misham forger{color: 0}"{wait: 5} persona?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 414}{wait: 32}{name: 4864}{person: 19 414 414}{hidetextbox: 0}{speed: 6}
+..{wait: 8}..{wait: 10}..{p}{person: 19 420 420}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+..{wait: 8}..{wait: 10}..{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{name: 1024}{person: 4 40 40}{hidetextbox: 0}{color: 2}
+(There's that stare again{wait: 6}{speed: 8}...{wait: 20}{b}{speed: 3}
+She's drilling more holes{b}
+into his head.){color: 0}{p}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 3}
+I know it's hard for you, but{b}
+hey,{wait: 12} he's a handsome guy.{nextpage_button}{name: 1024}{shake: 30 0}
+What's{wait: 6} "hard"!?{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}
+Very well,{wait: 12} miss,{wait: 12}{person: 10 259 258} if you{b}
+would...{p}{person: 10 263 262}
+...did you really make those{b}
+detestable {color: 1}forgeries{color: 0}...?{p}{bg: 27}{name: 4864}{person: 19 422 422}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+.{bgcolor: 2305 8 31}..!{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+Perhaps you'd rather answer{b}
+my question?{p}{person: 6 149 148}
+Were you the one who painted{b}
+that painting.{wait: 14} The remarkably{b}
+similar one?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 414}{wait: 32}{name: 4864}{person: 19 415 414}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+...{wait: 20}{speed: 3}Ah... Yes...{p}{hidetextbox: 1}{0x6b: 0 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{hidetextbox: 0}
+...{wait: 14}I painted it,{wait: 8} yes...{nextpage_button}{name: 4864}{person: 19 415 414}
+...Father praised me{b}
+   quite highly for it...{p}{bg: 29}{person: 10 266 266}{name: 2560}
+So...{wait: 30}{person: 10 259 258}{speed: 3} she was the one who{b}
+made the{wait: 6} {color: 1}forgeries{color: 0}.{p}{bg: 26}{name: 13568}{person: 6 151 150}
+Yet,{wait: 10} she did not wish to{b}
+reveal the truth of their{b}
+operation.{p}{speed: 4}
+So the victim was a stand-in,{wait: 12}{b}{showphoto: 167}
+a decoy.{p}{person: 6 146 145}{speed: 3}
+To the world at large,{wait: 6} he{b}
+was the forger,{wait: 6} not her.{p}{bganim: 98 579}{bg: 27}{name: 4864}{person: 19 425 425}{speed: 8}
+......{p}{person: 19 415 414}{speed: 5}
+...{wait: 16}I've done... a bad thing.{wait_noanim: 30}{b}{person: 19 415 414}{speed: 6}
+   I have,{wait: 8} haven't I...?{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 5}
+Regardless,{wait: 10} we need a little{b}
+more information.{p}{speed: 4}
+About,{wait: 10} for instance...{wait_noanim: 20}{b}{showphoto: 202}{person: 6 146 145}{speed: 3}
+...this!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{name: 1024}{person: 4 36 36}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}
+...!{p}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 3}
+...{wait: 10}You have seen this before,{wait: 16}{b}
+ja?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 19 416}{wait: 32}{name: 4864}{person: 19 417 416}{hidetextbox: 0}{showphoto: 202}{speed: 8}
+...{wait: 20}{speed: 5}Y-Yes{speed: 8}...{wait: 30}{b}{person: 19 417 416}{speed: 4}
+   It was in the desk drawer...{nextpage_button}{bganim: 98 579}{fademusic: 45}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{speed: 3}
+Very well,{wait: 10} you may proceed{b}
+with your testimony.{p}{person: 10 263 262}{showphoto: 202}
+Tell us everything you know{b}
+about this envelope.{nextpage_button}{hidetextbox: 1}{removephoto}{testimony_animation: 1}{special_jmp}{endjmp}

@@ -1,0 +1,133 @@
+
+
+{{0}}
+{bop}{0x62: 2 4}{0x10: 33280}{0x10: 33281}{0x10: 33282}{0x10: 33283}{0x10: 33284}{0x10: 33285}{0x10: 33286}{0x10: 33287}{0x10: 33288}{0x10: 33289}{0x10: 32924}{0x10: 32940}{0x10: 33729}{0x10: 32962}{0x10: 32963}{0x10: 32860}{0x26: 0}{bg: 30}{person: 0 0 0}{name: 0}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{0x74: 2 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 17, 9:52 AM{b}
+ District Court {b}
+Defendant Lobby No. 2{nextpage_button}{color: 0}{fademusic: 0}{music: 39 0}{center_text: 0}{wait: 30}{speed: 255}{0x38: 1}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+This is it,{wait: 8} the big day!{wait: 16}{b}
+Did you get any sleep?{nextpage_button}{person: 5 95 95}{name: 1024}
+Yeah,{wait: 8} I went to bed at{b}
+1:00 AM or so.{p}{person: 5 74 73}{name: 1280}
+Oh?{wait: 16} What time did you{b}
+wake up?{nextpage_button}{person: 5 81 81}{name: 1024}
+...{wait: 20}3:00 AM.{wait: 16}{nextpage_button}{person: 5 76 75}{name: 1280}
+That's only two hours,{wait: 8}{b}
+Apollo...{nextpage_button}{person: 5 74 73}
+But,{wait: 8} at least you have me!{nextpage_button}{hidetextbox: 1}{0x8e: 5 87}{sound: 186 1}{0x63}{0x8e: 5 109}{0x63}{0x8e: 5 110}{0x63}{0x8e: 5 111}{0x63}{0x8e: 5 112}{0x63}{0x8e: 5 113}{0x63}{0x8e: 5 114}{0x63}{0x8e: 5 115}{0x63}{0x8e: 5 116}{0x63}{0x8e: 5 117}{0x63}{0x8e: 5 118}{0x63}{0x8e: 5 119}{0x63}{0x8e: 5 120}{0x63}{0x8e: 5 121}{0x63}{0x8e: 5 122}{0x63}{0x8e: 5 123}{0x63}{0x8e: 5 124}{0x63}{0x8e: 5 125}{0x63}{0x8e: 5 126}{0x63}{0x8e: 5 127}{0x63}{0x8e: 5 128}{0x63}{0x8e: 5 129}{0x63}{0x8e: 5 130}{0x63}{0x63}{person: 5 107 106}{name: 1280}{hidetextbox: 0}
+...{wait: 20}And the Amazing Mr. Hat!{nextpage_button}{person: 5 108 106}{name: 11776}{soundtoggle: 0}{color: 3}
+Here's looking at you,{wait: 8} kid.{wait: 12}{color: 0}{nextpage_button}{soundtoggle: 1}{person: 5 106 106}{name: 512}{sound: 52 1}{speed: 3}
+Good luck today,{wait: 8} Apollo.{nextpage_button}{person: 5 106 106}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Th-{wait: 16}That voice{speed: 8}...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{wait: 16}{wait: 30}{person: 7 180 179}{name: 1792}{hidetextbox: 0}{speed: 3}
+Heya.{wait: 16} Get any sleep?{nextpage_button}{person: 7 179 179}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 20}Mr. Wright!{p}{person: 7 184 183}{name: 1792}{speed: 3}
+I was going out of my mind{b}
+with boredom, so I signed{b}
+myself out earlier today.{p}{person: 7 178 177}
+Somehow, that place makes fake{b}
+piano playing at the Indochine{b}
+pasta joint seem almost fun.{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Daddy!{wait: 16} {speed: 3}Do you know who{b}
+Prosecutor Gavin's witness{b}
+is today?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 190 189}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+Take a guess!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 75 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}
+Hmm...{wait_noanim: 30} {person: 5 74 73}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}How about Little Plum?{b}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 191 191}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Ah ha ha!{wait: 20}{person: 7 190 189} That Sherman tank{b}
+of a mom?{wait: 16} Nope,{wait: 8} guess again.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 4}
+That's too bad.{wait: 16} You know,{wait_noanim: 30}{b}{person: 5 96 95}{speed: 3}
+speaking of moms...{p}{person: 5 74 73}
+You need to find me a new{b}
+mommy one of these days,{wait: 8}{b}
+Daddy!{nextpage_button}{person: 7 182 181}{name: 1792}{bgcolor: 2305 8 31}{speed: 4}
+It's barely morning and you're{b}
+at it already,{wait: 8} Trucy!{wait_noanim: 30}{nextpage_button}{person: 7 191 191}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Ah{wait: 8} ha{wait: 8} ha{wait: 8} ha{wait: 8} ha{wait: 8} ha!{wait: 20}{nextpage_button}{person: 7 189 189}{name: 1024}{speed: 4}{color: 2}
+(OK,{wait: 8} see, this is why I don't{b}
+buy their "father-daughter"{b}
+relationship.){color: 0}{nextpage_button}{person: 7 179 179}
+So, Mr. Wright!{wait: 16} Do you know{b}
+who the prosecution's witness{b}
+is?{nextpage_button}{person: 7 178 177}{name: 1792}
+...{wait: 20}Alita Tiala. {wait: 16}{person: 7 188 187}Your client's{b}
+fianc{1984}e.{nextpage_button}{name: 1024}{color: 2}{speed: 3}
+(She's going to be a{b}
+witness!?){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+But that seems odd...{wait_noanim: 20}{person: 5 68 67} Why{b}
+would she testify against{b}
+her own fianc{1984}?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 184 183}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{speed: 4}
+You have to wonder what{b}
+Gavin's up to.{nextpage_button}{name: 1024}{speed: 3}{color: 2}
+(Something's going down today,{wait: 8}{b}
+that much is clear!){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+Well,{wait: 8} not to worry.{wait: 16} I've{b}
+got my panties back.{p}{person: 5 74 73}
+If we can't find a killer,{wait: 8}{b}
+I'll pull one out of there!{nextpage_button}{hidetextbox: 1}{fademusic: 45}{bgcolor: 516 1 31}{wait: 25}{0x26: 1}{endjmp}
+
+{{1}}
+{bop}{0x26: 0}{person: 0 0 0}{bg: 4095}{bgcolor: 258 1 31}{wait: 15}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}June 17,{wait: 10} 10:00 AM{b}
+ District Court {b}
+Courtroom No. 4{color: 0}{nextpage_button}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{fademusic: 0}{music: 40 0}{bg: 29}{person: 10 259 258}{name: 2560}
+Court is now in session for{b}
+the trial of Wocky Kitaki.{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}
+The defense is ready,{wait: 8}{b}
+Your Honor.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{person: 6 146 145}{name: 13568}{hidetextbox: 0}
+...{wait: 20}Prosecution is warmed up,{wait: 8}{b}
+and it's a sold-out house.{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}
+Very well,{wait: 8} to recap...{nextpage_button}{person: 10 263 262}
+While yesterday's witness{b}
+seemed more guilty than any{b}
+other party...{nextpage_button}{bg: 28}{person: 5 99 98}{name: 1280}
+Guilty of panty-snatching!{p}{bg: 29}{person: 10 259 258}{name: 2560}
+We did find out one thing{b}
+for certain.{nextpage_button}{person: 0 0 0}{bg: 117}
+There were three people in{b}
+the park at the time of the{b}
+murder:{p}
+The witness,{wait: 8} the victim,{wait: 8} and{b}
+the defendant.{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}
+...{wait: 20}Correct,{wait: 8} Herr Judge.{wait: 16}{b}
+And today,{wait: 8} I'd like to do{b}
+something a little new age.{p}{speed: 3}
+I'd like to look at this{b}{person: 6 146 145}
+horrible crime...{wait: 12} from the{b}
+outside.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{person: 4 41 40}{name: 1024}{hidetextbox: 0}
+The{wait: 6} "outside"{wait: 6}{speed: 5}...?{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 4}
+The acquisition of the{b}
+murder weapon...{wait: 16} The{b}
+preparation for the act...{nextpage_button}{person: 6 151 150}
+Our poor defendant told all,{wait: 8}{b}
+you see.{nextpage_button}{person: 6 157 156}{speed: 4}
+...{wait: 20}To his betrothed.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}
+His...{wait: 20} bee trove?{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+...{wait: 20}His fianc{1984}e,{wait: 8} Herr Judge.{wait: 16}{b}
+His partner for life...{wait: 20} with{b}
+no chance for parole.{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 4}
+Very well,{wait: 8} you may show the{b}
+erm... "lucky" lady to the{b}
+stand.{nextpage_button}{hidetextbox: 1}{fademusic: 45}{bgcolor: 514 1 31}{wait: 15}{fademusic: 0}{music: 40 0}{bg: 27}{person: 13 320 320}{bgcolor: 258 1 31}{wait: 15}{wait: 60}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{person: 6 146 145}{0x5a}{name: 13568}{hidetextbox: 0}{0x59}
+...{wait: 16}Your name and occupation,{wait: 8}{b}
+Fr{1988}ulein.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 13 320}{wait: 32}{person: 13 321 320}{name: 3328}{hidetextbox: 0}{speed: 4}
+Alita Tiala.{wait: 16} My occupation...{wait: 20}{b}
+is future wife.{nextpage_button}{bg: 29}{person: 10 260 260}{name: 2560}{speed: 5}
+Ah,{wait: 8} traditional values!{wait: 30}{b}{person: 10 259 258}{speed: 4}
+I respect that.{p}{person: 10 263 262}{speed: 3}
+Too many brides these days{b}
+can't even weave baskets{b}
+blindfolded...{wait: 20} underwater.{nextpage_button}{person: 10 265 264}{speed: 4}
+Yet you're here today as a{b}{speed: 3}
+witness for the prosecution?{nextpage_button}{bg: 27}{person: 13 332 331}{name: 3328}
+To be honest,{wait: 10} I didn't want to{b}
+testify at first.{nextpage_button}{person: 13 335 334}
+But...{wait: 20} I couldn't hide the{b}
+truth.{nextpage_button}{bg: 29}{person: 10 260 260}{name: 2560}
+Hmm.{wait: 20} Honesty!{0x63}{person: 10 259 258} Another{b}
+admirable trait.{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}
+...{wait: 20}Fr{1988}ulein,{wait: 8} is it true{b}
+that,{wait: 10} on the day of the{b}
+crime...{p}
+...{wait: 20}the defendant,{wait: 8} Wocky{b}
+Kitaki confessed his plans?{nextpage_button}{person: 6 149 148}
+His plans{wait: 6}...{wait: 20} for murder?{nextpage_button}{bg: 27}{person: 13 332 331}{name: 3328}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...{wait: 20}Yes.{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+The witness will please give{b}
+her testimony to the court!{p}{hidetextbox: 1}{fademusic: 45}{testimony_animation: 1}{special_jmp}{endjmp}

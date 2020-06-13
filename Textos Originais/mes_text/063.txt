@@ -1,0 +1,125 @@
+
+
+{{0}}
+{bop}{0x26: 0}{0x4d: 39 0}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 15{b}
+Detention Center{b}
+Visitor's Room{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{name: 1280}{person: 5 67 67}{personvanish: 3 1}{person: 5 68 67}{wait: 16}{hidetextbox: 0}
+Polly!{wait: 16} You look as happy{b}
+as a clam in its shell.{p}{name: 1024}{person: 5 67 67}
+For a lawyer this is it,{wait: 8} the{b}
+place where the battle begins!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{wait: 40}{name: 13312}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}Ahem.{b}{speed: 3}
+You need something?{p}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Aaah!{wait: 20} Yes,{wait: 8} we're attorneys.{wait: 20}{p}{speed: 3}
+I was hoping we could see{b}
+Mr. Wocky Kitaki?{p}{name: 13312}
+Sorry,{wait: 7} he's in questioning{b}
+right now.{wait: 16} Could take a while.{p}{name: 1280}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{wait: 16}{person: 5 76 75}{hidetextbox: 0}{speed: 4}
+Drat.{wait: 16} Oh well,{wait: 7} {speed: 3}guess we'll{b}
+have to come back later then.{nextpage_button}{name: 1024}{person: 5 67 67}
+So much for that battle{speed: 7}...{speed: 3}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{0x10: 32846}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{person: 0 0 0}{name: 1024}That security camera is{b}
+looking at me.{p}
+I wonder if they tape all{b}
+of this.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{person: 0 0 0}{name: 1024}A security guard.{wait: 20} He stands{b}
+here,{wait: 8} watching this room.{p}
+I have no idea if he's{b}
+listening to us talk.{p}
+I'm not even sure he's{b}
+breathing.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 15{b}
+Detention Center{b}
+Visitor's Room{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{person: 0 0 0}{name: 13312}
+I'm sorry.{wait: 12} Meeting hours for{b}
+the day are all done.{p}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+B-But we still have three{b}
+minutes!{p}{name: 13312}{speed: 3}
+I'll put in your request,{wait: 12}{b}
+but don't expect anything.{p}
+The father's talking in the{b}
+private room with him.{p}{hidetextbox: 1}{0x4d: 39 0}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{sound: 52 1}{bgcolor: 2305 8 31}{name: 1280}{hidetextbox: 0}{speed: 5}
+The father?{wait: 20} You mean like a{b}
+priest?{p}{person: 5 81 81}{name: 13312}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+I mean the suspect's father,{wait: 10}{b}
+Mr. Winfred "Big Wins" Kitaki{b}
+himself.{p}{shake: 30 0}{bgcolor: 2305 8 31}{person: 5 67 67}{name: 1024}{speed: 5}{color: 2}
+(Not someone I care to meet{speed: 10}...){color: 0}{nextpage_nobutton}{person: 5 81 81}{name: 512}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+...{wait: 20}Die you--!!!{p}{name: 512}{sound: 50 1}{shake: 30 2}
+...{wait: 16}You're the one on your{b}
+way out,{wait: 10} old--!!!{p}{name: 1024}{speed: 8}
+......{p}{person: 5 83 83}{name: 1280}
+.........{p}{person: 5 81 81}{name: 13312}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Ah.{wait: 16} They're here.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{wait: 40}{personvanish: 3 4}{person: 17 403 403}{wait: 64}{bgcolor: 2305 8 31}{sound: 52 1}{wait: 20}{fademusic: 0}{music: 20 0}{wait: 30}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 1}{hidetextbox: 0}{speed: 4}{color: 2}
+(Whoa!{bgcolor: 2305 8 31}{wait: 20} This guy radiates{b}
+power!){p}
+(Power...{wait: 20} {speed: 5}with a cute{b}
+apron?){color: 0}{p}{person: 17 404 403}{name: 512}{speed: 4}
+You Wocky's lawyer?{nextpage_button}{person: 17 403 403}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Y-Yes,{wait: 12} sir!{p}{newevidence: 32817}{person: 17 404 403}{name: 4352}{speed: 4}
+Well,{wait: 8} I'm Big Wins Kitaki,{wait: 8}{b}
+fourth head of the Kitaki{b}
+family...{wait: 16} capice?{nextpage_button}{person: 17 403 403}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Er...{wait: 20} Actually,{wait: 12} I came to{b}
+speak to your son.{p}{person: 17 404 403}{name: 4352}{0x5a}{speed: 6}
+.{speed: 7}.{speed: 8}.{b}{0x59}{speed: 4}
+Mr. Justice.{nextpage_button}{person: 17 403 403}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Yes?{p}{person: 17 404 403}{name: 4352}{speed: 4}
+My son's innocent.{wait: 16}{b}
+He killed no one.{p}{person: 17 404 403}{name: 4352}
+If he were found guilty...{wait: 20}{b}
+it wouldn't be good.{p}
+...{wait: 20}Capice?{nextpage_button}{person: 17 403 403}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Y-{wait: 6}Yes!{wait: 20} I'm all about capicing!{b}
+Capice'd loud and clear!{p}{person: 17 404 403}{name: 4352}{speed: 4}
+You gotta do more than just{b}
+understand to make it.{p}
+You'll learn,{wait: 8} though.{p}{speed: 5}
+Even if the lesson comes at{b}
+the end of your short life.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{color: 2}
+(I don't feel so good...){color: 0}{nextpage_button}{person: 17 403 403}{name: 512}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+What's the big idea,{wait: 8} old man!{p}{0x4d: 39 1}{person: 14 351 350}{name: 3584}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+You can't treat me like a kid{b}
+no more,{bgcolor: 2305 8 31}{wait: 8} not now!{p}{person: 14 362 361}{speed: 3}
+You know I...{wait: 16} I...{p}{person: 14 355 354}{sound: 50 1}{shake: 30 1}{speed: 2}
+I wanted to go to the clink!{wait: 14}{b}
+I like it here!{nextpage_button}{0x19: 32805 38}{person: 14 350 350}{name: 1024}{speed: 4}
+You...{wait: 12} must be Wocky?{p}{person: 14 355 354}{name: 3584}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+A G's not a G till he does{b}
+hard time!{wait: 15} Bizzoooy!{p}{person: 14 362 361}{speed: 3}
+You'll see.{wait: 20} When I get out{b}
+of here,{wait: 12} things'll change!{nextpage_button}{0x4d: 39 0}{person: 17 404 403}{name: 4352}{fademusic: 30}{sound: 27 1}{shake: 30 2}{speed: 2}
+Silence!{nextpage_button}{hidetextbox: 1}{0x4d: 39 1}{person: 14 372 372}{0x63}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{person: 17 404 403}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4352}{hidetextbox: 0}{speed: 5}
+My apologies,{wait: 8} Mr. Justice...{wait_noanim: 20}{b}{person: 17 404 403}{speed: 4}
+He's usually such a nice boy.{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 14 372 372}{wait: 16}{wait: 40}{name: 1024}{hidetextbox: 0}{speed: 5}{color: 2}
+(Forgive me if I have a{b}{0x63}
+hard time believing that.){color: 0}{nextpage_button}{person: 14 362 361}{name: 3584}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Ha!{wait: 20} {speed: 3}You can't take me under{b}
+your wing this time,{wait: 10} old man!{p}{person: 14 355 354}{sound: 27 1}{shake: 30 2}{speed: 2}
+You heard me!{wait: 14} I don't need{b}
+no trial!{wait: 14} I did it!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{person: 17 404 403}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4352}{speed: 5}
+...{wait: 20}{speed: 4}I think that's enough for{b}
+today,{wait: 8} Mr. Justice.{p}{speed: 5}
+Don't let me down tomorrow.{nextpage_button}{hidetextbox: 1}{wait: 50}{fademusic: 120}{bgcolor: 516 1 31}{wait: 25}{person: 0 0 0}{wait: 40}{bgcolor: 258 1 31}{wait: 15}{wait: 40}{name: 1024}{hidetextbox: 0}{speed: 4}
+So much for talking to our{b}
+client.{p}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{fademusic: 0}{music: 16 0}{speed: 2}
+But we made so much progress{b}
+today!{p}{person: 5 68 67}{speed: 3}
+We even found my panties!{wait: 16}{b}
+I had fun,{wait: 12} at least.{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 4}
+Of course,{wait: 12} the biggest mystery{b}
+of all remains...{p}{speed: 5}{color: 2}
+(How am I supposed to build{b}
+a case for the trial!?){color: 0}{p}{person: 5 74 73}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oh,{wait: 16} almost forgot,{wait: 8} it's time{b}
+for my show!{nextpage_button}{person: 5 74 73}{speed: 3}
+Tonight I'm performing at the{b}
+Wonder Bar!{wait_noanim: 20}{0x59} You should come{b}
+check it out.{nextpage_button}{0x10: 32861}{hidetextbox: 1}{wait: 40}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{hidetextbox: 0}{0x48: 128 142}{speed: 0}{soundtoggle: 0}{b}{b}
+To be continued.{bgcolor: 260 1 31}{wait: 25}{wait: 160}{fademusic: 120}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{savegame}{bop}{special_jmp}{endjmp}

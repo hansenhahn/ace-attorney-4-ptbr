@@ -1,0 +1,471 @@
+
+
+{{0}}
+{bop}{0x62: 1 1}{0x26: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 276 276}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 3 11 2 93 1 1 3}{b}
+-- Serious Competition --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{person: 12 277 276}{name: 3072}{fademusic: 0}{music: 2 0}{speed: 3}
+The game began with 3,500{b}
+point in chips for each man.{p}
+House chips come in two size:{wait: 8}{b}
+small and large.{p}{person: 12 282 281}
+The one who was winning...{wait: 10}{b}{speed: 6}
+dah,{wait: 15}{speed: 4} it was victim!{p}{person: 12 277 276}{speed: 3}
+For last hand,{wait: 20} defendant{b}
+play with all chips on table{b}
+and lose.{nextpage_button}{person: 12 286 285}{speed: 3}
+The moment loss was decided,{wait: 10}{b}{shake: 30 0}
+defendant grabs{shake: 30 0} bottle{b}
+from {shake: 30 0}table and...{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{endjmp}
+
+{{1}}
+{bop}{bg: 29}{person: 10 262 262}{name: 2560}{bgcolor: 258 1 31}{wait: 15}{person: 10 263 262}{hidetextbox: 0}{speed: 3}Indeed...{wait: 12}{b}
+Looking at this picture...{p}{name: 2560}{bg: 104}{person: 0 0 0}
+It does seem to be a{b}
+one-sided game.{p}{bg: 26}{person: 11 268 267}{name: 2816}{speed: 3}
+As the court knows,{wait: 10} poker{b}
+was the defendant's life!{p}{person: 11 272 271}
+Failure must have been a{b}
+bitter pill to swallow!{p}{bg: 29}{person: 10 260 260}{name: 2560}{speed: 6}
+Ah,{0x63}{wait: 10}{person: 10 259 258} how many times have I{b}
+heard these words:{nextpage_button}{person: 10 263 262}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+"I done it in a fit of anger,{wait: 15}{b}
+Yer Honor,{wait: 10} and now I regret{b}
+what I done".{0x5a}{speed: 8}{wait_noanim: 60}{nextpage_nobutton}{person: 10 259 258}{speed: 3}
+...A common tale,{wait: 12} but true.{p}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 3}{color: 2}
+(Methinks the judge watches{b}
+too many old court movies.){p}{person: 4 36 36}
+(Mr. Wright said he {color: 1}hasn't{b}
+lost in seven years{color: 2},{wait: 10} so this{b}
+testimony must be wrong!){speed: 255}{color: 0}{nextpage_button}{endjmp}
+
+{{2}}
+{bop}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 276 276}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 136}{center_text: 1}{speed: 2}{b}{color: 1}
+-- Serious Competition --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 138 0}{lifebar: 3}{0x53}{person: 12 277 276}{name: 3072}{0x2a: 0 5 137}{0x84}{hidetextbox: 0}{color: 3}The game began with 3,500{b}
+point in chips for each man.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 131}{lifebar: 3}{0x53}{person: 12 277 276}{name: 3072}{hidetextbox: 0}{color: 3}House chips come in two size:{b}
+small and large.{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 144 0}{0x51: 0 53}{1281}{person: 84 0 132}{0x35: 1280 @RelativeAddress0}{lifebarset: 0 137}{@RelativeAddress0}{lifebar: 4}{0x53}{person: 12 282 281}{name: 3072}{hidetextbox: 0}{color: 3}The one who was winning...{b}
+dah, it was victim!{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 145 0}{lifebarset: 0 133}{lifebar: 3}{0x53}{person: 12 277 276}{name: 3072}{hidetextbox: 0}{color: 3}For last hand, defendant{b}
+play with all chips on table{b}
+and lose.{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{testimony_box: 146 0}{lifebarset: 0 134}{lifebar: 5}{0x53}{person: 12 286 285}{name: 3072}{hidetextbox: 0}{color: 3}The moment loss was decided,{b}
+defendant grabs bottle{b}
+from table and...{color: 0}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 28}{person: 8 220 219}{name: 2048}{speed: 3}Remember,{wait: 8} your first goal is{b}
+to gather information!{nextpage_button}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}
+Yes,{wait: 15} sir!{p}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 3}{color: 2}
+(Look out contradiction,{wait: 12}{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+here comes Justice!){color: 0}{nextpage_button}{speed: 255}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 276 276}{name: 3072}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{9}}
+{bop}{testimony_box: 147 0}{lifebarset: 0 131}{lifebarset: 1 133}{lifebar: 4}{0x53}{person: 12 282 281}{name: 3072}{hidetextbox: 0}{color: 3}One kind of chip is worth{b}
+100 points, other kind is{b}
+worth 1,000. Two kinds in all.{color: 0}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 3}Are those the usual starting{b}
+points?{wait: 15}{speed: 4} Were any special{b}
+rules used...?{p}{bg: 27}{person: 12 277 276}{name: 3072}{speed: 3}
+No,{wait: 16} not special.{wait: 15} Usual game,{wait: 10}{b}
+usual rules.{p}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 4}
+If each man began with 3,500{b}{person: 10 263 262}
+points,{wait: 12}{speed: 5} then the total would{b}
+be...{nextpage_button}{person: 10 266 266}{shake: 30 0}{speed: 7}
+Um.{speed: 9}.{speed: 11}.{wait_noanim: 60}{b}{person: 10 263 262}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+Exactly six,{wait: 16} no, 7,000 points!{p}{bg: 25}{person: 4 36 36}{name: 1024}{color: 2}
+(Please,{wait: 10} this isn't calculus.{wait: 20}{b}
+It's not even long division!){color: 0}{nextpage_button}{bg: 28}{person: 8 223 223}{name: 2048}{speed: 5}
+.{speed: 7}.{speed: 9}.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 276 276}{name: 3072}{0x51: 0 53}
+{1280}{848}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}{endjmp}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 45 44}{name: 1024}{hidetextbox: 0}{speed: 3}Are the chips in this photo{wait_noanim: 15}{b}{person: 0 0 0}{bg: 104}
+all the chips that were used?{p}{bg: 27}{person: 12 276 276}{name: 3072}{speed: 8}
+Da..{speed: 10}.{b}{wait: 30}{person: 12 284 283}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Dah!{shake: 30 0}{wait: 20} Of {shake: 30 0}course.{nextpage_button}{bg: 25}{person: 4 36 36}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+...?{p}{person: 4 40 40}{speed: 4}{color: 2}
+(Something's fishy with{b}
+these chips.{wait: 30}{bg: 27}{person: 12 283 283}{speed: 3} Should I{b}
+press harder?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 53}{raw_jmp: 65535}{b}{2args_choice_jmp: 141 140}{endjmp}
+
+{{12}}
+{bop}{bg: 25}{person: 4 40 40}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}(...Nah.){nextpage_button}{person: 4 36 36}{speed: 3}
+(...It's her nature{b}
+to be jumpy and{b}
+suspicious-looking.){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 281 281}{name: 3072}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{13}}
+{bop}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 3}Maybe you could explain a bit{b}
+about these "chips"?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 283}{wait: 32}{person: 12 284 283}{name: 3072}{hidetextbox: 0}{speed: 5}
+E-{wait: 12}{speed: 6}Explain?{wait: 20} {shake: 30 0}What is{shake: 30 0} there to{shake: 30 0}{b}
+be explained{shake: 30 0}?{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 36 1}{wait: 60}{hidetextbox: 1}{swoosh: 2 1 11 267}{wait: 32}{bg: 26}{person: 11 275 275}{wait: 50}{name: 2816}{hidetextbox: 0}{speed: 5}
+Poker chips are poker chips.{nextpage_button}{person: 11 272 271}{speed: 4}
+They're not fish and chips,{wait_noanim: 25}{b}{0x59}{speed: 3}
+not {bgcolor: 2305 8 31}a chip off the old block,{wait: 10}{b}
+not {bgcolor: 2305 8 31}a motorcycle cop,{wait: 10} not a...{wait: 20}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{person: 4 62 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{speed: 6}
+...Thanks.{nextpage_button}{person: 4 42 42}{speed: 3}{color: 2}
+(Now that I've pressed her I'd{b}
+better ask something...){color: 0}{p}{person: 4 41 40}{speed: 5}
+What are these chips worth?{wait_noanim: 30}{b}{person: 4 50 49}{sound: 52 1}{bgcolor: 2305 8 31}
+Are they in dollars?{b}{wait: 6}
+Or rubles,{wait: 10} even?{nextpage_button}{bg: 27}{person: 12 282 281}{name: 3072}{speed: 6}
+...Nyet.{wait: 15}{speed: 4}{b}
+As I have been saying before,{b}
+it was game,{wait: 10} not gambling.{p}{person: 12 277 276}
+Hard perhaps for capitalist{b}
+to understand.{p}{person: 12 280 279}{name: 3072}{speed: 4}
+Two types of chip:{wait: 8} {color: 1}100 points{color: 0}{b}
+chip and {color: 1}1,000 points{color: 0} chip.{p}
+It is not money,{wait: 10} dah.{nextpage_button}{bg: 28}{person: 8 224 223}{name: 2048}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...Justice.{nextpage_button}{person: 8 223 223}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Sir!{p}{person: 8 224 223}{name: 2048}{speed: 5}
+Don't you find her {speed: 8}comment...{wait_noanim: 30}{b}{person: 8 222 221}{speed: 4}
+interesting?{nextpage_button}{person: 8 221 221}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+In more ways than one,{wait: 10} sir.{p}{person: 8 220 219}{name: 2048}{speed: 4}
+I'd have it added to her{b}
+testimony,{wait: 10} {speed: 5}myself.{speed: 4}{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 3}
+Well?{wait: 15} Does the defense want{b}
+the witness to add to her{b}
+testimony?{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 55}{raw_jmp: 65535}{b}{2args_choice_jmp: 143 142}{endjmp}
+
+{{14}}
+{bop}{hidetextbox: 1}{bg: 25}{person: 4 39 39}{0x63}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{bg: 28}{name: 2048}{person: 8 220 219}{speed: 5}Very well...{wait_noanim: 30}{b}{person: 8 224 223}{speed: 4}
+It's your trial,{wait: 12} after all.{nextpage_button}{name: 1024}{speed: 3}{color: 2}
+({shake: 30 0}Way to fill me with{b}
+confidence...){color: 0}{p}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 3}
+Very well.{wait: 12} The witness will{b}
+resume her testimony!{p}{hidetextbox: 1}{bg: 27}{person: 12 277 276}{name: 3072}{hidetextbox: 0}
+Dah,{wait: 10} Your Honor.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 281 281}{name: 3072}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{15}}
+{bop}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 4}Yes,{wait: 15}{speed: 3} I do think this deserves{b}
+further scrutiny.{p}{person: 4 37 36}
+Add it to the testimony!{wait_noanim: 25}{b}{color: 2}{speed: 4}
+(I wish I knew where I was{b}
+going with this...){color: 0}{speed: 255}{p}{bg: 29}{person: 10 263 262}{name: 2560}
+Very well.{wait: 10} Witness,{wait: 15} if you{b}
+would be so kind?{p}{bg: 27}{person: 12 277 276}{name: 3072}{shake: 30 0}
+D-{wait: 12}Dah{shake: 30 0}, Your{shake: 30 0} Honor{shake: 30 0}.{nextpage_button}{0x10: 32773}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 281 281}{name: 3072}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}
+
+{{16}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 3}You're telling me that{b}
+Mr. Wright,{wait: 12} undefeated for{b}
+seven whole years,{wait: 10} was losing?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 281}{wait: 32}{person: 12 282 281}{name: 3072}{hidetextbox: 0}{hidetextbox: 0}
+Dah.{wait: 12} It must have been most{b}
+unlucky day for him.{nextpage_button}{hidetextbox: 1}{person: 12 278 279}{0x63}{person: 12 280 279}{hidetextbox: 0}
+I am glad I did not take{b}
+other picture of him.{wait: 16} It would{b}
+break camera,{wait: 10} certainly.{p}{person: 12 277 276}{speed: 3}
+The chips,{wait: 10} they went always{b}
+to victim's side of table.{p}{bg: 26}{person: 11 268 267}{name: 2816}{speed: 4}
+So {wait: 12}{speed: 3}you're telling us it was a{b}
+one-sided game?{p}{bg: 27}{person: 12 282 281}{name: 3072}{speed: 3}
+Dah. One-sided,{wait: 15}{speed: 5} and...{nextpage_button}{speed: 255}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 276 276}{name: 3072}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{17}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 4}"Last hand"?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 276}{wait: 32}{person: 12 277 276}{name: 3072}{hidetextbox: 0}{speed: 3}
+It was largest points{b}
+of any hand.{nextpage_button}{person: 12 282 281}
+The defendant's hand,{wait: 12}{b}
+it was excellent.{nextpage_button}{person: 12 280 279}
+He try to use it to take{b}
+victory from behind.{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{showphoto: 25}
+It appears that both the{b}
+defendant and the victim's{b}
+hands are in this picture.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{person: 0 0 0}{bg: 104}{bgcolor: 258 1 31}{wait: 15}{wait: 30}{hidetextbox: 0}{speed: 4}
+That is truly an excellent{b}
+hand.{wait: 30}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3} However, so is the{b}
+victim's...{nextpage_button}{name: 3072}{speed: 4}
+One with highest number wins,{wait: 20}{b}{speed: 3}
+so defendant {wait: 4}{color: 1}loses{color: 0}.{wait: 4}{nextpage_button}{bg: 26}{person: 11 272 271}{name: 2816}{speed: 4}
+The victim,{wait: 8} Mr. Smith,{wait: 12}{b}
+had a stronger hand than{b}
+the defendant and crushed him.{nextpage_button}{person: 11 268 267}{speed: 3}
+I believe that explains{b}
+what occurred next.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 12 283}{wait: 32}{person: 12 284 283}{name: 3072}{hidetextbox: 0}{speed: 4}
+Once cards {shake: 30 0}laid down {shake: 30 0}on table,{wait: 20}{b}{speed: 5}
+it {shake: 30 0}happ{shake: 30 0}ened{shake: 30 0}...{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 276 276}{name: 3072}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 135}{endjmp}
+
+{{18}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 5}And...?{wait: 15}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2} What happened next!?{p}{bg: 27}{person: 12 284 283}{name: 3072}{speed: 4}
+...Even to {shake: 30 0}think of {shake: 30 0}it now,{wait: 10}{b}
+I {shake: 30 0}shake and {shake: 30 0}tremble{shake: 30 0},{wait: 10} dah!{p}{speed: 4}
+I did not believe such thing{b}
+would {wait: 12}{shake: 30 0}{bgcolor: 2305 8 31}happen!{speed: 2}{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+What {wait: 6}"such thing"!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 283}{wait: 32}{person: 12 284 283}{name: 3072}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Please,{wait: 10} you must believe!{b}{wait_noanim: 30}{person: 12 284 283}{speed: 4}
+I had no idea...{p}{speed: 2}{shake: 30 0}{bgcolor: 2305 8 31}
+How could such thing occur!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+What "such thing"!?{p}{fademusic: 120}{bg: 27}{person: 12 284 283}{name: 3072}{speed: 5}{0x5a}
+...{0x59}Ny{shake: 30 0}-{wait: 15}Nyet!{shake: 30 0}{wait: 15}{b}{0x5a}
+...{0x59}Nyet,{shake: 30 0}{wait: 12} nyet,{shake: 30 0}{wait: 12} nyet!{nextpage_button}{person: 12 277 276}{bgcolor: 2305 8 31}{shake: 30 1}{sound: 26 1}{speed: 2}
+The defendant{bgcolor: 2305 8 31} had been hitting{bgcolor: 2305 8 31}{b}
+v-{wait: 8}victim{bgcolor: 2305 8 31}!!!{p}{person: 12 284 283}{speed: 4}
+Dah,{wait: 12} I saw it all happen,{wait: 10}{b}
+right before me...{p}
+I saw bottle coming down{wait: 16}{speed: 2}{bgcolor: 2305 8 31}{shake: 30 0} on{b}
+victim's head!{p}{bg: 26}{person: 11 272 271}{name: 2816}{speed: 4}
+Decisive,{wait: 10} isn't it,{wait: 15} Your{b}
+Honor?{p}{person: 11 268 267}{speed: 3}
+My witness saw the very{b}
+moment of the crime!{p}{bg: 29}{person: 10 266 266}{name: 2560}{shake: 30 0}{speed: 6}
+Hmm...{p}{0x23: 0}{music: 255 60}{jmp: 136}{endjmp}
+
+{{19}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 42 42}{name: 1024}{hidetextbox: 0}{speed: 3}{color: 2}(Mr. Gavin said this testimony{b}
+is important!){p}{person: 4 40 40}
+(...To be honest,{wait: 10} I have no{b}
+idea why.){color: 0}{p}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 5}
+...Mr. Justice?{nextpage_button}{person: 10 259 258}{speed: 3}
+Do the court a favor and think{b}
+of what you want to say before{b}
+raising your hand.{p}{person: 10 263 262}{speed: 3}
+We are not in kindergarten.{p}{bg: 25}{person: 4 37 36}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Ack!{wait: 10} Sorry!{wait: 10} I'm fine!{nextpage_button}{person: 4 42 42}{speed: 6}{color: 2}
+(I'd better think of something{b}
+to ask{speed: 8}...{wait: 30}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} and quick!){color: 0}{p}{speed: 5}
+Um...{wait_noanim: 30}{b}{person: 4 41 40}{speed: 4}
+The two types of chips...{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 283}{wait: 32}{person: 12 284 283}{name: 3072}{hidetextbox: 0}{speed: 4}
+Dah...?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 4}
+Um.{wait_noanim: 35}{b}{person: 4 37 36}{speed: 3}
+The small ones are 100,{wait: 16} and{b}
+the big ones 1,000{speed: 8}...{wait_noanim: 40}{nextpage_nobutton}{person: 4 50 49}{speed: 3}
+Uh?{wait: 8} Right?{wait: 15} Right.{wait: 15} Of course.{p}{bg: 26}{person: 11 275 275}{name: 2816}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Hah!{0x63}{b}{person: 11 272 271}{speed: 3}
+Don't waste our time!{p}{bg: 25}{person: 4 50 49}{name: 1024}{speed: 5}{0x5a}
+*sigh*{nextpage_button}{person: 4 61 61}{animation: 149 1}{speed: 6}
+.{speed: 8}.{speed: 10}.{p}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 3}
+Is that all?{p}{bg: 25}{person: 4 50 49}{name: 1024}
+Um... Yeah.{wait: 12}{b}{0x5a}
+*gulp*{p}{person: 4 61 61}{animation: 149 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}{color: 2}
+(Great.{wait: 15} Mr. Gavin made me{b}
+stop her,{wait: 10} and now I'm the one{b}
+who looks dumb.){color: 0}{p}{bg: 28}{person: 8 224 223}{name: 2048}
+Oh,{wait: 10} Justice?{nextpage_button}{fademusic: 45}{person: 8 222 221}{name: 2048}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Please try not to embarrass{b}
+me like that.{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Huh?{wait: 8} Who?{wait: 15} Me!?{p}{person: 8 220 219}{name: 2048}{speed: 3}
+There's a clear {color: 1}contradiction{color: 0}{b}
+in the information you have{b}
+in your hands.{nextpage_button}{person: 8 219 219}{name: 1024}{speed: 5}{color: 2}
+(What...!?){color: 0}{p}{person: 8 220 219}{name: 2048}{speed: 3}
+It's a simple matter of{b}
+calculation.{wait: 15} Go on,{wait: 10} try it.{p}{person: 8 222 221}{speed: 4}
+We're not in kindergarten,{wait: 10}{b}
+after all.{nextpage_button}{person: 8 219 219}{name: 1024}{color: 2}
+({bgcolor: 2305 8 31}"Calculation"...?){0x23: 0}{music: 255 90}{color: 0}{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 281 281}{name: 3072}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{20}}
+{bop}{0x29: 0}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 4}You're sure it was the{b}
+victim who won?{p}{person: 4 59 58}{speed: 3}
+Absolutely sure?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 276}{wait: 32}{person: 12 283 283}{name: 3072}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}
+...!{wait: 40}{nextpage_nobutton}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 36 1}{wait: 60}{hidetextbox: 1}{swoosh: 2 1 11 271}{wait: 32}{person: 11 272 271}{name: 2816}{hidetextbox: 0}{speed: 3}
+It seems our new attorney is{b}
+a bit confused...{p}{person: 11 268 267}{showphoto: 25}
+A glance at the picture is{b}
+enough to tell you who won!{wait_noanim: 20}{b}{bganim: 98 579}{person: 0 0 0}{bg: 104}{speed: 5}
+If you're not in kindergarten.{p}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 4}
+Um...{wait: 20} Just for safety's sake,{wait: 10}{b}
+could you explain the problem{b}
+to the court?{p}{bg: 25}{person: 4 41 40}{name: 1024}{speed: 4}
+Of course,{wait: 12} Your Honor.{p}{speed: 5}
+In this photo I see small{b}
+chips and I see large chips.{p}{person: 4 37 36}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Tell me...{wait: 20} which were worth{b}{color: 1}
+1,000 points{color: 0}?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 11 271}{wait: 32}{person: 11 272 271}{name: 2816}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Why,{wait: 10} the big ones of course!{wait: 18}{b}
+Duh!{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{person: 4 38 38}{name: 1024}{hidetextbox: 0}{speed: 5}
+Oh,{wait: 10} I thought so too...{0x63}{bgcolor: 2305 8 31}{person: 4 48 47} but{b}
+then the totals don't add up.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 11 267}{wait: 32}{person: 11 268 267}{name: 2816}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Th-{wait: 8}The totals...?{p}{hidetextbox: 1}{bg: 25}{person: 4 38 38}{0x63}{hidetextbox: 0}{fademusic: 0}{music: 4 0}{person: 4 37 36}{name: 1024}{speed: 5}
+Let's review{speed: 3} what the witness{b}
+told us:{p}{person: 4 45 44}{speed: 3}
+Each man started with{speed: 4} 3,500{b}
+points in chips.{p}{speed: 3}
+And the combined total value{b}
+of the chips was{speed: 4} 7,{bgcolor: 2305 8 31}000 points.{nextpage_button}{bg: 29}{person: 10 260 260}{name: 2560}{speed: 5}
+Yes...{0x63}{person: 10 259 258}{speed: 4} if my calculations{b}
+are correct!{wait: 20} Let's see,{wait: 10} three{b}
+plus one,{wait: 10} carry the five...{p}{bg: 25}{person: 4 37 36}{name: 1024}{speed: 5}
+Um,{wait: 10} they are,{wait: 10} Your Honor.{wait: 20}{b}
+Now!{p}{speed: 4}
+Look at this photo that{wait: 15}{b}{showphoto: 281}
+allegedly shows {color: 1}all the chips{color: 0}.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 104}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{wait: 80}{hidetextbox: 0}
+If the big chips are worth{b}
+1,000 points,{wait: 10} and the small{b}
+chips are worth 100...{p}{bg: 25}{person: 4 41 40}{name: 1024}{speed: 6}
+And you add them up...{p}{bg: 26}{person: 11 268 267}{name: 2816}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+How much is it!?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}
+(Do it yourself{speed: 8}...{wait: 12}{speed: 3} You aren't{b}
+in kindergarten,{wait: 10} are you?){color: 0}{p}{person: 4 45 44}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...10,600 points.{wait_noanim: 40}{b}{person: 4 48 47}{speed: 4}
+The chips don't add up!{p}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{name: 1024}{hidetextbox: 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+This clearly{bgcolor: 2305 8 31} contradicts the{b}{bgcolor: 2305 8 31}
+witness's testimony!{fademusic: 0}{music: 9 0}{p}{hideperson}{0x26: 0}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 60 1}{sound: 22 1}{wait: 120}{bg: 26}{person: 11 270 269}{name: 2816}{hidetextbox: 0}{speed: 2}
+B-{wait: 8}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}But why!?{wait: 15}{b}{speed: 5}
+How could this be!?{p}{bg: 28}{person: 8 220 219}{name: 2048}{speed: 3}
+Exactly...{wait: 12} Justice.{p}{speed: 4}
+Now that you know the {wait: 6}"what",{wait: 12}{b}
+you must determine the {wait: 6}"why".{p}{endjmp}
+
+{{21}}
+{bop}{bg: 25}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}(Right...{wait: 12}{speed: 3} There's only one{b}
+possible way to explain this{b}
+contradiction!){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 5}{sound: 7 1}{b}{3args_choice_jmp: 150 151 152}{endjmp}
+
+{{22}}
+{bop}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 3}This calculation makes the{b}
+answer clear!{p}{person: 4 41 40}{speed: 4}
+If the total combined points{b}
+at the table was 10,600...{p}
+Then each man started the{b}
+night with{wait_noanim: 20}{person: 4 66 65}{speed: 2} 5,300 points!{p}{bg: 29}{person: 10 265 264}{name: 2560}{fademusic: 45}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+Five thousand three hundred...{p}{speed: 4}
+That's a rather half-baked{wait_noanim: 18}{b}{person: 10 263 262}{bgcolor: 2305 8 31}{shake: 30 1}
+score at which to start a{b}
+game.{nextpage_button}{bg: 28}{person: 8 220 219}{name: 2048}{speed: 5}
+Justice...{wait: 15}{speed: 4} Would different{b}
+starting points really{wait: 12}{b}
+change anything?{p}{bg: 25}{person: 4 36 36}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Eh?{p}{hidetextbox: 1}{bg: 29}{person: 10 261 261}{wait: 69}{hidetextbox: 0}{person: 10 259 258}{name: 2560}
+It seems the defense's {b}
+objection was even more{b}
+half-baked than the score!{p}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{speed: 3}{color: 2}
+(Uh {wait: 8}oh...{wait: 15} Time to head{b}
+back into the kitchen!){color: 0}{0x23: 0}{music: 255 90}{rejmp: 149}{endjmp}
+
+{{23}}
+{bop}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 4}The odd thing here is the{b}
+number of chips{speed: 8}...{wait_noanim: 30}{bg: 28}{person: 8 223 223}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 45}{speed: 3} Right,{wait: 12}{b}
+Mr. Gavin?{nextpage_button}{person: 8 222 221}{name: 2048}
+...Why are you asking me?{nextpage_button}{person: 8 221 221}{name: 1024}{speed: 5}
+Uh...{wait: 12}{speed: 2}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+Just in case?{wait: 15}{nextpage_button}{person: 8 222 221}{name: 2048}{speed: 4}
+Justice...{wait_noanim: 20}{speed: 3}{person: 8 220 219} It's your case{b}
+I'm concerned about.{p}{speed: 3}
+If you're wondering about the{b}
+chips,{wait: 8} just look at the{b}
+photograph.{wait: 15} It's all there.{p}{person: 8 224 223}
+Even our judge with his{b}
+failing eyesight could{b}
+count them.{nextpage_button}{name: 1024}{color: 2}{speed: 4}
+(That's not the only thing{b}
+failing the judge.){color: 0}{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 3}
+...Let me ask you again.{0x23: 0}{music: 255 90}{rejmp: 149}{endjmp}
+
+{{24}}
+{bop}{bg: 25}{person: 4 45 44}{name: 1024}{hidetextbox: 0}{speed: 3}Each man began the game with{b}
+3,500 points.{nextpage_button}{bg: 104}{person: 0 0 0}
+If all the chips are indeed{b}
+shown in this photograph...{p}{bg: 25}{person: 4 37 36}
+Then there can be only one{b}
+answer.{p}{bg: 29}{person: 10 265 264}{name: 2560}
+Well,{wait: 12} what is it!?{p}{bg: 25}{person: 4 48 47}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+The value of the chips...{wait: 16}{b}{speed: 3}
+was the {color: 1}other way around{color: 0}!{speed: 5}{nextpage_button}{bg: 26}{person: 11 270 269}{name: 2816}{sound: 51 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Wh-{wait: 16}What!?{p}{bg: 25}{person: 4 38 38}{name: 1024}{speed: 5}
+Want to know what I think?{0x63}{p}{person: 4 66 65}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}{bgcolor: 2305 8 31}
+The small{bgcolor: 2305 8 31} chips{bgcolor: 2305 8 31} were worth{b}{shake: 30 0}{bgcolor: 2305 8 31}
+1,000{bgcolor: 2305 8 31} points,{bgcolor: 2305 8 31}{wait: 10} not the big{b}
+ones!{p}{bg: 26}{person: 11 270 269}{name: 2816}{speed: 4}
+Madness!{wait: 12}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{shake: 30 1}{speed: 2} Utter madness!{p}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 2}
+Show me that photograph{b}{shake: 30 0}{bgcolor: 2305 8 31}
+of the chips again!{p}{bg: 104}{person: 0 0 0}{speed: 4}
+...There are six small chips,{wait: 16}{b}
+and ten large chips{speed: 8}...{p}{bg: 29}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 51 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Why,{wait: 18} that does make 7{bgcolor: 2305 8 31},000{bgcolor: 2305 8 31}{b}
+points{bgcolor: 2305 8 31} when you add them up!{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 60 1}{sound: 22 1}{wait: 120}{bg: 28}{person: 8 220 219}{name: 2048}{hidetextbox: 0}{speed: 3}
+Excellent work,{wait: 10} Justice.{p}{person: 8 222 221}
+It's almost as though you{b}
+figured it out by yourself.{nextpage_button}{name: 1024}{speed: 5}
+Well...{wait: 15}{speed: 3} I'm just glad I was{wait: 15}{b}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+the one who said it.{p}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 36 1}{wait: 60}{bg: 26}{person: 11 270 269}{name: 2816}{hidetextbox: 0}{speed: 2}
+B-{wait: 12}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}But wait!{wait: 18}{p}{sound: 27 1}{shake: 30 1}{bgcolor: 2305 8 31}
+The value of the chips may{bgcolor: 2305 8 31}{b}
+be different,{wait: 10} but that changes{bgcolor: 2305 8 31}{b}
+nothing!!!{p}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 4}
+Indeed{speed: 8}...{wait: 20}{b}{person: 10 263 262}{speed: 4}
+The victim did have the{b}
+larger number of chips still.{speed: 8}{nextpage_button}{fademusic: 120}{speed: 8}
+.{speed: 10}.{speed: 12}.{wait_noanim: 60}{b}{person: 10 264 264}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+Ah!{wait: 20}{p}{bg: 25}{person: 4 38 38}{name: 1024}{speed: 5}
+...Exactly.{0x63}{nextpage_button}{bg: 25}{person: 4 45 44}{name: 1024}{speed: 3}
+If the small chips are 1,000{b}
+points,{wait: 12} and the large chips{b}
+are 100{speed: 8}{0x5a}...{p}{speed: 3}
+Let's do a little math.{wait_noanim: 30}{b}{person: 4 48 47}
+Add up the points for each{b}
+side of the table!{p}{bg: 26}{person: 11 270 269}{name: 2816}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+Ah...{wait: 18}{speed: 3} Au{bgcolor: 2305 8 31}uuu{bgcolor: 2305 8 31}uuu{bgcolor: 2305 8 31}uuu{bgcolor: 2305 8 31}uuugh!{p}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 4}
+The victim,{wait: 8} Mr. Smith,{wait: 10} had{b}
+2,900 points,{wait: 16} and the{b}
+defendant had{speed: 8}{0x5a}...{wait_noanim: 40}{nextpage_nobutton}{person: 10 265 264}{sound: 50 1}{shake: 30 1}{speed: 2}
+4,100 points!{p}{bg: 25}{person: 4 37 36}{name: 1024}{speed: 5}
+Well now...{p}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+It seems that Mr. Wright was{b}
+winning that night after all!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 11 269}{wait: 32}{person: 11 270 269}{name: 2816}{hidetextbox: 0}{speed: 5}
+That's...{wait: 20}{speed: 2}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2} impossible!{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{speed: 3}
+My client had even less reason{b}
+to kill the victim!{p}{person: 4 41 40}{speed: 5}
+After all{speed: 8}...{speed: 3}{wait_noanim: 40}{b}{person: 4 64 65}{shake: 30 1}{sound: 50 1}{fademusic: 0}{music: 5 0}{speed: 2}
+he{bgcolor: 2305 8 31} was{bgcolor: 2305 8 31} winning{bgcolor: 2305 8 31}!{nextpage_button}{bg: 26}{person: 11 274 274}{name: 2816}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Yee{bgcolor: 2305 8 31}eaa{bgcolor: 2305 8 31}aar{bgcolor: 2305 8 31}gh!{wait: 50}{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{speed: 5}
+Now...{wait: 12} Ms. Orly.{p}{speed: 3}
+You must have known the{b}
+true value of the chips.{p}{person: 4 48 47}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+Since you were there{bgcolor: 2305 8 31} at the{b}
+scene of the crime...{wait_noanim: 40}{b}{0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{name: 1024}{hidetextbox: 0}{sound: 50 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+we{bgcolor: 2305 8 31}ren't {bgcolor: 2305 8 31}you?{nextpage_button}{hideperson}{0x26: 0}{bg: 27}{person: 12 276 276}{name: 3072}{hidetextbox: 0}{speed: 8}
+Ah...{wait_noanim: 45}{b}{person: 12 289 289}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{shake: 30 2}{speed: 3}
+Ee{bgcolor: 2305 8 31}eee{bgcolor: 2305 8 31}ee{bgcolor: 2305 8 31}eee{bgcolor: 2305 8 31}k!{wait: 30}{nextpage_nobutton}{hidetextbox: 1}{wait: 130}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 60 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Order!{wait: 15} Order!!!{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+It appears our defendant{b}{speed: 3}
+has lost his "motive".{p}{person: 10 263 262}
+And Mr. Wright's supposed{b}
+defeat...{wait: 20} never happened.{nextpage_button}{bg: 26}{person: 11 269 269}{name: 2816}{speed: 7}
+Nnn...{wait: 30}{speed: 3}{shake: 30 1}{bgcolor: 2305 8 31} nunn{bgcolor: 2305 8 31}gk!{p}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 4}
+We must now ask ourselves{b}{speed: 3}
+whether we can trust the{b}
+witness's testimony at--{nextpage_nobutton}{fademusic: 30}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 14 1}{sound: 26 1}{wait_noanim: 63}{bg: 25}{person: 4 36 36}{sound: 48 1}{bgcolor: 2305 8 31}{wait: 45}{bg: 26}{person: 11 269 269}{sound: 48 1}{bgcolor: 2305 8 31}{wait: 45}{bg: 29}{person: 10 264 264}{sound: 48 1}{bgcolor: 2305 8 31}{wait: 45}{bg: 27}{person: 12 283 283}{sound: 50 1}{bgcolor: 2305 8 31}{shake: 30 1}{wait: 45}{bg: 29}{person: 10 265 264}{name: 2560}{hidetextbox: 0}{speed: 5}
+E-{wait: 12}{speed: 4}Excuse me?{wait: 14} What is it,{wait: 10}{b}
+Ms. Orly?{nextpage_button}{bg: 27}{person: 12 284 283}{name: 3072}{speed: 5}
+I...{wait: 12}{speed: 4} I did not want to be{b}
+saying this,{wait: 10} but...{p}{speed: 5}{shake: 30 0}
+Actually,{wait: 10} you see,{wait: 12}{shake: 30 0} erm...{p}{bg: 26}{person: 11 270 269}{name: 2816}{speed: 4}
+See what,{wait: 12}{shake: 30 0}{speed: 3} Ms. Orly!?{wait: 20} What{b}
+do we see!?{p}{bg: 27}{name: 3072}{person: 12 284 283}{speed: 5}
+In the last hand,{wait_noanim: 30}{person: 12 277 276}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3} there{b}
+was {color: 1}cheat{color: 0}!{fademusic: 0}{music: 18 0}{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 60 1}{sound: 22 1}{wait: 120}{bg: 26}{person: 11 270 269}{name: 2816}{hidetextbox: 0}{speed: 4}
+A ch-{wait: 12}cheat?{wait: 18}{b}{speed: 5}
+You{speed: 8}...{wait: 15}{speed: 3} You don't mean...{p}{person: 11 268 267}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+...a{bgcolor: 2305 8 31} trick{bgcolor: 2305 8 31}!?{p}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 5}
+Wait,{wait: 10} or do you mean{speed: 8}...{speed: 3}{nextpage_button}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+...a{bgcolor: 2305 8 31} scam{bgcolor: 2305 8 31}!?{p}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}{color: 2}
+(They're all the same thing!){color: 0}{p}{bg: 27}{person: 12 282 281}{name: 3072}{speed: 4}
+Yes,{wait: 12} there was cheat in {b}
+last hand{speed: 5}...{p}{bg: 104}{person: 0 0 0}{speed: 3}
+That is why game ends{b}
+with chips as they are!{p}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{speed: 5}{color: 2}
+(Great...{wait: 15}{speed: 3} Just great...){speed: 5}{p}{person: 4 58 58}{speed: 4}
+(First we have lying...{wait: 10}{b}
+now cheating...){color: 0}{p}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 4}
+Well,{speed: 8}{0x5a}{wait_noanim: 20}{person: 8 224 223}{speed: 3} this case certainly{b}
+has taken a turn...{p}{person: 8 220 219}
+...for the interesting!{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Witness!{wait: 15} You will please{b}
+testify to the court!{p}{person: 10 259 258}{shake: 30 0}{speed: 5}
+Tell us about this cheating{b}{person: 10 259 258}{speed: 2}
+in the {shake: 30 0}{bgcolor: 2305 8 31}final hand!{p}{hidetextbox: 1}{fademusic: 30}{testimony_animation: 1}{special_jmp}{endjmp}

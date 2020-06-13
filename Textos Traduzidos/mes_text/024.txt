@@ -1,0 +1,744 @@
+
+
+{{0}}
+{bop}{0x62: 1 2}{0x51: 0 38}{b}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 290 290}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 6 11 2 93 1 1 3}{b}
+-- The Best Laid Traps --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{speed: 3}{person: 12 295 294}{name: 3072}{speed: 3}
+That night,{wait: 10} I planted the card{b}
+like I was supposed to.{p}{person: 12 291 290}
+And Wright lost the last hand,{wait: 10}{b}
+just like he was supposed to.{wait_noanim: 20}{b}{person: 0 0 0}{bg: 110}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Then Smith searched him!{p}{bg: 27}{person: 12 293 292}{speed: 3}
+But {wait: 12}{speed: 3}{bgcolor: 2305 8 31}the planted card was gone!{wait: 15}{b}{speed: 4}
+The trap failed.{p}{speed: 3}
+The next moment,{wait: 12} Wright picked{wait: 12}{b}{person: 12 299 298}
+up a bottle and {bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}swung it!{p}{bg: 27}{person: 12 293 292}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+It wasn't me who hit Smith!{wait: 15}{b}
+It was that no-good,{wait: 10} cheating{b}
+defendant!{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{endjmp}
+
+{{1}}
+{bop}{bg: 29}{person: 10 266 266}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{speed: 5}Hmm...{wait: 18}{person: 10 265 264}{speed: 3} A surprisingly frank{b}
+testimony that still leaves{b}
+us mostly in the dark.{p}{bg: 27}{person: 12 293 292}{name: 3072}{speed: 4}
+The trap was perfect I tell{b}
+you,{wait: 10} perfect!{wait: 15} If that {wait: 12}{speed: 2}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}rotten{b}
+cheater hadn't messed it up.{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{shake: 30 1}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Look who's talking!{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 4}
+Well,{wait: 10} the testimony,{wait: 12}{speed: 3} for what{b}
+it's worth,{wait_noanim: 30}{person: 10 263 262}{speed: 3} is all yours,{wait: 10}{b}
+Mr. Justice.{p}{bg: 25}{person: 4 42 42}{name: 1024}{speed: 5}{color: 2}
+(With witnesses like her,{wait: 25}{b}{speed: 4}
+who needs criminals?){p}{person: 4 40 40}{speed: 3}
+(...And with defendants like{b}
+Mr. Wright,{wait: 10} who needs{b}
+prosecutors?){color: 0}{p}{endjmp}
+
+{{2}}
+{bop}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 290 290}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 136}{center_text: 1}{speed: 2}{b}{color: 1}
+-- The Best Laid Traps --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 138 0}{lifebar: 7}{0x53}{person: 12 295 294}{name: 3072}{hidetextbox: 0}{color: 3}That night, I planted the card{b}
+like I was supposed to.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 131}{lifebar: 6}{0x53}{person: 12 291 290}{name: 3072}{hidetextbox: 0}{color: 3}And Wright lost the last hand,{b}
+just like he was supposed to.{b}
+Then Smith searched him!{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 132}{lifebar: 8}{0x53}{person: 12 293 292}{name: 3072}{hidetextbox: 0}{color: 3}But the planted card was gone!{b}
+The trap failed.{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 141 0}{lifebarset: 0 133}{lifebar: 6}{0x53}{0x2a: 0 9 137}{0x87}{person: 12 299 298}{name: 3072}{hidetextbox: 0}{color: 3}The next moment, Wright picked{b}
+up a bottle and swung it!{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{testimony_box: 153 0}{lifebarset: 0 134}{lifebar: 8}{0x53}{name: 3072}{person: 12 293 292}{hidetextbox: 0}{color: 3}It wasn't me who hit Smith!{b}
+It was that no-good, cheating{b}
+defendant!{color: 0}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{0x6d: 0}{0x74: 1 0}{bg: 25}{person: 4 40 40}{name: 1024}{hidetextbox: 0}{speed: 3}{color: 2}(Different personality...{wait: 12}{b}
+but the same testimony.){color: 0}{p}{bg: 28}{person: 8 220 219}{name: 2048}{speed: 4}{speed: 3}
+I believe you have her where{b}
+you want her,{wait: 15}{speed: 4} Justice.{speed: 3}{p}
+The circumstances have{b}
+changed,{wait: 12} yet her testimony{b}
+has not.{wait: 12} That means...{p}{person: 8 219 219}{name: 1024}{speed: 4}
+There's got to be a{b}
+contradiction {speed: 3}in there!{p}{person: 8 220 219}{name: 2048}{speed: 4}
+Quite.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 290 290}{name: 3072}{0x6c: 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{9}}
+{bop}{testimony_box: 154 0}{lifebarset: 0 134}{lifebar: 8}{0x53}{jmp: 136}{person: 12 293 292}{name: 3072}{hidetextbox: 0}{color: 3}He's the one who did it!{b}
+I didn't let him out of my{b}
+sight until the cops got there!{color: 0}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 4}This planted card{speed: 8}...{wait: 10}{speed: 3} which{b}
+card was it,{wait: 6} exactly?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 290}{wait: 32}{person: 12 291 290}{name: 3072}{hidetextbox: 0}{speed: 5}
+The trump card{speed: 8}{0x5a}...{wait: 25}{speed: 255}{0x59} the {color: 1}Five{b}
+of Hearts{color: 0}.{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 3}
+Let me guess.{wait: 40} {person: 0 0 0}{bg: 99}Mr. Wright was{b}
+to have switched the Five with{b}
+the Ace to make a full house.{nextpage_button}{bg: 29}{person: 10 263 262}{speed: 3}
+At least, that's what you were{b}
+going to accuse him of doing,{b}
+thereby ruining his legend.{nextpage_button}{bg: 27}{name: 3072}{person: 12 293 292}
+I slid it into Wright's{b}
+pocket.{p}{bg: 25}{person: 4 59 58}{name: 1024}
+When was this...?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 292}{wait: 32}{person: 12 291 290}{name: 3072}{hidetextbox: 0}{speed: 3}
+Why,{wait: 15} before the match,{wait: 10}{b}
+of course.{wait_noanim: 20}{b}{bg: 103}{person: 0 0 0}{speed: 4}
+While he was eating.{p}{speed: 4}
+At the Borscht Bowl Club,{wait: 10} we{b}
+serve borscht...{wait: 20} and suckers.{p}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 3}
+Remind me never to go there.{p}{bg: 27}{person: 12 295 294}{name: 3072}{speed: 3}
+Of course,{wait: 12} the card was to{b}
+make its grand debut during{b}
+the game...{p}{person: 12 291 290}{speed: 4}
+Like a good borscht,{wait: 10} a good{b}
+plot must be cooked up early{b}
+and allowed to thicken.{speed: 255}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 290 290}{name: 3072}{0x6c: 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 4}So,{wait: 12} everything went according{b}
+to plan...{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 290}{wait: 32}{person: 12 291 290}{name: 3072}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 3}
+Exactly.{p}
+The fifth ace came up,{wait: 20} so it's{b}
+obvious the switch went off{b}
+without a hitch.{nextpage_button}{person: 12 295 294}
+Once the extra card was found{b}
+in his pocket...{nextpage_button}{person: 12 293 292}{sound: 51 1}{bgcolor: 2305 8 31}
+...Wright would be forever{b}
+known as a cheat and a fraud.{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}
+There are worse things to be{b}
+known as I suppose.{nextpage_button}{bg: 25}{name: 1024}{person: 4 41 40}
+Tell us what happened with{b}
+the search.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 292 292}{name: 3072}{0x6c: 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 4}The card{speed: 8}...{wait: 12}{speed: 5} disappeared?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 294}{wait: 32}{person: 12 295 294}{name: 3072}{hidetextbox: 0}{speed: 5}
+Yeah!{wait: 10}{speed: 4} My trump card,{wait: 12}{speed: 4} the{b}{color: 1}
+Five of Hearts{color: 0}!{p}{speed: 5}
+Gone!{wait: 20} Without a trace!{wait_noanim: 10}{b}{person: 12 293 292}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Poof!{wait: 16} Zippo!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 110}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{speed: 4}
+We searched every nook and{b}
+cranny...{p}{speed: 3}
+Even inside his{shake: 30 0}{speed: 2} cute little{b}
+hat!{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 25}{person: 4 59 58}{0x5a}{bgcolor: 770 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{0x59}{speed: 4}
+But the card was nowhere to{b}
+be found,{wait: 8} is this correct?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 292}{wait: 32}{person: 12 293 292}{name: 3072}{hidetextbox: 0}{speed: 5}
+Never in my long,{wait: 12} storied{b}
+career...{p}{speed: 4}
+Never has "Quick-Fingers" Orly{wait: 15}{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+been so readily duped!{p}{bg: 29}{person: 10 260 260}{name: 2560}{speed: 5}
+Oh really.{0x63}{speed: 3}{b}{person: 10 263 262}
+So,{wait: 12} what did happen to that{b}
+Five of Hearts?{p}{bg: 27}{name: 3072}{person: 12 291 290}{speed: 4}
+Don't look at me.{wait_noanim: 18}{person: 12 295 294}{speed: 3} Why don't{b}
+you ask that cheating,{wait: 10} lying,{b}
+two-faced defendant?{p}{bg: 25}{person: 4 40 40}{name: 1024}{speed: 4}{color: 2}
+(So the Five of Hearts is{b}
+still missing in action...){color: 0}{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 298 298}{name: 3072}{0x6c: 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{13}}
+{bop}{0x51: 0 53}{2048}{removephoto}{jmp: 152}{endjmp}{endjmp}{0x6d: 0}{bg: 25}{person: 4 37 36}{0x5a}{name: 1024}{hidetextbox: 0}{0x59}{speed: 4}Wait...{wait: 12}{wait_noanim: 15}{b}{person: 4 41 40}{speed: 3}
+Isn't that a little odd?{p}{bg: 27}{person: 12 293 292}{name: 3072}{speed: 5}
+Wh-{speed: 3}{wait: 10}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}What's odd!?{speed: 255}{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 44}{wait: 32}{person: 4 45 44}{name: 1024}{hidetextbox: 0}
+You searched Mr. Wright,{wait: 10} er,{b}
+thoroughly,{wait: 12} and found nothing?{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{speed: 3}
+Which means he didn't cheat...{wait: 18}{speed: 4}{b}
+Which means he had no reason{b}
+to strike the victim!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 298}{wait: 32}{person: 12 299 298}{name: 3072}{shake: 30 0}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 5}
+W-{0x5a}{wait: 30}{0x59}{speed: 6}Well{speed: 10}...{0x5a}{wait: 30}{0x23: 0}{hidetextbox: 1}{0x6b: 3 0 0}{bganim: 98 632}{wait: 1}{wait: 220}{speed: 255}{nextpage_nobutton}{bg: 25}{person: 4 58 58}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{color: 2}{speed: 5}
+(Wh-{wait: 8}What was that just now!?{wait: 18}{b}{speed: 4}
+I...{wait: 18} sensed something...){fademusic: 0}{music: 18 0}{color: 0}{p}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 3}
+Something wrong,{wait: 15} Mr. Justice?{p}{bg: 25}{person: 4 50 49}{name: 1024}{speed: 5}
+No...{wait: 16} nothing,{wait: 10} Your Honor.{speed: 255}{nextpage_button}{person: 4 49 49}{color: 2}
+(What to do?{wait: 30}{person: 4 58 58} Should I press{b}
+her a little harder?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 53}{raw_jmp: 65535}{b}{2args_choice_jmp: 143 142}{endjmp}
+
+{{14}}
+{bop}{bg: 25}{fademusic: 45}{name: 1024}{hidetextbox: 0}{speed: 5}{color: 2}(Nah...{wait: 15}{speed: 3} I'm just seeing{b}
+things.){color: 0}{p}{person: 4 37 36}{speed: 3}
+Sorry,{wait: 15} it's nothing.{wait_noanim: 12}{b}{person: 4 48 47}
+Please continue the testimony.{p}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(What was that?{wait: 6} A dizzy{b}
+spell?{wait: 18} I gotta relax...){color: 0}{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 292 292}{name: 3072}{0x6c: 0}{fademusic: 0}{music: 2 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 135}{endjmp}
+
+{{15}}
+{bop}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 4}Ms. Orly{speed: 8}...!{wait_noanim: 40}{b}{person: 4 66 65}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 0 0}{speed: 2}
+You're {bgcolor: 2305 8 31}hiding {bgcolor: 2305 8 31}something!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 296}{wait: 32}{person: 12 297 296}{animation: 149 1}{name: 3072}{hidetextbox: 0}{speed: 2}
+Wh-{wait: 10}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}What are you talking{b}
+about!?{wait: 30}{speed: 3} Y-{wait: 8}{shake: 30 0}Y-{wait: 8}{shake: 30 0}You!{p}{speed: 4}
+M-{wait: 8}M-{wait: 8}M-{wait: 8}Me!?{wait: 12}{speed: 3} "Quick-Fingers"{b}
+Orly,{wait: 10} {bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}hi-{wait: 8}hi-{wait: 12}{speed: 3}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}hide {wait: 10}{shake: 30 0}something?{person: 12 296 296}{animation: 149 1}{wait: 8}{nextpage_nobutton}{speed: 255}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 36 1}{wait: 60}{hidetextbox: 1}{swoosh: 2 1 11 269}{wait: 32}{person: 11 270 269}{name: 2816}{hidetextbox: 0}{speed: 4}{wait: 15}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+The defense will refrain{b}
+from baseless accusations!{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 4}
+I have one question for the{b}
+witness then.{p}{person: 4 41 40}{speed: 5}
+You say you saw the moment{b}
+the defendant hit the victim.{wait_noanim: 40}{b}{person: 4 59 58}{speed: 4}
+...Is this true?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 296}{wait: 32}{name: 3072}{person: 12 299 298}{hidetextbox: 0}{speed: 5}
+O-{shake: 30 0}{speed: 3}Of course{shake: 30 0} it's true!{p}{person: 12 295 294}
+I d-{wait: 15}{shake: 30 0}did see it,{speed: 8}{wait: 15}{speed: 4} {shake: 30 0}honest!{nextpage_button}{endjmp}
+
+{{16}}
+{bop}{name: 3072}{person: 12 299 298}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}I saw it when Wright hit him.{b}{wait_noanim: 20}{hidetextbox: 1}{0x6b: 3 0 0}{bganim: 98 632}{wait: 1}{wait: 120}{person: 12 299 298}{shake: 30 0}{name: 3072}{hidetextbox: 0}
+With my own eyes,{wait: 10} I saw it!{wait_noanim: 20}{0x23: 0}{music: 255 120}{nextpage_button}{person: 12 298 298}{hidetextbox: 0}{name: 1024}{speed: 3}{color: 2}
+(What's this weird vibe{b}
+I'm getting!?){speed: 255}{color: 0}{p}{hidetextbox: 1}{endjmp}
+
+{{17}}
+{bop}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 4095}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{name: 1792}{hidetextbox: 0}{speed: 3}That witness,{wait: 10} for instance,{wait: 15}{b}
+Ms. Orly.{p}
+She would {color: 1}touch the back of{b}
+her neck{color: 0}{wait_noanim: 25} during certain parts{b}
+of her testimony.{p}{speed: 3}
+Did you notice?{nextpage_button}{hidetextbox: 1}{endjmp}
+
+{{18}}
+{bop}{fademusic: 30}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 27}{person: 12 298 298}{bgcolor: 770 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{speed: 5}{color: 2}(Touching her neck,{wait: 12}{speed: 3} was it?){color: 0}{p}{speed: 255}{hidetextbox: 1}{0x5b: 1 6}{personvanish: 1 34}{bop}{music: 10 0}{0x6b: 2 0 0}{bganim: 98 376}{0x74: 14 0}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{0x5b: 1 3}{p}{speed: 4}
+(Whoa!{wait: 10}{speed: 8} What's going on?){p}{speed: 5}
+(This sensation{speed: 10}...{wait: 40}{speed: 2}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+It's coming into focus!){p}{speed: 5}
+(There!{wait: 16}{speed: 2} That {bgcolor: 2305 8 31}{color: 1}twitch{color: 2}!{b}
+It's so clear!){nextpage_button}{speed: 5}
+(It's like I could {color: 1}perceive{color: 2}{b}
+her {color: 1}habit{color: 2} like{wait: 30}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} I couldn't {b}
+before!){color: 0}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{0x5b: 0 107}{bop}{bop}{bop}{bganim: 98 632}{wait: 60}{bg: 27}{person: 12 298 298}{0x64}{color: 1}{bop}{hideperson}{wait: 1}{bgcolor: 2305 8 31}{sound: 50 1}{shake: 30 1}{wait: 5}{bgcolor: 2305 8 31}{wait: 8}{bgcolor: 2305 8 31}{wait: 60}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 5}Ms. Orly...{wait: 15}{speed: 4} Perhaps you are{b}
+unaware of this yourself...{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 292}{wait: 32}{person: 12 293 292}{name: 3072}{hidetextbox: 0}{speed: 5}
+Un-{wait: 15}{speed: 3}{shake: 30 0}Unaware of what?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 5}
+Whenever you get to a certain{b}{speed: 3}
+part of your testimony...{p}{person: 4 48 47}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+...you touch the back of your{b}
+neck with your left hand!{nextpage_button}{speed: 255}{bg: 27}{person: 12 292 292}{name: 3072}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...!{wait: 34}{b}{person: 12 293 292}{speed: 5}
+My...{wait: 20}{shake: 30 0}{b}{bgcolor: 2305 8 31}
+My neck?{p}{person: 12 293 292}
+So...{wait: 10}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2} So what!?{p}{bg: 28}{person: 8 220 219}{name: 2048}{speed: 4}
+What indeed,{wait: 15} Justice?{p}{speed: 5}
+I hadn't noticed anything{b}
+of the sort...{p}{fademusic: 0}{music: 4 0}{bg: 25}{person: 4 59 58}{name: 1024}{speed: 4}
+When she says that part of{b}
+the testimony{speed: 8}...{p}{person: 4 43 42}{speed: 3}
+She's subconsciously recalling{b}{color: 1}
+something{color: 0}...{p}{person: 4 41 40}
+Her body reacts to the {color: 1}memory{color: 0},{wait: 16}{speed: 4}{b}
+and she touches her neck!{p}{person: 4 37 36}{speed: 3}
+I'm sure of it!{p}{bg: 26}{person: 11 270 269}{name: 2816}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+A {color: 1}memory{color: 0}?{wait: 16}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2} Would someone{b}
+care to explain what he's{b}
+babbling about?{nextpage_button}{speed: 255}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 266 266}{name: 2560}{hidetextbox: 0}{speed: 5}
+This is highly unusual...{wait: 15}{person: 10 263 262}{speed: 3} but{b}
+let's ask the defense.{p}
+You claim the witness is{b}
+remembering something.{speed: 255}{p}{person: 10 259 258}{shake: 30 0}{bgcolor: 2305 8 31}
+Maybe you have evidence of{b}
+this {speed: 4}"{color: 1}memory{color: 0}"{speed: 2} to show us?{nextpage_button}{endjmp}
+
+{{21}}
+{bop}{bg: 25}{person: 4 58 58}{name: 1024}{color: 2}{speed: 5}(Her {color: 1}habit{color: 2} is scratching her{b}
+neck whenever she talks about{b}
+the moment of the crime...){nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 292}{wait: 32}{person: 12 292 292}{hidetextbox: 0}{speed: 3}
+(So,{wait: 6} what would remind her{b}
+most of the {color: 1}moment of the{b}
+crime{color: 2}!?){color: 0}{p}{bg: 25}{name: 1024}{person: 4 43 42}
+Ms. Orly.{wait: 20} Whenever you recall{b}
+the crime that night,{wait: 10} you{b}
+scratch your neck.{p}
+I've noticed it happens{b}
+when you think about the{b}{color: 1}
+moment of the crime{color: 0}.{nextpage_button}{person: 4 37 36}
+There must be some {color: 1}reason{color: 0}{b}
+behind this "habit" of yours.{nextpage_button}{person: 4 66 65}
+I believe the weapon that left{b}
+an inerasable "impression" on{b}
+your neck is this!{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{fademusic: 120}{bg: 27}{person: 12 292 292}{name: 3072}{hidetextbox: 0}{speed: 5}.{speed: 7}.{speed: 9}.{wait: 30}{nextpage_nobutton}{sound: 52 1}{person: 12 295 294}{bgcolor: 2305 8 31}{speed: 4}
+Sorry to disappoint,{wait_noanim: 25}{person: 12 291 290}{speed: 3} but I{b}
+don't have any particular{b}
+memories of that!{p}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}{color: 2}
+(Uh {wait: 8}oh...{wait: 10} That must not have{b}
+been it!){color: 0}{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{swoosh: 1 1 11 271}{wait: 32}{person: 11 275 275}{name: 2816}{hidetextbox: 0}{speed: 3}
+Hmph!{wait: 12} Of course not!{0x63}{p}{person: 11 275 275}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+You want a habit,{wait: 6} Mr. Justice?{wait: 16}{b}
+I'll show you a habit!!!{wait: 16}{b}{person: 11 275 275}
+Ah ha ha hah!{0x63}{wait: 40}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{bg: 25}{person: 4 40 40}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}
+(I'd better get this sorted{b}
+out before I develop a habit{b}
+of my own...){0x23: 0}{music: 255 60}{color: 0}{p}{jmp: 149}{endjmp}
+
+{{23}}
+{bop}{fademusic: 45}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 4}Whenever she talks about the{b}
+moment of the crime,{wait: 12} she{b}
+touches her neck...{p}{person: 4 48 47}{speed: 3}
+And what reminds us more of{b}
+that moment than {showphoto: 275}this bottle,{wait: 10}{b}
+the murder weapon!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 12 292}{wait: 32}{person: 12 292 292}{name: 3072}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{shake: 30 1}{speed: 2}
+...!{bgcolor: 2305 8 31}{p}{bg: 25}{person: 4 41 40}{name: 1024}{speed: 5}
+But...{wait: 10}{speed: 3} something doesn't fit.{nextpage_button}{person: 4 45 44}{showphoto: 262}{speed: 4}
+If you were only the{b}{color: 1}
+witness{color: 0} to the crime{speed: 8}...{speed: 4}{p}{person: 4 37 36}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+...why would that make {color: 1}you{color: 0}{b}
+touch your neck like you're{b}
+in pain?{p}{bganim: 98 579}{bg: 26}{person: 11 270 269}{name: 2816}{speed: 2}
+What's{wait: 8}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1} he talking about now!?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 5}
+It was Mr. Smith,{wait: 10} the victim{b}
+who was hit{speed: 8}{0x5a}...{wait: 35}{bg: 27}{person: 12 296 296}{animation: 149 1}{fademusic: 0}{music: 9 0}{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2} not{bgcolor: 2305 8 31} {color: 1}you{bgcolor: 2305 8 31}{color: 0}!{speed: 255}{p}{bg: 27}{name: 3072}{bgcolor: 2305 8 31}{speed: 7}
+Uh...{wait: 25}{shake: 30 0}{speed: 3} Uh{shake: 30 0}m{bgcolor: 2305 8 31}m{shake: 30 0}m...{speed: 255}{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 36 1}{wait: 60}{hidetextbox: 1}{swoosh: 2 1 11 269}{wait: 32}{person: 11 270 269}{name: 2816}{hidetextbox: 0}{speed: 2}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+This is a cross-examination,{wait: 10}{b}
+not a cross-wild-conjecture!{p}{speed: 6}
+Th-The witness's... {shake: 30 0}{bgcolor: 2305 8 31}"habits"!?{wait: 16}{b}{speed: 3}
+They're completely irrelevant!{p}{bg: 28}{person: 8 224 223}{name: 2048}
+Justice{speed: 8}{0x5a}...{wait_noanim: 30}{person: 8 220 219}{speed: 3} I'll admit,{wait: 10} I'm{b}
+a bit confused myself.{p}{speed: 3}
+This is certainly a...{wait: 12} unique{b}
+cross-examination.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I'll explain later!{wait: 30}{speed: 5} Just,{wait: 10}{b}
+trust me.{wait: 16}{speed: 2}{bgcolor: 2305 8 31}{shake: 30 0} Now's our only{b}
+chance to break her!{nextpage_button}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}
+Ms. Orly!{wait: 20}{person: 4 59 58}{speed: 4} Please testify,{wait: 8} in{b}
+detail,{wait: 6} about the {bgcolor: 2305 8 31}moment of{b}
+the crime.{wait_noanim: 35}{person: 4 64 65}{fademusic: 30}{sound: 50 1}{shake: 30 1}{speed: 2}{bgcolor: 2305 8 31} The {bgcolor: 2305 8 31}very{bgcolor: 2305 8 31} moment!{bgcolor: 2305 8 31}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 283}{wait: 32}{name: 3072}{person: 12 284 283}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Ny-{wait: 10}Nyet.{wait: 20}{speed: 5} I am knowing nothing.{nextpage_button}{bg: 26}{name: 2816}{person: 11 269 269}{speed: 7}
+...{p}{bg: 29}{name: 2560}{speed: 8}{person: 10 264 264}
+...{p}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 9}
+...{nextpage_button}{person: 4 62 61}{animation: 149 1}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Um,{wait: 12} we know you're not{b}
+Russian.{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 263 262}{name: 2560}{hidetextbox: 0}{speed: 3}
+The witness will testify,{wait: 15}{b}
+please.{wait: 15} Now.{p}{hidetextbox: 1}{bg: 27}{person: 12 276 276}{wait: 50}{person: 12 288 288}{wait: 62}{animation: 152 1}{person: 12 308 308}{wait: 30}{wait: 30}{person: 12 291 290}{name: 3072}{hidetextbox: 0}{speed: 2}{shake: 30 0}{bgcolor: 2305 8 31}
+Bah.{wait: 20} Fine!{nextpage_button}{speed: 255}{fademusic: 0}{music: 3 100}{0x10: 32777}{0x10: 32776}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 292 292}{name: 3072}{0x6c: 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}
+
+{{24}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 59 58}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}You're hiding something,{wait: 12}{speed: 3} and{b}
+that habit of yours proves it!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 292}{wait: 32}{name: 3072}{person: 12 293 292}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Hah!{wait: 12} Ludicrous!{wait_noanim: 20}{person: 12 299 298} I'm not{b}
+h-{shake: 30 0}hiding anything!{p}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 3}
+You touched your neck again.{p}{bg: 27}{name: 3072}{person: 12 298 298}{sound: 51 1}{shake: 30 1}{bgcolor: 2305 8 31}
+Ack!{wait: 30}{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{name: 1024}{person: 4 37 36}{hidetextbox: 0}{speed: 4}
+It's no use trying to hide{b}
+it.{wait: 20} I can see right through{b}
+you.{p}{bg: 27}{name: 3072}{person: 12 296 296}{animation: 149 1}{speed: 6}
+...{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 290 290}{name: 3072}{0x6c: 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}
+
+{{25}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 45 44}{name: 1024}{hidetextbox: 0}{speed: 3}Let me ask,{wait: 12} how's your{b}
+eyesight?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 292}{wait: 32}{person: 12 293 292}{name: 3072}{hidetextbox: 0}{speed: 5}
+Just who do you think you're{b}
+talking to?{p}{person: 12 291 290}{speed: 3}
+They don't call me {wait: 6}"Quick-{b}
+Fingers"{wait: 6} for nothing.{p}{person: 12 293 292}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I'm a{bgcolor: 2305 8 31} pro.{wait: 16} Which means my{b}
+dealing's{bgcolor: 2305 8 31} pro,{wait: 6} and my{b}
+eyesight...{wait: 20} is{bgcolor: 2305 8 31} pro!{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 11 271}{wait: 32}{person: 11 272 271}{name: 2816}{hidetextbox: 0}{speed: 3}
+Honestly,{wait: 15} she'd have to be{b}
+blind as a bat to miss{b}
+something in that small room.{p}{bg: 25}{person: 4 40 40}{name: 1024}{speed: 5}{color: 2}
+(Yeah,{wait: 10} but Mr. Wright didn't{b}
+have a {color: 1}motive{color: 2}{speed: 3} to hit the{b}
+victim! Hmm...){color: 0}{nextpage_button}{jmp: 136}{endjmp}
+
+{{26}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 4}You seem...{wait: 20} uneasy.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 292}{wait: 32}{person: 12 293 292}{name: 3072}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+You try sitting up here!{p}{bg: 25}{person: 4 40 40}{name: 1024}{speed: 3}{color: 2}
+(Her eyes are darting{b}
+all over the place{speed: 8}...{wait: 12}{b}{speed: 3}
+I must be getting warm!){color: 0}{p}{person: 4 41 40}{speed: 3}
+Tell me...{wait: 10} After the crime,{wait: 10}{b}
+what was the defendant like?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 296}{wait: 32}{person: 12 297 296}{animation: 149 1}{name: 3072}{hidetextbox: 0}{speed: 4}
+Uh.{wait: 8}{shake: 30 0}{bgcolor: 2305 8 31} Well...{wait_noanim: 15}{b}{person: 12 295 294}{speed: 3}
+He must have been stunned by{b}
+the weight of his crime!{p}{speed: 3}
+He sat in a daze at that table{wait_noanim: 20}{b}{person: 12 291 290}{speed: 5}
+...until the cops came.{p}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 5}
+Intriguing...{nextpage_button}{person: 8 220 219}{speed: 3}
+I believe you've gotten all{b}
+the testimony you're going to{b}
+get out of this witness.{p}
+So,{wait: 8} what do you think about{b}
+her testimony?{p}{person: 8 219 219}{name: 1024}
+I'll tell you what I think!{wait: 15}{b}
+Her testimony is...{speed: 4}{speed: 255}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 58}{0x3b: 65535 1}{2args_choice_jmp: 156 155}{endjmp}
+
+{{27}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}...pretty good,{wait: 10} really.{p}{person: 8 223 223}
+I'd be upset too at the{b}
+scene of a crime like that.{p}
+Yeah,{wait: 10} I can picture my mind{b}
+going blank,{wait: 10}{speed: 4} staring{b}
+listlessly{speed: 7}...{speed: 3}{p}{bg: 28}{person: 8 222 221}{name: 2048}{speed: 4}
+Yes,{wait: 10} I am picturing you{b}
+doing that right now.{p}{person: 8 224 223}{name: 2048}{speed: 3}
+As for our defendant,{wait_noanim: 25}{person: 8 224 223}{speed: 4} he is an{b}
+experienced trial lawyer...{wait: 20}{b}
+He's seen a lot in his day.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 292 292}{name: 3072}{0x6c: 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}
+
+{{28}}
+{bop}{hidetextbox: 1}{fademusic: 60}{bg: 25}{person: 4 38 38}{0x63}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 5}...is basically bogus.{wait_noanim: 20}{b}{person: 4 48 47}{bgcolor: 2305 8 31}{sound: 52 1}{speed: 3}
+It contradicts the evidence!{fademusic: 0}{music: 18 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 11 269}{wait: 32}{person: 11 270 269}{name: 2816}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+Wh-{wait: 12}What's that!?{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 266 266}{name: 2560}{hidetextbox: 0}{speed: 4}
+Well...{p}{person: 10 259 258}{speed: 3}
+Show us this evidence,{wait: 12}{b}
+Mr. Justice!{p}{person: 10 263 262}{speed: 4}
+This evidence that you claim{b}
+contradicts the testimony!{p}{endjmp}
+
+{{29}}
+{bop}{bg: 25}{person: 4 44 44}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}(She didn't let him out of{b}
+her sight until the cops{b}
+got there...){p}{0x6c: 0}{0x6e: 20}{person: 4 36 36}{speed: 3}
+(I know there's some evidence{b}
+that contradicts that!){color: 0}{speed: 255}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{30}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}{hidetextbox: 0}{speed: 5}This,{wait: 10} Your Honor,{wait_noanim: 16}{person: 4 66 65}{fademusic: 30}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} is the{b}
+evidence that contradicts{b}
+her testimony!{p}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 7}
+...{wait: 25}{b}{person: 10 263 262}{speed: 4}
+Well,{wait: 15} Mr. Payne?{p}{bg: 26}{name: 2816}{person: 11 272 271}{speed: 5}
+Tsk.{wait: 20} Who would have thought{b}
+that Justice could be so{b}
+wrong!{wait_noanim: 20}{person: 11 268 267}{speed: 3} He's the guilty one!{nextpage_button}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}{speed: 4}{color: 2}
+(Gah! Me!?){color: 0}{p}{0x6c: 0}{0x6e: 20}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 5}
+...Mr. Justice.{wait: 30}{speed: 2}{person: 10 263 262}{shake: 30 0}{bgcolor: 2305 8 31} You might want{b}
+to think about your future{b}
+before doing that again.{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}{color: 2}
+(Ouch. That one hurt...){color: 0}{p}{speed: 255}{hidetextbox: 1}{0x52}{fademusic: 0}{music: 3 30}{jmp: 136}{endjmp}
+
+{{31}}
+{bop}{0x29: 0}{fademusic: 30}{0x6d: 0}{bg: 25}{person: 4 45 44}{name: 1024}{hidetextbox: 0}{speed: 4}Ms. Orly!{wait: 15} We have a record{wait_noanim: 20}{b}{person: 4 45 44}{speed: 3}
+here that clearly contradicts{b}
+what you said!{p}{person: 4 48 47}{speed: 5}
+It states that {color: 1}the police were{b}
+alerted by a report from the{b}
+defendant{color: 0}!{p}{bg: 27}{person: 12 296 296}{animation: 149 1}{name: 3072}{sound: 51 1}{bgcolor: 2305 8 31}
+Eh...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 3}
+And we know that the{b}
+defendant left the room,{wait: 18}{speed: 5}{b}
+climbed the stairs...{p}{bg: 106}{person: 0 0 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...and made that phone call{b}
+from the first floor of the{b}
+Borscht Bowl Club!{fademusic: 0}{music: 18 0}{p}{bg: 27}{person: 12 296 296}{animation: 149 1}{name: 3072}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 4}
+Ack!{bgcolor: 2305 8 31}{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}
+So,{wait: 10} explain how you kept{b}
+your eyes on the defendant...{p}{person: 4 64 65}{fademusic: 30}{sound: 26 1}{shake: 30 1}{speed: 2}
+...when {bgcolor: 2305 8 31}he {bgcolor: 2305 8 31}left {bgcolor: 2305 8 31}the {bgcolor: 2305 8 31}room {b}{bgcolor: 2305 8 31}
+entirely!{nextpage_button}{speed: 255}{hidetextbox: 1}{swoosh: 0 4096 12 296}{wait: 32}{person: 12 303 303}{animation: 150 1}{name: 3072}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{hidetextbox: 0}
+Eee{bgcolor: 2305 8 31}eee{bgcolor: 2305 8 31}eee{bgcolor: 2305 8 31}ek!{0x63}{wait: 50}{nextpage_nobutton}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 61 1}{sound: 22 1}{wait: 120}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{bg: 4095}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{name: 3072}{hidetextbox: 0}{0x59}{speed: 4}
+...The man who picked up a{b}
+bottle and swung it that{b}
+night...{wait: 40} {sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}wasn't the defendant.{nextpage_button}{hidetextbox: 1}{soundtoggle: 0}{0x26: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 4095}{name: 0}{person: 0 0 0}{bgcolor: 772 1 31}{wait: 25}{bganim: 282 0}{bganim: 261 0}{bganim: 263 0}{bganim: 264 0}{bganim: 265 0}{bganim: 266 0}{bganim: 267 0}{hidetextbox: 0}
+Showdown time.{wait: 70}{bgcolor: 516 1 31}{wait: 25}{nextpage_nobutton}{hidetextbox: 1}{wait: 40}{bg: 4095}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{shake: 30 1}{bgcolor: 2305 8 31}You dirty {bgcolor: 2305 8 31}{color: 1}cheat{color: 0}{bgcolor: 2305 8 31}!{wait: 80}{nextpage_nobutton}{speed: 4}
+Check his pockets,{wait: 30}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2} n{bgcolor: 2305 8 31}ow!{bgcolor: 2305 8 31}{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{wait: 60}{hidetextbox: 0}{speed: 8}
+I-{wait: 10}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}It's gone!{wait: 30}{b}{speed: 6}
+The card's gone!{speed: 8}{wait: 100}{nextpage_nobutton}{hidetextbox: 1}{fademusic: 0}{music: 0 0}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 2}
+...You lose.{bgcolor: 2305 8 31}{wait: 100}{nextpage_nobutton}{soundtoggle: 0}{hidetextbox: 0}{shake: 30 2}{sound: 71 1}{speed: 2}
+Auu{bgcolor: 2305 8 31}uuu{shake: 30 1}uuu{bgcolor: 2305 8 31}gh!{fademusic: 0}{music: 35 0}{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 27}{person: 12 293 292}{0x5a}{bgcolor: 260 1 31}{wait: 25}{soundtoggle: 1}{0x26: 0}{name: 3072}{hidetextbox: 0}{0x59}{speed: 4}
+Just then,{wait: 12}{speed: 4} Smith grabbed the{b}
+bottle from next to Wright...{p}{speed: 5}
+...and{wait: 16}{speed: 2}{bgcolor: 2305 8 31}{shake: 30 0} he hit me!{nextpage_button}{hidetextbox: 1}{speed: 255}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 4095}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{name: 0}{hidetextbox: 0}{soundtoggle: 0}{speed: 5}
+Y-{wait: 8}You...!{wait: 18}{speed: 2}{b}{sound: 26 1}{shake: 30 1}{bgcolor: 2305 8 31}
+Some master of{bgcolor: 2305 8 31} cheating you{b}{bgcolor: 2305 8 31}
+turned out to be!!!{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{bganim: 274 0}{bgcolor: 2305 8 31}{sound: 48 1}{bg: 79}{wait: 45}{bg: 4095}{wait: 5}{bgcolor: 2305 8 31}{bg: 80}{sound: 48 1}{wait: 10}{bg: 4095}{wait: 3}{bgcolor: 2305 8 31}{bg: 81}{sound: 48 1}{wait: 30}{bganim: 281 0}{name: 256}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 69 1}{shake: 30 1}
+Eeee{bgcolor: 2305 8 31}eeee{bgcolor: 2305 8 31}eek!{wait: 50}{speed: 255}{fademusic: 120}{bgcolor: 1028 1 31}{wait: 25}{nextpage_nobutton}{hidetextbox: 1}{bg: 102}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{wait: 30}{soundtoggle: 1}{name: 3072}{soundtoggle: 1}{hidetextbox: 0}{speed: 5}
+When I came to...{p}{name: 2560}{speed: 4}
+The victim was already dead...{wait: 12}{b}
+Is that it?{p}{bg: 27}{person: 12 295 294}{name: 3072}{speed: 4}
+That's why{wait_noanim: 30}{person: 12 293 292}{speed: 3} I couldn't reveal{b}
+who I really was.{p}
+If it came out that I was in{b}
+league with Smith,{wait_noanim: 16}{person: 12 293 292}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2} I'd be a{b}
+suspect for sure!{p}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 7}
+...{p}{bg: 25}{person: 4 36 36}{name: 1024}
+...{p}{bg: 26}{person: 11 269 269}{name: 2816}
+...{p}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 5}
+Well.{wait: 35}{speed: 3}{b}{person: 10 259 258}
+Where does this leave us?{p}{bg: 26}{person: 11 270 269}{name: 2816}{shake: 30 0}{speed: 2}
+M-{wait: 8}Madness.{wait: 12}{speed: 3} Th-{wait: 8}This is madness!{wait: 15}{b}{shake: 30 0}
+I'm dreaming!{p}
+It must have been me who{b}
+was hit with a bottle and{wait: 7}{shake: 30 0}{b}{bgcolor: 2305 8 31}{speed: 2}
+I'm imagining all of this!{p}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 5}
+It appears our prosecution{b}
+is at his wit's end,{wait_noanim: 20}{person: 10 259 258}{speed: 3} and{b}
+frankly,{wait: 10} I can't blame him.{p}{person: 10 263 262}
+Mr. Gavin,{wait_noanim: 30}{0x59} what do you think{b}
+about this turn of events?{nextpage_button}{bg: 28}{person: 8 223 223}{name: 2048}{speed: 8}
+.{speed: 10}.{speed: 12}.{p}{name: 1024}{speed: 3}
+M-{wait: 16}{speed: 5}Mr. Gavin?{wait: 20} Sir?{p}{person: 8 224 223}{name: 2048}
+I believe that,{wait: 12} as the{b}
+defense in this case...{p}{bg: 27}{person: 12 292 292}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...we are compelled to call{b}
+Ms. Orly a {wait: 6}{speed: 3}"big,{wait: 10} fat liar".{speed: 4}{fademusic: 0}{music: 18 0}{p}{bg: 27}{person: 12 293 292}{name: 3072}{speed: 5}
+Wh-{wait: 10}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Whaaaaat!?{p}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 3}
+Three were in that room the{b}
+night of the murder:{wait: 6} the{b}
+defendant,{wait: 10} victim, and her.{p}
+...And she has a {color: 1}motive{color: 0}.{p}{person: 8 223 223}{name: 1024}{speed: 5}
+A motive?{p}{person: 8 224 223}{name: 2048}{speed: 5}
+Her plot foiled,{wait: 12} the witness{b}
+got into an argument with{b}
+her client,{wait: 10} Mr. Smith.{p}{bg: 27}{person: 12 292 292}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+And the denouement of that{b}
+argument...{wait: 20} was murder!{p}{bg: 27}{person: 12 297 296}{animation: 149 1}{name: 3072}{bgcolor: 2305 8 31}
+What!?{wait: 15}{b}{speed: 5}
+I didn't{speed: 8}...{wait: 16}{speed: 2}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+I'm no killer!{p}{person: 12 293 292}{speed: 4}
+It's a trap!{wait: 12}{speed: 3} Someone's trying{b}
+to frame me!{p}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 61 1}{sound: 22 1}{wait: 120}{name: 1792}{fademusic: 30}{sound: 52 1}{shake: 30 0}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 5}
+Heh{wait: 5} heh{wait: 5} heh{wait: 5}...{nextpage_button}{hidetextbox: 1}{bg: 25}{person: 4 58 58}{wait: 3}{hidetextbox: 1}{swoosh: 0 4096 7 187}{wait: 32}{person: 7 188 187}{0x5a}{name: 1792}{wait: 40}{0x59}{hidetextbox: 0}{speed: 5}
+What tangled webs we weave{b}
+when we practice to deceive.{0x5a}{nextpage_button}{person: 7 184 183}{speed: 4}
+So tangled,{wait: 12} we catch ourselves{b}
+in the process.{p}{bg: 29}{person: 10 265 264}{name: 2560}{shake: 30 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 18 0}{sound: 51 1}{speed: 5}
+M-{wait: 12}Mr. Wright?{p}{bg: 27}{person: 7 184 183}{name: 1792}{speed: 3}
+Such a hasty{person: 7 184 183}{speed: 5} conclusion{speed: 8}{0x5a}...{p}{person: 7 178 177}{speed: 3}
+It's not like you,{wait: 8} Kristoph{b}
+Gavin.{nextpage_button}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 5}
+What are you saying?{nextpage_button}{bg: 27}{person: 7 188 187}{name: 1792}{speed: 3}
+Why not consider the other{b}
+possibility?{p}{speed: 4}
+...That there was{wait_noanim: 30}{person: 7 182 181}{sound: 52 1}{bgcolor: 2305 8 31} {color: 1}another{b}
+person in the room{color: 0} at the {b}
+time of the murder?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{speed: 3}{color: 2}
+(Right,{wait: 20} {bgcolor: 2305 8 31}{speed: 2}like Mr. Wright was{b}
+saying before recess!){color: 0}{p}{bg: 27}{person: 7 178 177}{name: 1792}{speed: 3}
+A single card{wait: 15}{showphoto: 22} was swapped into{b}
+the victim's hand after the{b}
+murder.{nextpage_button}{person: 7 188 187}
+And the one who swapped the{b}
+card didn't know {color: 1}two colors{color: 0}{b}
+of cards were being used.{p}{person: 7 182 181}{speed: 4}
+...A {color: 1}fourth person{color: 0}.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 36 1}{wait: 60}{hidetextbox: 1}{swoosh: 2 1 11 269}{wait: 32}{person: 11 270 269}{name: 2816}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Hah,{speed: 3}{wait: 15} this theory again!{wait: 12}{b}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Your "fourth person" doesn't{b}
+exist!{p}{bg: 27}{person: 7 188 187}{name: 1792}{speed: 5}
+Indeed.{p}
+That's why{0x5a}{wait: 20}{speed: 3}{person: 7 178 177}{0x59} I decided to{b}
+bring this case to court.{p}
+Here,{wait: 12} where there's no escape,{wait: 10}{b}
+and no chance for deception{speed: 8}{0x5a}...{p}{person: 7 182 181}{bgcolor: 2305 8 31}{speed: 3}
+The perfect place to catch{b}
+the real criminal.{p}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+The r-{wait: 12}{speed: 4}real criminal?{p}{bg: 27}{person: 7 188 187}{name: 1792}{speed: 3}
+And,{wait: 10} we're in luck.{wait: 12}{speed: 3} A clue to{b}
+the real criminal's identity{b}
+was kindly provided for us.{p}{person: 7 178 177}
+And right at the beginning{b}
+of the trial,{wait: 15}{speed: 4} no less.{p}{bg: 26}{person: 11 270 269}{name: 2816}{speed: 2}
+Wh-{wait: 8}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}Whaaaat!?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 7 187}{wait: 32}{person: 7 188 187}{name: 1792}{hidetextbox: 0}{speed: 4}
+Apollo...{wait: 15} perhaps you know{b}
+what I'm talking about?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 5}
+Um{speed: 8}{0x5a}...{wait_noanim: 30}{person: 4 50 49}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3} sorry.{person: 4 51 51}{wait: 20}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 7 187}{wait: 32}{person: 7 188 187}{name: 1792}{hidetextbox: 0}{speed: 4}
+Remember what I said.{p}{person: 7 178 177}{bgcolor: 2305 8 31}{speed: 3}
+The {color: 1}fourth person{color: 0} who swapped{b}
+the cards made one critical{b}
+error.{p}{bg: 25}{person: 4 41 40}{name: 1024}
+He or she wasn't considering{b}
+the color on the backs of the{b}
+cards{speed: 8}{0x5a}...{speed: 3}{0x59}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 7 177}{wait: 32}{person: 7 178 177}{name: 1792}{hidetextbox: 0}{speed: 4}
+Right.{0x5a}{wait: 16}{speed: 3}{showphoto: 22}{0x59} But how could such an{b}
+obvious mistake occur?{p}
+The cards used for the last{b}
+game were {color: 1}red{color: 0}.{p}
+Yet,{wait: 30}{person: 7 188 187}{speed: 5} there is one person,{b}
+here,{wait: 14} in our court{speed: 8}{0x5a}...{0x59}{speed: 5}{nextpage_button}{bganim: 98 579}{person: 7 182 181}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...who thought those cards{b}
+were {color: 2}blue{color: 0}.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}
+(Yeah,{wait: 10}{speed: 4} I had that impression,{b}
+too{speed: 8}...{wait: 10}{speed: 4} But why?){color: 0}{p}{bg: 27}{person: 7 188 187}{name: 1792}{speed: 3}
+Well,{wait: 10} Apollo?{wait_noanim: 30}{person: 7 178 177}{speed: 5} Think you can{b}
+figure out who it was?{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 11 269}{wait: 32}{person: 11 270 269}{name: 2816}{hidetextbox: 0}{speed: 2}{shake: 30 0}
+I-{wait: 8}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}It's not me,{wait: 10} I swear!{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 263 262}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Who is this {color: 1}fourth person{color: 0}!?{p}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 3}{color: 2}
+(Why do I always get put on{b}
+the spot like this!?){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 7 177}{wait: 32}{person: 7 178 177}{name: 1792}{hidetextbox: 0}{speed: 3}
+Let's hear what the defense{b}
+has to say.{wait: 12} Who was it?{p}{endjmp}
+
+{{32}}
+{bop}{bg: 27}{name: 1792}{person: 7 182 181}{hidetextbox: 0}{speed: 4}Who thought the cards used{b}
+in the final game were {color: 2}blue{color: 0}?{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{b}{special_jmp}{endjmp}
+
+{{33}}
+{bop}{fademusic: 60}{bg: 27}{person: 7 181 181}{name: 1792}{hidetextbox: 0}{speed: 8}..{speed: 10}.{wait: 25}{b}{person: 7 188 187}{speed: 4}
+Apollo,{wait_noanim: 30}{person: 7 184 183}{speed: 3} do you seriously{b}
+think that?{p}{hidetextbox: 1}{bg: 29}{person: 10 261 261}{wait: 70}{person: 10 263 262}{name: 2560}{hidetextbox: 0}{speed: 4}
+I think I'm seriously{b}
+confused.{p}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{speed: 5}
+I{speed: 8}...{wait: 20}{speed: 5} I'm seriously sorry.{wait_noanim: 20}{b}{speed: 4}{color: 2}
+(*gulp*{wait: 20}{speed: 3} That didn't go well.){color: 0}{p}{bg: 27}{person: 7 188 187}{name: 1792}{speed: 5}
+Well,{wait: 15}{speed: 4} it can't be helped.{wait_noanim: 25}{b}{person: 7 184 183}{speed: 3}
+I almost missed it myself...{p}{speed: 5}
+But {wait: 15}{speed: 4}it doesn't do anyone any{b}
+good to turn their eyes away{b}
+from the truth.{p}{speed: 5}
+Does it...{wait_noanim: 30}{b}{person: 7 178 177}{speed: 3}{sound: 52 1}{bgcolor: 2305 8 31}
+Kristoph?{fademusic: 0}{music: 35 0}{nextpage_button}{bg: 28}{person: 8 223 223}{name: 2048}{speed: 6}
+...{p}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Eh?{wait: 15} Mr. Gavin?{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{speed: 4}
+You...{wait: 12}{speed: 3} You don't mean{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 7 177}{wait: 32}{person: 7 178 177}{name: 1792}{hidetextbox: 0}{speed: 6}
+Kristoph Gavin.{wait: 18}{speed: 4} You were the{b}
+fourth person that night.{nextpage_button}{jmp: 163}{endjmp}
+
+{{34}}
+{bop}{fademusic: 45}{bg: 27}{person: 7 187 187}{name: 1792}{hidetextbox: 0}{speed: 7}.{speed: 9}.{speed: 11}.{wait: 40}{b}{person: 7 188 187}{speed: 4}
+As I expected.{p}
+Your eyes and ears are{speed: 3}{wait_noanim: 25}{person: 7 182 181}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3} as{b}
+sharp as your hair.{fademusic: 0}{music: 35 0}{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{speed: 4}
+I-{wait: 12}{speed: 3}I was right?{speed: 8}{0x5a}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 7 177}{wait: 32}{person: 7 178 177}{name: 1792}{hidetextbox: 0}{speed: 6}
+Kristoph Gavin.{wait: 18}{speed: 4} You were the{b}
+fourth person that night.{nextpage_button}{endjmp}
+
+{{35}}
+{bop}{bg: 25}{person: 4 59 58}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}B-{wait: 8}But{wait: 16}{speed: 3} of course Mr. Gavin{b}
+knows the color of the cards!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 7 177}{wait: 32}{person: 7 178 177}{name: 1792}{hidetextbox: 0}{speed: 4}
+...How would he?{nextpage_button}{bg: 102}{person: 0 0 0}{name: 1792}{speed: 3}
+As you can see,{wait: 30} the photo of{b}
+the crime scene is black and{b}
+white.{p}{speed: 4}
+You can't tell which of the{b}
+cards are {color: 2}blue{color: 0}:{wait: 15}{speed: 3} the ones on {b}
+the floor,{wait: 10} or the table.{p}{bg: 25}{person: 4 37 36}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+B-{wait: 8}But{wait: 10}{speed: 2} look!{p}{bg: 104}{person: 0 0 0}{name: 1024}{speed: 3}
+You can see the colors in{b}{shake: 30 0}{bgcolor: 2305 8 31}
+this photo!{p}{bg: 27}{person: 7 178 177}{name: 1792}{speed: 5}
+Yes,{wait: 15}{speed: 4} but when he said the{b}
+cards were {wait: 6}"{color: 2}blue{color: 0}"...{p}{person: 7 182 181}{speed: 3}
+...it was well before this{b}
+evidence came to light!{nextpage_button}{sound: 49 1}{hidetextbox: 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 28}{person: 8 223 223}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{person: 8 224 223}{name: 2048}{hidetextbox: 0}{speed: 3}
+It is true that the defendant{b}
+was engaged in a game of poker{b}
+with the victim.{p}
+Yet it was only that:{wait: 6} a game,{wait: 10}{b}
+in the purest sense.{wait_noanim: 25}{b}{sound: 52 1}{bgcolor: 2305 8 31}{person: 8 224 223}
+A {color: 1}competition{color: 0},{wait: 10} Your Honor.{p}{bg: 26}{person: 11 268 267}{name: 2816}{speed: 4}
+A...{wait: 12} competition?{p}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 4}
+Yes,{wait: 10} a test of wits,{wait: 12} a silent{b}
+clash of passions...{p}
+Only the cards,{wait: 10} their backs{b}
+wreathed in blue flame,{wait: 10} know{b}
+its final outcome.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 27}{person: 7 182 181}{0x5a}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{name: 1792}{hidetextbox: 0}{0x59}{speed: 5}
+Well,{wait: 15} Kristoph?{p}{bg: 28}{person: 8 223 223}{name: 2048}{speed: 7}
+.{speed: 9}.{speed: 11}.{p}{name: 1024}{speed: 5}
+Mr{speed: 8}....{wait: 12}{speed: 4} Gavin?{p}{bg: 29}{person: 10 263 262}{name: 2560}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Mr. Gavin!{wait_noanim: 25}{b}{person: 10 265 264}{speed: 3}
+I-{wait: 8}Is something the matter?{p}{bg: 28}{person: 8 224 223}{name: 2048}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hmm?{wait: 20} N-{wait: 8}{speed: 3}No,{wait: 12}{speed: 3} nothing.{wait: 15} Excuse me,{wait: 10}{b}
+it was just so...{wait: 20} sudden.{p}{speed: 3}
+Wright.{0x5a}{wait: 25}{b}{0x59}{speed: 4}
+You aren't seriously accusing{b}
+me...{wait: 20} are you?{p}{bg: 27}{person: 7 178 177}{name: 1792}{speed: 5}
+Oh,{wait: 12}{speed: 4} Kristoph?{p}{person: 7 182 181}{speed: 3}
+You know even I'd never take{b}
+a joke this far.{p}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 59 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 36 1}{wait: 60}{bg: 26}{person: 11 270 269}{name: 2816}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+This has gone beyond{b}
+ridiculous,{wait: 10} beyond dumb...{wait: 18}{b}
+This is insanity!{wait_noanim: 25}{p}{speed: 3}
+The defendant accusing his own{b}
+defense attorney of murder?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 7 177}{wait: 32}{person: 7 178 177}{name: 1792}{hidetextbox: 0}{speed: 5}
+I assure you,{wait: 16}{speed: 3} I'm quite sane.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 11 269}{wait: 32}{person: 11 270 269}{name: 2816}{hidetextbox: 0}{speed: 3}
+But what possible connection{b}
+could{wait: 12}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2} Mr. Gavin have to the{b}
+victim!?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 7 177}{wait: 32}{bg: 27}{person: 7 178 177}{name: 1792}{hidetextbox: 0}{speed: 4}
+I wasn't aware that{wait_noanim: 20}{person: 7 184 183}{speed: 3} I had{b}
+a connection to Mr. Smith,{wait: 10}{b}
+either.{nextpage_button}{bg: 26}{person: 11 270 269}{name: 2816}{speed: 3}
+Yes,{wait: 12} but Mr. Gavin and the{b}
+victim{wait: 12}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1} have never even met!{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 7 183}{wait: 32}{person: 7 184 183}{name: 1792}{hidetextbox: 0}{fademusic: 60}{speed: 6}
+Well{0x5a}...{wait_noanim: 40}{b}{person: 7 178 177}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+What if they have?{p}{bg: 26}{person: 11 267 267}{name: 2816}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Huh...?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 7 177}{wait: 32}{person: 7 178 177}{name: 1792}{hidetextbox: 0}{speed: 3}
+There is a possibility,{wait_noanim: 18}{b}{person: 7 178 177}{speed: 4}
+after all.{p}{person: 7 182 181}
+They may have met that night,{wait: 12}{b}
+before the game started.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 5}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 3}
+What are you suggesting!?{nextpage_button}{bg: 25}{person: 4 40 40}{name: 1024}{speed: 4}{color: 2}
+(Is this the truth Mr. Wright{b}
+was staying silent about!?{wait: 20}{b}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Well,{wait: 10} only one thing to do!){color: 0}{p}{person: 4 59 58}{bgcolor: 2305 8 31}{speed: 2}
+Mr. Wright!{wait: 18}{speed: 3} The defense would{b}
+like to request that you{b}
+testify to the court!{wait_noanim: 25}{nextpage_nobutton}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 41 1}{wait: 60}{hidetextbox: 1}{bg: 28}{person: 8 223 223}{fademusic: 0}{music: 18 0}{wait: 30}{person: 8 224 223}{name: 2048}{hidetextbox: 0}{speed: 5}
+The defense would like to{b}
+request no such thing.{nextpage_button}{name: 1024}{hidetextbox: 0}{speed: 5}
+Mr. Gavin{speed: 8}...?{p}{person: 8 220 219}{name: 2048}{speed: 4}
+Testimonies must relate to {b}
+the case.{p}{person: 8 222 221}{speed: 3}
+How could anything happening{b}
+before that game of poker{b}
+be related?{p}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 59 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 265 264}{name: 2560}{hidetextbox: 0}{speed: 3}
+I'm not sure I follow,{wait: 8}{b}
+Mr. Gavin.{p}{bg: 28}{person: 8 224 223}{name: 2048}
+As I explained before,{wait: 10} the{b}
+defense believes that {b}
+Ms. Orly...{p}{hidetextbox: 1}{bg: 29}{person: 10 261 261}{0x63}{person: 10 263 262}{name: 2560}{hidetextbox: 0}{speed: 3}
+...Am I to assume you speak{b}
+for Mr. Justice in this?{wait: 20} He{b}
+is the defense,{wait: 10} not you.{p}{bg: 28}{person: 8 224 223}{name: 2048}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...!{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 4}
+Mr. Justice.{wait_noanim: 25}{person: 10 263 262}{speed: 3} The matter of{b}
+Mr. Wright's testimony is{b}
+up to you.{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{speed: 8}
+Oh...{wait: 16} {speed: 5}OK.{wait: 20}{b}{0x5a}
+*gulp*{nextpage_button}{endjmp}
+
+{{36}}
+{bop}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}Does the court,{wait: 8} in your{b}
+opinion,{wait: 10} need to hear{b}
+Mr. Wright's testimony?{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 60}{raw_jmp: 65535}{b}{2args_choice_jmp: 166 165}{endjmp}
+
+{{37}}
+{bop}{bg: 25}{person: 4 40 40}{name: 1024}{speed: 4}{color: 2}(As much as I'd like it to,{wait: 12}{b}
+I guess the testimony isn't{b}
+related to the case,{wait: 10} per se.){color: 0}{p}{bg: 27}{person: 7 178 177}{name: 1792}{speed: 4}
+You heard what the judge{b}
+said,{wait: 16}{speed: 3} Apollo?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 4}{color: 0}
+...!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 7 177}{wait: 32}{person: 7 188 187}{name: 1792}{hidetextbox: 0}{speed: 4}
+It's your decision.{b}{0x5a}{wait: 16}{speed: 3}{0x59}
+Yours.{nextpage_button}{bg: 28}{person: 8 220 219}{name: 2048}{speed: 5}
+Justice!{wait: 15}{speed: 3} You aren't seriously{b}
+considering...{nextpage_button}{name: 1024}{speed: 3}
+I'm sorry,{wait: 15} Mr. Gavin...{p}{bg: 25}{person: 4 58 58}{color: 2}
+(But now that we've gone this{b}
+far,{wait: 12} we might as well go all{b}
+the way!){color: 0}{p}{person: 4 37 36}{name: 1024}{speed: 4}
+The defense would like to{wait: 12}{b}{person: 4 66 65}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+request that Mr. Wright{b}
+testify to the court!{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+Very well.{wait: 10} The defendant,{wait_noanim: 25}{b}{person: 10 263 262}{speed: 4}
+er,{wait: 10} Mr. Wright will take{b}
+the stand,{wait: 10} please.{nextpage_button}{testimony_animation: 1}{special_jmp}{endjmp}
+
+{{38}}
+{bop}{bg: 25}{person: 4 36 36}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}(This was Mr. Wright's{b}
+strategy!{wait: 12}{speed: 3} He was planning{b}
+this all along!){p}{person: 4 58 58}{speed: 4}
+(And I intend to see it{b}
+through.){speed: 3}{color: 0}{p}{person: 4 37 36}{speed: 4}
+...The defense would like to{wait: 12}{b}{person: 4 66 65}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+request that Mr. Wright{b}
+testify to the court!{nextpage_button}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 4}
+Et tu,{wait: 10} Justice?{wait: 15} You would{b}
+betray me,{wait: 10} your teacher?{nextpage_button}{name: 1024}{speed: 4}
+I'm sorry,{wait: 10} Mr. Gavin.{b}
+This isn't about loyalty...{wait: 30}{b}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+This is about the truth!{nextpage_button}{name: 2048}{speed: 7}
+...{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+Very well.{wait: 12} The defendant...{wait_noanim: 25}{b}{person: 10 263 262}{speed: 4}
+Mr. Wright will take{b}
+the stand,{wait: 10} please.{nextpage_button}{testimony_animation: 1}{special_jmp}{endjmp}

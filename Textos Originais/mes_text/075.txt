@@ -1,0 +1,572 @@
+
+
+{{0}}
+{bop}{person: 0 0 0}{name: 1024}A police car is parked in{b}
+front of the Meraktis Clinic.{p}
+It's empty.{wait: 16} The police must{b}
+be inside investigating.{p}{jmp: 138}{endjmp}
+
+{{1}}
+{bop}{person: 0 0 0}{name: 1024}A lone Eldoon's Noodles bowl{b}
+lies on the ground.{p}
+The lone bowl,{wait: 8} tipped on its{b}
+side...{wait: 20} It's kind of surreal.{nextpage_button}
+You'd think he would have{b}
+picked it up by now.{nextpage_button}{jmp: 138}{endjmp}
+
+{{2}}
+{bop}{person: 0 0 0}{name: 1024}Guy Eldoon's dog doesn't{b}
+look too lively.{p}
+They say dogs and their owners{b}
+resemble each other...{p}
+I guess there are exceptions.{nextpage_button}{jmp: 138}{endjmp}
+
+{{3}}
+{bop}{person: 0 0 0}{name: 1024}Mr. Eldoon's house has seen{b}
+better days.{p}
+And I'm betting I've eaten{b}
+better noodles.{p}{jmp: 138}{endjmp}
+
+{{4}}
+{bop}{person: 0 0 0}{name: 1024}This must be his business{b}
+sign.{wait: 20} It reads "NOO".{p}
+Maybe that's how the kids{b}
+are spelling "new" these{b}
+days.{p}
+Another failed attempt at{b}
+hipster marketing.{nextpage_button}{jmp: 138}{endjmp}
+
+{{5}}
+{bop}{person: 0 0 0}{name: 1024}The front entrance to the{b}
+Meraktis Clinic.{p}
+The walls and posts are so{b}
+highly polished I can see{b}
+my face in them.{p}{speed: 6}
+...{wait: 20}Wait.{wait: 30}{b}{speed: 3}
+My hairdo's a little flat.{p}{speed: 6}
+...{wait: 20}There.{wait: 30}{b}{speed: 3}
+Perfect.{nextpage_button}{jmp: 138}{endjmp}
+
+{{6}}
+{bop}{person: 0 0 0}{name: 1024}Looks like this is a banner{b}
+for some campaign.{p}{speed: 4}
+"Three shots for the price of{b}
+one"{speed: 8}...{wait: 16} {speed: 3}Somehow I don't see{b}
+people lining up for that.{nextpage_button}{jmp: 138}{endjmp}
+
+{{7}}
+{bop}{person: 0 0 0}{name: 1024}The blue tarp Mr. Eldoon used{b}
+to cover his noodle stand.{p}
+Robbed of its purpose,{wait: 8} it{b}
+blows in the wind...{wait: 20} alone.{p}{jmp: 138}{endjmp}
+
+{{8}}
+{bop}{person: 0 0 0}{name: 1024}An oil drum for catching{b}
+rainwater.{p}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...{wait: 16}Ack!{wait: 20} A flock of crows just{b}
+flew over and...{wait: 20} That's gross!{nextpage_button}
+Their aim was uncanny{speed: 7}...{wait: 12}{b}{speed: 3}
+almost as if they'd been{b}
+practicing here a long time.{nextpage_button}{jmp: 138}{endjmp}
+
+{{9}}
+{bop}{person: 0 0 0}{name: 1024}There's a hand-written sign{b}
+here...{wait: 20} "Save the light!"{p}
+It's hard to make out the{b}
+sign in the shade from the{b}
+clinic next door.{p}{jmp: 138}{endjmp}
+
+{{10}}
+{bop}{0x35: 51200 @RelativeAddress0}{0x35: 51457 @RelativeAddress1}{personvanish: 3 1}{person: 16399 373 373}{hidetextbox: 3}{special_jmp}{@RelativeAddress1}{personvanish: 3 1}{person: 16399 386 386}{hidetextbox: 3}{special_jmp}{@RelativeAddress0}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{0x26: 0}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16{b}
+Eldoon's House{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Hey,{wait: 12} it's Mr. Eldoon!{wait: 16}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+Oh Mr. Eldooooon!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 383 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait: 20}{bgcolor: 2305 8 31}{shake: 30 0}Hrmph.{nextpage_button}{name: 1280}{person: 5 68 67}{0x5a}{sound: 52 1}{0x59}{speed: 3}
+What's wrong?{wait: 30}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 382 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+...{wait: 20}So,{wait: 12} you found my stand.{p}{speed: 3}
+That's why I'm here.{b}
+To thank you.{p}{name: 1280}{person: 5 81 81}{bgcolor: 2305 8 31}
+Ah.{p}{name: 3840}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+But now it's a crime scene{b}
+and they won't let me have{b}
+it back!!!{p}{person: 15 382 383}
+That's also why I'm here.{wait: 16}{b}
+I got no other place to go.{p}{name: 1024}{person: 15 380 380}{speed: 8}
+Ah...{wait: 20} {speed: 3}I see.{p}{name: 3840}{person: 15 381 380}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+How can a noodle stand be a{b}
+crime scene,{wait: 8} that's what{b}
+I don't get,{wait: 8} Trucy-doll!{p}{hidetextbox: 1}{person: 15 377 377}{0x63}{hidetextbox: 0}{speed: 3}
+Even in death he's after my{b}
+neck,{wait: 8} I tell ya!{wait: 16} Bah!{p}{person: 15 381 380}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Can't even cook an honest{b}
+noodle...{p}{hidetextbox: 1}{person: 15 388 388}{wait: 10}{sound: 164 1}{0x63}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 4}
+"He"{speed: 6}{wait: 6}...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+"{color: 1}Even in death{color: 0}"{speed: 8}...{wait: 20} {speed: 3}You mean{b}
+the victim,{wait: 8} Dr. Meraktis?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 382 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+I tell ya.{p}
+It's enough to drive a man{b}
+to make his soup even saltier.{p}{name: 1024}{person: 15 383 383}{speed: 4}{color: 2}
+(Remind me never to eat his{b}
+noodles when he's in a bad{b}
+mood...){speed: 255}{color: 0}{p}{fademusic: 0}{music: 32 0}{0x10: 32906}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{person: 0 0 0}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}Well,{wait: 8} we've got to check out{b}
+this clinic,{wait: 8} that's for sure.{p}{name: 1024}{person: 5 95 95}
+Yeah,{wait: 12} but what about the{b}
+guard?{p}{name: 1280}{person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+No harm in asking!{p}{person: 5 72 69}
+Um,{wait: 16} excuse me!{nextpage_button}{person: 5 81 81}{name: 11264}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Hey,{wait: 8} it's you two from{b}
+yesterday!{p}{name: 1024}{bgcolor: 2305 8 31}{color: 2}
+(That's the same officer that{b}
+was standing out by the{b}
+park yesterday!){color: 0}{p}{person: 5 75 75}{name: 11264}{speed: 3}
+Your business is over in the{b}
+park,{wait: 8} isn't it?{wait: 16} The clinic's{b}
+off limits.{wait: 16} It's not involved.{wait: 16}{p}{name: 1280}{person: 5 96 95}
+B-{wait: 16}But...!{nextpage_button}{person: 5 81 81}{name: 11264}{speed: 3}
+What part of{wait: 8} "off limits"{b}
+do you not understand?{nextpage_button}
+Show me proof that the clinic{b}
+is connected to the incident{b}
+in the park,{wait: 8} or beat it.{nextpage_button}{person: 5 75 75}{name: 1024}{color: 2}
+(No harm in asking...{wait: 20}{b}
+No gain either.){p}
+(No point in sticking around{b}
+here,{wait: 8} I guess.){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{wait: 1}{0x1d: 260}{0x4c}{hidetextbox: 1}{personvanish: 3 1}{person: 15 373 373}{0x10: 32919}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{fademusic: 60}{name: 3840}{person: 15 382 383}...{wait: 20}Sorry,{wait: 8} pal.{wait: 20} Didn't mean to{b}
+weigh you down with an old{b}
+man's ramblings.{p}{name: 1024}{person: 15 383 383}
+No,{wait: 12} it's fine.{p}{name: 3840}{person: 15 382 383}
+By way of apology...{p}{person: 15 374 373}
+You ever get yourself in a{b}
+spot of trouble,{wait: 8} you drop by.{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}
+Huh?{p}{name: 3840}
+You're investigating Meraktis,{wait: 8}{b}
+aren't ya?{nextpage_button}{name: 1024}{person: 15 383 383}
+Yes...?{p}{name: 3840}{person: 15 382 383}
+Well,{wait: 8} you want to know about{b}
+a doctor,{wait: 8} you ask a doctor.{wait: 16}{b}
+That's all I'm sayin'.{p}{person: 15 374 373}
+You just think of me if you{b}
+need something,{wait: 10} Trucy-doll.{p}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Right!{wait: 16} Thanks,{wait: 8} Mr. Eldoon!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1024}{person: 15 388 388}{wait: 10}{sound: 164 1}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}{color: 2}
+(Hmm.{wait: 16} I guess the time spent{b}
+listening to him complain{b}{0x63}{person: 15 373 373}
+wasn't entirely wasted.){speed: 255}{color: 0}{p}{fademusic: 0}{music: 32 60}{0x10: 32909}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{wait: 1}{0x1d: 264}{0x4c}{name: 3840}{person: 15 375 373}{hidetextbox: 0}That stand...{wait: 16} For generations,{wait: 8}{b}
+it's served up the very best{b}
+noodles us Eldoons could make.{p}
+A tradition of noodles and{b}
+salty broth.{p}{person: 15 374 373}
+It's more than a stand,{wait: 12} it's{b}
+history, I tell you.{p}{name: 1024}{person: 15 373 373}{color: 2}
+(Watch what you say or it{b}
+might become true...){color: 0}{p}{name: 1280}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+That's a great story,{wait: 8}{b}
+Mr. Eldoon!{p}{speed: 3}
+A single stand,{wait: 8} passed down{b}
+from generation to generation!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 382 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+'Course,{wait: 6} to be honest...{wait: 12}{b}
+I didn't plan on doing it.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+That's right.{wait: 12} You said{b}
+something about that.{p}{person: 5 68 67}{speed: 4}
+About you{wait: 6} "rebelling" against{b}
+your pops,{wait: 8} was it?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 374 373}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Good memory,{wait: 8} Trucy-doll.{p}{person: 15 382 383}
+Aye,{wait: 8} I was a go-getter back{b}
+in my day...{p}{hidetextbox: 1}{person: 15 377 377}{0x63}{hidetextbox: 0}{name: 3840}
+Until my friend next door{b}
+butted in.{p}{person: 15 379 378}
+In the end,{wait: 8} I was left with{b}
+nothing but this dusty old{b}
+stand to earn my fortune.{p}{name: 1024}{person: 15 378 378}{speed: 5}
+Mr. Eldoon,{wait: 8} I don't mean to{b}
+pry...{p}{person: 15 373 373}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 20}but what exactly did you do{b}
+before you became a chef?{p}{name: 3840}{person: 15 382 383}{0x5a}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Bah!{wait: 20}{b}{0x59}{speed: 3}
+Let old noodles lie,{wait: 8} that's{b}
+what I say.{p}{name: 1024}{person: 15 383 383}{speed: 4}{color: 2}
+(I'm starting to get an idea{b}
+of what he did,{wait: 8} anyway.){color: 0}{p}{name: 3840}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+He stole my dreams and left{b}
+me with nothin' but noodles.{p}{person: 15 388 388}{wait: 10}{sound: 164 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+And now I don't even have{b}
+that!{b}{0x63}{person: 15 383 383}{0x23: 0}{music: 255 90}{p}{0x35: 44289 @RelativeAddress2}{0x10: 32907}{0x35: 35840 @RelativeAddress3}{0x37: 4 0}{0x37: 5 1}{@RelativeAddress2}{@RelativeAddress3}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{wait: 1}{0x1d: 264}{0x4c}{name: 1024}{person: 15 373 373}{hidetextbox: 0}Mr. Eldoon,{wait: 8} if I might ask...{p}
+What exactly happened between{b}
+you and the Meraktis Clinic?{p}{name: 3840}{person: 15 381 380}{sound: 52 1}{bgcolor: 2305 8 31}
+Eh?{wait: 16} Eh!?{p}{name: 1024}{person: 15 380 380}{wait: 10}
+I couldn't help but sense{b}
+enmity there...{p}{name: 3840}{person: 15 382 383}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Enmity?{wait: 16} I hate 'im!{p}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Er.{wait: 16} Hated.{wait: 16} Him actin' like{b}
+he smells like roses when {b}
+he's rollin' in mud!{p}{name: 1024}{person: 15 383 383}{speed: 5}
+Excuse me?{p}{hidetextbox: 1}{wait: 1}{0x1d: 8}{0x4c}{name: 3840}{hidetextbox: 0}{speed: 3}
+He's the only doctor at that{b}
+clinic,{wait: 8} you know.{wait: 16} Pretty{b}
+impressive,{wait: 8} eh?{p}
+I'll tell you the secret to{b}
+his success...{wait: 16}{shake: 30 0}{bgcolor: 2305 8 31} {speed: 2}The mob!{p}{hidetextbox: 1}{wait: 1}{0x1d: 264}{0x4c}{name: 1024}{person: 15 383 383}{hidetextbox: 0}
+You mean{speed: 8}...{wait: 16} {speed: 3}the Kitaki Family?{p}{name: 3840}{person: 15 374 373}
+They're always having one of{b}
+them{wait: 6} "turf wars" or whatnot.{p}
+Always an injury or two that{b}
+needs fixing.{wait: 16} Meraktis saw{b}
+a chance for some business.{p}{person: 15 374 373}{sound: 52 1}{bgcolor: 2305 8 31}
+So he started giving the{b}
+Kitaki Family a good deal...{p}{name: 1024}{person: 15 373 373}{speed: 5}
+A deal...?{p}{name: 3840}{person: 15 375 373}{speed: 2}
+Every fifth operation for{b}
+free!{p}{person: 15 381 380}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+He stole the idea from my{b}
+pops!{wait: 16} One free bowl of noodles{b}
+a week,{wait: 8} he used to say.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Can a doctor just decide to{b}
+do that?{wait: 16} What about the{b}
+insurance companies...?{nextpage_button}{name: 3840}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Oh,{wait: 8} no doubt it's illegal.{wait_noanim: 25}{b}{person: 15 382 383}{speed: 3}
+But,{wait: 8} it got him in good with{b}
+the Family.{p}
+Pretty soon he was getting{b}
+all the business in town.{nextpage_button}{name: 3840}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Leavin' me here,{wait: 8} in the dark!{p}{speed: 3}
+Up t'my neck in soupy{b}{shake: 30 0}{bgcolor: 2305 8 31}
+noodles!{nextpage_button}{name: 1024}{person: 15 383 383}{speed: 5}{color: 2}
+(I think I've figured out{b}
+Mr. Eldoon's{wait: 12} {color: 1}former{b}
+occupation{color: 2}...){color: 0}{nextpage_button}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Can't hurt to ask,{wait: 8} Apollo!{nextpage_button}{0x35: 44289 @RelativeAddress4}{0x10: 32908}{0x35: 35584 @RelativeAddress5}{0x37: 4 0}{0x37: 5 1}{@RelativeAddress4}{@RelativeAddress5}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 15 374 373}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{wait: 1}{0x1d: 264}{0x4c}{name: 1024}{person: 15 373 373}{hidetextbox: 0}Mr. Eldoon...{wait: 16} or should{b}
+I say{wait: 6} "Dr. Eldoon"{wait: 6}...{p}{name: 3840}{person: 15 382 383}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Figured it out,{wait: 8} did ya?{p}{person: 15 382 383}{speed: 3}
+That's right,{wait: 12} I was a doctor.{wait: 20}{b}
+A surgeon...{wait: 20} until the year{b}{fademusic: 0}{music: 28 100}
+before last.{nextpage_button}{0x19: 32815 48}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{showphoto: 52}{speed: 3}
+So Mr. Meraktis was your{b}
+rival?{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 382 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+...{wait: 20}You like those onions they{b}
+put in the soup broth?{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+Um,{wait: 12} yeah,{wait: 8} kind of.{p}{name: 3840}
+You take a spoon,{wait: 12} you drink{b}
+some broth...{wait: 20} Those onions{b}
+will find their way in there.{p}
+For people who like 'em,{wait: 8} why{b}
+that's just fine.{wait: 16} For people{b}
+who hate 'em...{p}{speed: 4}
+...{wait: 20}{speed: 2}I {person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}hate onions.{b}
+Hate 'em!{p}{speed: 3}
+Always sneaking in from the{b}
+side,{wait: 8} gettin' in the way of{b}
+a good tastin' spoonful.{p}{person: 15 382 383}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Well,{wait: 8} that's what he was.{wait: 16}{b}
+An onion!{wait: 16} Onion-boy,{wait: 8} that's{b}
+what I called 'im.{nextpage_button}{name: 1024}
+So...{wait: 20} you weren't exactly{b}
+friends.{p}{name: 3840}{person: 15 382 383}{speed: 4}
+Hah!{wait: 16} Me 'n Pal Meraktis...{p}{speed: 3}
+Ever since pre-school we were{b}
+getting in each other's face.{p}
+No matter what I did,{wait: 8} sure{b}
+enough,{wait: 8} he'd come followin'{b}
+along.{p}{person: 15 374 373}
+Then he'd do it better than{b}
+me.{wait: 20} Just blow right past{b}
+without so much as a "howdy".{p}{name: 1024}{person: 15 373 373}
+...{wait: 20}I see.{p}{name: 3840}{person: 15 381 380}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+That's right!{wait: 16} I was a surgeon{b}
+long before he was,{wait: 9} you know.{p}{hidetextbox: 1}{person: 15 377 377}{0x63}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Then that no-good onion-boy{b}
+comes along...{wait: 20}{p}{name: 1024}{person: 15 380 380}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Well,{wait: 8} Trucy,{wait: 8} looks like we{b}
+found ourselves a new suspect.{nextpage_button}{name: 1280}{person: 5 91 90}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Don't say that!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 382 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Thanks to him,{0x5a}{wait: 8}{person: 15 388 388}{wait: 10}{sound: 164 1}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{0x59} I was forced{b}
+to trade in my scalpel for a{b}
+ladle!{0x63}{p}{0x35: 36097 @RelativeAddress6}{jmp: 141}{endjmp}{endjmp}{@RelativeAddress6}{person: 15 373 373}{fademusic: 0}{music: 32 60}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{0x51: 0 53}{51456}{removephoto}{jmp: 154}{endjmp}{endjmp}{wait: 1}{0x1d: 264}{0x4c}{name: 3840}{person: 15 374 373}That's one of my bowls.{wait: 20}{b}
+See the Mr. Salty mark?{p}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+The mascot of Eldoon's{b}
+Noodles!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 375 373}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+They come to the stand,{wait: 8} they{b}
+sit,{wait: 8} they drink deep from{b}
+that bowl...{p}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+...and when they see the{b}
+bottom,{wait: 8} their face looks jus'{b}
+like Mr. Salty's!{wait: 16} Genius, no!?{p}{name: 1280}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Very high-concept.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 375 373}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+You can't ply a trade if you{b}
+don't love the tools.{wait: 20}{b}{speed: 2}
+Remember that!{nextpage_button}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yes sir!{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Trucy has a thing for{b}
+professionals,{wait: 12} {speed: 4}clearly.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16399 373 373}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{0x51: 0 53}{51456}{removephoto}{jmp: 154}{endjmp}{endjmp}{wait: 1}{0x1d: 264}{0x4c}{name: 3840}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}That's right,{wait: 8} sonny!{wait: 16} When're{b}
+you bringing my stand home!?{p}{person: 15 374 373}{speed: 3}
+I'm ready.{wait: 16} {person: 15 388 388}{wait: 10}{sound: 164 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Can't you see I'm{b}
+ready!?{0x63}{nextpage_button}{name: 1024}{person: 15 380 380}{speed: 4}{color: 2}
+(I guess...){color: 0}{p}{name: 3840}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Until that stand is back home,{wait: 8}{b}
+the case is not closed!{wait: 16} You{b}
+hear me!?{p}{name: 1024}{person: 15 380 380}{color: 2}{speed: 3}
+(I think I'll avoid talking{b}
+about his stand in the{b}
+future.){speed: 255}{color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{0x51: 0 53}{51456}{removephoto}{jmp: 154}{endjmp}{endjmp}{wait: 1}{0x1d: 264}{0x4c}{name: 3840}{person: 15 382 383}Sorry,{wait: 8} sonny-boy.{wait: 16} My interest{b}
+is for my stand and precious{b}
+little else.{nextpage_button}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Get cracking on that case!{wait: 16}{b}{speed: 3}
+Get me back my stand,{wait: 8} I'm{b}
+beggin' ya!{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{0x26: 0}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16{b}
+Eldoon's House{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{wait: 1}{0x1d: 8}{0x4c}{name: 11264}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}
+Ah,{wait: 8} you two again.{p}
+When,{wait: 8} oh when will you learn.{p}
+Look at me however you want,{wait: 8}{b}
+you're not getting in today.{p}{name: 1280}{person: 5 96 95}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+I wouldn't be so sure if I{b}
+were you!{wait: 20} {showphoto: 76}{person: 5 74 73}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}Look what we have!{nextpage_button}{name: 11264}{hidetextbox: 0}{speed: 3}
+What's this?{wait: 20}{b}{speed: 8}
+...{wait: 20}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}Detective Skye!{nextpage_button}{person: 5 67 67}{removephoto}{speed: 8}
+...{p}{speed: 4}
+Yesterday,{wait: 6} it was Prosecutor{b}
+Gavin,{wait: 6} today it's Detective{b}
+Skye.{p}
+Who are you two?{wait: 16} Really.{p}{name: 1024}{speed: 4}{color: 2}
+(Now he's suspicious again...){color: 0}{p}{name: 11264}{speed: 3}
+...{wait: 20}Well,{wait: 8} you got the orders,{wait: 8}{b}{showphoto: 76}{person: 5 69 69}
+I gotta let you in.{wait: 16} Have fun.{p}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Thanks,{wait: 8} Mr. Officer!{nextpage_button}{name: 1280}{person: 5 96 95}{speed: 3}
+Let's hit it,{wait: 8} Apollo!{nextpage_button}{bganim: 98 579}{0x18: 76}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{0x33: 5 0 3 6 7}{0x60: 5 18 4 8 9}{0x61: 5 0 3 7 13}{0x10: 32928}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{0x26: 0}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16{b}
+Eldoon's House{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{0x38: 1}{person: 5 72 69}{name: 1280}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Mr. Eldoon!{wait: 16} {speed: 3}We've been looking{b}
+all over for you!{p}{person: 15 374 373}{name: 3840}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+What's the matter,{wait: 8} Trucy-doll?{wait: 16}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 2}
+Apollo!{wait: 16} {speed: 3}Show him what we{b}
+found!{p}{person: 5 74 73}
+Nothing like expert advice!{p}{name: 1024}{person: 5 73 73}{color: 2}
+(I...{wait: 20} suppose he is a{b}
+doctor still...){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 373 373}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait: 30}{b}{person: 15 377 377}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 6}
+*sni{shake: 30 0}ffle*{0x63}{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Mr. Eldoon!{wait: 16} Is everything OK?{nextpage_button}{name: 3840}{speed: 3}
+I'm just *sniffle* so happy!{wait: 16}{nextpage_button}{person: 15 379 378}{speed: 3}
+I just thought my doctor days{b}
+were gone for good.{0x5a}{wait: 16} *sniffle*{p}{name: 1024}{person: 15 373 373}{speed: 4}
+Mr. Eldoon...{speed: 255}{nextpage_button}{fademusic: 0}{music: 32 0}{person: 15 373 373}{0x10: 32941}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{wait: 1}{0x1d: 264}{0x4c}{name: 3840}{person: 15 387 386}{showphoto: 78}{hidetextbox: 0}{speed: 3}Well,{wait: 8} according to this{b}
+chart{speed: 8}...{wait: 20} {speed: 3}this{wait: 8} "Wocky Kitaki"{b}
+feller's not doing so well.{p}
+He's got a bullet right up{b}
+side his heart!{p}{name: 1024}{person: 15 386 386}
+That's right.{nextpage_button}{bganim: 98 579}{showphoto: 334}{name: 3840}{person: 15 387 386}
+Yeah,{wait: 8} but this chart talks{b}
+about the{wait: 6} post-op{wait: 6}{speed: 8}...{p}{speed: 255}
+In other words,{wait: 8} the operation{b}
+is already finished!{p}{bganim: 98 579}{showphoto: 85}{name: 3840}{person: 15 387 386}
+...{wait: 20}But you can still see that{b}
+bullet stuck in there.{nextpage_button}{name: 1024}{person: 15 386 386}
+Why would it still be in{b}
+there after the operation{b}
+to remove it?{p}{removephoto}{name: 3840}{person: 15 387 386}{speed: 3}
+Well,{wait: 10} 'bout the only reason{b}
+I can think of is,{wait: 12} it was too{b}
+tricky to operate on.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+What...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 387 386}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+That bullet's snug as a bug{b}
+there next to the aorta, which{b}
+is connected to the heart.{p}
+Heck,{wait: 10} that scrap of metal's{b}
+just surrounded by blood{b}
+vessels.{wait: 16} Kind of a miracle.{p}
+Two millimeters to either side{b}
+and there'd be some serious{b}
+bleeding going on in there.{p}
+Not something yer average{b}
+doc'd be eager to fiddle with.{b}{fademusic: 0}{music: 18 0}{p}{name: 1280}{person: 5 84 83}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Y-{wait: 12}You mean...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 387 386}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+It took a miracle to get that{b}
+bullet stuck where it is.{p}{speed: 3}
+It'd take more than a miracle{b}
+to take it out.{wait: 16} It'd take a{b}
+magician.{p}{name: 1024}{person: 15 386 386}{speed: 6}
+...{p}{name: 1280}{person: 5 84 83}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Um...{wait: 20} {speed: 2}I'm only up to making{b}
+rabbits disappear.{wait: 16} I haven't{b}
+learned bullets yet.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 387 386}{0x5a}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{showphoto: 78}{0x59}{speed: 3}
+'Course with the heart pumping{b}
+and lungs working...{wait: 20} That{wait: 6}{b}
+bullet's on the move.{p}
+I'd give him another half{b}
+a year,{wait: 8} tops.{p}{name: 1024}{person: 15 386 386}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+B-{wait: 16}But Wocky's operation was{b}
+already a half-year ago!{p}{bganim: 98 579}{name: 3840}{person: 15 387 386}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+That's why I'm saying you're{b}
+outta time!{p}
+This kid shouldn't be on{b}
+trial!{wait: 16} He should be on an{b}
+operating table!{p}{name: 1024}{person: 15 386 386}{speed: 5}{color: 2}
+(Great...{wait: 20} Just great...){speed: 255}{color: 0}{p}{0x37: 17 0}{0x37: 18 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{wait: 1}{0x1d: 264}{0x4c}{name: 1280}{person: 5 93 92}{hidetextbox: 0}{speed: 2}How could Dr. Meraktis{b}
+do such a {shake: 30 0}{bgcolor: 2305 8 31}terrible thing?{p}{speed: 3}
+How could he just leave that{b}
+bullet in there?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 382 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+I got a pretty good idea of{b}
+how he felt{speed: 8}...{p}{speed: 3}
+An emergency operation...{wait: 12} He's{b}
+got the kid's chest open on{b}
+the table.{p}
+Then he finds that bullet...{wait: 20}{b}
+That's{wait: 6} despair{wait: 6} right there,{wait: 8}{b}
+Trucy-doll.{wait: 16} Cold despair.{nextpage_button}{name: 1280}{person: 5 84 83}{bgcolor: 2305 8 31}{speed: 4}
+Despair...{fademusic: 0}{music: 28 100}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 382 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+'Bout the only thing he could{b}
+do is sew the boy back up.{nextpage_button}{person: 15 374 373}{speed: 4}
+He wasn't exactly in the{b}
+situation to go admitting{b}
+he couldn't take it out.{p}{name: 1280}{person: 5 81 81}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 5}
+The Kitakis...{wait: 30}{person: 5 82 81}{nextpage_button}{name: 3840}{person: 15 374 373}{speed: 3}
+You bet.{wait: 16} {showphoto: 37}This kid's their{b}
+only son,{wait: 8} I hear.{p}{person: 15 375 373}
+So,{wait: 12} {speed: 3}he skips the operation,{wait: 8}{b}
+and Wocky's back on the street{b}
+living his life.{p}{person: 15 382 383}
+'Course,{wait: 8} it's only a matter{b}
+of time before his heart{b}
+hemorrhages and he drops cold.{nextpage_button}{name: 1280}{person: 5 93 92}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+How awful...!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 382 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+And which doctor would they{b}
+take him to?{wait: 10} Meraktis.{p}
+He's got enough ties to them,{wait: 16}{b}
+he could probably cover up{b}
+the truth of what happened.{nextpage_button}{name: 1280}{person: 5 91 90}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 4}
+That's just horrible!{wait_noanim: 25}{p}{person: 5 96 95}{speed: 2}
+He {color: 1}left Wocky {bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}to die{color: 0}!{wait: 12}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 382 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+There's a darkness in this{b}
+world,{wait: 8} Trucy-doll.{wait: 16} Waiting,{wait: 8}{b}
+hungry.{p}
+Compared to it,{wait: 8} these gangs'{b}
+turf wars are like kid games.{p}
+When you're up against real{b}{wait: 6}
+evil{wait: 6}...{p}{person: 15 374 373}
+Well,{wait: 8} it don't matter if{b}
+you're weak or strong.{wait: 16}{b}
+It'll take you all the same.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 92 92}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 8}
+...{p}{person: 5 96 95}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 3}
+You were a surgeon,{wait: 8} right{b}
+Mr. Eldoon!?{p}{person: 5 91 90}{speed: 2}
+You could operate on Wocky,{wait: 8}{b}
+couldn't you!?{nextpage_button}{name: 3840}{sound: 52 1}{bgcolor: 2305 8 31}{person: 15 382 383}{speed: 4}
+...{wait: 20}I wish.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 81 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+What...?{wait: 20}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 382 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+I'm afraid there ain't nobody{b}
+in the country that could.{p}{person: 15 374 373}{speed: 4}
+Maybe not even in the{b}
+world{0x5a}{speed: 8}...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+So{speed: 8}...{wait: 12} {speed: 4}So Wocky{speed: 8}...{nextpage_button}{name: 3840}{sound: 52 1}{bgcolor: 2305 8 31}{person: 15 374 373}{fademusic: 30}{speed: 3}
+He's real lucky to be alive{b}
+even now.{nextpage_button}{name: 1280}{person: 5 93 92}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+No{speed: 8}...!{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+There's one problem...{p}{name: 1280}{person: 5 76 75}{speed: 4}
+Apollo?{0x5a}{fademusic: 0}{music: 35 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1024}{person: 15 373 373}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{showphoto: 78}{speed: 3}
+This chart{speed: 8}...{wait: 16} {speed: 4}Look at the{wait: 8}{b}
+"Nurse"{wait: 6} section...{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 131}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{wait: 30}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 4}
+...{wait: 20}Alita Tiala.{p}{bg: 234}{name: 1280}{person: 5 76 75}{speed: 2}
+That's right!{wait: 16} {speed: 3}This operation{b}
+was how they met.{nextpage_button}{name: 1024}{speed: 3}
+Yeah,{wait: 8} the problem is,{wait: 6} {speed: 5}she{b}
+knew.{nextpage_button}{speed: 4}
+She knew about {color: 1}Wocky's{b}
+condition{color: 0},{wait: 10} {speed: 3}guaranteed.{p}{name: 1280}{person: 5 81 81}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Ah...{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1024}{person: 15 383 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Why didn't she ever tell him?{p}{name: 3840}{speed: 6}
+.{speed: 8}.{speed: 10}.{p}{name: 1024}{speed: 3}{color: 2}
+(It doesn't make sense...){p}
+(If she knew her patient{b}
+was in serious danger...){p}{speed: 2}
+(...you'd think she'd want to{b}
+get that second operation{b}
+before getting engaged!){color: 0}{p}{name: 1280}{person: 5 84 83}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+What was she thinking!?{0x5a}{wait_noanim: 25}{b}{person: 5 93 92}{speed: 3}
+Apollo?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1024}{person: 15 383 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}{color: 2}
+(What were you thinking,{wait: 8}{b}
+Alita Tiala{wait: 16}{speed: 8}...?){color: 0}{p}{hidetextbox: 1}{wait: 30}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{hidetextbox: 0}{0x48: 128 142}{speed: 0}{soundtoggle: 0}{b}{b}
+To be continued.{bgcolor: 260 1 31}{wait: 25}{wait: 160}{fademusic: 120}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{savegame}{bop}{special_jmp}{endjmp}
+
+{{24}}
+{bop}{0x51: 0 53}{51456}{removephoto}{jmp: 154}{endjmp}{endjmp}{wait: 1}{0x1d: 264}{0x4c}{name: 1024}{person: 15 373 373}{speed: 3}Um,{wait: 8} Mr. Eldoon,{wait: 8} could you{b}
+take a look at {showphoto: 78}this?{p}{name: 3840}{person: 15 374 373}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Hrm?{wait: 16} A medical chart?{p}
+Hey,{wait: 8} you shouldn't go around{b}
+taking these from clinics!{nextpage_button}{bganim: 98 579}{showphoto: 334}{person: 15 373 373}{fademusic: 120}{speed: 6}
+.{speed: 8}.{speed: 10}.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Why the sudden silence,{wait: 10}{b}
+Mr. Eldoon?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 374 373}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+What{0x5a}{speed: 8}...?{wait: 30}{b}{person: 15 381 380}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+What's going on here!?{p}{name: 1024}{person: 15 380 380}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}
+That's what we want to know!{p}{speed: 3}
+That chart belongs to my{b}
+client.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+He's on trial...{wait: 10} On suspicion{b}
+of murder.{nextpage_button}{name: 3840}{person: 15 381 380}{bganim: 98 579}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+On trial!{wait: 16} That's crazy!{p}{speed: 2}
+You can't put him on trial!{0x5a}{wait: 30}{b}{sound: 52 1}{bgcolor: 2305 8 31}{0x59}{speed: 3}
+He's ABD!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+...{wait: 20}ABD?{nextpage_button}{person: 15 382 383}{name: 3840}{shake: 30 0}{bgcolor: 2305 8 31}{fademusic: 0}{music: 18 0}{speed: 3}
+All but dead.{wait: 20} He's knocking{b}
+on the Pearly Gates,{wait: 8} and{b}
+someone's about to answer.{nextpage_button}{person: 15 383 383}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+C-{bgcolor: 2305 8 31}Can you tell us why?{nextpage_button}{name: 3840}{speed: 6}
+.{speed: 8}.{speed: 10}.{p}{hidetextbox: 1}{wait: 30}{person: 15 384 384}{0x63}{person: 15 385 385}{0x63}{sound: 52 1}{bgcolor: 2305 8 31}{person: 15 387 386}{hidetextbox: 0}{speed: 4}
+Well,{wait: 8} permit me to speak{b}
+as a surgeon...{p}{speed: 4}
+You listen up good now,{wait: 8} son.{nextpage_button}{name: 1024}{person: 15 386 386}{speed: 5}{color: 2}
+(No way...{wait: 20} It's like he's{b}
+a completely different{b}
+person...){color: 0}{nextpage_button}{0x10: 32969}{0x37: 5 0}{0x37: 17 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{25}}
+{bop}{endjmp}
+
+{{26}}
+{bop}{wait: 1}{0x1d: 264}{0x4c}{name: 1024}{person: 15 386 386}Um,{wait: 12} {speed: 3}Mr. Eldoon,{wait: 8} could you{b}
+take a look at this?{p}{name: 3840}{person: 15 387 386}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+You think we got{bgcolor: 2305 8 31} time for{b}
+that?{wait: 12} Well,{wait: 8} we don't.{p}{speed: 3}
+You see me without my bowl{b}
+on,{wait: 8} you're looking at a man{b}
+who means business.{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+So stop beating around the{b}
+bush and get cutting!{nextpage_button}{name: 1024}{speed: 3}{color: 2}
+(Better hear what he has to{b}
+say while he's in a talkative{b}
+mood...){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}

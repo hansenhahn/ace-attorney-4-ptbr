@@ -1,0 +1,871 @@
+
+
+{{0}}
+{bop}{0x62: 4 2}{0x51: 3 38}{b}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 20 449 449}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 25 11 2 93 1 1 3}{b}
+-- The Journalist's Story --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{name: 5120}{person: 20 450 449}{speed: 2}
+I visited the studio around{b}
+9:00 that night to do the{b}
+interview.{p}{person: 20 452 451}
+The first outsider to enter{b}
+the atelier!{wait: 15} "Journalistic{b}
+History Made",{wait: 10} end quote!{nextpage_button}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 166}{person: 0 0 0}{bgcolor: 257 1 31}{wait: 7}{name: 5120}{hidetextbox: 0}
+His daughter brought us coffee{b}
+right after we started.{p}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 27}{person: 20 456 456}{bgcolor: 257 1 31}{wait: 7}{name: 5120}{hidetextbox: 0}{person: 20 457 456}{speed: 5}
+And you know what happened{b}
+next.{wait: 15} "Star Falls!"{0x5a}{wait: 15}{speed: 2}{person: 20 450 449}{shake: 30 0}{wait: 10} end{b}
+quote.{nextpage_button}{person: 20 460 459}{speed: 2}
+No one else entered the room{b}
+besides her the whole time.{nextpage_button}{hidetextbox: 1}{testimony_animation: 0}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{person: 10 258 258}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{person: 10 266 266}{hidetextbox: 0}
+Hmm{speed: 8}...{wait: 30} {person: 10 259 258}{speed: 4}That does sound like a{b}
+simple case.{p}{person: 10 260 260}
+Unless{speed: 8}{0x63}...{wait: 20}{person: 10 263 262}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} you were the one who{b}
+poisoned him!{p}{bg: 27}{name: 5120}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}
+Wh{wait: 10}-Wh{wait: 10}-Wh{wait: 20}-Whatareyousaying!?{wait: 12}{b}
+Judge!{p}{bg: 29}{name: 2560}{person: 10 261 261}{speed: 4}
+Ahem.{0x63}{wait: 20}{person: 10 263 262}{speed: 3} Need I remind you,{wait: 8} the{b}
+cameras are rolling today.{p}{person: 10 265 264}
+I felt the need to be a bit{b}
+dramatic.{p}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 4}
+You didn't do it,{wait: 10} did you?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 459}{wait: 32}{name: 5120}{person: 20 460 459}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+M{wait: 10}-M{wait: 10}-M{wait: 10}-M{wait: 8}-Medoathinglikethat!?{wait: 20}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Come on!{wait: 20} That's like...{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 1}
+"Newsmaker Making the News",{wait: 12}{b}
+end quote.{p}{sound: 50 1}{shake: 30 2}
+Or even{bgcolor: 2305 8 31} "Contemporary{b}
+Witch-Hunt",{wait: 12} end quote!{p}{person: 20 453 453}{speed: 2}
+I know!{wait: 8} "Wild Accusations{b}
+Rock Courtroom",{wait_noanim: 20}{person: 20 452 451}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0} end quote.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 148}{wait: 32}{name: 13568}{person: 6 147 147}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}
+Ah{wait: 8} ha{wait: 8} ha{wait: 8} ha.{wait: 35}{b}{person: 6 149 148}{speed: 5}
+Rock,{wait: 10} indeed.{p}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 3}
+Prosecutor Gavin sure looks{b}
+like he's having fun.{nextpage_button}{name: 1024}{shake: 30 0}{speed: 4}
+I'm so happy for him.{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 259 258}
+Very well,{wait: 15} Mr. Justice, your{wait: 15}{b}
+cross-examination, please.{nextpage_button}{hidetextbox: 1}{endjmp}
+
+{{1}}
+{bop}{0x6b: 0 1 0}{bganim: 98 513}{0x6b: 1 0 0}{bganim: 98 513}{0x26: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 20 449 449}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 135}{center_text: 1}{speed: 2}{b}{color: 1}
+-- The Journalist's Story --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 139 0}{lifebar: 25}{0x53}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{color: 3}I visited the studio around{b}
+9:00 that night to do the{b}
+interview.{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 130}{lifebar: 27}{0x53}{name: 5120}{person: 20 452 451}{hidetextbox: 0}{color: 3}The first outsider to enter{b}
+the atelier! "Journalistic{b}
+History Made", end quote!{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 141 0}{lifebarset: 0 131}{lifebar: 25}{0x51: 3 53}{16384}{fademusic: 84}{b}{0x88}{0x35: 16640 @RelativeAddress0}{lifebarset: 1 137}{@RelativeAddress0}{0x35: 16896 @RelativeAddress1}{lifebarset: 1 138}{@RelativeAddress1}{0x53}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{color: 3}
+His daughter brought us coffee{b}
+right after we started.{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 142 0}{lifebarset: 0 132}{lifebar: 28}{0x53}{name: 5120}{person: 20 457 456}{hidetextbox: 0}{color: 3}And you know what happened{b}
+next. "Star Falls!" end{b}
+quote.{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 158 0}{lifebarset: 0 133}{lifebar: 29}{0x35: 16384 @RelativeAddress2}{lifebarset: 0 136}{@RelativeAddress2}{0x35: 16640 @RelativeAddress3}{lifebarset: 0 137}{@RelativeAddress3}{0x35: 16896 @RelativeAddress4}{lifebarset: 0 138}{@RelativeAddress4}{0x53}{name: 5120}{person: 20 460 459}{hidetextbox: 0}{color: 3}No one else entered the room{b}
+besides her the whole time.{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 28}{name: 1280}{person: 5 105 104}He sure makes it sound{b}
+exciting.{wait: 12} I guess that's{b}
+his job.{nextpage_button}{name: 1024}
+There's only one moment we{b}
+need to focus on,{wait: 10} really.{p}{name: 1280}{person: 5 103 102}{speed: 4}
+...{wait: 16}The moment when Drew{b}
+Misham died?{nextpage_button}{name: 1024}
+Exactly.{wait: 20} There has to be{b}
+something there!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{8}}
+{bop}{testimony_box: 146 0}{lifebarset: 0 132}{lifebarset: 1 134}{lifebar: 25}{0x53}{hidetextbox: 0}{name: 5120}{person: 20 450 449}{color: 3}Those spasms... That was{b}
+definitely death by poison.{color: 0}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{testimony_box: 151 0}{lifebarset: 0 132}{lifebarset: 1 134}{lifebar: 25}{0x53}{hidetextbox: 0}{name: 5120}{person: 20 450 449}{color: 3}I drank the coffee, too,{wait: 10} but{b}
+I'm not dead yet!{color: 0}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{testimony_box: 156 1}{lifebarset: 0 132}{lifebarset: 1 134}{lifebar: 25}{0x53}{hidetextbox: 0}{name: 5120}{person: 20 450 449}{color: 3}He had one sip,{wait: 10} if that.{wait: 20}{b}
+The next moment,{wait: 10} he was on{b}
+the floor!{color: 0}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}9:00 at night?{wait: 14} Isn't that a{b}
+little late for an interview?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 457 456}{hidetextbox: 0}{speed: 3}
+If the great painter Drew{b}
+Misham says, "come at 9:00"...{color: 0}{p}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...believe you me,{wait: 10} I go{b}
+at 9:00!{p}{speed: 2}
+The first,{wait: 10} and as it turned{b}
+out,{wait: 10} last interview with{b}
+such a prolific painter!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{name: 1024}{person: 4 41 40}{hidetextbox: 0}{speed: 3}
+Right.{wait: 16} Can you tell us what{b}
+it was like when you arrived?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 45 44}{speed: 3}You were the first reporter{b}{0x59}
+ever in "Drew Studio"?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 451}{wait: 32}{name: 5120}{person: 20 452 451}{hidetextbox: 0}{speed: 2}
+Posterity will look back on{b}
+that night as a turning point{b}
+in journalistic history!{p}{person: 20 457 456}{speed: 5}
+"A Basically Insignificant{b}
+Step For All Mankind..."{p}
+"But A Giant Step For That{b}
+Brushel Guy",{0x5a}{wait: 15}{speed: 2}{person: 20 450 449}{shake: 30 0}{wait: 10} end quote.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 3}
+If no one on the outside ever{b}
+had access to the studio...{p}{person: 6 149 148}{0x5a}
+...{wait: 20}{0x59}then it would serve to{b}
+reason that the deed was done{b}
+by an "insider".{nextpage_button}{bg: 25}{name: 1024}{hidetextbox: 0}{person: 4 36 36}{speed: 4}{color: 2}
+(...By which he means Vera{b}
+did it.){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{speed: 4}
+So,{wait: 8} how did this epoch-making{b}
+interview go?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{13}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 45 44}...Would you mind being a{b}
+little more specific?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+Oooh wee,{wait: 12} let me tell you,{wait: 12}{b}
+I enjoy a cuppa.{p}{person: 20 457 456}{speed: 5}
+In fact,{wait: 8} it all began when{b}
+I was in third grade,{wait: 10} no wait,{b}
+fourth grade--{wait: 4}{nextpage_nobutton}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+That's not what I meant!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}
+I believe I know what Herr{b}
+Forehead is driving at.{p}{speed: 3}
+This coffee the victim was{b}
+served{0x5a}{speed: 8}...{p}{person: 6 151 150}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Did anyone other than the{b}
+defendant touch it?{p}{bg: 25}{name: 1024}{person: 4 37 36}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+R-Right!{wait: 16} That!{wait: 16}{b}{0x5a}{speed: 4}{color: 2}
+(That's what I was going to{b}
+say, really.){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 456}{wait: 32}{name: 5120}{person: 20 457 456}{hidetextbox: 0}{speed: 2}
+Well,{wait: 10} now,{wait: 10} if you've got a{b}
+question to ask,{wait: 10} you'd best{b}
+straight up ask it!{p}
+That's what I tell all the{b}
+new recruits.{wait: 16} Several times,{wait: 8}{b}
+if necessary.{p}{person: 20 450 449}{speed: 5}
+"Write for a grade schooler",{wait_noanim: 60}{b}{person: 20 452 451}{speed: 2}
+that's my motto.{p}{person: 20 457 456}
+Which isn't to say I can only{b}
+write grade-school level{b}
+stuff,{wait: 10} mind you--{wait: 4}{nextpage_nobutton}{person: 20 461 461}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{hidetextbox: 0}{name: 1024}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+...Who touched the coffee!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{person: 20 450 449}{name: 5120}{hidetextbox: 0}{wait: 10}
+Dunno.{p}{person: 20 457 456}{speed: 2}
+I was in the back,{wait: 12} looking at{b}
+the studio's equipment when{b}
+she served it.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{speed: 8}
+......{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 4}
+...{wait: 16}And what happened next?{nextpage_button}{speed: 255}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{0x51: 3 53}
+{16384}{2242}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 136}{endjmp}{endjmp}{0x35: 16640 @RelativeAddress5}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}{endjmp}{@RelativeAddress5}{0x35: 16896 @RelativeAddress6}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 138}{endjmp}{endjmp}{@RelativeAddress6}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{14}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}What's this about a star{b}
+falling?{p}{bg: 28}{person: 5 105 104}{name: 1280}
+"Star Falls!" huh...{wait: 16} It's{b}
+like an old telegram!{p}{person: 5 99 98}
+"Send Money, Over".{p}{bg: 27}{name: 5120}{person: 20 460 459}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Zowie!{wait: 15} You don't know?{wait: 20} That's{b}
+like a journalism code word.{p}{person: 20 452 451}{bgcolor: 2305 8 31}{shake: 30 0}
+An important personage passes{b}
+away...{wait: 16} a star falls. Get it?{p}{bg: 28}{name: 1280}{person: 5 105 104}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+But there's no gravity in{b}
+space,{wait: 8} is there?{p}{person: 5 103 102}
+I wouldn't think stars could{b}
+fall,{wait: 8} really.{nextpage_button}{name: 1024}{speed: 5}
+...Does this matter?{p}{bg: 27}{name: 5120}{person: 20 460 459}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Hoo boy!{wait_noanim: 25}{person: 20 453 453} This is good stuff,{wait: 8}{b}{person: 20 457 456}{wait: 8}
+good stuff!{p}{person: 20 457 456}{speed: 4}
+How about "Star Breaks"{speed: 8}{0x5a}...{wait: 30}{b}{0x59}{speed: 2}{shake: 30 0}
+Nah...{wait: 12} lacks punch.{p}{speed: 4}
+I know,{wait: 6} I know!{wait: 6} "Star Dies".{wait: 6}{b}
+Nah...{wait: 30}{0x59} {speed: 2}lacks imagination.{p}{speed: 4}
+Of course,{wait: 6} you could go with{b}
+"Drew Dies". Straight,{wait: 12} to the{b}
+point. I like it.{p}{bg: 25}{name: 1024}{person: 4 40 40}{color: 2}
+(I think we need to hear about{b}
+something a little more{b}
+substantial...){speed: 255}{color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 73}{0x4b: 74}{b}{b}{3args_choice_jmp: 143 148 153}{endjmp}
+
+{{15}}
+{bop}{bg: 25}{name: 1024}{person: 4 41 40}{speed: 5}Um,{wait: 10} about when Mr. Misham{b}
+passed away...{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+Hoo boy,{wait: 8} what a scene that{b}
+was!{p}{person: 20 457 456}
+He puts his coffee mug down{b}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+with a crash,{wait: 10} right?{p}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 6}
+Hmm...{0x63}{wait: 10}{person: 10 259 258} {speed: 3}Yes,{wait: 10} and then?{p}{bg: 27}{name: 5120}{person: 20 450 449}{speed: 4}
+Then the cold finger of Death{b}
+touches his spine!{wait: 16} Life's{b}
+flame sputters and fails!{p}{person: 20 452 451}
+So cold was that touch,{wait: 10} he{b}
+could do naught but tremble{b}
+uncontrollably!{p}{person: 20 457 456}{speed: 2}
+...Actually{wait: 10} "life's flame"{wait: 14}{b}
+is a little tired.{p}{speed: 5}
+"Life's river froze over"{0x5a}{speed: 8}...{wait: 30}{b}{person: 20 461 461}{speed: 2}
+Yes!{wait: 6} That's a go.{p}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 4}
+...{wait: 12}I think he's starting his{b}
+article already.{p}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}
+Could you describe that a{b}
+little more simply?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+Well,{wait: 12} as you can imagine,{b}
+I was pretty surprised.{p}
+He hit the floor,{wait: 8} as they say.{0x5a}{wait: 16}{b}{person: 20 457 456}{speed: 5}
+"Artist's Seizure Is Final{b}
+Performance",{0x5a}{wait: 15}{speed: 2}{person: 20 450 449}{shake: 30 0}{wait: 10} end quote.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 3}
+Atroquinine paralyzes the{b}
+central nervous system.{p}{speed: 4}
+The body arches back like a{b}
+bow,{wait: 10} the limbs tremble,{speed: 5}{wait: 10} the{b}
+throat burns--{wait: 40}{nextpage_nobutton}{name: 2560}{bg: 29}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Th-{wait: 16}That's quite enough of{b}
+that!{p}{person: 10 259 258}{speed: 3}
+Some of us want to be able{b}
+to sleep tonight.{p}{bg: 27}{name: 5120}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Oh yeah?{wait_noanim: 25}{person: 20 453 453} Well I want details,{wait: 12}{b}{person: 20 461 461}
+lots of juicy details!{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}
+For that you can listen to{b}
+our last year's hit single.{p}{person: 6 149 148}
+"Atroquinine,{wait: 10} My Love", by{b}
+the Gavinners.{wait: 16} Available at{b}
+all major music outlets.{p}{bg: 29}{name: 2560}{person: 10 259 258}
+The point here is that the{b}
+victim died of atroquinine{b}
+poisoning.{p}
+Well, Mr. Justice?{wait: 16} How did{b}
+you find that testimony?{b}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 76}{0x4d: 65535 1}{2args_choice_jmp: 144 145}{endjmp}
+
+{{16}}
+{bop}{fademusic: 60}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}Well,{wait: 16} as an account of the{b}
+moment of the victim's death,{wait: 8}{b}
+I'd say it's very important.{p}{person: 4 66 65}
+...Please add it to the{b}
+testimony.{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Very well.{wait: 16} The court requests{b}
+the witness add this account{b}
+to his testimony.{nextpage_button}{0x10: 833}{0x10: 834}{0x10: 33600}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{fademusic: 0}{music: 2 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 136}{endjmp}
+
+{{17}}
+{bop}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 4}{color: 2}(You'd think the moment of{b}
+Mr. Misham's death would be{b}
+important...){p}{person: 4 36 36}{speed: 3}
+(...But Mr. Brushel's story{b}
+really didn't tell us anything{b}
+we didn't already know.){color: 0}{p}{bg: 29}{name: 2560}{person: 10 263 262}
+Very well,{wait: 10} please continue{b}
+with the testimony.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{18}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}You say it was{wait: 12} "definitely{b}
+death by poison"{speed: 8}{0x5a}...{0x59} {speed: 3}How can{b}
+you be so sure?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+Hey,{wait: 10} look,{wait: 10} I'm a journalist.{b}
+I've seen a lot of things.{p}{person: 20 452 451}
+And I've had more than my{b}
+share of experiences with{b}
+so-called "poisonings".{p}{person: 20 457 456}{speed: 5}
+"Man Eats Fishy Fish,{wait: 10} Goes{b}
+Bye-Bye"{speed: 8}{0x5a}...{wait: 15}{speed: 2}{person: 20 450 449}{shake: 30 0}{wait: 10} end quote.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{speed: 3}{color: 2}
+(Food poisoning doesn't{b}
+count.){color: 0}{p}{name: 1024}{person: 4 42 42}{color: 2}
+(Hmm.{wait: 15} Should I get him to{b}
+talk about something else?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 78}{0x4b: 74}{b}{b}{3args_choice_jmp: 147 148 153}{endjmp}
+
+{{19}}
+{bop}{bg: 25}{name: 1024}{person: 4 36 36}{color: 2}(Let's just go with what{b}
+we have for now.){nextpage_button}{color: 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{20}}
+{bop}{bg: 25}{name: 1024}{person: 4 37 36}So,{wait: 15} you drank the coffee{b}
+that Vera served you,{wait: 10} too?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}{wait: 8}
+Course.{wait_noanim: 20}{person: 20 457 456}{speed: 5} "When someone serves{b}
+you coffee, you drink it"...{p}{person: 20 452 451}{speed: 2}
+That's what my old boss always{b}
+used to say.{wait: 10} {speed: 3}Never did get{b}
+what he meant by it,{wait: 10} though.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{name: 1024}{person: 4 37 36}{hidetextbox: 0}
+But you're still alive,{wait: 16} which{b}
+is to say,{wait: 10} you didn't die.{p}{bg: 27}{name: 5120}{person: 20 460 459}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Of course not!{p}{speed: 5}
+"No Point Falling{wait_noanim: 20} {person: 20 457 456}Before{b}
+You're A Star",{wait: 25}{speed: 2}{0x5a}{person: 20 450 449}{shake: 30 0} end quote.{p}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{speed: 5}
+...That's not exactly what{b}
+I was getting at.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 4}
+What were you getting at,{wait: 16}{b}
+then?{p}{person: 6 149 148}{showphoto: 205}
+You know the poison was on the{b}
+rim,{wait: 10} not in the coffee.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 2 4096 20 459}{wait: 32}{name: 5120}{person: 20 460 459}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+Oh yes,{wait: 10} yes!{p}{person: 20 450 449}{speed: 3}
+There were two cups on the{b}
+tray she brought.{p}{person: 20 457 456}
+And one of the cups had Drew's{b}
+signature painted on the side.{p}{bg: 25}{name: 1024}{person: 4 40 40}{showphoto: 461}{speed: 5}{color: 2}
+(Hmm.{wait: 30} No chance the guest{b}
+would take that one by{b}
+mistake, I guess.){color: 0}{nextpage_button}{speed: 255}{removephoto}{bg: 29}{name: 2560}{person: 10 259 258}
+Well, Mr. Justice? Was that{b}
+testimony important?{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 76}{0x4d: 65535 1}{2args_choice_jmp: 149 150}{endjmp}
+
+{{21}}
+{bop}{fademusic: 60}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}We're talking about the{b}
+coffee the witness drank.{p}
+I'd say that is important!{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Very well,{wait: 8} please add that to{b}
+your testimony,{wait: 8} Mr. Brushel.{nextpage_button}{0x10: 832}{0x10: 834}{0x10: 33601}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{fademusic: 0}{music: 2 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}
+
+{{22}}
+{bop}{bg: 25}{name: 1024}{person: 4 40 40}{color: 2}{speed: 4}(So Brushel drank the coffee,{wait: 8}{b}
+too...){p}{person: 4 36 36}{speed: 3}
+(Doesn't look like this is{b}
+going to lead to much...){color: 0}{p}{bg: 29}{name: 2560}{person: 10 263 262}
+Very well,{wait: 10} please continue{b}
+with the testimony.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{23}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}You're sure you drank the{b}
+coffee?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+Oh yes,{wait: 10} yes, quite.{wait: 16} I gulped{wait: 16}{b}
+it down,{wait: 10} felt that sweet{b}
+scorch in my throat!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{name: 1024}{person: 4 37 36}{hidetextbox: 0}{speed: 3}
+But you say the victim took{b}
+one sip and fell over.{p}
+...And you still kept{b}
+drinking?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 5}
+Course!{wait_noanim: 20}{person: 20 457 456} "Drink your coffee{b}
+when it's hot,{wait: 10} never when it's{b}
+not".{p}{person: 20 452 451}{speed: 2}
+That's what my old boss used{b}
+to always say.{wait: 20} {speed: 3}Never really{b}
+knew what he meant by it.{p}{bg: 25}{name: 1024}{person: 4 42 42}{color: 2}
+(Hmm.{wait: 15} Should I get him to{b}
+talk about something else?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 78}{wingame}{0x4a}{b}{b}{3args_choice_jmp: 152 143 153}{endjmp}
+
+{{24}}
+{bop}{bg: 25}{name: 1024}{person: 4 36 36}{color: 2}(Let's just go with what{b}
+we have for now.){nextpage_button}{color: 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{25}}
+{bop}{bg: 25}{name: 1024}{person: 4 41 40}You say Mr. Misham had the{b}
+coffee,{wait: 8} too.{p}{person: 4 37 36}
+But did you actually see{b}
+him{wait: 6} "drink" the coffee?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 451}{wait: 32}{name: 5120}{person: 20 452 451}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Course!{p}{person: 20 457 456}{speed: 5}
+"He Who Sees It Wins,{wait: 16} But He{b}
+Who Says It Wins Bigger",{0x5a}{wait: 15}{speed: 2}{b}{person: 20 450 449}{shake: 30 0}{wait: 10}
+end quote.{p}{speed: 4}
+I live in a man-sees-dog-eat-{b}
+dog-and-writes-about-it world.{wait_noanim: 25}{b}{person: 20 457 456}
+Yet...{p}{bg: 25}{name: 1024}{person: 4 37 36}{bgcolor: 2305 8 31}{speed: 3}{wait: 6}
+"Yet"?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+I guess I can't say I "saw"{b}
+him drink it,{wait: 10} really.{p}{person: 20 457 456}{speed: 2}
+He had one so-called{wait: 12} "sip",{0x5a}{wait: 20}{b}{person: 20 450 449}{wait: 10}
+if that.{p}{person: 20 452 451}
+"Man Puts Lips To mug,{wait: 10}{b}
+Drinks?" end quote.{p}{bg: 29}{name: 2560}{person: 10 260 260}{speed: 5}
+Hmm.{wait: 43}{person: 10 259 258} That poison is quite{b}
+virulent, I hear.{p}{bg: 27}{name: 5120}{person: 20 457 456}{speed: 2}
+My stomach did a so-called{b}
+"somersault".{p}
+Since I'd gulped down that{b}
+coffee without so much as{b}
+a second glance at it.{p}{person: 20 452 451}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+Wait,{wait: 12} maybe something's there!{wait: 16}{b}
+Some kind of so-called{b}
+"trick"!{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Anyone want to venture a{b}{person: 20 453 453}
+guess?{wait: 12}{person: 20 461 461} For the record?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{speed: 5}{color: 2}
+(Does this guy have a pause{b}
+button?){color: 0}{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}
+Well,{wait: 10} Mr. Justice?{wait: 15} Did you{b}
+find that testimony valuable?{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 76}{0x4d: 65535 1}{2args_choice_jmp: 154 155}{endjmp}
+
+{{26}}
+{bop}{fademusic: 60}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}The victim drank his coffee,{wait: 12}{b}
+then immediately fell over?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Oh yes,{wait: 10} yes.{wait: 18} You can go to{b}
+press with that one.{p}{bg: 25}{person: 4 37 36}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+Your Honor!{wait: 16} {speed: 3}This is a vital{b}
+piece of information!{p}
+Please add it to the{b}
+testimony.{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Very well.{wait: 16} The witness will{b}
+add this to his testimony.{nextpage_button}{bg: 27}{name: 5120}{person: 20 453 453}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Vital!{wait: 20}{person: 20 452 451} Right!{nextpage_button}{0x10: 832}{0x10: 833}{0x10: 33602}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{fademusic: 0}{music: 2 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 138}{endjmp}
+
+{{27}}
+{bop}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 4}{color: 2}(The coffee Mr. Misham{b}
+drank...){p}
+(That has to be important{b}
+somehow...){nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{person: 20 453 453}{hidetextbox: 0}{speed: 4}
+(...Nah.){person: 20 449 449}{p}{color: 0}{bg: 29}{name: 2560}{person: 10 263 262}
+Very well,{wait: 10} please continue{b}
+with the testimony.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{28}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{hidetextbox: 0}{person: 4 45 44}{speed: 3}So he either took a sip,{wait: 10} or{b}{0x59}
+he didn't,{wait: 10} and then fell over?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 452 451}{hidetextbox: 0}{speed: 2}
+Oh yes!{wait: 10} Indubitably!{wait: 15} Just{b}
+like that!{wait: 10} Wham bam!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 40}{wait: 32}{name: 1024}{person: 4 40 40}{hidetextbox: 0}{speed: 3}{color: 2}
+(So Mr. Misham drank the{b}
+coffee,{wait: 8} and fell over{b}
+immediately...){p}
+(Hmm.{wait: 12} I think Brushel's{b}
+telling the truth,{wait: 10} too.){p}{bg: 25}{name: 1024}{person: 4 42 42}
+(Hmm.{wait: 15} Should I get him to{b}
+talk about something else?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 78}{wingame}{0x4b: 1}{b}{3args_choice_jmp: 157 143 148}{endjmp}
+
+{{29}}
+{bop}{bg: 25}{name: 1024}{person: 4 40 40}{color: 2}(There's no real need to{b}
+change the testimony.){p}{person: 4 58 58}
+(The problem with the{b}
+testimony is already{b}
+pretty obvious!){p}{color: 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{30}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 59 58}Can you say that for sure?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+For sure?{wait: 15} Sure!{wait: 15} I'm sure.{p}
+Drew Studio isn't a big{b}
+place,{wait: 6} kiddo.{p}{person: 20 452 451}
+I'd know it if someone else{b}
+had come in!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{name: 1024}{person: 4 66 65}{hidetextbox: 0}
+What if they had been hiding{b}
+in there from before!?{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{bg: 26}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 3}
+Even if someone had been{b}
+hiding in the studio...{p}{person: 6 146 145}{0x5a}
+...{wait: 16}{speed: 3}{0x59}they hardly could have{b}
+poisoned that mug without{b}
+anyone noticing.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 449}{wait: 32}{name: 5120}{person: 20 452 451}{hidetextbox: 0}{speed: 2}
+You think I,{wait: 12} Spark Brushel,{wait: 12}{b}
+would miss something as{b}
+obvious as that? Nooooo way.{nextpage_button}{jmp: 135}{endjmp}
+
+{{31}}
+{bop}{0x29: 0}{fademusic: 30}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 5}You know what I have a problem{b}
+with? A particular {color: 1}property{color: 0} of{b}
+the poison used,{wait: 8} {color: 1}atroquinine{color: 0}.{p}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 5}
+Oh?{wait: 12} {speed: 3}Prosecutor Gavin was quite{b}
+clear about the poison.{p}
+A lethal dosage of 0.{wait: 16}002mg{b}
+paralyzes the central nervous{b}
+system.{p}
+If you drank that,{wait: 10} even you,{b}
+Mr. Justice,{wait: 12} {person: 10 265 264}would be reduced{b}
+to a quivering pile...{p}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{speed: 5}{color: 2}
+(Why are you using me as an{b}
+example!?){color: 0}{nextpage_button}{person: 4 37 36}{speed: 4}
+Unfortunately,{wait: 16} we weren't{b}
+told everything.{p}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}
+There was a vital omission{b}
+in Prosecutor Gavin's{b}
+information!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 145 145}{hidetextbox: 0}{speed: 8}
+......{p}{bg: 29}{name: 2560}{person: 10 266 266}{person: 10 259 258}{speed: 5}
+An omission?{p}{bg: 25}{name: 1024}{person: 4 48 47}{speed: 4}
+Atroquinine is as virulent{b}
+as he says.{p}{person: 4 37 36}
+But death doesn't come upon{b}
+ingestion,{wait: 8} not immediately.{p}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 64 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{fademusic: 0}{music: 5 0}{speed: 2}
+That's{bgcolor: 2305 8 31} because {bgcolor: 2305 8 31}atroquinine{b}
+is{bgcolor: 2305 8 31} {color: 1}slow-{wait: 6}{bgcolor: 2305 8 31}acting{color: 0}{bgcolor: 2305 8 31}!{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Slow-{wait: 12}acting!{wait_noanim: 20}{nextpage_nobutton}{bg: 27}{name: 5120}{person: 20 453 453}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Whatwhatwhatwhat!?{wait_noanim: 20}{nextpage_nobutton}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 3}
+According to one forensic{b}
+scientist...{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 241}{name: 2304}{person: 9 233 232}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 2304}{hidetextbox: 0}{0x59}{person: 9 233 232}{name: 2304}
+It's one of the most virulent{b}
+poisons,{wait: 12} but is absorbed into{b}
+the body astonishingly slowly.{p}{person: 9 246 245}
+It takes at least 15 minutes{b}
+from the time of ingestion for{b}
+adverse effects to show.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 25}{person: 4 58 58}{wait: 10}{0x5f: 4 1 1}{bgcolor: 769 1 31}{wait: 7}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{speed: 3}
+If we suppose that the moment{b}
+Mr. Misham sipped the coffee{b}
+was when he sealed his fate...{p}{0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{name: 1024}{hidetextbox: 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...then he would still have{b}
+had time{bgcolor: 2305 8 31} left to enjoy his{b}
+last{bgcolor: 2305 8 31} cup of joe!{nextpage_button}{hideperson}{0x26: 0}{hidetextbox: 1}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 2}
+Order!{wait: 15} Order!!!{wait_noanim: 30}{b}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+What's the meaning of this!?{p}{speed: 4}
+If what the defense says{b}
+is correct...{p}{person: 10 263 262}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+...why,{wait: 10} that contradicts the{b}
+entire testimony we've just{b}
+heard!{nextpage_button}{bg: 25}{name: 1024}{person: 4 48 47}{hidetextbox: 0}{speed: 3}
+Well, Mr. Brushel?{wait: 8} Anything{b}
+to say...{wait: 16}{bgcolor: 2305 8 31}{shake: 30 0} {speed: 2}on the record!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 456}{wait: 32}{name: 5120}{person: 20 457 456}{fademusic: 120}{hidetextbox: 0}{speed: 6}
+Slow-acting.{wait: 20} {speed: 3}S-L-O-W A-C-T{speed: 8}{0x5a}...{wait_noanim: 20}{b}{person: 20 457 456}{speed: 5}
+It was virulent, alright.{nextpage_button}{person: 20 461 461}{fademusic: 0}{music: 5 0}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Even then,{wait: 10} it had already{b}
+begun digging its claws into{b}
+the journalist.{p}{bg: 28}{name: 1280}{person: 5 99 98}{speed: 3}
+...He's working on his scoop.{nextpage_button}{name: 1024}{speed: 5}{color: 2}
+(*sigh*){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 26}{fademusic: 30}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{name: 13568}{hidetextbox: 0}{speed: 5}
+...It's{wait: 16} "Brushel", ja?{p}
+Herr Brushel{speed: 8}{0x5a}...{wait: 20}{person: 6 149 148}{speed: 4} let's take a{b}
+trip back down memory lane.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 456}{wait: 32}{name: 5120}{person: 20 457 456}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 4}{wait: 10}
+Huh?{wait: 10}{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}
+Did the victim really die {color: 1}the{b}{sound: 52 1}{bgcolor: 2305 8 31}
+instant he took a sip{color: 0}?{b}{fademusic: 0}{music: 18 0}{nextpage_button}{person: 6 149 148}
+Think it over.{wait: 20} This is vital.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 459}{wait: 32}{name: 5120}{person: 20 460 459}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+You know what I think?{p}{person: 20 457 456}{speed: 5}
+I think that was...{p}
+"A Not-So-Subliminal{b}
+Suggestion"{0x5a}{speed: 8}...{wait: 25}{speed: 2}{person: 20 450 449}{shake: 30 0} end quote.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 3}
+I admit,{wait: 8} it does cause a{b}
+problem if he died when you{b}
+say he died.{p}
+...I would be forced to say{b}
+auf Wiedersehen to my simple{b}
+case.{p}{speed: 4}
+And you would be forced to{b}{person: 6 149 148}
+say farewell to your article.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 459}{wait: 32}{name: 5120}{person: 20 460 459}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 5}
+Come again?{p}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 3}
+You can't write a story{b}
+based on conjecture,{wait: 8} can you?{p}{person: 6 151 150}
+And as the case drags on,{wait: 16}{b}
+other reporters will pick{b}
+up the scent.{p}
+...{wait: 12}And you'll be forced to{b}
+kiss your exclusive scoop{b}
+goodbye.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 449}{wait: 32}{wait: 90}{name: 5120}{person: 20 464 463}{animation: 149 1}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Scoop...{wait: 30} Scoop{speed: 8}{0x5a}...{b}
+.....................!{fademusic: 30}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{person: 20 453 453}{wait: 40}{person: 20 463 463}{animation: 149 1}{p}{person: 20 460 459}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Look,{wait: 10} wait.{wait: 10}{bgcolor: 2305 8 31}{shake: 30 1} Just wait {wait: 10}{b}
+a second.{wait: 10} Just one second.{p}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+We're waiting,{wait: 10} we're waiting!{wait: 10}{b}
+Out with it!{p}{bg: 27}{name: 5120}{person: 20 460 459}
+I think I{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1} just recalled{b}
+a so-called{wait: 12} "important{b}
+detail"!{p}{person: 20 461 461}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{fademusic: 0}{music: 35 0}
+"A Revival of Recollection",{wait: 12}{b}
+end quote!{wait: 15}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{person: 20 460 459} "A Story's{b}
+Survival",{wait: 12} end quote!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{speed: 5}
+"Attorney Utterly Confused",{b}
+end quote.{nextpage_button}{bg: 27}{name: 5120}{person: 20 450 449}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Actually,{wait: 16} I did notice{b}
+something when I visited{b}
+the studio.{nextpage_button}{person: 20 452 451}{speed: 3}
+I'd heard of poison that{b}
+"{color: 1}takes its sweet time{color: 0}", see!{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{speed: 4}
+...But not what I've been{b}
+saying for the last few{b}
+minutes,{wait: 12} apparently.{p}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 3}
+Mr. Brushel!{wait: 16} Are you saying{b}
+you noticed something that{b}
+explains what happened!?{p}{bg: 27}{name: 5120}{person: 20 453 453}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+You bet I am!{wait: 7}{person: 20 451 451}{p}{person: 20 450 449}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+The{wait: 6} "Antidote For A Poisonous{b}
+Contradiction", {0x5a}{wait: 15}{speed: 2}{person: 20 450 449}{shake: 30 0}{wait: 10}end quote,{b}
+you might say!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{speed: 5}
+Or{wait: 12} "I Still Have No Idea{b}
+What You're Talking About",{b}
+end quote,{wait: 10} I might say.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+I figured it out,{wait: 16} but only{b}
+after an in-depth interview!{p}{person: 20 452 451}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+See,{wait: 16} thanks to my journalism{b}
+skills,{wait: 8} I know who poisoned{b}
+that coffee!{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{speed: 2}
+Order!{wait: 12} Order!{wait: 12} Order!{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 5}
+As far as I can tell,{wait: 20} {speed: 4}the{b}
+witness is standing by his{b}
+testimony.{p}{person: 6 146 145}{speed: 4}
+...That Mr. Misham died the{b}
+instant after he drank.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 451}{wait: 32}{name: 5120}{person: 20 452 451}{hidetextbox: 0}{speed: 2}
+Of course I'm standing by{b}
+my testimony!{p}{person: 20 450 449}{speed: 3}
+...And my dream of exclusive{b}
+rights to this story!{rejmp: 165}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{p}{person: 4 61 61}{animation: 149 1}{color: 2}
+(I hope it doesn't mean what{b}
+I think it means...){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 456}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 457 456}
+Well,{wait: 10} you see,{wait: 10} I have to{b}
+wonder.{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}{p}{person: 20 450 449}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...Wonder about this so-called{b}
+"{color: 1}instant death{color: 0}" thing,{wait: 10} that{b}
+is.{p}{person: 20 457 456}
+I mean, this poison...{wait: 30} what{b}
+was it called again?{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 148}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 149 148}
+{398}"My slow-{wait: 15}acting love is{wait: 30}{b}
+atroquinine.{wait: 15} A magic 15-minute{b}
+ride to Heaven in your arms".{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 451}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 452 451}
+Right!{wait: 20} That's the one!{wait: 20}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}{wait: 15}{b}
+See,{wait: 10} he couldn't have died!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{bg: 25}{name: 1024}{hidetextbox: 0}{person: 4 62 61}{animation: 149 1}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}
+W-{wait: 10}Wait a second!{p}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}
+But you just clearly testified{b}{bgcolor: 2305 8 31}{shake: 30 0}
+that he died the moment he{b}
+may or may not have sipped!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 459}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 460 459}{bgcolor: 2305 8 31}{shake: 30 0}
+Ah ha!{wait: 15} See,{wait: 8} I was wrong!{p}{person: 20 464 463}{animation: 149 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Er,{wait: 10} sorry 'bout that!{wait: 15} {bgcolor: 2305 8 31}{shake: 30 0}Time to{b}
+set the record straight.{bgcolor: 2305 8 31}{shake: 30 0}{p}{bg: 29}{name: 2560}{person: 10 266 266}{person: 10 259 258}
+Hmm... So the victim didn't{b}
+die immediately?{p}{bg: 27}{name: 5120}{person: 20 452 451}{bgcolor: 2305 8 31}{shake: 30 0}
+Not even close!{p}{person: 20 450 449}
+He took a sip of coffee,{wait: 10}{b}
+yes...{p}{person: 20 452 451}{bgcolor: 2305 8 31}{shake: 30 0}
+And then we re-started our{b}
+interview!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Ridiculous!{wait: 30} He just said{b}
+that...{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}
+...He was mistaken.{wait: 10} And now{b}
+he's corrected himself.{p}{person: 6 149 148}
+I see no problem with the{b}
+details of the case now?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 449}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 450 449}
+That's right!{wait: 15} See,{wait: 8} I always{b}
+acknowledge my mistakes.{p}{person: 20 452 451}
+"Journalist On Stand Takes{b}
+Responsibility For Words",{b}
+end quote.{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{color: 2}
+(Try taking responsibility{b}
+before you say them next{b}
+time...){color: 0}{p}{fademusic: 30}{wait: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Witness,{wait: 10} would you please{b}
+restate yourself for us?{p}
+Are you telling us now that{b}
+Mr. Drew Misham didn't die{b}
+when you said he did?{p}
+That he took a sip of coffee{b}
+and lived?{p}{bg: 27}{name: 5120}{person: 20 452 451}
+That he did!{wait: 15} About...{wait: 60} 15{b}
+minutes,{wait: 10} I'd say!{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{bg: 28}{name: 1280}{person: 5 103 102}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}
+O-Okay,{wait: 10} this is getting{b}
+really out of hand.{p}
+He'll tell us anything just{b}
+to get his stupid scoop.{p}{bg: 25}{name: 1024}{person: 4 37 36}
+But...{wait: 30} I don't think he's{b}
+lying.{p}{bg: 28}{name: 1280}{person: 5 105 104}
+Huh...?{p}{bg: 25}{name: 1024}{person: 4 37 36}
+At least,{wait: 10} he believes he's{b}
+telling the truth.{p}
+...For now,{wait: 10} at least.{p}{person: 4 36 36}{color: 2}
+(It's almost like his lust{b}
+for a "scoop" is twisting his{b}
+memories around.){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 146 145}
+If I may?{p}{bg: 29}{name: 2560}{person: 10 259 258}
+Please,{wait: 10} go ahead,{wait: 10} Mr. Gavin.{p}{bg: 26}{name: 13568}{person: 6 146 145}
+It was the defendant,{wait: 10} Ms.{b}
+Vera Misham,{wait: 10} who brought the{b}
+coffee.{p}
+She admits this herself.{wait: 10}{b}
+And the poison on that mug{b}
+killed the victim.{p}
+This we have in our witness's{b}
+testimony.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 59 58}{hidetextbox: 0}
+Our witness's extremely vague{b}
+and rather flexible testimony.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 146 145}
+A testimony all the same!{p}
+In addition,{wait: 10} if Vera Misham{b}
+was not the criminal...{p}
+...then it was Mr. Brushel.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 36 36}
+...!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 149 148}
+Are you prepared to prove{b}
+that he did it?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}
+Ack...!{p}{bg: 28}{name: 1280}{person: 5 103 102}
+Hey, Apollo!{wait: 15} You know,{wait: 10} I was{b}
+thinking...{p}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}
+What now?{p}{bg: 28}{name: 1280}{person: 5 105 104}
+We know there were three{b}
+people at the crime scene...{p}{person: 5 99 98}
+Vera,{wait: 10} Mr. Brushel,{wait: 10} and{b}
+Drew Misham...{wait: 30} right?{p}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}
+Yeah?{p}{bg: 28}{name: 1280}{person: 5 103 102}
+Your really think Drew and{b}
+Mr. Brushel were the only{b}
+ones who could do it?{p}{person: 5 105 104}
+What if someone else could{b}
+have poisoned Mr. Misham?{p}{bg: 25}{name: 1024}{person: 4 59 58}
+Wait...{wait: 15} You don't mean...{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 459}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 460 459}
+Ah...!{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}{p}{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 36 36}
+...?{p}{color: 2}
+(That got a rise out of{b}
+Brushel,{wait: 10} all right...){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{hidetextbox: 0}{bg: 27}{person: 20 453 453}{name: 5120}{person: 20 456 456}
+.....{p}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}
+The prosecution's case is{b}
+simple,{wait: 10} and persuasive.{p}
+If the defense has no{b}
+counter argument of worth...{p}
+...I see no need for further{b}
+discussion!{p}{bg: 25}{name: 1024}{person: 4 40 40}{color: 2}
+(This case is extremely{b}
+simple...){p}
+(So simple that one mistaken{b}
+assumption could change{b}
+everything.){p}{person: 4 36 36}
+(I'd better decide where I{b}
+stand, and quick!){color: 0}{p}{person: 4 38 38}{person: 4 37 36}
+R-Right,{wait: 15} Your Honor.{p}{bg: 29}{name: 2560}{person: 10 259 258}
+Let's hear what the defense{b}
+has to say then.{p}{endjmp}
+
+{{32}}
+{bop}{0x6c: 0}{0x6e: 20}{bg: 29}{name: 2560}{person: 10 259 258}Who was it who put the poison{b}
+on that coffee mug?{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 79}{0x50: 65}{b}{b}{3args_choice_jmp: 161 162 163}{endjmp}
+
+{{33}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}The one who poisoned the{b}
+coffee mug was...{p}{person: 4 37 36}
+...{wait: 30}{person: 4 56 55}You don't really need me{b}
+to tell you,{wait: 15} do you?{p}{bg: 29}{name: 2560}{person: 10 261 261}{0x63}{person: 10 263 262}
+Mr. Justice!{wait: 20} There's enough{b}
+vagueness in this courtroom{b}
+already.{p}
+We don't need you adding to{b}
+it!{p}{bg: 26}{name: 13568}{person: 6 146 145}
+I believe Herr Forehead wants{b}
+to say...{wait: 30} Mr. Brushel did it.{p}
+Which makes sense,{wait: 15} as he was{b}
+the only other in the room{b}
+besides the defendant.{p}{person: 6 149 148}
+Our valiant defendant,{wait: 10} at{b}
+wit's end,{wait: 10} is grasping at{b}
+straws... and brushes.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 459}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Whatishesaying!?{p}{person: 20 464 463}{animation: 149 1}
+It "makes sense"!?{wait: 30}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0} What about{b}
+that makes any sense at all?{p}{person: 20 460 459}
+That's like interviewing just{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}
+anybody for a story because{b}
+all the important people left!{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 148}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 149 148}
+Herr Brushel is quite correct.{b}
+It makes no sense.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}
+Huh?{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 146 145}
+Let us assume,{wait: 10} for argument's{b}
+sake,{wait: 10} that he did poison the{b}
+victim.{p}
+He would have done this after{b}
+the coffee was served,{wait: 10} no?{p}{bg: 29}{name: 2560}{person: 10 260 260}{wait: 58}{person: 10 259 258}
+That would seem to follow,{wait: 10}{b}
+yes.{p}{bg: 26}{name: 13568}{person: 6 146 145}
+Well then...{p}
+Why did he have to rub it{b}
+on the rim of the mug?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}
+Ah...{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 146 145}
+It would have been much{b}
+simpler to toss it into{b}
+the coffee!{p}{bg: 29}{name: 2560}{person: 10 263 262}{0x6c: 0}{0x6e: 20}{bgcolor: 2305 8 31}{shake: 30 0}
+That's right!{wait: 10} Mr. Justice!{wait: 10}{b}
+Start making sense!{p}
+For once!{b}{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{jmp: 164}{endjmp}
+
+{{34}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}There's another possibility{b}
+we haven't considered!{p}{bg: 29}{name: 2560}{person: 10 265 264}
+Another possibility?{p}{bg: 26}{name: 13568}{person: 6 149 148}
+You're not going to tell us{b}
+that Herr Misham poisoned{b}
+himself...?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}
+Ack.{p}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}
+You mean...{wait: 30} it was a suicide!?{p}{bgcolor: 2305 8 31}{shake: 30 0}
+That is a possibility I hadn't{b}
+considered!{p}{bg: 26}{name: 13568}{person: 6 146 145}
+Probably because it's not{b}
+worth consideration.{p}
+Don't you think?{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}
+...{wait: 30}Think what,{wait: 10} again?{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}
+Listen.{wait: 15} The poison was rubbed{b}
+onto the rim of the mug!{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}
+Ah...{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 146 145}
+If suicide was his goal,{wait: 10} he{b}
+would have simply tossed it{b}
+into the coffee itself!{p}{bg: 29}{name: 2560}{person: 10 263 262}{0x6c: 0}{0x6e: 20}{bgcolor: 2305 8 31}{shake: 30 0}
+That's right!{wait: 10} Mr. Justice!{wait: 10}{b}
+Please consider your wild{b}
+claims before you make them!{p}{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}
+For once!{b}{nextpage_button}{0x6d: 0}{0x52}{jmp: 164}{endjmp}
+
+{{35}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{hidetextbox: 0}{person: 4 43 42}.....{p}{person: 4 61 61}{animation: 149 1}{color: 2}
+(No...{wait: 30} I can't accuse anyone{b}
+without proof.){color: 0}{p}{bg: 26}{name: 13568}{person: 6 149 148}
+Ah ha ha.{wait: 30} It appears our{b}
+valiant attorney has run{b}
+out of straws to grasp.{p}{rejmp: 164}{endjmp}
+
+{{36}}
+{bop}{0x6d: 0}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 259 258}Then,{wait: 10} I believe it has come{b}
+time to announce...{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}
+...Just a minute!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 145 145}
+.....{p}{person: 6 146 145}
+I thought it was a little{b}
+early in the day for you to{b}
+be giving up.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 37 36}
+Mr. Brushel...{wait: 30} You're hiding{b}
+something, aren't you!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 460 459}
+What?{wait: 10} Hiding?{wait: 10} Me?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 37 36}
+Your nervous "{color: 1}habit{color: 0}" gives{b}
+it away!{p}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{bg: 29}{name: 2560}{person: 10 265 264}
+Ah ha!{wait: 10} Watch this, he's good{b}
+at these.{p}{bg: 25}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}
+I don't have to be good when{b}
+it's so obvious!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 27}{person: 20 453 453}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{wait: 30}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 29}{name: 2560}{person: 10 266 266}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{bg: 29}{name: 2560}{hidetextbox: 0}{person: 10 266 266}{person: 10 259 258}
+Hmm.{wait: 30} True.{wait: 20} It was a little{b}
+obvious.{wait: 20} And a little gross.{p}{bg: 25}{name: 1024}{person: 4 37 36}
+Whenever you hear something{b}
+that bothers you...{p}
+...you... do something a{b}
+little gross!{p}{person: 4 66 65}
+I didn't even have to look{b}
+closely.{wait: 20} Nor did I want to.{fademusic: 0}{music: 7 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 146 145}
+The prosecution is happy to{b}
+sustain this objection.{wait: 20} It{b}
+was a little gross.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 463}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 464 463}{animation: 149 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Nowjustwaitaminute!{wait: 15}{b}
+This is unacceptable!{p}{person: 20 460 459}
+You all think that just by{b}
+putting "little" in front of{b}
+something...{p}
+...you can say whatever you{b}
+want!{wait: 20} Well,{wait: 10} that's sloppy{b}
+journalism,{wait: 10} I'll tell you.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 37 36}
+Thankfully,{wait: 10} we're lawyers,{wait: 10} not{b}
+journalists.{wait: 20}{b}
+Let's review!{nextpage_button}{fademusic: 30}{wait: 30}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 28}{name: 1280}{person: 5 105 104}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{0x59}
+We know there were three{b}
+people at the crime scene...{p}{person: 5 99 98}
+Vera,{wait: 10} Mr. Brushel,{wait: 10} and{b}
+Drew Misham...{wait: 30} right?{p}{bg: 25}{name: 1024}{person: 4 37 36}
+Yeah?{p}{bg: 28}{name: 1280}{person: 5 103 102}
+Your really think Drew and{b}
+Mr. Brushel were the only{b}
+ones who could do it?{p}{person: 5 105 104}
+What if someone else could{b}
+have poisoned Mr. Misham?{p}{bg: 25}{name: 1024}{person: 4 37 36}
+Wait...{wait: 15} You don't mean...{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 459}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Ah...!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 25}{person: 4 36 36}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{0x23: 0}{music: 255 60}{person: 4 37 36}{name: 1024}{hidetextbox: 0}
+Something about that{color: 1} bothered{color: 0}{b}
+you,{wait: 10} didn't it!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 463}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 464 463}{animation: 149 1}
+W-{wait: 10}Well...{p}{person: 20 453 453}
+Ah.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}
+If you won't tell us to uphold{b}
+the law,{wait: 10} tell us for the sake{b}
+of your scoop!{p}{bgcolor: 2305 8 31}{shake: 30 0}
+...Or the defendant's trial{b}
+will end half-baked!{wait: 15} Do you{b}
+want that?{wait: 10} Do you!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 459}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 5120}{person: 20 460 459}{bgcolor: 2305 8 31}{shake: 30 0}
+N-{wait: 10}Now you're making it sound{b}
+like I'm the bad guy here!{p}{bg: 29}{name: 2560}{person: 10 266 266}
+Hmm...{wait: 43}{person: 10 259 258} Well,{wait: 10} Mr. Gavin?{p}{fademusic: 45}{endjmp}
+
+{{37}}
+{bop}{bg: 26}{name: 13568}{person: 6 151 150}{0x5a}{fademusic: 120}{speed: 8}..{0x59}.Ach.{wait: 10}{0x5a}{wait: 30}{speed: 4}{b}{0x59}{sound: 52 1}{bgcolor: 2305 8 31}
+I suppose it was too much{b}{0x59}
+to hope for.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{speed: 4}
+What was?{p}{bg: 26}{name: 13568}{person: 6 149 148}
+Of course he wouldn't choose{wait: 6}{b}
+a simple case,{wait: 10} not him.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 5}
+"Him"{wait: 16}...?{p}{bg: 26}{name: 13568}{person: 6 146 145}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Phoenix Wright,{wait: 10} who else?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{name: 1024}{person: 4 36 36}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...!{p}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 3}
+Achtung,{wait: 10} Herr Brushel!{wait: 16}{b}
+Report for us,{wait: 10} if you would.{p}{person: 6 146 145}
+What is it that you noticed?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 451}{wait: 32}{name: 5120}{person: 20 451 451}{hidetextbox: 0}{speed: 8}
+......{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{speed: 3}
+This court is a critical trial{b}
+of the Jurist System.{p}
+I'm afraid no room for doubt{b}
+is permissible.{p}{person: 10 263 262}
+You will testify to the court{b}
+about{color: 1} what you noticed{color: 0}!{p}{hidetextbox: 1}{testimony_animation: 1}{special_jmp}{endjmp}

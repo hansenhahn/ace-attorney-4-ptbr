@@ -1,0 +1,15 @@
+
+
+{{0}}
+{bop}{hidetextbox: 0}{0x76: 0 16}{name: 2304}{speed: 3}Right.{wait: 12} Ready?{wait: 18}{b}
+It's {bgcolor: 2305 8 31}easy as pie!{p}{bgcolor: 2305 8 31}{speed: 4}
+Just touch the screen to{b}
+spray an area.{p}{0x76: 0 24}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Here!{wait: 10}{b}
+Give it a try!{p}{bganim: 98 579}{name: 1024}{speed: 8}{color: 2}
+(...{wait: 18}{speed: 2}The eyes of the entire{b}{bgcolor: 2305 8 31}{shake: 30 0}
+court are focused on me!){color: 0}{p}{0x76: 1 5}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Apollo!{wait: 10} Your hand's shaking!{shake: 30 0}{p}{name: 1024}{shake: 30 0}{speed: 4}{color: 2}
+(Ugh...{wait: 30}{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Grrrah!{wait: 12}{b}
+Let's do this!){color: 0}{p}{bganim: 98 579}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}

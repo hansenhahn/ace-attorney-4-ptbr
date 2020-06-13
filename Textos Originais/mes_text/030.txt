@@ -1,0 +1,261 @@
+
+
+{{0}}
+{bop}{0x62: 2 2}{0x26: 1}{bg: 27}{person: 30 673 673}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 14 11 2 93 1 1 3}{b}
+-- From Shot to Call --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{name: 7680}{fademusic: 0}{music: 3 0}{person: 30 686 685}{name: 7680}{speed: 3}
+I could not prevent the{b}
+killer from leaving the{b}
+scene.{p}{person: 30 686 685}{speed: 4}
+Nor could I simply leave the{b}
+scene in good conscience.{p}{person: 30 674 673}
+Ergo!{wait: 12} {speed: 3}I used my cell phone{b}
+to call the police.{p}{person: 30 683 682}
+Until the police arrived at{b}
+the scene 10 minutes later,{wait: 8}{b}
+I saw no one else.{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 25}{person: 4 59 58}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{0x59}{speed: 3}
+Why didn't you chase the{b}
+killer?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{person: 30 674 673}{name: 7680}{hidetextbox: 0}{speed: 3}
+He was,{wait: 8} as you say,{wait: 8} a killer.{p}
+Of course,{wait: 8} I could have run{b}
+him down,{wait: 8} yet what would he{b}
+have done when cornered?{p}{person: 30 686 685}
+Sadly,{wait: 8} it takes more than an{b}
+aptitude for solving quadratic{b}
+equations to know that.{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 6}
+Hmm...{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 3}
+Did the testimony earlier{b}
+not prove the defendant's{b}
+presence at the scene?{p}
+And do we not also now know{b}
+that there was no one else{b}
+there?{p}{person: 6 146 145}
+...{wait: 20}It seems clear that we have{b}
+our killer.{p}{person: 6 149 148}
+Does it not?{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}
+Does it not,{wait: 8} Mr. Justice?{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{color: 2}
+(I'd better find a way to{b}{bgcolor: 2305 8 31}{shake: 30 0}
+take this testimony down{b}
+quick!){color: 0}{nextpage_button}{endjmp}
+
+{{1}}
+{bop}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 30 673 673}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 134}{center_text: 1}{speed: 2}{b}{color: 1}
+-- From Shot to Call --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 3 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 135 0}{lifebar: 14}{0x53}{person: 30 686 685}{name: 7680}{hidetextbox: 0}{color: 3}I could not prevent the{b}
+killer from leaving the{b}
+scene.{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 136 0}{lifebarset: 0 130}{lifebar: 16}{0x53}{name: 7680}{person: 30 686 685}{hidetextbox: 0}{color: 3}Nor could I simply leave the{b}
+scene in good conscience.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 137 0}{lifebarset: 0 131}{lifebar: 14}{0x53}{name: 7680}{person: 30 674 673}{hidetextbox: 0}{color: 3}Ergo! I used my cell phone{b}
+to call the police.{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 138 0}{lifebarset: 0 132}{lifebar: 15}{0x53}{name: 7680}{person: 30 683 682}{hidetextbox: 0}{color: 3}Until the police arrived at{b}
+the scene 10 minutes later,{b}
+I saw no one else.{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 25}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}{color: 2}(This witness is way too{b}
+self-assured!){p}
+(There's got to be a weakness{b}
+somewhere in this testimony!){color: 0}{nextpage_button}{bg: 28}{name: 1280}{person: 5 100 100}{speed: 7}
+...{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 685 685}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{7}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}Which way did the killer run?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}
+By that time,{wait: 8} it was clear the{b}
+killer had noticed me.{p}
+Naturally,{wait: 8} he ran in the{b}
+opposite direction.{p}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 4}{color: 2}
+(That would mean he ran in the{b}
+opposite direction from the{b}
+Kitaki mansion...){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Achtung!{wait: 16} Don't even think{b}
+about pointing out that he{b}
+was going away from his home.{p}{person: 6 146 145}
+All he had to do was loop{b}
+back once he was out of sight.{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}{color: 2}
+(Ugh...{wait: 20} How did he know that's{b}
+where I was going...?){color: 0}{p}{bg: 28}{name: 1280}{person: 5 100 100}{speed: 7}
+...{person: 5 102 102}{nextpage_button}{0x10: 32883}{0x51: 0 53}
+{30465}{1090}{0x35: 29696 @RelativeAddress0}{0x35: 29952 @RelativeAddress1}{0x35: 30208 @RelativeAddress2}{jmp: 139}{endjmp}{endjmp}{jmp: 141}{endjmp}{endjmp}{@RelativeAddress0}{@RelativeAddress1}{@RelativeAddress2}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 685 685}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{8}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}You were certainly composed{b}
+for someone who had just{b}
+witnessed a killing.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{name: 7680}{person: 30 686 685}{hidetextbox: 0}
+If one is to devote one's life{b}
+to the pursuit of science...{p}
+...one must never flinch at{b}
+the sight of a little blood.{p}{person: 30 689 688}
+Nor be so moved by a chemical{b}
+discovery that one drops one's{b}
+flask upon the lab room floor.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{bg: 26}{name: 13568}{person: 6 146 145}{hidetextbox: 0}
+Oooh,{wait: 8} cool answer.{wait: 16}{b}
+Very cool.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{speed: 5}{color: 2}
+(Hmm...{wait: 20} {speed: 4}So nothing strange{b}
+about how he acted...){color: 0}{p}{bg: 28}{name: 1280}{person: 5 100 100}{speed: 7}
+...{person: 5 102 102}{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Trucy looks like she has{b}
+something to say...){speed: 255}{color: 0}{nextpage_button}{0x10: 32884}{0x51: 0 53}
+{30465}{1084}{0x35: 29440 @RelativeAddress3}{0x35: 29952 @RelativeAddress4}{0x35: 30208 @RelativeAddress5}{jmp: 139}{endjmp}{endjmp}{jmp: 141}{endjmp}{endjmp}{@RelativeAddress3}{@RelativeAddress4}{@RelativeAddress5}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 32768 32768}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{9}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}Wasn't your first thought to{b}
+call an ambulance?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}{speed: 3}
+It can be said that I have{b}
+dabbled in medicine...{p}{person: 30 686 685}
+The injury I witnessed,{wait: 8} namely{b}
+a single shot to the head,{wait: 8}{b}
+tends to result in death.{p}{person: 30 686 685}
+Ergo,{wait: 8} there was no need for{b}
+me to call an ambulance!{nextpage_button}{person: 30 689 688}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 6}
+Oh...{wait: 20} {speed: 4}a perfect syllogism{0x5a}...{wait: 25}{b}{0x59}{speed: 3}
+A proof in three parts!{b}
+Exquisite!{wait: 16} Simply exquisite!{p}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{speed: 4}{color: 2}
+(...{wait: 20}He actually looks like{b}
+he's going to cry.){color: 0}{p}{bg: 28}{name: 1280}{person: 5 102 102}{speed: 7}
+...{nextpage_button}{0x10: 32885}{0x51: 0 53}
+{30465}{1000}{0x35: 29440 @RelativeAddress6}{0x35: 29696 @RelativeAddress7}{0x35: 30208 @RelativeAddress8}{jmp: 139}{endjmp}{endjmp}{jmp: 141}{endjmp}{endjmp}{@RelativeAddress6}{@RelativeAddress7}{@RelativeAddress8}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 682 682}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}Can you tell us in detail{b}
+about these 10 minutes?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{bg: 27}{name: 7680}{person: 30 686 685}{hidetextbox: 0}
+I stood in a state of{b}
+heightened awareness.{p}{person: 30 683 682}
+Anything could happen at{b}
+any moment.{wait: 16} Anyone could{b}
+appear from any direction!{nextpage_button}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait: 40}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{speed: 5}
+Is{speed: 8}...{wait: 20}{b}{speed: 4}
+that all?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{name: 7680}{person: 30 686 685}{hidetextbox: 0}{speed: 4}
+No one came.{wait: 12} Nothing happened{b}
+at all.{wait: 15} {person: 30 689 688}{speed: 3}I saw it all,{wait: 8} which{b}
+is to say{0x5a}...{wait: 20}{0x59} I saw nothing.{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}
+It was late at night.{wait: 20}{person: 10 259 258} It's not{b}
+odd to think there would be{b}
+few people around in the park.{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 5}{color: 2}
+(So he just stood there,{wait: 8}{b}
+watching?{wait: 25} Hmm...{wait: 20} {speed: 3}Not much{b}
+to go on there.){color: 0}{p}{bg: 28}{name: 1280}{person: 5 100 100}{speed: 7}
+...{person: 5 102 102}{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(...{wait: 20}Trucy,{wait: 8} if you've got{b}
+something to say,{wait: 8} by all{b}
+means,{wait: 8} say it!){speed: 255}{color: 0}{nextpage_button}{0x10: 32886}{0x51: 0 53}
+{30465}{1410}{0x35: 29440 @RelativeAddress9}{0x35: 29696 @RelativeAddress10}{0x35: 29952 @RelativeAddress11}{jmp: 139}{endjmp}{endjmp}{jmp: 141}{endjmp}{endjmp}{@RelativeAddress9}{@RelativeAddress10}{@RelativeAddress11}{jmp: 134}{endjmp}
+
+{{11}}
+{bop}{bg: 25}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{fademusic: 60}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}{color: 2}(Argh!{bgcolor: 2305 8 31}{wait: 20} {speed: 4}I can't find a single{b}
+problem with that testimony!){color: 0}{p}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{person: 6 151 150}{name: 13568}{hidetextbox: 0}{speed: 4}
+...{wait: 12}Had enough at last,{wait: 8} Herr{b}
+Forehead?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{endjmp}
+
+{{12}}
+{bop}{bg: 25}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{color: 2}(Maybe it's time to back{b}{shake: 30 0}{bgcolor: 2305 8 31}
+off a bit...?){speed: 255}{color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 0}{b}
+{65535}{b}{2args_choice_jmp: 144 143}{endjmp}
+
+{{13}}
+{bop}{fademusic: 60}{bg: 25}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{color: 2}(Maybe there isn't anything{b}
+left to unravel in this{b}
+testimony after all...){color: 0}{p}{hidetextbox: 1}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{person: 6 146 145}{name: 13568}{hidetextbox: 0}
+Some of us have glamorous{b}
+careers we'd like to get back{b}
+to this month,{wait: 8} Herr Forehead.{p}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{endjmp}
+
+{{14}}
+{bop}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{color: 2}(...{wait: 20}They don't have enough{b}
+to put Wocky away yet.{wait: 16} Should{b}
+I back off for now?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 0}{b}
+{65535}{b}{2args_choice_jmp: 144 143}{endjmp}
+
+{{15}}
+{bop}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}The defense still has some{b}{bgcolor: 2305 8 31}{shake: 30 0}
+questions that demand{b}
+answers,{wait: 8} Your Honor!{p}{bg: 29}{name: 2560}{person: 10 266 266}
+Hmm{speed: 8}...{wait: 20} {speed: 5}Your opinion,{wait_noanim: 15}{b}{person: 10 263 262}{speed: 3}
+Prosecutor Gavin?{p}{bg: 26}{person: 6 151 150}{name: 13568}
+Oh,{wait: 8} let him play attorney{b}
+until he's satisfied,{wait: 8} I say.{p}
+I will amuse myself by{b}
+composing my next smash hit{b}
+in my head...{nextpage_button}{bg: 29}{name: 2560}{person: 10 260 260}{speed: 4}
+Very well.{wait: 16} {speed: 3}You may continue{0x63}{b}{person: 10 263 262}
+with the cross-examination.{nextpage_button}{0x23: 0}{music: 255 90}{0x10: 32887}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 673 673}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{16}}
+{bop}{0x29: 0}{fademusic: 45}{bg: 25}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 8}Nnk.{shake: 30 1}..!{wait: 30}{bgcolor: 2305 8 31}{p}{speed: 2}{color: 2}
+(Argh!{wait: 20} {speed: 3}There's nothing fishy{b}
+about that testimony at all!){color: 0}{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 3}
+It appears there are no{b}
+objections to the witness's{b}
+current testimony.{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{showphoto: 71}
+There are any number of ways{wait_noanim: 20}{b}{person: 6 146 145}
+to explain the lack of prints{b}
+on the pistol,{wait: 8} I assure you.{nextpage_button}{person: 6 151 150}
+Perhaps the killer really was{b}
+wearing gloves which wiped the{b}
+previous user's prints off.{p}
+Then,{wait: 8} after the deed was done,{wait_noanim: 30}{b}{bganim: 98 579}{showphoto: 70}{person: 6 146 145}
+this fell out of his pocket as{b}
+he was throwing the gun away.{p}{person: 6 149 148}{speed: 5}
+A mistake befitting of a{b}
+small-time punk,{wait: 8} in my{b}
+opinion.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}
+No{speed: 8}...{wait_noanim: 35}{b}{person: 4 60 60}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Noo{bgcolor: 2305 8 31}ooooo{bgcolor: 2305 8 31}oooo!{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}{wait: 70}{nextpage_nobutton}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{wait: 30}{bg: 29}{person: 10 266 266}{bgcolor: 258 1 31}{wait: 15}{fademusic: 0}{music: 39 0}{name: 2560}{hidetextbox: 0}{speed: 3}
+It seems we've come to the{b}{person: 10 259 258}
+end of the line{wait: 14} here.{nextpage_button}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{speed: 5}{color: 2}
+(No...{wait: 20} that can't be all!){b}{bgcolor: 2305 8 31}{shake: 30 0}{color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{person: 6 151 150}{name: 13568}{hidetextbox: 0}{speed: 3}
+How unfortunate.{wait_noanim: 30}{person: 6 151 150} {speed: 4}It seems that{b}
+you weren't cut out to stand{b}
+on the same stage as me.{nextpage_button}{person: 6 149 148}{speed: 3}
+Were you,{wait: 16} Herr Forehead?{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+I believe this brings the{b}
+cross-examination to a close.{nextpage_button}{person: 10 263 262}
+This court will now declare{b}
+a verdict for the defendant,{wait: 8}{b}
+Wocky Kitaki.{nextpage_button}{0x26: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 81 1}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 14 1}{sound: 26 1}{wait_noanim: 63}{name: 256}{hidetextbox: 0}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 1}
+Eeeeeeeeeeeeeeeek!{bgcolor: 2305 8 31}{wait: 80}{nextpage_nobutton}{hidetextbox: 1}{wait: 20}{sound: 48 1}{bgcolor: 2305 8 31}{bg: 25}{person: 4 58 58}{shake: 30 0}{wait: 30}{sound: 48 1}{bgcolor: 2305 8 31}{bg: 26}{person: 6 145 145}{shake: 30 0}{wait: 30}{sound: 48 1}{bgcolor: 2305 8 31}{bg: 27}{person: 30 677 677}{shake: 30 0}{wait: 25}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 209}{person: 0 0 0}{wait: 40}{bgcolor: 769 0 31}{wait: 1}{sound: 50 1}{shake: 30 2}{wait: 5}{bgcolor: 2305 8 31}{wait: 6}{bgcolor: 2305 8 31}{wait: 10}{bgcolor: 2305 8 31}{fademusic: 0}{music: 35 0}{wait: 100}{name: 1024}{hidetextbox: 0}{speed: 8}
+T-{wait: 8}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}Trucy!?{wait: 30}{nextpage_button}{name: 512}{speed: 5}
+Nobody move!{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 2}
+Wh-{wait: 12}What's the meaning of this?{wait: 12}{b}{sound: 27 1}{shake: 30 1}{bgcolor: 2305 8 31}
+Who are you!?{nextpage_button}{bg: 26}{person: 6 145 145}{name: 13568}{speed: 8}
+...{nextpage_button}{bg: 209}{person: 0 0 0}{name: 512}{speed: 4}
+There'll be no verdict in{b}
+this court{speed: 8}...{wait: 20} {speed: 4}Not yet!{nextpage_button}{name: 1024}{speed: 2}
+Wait{speed: 8}...{wait: 20} {shake: 30 1}{bgcolor: 2305 8 31}{speed: 4}Are you...{speed: 2} one of{b}{sound: 52 1}{bgcolor: 2305 8 31}
+the Kitakis!?{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}
+The Kitakis!?{wait: 16} You mean the{b}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+notorious gangsters!?{nextpage_button}{bg: 209}{person: 0 0 0}{name: 512}{speed: 4}
+If you don't want to see me{b}
+give the pretty little girl{b}
+a new smile,{wait: 8} do as I say!{p}
+Adjourn the court for twenty{b}
+minutes!{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+Wh-{wait: 10}Whaaat!?{p}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Th-{wait: 10}This court will not bow{b}
+to pressure from the likes{b}
+of...{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...{wait: 16}Herr Judge.{nextpage_button}{bg: 29}{person: 10 264 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...!{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+I see little point in further{b}
+aggravating this gentleman.{nextpage_button}{bg: 29}{person: 10 264 264}{name: 2560}{bgcolor: 2305 8 31}{shake: 30 2}
+Urk!{shake: 30 0}{wait: 30} {speed: 5}Hmm{speed: 8}.{shake: 30 0}..{nextpage_button}{bg: 209}{person: 0 0 0}{name: 512}{speed: 4}
+Recess,{wait: 8} twenty minutes!{wait: 20} Or I{b}
+promise you,{wait: 8} you'll regret it.{nextpage_button}{hidetextbox: 1}{wait: 25}{shake: 30 0}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 28}{person: 0 0 0}{bgcolor: 772 1 31}{wait: 25}{name: 1024}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+W-{wait: 20}Wait!{wait: 20}{b}{shake: 30 0}{bgcolor: 2305 8 31}{color: 2}
+(How'd he disappear so fast!?){color: 0}{nextpage_button}{hidetextbox: 1}{wait: 30}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{wait: 30}{bgcolor: 257 8 31}{wait: 1}{name: 1280}{hidetextbox: 0}{soundtoggle: 0}{bgcolor: 2305 8 31}{0x23: 0}{speed: 1}{color: 3}
+  ...{wait: 20}Come to the defendant{bgcolor: 2305 8 31}{b}{bgcolor: 2305 8 31}
+  lobby,{wait: 10} {bgcolor: 2305 8 31}Apollo!!!...{color: 0}{0x23: 0}{music: 255 60}{wait: 30}{nextpage_button}{soundtoggle: 1}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 263 262}{name: 2560}{hidetextbox: 0}{speed: 3}
+...{wait: 16}I suppose I have no choice{b}
+but to adjourn for a twenty{b}
+minute recess!{p}{person: 10 259 258}{speed: 2}
+Bailiff! {shake: 30 0}{bgcolor: 2305 8 31}Catch that mysterious{b}
+man!{nextpage_button}{hidetextbox: 1}{wait: 20}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{hidetextbox: 0}{0x48: 128 142}{speed: 0}{soundtoggle: 0}{b}{b}
+To be continued.{bgcolor: 260 1 31}{wait: 25}{wait: 160}{fademusic: 120}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{0x26: 0}{savegame}{bop}{special_jmp}{endjmp}

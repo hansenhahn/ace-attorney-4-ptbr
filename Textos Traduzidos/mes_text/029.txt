@@ -1,0 +1,406 @@
+
+
+{{0}}
+{bop}{0x62: 2 2}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 30 673 673}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 14 11 2 93 1 1 3}{b}
+-- A Night in the Park 2 --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{name: 7680}{fademusic: 0}{music: 2 0}{name: 7680}{person: 30 674 673}{speed: 3}
+As soon as the killer raised{b}
+his pistol,{wait: 8} I took action.{p}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{person: 0 0 0}{bg: 119}{speed: 2}
+"Cease this at once,{wait: 8} you two!"{b}{speed: 3}
+I cried...{wait: 20} with composure.{p}{bg: 27}{person: 30 674 673}
+The victim turned in the{b}
+direction of my voice...{wait: 16} and{b}{sound: 96 1}{shake: 30 1}{bgcolor: 2305 8 31}
+a shot rang out.{p}{person: 30 686 685}
+Whereupon our cowardly killer,{wait: 16}{b}{speed: 3}
+the defendant,{wait: 8} appeared to{b}
+have become frightened.{p}{person: 30 674 673}
+Tossing the pistol aside,{wait: 8} he{b}
+fled from the scene.{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{person: 10 266 266}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{0x59}{speed: 5}
+I see...{wait: 20} So {speed: 3}you attempted{wait: 30}{b}{person: 10 263 262}
+to stop the crime.{nextpage_button}{bg: 27}{person: 30 686 685}{name: 7680}{speed: 4}
+Indeed.{wait_noanim: 30}{b}{person: 30 683 682}{speed: 3}
+...{wait: 12}With composure.{nextpage_button}{bg: 28}{person: 5 105 104}{name: 1280}
+Well,{wait: 8} maybe the criminal{b}
+wouldn't have fired if{b}
+he hadn't shouted like that.{p}{person: 5 98 98}{name: 1024}
+Th-{wait: 12}That doesn't really matter{b}
+now,{wait: 8} unfortunately.{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}
+Let us consider this new{b}
+testimony,{wait: 8} shall we?{p}{person: 6 157 156}{showphoto: 25}
+...{wait: 20}Observe the diagram,{wait: 8} if{b}
+you would.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 92}{person: 0 0 0}{littlesprite: 513}{littlesprite: 9985}{0x3a: 2 168 102}{0x3b: 9989 16384}{littlesprite: 769}{littlesprite: 10241}{0x3a: 3 96 102}{0x3b: 10245 49152}{littlesprite: 1025}{littlesprite: 10497}{0x3a: 4 132 136}{0x3b: 10501 32768}{fademusic: 0}{music: 4 0}{bgcolor: 258 1 31}{wait: 15}{wait: 30}{name: 13568}{hidetextbox: 0}
+The witness{speed: 8}...{wait: 15} {speed: 3}Mr. Stickler,{wait: 8}{b}
+was it?{wait: 20} Stood here.{wait_noanim: 20}{p}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+He shouted,{wait: 8} "Oh stop! Please!"{wait: 12}{b}{speed: 3}
+or something of this nature.{p}{speed: 3}
+And the victim responded by{b}
+looking in the witness's{b}
+direction!{p}{hidetextbox: 1}{littlesprite: 12545}{0x3a: 49 168 102}{0x3c: 12545}{wait: 90}{0x3c: 12544}{0x3b: 9989 16384}{wait: 4}{0x3b: 9989 14336}{wait: 4}{0x3b: 9989 12288}{wait: 4}{0x3b: 9989 8192}{wait: 4}{0x3b: 9989 6144}{wait: 4}{0x3b: 9989 4096}{wait: 4}{0x3b: 9989 2048}{wait: 4}{0x3b: 9989 0}{wait: 4}{wait: 60}{littlesprite: 12544}{hidetextbox: 0}{speed: 4}
+If the killer were to have{b}
+fired at just that moment...{p}{hidetextbox: 1}{littlesprite: 11009}{0x3a: 43 152 102}{0x3b: 11013 49152}{wait: 30}{hidetextbox: 0}{speed: 3}
+As we can see,{wait: 8} the bullet{b}
+would have struck the {color: 1}right{b}
+temple{color: 0},{wait: 8} as in the report.{p}{hidetextbox: 1}{fademusic: 45}{bgcolor: 516 1 31}{wait: 25}{bganim: 98 514}{bg: 29}{person: 10 266 266}{bgcolor: 258 1 31}{wait: 15}{person: 10 260 260}{name: 2560}{hidetextbox: 0}
+That does seem to be the case.{wait: 20}{0x63}{person: 10 263 262}{nextpage_button}{bg: 27}{person: 30 683 682}{name: 7680}{speed: 4}
+Witness the power of a Junior{b}
+in Ivy University's Department{wait: 16}{b}
+of Science!{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 3}
+Very well,{wait: 8} Mr. Justice,{wait: 16} you{b}
+may cross-examine the witness.{nextpage_button}{endjmp}
+
+{{1}}
+{bop}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 30 673 673}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 135}{center_text: 1}{speed: 2}{b}{color: 1}
+-- A Night in the Park 2 --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 136 0}{lifebar: 14}{0x53}{person: 30 674 673}{name: 7680}{hidetextbox: 0}{color: 3}As soon as the killer raised{b}
+his pistol, I took action.{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 137 0}{lifebarset: 0 130}{lifebar: 15}{0x53}{person: 30 683 682}{name: 7680}{hidetextbox: 0}{color: 3}"Cease this at once, you two!"{b}
+I cried... with composure.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 138 0}{lifebarset: 0 131}{lifebar: 14}{0x53}{person: 30 674 673}{name: 7680}{hidetextbox: 0}{color: 3}The victim turned in the{b}
+direction of my voice... and{b}
+a shot rang out.{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 132}{lifebar: 16}{0x53}{person: 30 686 685}{name: 7680}{hidetextbox: 0}{color: 3}Whereupon our cowardly killer,{b}
+the defendant, appeared to{b}
+have become frightened.{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 133}{lifebar: 14}{0x53}{person: 30 674 673}{name: 7680}{hidetextbox: 0}{color: 3}Tossing the pistol aside, he{b}
+fled from the scene.{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 28}{name: 1280}{person: 5 105 104}{hidetextbox: 0}{speed: 3}I liked that contradiction.{b}
+Kinda sad to see it go.{p}{person: 5 98 98}{name: 1024}
+Not as sad as I feel.{wait: 16} What{b}
+do we do now?{p}{bg: 28}{name: 1280}{person: 5 99 98}
+At least the testimony's{b}
+getting a little clearer.{p}{bg: 25}{person: 4 40 40}{name: 1024}{color: 2}
+(She's right!{wait: 16} Maybe I can find{b}
+something to use in this new{b}
+testimony.){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 673 673}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{8}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}So you saw a raised pistol...{wait: 16}{b}
+Weren't you frightened?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}
+It can be said we students{b}
+of Ivy University know no{b}{person: 30 32768 32768}
+fear.{p}{hidetextbox: 1}{person: 30 676 676}{0x63}{person: 30 683 682}{hidetextbox: 0}{speed: 4}
+The moment I saw that pistol,{b}
+my inner sense of justice{b}{shake: 30 0}{bgcolor: 2305 8 31}
+compelled me to take action!{p}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 3}
+That was certainly brave of{b}
+you.{p}{person: 10 266 266}{speed: 4}
+You might have gotten shot!{p}{bg: 27}{name: 7680}{person: 30 32768 32768}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Eh!?{wait: 20}{p}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 3}
+You certainly were lucky.{p}{person: 6 149 148}
+If I were in the killer's{b}
+shoes,{wait: 8} I certainly wouldn't{b}
+have left a witness behind.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 30 673}{wait: 32}{name: 7680}{person: 30 678 677}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{hidetextbox: 0}{speed: 2}
+......!{wait: 20}{p}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 3}
+He actually looks like he{b}
+had no idea he was in danger.{p}{bg: 27}{name: 7680}{person: 30 678 677}{speed: 3}
+R-{wait: 8}Regardless,{wait: 8}{person: 30 686 685} I attempted{b}
+to halt the bloodshed!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 682 682}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{9}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}Are you sure both men were{b}
+able to hear your voice?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}
+They were,{wait: 12} of course.{p}{person: 30 683 682}
+My high,{wait: 12} exquisite voice{b}
+echoed through the park.{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+And the victim responded to{b}
+that clarion call{speed: 8}...{p}{hidetextbox: 1}{swoosh: 2 4096 30 682}{wait: 32}{name: 7680}{person: 30 683 682}{hidetextbox: 0}
+Quite.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 673 673}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}Did you hear the gunshot{b}
+at the same time as the{b}
+victim turned?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}
+Indeed.{wait: 16} I would say "about"{b}
+the same time,{wait: 8} to be precise.{nextpage_button}{bg: 25}{name: 1024}{person: 4 59 58}
+And the victim didn't ask{b}
+you for help?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}
+It can be said that he didn't{b}
+have time to ask.{p}
+He didn't even have time{b}
+to take a single step.{p}{bg: 28}{name: 1280}{person: 5 105 104}
+I'm totally sure that the{b}
+killer fired because{b}
+Mr. Stickler startled him.{p}{name: 1024}{person: 5 104 104}{speed: 4}
+Don't say that too loud,{wait: 8}{b}
+Trucy,{wait: 8} please...{nextpage_button}{speed: 255}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 685 685}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 3}Can you describe the killer's{b}
+actions more clearly?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{name: 7680}{person: 30 686 685}{hidetextbox: 0}
+He seemed quite surprised,{wait: 8}{b}
+especially considering that{b}
+it was he who did the deed!{p}{person: 30 683 682}
+As we can see,{wait: 8} human{b}
+psychology is a tangled{b}
+web,{wait: 8} indeed.{p}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}
+He simply couldn't believe{b}
+what he had done.{p}{person: 6 149 148}
+He shot,{wait: 8} he panicked.{wait: 12}{b}
+A common tale,{wait: 8} but true.{p}{hidetextbox: 1}{swoosh: 2 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}
+Unfortunately,{wait: 8} before I could{b}
+take further action...{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 673 673}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}You didn't try to apprehend{b}
+the criminal?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}
+It all happened so fast,{wait: 8}{b}
+I'm afraid I hadn't the time.{p}{bg: 28}{name: 1280}{person: 5 105 104}
+Doesn't something about that{b}
+strike you as odd,{wait: 8} Apollo?{p}{name: 1024}{person: 5 104 104}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...!{wait: 20} What?{p}{name: 1280}{person: 5 105 104}
+The killer was in a hurry,{wait: 8}{b}
+right?{wait: 16} He fired the pistol,{wait: 8}{b}
+and tossed it right away...{p}{name: 1024}{person: 5 104 104}
+According to the testimony,{wait: 8}{b}
+that's what happened, yes.{p}{person: 5 103 102}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}
+In that case,{wait: 8} I'd expect{b}
+to find something that we{b}
+didn't find!{p}{bg: 25}{name: 1024}{person: 4 42 42}{color: 2}
+(Find "something"?{wait: 20} Find what?){speed: 255}{color: 0}{nextpage_button}{jmp: 135}{endjmp}
+
+{{13}}
+{bop}{0x6d: 0}{fademusic: 30}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}Wait a second!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{person: 30 674 673}{name: 7680}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Tsk,{wait: 8} tsk,{wait: 12} another misleading{b}
+request.{p}{person: 30 676 676}
+Yet you're so beholden to your{b}
+own mode of "discourse" you{b}
+can't see how it affects you!{nextpage_button}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}
+Um...{wait: 20} come again?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{person: 30 686 685}{name: 7680}{hidetextbox: 0}
+Wait a{wait: 6} "second",{wait: 8} you say?{b}
+A{wait: 6} "second"?{nextpage_button}{person: 30 683 682}{hidetextbox: 0}
+Are we intended to wait just{b}
+that,{wait: 8} a single second,{wait: 8} one{b}
+sixtieth of a minute?{p}{speed: 3}
+That's hardly enough time{b}
+to draw a breath,{wait: 8} let alone{b}
+make a statement in court!{p}{person: 30 674 673}{speed: 4}
+Now,{wait: 8} had you asked for a{b}
+longer period of time,{wait: 8} say,{wait: 8}{b}
+3 minutes,{wait: 8} 35 seconds,{wait: 8} th--{wait_noanim: 8}{nextpage_nobutton}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 3}
+Mr. Justice.{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}
+Yes,{wait: 8} Your Honor?{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}
+Am I to understand you are{b}
+objecting to the length of{b}
+a second?{nextpage_button}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Yes!{wait: 20} I mean,{wait: 12} no!{wait: 20} Here,{wait: 8} just{wait_noanim: 20}{b}{showphoto: 327}{person: 4 37 36}
+look at the pistol!{p}{person: 4 66 65}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+It doesn't have a single{b}
+fingerprint on it!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{person: 30 686 685}{name: 7680}{hidetextbox: 0}{speed: 3}
+Ah,{wait: 8} a common ploy,{wait: 8} made all{b}
+the more common,{wait: 8} I fear,{wait: 8} by{b}
+the prevalence of television.{p}{person: 30 674 673}
+Criminals these days are{b}
+loathe to leave fingerprints.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 2}
+Wait!{wait: 20} {speed: 3}But you said the killer{b}
+tossed the gun and ran!{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+That's right!{p}{fademusic: 0}{music: 9 0}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}
+He didn't have ti{bgcolor: 2305 8 31}me to wipe{b}
+the gun for prints!{nextpage_button}{bg: 27}{person: 30 695 695}{animation: 219 1}{name: 7680}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+...!{wait: 90}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{person: 6 151 150}{name: 13568}{hidetextbox: 0}{speed: 3}
+Ah,{wait: 8} the little girl sticking{b}
+it to the university student.{wait: 15}{b}{person: 6 146 145}{speed: 3}
+There's a song in there...{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I'm not little!{nextpage_button}{bg: 26}{person: 6 147 147}{name: 13568}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+A ha ha ha...{wait: 60}{nextpage_nobutton}{person: 6 149 148}
+Then let's think like adults,{wait: 8}{b}
+shall we,{wait: 8} Fr{1988}ulein?{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}
+Eh...?{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}
+What if the killer{speed: 8}...{wait: 16} {speed: 3}the{b}
+defendant,{wait: 8} was wearing gloves?{nextpage_button}{bg: 28}{person: 5 100 100}{name: 1280}{fademusic: 120}{speed: 6}
+.{speed: 8}.{speed: 10}.{p}{person: 5 99 98}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Gotta admit,{wait: 12} I didn't think{b}
+of that,{wait: 8} Apollo.{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Well,{wait: 8} Mr. Justice?{nextpage_button}{fademusic: 0}{music: 4 0}{endjmp}
+
+{{14}}
+{bop}{bg: 25}{person: 4 40 40}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}(Could the killer have been{b}
+wearing gloves...?){speed: 255}{color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 16}{evd_window_plain}{65535}{b}{2args_choice_jmp: 143 144}{endjmp}
+
+{{15}}
+{bop}{bg: 25}{hidetextbox: 0}{name: 1024}{person: 4 40 40}{speed: 4}{color: 2}(If he was wearing gloves,{wait: 8}{b}
+there wouldn't be prints...){color: 0}{p}{person: 4 42 42}{shake: 30 0}{speed: 8}
+.{speed: 10}.{shake: 30 0}.{wait: 40}{b}{person: 4 61 61}{animation: 149 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}{color: 2}
+(C'mon Justice,{wait: 8} you've gotta{b}
+come up with something...!){color: 0}{p}{bg: 29}{name: 2560}{person: 10 265 264}
+Is there something you want to{b}
+tell the court,{wait: 12} Mr. Justice?{p}{bg: 26}{name: 13568}{person: 6 149 148}
+His silence speaks louder than{b}
+words,{wait: 8} Herr Judge.{wait: 16} He can{b}
+think of nothing{speed: 7}...{wait: 12} {speed: 3}nein?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}
+I g-{wait: 8}guess he could have been{b}
+wearing gloves.{wait_noanim: 15}{b}{person: 4 58 58}{color: 2}
+(...{wait: 20}I guess.){color: 0}{p}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 263 262}{hidetextbox: 0}
+Then let's continue with{b}
+the testimony.{wait: 16} If you would.{p}{hidetextbox: 1}{bg: 27}{person: 30 676 676}{0x63}{person: 30 683 682}{name: 7680}{hidetextbox: 0}
+...{wait: 20}My pleasure,{wait: 8} Your Honor.{wait: 16}{b}
+A small pleasure,{wait: 8} but still.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 673 673}{name: 7680}{fademusic: 0}{music: 2 100}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{16}}
+{bop}{bg: 25}{person: 4 45 44}{name: 1024}{hidetextbox: 0}The record of the murder{b}
+weapon is very clear about{b}
+one thing:{p}{speed: 4}
+The fingerprints were{wait: 6} "wiped"{wait: 16}{b}
+which means some trace of{b}
+prints remained!{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}
+Which contradicts your{b}
+testimony!{p}{fademusic: 30}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+If everything happened as you{b}
+say it did,{wait: 10} he wouldn't have{b}
+had time to wipe the pistol!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{person: 30 679 679}{0x63}{person: 30 680 680}{0x63}{person: 30 673 673}{wait: 100}{person: 30 674 673}{name: 7680}{hidetextbox: 0}
+...{wait: 20}That may be.{wait_noanim: 20}{person: 30 686 685} But it does{b}
+not change what I saw.{nextpage_button}
+The killer{speed: 8}...{wait: 12} {speed: 3}the defendant...{wait: 16}{p}{person: 30 689 688}{sound: 52 1}{bgcolor: 2305 8 31}
+He threw down the murderous{b}
+weapon from his hand and fled.{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}
+Hmm...{wait: 20}{0x63}{nextpage_button}{bg: 27}{person: 30 689 688}{name: 7680}{speed: 3}
+And {person: 30 686 685}{showphoto: 71}this pistol was found at{b}
+the scene of the crime.{p}{person: 30 674 673}
+Strongly suggesting that this{b}
+was the weapon he disposed of!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 2 1 6 148}{wait: 32}{person: 6 149 148}{name: 13568}{hidetextbox: 0}
+That sounds solid to me.{wait: 15}{b}
+Well,{wait: 8} Herr Forehead?{wait: 15} Any{b}
+of your precious{wait: 8} "objections"?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{speed: 7}
+...{nextpage_button}{bg: 28}{person: 5 103 102}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+What gives,{wait: 8} Apollo!?{wait: 16} {speed: 3}Let's{b}
+see that voice training{b}
+go to work!{nextpage_button}{person: 5 102 102}{name: 1024}{speed: 4}
+You know,{wait: 8} I've only recently{b}
+realized something.{p}{person: 5 104 104}
+No matter how much you train{b}
+your voice,{wait: 8} it doesn't matter{b}
+if you have nothing to say.{nextpage_button}{person: 5 103 102}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+What do you mean,{wait: 8} "nothing{b}
+to say"!?{p}{speed: 3}
+Isn't it obvious from what{b}{shake: 30 0}{bgcolor: 2305 8 31}
+the witness just said?{nextpage_button}{person: 5 102 102}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+Huh?{wait: 20} {speed: 3}Isn't what obvious?{fademusic: 0}{music: 35 0}{nextpage_button}{person: 5 101 100}{name: 1280}
+When he re-stated what he saw{b}
+just now, he said he saw Wocky{b}
+drop a "murderous weapon".{nextpage_button}{person: 5 99 98}
+But that's not the same as{b}
+being 100% sure of what Wocky{b}
+threw away!{p}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 6}
+You're right!{nextpage_button}{person: 5 105 104}{name: 1280}{speed: 3}
+He's just confused because{b}
+a pistol was found at the{b}
+scene!{p}
+Poor Mr. Stickler{speed: 8}...{wait: 20} {speed: 3}It must{wait_noanim: 16}{b}{person: 5 103 102}
+be hard to be so perfect,{wait: 8} and{b}
+yet so wrong.{nextpage_button}{bg: 27}{person: 30 678 677}{name: 7680}{fademusic: 30}{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+W-{wait: 8}Well!{wait: 20} It can be said that{b}
+I'm quite offended!{nextpage_button}{person: 30 686 685}
+While it is,{wait: 8} indeed,{wait: 8} true that{b}
+once,{wait: 8} in my youth,{wait: 8} I wrote a{b}
+love letter in my own blood{nextpage_nobutton}
+that was seized by the teacher{b}{person: 30 689 688}
+and posted on the blackboard{b}
+for all to see,{wait: 8} and for this{nextpage_nobutton}
+the appellation "poor" might{b}
+well be prefixed to my name,{wait: 8}{b}
+yet as for the issue at ha--{wait: 8}{nextpage_nobutton}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{0x23: 0}{music: 255 60}{speed: 3}
+What we can say for certain{wait_noanim: 20}{b}{person: 10 263 262}
+is that the witness saw the{b}
+killer throw{wait: 6} "something"{wait: 6}{speed: 8}...{p}{person: 10 263 262}{speed: 3}
+Does the defense have anything{b}
+to say about this?{nextpage_button}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 3}
+Well,{wait: 8} if what he threw wasn't{b}
+a pistol...{p}{person: 5 102 102}{name: 1024}
+Then it had to be something{b}
+else!{p}{bg: 26}{person: 6 149 148}{name: 13568}{hidetextbox: 0}{speed: 4}
+At least one person on the{b}
+defense team seems to be{b}
+thinking.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}{color: 2}
+(Grr...{wait: 20} {speed: 3}I'll wipe that smile{b}
+off your pretty face,{wait: 8} Gavin!){color: 0}{p}{bg: 29}{person: 10 259 258}{name: 2560}
+Perhaps you can inform the{b}
+court as to the nature of{b}
+this{wait: 6} "something else"?{p}{jmp: 145}{endjmp}
+
+{{17}}
+{bop}{0x6c: 0}{0x6e: 20}{person: 10 263 262}{name: 2560}{hidetextbox: 0}What did the killer throw{wait: 6}{b}
+away before fleeing the{b}
+scene?{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{0x6d: 0}{fademusic: 30}{bg: 25}{person: 4 64 65}{name: 1024}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}What the witness really{b}
+saw...{0x63} {person: 4 66 65}was this!{wait: 20} Or...{0x5a}{wait: 30}{b}{sound: 52 1}{bgcolor: 2305 8 31}{person: 4 50 49}{speed: 3}
+something like it.{p}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 8}
+...{p}{0x6c: 0}{0x6e: 20}{person: 10 263 262}{speed: 3}
+Penalty.{person: 10 262 262}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(That didn't even warrant a{b}
+wise-crack,{wait: 8} did it.){color: 0}{p}{0x52}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+Perhaps you'd like to try{b}
+that again,{wait: 8} Mr. Justice?{b}{0x23: 0}{music: 255 90}{nextpage_button}{jmp: 145}{endjmp}
+
+{{19}}
+{bop}{0x29: 0}{0x66: 109 0 34}{person: 27 29 30}{rejmp: 265}{264}{name: 2560}{hidetextbox: 0}{showphoto: 326}Is that{speed: 8}...{wait: 12} {speed: 3}a sword?{p}{person: 10 263 262}
+I saw one of those on the {b}
+late night {wait: 6}movie last night{wait: 6}!{nextpage_button}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{speed: 4}{color: 2}
+(Great,{wait: 8} a sleep-deprived{b}
+judge...){color: 0}{p}{person: 4 37 36}{speed: 3}
+This knife was found at the{wait: 16}{b}
+scene of the crime...{wait: 20} with{b}
+the defendant's prints on it.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+His prints!{nextpage_button}{bganim: 98 579}{bg: 25}{person: 4 41 40}{name: 1024}{speed: 3}
+This single piece of evidence{b}
+proves two important things:{p}{person: 4 45 44}
+One,{wait: 8} that what the defendant{b}
+threw down {color: 1}wasn't a pistol{color: 0}.{p}
+Two,{wait: 8} that the defendant{b}{color: 1}
+wasn't wearing gloves{color: 0}!{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 5}
+Hmm...{wait: 20} Indeed!{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 4}
+Oh,{wait: 8} Herr Forehead?{p}{person: 6 149 148}{speed: 3}
+You're forgetting two other{b}
+things you've just proven.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{person: 4 36 36}{name: 1024}{fademusic: 0}{music: 18 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}
+Huh?{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}
+One,{wait: 8} that the man the witness{b}
+saw was the defendant,{wait: 8}{b}
+Mr. Wocky Kitaki.{p}
+Two,{wait: 8} that the defendant was{b}
+holding a knife,{wait: 8} with the{b}
+intent of harming the victim!{nextpage_button}{bg: 25}{person: 4 60 60}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+O{bgcolor: 2305 8 31}h.{wait: 60}{nextpage_nobutton}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 5}
+Hmm...{wait: 20} Indeed!{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 4}{color: 2}
+(Grr...{wait: 20} Never underestimate{b}
+a Gavin is the lesson here.){color: 0}{p}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+This court is of the opinion{b}
+that our witness is fond of{b}
+making assumptions.{p}
+In that light,{wait: 8} I believe it{b}
+would behoove us to hear{b}
+about what really occurred...{nextpage_button}{person: 10 263 262}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}with less assuming,{wait: 12} please!{nextpage_button}{hidetextbox: 1}{bg: 27}{person: 30 679 679}{0x63}{person: 30 680 680}{0x63}{person: 30 673 673}{wait: 80}{person: 30 676 676}{0x63}{bg: 27}{person: 30 686 685}{name: 7680}{hidetextbox: 0}{speed: 5}
+It is always the same with{b}
+you people.{p}{speed: 4}
+"Mark left the house on foot,{wait: 8}{b}
+and five minutes later,{wait: 8} his{b}
+brother left after him."{p}{speed: 2}
+"How long would it take for{b}{bgcolor: 2305 8 31}{shake: 30 0}
+Mark's brother to catch up{b}
+to him..."{p}{person: 30 689 688}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+"...assuming that Mark never{b}
+had to stop for a traffic{b}
+light!"{p}{speed: 5}
+"Assuming"...{wait: 20} {speed: 3}Yes,{wait: 8} that's{b}
+what I said.{wait: 15} "Assuming"!{p}
+As if that were a probable{b}
+situation at all!{p}{person: 30 678 677}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Yet here you are{wait: 8} "assuming"{b}
+that my{wait: 8} "assumption" is no{b}
+better!{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+Ahem.{wait: 12} What this court{b}
+"assumes"...{nextpage_button}{person: 10 263 262}
+...{wait: 20}is that the witness will{b}
+testify as to what happened{b}
+after the shot was fired!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{testimony_animation: 1}{special_jmp}{endjmp}

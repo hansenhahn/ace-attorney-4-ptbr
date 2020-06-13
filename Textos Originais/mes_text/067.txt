@@ -1,0 +1,625 @@
+
+
+{{0}}
+{bop}{0x26: 0}{0x51: 0 12}{person: 11 10 48}{p}{center_text: 1}{color: 3}
+June 15,{wait: 10} 9:45 AM{b}
+Hickfield Clinic{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{person: 0 0 0}{name: 1024}{speed: 4}{color: 2}
+(So...{wait: 10} this is Mr. Wright's{b}
+hospital...){color: 0}{p}{hidetextbox: 1}{personvanish: 3 1}{person: 18 409 408}{0x5a}{wait: 16}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 38 0}{wait: 60}{name: 512}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{0x59}{hidetextbox: 0}{speed: 2}
+Eh?{wait: 20} Visitors are ya?{wait: 20} Hrmm?{nextpage_button}{name: 1024}{person: 18 408 408}{speed: 3}
+Uh,{wait: 8} yeah. Are you the...{wait: 20}{b}
+doctor?{p}{newevidence: 32819}{name: 4608}{person: 18 411 410}{speed: 2}
+Ayup.{wait: 20} Dr. Hickfield's the{b}
+name.{wait: 20} Eh he he.{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Good morning,{wait: 8} Doctor!{nextpage_button}{person: 18 413 412}{name: 4608}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Oh,{wait: 8} hiya there,{wait: 8} Trucy.{wait: 20}{b}
+Cute as ever!{wait: 20} Eh he he.{nextpage_button}{person: 5 76 75}{name: 1280}{bgcolor: 2305 8 31}{speed: 4}
+Is...{wait: 20} {speed: 3}this Daddy's room?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 18 411 410}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 4608}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oh yah.{wait: 20} 'Cept he's gone for a{b}
+mornin' checkup.{wait: 20} Be back soon.{p}{person: 18 409 408}{speed: 2}
+How're you,{wait: 8} Miss Trucy?{wait: 20}{0x5a}{person: 18 413 412}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4} Got{b}
+any places you'd like...{wait: 20}{b}
+examined?{wait: 20} Eh heh...{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Doctor...{wait: 20} {hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 180 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}the nurse was{b}
+looking for you.{p}{person: 18 409 408}{name: 4608}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Why,{bgcolor: 2305 8 31}{wait: 8} if it isn't the Daddy o'{b}
+the cutest lil' thing in town!{p}{bgcolor: 2305 8 31}{shake: 30 0}
+Hrm.{wait: 20} Hrmm.{wait: 20} Guess I'll be off{b}
+then.{wait: 20} Eh he?{wait_noanim: 20}{person: 18 411 410} Later,{wait: 12} Trucy.{nextpage_button}{hidetextbox: 1}{wait: 30}{fademusic: 120}{personvanish: 4 2}{wait: 32}{person: 0 0 0}{name: 1024}{hidetextbox: 0}{speed: 4}
+Wow,{wait: 8} what an odd bird that{b}
+guy was.{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 7 182 181}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{hidetextbox: 0}{speed: 3}
+Good morning.{wait: 30} {speed: 4}Didn't expect{b}
+you so soon,{wait: 8} Apollo.{p}{name: 1024}{person: 7 181 181}{speed: 6}
+Mr. Wright...{p}{speed: 255}{fademusic: 0}{music: 32 0}{0x10: 32805}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{person: 7 180 179}{name: 1792}{fademusic: 60}Don't get so worked up.{wait: 20}{b}
+It was just a joke.{p}{person: 7 181 181}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}
+Huh?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+Oh,{wait: 8} Daddy.{wait: 20}{b}
+Sorry, Apollo.{b}
+He just loves jokes,{wait: 8} you know.{p}
+Even the ones that aren't{b}
+very funny.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 182 181}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+Your real client should be{b}
+stopping by the office any{b}
+time now.{p}{person: 7 189 189}{name: 1024}{speed: 4}
+The office...{wait: 12} {speed: 3}You mean the{b}
+talent agency?{p}{person: 7 179 179}{person: 7 179 179}{speed: 4}{color: 2}
+(No harm in going.{wait: 20} It's not{b}
+like I have anything else{b}
+to do.){color: 0}{p}{person: 7 184 183}{name: 1792}{speed: 3}
+...{wait: 12}One more thing.{p}{person: 7 180 179}{name: 1792}
+Do look into my accident too,{wait: 8}{b}
+would you?{p}{person: 7 182 181}
+I marked the scene of the{b}{showphoto: 25}
+tragedy on this map.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 93}{person: 0 0 0}{littlesprite: 5377}{bgcolor: 258 1 31}{wait: 15}{littlesprite: 6657}{0x3c: 6657}{wait: 90}{0x3c: 6656}{name: 1792}{hidetextbox: 0}
+It's right in front of this{b}
+park.{wait: 20} Should be easy to find.{p}{littlesprite: 6656}{littlesprite: 5376}{bg: 226}{person: 7 181 181}{name: 1024}{speed: 5}{color: 2}
+(So,{wait: 8} he's going to make me{b}
+investigate this after{b}
+all...){color: 0}{p}{newevidence: 16437}{name: 0}{speed: 3}{color: 2}
+Map added to the{b}
+Court Record.{fademusic: 0}{music: 32 100}{p}{speed: 255}{color: 0}{0x10: 32806}{0x10: 33283}{0x10: 33284}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{name: 1024}{person: 0 0 0}What's that on TV?{wait: 14} Looks like{b}
+some sort of action hero{b}
+show...{p}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Oh,{wait: 8} I know that one!{wait: 16}{b}
+That's the Sniffling Samurai!{nextpage_button}{person: 5 68 67}{speed: 3}
+His "Booger Flick" attack is{b}
+a big hit with the grade{b}
+school crowd.{nextpage_button}{name: 1024}{speed: 3}
+I had no idea you liked this{b}
+kind of stuff,{wait: 8} Mr. Wright.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1792}{person: 7 180 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Well, what else is there{b}
+to do when you're stuck in{b}
+bed?{p}
+Besides, the episodes will{b}
+just keep piling up if I don't{b}
+keep up, you know?{nextpage_button}{name: 1024}{speed: 4}
+Um...{wait: 20} yeah.{b}{color: 2}
+(Try not buying them.){color: 0}{nextpage_button}{person: 7 184 183}{name: 1792}{speed: 3}
+Now's the only time I get to{b}
+watch and write up my reports.{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Your...{wait: 16} reports?{nextpage_button}{person: 7 180 179}{name: 1792}{speed: 3}
+It's a long story.{wait: 20} Like a{b}
+lot of things,{wait: 8} actually.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{person: 0 0 0}{name: 1024}This looks like a child's toy{b}
+piano.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 7 179 179}{wait: 16}{hidetextbox: 0}{name: 1792}{person: 7 180 179}
+Gotta practice.{wait: 20} Wouldn't want{b}
+my fingers to get stiff.{p}{name: 1792}
+A pro always keeps his weapon{b}
+close at hand.{p}{person: 7 178 177}
+Shall I play you a tune?{p}{name: 1024}{person: 7 181 181}
+Uh...{wait: 14} no thanks.{p}{name: 1792}{person: 7 184 183}
+Ah,{wait: 8} how unfortunate.{wait: 15} I so{b}
+rarely get a chance to play.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{person: 0 0 0}{name: 1024}A swaying,{wait: 8} spiraling stack{b}
+of DVD cases.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 7 179 179}{wait: 16}{hidetextbox: 0}{name: 1024}{person: 7 179 179}{speed: 4}
+"The Steel Samurai",{wait: 20}{b}
+"The Nickel Samurai"...{p}
+"The Pink Princess",{wait: 20}{b}
+"The Zappy Samurai: Electric{b}
+Bugaboo"...{nextpage_button}{speed: 3}
+They're all children's action{b}
+hero shows...{nextpage_button}{name: 1792}{person: 7 182 181}
+This "kid" I know keeps{b}
+sending them to me.{p}{name: 1024}{person: 7 181 181}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 8}
+Huh.{wait: 16}{b}{speed: 3}
+Like a niece or nephew?{p}{name: 1792}{person: 7 184 183}
+...{wait: 16}Something like that.{p}{person: 7 181 181}{name: 1024}{speed: 4}
+Quite the collection.{wait: 16} {speed: 3}This{b}
+kid's parents must be really{b}
+generous with their allowance.{nextpage_button}{color: 2}
+(Funny,{wait: 8} Mr. Wright doesn't{b}
+seem the type that kids{b}
+would like.){color: 0}{nextpage_button}{personvanish: 4 1}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{person: 0 0 0}{name: 1024}Mr. Wright's bed...{wait: 16} It's{b}
+really messy.{nextpage_button}{name: 1280}{person: 5 91 90}{sound: 27 1}{shake: 30 1}{speed: 2}
+Look how messy this is!{p}{person: 5 96 95}{speed: 3}
+You're just hopeless without{b}
+me,{wait: 8} aren't you,{wait: 8} Daddy?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 0}{name: 1024}{color: 2}
+(Yikes!{wait: 12} She's attempting{b}
+to clean up!{wait: 15} Look out!){nextpage_button}{color: 0}{name: 1792}{person: 7 191 191}{bgcolor: 2305 8 31}{shake: 30 0}
+Ah ha ha.{wait: 12}{person: 7 180 179} You got me.{wait: 15} What can{b}
+I say?{wait: 20} I was raised in a barn.{p}{person: 7 188 187}
+Try not to let word get out,{wait: 8}{b}
+Apollo. If you don't mind.{p}{name: 1024}{person: 7 187 187}{color: 2}
+(Yeah,{wait: 8} it might ruin your{b}
+illustrious career pretending{b}
+to play the piano.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{person: 5 90 90}{name: 1280}{person: 5 91 90}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}Aaaah!{wait: 16} Daddy!{wait: 20} You snuck some{b}
+grape juice in again!?{p}{speed: 3}
+The doctor said you weren't{b}
+supposed to drink that here!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 178 177}{name: 1792}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Trucy.{wait: 16}{b}
+Look at the label.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 85 85}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 8}
+...{wait: 30}{b}{person: 5 72 69}{speed: 4}
+Oh.{p}{person: 5 68 67}{speed: 3}
+"Deep Sea Mineral Water".{wait: 16}{b}
+That's fine,{wait: 16} I guess.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 182 181}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+I switched the labels.{wait: 16} Don't{b}
+tell Trucy,{wait: 8} 'kay?{p}{name: 1024}{person: 7 181 181}{speed: 4}{color: 2}
+(What can I say,{wait: 8} the man{b}
+loves his grape juice.){speed: 255}{nextpage_button}{personvanish: 4 1}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{person: 7 183 183}{name: 1024}{hidetextbox: 0}So...{wait: 15} what happened?{p}{person: 7 180 179}{name: 1792}{speed: 6}
+...{wait: 20}{speed: 3}Who could have imagined it?{wait: 12}{p}{person: 7 182 181}{speed: 3}
+Me,{wait: 12} victim of a hit and run...{nextpage_button}{person: 7 181 181}{name: 1024}{speed: 5}
+A hit and...{wait: 10} {speed: 3}You were hit by{b}
+a car!?{p}{person: 7 184 183}{name: 1792}{speed: 3}
+Oh,{wait: 16} he tried to swerve,{wait: 8}{b}
+I'll give him that.{p}{speed: 4}
+Picture me tossed thirty feet{b}
+through the air...{p}{person: 7 182 181}{speed: 3}
+...only stopping when my{b}
+head hit that telephone pole.{p}{person: 7 181 181}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+You hit a telephone pole with{b}
+your head!?{wait: 12} Are you OK!?{p}{person: 7 180 179}{name: 1792}{speed: 3}
+Thankfully,{wait: 12} my only injury was{b}
+a sprained ankle.{nextpage_button}{person: 7 179 179}{name: 1024}{speed: 4}{color: 2}
+(He really is as lucky as{b}
+they say...){color: 0}{p}{speed: 255}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{person: 7 179 179}{name: 1024}{hidetextbox: 0}There's something that,{wait: 12} well,{wait: 8}{b}
+it just doesn't sit right.{p}
+I just can't believe you have{b}
+a daughter,{wait: 12} Mr. Wright!{p}{speed: 5}
+And...{wait: 20} {hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 67 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}she's so {sound: 52 1}{bgcolor: 2305 8 31}big!{wait: 15}{speed: 4} Not fat,{wait: 8}{b}
+but,{wait: 8} er,{wait: 8} you know what I mean.{p}{speed: 255}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 182 181}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+Oh,{wait: 8} Trucy's still a child.{wait: 20}{nextpage_button}{person: 5 91 90}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Daddy!{b}
+How many times do I have{b}
+to remind you!{p}
+I'm not a{bgcolor: 2305 8 31}{shake: 30 1} child anymore!{nextpage_button}{person: 7 191 191}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Ah{wait: 5} ha{wait: 5} ha!{wait: 8}{b}{person: 7 180 179}{speed: 3}
+But you'll always be Daddy's{b}
+little baby girl to me, Trucy.{p}{person: 7 179 179}{name: 1024}{speed: 4}{color: 2}
+(Ah ha ha,{wait: 8} my foot.{wait: 20} I'm{b}
+not buying it.){color: 0}{p}{person: 7 182 181}{name: 1792}{speed: 3}
+Oh,{wait: 12} something you should know{b}
+about Trucy...{p}{person: 7 181 181}{name: 1024}{speed: 3}
+She's a magician,{wait: 8} right?{wait: 20}{b}
+She told me.{p}{person: 7 182 181}{name: 1792}
+Not a mere stage magician...{wait_noanim: 30}{b}{person: 7 188 187}{speed: 4}
+She's a genius.{speed: 255}{nextpage_button}{person: 5 74 73}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Tee hee!{wait: 20} Aw,{wait: 8} Daddy!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 182 181}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{speed: 5}
+You'll soon come to appreciate{b}
+her{wait: 6} "talent".{p}{name: 1024}{person: 7 181 181}{speed: 4}
+You could just tell me things{b}
+instead of insinuating them.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{person: 7 181 181}{name: 1024}{hidetextbox: 0}So,{wait: 8} why did you contact me?{p}{speed: 3}
+What could the{wait: 12} {speed: 5}{color: 1}Wright Talent{b}
+Agency{color: 0} {speed: 3}possibly want with me?{p}{person: 7 182 181}{name: 1792}
+No need to get prickly,{wait: 8} now.{nextpage_button}{name: 1024}{hidetextbox: 0}
+Hey,{wait: 12}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} I didn't ask to be{b}
+dragged in like this!{p}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Huh? But didn't you come into{b}
+the office of your own free{b}
+will anyway?{p}{person: 5 81 81}{name: 1024}
+Well,{wait: 12} yeah,{wait: 8} of course.{p}{speed: 2}
+"{color: 3}He{bgcolor: 2305 8 31}{shake: 30 1}lp!{wait: 20} We're in big trouble here{b}
+at the of{bgcolor: 2305 8 31}{shake: 30 1}fice!{wait: 20} Big!{color: 0}"{p}{speed: 3}
+...{wait: 12}I thought someone was{b}
+dying.{p}{person: 7 188 187}{name: 1792}
+So you don't think this is{b}
+big trouble?{p}{person: 7 178 177}
+My talent agency represents{b}
+only two people...{wait: 20} and one of{b}
+them is in the hospital.{p}{person: 5 84 83}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+That's right,{wait: 8} Daddy!{wait: 20} How are{b}
+we going to pay this month's{b}
+rent!? And the groc{shake: 30 1}eries!?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 184 183}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{speed: 4}
+Yeah...{wait: 12} That's the problem{b}
+with such a tight operation.{p}{person: 7 178 177}
+It's a symbiotic relationship.{wait: 12}{b}
+When one of us falls,{wait: 12} the{b}
+other,{wait: 8} too,{wait: 8} must fall...{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Hey! This isn't exactly a{b}
+suitable conversation to be{b}
+having with a 15 year old kid!{p}{person: 7 184 183}{name: 1792}{speed: 3}
+In any case,{wait: 20} {speed: 4}if Apollo here{b}
+can't help you...{p}{person: 7 182 181}
+...you'll have to transfer to{b}
+a new school.{wait: 20} Again.{nextpage_button}{person: 5 93 92}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+No!{wait: 10} I can't!{wait: 20} {speed: 5}I only just made{b}
+friends...{p}{person: 5 96 95}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+How could you do this to me...{wait: 12}{b}
+to us!?{wait: 20} Polly!{p}{person: 5 92 92}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Huh?{wait: 20} What?{wait: 20} Now it's my fault?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 180 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{speed: 3}
+On that note,{wait: 12} how about you{b}
+come work for us?{p}{person: 7 182 181}
+I've got the perfect client{b}
+for you already lined up.{p}{person: 7 181 181}{name: 1024}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+A...{wait: 15} A client?{p}{speed: 3}{color: 2}
+(You mean I get to do my job?{wait: 15}{b}{speed: 2}
+I get to defend in court!?){color: 0}{p}{speed: 5}
+...{wait: 20}Alright.{wait: 20} {speed: 3}I'll hear what{b}
+you have to say.{p}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+You got him,{wait: 12} Daddy!{wait: 20}{b}{speed: 3}
+Hook,{wait: 8} line,{wait: 8} and sinker!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 182 181}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+Ah ha.{wait: 20} Now it's time to reel{b}
+him in!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 73 73}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 5}{color: 2}
+(It's official: I'm scared.){0x23: 0}{music: 255 90}{color: 0}{speed: 255}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 181 181}{0x37: 9 0}{0x37: 10 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{0x51: 0 30}{fullscreen_text}ZZ{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{hidetextbox: 0}{speed: 2}Alright,{wait: 8} so who's the {color: 1}client{color: 0}?{p}{person: 7 182 181}{name: 1792}{speed: 5}
+Ah,{wait: 8} yes.{wait: 15}{speed: 4} Here,{wait: 12}{fademusic: 45}{showphoto: 25} take a look{b}
+at the map and I'll explain.{p}{bg: 93}{person: 0 0 0}{bganim: 98 579}{hidetextbox: 1}{fademusic: 0}{music: 4 0}{wait: 40}{name: 1792}{hidetextbox: 0}{speed: 4}
+Last night,{wait: 12} I left the office{b}
+just before nine o'clock{speed: 8}...{nextpage_button}{hidetextbox: 1}{littlesprite: 6145}{0x3a: 24 203 64}{0x6b: 203 126 120}{0x3b: 6148 0}{0x3d: 6144}{nextpage_nobutton}{0x6b: 112 160 120}{0x3b: 6148 0}{hidetextbox: 0}{speed: 4}
+I was going to that{wait: 12} Indochine{b}
+pasta joint,{wait: 6} Alden Tae's.{nextpage_button}{hidetextbox: 1}{0x3d: 6144}{0x6b: 116 100 120}{0x3b: 6148 0}{0x3d: 6144}{0x6b: 80 90 60}{0x3b: 6148 0}{name: 1792}{hidetextbox: 0}{speed: 3}
+I play piano there,{wait: 8} of course.{nextpage_button}{0x3d: 6144}{speed: 2}
+...{wait: 20}That's when it h{bgcolor: 2305 8 31}{wait: 3}{bgcolor: 2305 8 31}{wait: 3}appened!{p}{fademusic: 30}{hidetextbox: 1}{bgcolor: 513 0 31}{wait: 1}{littlesprite: 6144}{bg: 4095}{sound: 115 1}{bgcolor: 2305 8 31}{shake: 30 2}{bg: 126}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{name: 1792}{speed: 4}
+The car sent me flying,{wait: 8} nicked{b}
+a telephone pole...{p}{bg: 226}{person: 7 188 187}{speed: 3}
+...{wait: 20}and zoomed away.{wait: 20}{b}{speed: 5}
+Creepy,{wait: 10} huh?{p}{person: 7 179 179}{name: 1024}{speed: 4}
+Just a tad.{p}{speed: 3}
+It's almost as creepy as{b}
+hearing you tell the story{b}
+like it was no big deal.{nextpage_button}{speed: 255}{hidetextbox: 1}{person: 0 0 0}{bg: 93}{hidetextbox: 0}{name: 1792}
+The car sped off in this{b}
+direction...{p}{hidetextbox: 1}{littlesprite: 6913}{0x3c: 6913}{wait: 90}{0x3c: 6912}{littlesprite: 6912}{wait: 30}{bg: 226}{person: 7 190 189}{fademusic: 0}{music: 32 100}{hidetextbox: 0}{speed: 5}
+...{wait: 12}{speed: 3}So,{wait: 8} good luck!{p}{name: 1024}{person: 7 179 179}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+...{wait: 20}Huh?{p}{person: 7 182 181}{name: 1792}{speed: 4}
+You wanted a client,{wait: 12} didn't{b}
+you?{wait: 20} Well,{wait: 8} I'm your client!{p}{speed: 3}
+Find the guy who knocked me{b}
+into that telephone pole!{p}{person: 7 183 183}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Whoa,{wait: 8} hold on!{wait: 20} {speed: 3}I'm a defense{b}
+attorney,{wait: 12} not a detective!{p}{person: 7 184 183}{name: 1792}{speed: 6}
+Don't worry.{wait: 20} {speed: 4}Once you've found{b}
+the guy,{wait: 10} I intend to sue him.{p}{person: 7 180 179}
+Then you can stick it to him{b}
+in court!{p}{person: 7 179 179}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+...{wait: 12}I'm not a prosecutor{b}
+either!{p}{speed: 3}
+I'm sorry,{wait: 8} but...{wait: 14} this is{b}
+crazy.{wait: 20}{bgcolor: 2305 8 31}{shake: 30 0} I'm going home.{0x35: 9729 @RelativeAddress0}{rejmp: 129}{endjmp}{endjmp}{@RelativeAddress0}{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{name: 1792}{showphoto: 7}{person: 7 184 183}What's that?{wait: 12} Looks strangely{b}
+familiar...{p}{name: 1024}{person: 7 183 183}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+How could you not recognize{b}
+an attorney's badge!?{p}{person: 7 188 187}{name: 1792}
+It's been seven years.{wait: 16} I've{b}
+forgotten...{wait: 14} a lot of things.{nextpage_button}{bganim: 98 579}{name: 1024}{person: 7 187 187}{color: 2}
+(I guess some seven years{b}
+are longer than others.){p}
+l{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{name: 1792}{person: 7 182 181}{showphoto: 53}I've marked the location of{b}
+the accident on your map.{p}{removephoto}
+Find the criminal who knocked{b}
+me into that telephone pole!{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 15{b}
+Hickfield Clinic{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{name: 1024}{person: 0 0 0}{sound: 52 1}{bgcolor: 2305 8 31}
+Huh?{wait: 16} Mr. Wright's gone.{p}{hidetextbox: 1}{person: 5 67 67}{personvanish: 3 1}{name: 1280}{person: 5 68 67}{hidetextbox: 0}
+Maybe he's gone for an{b}
+examination?{p}{name: 1024}{person: 5 67 67}
+He'll probably be back soon.{wait: 16}{b}
+Let's wait.{p}{name: 1280}{person: 5 76 75}
+I think it might take some{b}
+time.{p}{person: 5 74 73}{sound: 52 1}{bgcolor: 2305 8 31}
+Daddy always loves his{b}
+examinations!{p}{name: 1024}{person: 5 73 73}{speed: 5}{color: 2}
+(Don't ask,{wait: 8} Justice.{wait: 15} You don't{b}
+want to know.){p}{color: 0}{name: 1280}{person: 5 68 67}
+Why don't we come back later?{p}{name: 1024}{person: 5 67 67}
+Yeah,{wait: 8} I guess you're right.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{0x10: 32807}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{name: 1024}{person: 0 0 0}The television's been left{b}
+on...{wait: 20} to an episode of the{b}
+Steel Samurai.{p}
+That's the same episode as{b}
+before.{wait: 20} Must be his favorite.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{name: 1024}A small, children's piano.{p}
+I guess the man likes pink.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{person: 0 0 0}{name: 1024}A swaying,{wait: 8} spiraling stack{b}
+of DVD cases.{p}
+It looks ready to collapse.{b}
+Better keep my distance.{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{name: 1024}Mr. Wright's bed.{b}
+Wow,{wait: 8} what a mess.{p}
+Trucy must be in charge of{b}
+cleaning at home.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{name: 1024}A bottle of Mr. Wright's{b}
+favorite brand of grape juice.{p}
+After that trial,{wait: 8} I'll never{b}
+drink grape juice again.{nextpage_button}
+Clearly not a problem for{b}
+Mr. Wright,{wait: 8} however.{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 15{b}
+Hickfield Clinic{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{personvanish: 3 1}{person: 7 189 189}{wait: 16}{name: 1792}{person: 7 190 189}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}
+Yo!{wait: 12} How goes it?{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Daddy!{wait: 16}{b}{speed: 3}
+How do you feel?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 190 189}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{speed: 3}
+Not bad,{wait: 8} Trucy,{wait: 8} not bad.{p}{person: 7 188 187}
+It's good to have you{b}
+young'uns on the case.{p}{person: 7 178 177}
+Lets ol' Daddy-o get some{b}
+well-deserved R&R.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 74 73}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+The elderly need their rest!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 181 181}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{color: 2}
+(Uh...{wait: 16} {speed: 4}isn't he only 33?){color: 0}{p}{person: 7 179 179}{speed: 3}
+...{wait: 16}Um,{wait: 10} we've cleared up most{b}
+of the cases...{p}{person: 7 180 179}{name: 1792}{speed: 4}
+I was right about you.{wait: 20}{b}{speed: 3}
+Competent.{wait: 20} Capable.{p}{person: 7 184 183}
+Tell me what you found out.{b}
+If you want to.{nextpage_button}{person: 7 183 183}{name: 1024}{speed: 4}{color: 2}
+(Your enthusiasm is{b}
+over-whelming...){color: 0}{nextpage_button}{fademusic: 0}{music: 32 0}{speed: 255}{0x10: 32838}{0x37: 10 0}{0x37: 11 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 190 189}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{fademusic: 60}{speed: 4}...{wait: 20}Thanks,{wait: 12} really.{p}{person: 7 180 179}{speed: 3}
+If I get tired of sleeping,{wait: 8}{b}
+maybe I'll head down to{b}
+this Meraktis place.{p}{person: 7 178 177}
+Maybe hit 'em up for some{b}
+reparations...{wait: 20} A little legal{b}
+action would do me some good.{p}{person: 7 181 181}{name: 1024}{speed: 5}
+Um...{wait: 12} {speed: 3}I was wondering when{b}
+I get paid?{p}
+We solved the case of your{b}
+accident,{wait: 8} and um,{wait: 6} found a{wait: 6}{b}
+missing article of clothing.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+My panties!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 180 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{speed: 3}
+That leaves the noodle stand.{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Eh.{nextpage_button}{person: 7 182 181}{name: 1792}
+Feel free to drop in if you{b}
+get stuck.{p}{person: 7 178 177}
+I'd be happy to help with{b}
+anything not involving money.{nextpage_button}{person: 7 187 187}{name: 1024}{speed: 4}{color: 2}
+(Good-bye,{wait: 14} quid pro quo.{wait: 20}{b}
+Hello pro bono.{wait: 20} *sigh*){color: 0}{p}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+Right!{wait: 20} {speed: 3}Back to the office to{b}
+plan our next move!{nextpage_button}{0x23: 0}{music: 255 90}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{0x10: 32839}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{person: 7 182 181}{name: 1792}{hidetextbox: 0}Well,{wait: 8} I certainly didn't{b}
+expect you back this early.{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Polly's amazing!{p}{person: 5 68 67}{speed: 3}
+He found my panties so quick!{p}{person: 5 74 73}
+Almost like he was the one{b}
+who stole them!{nextpage_button}{person: 5 73 73}{name: 1024}{speed: 4}
+...{wait: 20}You have an interesting{b}
+concept of praise.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 184 183}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+...{wait: 20}And?{wait: 20}{p}{speed: 3}
+Did you find the mad driver{b}
+who gave me that 30-foot toss?{nextpage_button}{person: 7 181 181}{name: 1024}
+Apparently{speed: 8}...{wait: 8} {speed: 3}it was a doctor.{wait: 16}{b}
+From the Meraktis Clinic.{p}{person: 7 188 187}{name: 1792}{speed: 5}
+Hmm{speed: 8}...{wait: 12} {speed: 3}Meraktis,{wait: 8} eh?{wait_noanim: 25}{b}{person: 7 184 183}
+I've heard of him.{p}
+Nothing good,{wait: 8} mind you.{wait: 20}{nextpage_button}{person: 7 179 179}{name: 1024}{speed: 3}
+That reminds me,{wait: 8} a police car{b}
+was parked outside the clinic.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+Maybe something happened?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}
+What is this {color: 1}Meraktis Clinic{color: 0}{b}
+anyway?{wait: 8}{0x10: 32840}{0x51: 0 53}{18688}{1382}{0x35: 18944 @RelativeAddress1}{0x35: 18177 @RelativeAddress2}{rejmp: 148}{endjmp}{endjmp}{@RelativeAddress1}{@RelativeAddress2}{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{person: 7 184 183}{name: 1792}{hidetextbox: 0}All I've heard are the rumors.{wait: 16}{p}{person: 7 180 179}
+That clinic's been making{b}
+good money{wait_noanim: 25}{person: 7 182 181}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}...{wait: 20} in a bad way.{nextpage_button}{person: 7 181 181}{name: 1024}{speed: 5}
+Bad...?{p}{person: 7 182 181}{name: 1792}{speed: 3}
+Ties to organized crime...{wait: 20}{b}
+The Kentucky Family.{nextpage_button}{person: 7 183 183}{name: 1024}{speed: 4}
+Um...{wait: 20} the Kitaki Family?{wait: 20}{b}{speed: 3}{color: 2}
+(He did that on purpose!){color: 0}{p}{person: 7 188 187}{name: 1792}
+Some injuries you can't take{b}
+to a public hospital,{wait: 8} see.{p}{person: 7 184 183}
+They use the Meraktis Clinic{b}
+for their patch-up jobs.{nextpage_button}{person: 7 183 183}{name: 1024}
+Interesting{speed: 8}...{nextpage_button}{0x10: 32841}{0x51: 0 53}
+{18432}{844}{0x35: 18944 @RelativeAddress3}{0x35: 18177 @RelativeAddress4}{jmp: 148}{endjmp}{endjmp}{@RelativeAddress3}{@RelativeAddress4}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{hidetextbox: 0}{speed: 4}It looked like something had{b}
+happened in that park.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 182 181}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+Ah.{wait_noanim: 25}{person: 7 178 177}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4} A body was found there in{b}
+unusual circumstances...{nextpage_button}{name: 1024}{speed: 3}
+Something more unusual than{wait: 25}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+being dead?{p}{person: 7 184 183}{name: 1792}{speed: 3}
+...{wait: 16}It's not our concern,{wait: 8}{b}
+in any case.{nextpage_button}{person: 5 96 95}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Right!{wait: 12} Let's ignore that and{b}
+find that noodle stand!{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 4}{color: 2}
+(What ever happened to{b}
+professional curiosity?){speed: 255}{color: 0}{0x10: 32842}{0x51: 0 53}{18432}{850}{0x35: 18688 @RelativeAddress5}{0x35: 18177 @RelativeAddress6}{rejmp: 148}{endjmp}{endjmp}{@RelativeAddress5}{@RelativeAddress6}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{24}}
+{bop}{name: 1792}{person: 7 180 179}{showphoto: 54}{speed: 3}So this was the thing that{b}
+led you to the car.{p}{name: 1024}{person: 7 179 179}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yes, sir! The mirror you{b}
+knocked off was just the{b}
+clue we needed!{nextpage_button}{bganim: 98 579}{name: 1792}{person: 7 182 181}{speed: 3}
+Good work,{wait: 8} Apollo.{wait: 16} Of course{b}{person: 7 188 187}
+you might say...{p}{person: 7 178 177}
+...{wait: 20}I was the one who made{b}
+solving that case possible.{p}{name: 1024}{person: 7 191 191}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}{color: 2}
+(...{wait: 20}You don't get points for{b}
+knocking off a car mirror.){speed: 255}{color: 0}{nextpage_button}{person: 7 177 177}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{25}}
+{bop}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Look!{wait: 20} My panties!{wait: 20} They came{b}
+home to mama!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1792}{person: 7 190 189}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Thanks,{wait: 8} Apollo.{p}
+I was worried about them, too.{b}{person: 7 180 179}
+Trucy special ordered those...{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(A startling display of{b}
+parental concern!){color: 0}{p}{person: 7 184 183}{name: 1792}
+I'd hate to have to buy a{b}
+new pair{speed: 6}{0x5a}...{wait: 10} {speed: 3}*shudder*{nextpage_button}{person: 7 183 183}{name: 1024}{color: 2}
+(Make that a not-so-startling{b}
+display of cheapskatedness.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{26}}
+{bop}{name: 1792}{person: 7 183 183}{speed: 5}...{p}{name: 1024}{speed: 3}{color: 2}
+(It's actually a relief to be{b}
+so thoroughly ignored.){color: 0}{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{27}}
+{bop}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 15{b}
+Hickfield Clinic{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{person: 0 0 0}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}
+Huh...?{wait: 20} Where's Mr. Wright?{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{name: 1280}{person: 5 68 67}{hidetextbox: 0}
+Maybe he's getting an{b}
+examination again?{p}{name: 1024}{person: 5 67 67}
+How many does he need!?{wait: 20}{b}{color: 2}
+(Wasn't it just a sprain?){color: 0}{p}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Too bad,{wait: 12} Polly!{p}{person: 5 74 73}{speed: 3}
+You wanted to show off your{b}
+request to Daddy,{wait: 8} didn't you!{p}{name: 1024}{person: 5 73 73}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+What?{wait: 16} Me?{wait: 16} No!{wait: 20}{p}{name: 1280}{person: 5 74 73}{speed: 4}
+Oh?{wait: 16} That's a surprise.{p}{name: 1024}{person: 5 67 67}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+L-{wait: 8}Let's just come back{b}
+later,{wait: 8} shall we?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{0x10: 32851}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{28}}
+{bop}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 15{b}
+Hickfield Clinic{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{personvanish: 3 1}{person: 7 179 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{person: 7 180 179}{hidetextbox: 0}
+Ah,{wait: 12} you're back!{wait: 20}{b}
+Run into some problems?{p}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}
+Oh,{wait: 8} Polly,{wait: 8} didn't you want{b}
+to tell Daddy something?{p}{name: 1024}{person: 5 69 69}
+Who?{wait: 16} Me?{wait: 16} No!{wait: 20}{b}
+I'm fine.{wait: 20} Really.{p}{name: 1792}{person: 7 178 177}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+What's this?{wait: 16} So there is{b}
+a problem?{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+No,{wait: 8} no problem.{wait: 16} Actually,{wait: 8}{b}
+I got a defense request.{p}{name: 1792}{person: 7 178 177}{speed: 4}
+A defense request!{wait_noanim: 25}{person: 7 184 183} That is{b}
+a problem.{p}{name: 1024}{person: 7 183 183}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Huh...?{p}{name: 1792}{person: 7 178 177}
+I've given up the court.{wait: 16}{b}
+I'm not a lawyer anymore.{p}{name: 1024}{person: 7 179 179}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait: 35}{b}{sound: 27 1}{shake: 30 2}{speed: 2}
+The request was for me!{p}{name: 1792}{person: 7 188 187}{speed: 3}
+Oh,{wait: 8} right.{wait_noanim: 20}{person: 7 191 191} You're a lawyer,{b}
+aren't you?{nextpage_button}{person: 7 179 179}{name: 1024}{speed: 2}{color: 2}
+(He's doing that on{b}{bgcolor: 2305 8 31}{shake: 30 0}
+purpose!{wait: 20} I know it!){color: 0}{p}{fademusic: 0}{music: 32 0}{0x10: 32852}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{29}}
+{bop}{name: 1792}{person: 7 184 183}{fademusic: 60}{speed: 4}...{wait: 12}Now, what was the problem{b}
+again?{p}{person: 7 178 177}{speed: 3}
+Having trouble investigating{b}
+the crime scene in the park?{p}{name: 1280}{person: 5 91 90}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yeah.{wait: 16} That detective woman{b}
+won't let us!{p}{person: 7 188 187}{name: 1792}{speed: 4}
+...{wait: 12}Go to the office.{wait: 15} Under the{b}
+silk top hat you'll find a{b}
+bottle of {color: 1}white powder{color: 0}.{p}{person: 7 184 183}{speed: 3}
+Try taking that to this{b}
+detective.{p}{person: 7 181 181}{name: 1024}{speed: 5}
+"White powder"{speed: 8}...?{wait: 20}{b}{speed: 4}{color: 2}
+(I hope it's not what I{b}
+think it is.){color: 0}{p}{person: 7 178 177}{name: 1792}{speed: 3}
+Just take it to her.{wait: 20} It'll be{b}
+fine,{wait: 8} you'll see.{nextpage_button}{person: 7 180 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+Oh,{wait: 8} and tell her I said hi.{nextpage_button}{0x23: 0}{music: 255 90}{0x10: 32853}{0x37: 29 0}{0x37: 3 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{30}}
+{bop}{person: 7 179 179}{name: 1792}{person: 7 180 179}{hidetextbox: 0}So,{wait: 6} what about this defense{b}
+request?{p}{name: 1024}{person: 7 179 179}
+It's related to the murder{b}
+in People Park,{wait: 8} actually.{p}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Guess what!{wait: 20} We found{b}
+Mr. Eldoon's noodle stand{b}
+at the scene of the crime!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1792}{person: 7 188 187}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Did you now.{wait: 20} {speed: 3}That's unusual{b}
+indeed.{p}
+Never heard of a noodle stand{wait_noanim: 40}{b}{person: 7 182 181}
+being used as a murder weapon.{nextpage_button}{name: 1024}
+...{wait: 20}Uh,{wait: 16} I think the murder{b}
+weapon was something else.{p}{name: 1792}{person: 7 180 179}{speed: 3}
+You mean you don't know what{b}
+the murder weapon was?{p}{name: 1280}{person: 5 91 90}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+That funny detective lady{b}
+won't let us on the scene!{p}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+What kind of detective wears a{b}
+lab coat,{wait: 8} anyway!?{p}{name: 1792}{person: 7 184 183}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+A lab coat?{wait: 20} Hmm.{wait_noanim: 30}{person: 7 182 181}{speed: 4} Didn't think{b}
+she'd be involved with this...{p}{name: 1024}{person: 7 181 181}{speed: 3}
+...{wait: 20}You know her?{p}{name: 1792}{person: 7 188 187}
+You could say that.{p}{0x51: 0 53}
+{24833}{1484}{0x10: 32865}{0x37: 25 0}{0x37: 26 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{31}}
+{bop}{person: 7 179 179}{name: 1024}{hidetextbox: 0}So...{wait: 20} {speed: 4}you know her,{wait: 12} don't you?{p}{person: 7 188 187}{name: 1792}{speed: 3}
+I met her on a case...{wait: 20} this{b}
+was about ten years ago.{p}
+She was still a high school{b}
+student at the time.{nextpage_button}{name: 1024}{color: 2}
+(That would make her about the{b}
+same age as me!){color: 0}{p}{name: 1280}{person: 5 74 73}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+That's my daddy!{wait: 16} He knows{b}
+all the police types.{p}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}
+Oh,{wait: 8} wait!{wait_noanim: 20}{person: 5 76 75}{speed: 4} Maybe you know{b}
+that other guy,{wait: 8} too!{p}{name: 1024}{person: 5 75 75}{speed: 5}
+That other guy...?{p}{person: 5 68 67}{name: 1280}{speed: 2}
+That shining{wait: 6} prince{wait: 6} on the{wait_noanim: 20}{b}{person: 5 96 95}
+motorcycle!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1792}{person: 7 184 183}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 8}
+...{wait: 16}{speed: 3}Prince?{nextpage_button}{0x51: 0 53}
+{25089}{970}{0x10: 32866}{0x37: 26 0}{0x37: 27 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{32}}
+{bop}{name: 1792}{person: 7 180 179}{hidetextbox: 0}Apollo.{wait: 16} Tell me about this{wait: 6}{b}
+"prince"{wait: 6} of Trucy's.{p}{person: 7 182 181}
+Indulge a concerned father...{p}{name: 1024}{person: 7 181 181}
+He was at the crime scene...{wait: 20}{b}{speed: 4}
+He looked just like Mr. Gavin!{p}{name: 1792}{person: 7 187 187}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait_noanim: 30}{b}{person: 7 188 187}{speed: 4}
+Did he now.{p}{name: 1024}{person: 7 187 187}
+...{wait: 20}You know him?{p}{name: 1792}{person: 7 188 187}{speed: 3}
+My guess is he's Kristoph{b}
+Gavin's {wait_noanim: 20}{person: 7 182 181}{sound: 52 1}{bgcolor: 2305 8 31}younger brother...{p}{name: 1024}{person: 7 181 181}{speed: 3}
+His brother!?{p}{name: 1792}{person: 7 184 183}
+We're acquaintances,{wait: 8} after{b}
+a fashion.{p}
+Klavier Gavin...{wait_noanim: 30}{person: 7 182 181} rock 'n'{b}
+roll god incarnate.{nextpage_button}{0x19: 32800 33}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Klavier...{wait_noanim: 20}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0} What a lovely name!{b}{speed: 3}
+He's so dreamy!{p}{name: 1024}{person: 7 183 183}{speed: 4}{color: 2}
+(I didn't know Mr. Gavin had{b}
+a brother!){p}{speed: 5}
+(And what was he doing out{b}
+there?){color: 0}{p}{name: 1792}{person: 7 182 181}{speed: 3}
+I have a feeling you'll be{b}
+crossing paths again soon.{p}{0x51: 0 53}
+{21761}{1340}{jmp: 157}{endjmp}{endjmp}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{33}}
+{bop}{name: 1792}{person: 7 183 183}{speed: 5}...{p}{name: 1024}{speed: 3}{color: 2}
+(It's actually a relief to be{b}
+so thoroughly ignored.){color: 0}{p}{hidetextbox: 3}{special_jmp}{endjmp}

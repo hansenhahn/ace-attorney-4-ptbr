@@ -1,0 +1,374 @@
+
+
+{{0}}
+{bop}{0x62: 1 1}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 276 276}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 3 11 2 93 1 1 3}{b}
+-- That Fateful Night --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{person: 12 277 276}{name: 3072}{fademusic: 0}{music: 2 0}{speed: 3}
+That night,{wait: 10} customer asked{b}
+me to deal cards for game.{p}{speed: 4}
+It was cold...{wait: 20}{speed: 3} Both players{b}
+played with hats on,{wait: 10} dah.{p}{bg: 27}{person: 12 282 281}
+The victim,{wait: 10} he plays{b}
+whole time with his hand on{b}
+locket at his neck.{p}{speed: 3}
+Then,{wait: 10} last hand is done!{wait_noanim: 30}{b}{person: 12 277 276}{speed: 5}
+But something terrible has{b}
+happened,{wait: 10} dah!{p}{person: 12 277 276}{speed: 3}
+That man flew at victim,{wait: 18}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} and{b}
+is strangling him to death!{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{endjmp}
+
+{{1}}
+{bop}{bg: 29}{person: 10 266 266}{name: 2560}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{speed: 6}Hmm...{p}{person: 10 259 258}{speed: 3}
+Incidentally,{wait: 12} who won the{b}
+game?{p}{bg: 26}{person: 11 268 267}{name: 2816}{speed: 4}
+Isn't it obvious?{wait: 15}{b}
+The winner was the victim...{wait: 10}{showphoto: 6}{b}{sound: 52 1}{bgcolor: 2305 8 31}
+Mr. Smith!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 2}
+That's ridiculous!{wait_noanim: 25}{b}{person: 4 59 58}{speed: 5}
+Um,{wait: 10} because...{p}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{person: 4 64 65}{speed: 2}
+Because Mr. Wright {bgcolor: 2305 8 31}can't lose!{nextpage_button}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 4}
+Ahem.{wait: 12} Justice?{nextpage_button}{person: 8 222 221}{speed: 3}
+Maybe you can come up with{b}
+a more legitimate objection?{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+But!{wait: 15}{b}
+He hadn't lost in {bgcolor: 2305 8 31}{shake: 30 0}seven years!{p}{bg: 26}{person: 11 272 271}{name: 2816}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+Take it from me kid.{wait: 10}{b}
+It happens.{wait_noanim: 60}{nextpage_nobutton}{person: 11 272 271}
+I didn't lose a case my first{b}
+seven years as prosecutor,{wait: 20}{b}{person: 11 272 271}
+either.{p}{bg: 26}{name: 2816}{speed: 5}
+Incidentally.{wait_noanim: 30}{b}{showphoto: 25}{person: 11 268 267}{speed: 3}
+I have some evidence here.{nextpage_button}{hidetextbox: 1}{removephoto}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 104}{person: 0 0 0}{bgcolor: 260 1 31}{wait: 25}{fademusic: 0}{music: 4 0}{wait: 80}{name: 2816}{hidetextbox: 0}{speed: 3}
+These are the poker chips as{b}
+they lay the very moment of{b}
+the crime.{p}{hidetextbox: 1}{bg: 104}{person: 0 0 0}{wait: 40}{bg: 113}{wait: 30}{hidetextbox: 0}{name: 2816}{speed: 3}
+The hand and chips on this{b}
+side belong to the defendant,{wait: 10}{b}
+Mr. Wright.{p}{hidetextbox: 1}{wait: 40}{bg: 112}{wait: 20}{hidetextbox: 0}
+Those on the far side belonged{b}
+to the victim,{wait: 10} Mr. Smith.{p}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 6}
+Chips{speed: 8}...{wait: 20}{speed: 5} you say?{p}{bg: 26}{person: 11 272 271}{name: 2816}{speed: 4}
+Dah.{wait_noanim: 35}{person: 11 268 267}{speed: 2} I mean yes!{wait: 20} {speed: 3}Imagine that{b}
+poker is war...{p}
+Your hand is your army,{wait: 10} and{b}
+the {color: 1}chips{color: 0} are the spoils.{p}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I-{wait: 8}I know that.{wait: 20}{speed: 5} After all,{wait: 10} in{b}
+my youth I was known as{speed: 8}...{wait_noanim: 40}{nextpage_nobutton}{person: 10 263 262}{bgcolor: 2305 8 31}{shake: 30 1}{sound: 26 1}{speed: 2}
+...the "{bgcolor: 2305 8 31}Poker Head of{b}
+Courtroom {bgcolor: 2305 8 31}No. 3"!{p}{bg: 25}{person: 4 36 36}{name: 1024}{speed: 3}{color: 2}
+(I think he means{wait: 12} "poker{b}
+face"...){color: 0}{p}{speed: 255}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 6}
+Hmm...{wait: 12}{b}{person: 10 263 262}{speed: 4}
+Looking at this picture...{p}{bg: 104}{person: 0 0 0}{speed: 3}
+...it does seem that most of{b}
+the chips are{bg: 112} on the {color: 1}victim's{color: 0}{b}
+side of the table.{p}{bg: 29}{person: 10 262 262}{newevidence: 16398}{name: 0}{color: 2}{speed: 4}
+Chip Photo added to{b}
+the Court Record.{nextpage_button}{speed: 255}{color: 0}{bg: 29}{person: 10 259 258}{name: 2560}
+Very well.{wait: 20} The defense may{b}
+cross-examine the witness.{nextpage_button}{fademusic: 45}{endjmp}
+
+{{2}}
+{bop}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 12 276 276}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 136}{center_text: 1}{speed: 2}{b}{color: 1}
+-- That Fateful Night --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 138 0}{lifebar: 3}{0x53}{person: 12 277 276}{name: 3072}{hidetextbox: 0}{color: 3}That night, customer asked{b}
+me to deal cards for game.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 131}{lifebar: 3}{0x53}{person: 12 277 276}{name: 3072}{hidetextbox: 0}{color: 3}It was cold... Both players{b}
+played with hats on, dah.{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 132}{lifebar: 4}{0x53}{person: 12 282 281}{name: 3072}{hidetextbox: 0}{color: 3}The victim, he plays{b}
+whole time with his hand on{b}
+locket at his neck.{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 141 1}{lifebarset: 0 133}{lifebar: 4}{0x53}{0x2a: 0 4 137}{0x87}{person: 12 282 281}{name: 3072}{hidetextbox: 0}{color: 3}Then, last hand is done!{b}{person: 12 277 276}
+But something terrible has{b}
+happened, dah!{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{testimony_box: 142 1}{lifebarset: 0 134}{lifebar: 3}{0x53}{person: 12 277 276}{name: 3072}{hidetextbox: 0}{color: 3}That man flew at victim, and{b}
+is strangling him to death!{color: 0}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 28}{person: 8 220 219}{name: 2048}{hidetextbox: 0}{speed: 5}Go ahead.{wait: 15} I believe you know{b}
+what it is you need to do.{p}{person: 8 219 219}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Right,{wait: 8} sir!{wait: 18} {speed: 3}Leave it to me!{p}{bg: 25}{person: 4 40 40}{name: 1024}{color: 2}
+(There were only three people{b}
+in the room at the time of{b}
+the murder.){p}
+(The victim,{wait: 10} Shadi Smith,{wait: 12}{b}
+Mr. Wright,{wait: 8}{speed: 5} and...){p}{person: 4 58 58}
+(And if Mr. Wright{speed: 6} isn't{b}
+the killer...){nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 281}{wait: 32}{person: 12 281 281}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+(I've got you now,{wait: 10} Orly!){color: 0}{p}{speed: 255}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 276 276}{name: 3072}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{9}}
+{bop}{testimony_box: 143 0}{lifebarset: 0 134}{lifebar: 3}{0x53}{jmp: 136}{person: 12 277 276}{name: 3072}{hidetextbox: 0}{color: 3}After defendant tried to{b}
+strangle victim, he hit him{b}
+with bottle.{color: 0}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 4}You were dealing cards...{wait: 15}{b}{speed: 3}
+Do you do this often?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 281}{wait: 32}{person: 12 282 281}{name: 3072}{hidetextbox: 0}
+Dah,{wait: 12} I am doing this.{nextpage_button}{person: 12 277 276}{speed: 3}
+If customer wishes it,{wait: 10} I{b}
+serve anything.{wait: 20} Borscht,{wait: 10}{b}
+cards,{wait: 10} more borscht...{p}{hidetextbox: 1}{person: 12 278 279}{0x63}{person: 12 280 279}{hidetextbox: 0}{speed: 4}
+It is my work.{nextpage_button}{hidetextbox: 1}{bg: 29}{person: 10 260 260}{0x63}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+It's good to hear of a{b}
+place that hasn't forgotten{b}
+the meaning of service!{p}{bg: 27}{person: 12 280 279}{showphoto: 279}{name: 3072}{hidetextbox: 0}
+Welcome you to Borscht Bowl{b}
+Club, {bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}where borscht is as{b}
+warm as the waitresses!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{person: 4 62 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{speed: 3}
+Thank you for NOT handing{b}
+out flyers during the cross-{b}
+examination.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 276 276}{name: 3072}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}It's already April.{wait: 20} How could{b}
+it be cold?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 276}{wait: 32}{person: 12 282 281}{name: 3072}{hidetextbox: 0}{speed: 4}
+At Borscht Bowl Club we have{b}
+pride on {speed: 5}authentic rustic{b}
+Russian restaurant theme.{speed: 4}{p}{person: 12 280 279}{name: 3072}
+Outside it is city in Spring,{wait: 10}{b}
+but inside it is always as{b}
+cold as Mother Russia!{nextpage_button}{bg: 25}{person: 4 36 36}{name: 1024}{hidetextbox: 0}{color: 2}
+(No way am I going there.){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 279}{wait: 32}{person: 12 280 279}{name: 3072}{hidetextbox: 0}
+When it comes to hot borscht,{wait: 10}{b}
+cold is best seasoning,{wait: 10} dah?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 281 281}{name: 3072}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 4}His "locket"{wait: 6}...?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 281}{wait: 32}{bg: 27}{person: 12 282 281}{name: 3072}{hidetextbox: 0}{speed: 4}
+I believe it was good-luck{b}
+charm,{wait: 10} dah?{p}{person: 12 277 276}
+He gripped it many times as{b}
+he played that night.{nextpage_button}{bg: 29}{person: 10 260 260}{name: 2560}{speed: 5}
+Yes,{wait: 30}{speed: 4} he must have felt as{b}{person: 10 259 258}
+though it might carry him to{b}
+the moon and the stars!{nextpage_button}{person: 10 259 258}{speed: 3}
+Though if it were small enough{b}
+to fit around his neck,{wait: 10} it{b}
+wouldn't have much lift...{nextpage_button}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{speed: 4}
+Um...{wait: 16} The defense would like{b}
+a clarification:{wait: 6}{speed: 3} this is a{b}
+locket we're talking about?{nextpage_button}{person: 4 50 49}
+I mean,{wait: 10} a pendant with a{b}
+picture in it,{wait: 10} right?{wait: 20}{b}
+Not a "rocket"?{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Of course!{wait: 20} I knew that!{nextpage_button}{person: 10 259 258}{speed: 4}
+It was probably a pendant{b}
+shaped like a rocket.{wait: 20} That's{b}
+why she called it that.{nextpage_button}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+No,{wait: 10} a locket's a locket!{wait_noanim: 30}{person: 4 59 58}{speed: 4} It{b}
+doesn't matter what shape{b}
+it is!{nextpage_nobutton}{bg: 28}{person: 8 224 223}{name: 2048}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+It's considered bad form to{b}
+poke fun at the{person: 8 222 221}{speed: 4} hard-of-{b}
+hearing in our society.{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Hard of hearing,{wait: 10} or hard of{b}
+understanding?){color: 0}{speed: 255}{nextpage_button}{bg: 26}{person: 11 268 267}{name: 2816}
+So,{wait: 12} what happened next?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 281 281}{name: 3072}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{13}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 59 58}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{hidetextbox: 0}{speed: 2}Something{bgcolor: 2305 8 31} terrible{bgcolor: 2305 8 31}!?{bgcolor: 2305 8 31}!?{nextpage_button}{bg: 27}{person: 12 283 283}{name: 3072}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+E{bgcolor: 2305 8 31}ee{bgcolor: 2305 8 31}ee{bgcolor: 2305 8 31}ee{bgcolor: 2305 8 31}ee{bgcolor: 2305 8 31}ek!{wait: 20}{nextpage_nobutton}{bg: 29}{person: 10 263 262}{name: 2560}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+The defense will refrain from{b}
+needless shouting!{p}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{speed: 5}
+Er,{wait: 10} sorry.{wait_noanim: 30} {speed: 4}{color: 2}(I need to{b}
+seriously reconsider this{b}
+vocal training thing...){color: 0}{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{swoosh: 1 1 11 267}{wait: 32}{bg: 26}{person: 11 268 267}{name: 2816}{hidetextbox: 0}
+Now,{wait: 10} Ms. Orly,{wait: 10} can you{b}
+tell us what happened?{p}{bg: 27}{person: 12 277 276}{name: 3072}{speed: 5}
+Oh,{wait_noanim: 30}{person: 12 277 276}{speed: 4} I was so frightened!{wait: 20}{b}
+Dah,{wait: 10} I trembled with fear!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 276 276}{name: 3072}{0x51: 0 53}
+{1024}{920}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}{endjmp}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 135}{endjmp}
+
+{{14}}
+{bop}{0x6d: 0}{bg: 25}{fademusic: 45}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}But{bgcolor: 2305 8 31} the defendant would {bgcolor: 2305 8 31}never{b}
+do such a thing{bgcolor: 2305 8 31}!{nextpage_button}{bg: 27}{person: 12 283 283}{name: 3072}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+E{bgcolor: 2305 8 31}ee{bgcolor: 2305 8 31}ee{bgcolor: 2305 8 31}ee{bgcolor: 2305 8 31}ek{bgcolor: 2305 8 31}!{wait: 40}{nextpage_nobutton}{hidetextbox: 1}{bg: 29}{person: 10 261 261}{name: 2560}{0x63}{person: 10 259 258}{hidetextbox: 0}{speed: 4}
+Well now,{wait: 10} I can't say I've{b}
+ever heard the defense try{b}
+this tactic.{nextpage_button}{bg: 28}{name: 2048}{person: 8 224 223}{speed: 5}
+If possible...{0x5a}{wait: 30}{speed: 4}{b}{person: 8 222 221}
+Please...{wait: 20}{b}
+Refrain from embarrassing me.{0x23: 0}{music: 255 90}{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 4}
+Still...{wait: 12}{speed: 3} Why would anyone do{b}
+something like this over a{b}
+game of poker?{nextpage_button}{bg: 27}{person: 12 277 276}{name: 3072}{speed: 4}
+Perhaps{wait_noanim: 30}{person: 12 282 281}{speed: 4} it is because{b}
+defendant has lost game?{p}{bg: 26}{person: 11 272 271}{name: 2816}{hidetextbox: 0}{speed: 4}
+Yes!{wait: 20} A crushing defeat for{b}
+a man undefeated!{p}{name: 2816}{speed: 4}
+So it always is with men like{b}
+him.{wait: 20} Winners make sore losers.{0x5a}{wait: 25}{b}{person: 11 268 267}{speed: 3}
+Oh,{wait: 10} how the mighty fall!{nextpage_button}{jmp: 136}{endjmp}
+
+{{15}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 3}You didn't say anything about{b}{shake: 30 1}
+hitting before!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 276}{wait: 32}{person: 12 284 283}{name: 3072}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 3}
+S-{wait: 2}{shake: 30 0}S-{wait: 2}{shake: 30 0}S-{wait: 2}{shake: 30 0}S-{wait: 2}{shake: 30 0}{wait: 10}So sorry!{wait: 20} I must be{b}
+forgetting this,{wait: 5}{shake: 30 0} dah!{p}{bg: 29}{person: 10 263 262}{name: 2560}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 3}
+Witness!{wait: 15}{speed: 4} You will take greater{b}
+care with your testimony.{p}{bg: 27}{person: 12 284 283}{name: 3072}{shake: 30 0}
+Oh dah,{wait: 10} dah.{wait: 20} I'm sorry,{wait: 10} Your{b}
+Honor.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 11 267}{wait: 32}{person: 11 268 267}{name: 2816}{hidetextbox: 0}{speed: 3}
+And that clears up the{b}
+discrepancy with the autopsy{b}
+report,{wait: 10} I believe.{p}
+The defendant made to strangle{b}
+his victim,{wait: 10} then changed his{b}
+mind...{p}{person: 11 272 271}
+...and chose a simpler,{wait: 10}{b}
+blunter means to do the job.{p}
+Yes,{wait: 10} that sums it up nicely.{p}{bg: 25}{name: 1024}{person: 4 42 42}{speed: 4}{color: 2}
+(So he strangled him,{wait: 10} then{b}
+hit him...?){p}
+(Something's fishy about all{b}
+this...){color: 0}{nextpage_button}{jmp: 136}{endjmp}
+
+{{16}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 6}Oh really?{wait: 20}{speed: 4} "Strangled", you{b}
+say?{wait_noanim: 30}{person: 4 41 40} That's odd.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 12 276}{wait: 32}{person: 12 277 276}{name: 3072}{hidetextbox: 0}{speed: 6}
+Dah,{wait: 12}{speed: 4} normal customers only{b}
+choke on borscht.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 44}{wait: 32}{person: 4 45 44}{name: 1024}{hidetextbox: 0}{speed: 3}
+No,{wait: 10} I mean this report shows{b}
+that the victim died of a blow{b}
+to the head!{nextpage_button}{bg: 27}{person: 12 284 283}{name: 3072}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+Aaack!{wait_noanim: 40}{nextpage_nobutton}{speed: 255}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{speed: 3}
+Ms. Orly!{wait_noanim: 30}{0x59}{b}{speed: 4}
+Really now...{wait_noanim: 40}{b}{person: 4 64 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Did you {bgcolor: 2305 8 31}witness {bgcolor: 2305 8 31}the crime!?{nextpage_button}{bg: 27}{person: 12 276 276}{wait: 3}{person: 12 289 289}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{name: 3072}{bgcolor: 2305 8 31}
+Eeee{bgcolor: 2305 8 31}eeeeee{bgcolor: 2305 8 31}eee{bgcolor: 2305 8 31}eeeeee{bgcolor: 2305 8 31}eeek!{wait: 40}{hidetextbox: 1}{wait: 120}{nextpage_nobutton}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 60 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 29}{person: 10 266 266}{name: 2560}{hidetextbox: 0}{speed: 6}
+Hmm...{p}{person: 10 263 262}{speed: 3}
+Looking at the picture,{wait: 10} it{b}
+doesn't seem like he was hit.{p}{person: 0 0 0}{bg: 102}{speed: 4}
+He's still wearing his hat{b}
+and everything.{p}{bg: 26}{person: 11 270 269}{name: 2816}{speed: 4}
+Yet,{wait: 15}{speed: 3} it is a fact that he{b}{showphoto: 25}
+was hit,{wait: 18} Your Honor.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{person: 0 0 0}{bg: 108}{bgcolor: 258 1 31}{wait: 15}{wait: 60}{name: 2816}{hidetextbox: 0}
+Here's a photo we took of{b}
+the victim with his hat off{b}
+during our investigation.{p}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 5}
+Well,{wait: 10} that's quite{b}
+shocking,{wait: 10} isn't it?{p}{person: 10 263 262}
+This head{wait_noanim: 20}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1} certainly was hit.{nextpage_button}{newevidence: 16399}{name: 0}{color: 2}{speed: 4}
+Crime Photo 2 added to{b}
+the Court Record.{color: 0}{nextpage_button}{speed: 255}{color: 0}{bg: 27}{person: 12 284 283}{name: 3072}{speed: 2}
+B-{wait: 8}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}But...!{wait: 12}{b}
+I have seen it {shake: 30 0}{bgcolor: 2305 8 31}happen!{p}{speed: 4}
+The defendant,{wait: 12}{shake: 30 0} he lunge at{b}
+victim,{wait: 12}{speed: 6}{shake: 30 0} his neck...{nextpage_button}{bg: 25}{person: 4 47 47}{name: 1024}{speed: 3}{color: 2}
+({bgcolor: 2305 8 31}{shake: 30 0}Oh really,{wait: 10} Ms. Orly?{wait: 20} I think{b}
+I've caught you in your own{b}
+lie this time!){color: 0}{p}{bg: 28}{person: 8 224 223}{name: 2048}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 60}{speed: 4}
+...Justice.{p}{person: 8 220 219}{name: 2048}{speed: 3}
+I admire your enthusiasm,{wait: 10} but{b}
+perhaps you should think this{b}
+through once more.{nextpage_button}{person: 8 219 219}{name: 1024}{speed: 2}
+Wh-{wait: 10}{sound: 51 1}{b}{bgcolor: 2305 8 31}{shake: 30 1}
+What do you mean?{wait: 30}{b}{speed: 3}
+I found a contradiction!{nextpage_button}{person: 8 220 219}{name: 2048}{speed: 4}
+There's one thing in her{b}
+testimony that...{0x5a}{wait: 35}{person: 8 224 223}{speed: 3} troubles me.{p}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 5}
+Very well.{nextpage_button}{person: 10 259 258}
+It seems we should continue{b}
+the cross-examination.{nextpage_button}{bg: 25}{person: 4 40 40}{name: 1024}{speed: 4}{color: 2}
+(There's such a thing as{b}
+thinking too much...){p}{bg: 28}{person: 8 223 223}{speed: 5}
+(This horse is dead,{wait: 10} let's{b}
+stop beating it!){color: 0}{nextpage_button}{person: 8 222 221}{name: 2048}{speed: 3}
+There's such a thing as{b}
+thinking aloud too much,{wait: 10} too.{nextpage_button}{0x10: 32772}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 12 276 276}{name: 3072}{fademusic: 0}{music: 2 0}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{17}}
+{bop}{0x29: 0}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 58 58}{color: 2}(You know,{wait: 12}{speed: 3} there was one{b}
+curious part in her testimony{b}
+just like Mr. Gavin said.){nextpage_button}{speed: 4}
+(But{wait: 20}{person: 4 40 40}{speed: 5} what does it mean?){color: 0}{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Mr. Justice,{speed: 3}{wait_noanim: 20}{0x59} would you care{b}
+to explain what it is you're{b}
+thinking so intensely about?{p}{bg: 25}{person: 4 45 44}{name: 1024}{speed: 3}
+Recall the testimony,{wait: 10} Your{b}
+Honor...{p}
+The victim played with {wait: 12}{speed: 5}"his{b}
+hand on locket at his neck",{b}{wait: 12}{speed: 3}
+I believe she said?{speed: 5}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 11 267}{wait: 32}{bg: 26}{person: 11 268 267}{name: 2816}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 3}
+I hope you aren't about to{b}
+raise an objection to the{b}
+witness's grammar!{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 44}{wait: 32}{person: 4 45 44}{name: 1024}{showphoto: 281}{hidetextbox: 0}
+No,{wait: 10} but look at this{b}
+photograph.{nextpage_button}{hidetextbox: 1}{bganim: 98 579}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 108}{person: 0 0 0}{wait: 20}{bgcolor: 769 0 31}{wait: 1}{sound: 50 1}{shake: 30 1}{wait: 60}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 2}
+Do you see a locket{bgcolor: 2305 8 31} on the{b}
+victim's neck{bgcolor: 2305 8 31}?{fademusic: 0}{music: 5 0}{nextpage_button}{bg: 28}{person: 8 224 223}{name: 2048}{speed: 4}
+Well done,{wait: 15} Justice.{wait_noanim: 30}{b}{person: 8 220 219}{speed: 3}
+I'm impressed.{p}{person: 8 222 221}
+I knew you'd be able to{b}
+handle this.{nextpage_button}{person: 8 219 219}{name: 1024}{speed: 2}
+B-{wait: 8}{shake: 30 0}But{wait: 15}{speed: 3} what does it mean?{p}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 4}
+If we are to believe this{b}
+witness's testimony as-is...{p}{person: 10 266 266}{speed: 3}
+Then the locket{wait: 30}{person: 10 263 262}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4} "disappeared"{wait: 6}{b}
+following the victim's death.{nextpage_button}{bg: 25}{person: 4 41 40}{name: 1024}{speed: 4}
+Lockets don't just{b}
+"disappear",{speed: 3} Your Honor!{nextpage_button}{bg: 28}{person: 8 220 219}{name: 2048}{person: 8 222 221}{speed: 3}
+It's quite simple when you{b}
+think about it.{nextpage_button}{person: 8 220 219}{speed: 4}
+If the locket is gone,{wait_noanim: 20} someone{b}{person: 8 224 223}
+must have taken it off,{wait: 14} no?{nextpage_button}{person: 8 223 223}{name: 1024}{speed: 5}
+Taken it off...{wait: 30}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2} Wait,{wait: 16} you{b}
+don't mean...!{nextpage_button}{person: 8 220 219}{name: 2048}{speed: 4}
+The defendant wasn't{b}{wait: 6}{color: 1}
+strangling the victim{color: 0}{speed: 3}{b}
+at all.{p}{person: 8 220 219}{fademusic: 45}{sound: 52 1}{bgcolor: 2305 8 31}
+He was {color: 1}taking off his locket{color: 0}!{wait_noanim: 30}{b}{person: 8 222 221}
+...Wouldn't that explain it?{nextpage_button}{bg: 29}{person: 10 264 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+Ah...!{nextpage_button}{bg: 26}{person: 11 269 269}{name: 2816}{sound: 51 1}{bgcolor: 2305 8 31}
+Urk...?{nextpage_button}{speed: 3}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 60 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 265 264}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+D-{wait: 8}Defendant!{wait: 15}{speed: 3} What do you{b}
+have to say{person: 10 263 262}{bgcolor: 2305 8 31}{shake: 30 0} to this?{p}{bg: 27}{person: 7 187 187}{name: 1792}{speed: 6}
+.{speed: 8}.{speed: 10}.{speed: 12}{p}{bg: 29}{person: 10 262 262}{name: 2560}{speed: 6}
+.{speed: 8}.{speed: 10}.{speed: 12}{wait_noanim: 30}{b}{person: 10 265 264}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Say.{p}{bg: 27}{person: 7 178 177}{name: 1792}
+Yes?{p}{bg: 29}{person: 10 263 262}{name: 2560}
+I just noticed this,{wait: 12} but{speed: 8}...{wait_noanim: 30}{nextpage_button}{bg: 27}{person: 7 177 177}{fademusic: 0}{music: 18 0}{speed: 4}
+You have something hanging{b}
+around your neck,{wait: 12}{speed: 5} don't you.{nextpage_button}{bg: 27}{person: 7 178 177}{name: 1792}{speed: 6}
+Oh?{0x5a}{wait: 25}{b}{person: 7 184 183}{showphoto: 280}{speed: 5}
+You mean this?{p}{person: 7 178 177}
+Yes,{wait: 8} it's a locket...{wait: 16} with a{b}
+photograph inside.{nextpage_button}{person: 7 182 181}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+A photo{speed: 8}...{wait: 20}{speed: 3} of my daughter.{0x23: 0}{music: 255 60}{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{person: 4 60 60}{name: 1024}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+C-{wait: 8}Come again?{person: 4 61 61}{animation: 149 1}{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 2}
+Mr. Wright!{wait: 12}{speed: 3} You have a{b}
+daughter!?{p}{bg: 26}{person: 11 268 267}{name: 2816}
+We confirmed it at the time{b}
+of the arrest.{p}
+The picture in the locket is{b}
+indeed Mr. Wright's daughter.{nextpage_button}{bg: 27}{person: 7 183 183}{name: 1792}{speed: 9}
+...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}
+(So Mr. Wright has a {wait: 12}locket,{wait: 12}{b}
+too...?){p}{person: 4 40 40}{speed: 3}
+(Why don't I buy that this{b}
+is just a coincidence...?){color: 0}{nextpage_button}{hidetextbox: 1}{wait: 30}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{person: 10 258 258}{name: 2560}{bgcolor: 258 1 31}{wait: 15}{wait: 30}{person: 10 259 258}{hidetextbox: 0}
+Well now,{wait: 15} if the {wait: 6}results{wait: 6} of{b}
+this poker game led to the{b}
+murder...{p}
+Perhaps we should hear a bit{b}
+more about the outcome of{b}
+the game?{p}{bg: 26}{person: 11 272 271}{name: 2816}{speed: 3}
+Further testimony won't really{b}
+be necessary.{p}{bg: 104}{person: 0 0 0}
+It's clear the defendant lost.{wait: 20}{b}
+Badly.{p}{bg: 27}{person: 12 276 276}{name: 3072}{speed: 8}
+...{wait: 40}{sound: 52 1}{bgcolor: 2305 8 31}{person: 12 281 281}{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 3}
+Ms. Orly!{p}
+You will testify to the court{b}
+about the game played between{b}
+the victim and defendant!{nextpage_button}{bg: 27}{person: 12 277 276}{name: 3072}{shake: 30 0}{speed: 5}
+D-{wait: 14}Dah...{nextpage_button}{hidetextbox: 1}{speed: 255}{wait: 30}{fademusic: 60}{testimony_animation: 1}{special_jmp}{endjmp}

@@ -1,0 +1,330 @@
+
+
+{{0}}
+{bop}{0x62: 2 2}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 14 350 350}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 11 11 2 93 1 1 3}{b}
+-- Wocky Kitaki's "Truth" --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{name: 3584}{fademusic: 0}{music: 2 0}{person: 14 355 354}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I'll tell you one thing,{wait: 14}{b}
+that doctor was a quacker!{p}{speed: 3}
+Someone had to show him{b}
+what's what!{p}{person: 14 360 359}
+I was in his clinic 'bout{b}
+half a year ago.{wait: 16} He messed{b}
+up my op something bad.{p}
+And then he just lets me go,{wait: 8}{b}
+without a word.{wait: 16} See ya later,{wait: 8}{b}
+bye!{p}{person: 14 355 354}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+So I gotta go in,{wait: 8} get another{b}
+doc to patch me up again!{p}{person: 14 351 350}
+That was the day I done{b}{shake: 30 0}{bgcolor: 2305 8 31}
+figured it out.{wait: 16} {speed: 2}No O.G.'s{b}
+gonna let that pass!{p}{person: 14 355 354}{speed: 3}
+That's why I went to his{wait_noanim: 16}{b}{wait_noanim: 20}{bg: 117}{person: 0 0 0}
+pad that night,{wait: 8} know what{b}
+I'm saying!?{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{wait: 30}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{person: 10 265 264}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{0x59}
+You're saying you were one of{b}
+the victim's patients...!?{nextpage_button}{bg: 27}{person: 14 351 350}{name: 3584}
+Lotta stuff goes down when{b}
+you're keeping it real on{b}
+the street.{wait: 16} Tru dat.{p}{person: 14 355 354}{speed: 2}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+I tell you one thing,{wait: 8} that{b}
+doc was wack!{nextpage_button}{bg: 29}{person: 10 266 266}{0x63}{name: 2560}{speed: 4}
+Hmm...{b}{person: 10 263 262}{speed: 3}
+Very well,{wait: 8} the defense may{b}
+begin the cross-examination.{nextpage_button}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{color: 2}
+(I can't believe this is the{b}
+first time I'm hearing about{b}
+all of this...){color: 0}{nextpage_button}{endjmp}
+
+{{1}}
+{bop}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 14 350 350}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 137}{center_text: 1}{speed: 2}{b}{color: 1}
+-- Wocky Kitaki's "Truth" --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 138 0}{lifebar: 11}{0x53}{person: 14 355 354}{name: 3584}{hidetextbox: 0}{color: 3}I'll tell you one thing,{b}
+that doctor was a quacker!{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 130}{lifebar: 11}{0x53}{person: 14 355 354}{name: 3584}{hidetextbox: 0}{color: 3}Someone had to show him{b}
+what's what!{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 131}{lifebar: 13}{0x53}{person: 14 360 359}{name: 3584}{hidetextbox: 0}{color: 3}I was in his clinic 'bout{b}
+half a year ago. He messed{b}
+up my op something bad.{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 141 0}{lifebarset: 0 132}{lifebar: 11}{0x53}{person: 14 355 354}{name: 3584}{hidetextbox: 0}{color: 3}And then he just lets me go,{b}
+without a word. See ya later,{b}
+bye!{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 142 0}{lifebarset: 0 133}{lifebar: 11}{0x53}{person: 14 355 354}{name: 3584}{hidetextbox: 0}{color: 3}So I gotta go in, get another{b}
+doc to patch me up again!{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{testimony_box: 143 0}{lifebarset: 0 134}{lifebar: 12}{0x53}{person: 14 351 350}{name: 3584}{hidetextbox: 0}{color: 3}That was the day I done{b}
+figured it out. No O.G.'s{b}
+gonna let that pass!{color: 0}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{testimony_box: 144 0}{lifebarset: 0 135}{lifebar: 11}{0x53}{person: 14 355 354}{name: 3584}{hidetextbox: 0}{color: 3}That's why I went to his{b}
+pad that night, know what{b}
+I'm saying!?{color: 0}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 5}{color: 2}(Unngh{speed: 8}...{wait: 16} {speed: 3}This sounds bad{b}
+right from the get-go.){color: 0}{p}{bg: 28}{name: 1280}{person: 5 103 102}
+Well,{wait: 8} there won't be any{b}
+get-go if we don't get some{b}
+more information!{p}{bg: 25}{name: 1024}{person: 4 58 58}{color: 2}
+(Right.{wait: 16} First,{wait: 12} gather the{b}
+facts.{wait: 20} Time enough for{b}
+despair later!){color: 0}{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 14 350 350}{name: 3584}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}First of all,{wait: 8} the word you're{b}
+looking for is{wait: 12} "quack".{p}{bg: 25}{name: 1024}{person: 4 50 49}
+And isn't that a little harsh?{wait: 12}{b}{speed: 3}
+He's your family doctor{speed: 7}...{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 14 354}{wait: 32}{name: 3584}{person: 14 355 354}{hidetextbox: 0}{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Who asked you,{bgcolor: 2305 8 31}{wait: 12} pointy-locks!?{wait: 20}{b}
+Just who do you think you are?{p}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{speed: 4}{color: 2}
+(Uh...{wait: 16} your lawyer?){color: 0}{p}{bg: 27}{name: 3584}{person: 14 355 354}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Look,{wait: 8} I ain't trying to hear{b}
+that.{wait: 16} He was a quacker,{wait: 8} plain{b}
+and simple.{speed: 255}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 14 354 354}{name: 3584}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}By{wait: 6} "someone"{wait: 8} you mean{speed: 8}...?{p}{speed: 3}
+Was there anyone with a score{b}
+to settle with this doctor?{b}
+...{wait: 20}Besides you,{wait: 8} I mean.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 14 354}{wait: 32}{name: 3584}{person: 14 355 354}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+You better ask somebody else,{wait: 8}{wait_noanim: 20}{b}{person: 14 360 359}
+homes.{wait: 16} {speed: 3}What do I care?{p}{person: 14 355 354}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+I made up my own mind and did{b}
+what had to be done.{wait: 16} Straight{b}
+gangsta-style!{p}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 3}
+But...{wait: 8} why were you so mad{b}
+at this doctor?{p}{bg: 27}{name: 3584}{person: 14 362 361}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Yo,{wait: 12} {speed: 3}sit back and listen while{b}
+I drop it,{wait: 8} J-man.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 14 359 359}{name: 3584}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 3}So you were a patient at the{b}
+Meraktis Clinic half a year{b}
+ago?{wait: 14} For what reason?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 14 359}{wait: 32}{bg: 27}{name: 3584}{person: 14 360 359}{hidetextbox: 0}
+I had what you might call{b}
+a{wait: 16} "mark of honor".{p}{bg: 26}{name: 13568}{person: 6 146 145}
+Can you explain precisely{b}
+what was wrong?{p}{hidetextbox: 1}{swoosh: 2 4096 14 350}{wait: 32}{name: 3584}{person: 14 351 350}{hidetextbox: 0}
+We had a little run-in{b}
+with the Rivales Family.{p}{person: 14 362 361}
+That's when I pulled a jack{b}
+move{speed: 8}...{nextpage_button}{hidetextbox: 1}{bgcolor: 513 0 31}{wait: 1}{bg: 4095}{person: 0 0 0}{sound: 96 1}{shake: 30 0}{bg: 118}{bgcolor: 257 8 31}{wait: 1}{bgcolor: 2305 8 31}{wait: 5}{bgcolor: 2305 8 31}{wait: 8}{bgcolor: 2305 8 31}{wait: 10}{bgcolor: 2305 8 31}{wait: 60}{hidetextbox: 0}{speed: 4}
+...and ran into an ambush.{wait: 20}{b}
+G busted a cap right in me.{p}{bg: 26}{name: 13568}{person: 6 149 148}
+According to my sources...{wait: 16}{b}
+you{wait: 6} "couldn't stand{b}
+the stress of waiting..."{p}
+"...{wait: 20}and ran in 15 minutes{b}
+before the appointed time."{wait: 6}{b}
+...{wait: 20}By yourself.{p}{bg: 27}{name: 3584}{person: 14 362 361}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Hey,{wait: 12} I was more than a match{b}
+for those guys!{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+So you were carried to the{b}
+Meraktis Clinic from there?{p}{bg: 26}{name: 13568}{person: 6 149 148}
+Apparently,{wait: 6} he was shot in the{b}{color: 1}
+heart{color: 0}.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{color: 2}
+(Shot in the heart and he's{b}
+still alive!?){color: 0}{p}{bg: 28}{name: 1280}{person: 5 103 102}
+I can catch bullets between{b}
+my teeth!{p}{speed: 2}
+But I never learned how to{wait: 12}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+catch them with my heart!{p}{bg: 27}{name: 3584}{person: 14 362 361}{speed: 3}
+The bullet stopped just short{b}
+of my thumper,{wait: 8} you know what{b}
+I'm saying?{p}{name: 3584}{person: 14 362 361}{speed: 2}
+I woulda been golden if it{wait_noanim: 20}{b}{person: 14 355 354}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+weren't for that wack doc!{p}
+Can't even take out a stupid{b}
+bullet!{p}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 3}
+...{wait: 16}So,{wait: 8} as you say,{wait: 8} the surgery{b}
+was a failure.{p}{bg: 27}{name: 3584}{person: 14 355 354}{speed: 4}
+That ain't all of it,{wait: 8} homes!{nextpage_button}{hidetextbox: 1}{0x51: 0 16}
+{32880}{0x35: 28928 @RelativeAddress0}{0x35: 29184 @RelativeAddress1}{jmp: 145}{endjmp}{endjmp}{@RelativeAddress0}{@RelativeAddress1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 14 354 354}{name: 3584}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{13}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{speed: 4}What do you mean,{wait: 16} he just{b}
+let you go without a word?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 14 350}{wait: 32}{name: 3584}{person: 14 351 350}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+What do you think it means!?{wait_noanim: 20}{b}{person: 14 362 361}
+It's wack,{wait: 8} that's what!{p}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 3}
+I'm not sure what that means,{wait_noanim: 16}{b}{person: 10 263 262}
+but it sounds bad...{p}{bg: 26}{name: 13568}{person: 6 146 145}
+It sounds as though Herr{b}
+Doktor wished to hide his{b}
+mistake...{p}
+This is why he let the{b}
+defendant go.{p}{hidetextbox: 1}{swoosh: 2 4096 14 354}{wait: 32}{name: 3584}{person: 14 355 354}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+He's a liar,{wait: 8} straight up!{b}
+He's a badder G than me!{b}{speed: 255}{nextpage_button}{hidetextbox: 1}{0x51: 0 16}
+{32881}{0x35: 28672 @RelativeAddress2}{0x35: 29184 @RelativeAddress3}{jmp: 145}{endjmp}{endjmp}{@RelativeAddress2}{@RelativeAddress3}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 14 354 354}{name: 3584}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{14}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 3}So,{wait: 8} this bullet is still...?{wait: 10}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 14 354}{wait: 32}{name: 3584}{person: 14 355 354}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+You know it!{wait: 16} I can still{b}
+feel it...{nextpage_button}{person: 14 355 354}
+Right there in my chest,{wait: 8}{b}
+pressin' up against my heart!{p}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+"Your words are like a bullet{b}
+shot straight into my heart."{p}{person: 6 151 150}{speed: 3}
+...{wait: 20}or something to that{b}
+effect?{wait: 16} Incidentally, that's{b}
+from one of our hit singles.{p}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Well,{wait: 8} that sounds like a{b}
+straightforward case of{b}
+malpractice!{p}{bg: 27}{name: 3584}{person: 14 355 354}{shake: 30 0}{bgcolor: 2305 8 31}
+Word,{wait: 8} J-man.{wait: 16} Weren't no{b}
+accident,{wait: 8} that's fo' shizzle.{nextpage_button}{hidetextbox: 1}{0x51: 0 16}
+{32882}{0x35: 28672 @RelativeAddress4}{0x35: 28928 @RelativeAddress5}{jmp: 145}{endjmp}{endjmp}{@RelativeAddress4}{@RelativeAddress5}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 14 350 350}{name: 3584}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 135}{endjmp}
+
+{{15}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{speed: 3}You figured it out that day?{wait: 16}{b}
+So you had no idea until then?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 14 359}{wait: 32}{name: 3584}{person: 14 360 359}{hidetextbox: 0}
+For half a year,{wait: 8} I didn't{b}
+notice a thing.{p}{person: 4 60 60}{bg: 25}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 4}
+Whaa{bgcolor: 2305 8 31}aat!?{wait: 60}{b}{person: 4 62 61}{animation: 149 1}
+You had a bullet in your{b}
+chest and you didn't know!?{nextpage_button}{bg: 27}{name: 3584}{person: 14 356 356}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+Heh!{0x63}{b}{person: 14 355 354}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Takes more than a bullet to{b}
+bring me down,{wait: 8} homes!{p}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{speed: 4}{color: 2}
+(How many bullets does it{b}
+take!?){color: 0}{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 14 354 354}{name: 3584}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 136}{endjmp}
+
+{{16}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{speed: 4}You "went to his pad"...?{p}{person: 4 45 44}{speed: 3}
+Did you have an appointment{b}
+to meet with the victim?{b}
+In the park,{wait: 8} perhaps?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 14 354}{wait: 32}{name: 3584}{person: 14 355 354}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+You out of your mind!?{wait: 16} Who{b}
+makes an appointment to get{b}
+the drop on someone!?{p}{person: 14 351 350}{speed: 3}
+I came ready to fight my way{b}
+into that clinic of his.{p}{person: 14 353 352}
+Shortest way to the clinic{b}
+from my place is through that{b}
+park,{wait: 8} know what I'm saying?{nextpage_button}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 93}{person: 0 0 0}{littlesprite: 5377}{littlesprite: 5633}{littlesprite: 6401}{littlesprite: 8193}{littlesprite: 8705}{bgcolor: 257 1 31}{wait: 7}{wait: 50}{name: 1024}{hidetextbox: 0}{speed: 5}{color: 2}
+(...{wait: 16}{speed: 4}He's right.{wait: 12} That does seem{b}{wait: 1}{0x1d: 257}
+to be the shortest path.){color: 0}{0x4c}{p}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 27}{person: 14 359 359}{bganim: 98 514}{bgcolor: 257 1 31}{wait: 7}{bg: 27}{name: 3584}{person: 14 360 359}{hidetextbox: 0}{speed: 3}
+There I was,{wait: 8} cold walking{b}
+through the park...{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 117}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{wait: 30}{hidetextbox: 0}
+...{wait: 20}when he comes popping up{b}
+out of nowhere,{wait: 8} right before{b}
+my eyes!{p}{bg: 27}{person: 14 351 350}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I figured someone up on high{b}
+was looking out for me,{wait: 10} know{b}
+what I'm saying?{nextpage_button}{jmp: 137}{endjmp}
+
+{{17}}
+{bop}{0x29: 0}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{0x6d: 0}{bg: 29}{person: 10 266 266}{0x63}{name: 2560}{hidetextbox: 0}Hmm{speed: 8}...{wait: 30} {speed: 4}It seems that there{b}{person: 10 263 262}
+were issues with this doctor.{nextpage_button}{bg: 27}{person: 14 351 350}{name: 3584}
+Man,{wait: 8} putting him down was like{wait_noanim: 30}{b}{speed: 2}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{0x59}
+doing the world a favor!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{person: 4 62 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{speed: 2}
+Wocky!{shake: 30 0}{wait: 16} ...{wait: 20}Please consult your{b}{bgcolor: 2305 8 31}
+lawyer before saying things{b}
+like that...{nextpage_button}{bg: 28}{person: 5 103 102}{name: 1280}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Chin up,{wait: 8} Apollo!{wait: 16}{b}
+Back straight!{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}
+But,{wait: 12} {speed: 3}why did this{wait: 6} mistake{wait: 6}{b}
+only come to light that day?{p}{bg: 26}{person: 6 146 145}{name: 13568}
+It was found during the{wait: 6}{b}
+Family health check-up.{nextpage_button}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+The F-{wait: 12}Family check-up?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 14 350}{wait: 32}{person: 14 351 350}{name: 3584}{hidetextbox: 0}{speed: 2}
+That was the wackest thing{b}
+of all!{wait: 16} {speed: 3}All us G's lining up,{wait: 8}{b}
+taking eye exams 'n' all that.{p}{person: 14 370 369}{speed: 3}
+Better to die young than{person: 14 372 372}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+fade away,{wait: 8} bizzzoy!{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 4}
+...{wait: 14}A relief to hear.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 14 361}{wait: 32}{person: 14 362 361}{name: 3584}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}
+Eh?{wait: 20}{speed: 2} Wh-{wait: 12}What's a relief!?{nextpage_button}{fademusic: 0}{music: 18 0}{bg: 26}{person: 6 149 148}{name: 13568}{speed: 3}
+Oh?{wait: 16} Did your father not{b}
+tell you?{p}
+That bullet you carry so close{b}
+to your heart{speed: 8}...{wait_noanim: 30}{person: 6 149 148} {speed: 3}if not{b}
+attended to immediately...{p}{person: 6 146 145}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 20}It could kill you.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 2}
+Wh-{wait: 20}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}Whaaat!?{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 3}
+Yes,{wait: 8} Herr Doktor Meraktis{b}
+had knowledge concerning this{b}
+ticking{wait: 4} "time bomb"{wait: 4} in you.{nextpage_button}{person: 6 146 145}{speed: 4}
+Knowledge...{wait: 12} that could have{b}
+saved your life.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 14 361}{wait: 32}{person: 14 362 361}{name: 3584}{hidetextbox: 0}{shake: 30 1}{bgcolor: 2305 8 31}
+No way!{wait: 16} Th-{wait: 12}That's wacked!{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+There is proof.{0x5a}{wait: 20}{showphoto: 80}{b}{0x59}
+Your check-up report.{nextpage_button}{bganim: 98 579}{newevidence: 16464}{name: 0}{color: 2}{speed: 4}
+Wocky's Check-Up Report{b}
+added to the Court Record.{nextpage_button}{speed: 255}{color: 0}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 3}
+...{wait: 20}How ironic that you would{b}
+kill the one man capable of{b}
+helping you.{p}{person: 6 146 145}
+You're almost as careless as{b}
+he was!{p}{bg: 26}{person: 6 147 147}{shake: 30 0}{speed: 4}
+...Ah{wait: 8} ha{wait: 8} ha{wait: 8} ha.{wait: 35}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 2 4096 14 363}{wait: 32}{person: 14 363 363}{name: 3584}{hidetextbox: 0}{fademusic: 60}{speed: 6}
+..{speed: 8}..{speed: 10}..{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{speed: 6}
+..{speed: 8}..{speed: 10}..{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}{speed: 4}
+Well,{wait: 16} {speed: 3}now that the place{b}
+is hopping...{p}{person: 6 151 150}{shake: 30 0}{bgcolor: 2305 8 31}
+Let's get this gig started!{b}{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+S-{wait: 16}Started...?{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}{speed: 3}
+We've had enough of a warm-up{b}
+act,{wait: 8} ja?{wait: 16} Time to hear from the{b}
+witness!{nextpage_button}{bg: 28}{person: 5 105 104}{name: 1280}{speed: 4}
+...{wait: 16}{speed: 3}Wocky sure is quiet all of{b}
+a sudden.{nextpage_button}{person: 5 104 104}{name: 1024}
+I'm a little uneasy myself.{nextpage_button}{bg: 25}{person: 4 58 58}{speed: 5}{color: 2}
+(Is this Gavin's strategy...?){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{wait: 60}{endjmp}
+
+{{18}}
+{bop}{person: 30 673 673}{bg: 27}{bgcolor: 260 1 31}{wait: 25}{fademusic: 0}{music: 39 0}{wait: 60}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{person: 6 146 145}{name: 13568}{hidetextbox: 0}So.{0x5a}{wait: 40}{b}{0x59}
+You will tell us your name{b}
+and occupation.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 30 673}{wait: 32}{person: 30 679 679}{0x63}{person: 30 680 680}{0x63}{person: 30 673 673}{wait: 180}{person: 30 674 673}{name: 7680}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}
+My name...{wait: 6}{b}
+is Wesley Stickler.{nextpage_button}{newevidence: 32810}{hidetextbox: 1}{person: 30 676 676}{0x63}{person: 30 683 682}{hidetextbox: 0}{speed: 4}
+By{wait: 6} "occupation"{wait: 6} I take it you{b}
+refer to some labor that{nextpage_nobutton}
+"profits" society at large,{wait: 8}{b}
+and supports a livelihood{wait: 8}{nextpage_nobutton}
+under which definition I must{b}
+confess to being{wait: 8} "unemployed"{wait: 8}{nextpage_nobutton}
+however,{wait: 8} we must acknowledge{b}
+the meaning of{wait: 8} "identity"{wait: 8}{nextpage_nobutton}
+which is commonly attached to{b}
+this notion of{wait: 8} "occupation",{wait: 8}{nextpage_nobutton}
+and once we have accepted this{b}
+reality,{wait: 8} we see that our{wait: 8}{nextpage_nobutton}
+confusion is not Gestalt,{wait: 8} per{b}
+se,{wait: 8} but derives instead from{wait: 8}{nextpage_nobutton}
+the "vagueness" inherent in{b}
+all representations of thoug--{wait: 8}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{person: 6 151 150}{name: 13568}{hidetextbox: 0}{speed: 3}
+By which he means to say{wait_noanim: 20}{b}{person: 6 146 145}
+that he is a student.{nextpage_button}{person: 6 149 148}
+A junior at Ivy University{b}
+if I'm not mistaken?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 30 682}{wait: 32}{person: 30 682 682}{wait: 120}{person: 30 674 673}{name: 7680}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}
+Yes,{wait: 8} in the Department of{b}
+Science and Engineering.{nextpage_button}{person: 30 683 682}
+Filled with curiosity for all{b}
+things,{wait: 8} I spend my days in{b}
+pursuit of truth,{wait: 8} honing my...{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{person: 6 146 145}{name: 13568}{hidetextbox: 0}
+Herr Stickler,{wait: 8} please direct{b}
+said curiosity to the case at{b}
+hand today.{p}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 3}
+Very well,{wait: 8} Mr. Stickler.{p}{person: 10 263 262}
+Please testify to the court{b}
+about what you saw on the{b}
+night of the crime.{nextpage_button}{hidetextbox: 1}{bg: 27}{person: 30 676 676}{0x63}{wait: 60}{person: 30 683 682}{name: 7680}{bganim: 0 8192}{hidetextbox: 0}{speed: 4}
+You ask,{wait: 6} quite simplistically,{wait: 8}{b}
+"what I saw{wait: 16}". However,{wait: 8} we must{nextpage_nobutton}
+understand that homo sapiens{b}
+possess two eyes,{wait: 8} each of{nextpage_nobutton}{bganim: 98 573}
+these designed to receive and{b}
+interpret data,{wait: 8} sending images{b}{fademusic: 120}{bgcolor: 516 1 31}
+in the form of signals to the{nextpage_nobutton}{bganim: 0 4096}{bganim: 98 574}{wait: 60}{testimony_animation: 1}{special_jmp}{endjmp}

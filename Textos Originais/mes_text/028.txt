@@ -1,0 +1,350 @@
+
+
+{{0}}
+{bop}{0x62: 2 2}{0x26: 1}{bg: 27}{person: 30 682 682}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 14 11 2 93 1 1 3}{b}
+-- A Night in the Park --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{name: 7680}{fademusic: 0}{music: 2 0}{person: 30 674 673}
+That night,{wait: 8} I passed through{b}
+the park on my way home from{b}
+shopping...{wait: 20} when I saw them!{nextpage_button}{bg: 117}{person: 0 0 0}{bgcolor: 2305 8 31}
+One man,{wait: 8} pulling a stand.{wait: 16}{b}
+Another man,{wait: 8} facing him.{p}
+I saw them quite clearly.{wait: 16}{b}
+The man facing the victim{b}
+was the defendant.{p}{bg: 27}{person: 30 674 673}
+In his hand he held{0x5a}{speed: 10}...{wait: 30}{0x59}{speed: 3} yes,{wait: 8}{b}
+a pistol!{wait: 20} It was pointed at{b}
+the man pulling the stand.{nextpage_button}{hidetextbox: 1}{person: 30 676 676}{0x63}{person: 30 683 682}{hidetextbox: 0}{sound: 96 1}{shake: 30 0}
+A shot!{wait: 20} The bullet hit the man{b}
+pulling the stand from the{b}
+front,{wait: 10} square in the forehead!{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{person: 10 266 266}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{speed: 6}
+Hmm{speed: 8}...{wait: 30}{b}{person: 10 263 262}{speed: 3}
+Was there anyone else in{b}
+the park at that time?{nextpage_button}{bg: 27}{person: 30 674 673}{name: 7680}{speed: 5}
+I can say with 100% accuracy{b}{person: 30 679 679}{0x63}{person: 30 680 680}{0x63}{person: 30 674 673}
+that there was not.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{person: 6 146 145}{name: 13568}{hidetextbox: 0}{speed: 3}
+The pistol our witness refers{b}
+to{speed: 7}...{wait: 12} {showphoto: 71}{speed: 3}is this.{p}{bganim: 98 579}{bg: 29}{person: 10 259 258}{name: 2560}
+The court accepts this into{b}
+evidence.{nextpage_button}{newevidence: 16455}{name: 0}{color: 2}{speed: 4}
+Pistol added to the Court{b}
+Record.{nextpage_button}{speed: 255}{color: 0}{person: 10 259 258}{name: 2560}
+Very well.{wait: 16} Mr. Justice,{wait: 8} you{b}
+may cross-examine the witness.{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}
+...{wait: 20}Yes,{wait: 8} Your Honor.{nextpage_button}{bg: 28}{person: 5 100 100}{name: 1280}{speed: 7}
+...{nextpage_button}{person: 5 102 102}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Uh...{wait: 15} Trucy?{wait: 20} Why are you{b}
+staring like that at the{b}
+witness?{nextpage_button}{person: 5 105 104}{name: 1280}{speed: 4}
+That man{speed: 8}...{p}{speed: 5}
+I can't help but feel I've{b}
+seen him somewhere before.{nextpage_button}{person: 5 100 100}{name: 1024}
+...?{speed: 255}{nextpage_button}{endjmp}
+
+{{1}}
+{bop}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 30 673 673}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 135}{center_text: 1}{speed: 2}{b}{color: 1}
+-- A Night in the Park --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 136 0}{lifebar: 14}{0x53}{person: 30 674 673}{name: 7680}{hidetextbox: 0}{color: 3}That night, I passed through{b}
+the park on my way home from{b}
+shopping... when I saw them!{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 137 0}{lifebarset: 0 130}{lifebar: 15}{0x53}{person: 30 683 682}{name: 7680}{hidetextbox: 0}{color: 3}One man, pulling a stand.{b}
+Another man, facing him.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 138 0}{lifebarset: 0 131}{lifebar: 16}{0x53}{person: 30 686 685}{name: 7680}{hidetextbox: 0}{color: 3}I saw them quite clearly.{b}
+The man facing the victim{b}
+was the defendant.{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 132}{lifebar: 15}{0x53}{person: 30 674 673}{name: 7680}{hidetextbox: 0}{color: 3}In his hand he held... yes,{b}
+a pistol! It was pointed at{b}
+the man pulling the stand.{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 133}{lifebar: 14}{0x53}{person: 30 683 682}{name: 7680}{hidetextbox: 0}{color: 3}A shot! The bullet hit the man{b}
+pulling the stand from the{b}
+front, square in the forehead!{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 25}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{color: 2}(He seems pretty confident{b}
+in his testimony.){color: 0}{p}{bg: 28}{name: 1280}{person: 5 99 98}
+We always make the biggest{b}
+mistakes when we're our most{b}
+confident!{p}
+He's got a weak point{b}
+somewhere,{wait: 8} Apollo!{wait: 20} Find it!{p}{bg: 25}{name: 1024}{person: 4 58 58}{color: 2}
+(...{wait: 20}Right!{wait: 20} Better give that{b}
+testimony another listen.){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 673 673}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{8}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 4}On the way home from shopping,{wait: 8}{b}
+you say?{wait: 14} {speed: 3}Why go through the{b}
+park?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 682}{wait: 32}{name: 7680}{person: 30 683 682}{hidetextbox: 0}{speed: 5}
+Ah,{wait: 8} a fascinating inquiry.{p}{person: 30 674 673}{speed: 3}
+Revealing me culpable of{b}
+being insufficiently verbose!{p}{person: 30 686 685}
+Let us consider the time saved{b}
+by passing through the park on{b}
+the way home from the store:{p}{hidetextbox: 1}{person: 30 676 676}{hidetextbox: 0}{person: 30 683 682}
+In that time I am capable of{b}
+solving two GMAT problem sets.{p}{speed: 4}
+On average,{wait: 8} it requires me{b}
+3 minutes,{wait: 8} 24 seconds to{b}
+complete one such set.{nextpage_nobutton}
+Ergo,{wait: 8} the time to complete{b}
+two is,{wait: 8} on average,{wait: 8} 6 minutes{b}
+48 seconds.{nextpage_nobutton}
+However!{wait: 16} In the case that the{b}
+questions are in the verbal{b}
+category,{wait: 8} admittedly not m...{p}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{person: 4 62 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Th-{wait: 8}That's enough!{wait: 16} {speed: 4}Enough.{b}
+I get the idea.{p}{bg: 29}{name: 2560}{person: 10 263 262}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Mr. Justice!{wait: 12} {speed: 3}The court hopes{b}
+to finish cross-examination{b}
+sometime this month.{p}{bg: 26}{name: 13568}{person: 6 146 145}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Please.{wait: 16} I've a recording{b}
+booked after this trial.{p}{bg: 28}{name: 1280}{person: 5 99 98}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+And I've got a show to{b}
+perform.{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(Gee,{wait: 8} sorry you're all so{b}
+busy!){speed: 255}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 682 682}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{9}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}Were these men talking,{wait: 9} by{b}
+any chance?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}
+Ah,{wait: 8} now that you mention it,{wait: 8}{b}
+they were,{wait: 8} though I cannot{b}
+claim I heard them clearly.{p}{person: 30 686 685}
+Only fragments{speed: 8}...{wait: 20} {speed: 3}such as,{wait: 6}{b}
+"You lied to me!" Oh,{wait: 8} and...{p}
+"I'm gonna give you a taste of{b}
+your own medicine,{wait: 8} pal."{p}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{name: 13568}{person: 6 147 147}{hidetextbox: 0}
+Ah ha ha ha!{wait: 40} {person: 6 149 148}It's just as our{b}
+defendant claims!{p}{speed: 4}
+I believe he wished to "teach"{wait: 8}{b}{speed: 3}
+the victim what it felt like{b}
+to take a bullet in the heart.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}
+If that's true,{wait: 8} then this is a{b}
+vital piece of testimony!{p}{hidetextbox: 1}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 81 1}{sound: 22 1}{wait: 120}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{color: 2}
+(Sounds like he heard them{b}
+clearly enough to me!){color: 0}{p}{fademusic: 30}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 14 1}{sound: 26 1}{wait_noanim: 63}{bg: 27}{person: 30 676 676}{0x63}{name: 7680}{person: 30 674 673}{hidetextbox: 0}
+Might I be allowed to amend{b}
+my testimony?{p}{bg: 25}{name: 1024}{person: 4 58 58}{color: 2}
+(Wh...{wait: 20}What now!?){color: 0}{p}{hidetextbox: 1}{swoosh: 0 4096 30 682}{wait: 32}{name: 7680}{person: 30 683 682}{hidetextbox: 0}{speed: 4}
+To be precise,{wait: 8} he did not{b}
+say{wait: 8} "pal"{wait: 8} but{wait: 8} "man".{p}
+Yes,{wait: 8} that was the way of it.{wait: 16}{b}{speed: 3}
+I swear it on my diploma!{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}{color: 2}
+(What's the difference!?){color: 0}{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+And this other man,{wait: 8} who was{b}
+he?{nextpage_button}{0x23: 0}{music: 255 60}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 685 685}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 2}How can you be so sure{shake: 30 0} it was{b}{bgcolor: 2305 8 31}
+the defendant!?{p}
+The crime took place at night!{wait: 20}{b}
+It would have been too dark!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{person: 30 679 679}{0x63}{person: 30 680 680}{0x63}{wait: 60}{name: 7680}{person: 30 674 673}{hidetextbox: 0}{speed: 4}
+...{wait: 20}Perhaps I was remiss in{b}
+not mentioning this earlier.{p}{bg: 25}{name: 1024}{person: 4 37 36}
+Huh?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}
+You see,{wait: 8} in class,{wait: 8} I always{b}
+sit in the very backmost seat.{p}
+Do you know why?{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}{color: 2}
+(...{wait: 20}Who cares!?){color: 0}{p}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{person: 30 676 676}{0x63}{name: 7680}{person: 30 683 682}{hidetextbox: 0}{speed: 3}
+Because I do not wish anyone{b}
+to copy my{wait: 6} perfect{wait: 6} notes!{p}{bg: 29}{name: 2560}{person: 10 265 264}
+...{wait: 20}And this relates to your{b}
+testimony how?{p}{bg: 27}{name: 7680}{person: 30 683 682}
+I mention this to illustrate{b}
+my predisposition to that{b}
+which is{wait: 6} "perfect".{p}{person: 30 674 673}
+It was dark,{wait: 8} you say?{wait: 20} Yet{b}
+there are lights in the park.{p}
+If I say the defendant was in{b}
+the park that night,{wait: 8} then he{b}
+was in the park that night.{p}{person: 30 686 685}{speed: 4}
+It is a hard,{wait: 8} immutable fact.{p}{bg: 28}{name: 1280}{person: 5 99 98}{speed: 3}
+He sure is confident...{nextpage_button}{name: 1024}
+He seems to be telling the{b}
+truth, too.{wait: 16} *sigh*{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 673 673}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 45 44}{name: 1024}{hidetextbox: 0}{speed: 3}Are you sure the pistol you{b}{showphoto: 327}
+saw is the same as the one{b}
+just submitted as evidence?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{name: 7680}{person: 30 686 685}{hidetextbox: 0}{speed: 5}
+Am I "sure"?{b}{speed: 4}
+Surely...{wait: 20} you jest!{p}{speed: 3}
+...{wait: 23}Or so a {person: 30 674 673}{sound: 52 1}{bgcolor: 2305 8 31}common witness{b}
+would be tempted to say.{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+...{wait: 20}Huh?{p}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{bg: 27}{person: 30 679 679}{0x63}{person: 30 680 680}{0x63}{name: 7680}{person: 30 674 673}{hidetextbox: 0}{speed: 3}
+Yet I am no common witness.{p}
+I see not only events as they{b}
+are,{wait: 8} but the logical structure{b}
+governing these events!{p}{hidetextbox: 1}{person: 30 676 676}{0x63}{person: 30 686 685}{hidetextbox: 0}{speed: 4}
+First,{wait: 8} we must consider the{b}
+fact that it was night in the{b}
+park,{wait: 8} which indeed restricted{nextpage_nobutton}
+my field of vision due to{b}
+insufficient levels of{b}
+illumination.{wait: 16} Now if we{nextpage_nobutton}
+consider that the pistol,{wait: 8} let{b}
+us call it{wait: 8} "Object A", was{b}
+indeed shrouded in darkness it{nextpage_nobutton}
+becomes difficult to say with{b}
+certainty that Object A was{b}
+indeed Object A.{nextpage_button}{bg: 28}{name: 1280}{person: 5 99 98}{speed: 3}
+I think he means he couldn't{b}
+see it that clearly.{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(My badge for a normal{b}
+witness...){color: 0}{p}{bg: 27}{name: 7680}{person: 30 686 685}{speed: 3}
+Yet the fact that a pistol{b}
+was fired before my eyes is{b}
+indisputable.{p}{person: 30 683 682}
+I can still see it when I{b}
+close my eyes.{wait: 16} The defendant{b}
+raised his weapon...{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 682 682}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}Are you absolutely certain{b}
+only one shot was fired?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}
+Yes.{wait: 16} Of course it was one{b}
+shot.{wait: 16} Why do you ask?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}{color: 2}
+(Ah ha!{wait: 16} {speed: 3}A contradiction!{b}
+Finally!){color: 0}{p}{person: 4 45 44}
+Mr. Stickler. According to{b}
+the Court Record,{wait: 12} {showphoto: 327}the pistol{b}
+was fired twice.{nextpage_button}{person: 4 66 65}
+A clear contradiction!{nextpage_nobutton}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{speed: 4}
+...{wait: 20}Good eyes,{wait: 8} Herr Justice.{b}{speed: 3}
+You're cool.{wait: 16} Real cool.{nextpage_button}{bg: 25}{name: 1024}{person: 4 36 36}{sound: 51 1}{bgcolor: 2305 8 31}
+Eh?{wait: 30}{b}{person: 4 50 49}
+Y-{wait: 16}You really think so?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}
+Yet,{wait: 8} there is no reason why{b}
+this other shot had to have{b}
+been fired that night.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}
+Meaning...?{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{showphoto: 71}
+This pistol came from the{b}
+Kitaki Family mansion,{wait: 8} ja?{p}
+I think it's not unreasonable{b}
+to assume the pistol had been{b}
+fired once before that night.{p}{person: 6 149 148}
+During,{wait: 8} perhaps...{wait: 16} another{b}
+altercation?{nextpage_button}{bganim: 98 579}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(Ugh...{wait: 20} He's got a point.){color: 0}{p}{bg: 28}{name: 1280}{person: 5 101 100}
+Judging from his smug{b}
+expression...{p}{person: 5 105 104}{speed: 3}
+...I'd say Prosecutor Gavin{b}
+had that answer ready before{b}
+you even spotted the problem.{p}{jmp: 135}{endjmp}
+
+{{13}}
+{bop}{0x29: 0}{0x6d: 0}{bg: 25}{person: 4 40 40}{name: 1024}{hidetextbox: 0}{color: 2}(Whew{speed: 8}...{wait: 16} {speed: 3}If that's all of it,{wait: 8}{b}
+I think I have a chance.){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{person: 6 146 145}{name: 13568}{hidetextbox: 0}
+Is that you...{wait: 20} relaxing,{wait: 8}{b}
+I see,{wait: 8} Herr Justice?{nextpage_button}{bg: 25}{person: 4 53 52}{name: 1024}
+Huh?{wait: 16} Oh,{wait: 8} er{speed: 8}{0x5a}...{wait: 20}{b}{person: 4 37 36}
+Ahem!{wait_noanim: 40}{nextpage_nobutton}{person: 4 64 65}{fademusic: 0}{music: 5 0}{shake: 30 2}{sound: 26 1}{speed: 2}
+Ob{bgcolor: 2305 8 31}je{bgcolor: 2305 8 31}ct{bgcolor: 2305 8 31}io{bgcolor: 2305 8 31}n!!!{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+...{wait: 20}Once is quite enough,{wait: 8}{b}
+Mr. Justice.{nextpage_button}{bg: 28}{person: 5 103 102}{name: 1280}{speed: 2}
+Apollo!{wait: 16} Pace yourself!{wait: 16} This{b}
+trial's not over yet!{nextpage_button}{bg: 25}{person: 4 60 60}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Urk!{wait: 26} Eh,{wait: 8} right!{wait: 20} Ahem,{wait: 8} um,{wait: 8}{b}{showphoto: 321}{person: 4 59 58}{shake: 30 0}{bgcolor: 2305 8 31}
+look at this!{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 4}
+The...{wait: 12} autopsy report?{wait_noanim: 30}{b}{person: 10 263 262}
+Is there a problem with the{b}
+autopsy report?{nextpage_button}{bganim: 98 579}{bg: 25}{person: 4 59 58}{name: 1024}
+Um,{wait: 8} right,{wait: 8} a problem...{wait_noanim: 30}{b}{person: 4 40 40}{speed: 6}
+Problem...{wait: 20} problem{speed: 8}...{wait: 40}{nextpage_nobutton}{bg: 25}{person: 4 60 60}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Yes!!!{wait: 20} {bg: 25}{person: 4 59 58}{speed: 3}The problem is the{b}
+location of the entry wound!{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 5}
+The location...?{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{speed: 3}
+You testified that the killer{b}
+shot the victim{wait: 6} "square in{b}
+the forehead",{wait: 10} did you not?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{person: 30 686 685}{name: 7680}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 5}
+Ah,{wait: 20} {speed: 4}I have already determined{b}
+your{wait: 6} "angle"{wait: 6} of inquiry.{nextpage_button}{hidetextbox: 1}{fademusic: 45}{bg: 27}{person: 30 676 676}{0x63}{person: 30 683 682}{name: 7680}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 20}Allow me to explain.{wait: 16} It{b}
+is quite simple,{wait: 8} really:{wait: 7}{nextpage_nobutton}
+First,{wait: 8} understand that when{b}
+I say{wait: 8} "square",{wait: 8} I speak not{b}
+of geometrical absolute.{wait: 7}{nextpage_nobutton}
+What do I mean by this?{wait: 20} For{b}
+example,{wait: 8} the defection of a{wait: 6}{b}
+"meter" is 1,650,763.73 times{wait: 7}{nextpage_nobutton}
+the wavelength of the light{b}
+emitted by a krypton particle,{wait: 8}{b}
+as we all know.{wait: 20} In addition,{wait: 8}{nextpage_nobutton}
+it is a well known fact that{b}
+krypton particles are rare,{wait: 8}{b}
+and invisible to the naked{wait: 7}{nextpage_nobutton}
+eye,{wait: 8} which points to a basic{b}
+fallacy in your line of{b}
+reasoning,{wait: 8} namely,{wait: 8} that wh--{wait: 7}{nextpage_nobutton}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 3}
+Mr. Justice.{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}
+Yes?{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}
+Was your objection to these,{wait: 8}{b}
+er,{wait: 8} krypton particle things?{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}
+This is the big time,{wait: 8} and you{b}
+are obsessed with something so{b}
+small?{wait: 20} You disappoint me.{nextpage_button}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+N-N-No!{wait: 12} I'm obsessed with{b}
+something big!{p}{person: 4 59 58}{speed: 3}
+I mean,{wait: 8} there's a bigger,{wait: 8}{b}
+less nitpicky problem here!{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 5}
+Do tell...{nextpage_button}{bg: 25}{person: 4 45 44}{showphoto: 321}{name: 1024}{speed: 3}
+Just look at the autopsy{b}
+report!{wait: 20} {speed: 4}The location of the{b}
+entry wound was...{nextpage_button}{person: 4 64 65}{0x23: 0}{music: 255 60}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...the {color: 1}right{bgcolor: 2305 8 31} temple{color: 0}!{nextpage_button}{bganim: 98 579}{bg: 27}{person: 30 674 673}{name: 7680}{speed: 4}
+T-{wait: 16}Temple...?{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{speed: 3}
+Mr. Stickler,{wait: 8} you said quite{b}
+clearly that the victim was{b}
+shot{wait: 6} "{color: 1}square in the forehead{color: 0}"!{nextpage_button}{fademusic: 60}{person: 4 37 36}
+That's a contradiction!{0x5a}{wait: 30}{b}{person: 4 50 49}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 8}
+...{wait: 16}{speed: 4}Isn't it?{person: 4 51 51}{0x63}{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 81 1}{sound: 22 1}{wait: 120}{bg: 25}{person: 4 36 36}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}{color: 2}
+(It is,{wait: 16} right?{wait: 20} Finally!){color: 0}{nextpage_button}{sound: 22 0}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{person: 6 151 150}{name: 13568}{hidetextbox: 0}{fademusic: 0}{music: 18 0}{speed: 5}
+Herr Justice...{wait: 16} {speed: 3}Oh,{wait: 8} Herr{b}
+Justice...{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Yes...?{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+Your tactics are outdated.{b}
+Trying to shake the witness{b}
+by objecting to trifles?{p}{speed: 4}
+Surely you haven't forgotten{wait_noanim: 25}{b}{person: 6 149 148}
+the fatal wound your master{b}
+suffered seven years ago?{p}{person: 6 149 148}
+Phoenix Wright{speed: 8}...{wait: 20} {speed: 3}was it?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 58 58}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{shake: 30 0}{speed: 2}
+...!{p}{person: 4 59 58}{speed: 2}
+Look,{wait: 8} {speed: 3}I know the wound was{b}{person: 4 66 65}
+in the wrong place according{b}
+to this testimony!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 677}{wait: 32}{name: 7680}{person: 30 677 677}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{hidetextbox: 0}
+Ny{bgcolor: 2305 8 31}urk...!{wait: 30}{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{person: 6 146 145}{name: 13568}{hidetextbox: 0}
+Hey, Herr Forehead...{nextpage_button}{bg: 25}{person: 4 36 36}{sound: 52 1}{bgcolor: 2305 8 31}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+...!{wait: 25}{b}{speed: 4}{color: 2}
+(F..."Forehead"!?){nextpage_button}{color: 0}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 3}
+Let us imagine you are walking{b}
+though the park.{p}
+You see two men facing each{b}
+other.{wait: 16} One with a pistol{b}
+trained on the other.{p}{person: 6 146 145}{speed: 4}
+...{wait: 20}{speed: 3}What would you do,{wait: 8} Herr{b}
+Forehead?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Well,{wait: 8} I...{wait: 20} I guess...{p}{speed: 3}
+I would try to stop them.{wait: 16}{b}
+I'd probably shout, "Stop!"{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}
+And you,{wait: 12} Fr{1988}ulein?{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+M-{wait: 8}Me?{p}{person: 5 105 104}
+Well{speed: 8}...{wait: 12} {speed: 3}I'd probably scream,{b}
+"Eeeeeek!"{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}
+And you,{wait: 8} Herr Stickler?{wait_noanim: 30}{b}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{fademusic: 30}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+What did you sh{bgcolor: 2305 8 31}out,{wait: 8} I wonder?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{person: 4 60 60}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Ack...!{wait: 40}{b}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(If the victim turned his head{b}
+at the last moment{speed: 8}...{wait: 12}{speed: 3}*gulp*){color: 0}{nextpage_button}{hidetextbox: 1}{bg: 27}{person: 30 676 676}{0x63}{person: 30 686 685}{name: 7680}{hidetextbox: 0}{speed: 4}
+...{wait: 20}Ah yes.{wait: 16} Thank you for{b}
+jogging my memory.{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+It sounds likes an addendum{b}
+to the testimony is required.{nextpage_button}{hidetextbox: 1}{testimony_animation: 1}{special_jmp}{endjmp}

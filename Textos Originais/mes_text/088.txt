@@ -1,0 +1,658 @@
+
+
+{{0}}
+{bop}{0x62: 4 4}{bganim: 98 267}{0x74: 2 0}{bg: 4095}{person: 0 0 0}{name: 1792}{speed: 4}The nightmare trial was{b}
+over{speed: 8}...{p}{speed: 4}
+...{wait: 10}and the new nightmare of{b}
+figuring out what had happened{b}
+had just begun.{p}{speed: 3}
+I wanted to wake up,{wait: 8}{b}
+to walk away.{p}{speed: 4}
+...{wait: 8}But I figured I'm the{b}
+only one who could do this,{b}
+probably.{p}
+And besides,{wait: 8} I had plenty of{b}
+time.{p}{speed: 4}
+Thanks to the Bar Association{b}
+review board's decision.{p}{speed: 5}
+It's hard to work when{b}
+your attorney's badge{b}
+has been taken away.{nextpage_button}{hidetextbox: 1}{wait: 60}{0x10: 33633}{jmp: 130}{endjmp}
+
+{{1}}
+{bop}{person: 29 659 659}{name: 1792}{showphoto: 236}{speed: 4}{color: 2}(My {color: 1}Magatama{color: 2}{speed: 8}...{wait: 8}{speed: 4} one of my most{b}
+prized possessions, which I{b}
+got during a certain case...){p}{speed: 3}
+(It can show me the {color: 1}locks{color: 2}{b}
+on people's hearts.){p}
+(And if I can {color: 1}unlock{color: 2} their{b}
+hearts...){p}
+(...they'll tell me their{b}{color: 1}
+secrets{color: 2}!){p}{speed: 4}
+(The {color: 1}Magatama{color: 2} starts it all.){p}{speed: 3}
+(And the {color: 1}Magatama{color: 2} ends it!){color: 0}{nextpage_button}{removephoto}{0x89}{0x10: 33641}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{0x62: 4 4}{0x25: 1}{bg: 257}{bganim: 98 267}{person: 0 0 0}{name: 0}{0x26: 0}{speed: 10}{0x30: 2}{0x74: 2 0}{center_text: 1}{hidetextbox: 0}{color: 3}Seven Years Ago{b}
+District Court{b}
+Defendant Lobby No. 2{color: 0}{nextpage_button}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 60}{name: 1792}{hidetextbox: 0}{speed: 4}
+...Didn't think I'd be back{b}
+here for a while.{nextpage_button}{speed: 3}
+I didn't want to have to{b}
+remember that day.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 36}{person: 10 259 258}{0x5a}{0x5f: 3 1 31}{bgcolor: 772 1 31}{wait: 25}{fademusic: 0}{music: 46 0}{name: 2560}{hidetextbox: 0}{0x59}{speed: 8}
+...{wait: 20}{speed: 3}Though I deeply regret{b}
+having to declare a verdict{b}
+in this way...{nextpage_button}{person: 10 263 262}
+This trial is over.{nextpage_button}{bg: 34}{person: 31 705 704}{name: 7936}{sound: 52 1}{bgcolor: 2305 8 31}
+Ah,{wait: 16} {speed: 3}Your Honor?{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}
+Y-Yes,{wait: 10} Mr. Zak?{0x5a}{wait: 16}{0x59}{nextpage_button}{bg: 34}{person: 31 705 704}{name: 7936}
+There is one thing I wish to{b}
+make clear.{nextpage_button}{person: 31 709 708}{speed: 5}
+Today,{wait: 8} in this courtroom...{p}{person: 31 705 704}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 12}you cannot declare me{b}
+"guilty".{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+What are you talking about?{nextpage_button}{bg: 34}{person: 31 705 704}{name: 7936}{speed: 5}
+I am talking{speed: 8}{0x5a}..{speed: 10}.{wait: 70}{b}{person: 31 707 706}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 1}
+about{bgcolor: 2305 8 31} this!{0x5a}{wait: 40}{nextpage_nobutton}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{person: 0 0 0}{bg: 34}{wait: 30}{fademusic: 0}{music: 22 0}{sound: 50 1}{shake: 30 2}{bgcolor: 769 0 31}{wait: 1}{bgcolor: 2305 8 31}{wait: 5}{bgcolor: 2305 8 31}{wait: 8}{bgcolor: 2305 8 31}{wait: 3}{bgcolor: 2305 8 31}{wait: 10}{bgcolor: 2305 8 31}{wait: 80}{bg: 32}{person: 21 475 474}{name: 1792}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+M-{wait: 10}Mr. Enigmar!!!{nextpage_button}{bg: 33}{name: 13568}{person: 23 527 526}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+The defendant's escaped!{b}{bgcolor: 2305 8 31}{shake: 30 0}
+Find him!{wait: 15} Quick!{nextpage_button}{bg: 36}{person: 10 263 262}{name: 2560}{sound: 26 1}{shake: 30 2}{bgcolor: 2305 8 31}
+Bailiff!{wait: 20} Close all exits from{b}
+the building!{nextpage_button}{hidetextbox: 1}{bg: 31}{person: 0 0 0}{animation: 69 1}{animation: 70 1}{animation: 71 1}{animation: 73 1}{sound: 22 1}{wait: 120}{hidetextbox: 0}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+On the double!{wait: 20} He must not be{b}
+allowed to escape!{speed: 3}{nextpage_button}{fademusic: 30}{wait: 30}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 257}{person: 0 0 0}{0x5f: 4 1 1}{bgcolor: 772 1 31}{wait: 25}{wait: 60}{name: 1792}{hidetextbox: 0}{color: 2}
+(When I came here on that{b}
+fateful morning, I still had{b}
+my badge. But now...){nextpage_button}{speed: 4}
+(Like an amputated limb...{wait: 16}{b}
+I can still feel it itching.){nextpage_button}{speed: 3}
+(Where do I start?{wait: 16} I don't {b}
+even have the authority to{b}
+investigate{speed: 8}...){nextpage_button}{color: 0}{name: 512}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hey,{wait: 10} you there.{wait: 16} Sir!{nextpage_button}{person: 29 669 667}{0x38: 1}{soundtoggle: 0}{sound: 160 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Down on{bgcolor: 2305 8 31} the hands!{wait: 8} Floor{wait: 8}{b}
+on{bgcolor: 2305 8 31} your head!{wait: 20} Now now{bgcolor: 2305 8 31} now!{nextpage_button}{soundtoggle: 1}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{name: 1792}
+Wh{wait: 5}-Wh{wait: 5}-What's the big idea!?{wait: 12}{b}
+My ears...!{nextpage_button}{hidetextbox: 1}{person: 29 658 658}{0x63}{shake: 30 0}{name: 512}{person: 29 660 659}{hidetextbox: 0}{speed: 3}
+No unauthorized personnel{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+aren't allowed in here!{nextpage_button}{name: 1792}{speed: 6}
+......{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+But that would mean all{b}
+unauthorized personnel{b}
+are allowed.{nextpage_button}{name: 512}{person: 29 672 672}{name: 512}{speed: 2}
+Zo{bgcolor: 2305 8 31}oooooooo{bgcolor: 2305 8 31}oooo{bgcolor: 2305 8 31}ooooooink!?{wait: 90}{nextpage_nobutton}{fademusic: 0}{music: 38 0}{person: 29 666 665}{speed: 4}
+...{wait: 12}{speed: 3}I just say it like it is{b}
+sir!{wait: 16} And it's usually wrong.{p}
+Thrown out of the precinct...{wait: 12}{b}
+lost my friends,{wait: 12} my girl{b}
+and even my wallet.{nextpage_button}{name: 1792}{speed: 6}
+......{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+We've{speed: 8}...{wait: 16} met before,{wait: 10} haven't{b}
+we?{nextpage_button}
+On a case{speed: 8}...{wait: 20} {speed: 3}two years ago?{nextpage_button}{hidetextbox: 1}{person: 29 658 658}{0x63}{shake: 30 0}{name: 512}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{person: 29 660 659}{speed: 2}
+No recollection of that,{wait: 8} sir!{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{speed: 5}
+...Huh?{nextpage_button}{name: 512}{person: 29 660 659}{speed: 3}
+For me,{wait: 6} "working on a case"{wait: 6} is{b}
+always in the present{b}
+progressive tense,{wait: 12} sir!{nextpage_button}{person: 29 669 667}{soundtoggle: 0}{sound: 160 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+There is{bgcolor: 2305 8 31} no past!{wait: 8} There is{b}{bgcolor: 2305 8 31}
+only now!{wait: 16} {bgcolor: 2305 8 31}Sir!{nextpage_button}{soundtoggle: 1}{name: 1792}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+OK,{wait: 10} OK!{wait: 25}{b}{speed: 3}
+You're...{wait: 16} the bailiff,{wait: 8} right?{nextpage_button}{hidetextbox: 1}{person: 29 658 658}{0x63}{shake: 30 0}{name: 7424}{person: 29 660 659}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yes sir!{wait: 10} Court Bailiff{bgcolor: 2305 8 31} Mike{b}
+Meekins at your service,{wait: 8} sir!{nextpage_button}{soundtoggle: 1}{newevidence: 32954}{name: 1792}{speed: 4}
+Um...{nextpage_button}{speed: 3}
+I've asked to meet with the{b}
+bailiff at this court who let{b}
+the magician escape.{nextpage_button}{person: 29 660 659}{name: 7424}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Let me try to make this as{b}
+absolutely clear as possible{b}
+for you,{wait: 10} sir!{nextpage_button}{person: 29 669 667}{soundtoggle: 0}{sound: 160 1}{bgcolor: 2305 8 31}{shake: 30 0}
+It was meeeeeeeeeeeee!{b}
+Sir.{nextpage_button}{soundtoggle: 1}{name: 1792}{speed: 3}
+B-{wait: 7}But...{wait: 16} you were a regular{b}
+police officer once...{wait: 16} right?{nextpage_button}{name: 7424}{fademusic: 120}
+......{wait: 40}{wait: 120}{b}{person: 29 666 665}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Sometimes bad things happen{b}
+to good people,{wait: 10} sir.{nextpage_button}{name: 1792}{speed: 3}{color: 2}
+(Something tells me it's a{b}
+long story.{wait: 16} Let's not go{b}
+there.){color: 0}{nextpage_button}{person: 29 665 665}{name: 1792}{speed: 3}
+So,{wait: 8} {sound: 52 1}{bgcolor: 2305 8 31}you were in charge of{b}
+security at the time of the{b}
+"vanishing"...?{nextpage_button}{hidetextbox: 1}{person: 29 662 662}{0x63}{person: 29 664 663}{name: 7424}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I'm.{wait: 20} Dying.{wait: 20} Over. Here!{p}{bgcolor: 2305 8 31}{shake: 30 0}
+Oh!{wait: 12} Ohh!{wait: 8} It's a hard knock{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+life,{wait: 10} sir!{nextpage_button}{person: 29 666 665}{speed: 4}
+Thrown out of the precinct...{wait: 12}{b}
+lost my friends,{wait: 12} my girl{b}
+and even my wallet.{nextpage_button}{person: 29 665 665}{name: 1792}{speed: 3}{color: 2}
+(Guess I wasn't the only{b}
+"victim"{speed: 8}...){color: 0}{nextpage_button}{fademusic: 0}{music: 38 0}{0x10: 33643}{0x80}{bop}{p}{0x1d: 14}{0x89}
+01{0x82}{bop}F{0x8c}{0x8b}{0x32: 14 257}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 257}{person: 29 665 665}{bgcolor: 258 1 31}{wait: 15}{name: 1792}{hidetextbox: 0}{speed: 4}...{wait: 7}I'm sorry.{p}
+I had no idea how much you'd{b}
+suffered on account of this{b}
+case.{nextpage_button}{name: 7424}{speed: 7}
+It...{wait: 60}{b}{person: 29 658 658}{0x63}{shake: 30 0}{bgcolor: 2305 8 31}{person: 29 660 659}{speed: 2}
+It's an honor,{wait: 10} sir!!!{p}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+I've apologized to people{b}
+many,{wait: 12} many times!{wait: 10} Sometimes{b}
+more than once!{p}{person: 29 669 667}{soundtoggle: 0}{sound: 160 1}{bgcolor: 2305 8 31}{shake: 30 0}
+But this is the first time{bgcolor: 2305 8 31}{b}
+anyone's ever apologized{shake: 30 0} to{b}
+meeeeeeeeeeeeee!{nextpage_button}{soundtoggle: 1}{person: 29 667 667}{name: 1792}{speed: 3}
+Actually,{wait: 7} about that girl...{nextpage_button}
+...I'm sort of her guardian{b}
+now.{nextpage_button}{person: 29 671 670}{name: 7424}
+Is that so?{nextpage_button}{fademusic: 120}{speed: 5}
+......{nextpage_button}{speed: 8}
+.{speed: 10}.{speed: 12}.{speed: 14}.{speed: 16}..{nextpage_button}{hidetextbox: 1}{person: 29 662 662}{0x63}{person: 29 664 663}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Sir!{wait: 16} You should know that{b}{shake: 30 0}{bgcolor: 2305 8 31}
+I harbor no ill feelings{b}
+whatsoever in my harbor!{nextpage_button}{person: 29 659 659}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Um, OK...{nextpage_button}{person: 29 660 659}{name: 7424}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+I let the defendant escape,{wait: 8}{b}
+that's the stone cold truth!{p}{shake: 30 0}{bgcolor: 2305 8 31}
+Just another step on my way{b}
+from singing the blues to{b}
+wearing the blues!{nextpage_button}{person: 29 669 667}{bgcolor: 2305 8 31}{shake: 30 0}{soundtoggle: 0}{sound: 160 1}{speed: 2}
+Someday,{wait: 7} sir, I'll be standing{b}
+side-by-side{bgcolor: 2305 8 31} with the great{b}
+Detective{bgcolor: 2305 8 31}{shake: 30 0} Guamshooooooooooo{bgcolor: 2305 8 31}e!{nextpage_button}{soundtoggle: 1}{person: 29 667 667}{name: 1792}{speed: 4}
+...Erm,{wait: 12} Mr. Meekins.{p}{speed: 3}
+This is a free ticket to the{b}
+show at the Wonder Bar.{p}{speed: 4}
+If you want...{nextpage_button}{name: 7424}{speed: 7}
+It...{wait: 60}{b}{person: 29 658 658}{0x63}{shake: 30 0}{bgcolor: 2305 8 31}{person: 29 660 659}{speed: 2}
+It's an honor,{wait: 8} sir!!!{p}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Sir!{wait: 12} I can't count the number{b}
+of things I've had taken from{b}
+me,{wait: 8} sir!{p}{person: 29 669 667}{soundtoggle: 0}{sound: 160 1}{bgcolor: 2305 8 31}{shake: 30 0}
+But no one's{bgcolor: 2305 8 31} ever given me{b}
+anything for{shake: 30 0} freeeeeeee!{nextpage_button}{soundtoggle: 1}{hidetextbox: 1}{person: 29 658 658}{0x63}{shake: 30 0}{name: 7424}{person: 29 660 659}{hidetextbox: 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Right!{wait: 16} I'll see you in {b}{shake: 30 0}{bgcolor: 2305 8 31}
+court next time then,{wait: 8} sir!{fademusic: 0}{music: 38 0}{nextpage_button}{name: 1792}{speed: 3}
+I look forward to it.{nextpage_button}{hidetextbox: 1}{0x26: 1}{bganim: 98 519}{wait: 60}{0x5f: 15 3 0}{wait: 120}{name: 1792}{hidetextbox: 0}{speed: 4}
+All eyes were on Zak Gramarye{b}
+that day in court...{wait: 12} until{b}
+his mysterious disappearance.{nextpage_button}{speed: 3}
+Now part of the mystery's been{b}
+revealed{speed: 8}...{wait: 20} {speed: 3}but the magician{b}
+remained out of sight.{nextpage_button}{speed: 4}
+It would be seven years{b}
+before I met him again{speed: 8}...{nextpage_button}{hidetextbox: 1}{wait: 60}{fademusic: 120}{wait: 120}{0x64}{rejmp: 4}{b}{hideperson}{wait: 25}{0x5f: 16 1 1}{0x10: 33644}{0x10: 33642}{0x26: 0}{bganim: 0 4096}{0x74: 18 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{person: 29 659 659}{name: 1792}{hidetextbox: 0}{speed: 3}The last time we met, you{b}
+were a police officer,{wait: 8} right?{nextpage_button}
+...{wait: 16}In fact,{wait: 8} you're still{b}
+wearing your uniform.{nextpage_button}{person: 29 666 665}{name: 7424}{sound: 52 1}{bgcolor: 2305 8 31}
+Sir I{speed: 8}...{wait: 12}{speed: 3} I wish I didn't have{b}
+to tell you this...{p}
+...but last year,{wait: 8} tragedy{b}
+struck a rising star at the{b}
+precinct!{nextpage_button}{person: 29 660 659}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I lost my case files four{b}
+times...{wait: 12} in three days!{b}
+They fired me!{nextpage_button}{name: 1792}{speed: 4}
+...That takes real talent,{wait: 8}{b}
+actually.{wait: 16} They don't know {b}
+what they're missing.{p}{name: 7424}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+So here I am,{wait: 10} sir! Forced to{b}
+start from square one,{wait: 10} a{b}
+lowly bailiff!{nextpage_button}{name: 1792}{speed: 3}
+But,{wait: 10} your uniform...{nextpage_button}{name: 7424}{person: 29 671 670}
+...{wait: 12}I took it with me as a{b}
+souvenir the day I was fired!{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(That can't be legal.){nextpage_button}{color: 0}{speed: 8}
+So...{wait: 20} {speed: 3}you were the one who{b}
+let the magician get away{b}
+that day?{p}{hidetextbox: 1}{person: 29 662 662}{0x63}{person: 29 664 663}{name: 7424}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I'm.{wait: 20} Dying.{wait: 20} Over. Here!{p}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+A star rises among the court{b}
+bailiffs,{wait: 10} full of hope!{wait: 16}{b}
+Then...{wait: 16} tragedy strikes!{nextpage_button}{name: 1792}{speed: 3}
+Is there anything you can{b}
+tell me about it?{nextpage_button}
+...About Zak Gramarye's{wait: 6}{b}
+"{color: 1}disappearance{color: 0}"?{nextpage_button}{person: 29 669 667}{name: 7424}{soundtoggle: 0}{sound: 160 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oh,{wait: 10}{bgcolor: 2305 8 31} the {bgcolor: 2305 8 31}humanity!!!!!!{nextpage_button}{soundtoggle: 1}{person: 29 663 663}{name: 1792}{speed: 4}
+...{wait: 16}That's enough of that.{speed: 255}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{person: 29 671 670}{name: 7424}{hidetextbox: 0}{speed: 3}Why yes,{wait: 6} I'd say it was{b}
+around 2:00 PM when I heard{b}
+a commotion in court.{p}
+I opened the door to see{b}
+what might be amiss.{nextpage_button}{person: 29 664 663}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 3}
+The door slams open!{wait: 16} Slam!{wait: 12}{b}{speed: 2}{shake: 30 0}{bgcolor: 2305 8 31}
+And some guy's face is right{b}
+there in front of me!{wait: 8} Face!{nextpage_button}{name: 1792}{speed: 3}
+So...{wait: 12} you saw someone{b}
+suspicious coming your way.{nextpage_button}{person: 29 671 670}{name: 7424}
+Yes!{wait: 16} And I,{wait: 8} being a bailiff{b}
+of little standing... I gave{b}
+chase!{p}{person: 29 660 659}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+I chased that silk hat all{b}
+the way down the hall,{wait: 8} sir!{nextpage_button}{person: 29 663 663}{name: 1792}{showphoto: 25}{speed: 3}
+I have a diagram of the{b}
+court building here...{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 90}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{fademusic: 45}{wait: 45}{wait: 30}{fademusic: 0}{music: 4 0}{name: 7424}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah ha!{wait: 12} There's Courtroom No.7.{b}
+That's where I was,{wait: 12} sir!{b}{littlesprite: 13825}{0x3a: 54 96 120}{0x3c: 13825}{wait: 90}{0x3c: 13824}{nextpage_button}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+All by myself!{wait: 16} Nary a friend{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+to call my own!{nextpage_button}{name: 1792}
+OK...{wait: 20} {speed: 3}And which way did Zak{b}
+Gramarye run after bursting{b}
+through the courtroom door?{nextpage_button}{littlesprite: 13569}{0x3a: 53 92 104}{0x6b: 118 104 30}{0x3b: 13572 0}{0x3d: 13568}{0x6b: 118 36 80}{0x3b: 13572 0}{name: 7424}{speed: 2}
+He went up,{wait: 10} like this,{wait: 12} and{b}
+around the corner,{shake: 30 0}{0x3d: 13568}{0x6b: 220 36 80}{0x3b: 13572 0}{bgcolor: 2305 8 31} like that!{p}{0x3d: 13568}{0x6b: 118 120 20}{0x3b: 13828 0}{0x3d: 13824}
+So I,{wait: 8} with no delay...{nextpage_button}{bgcolor: 2305 8 31}{shake: 30 0}{0x6b: 118 54 60}{0x3b: 13828 0}
+...{wait: 6}ran after him with no{b}
+delay!{b}{0x3d: 13824}{nextpage_button}{0x6b: 118 36 10}{0x3b: 13828 0}{0x3d: 13824}{0x6b: 130 36 30}{0x3b: 13828 0}{speed: 4}
+When I turned the corner...{0x3d: 13824}{nextpage_button}{0x6b: 236 36 20}{0x3b: 13572 0}{0x3d: 13568}{0x6b: 236 116 40}{0x3b: 13572 0}{speed: 2}
+...I saw that magic man run{b}
+into the defendant lobby!{b}{0x3d: 13568}{p}{0x6b: 236 36 80}{0x3b: 13828 0}{speed: 3}
+Swiftly,{wait: 8} I ran!{0x3d: 13824}{nextpage_button}{0x6b: 236 100 80}{0x3b: 13828 0}{speed: 2}
+Following him,{wait: 10} I threw myself{b}{shake: 30 0}{bgcolor: 2305 8 31}
+boldly into the room!{b}{0x3d: 13824}{nextpage_button}{bganim: 98 514}{fademusic: 45}{bg: 257}{person: 29 660 659}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Why,{wait: 8} I remember it like it{b}
+was right here! Because it{b}
+was!{wait: 16} Lobby No. 2, sir!{nextpage_button}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+You ran into this room...?{nextpage_button}{speed: 3}{color: 2}
+(Hmm.{wait: 12} I don't see any place{b}
+to hide in here...){nextpage_button}{color: 0}{person: 29 666 665}{name: 7424}{speed: 2}
+Believe it or not,{wait: 12} {speed: 3}sir,{b}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+I didn't believe it!{p}{person: 29 664 663}
+Here!{wait: 16} In this{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1} room!{wait: 20} The{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{b}
+magician!{wait: 16}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31} Gone! Vanished{b}
+like a puff of smoke!{nextpage_button}{person: 29 669 667}{soundtoggle: 0}{sound: 160 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Except there{bgcolor: 2305 8 31} wasn't even{b}
+any{bgcolor: 2305 8 31} smoke!{wait: 20} He was{bgcolor: 2305 8 31} just...{b}{shake: 30 0}
+gone!{nextpage_button}{soundtoggle: 1}{person: 29 667 667}{name: 1792}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 45}{b}{speed: 3}
+That's impossible.{nextpage_button}{person: 29 664 663}{name: 7424}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Yes,{wait: 8} that!{wait: 12}{shake: 30 1}{bgcolor: 2305 8 31} That word!{wait: 12}{b}
+Oh how many times have{sound: 50 1} I{b}{shake: 30 1}{bgcolor: 2305 8 31}
+said that word!{nextpage_button}{person: 29 666 665}{speed: 4}
+Even the sound of it causes{b}
+me indescribable pain!{wait: 16}{p}{speed: 5}
+...I'm dying...{wait_noanim: 30}{b}{person: 29 669 667}{soundtoggle: 0}{sound: 160 1}{bgcolor: 2305 8 31}{shake: 30 0}
+I'm dying over heeeeeeeeere!{speed: 2}{fademusic: 0}{music: 38 0}{nextpage_button}{soundtoggle: 1}{name: 1792}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 3}
+O-OK,{wait: 10} I won't say it again,{wait: 12}{b}
+promise!{p}{person: 29 665 665}{name: 1792}
+But,{wait: 8} you have to admit,{wait: 8}{b}
+it's impo...{wait: 25} err... difficult{b}
+to{wait: 6} {color: 1}vanish{color: 0}{wait: 6} into thin air!{p}
+Did you search{person: 29 659 659} the lobby?{nextpage_button}{fademusic: 120}{name: 7424}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 60}{b}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{person: 29 666 665}{speed: 3}
+I searched.{0x23: 0}{music: 255 90}{nextpage_button}{name: 1792}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 30}{b}{speed: 3}{color: 2}
+(Why the pause...?){color: 0}{nextpage_button}{person: 29 660 659}{name: 7424}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Th-{wait: 10}Th-{wait: 10}{shake: 30 0}{bgcolor: 2305 8 31}There was{shake: 30 0}{bgcolor: 2305 8 31} n-{wait: 10}n-{wait: 10}n-{wait: 10}{shake: 30 1}{bgcolor: 2305 8 31}nothing{b}
+here at all.{wait: 10} Sir!{nextpage_button}{person: 29 664 663}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+That's right!{wait: 12} Nothing was{b}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+here!{wait: 16}{bgcolor: 2305 8 31} Sir!{nextpage_button}{name: 1792}{color: 2}
+(How can he talk so loud{b}
+and still be{person: 29 659 659} hiding{b}
+something...?){nextpage_button}{color: 0}{0x51: 3 53}
+{27905}{4942}{0x10: 33645}{0x37: 4 0}{0x37: 5 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{person: 29 659 659}{name: 1792}{hidetextbox: 0}{speed: 3}So Zak was in this room{b}
+when he{wait: 4} "{color: 1}vanished{color: 0}"{wait: 4}...{nextpage_button}{person: 29 664 663}{name: 7424}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Absolutely,{wait: 8} sir!{wait: 16}{bgcolor: 2305 8 31} I saw him{b}
+with my {shake: 30 0}own eye!{wait: 16} Eyes!{p}{speed: 3}
+That red silk hat,{wait: 8} that{b}
+flowing cape...{p}{person: 29 669 667}{soundtoggle: 0}{sound: 160 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...He ran {bgcolor: 2305 8 31}{shake: 30 0}right in here!{wait: 16}{b}
+Right inside this room!{nextpage_button}{soundtoggle: 1}{name: 1792}{speed: 4}{color: 2}
+(Silk hat,{wait: 12} cape{speed: 8}...{wait: 30}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3} That's{b}
+Zak alright.){color: 0}{nextpage_button}{person: 29 660 659}{name: 7424}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+But,{wait: 8} sir,{wait: 8} look at the room!{p}{person: 29 660 659}
+There's not a {shake: 30 0}single place{b}{bgcolor: 2305 8 31}
+to hide!{nextpage_button}{person: 29 666 665}{speed: 3}
+Sir,{wait: 12} there was nothing I{b}
+could do but{speed: 8}{0x5a}...{0x59}{speed: 4} nothing,{wait: 8} sir!{nextpage_button}{person: 29 665 665}{name: 1792}{speed: 6}
+......{wait: 30}{b}{speed: 4}
+What about now?{p}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Have any ideas?{nextpage_button}{fademusic: 120}{person: 29 664 663}{name: 7424}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+Sir{bgcolor: 2305 8 31}!{wait_noanim: 20}{nextpage_button}{shake: 30 0}{bgcolor: 2305 8 31}{0x59}
+I-{wait: 8}I-{wait: 8}I-{wait: 8}Ideas about what,{wait: 10}{b}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}
+exactly,{wait: 10} sir,{wait: 8} if you don't{b}
+mind me asking!?{p}{person: 29 663 663}{name: 1792}{speed: 3}
+You've had quite a bit of{b}
+time since then.{p}
+Has nothing occurred to you{b}
+at all?{p}{speed: 4}
+Do you have any idea what{b}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 4}{color: 1}
+trick{color: 0}{wait: 4} he might have used{b}
+to disappear like that?{nextpage_button}{person: 29 663 663}{name: 7424}{speed: 8}
+..{speed: 10}..{speed: 12}..{b}{person: 29 665 665}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 14}
+......{nextpage_button}{0x88}{p}{person: 29 663 663}{name: 1792}{hidetextbox: 0}{fademusic: 0}{music: 55 0}{speed: 4}{color: 2}
+(Psyche-Locks!{wait: 30}{b}{speed: 3}
+I should have known...){color: 0}{nextpage_button}{0x8c}{0x86}{0x10: 33646}{0x51: 3 53}
+{26881}{1966}{jmp: 129}{endjmp}{endjmp}{0x89}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{person: 29 666 665}{name: 7424}{hidetextbox: 0}{speed: 3}I remember it clearly!{wait: 30}{b}
+Though the details are {b}
+a little vague.{p}
+Zak Gramarye exited the{b}
+courtroom{speed: 8}...{p}{person: 29 660 659}{speed: 2}
+...{wait: 16}I gave chase and cornered{b}
+him in the corner room,{wait: 8} sir!{nextpage_button}{hidetextbox: 1}{fademusic: 30}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 257}{person: 0 0 0}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{sound: 58 1}{bgcolor: 2305 8 31}{shake: 30 0}{wait: 10}{bgcolor: 2305 8 31}{wait: 5}{name: 7424}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Zak Gramarye!{wait: 25} Don't even think{b}{shake: 30 1}{bgcolor: 2305 8 31}
+you can escape Meekins!{p}{soundtoggle: 0}{sound: 160 1}{bgcolor: 2305 8 31}{shake: 30 2}
+Down on{bgcolor: 2305 8 31} your hands!{wait: 8} Floor{b}
+on{bgcolor: 2305 8 31} your{shake: 30 0} head{bgcolor: 2305 8 31}!!!{nextpage_button}{soundtoggle: 1}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 35}{b}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 4}
+H-Hello?{wait: 16}{nextpage_button}{hidetextbox: 1}{wait: 20}{person: 27 607 607}{personvanish: 3 2}{wait: 32}{sound: 52 1}{wait: 40}{name: 1280}{person: 27 608 607}{hidetextbox: 0}{speed: 3}
+Something the matter,{wait: 16} mister?{fademusic: 0}{music: 16 0}{nextpage_button}{name: 7424}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Er...{wait: 20}{speed: 2} no.{wait: 12} That is...{nextpage_button}
+Sir!{wait: 10} I'm currently chasing{b}
+a suspect,{wait: 8} sir!{nextpage_button}{person: 5 611 611}{showphoto: 175}
+Zak Gramarye{speed: 8}...{wait: 20}{b}{speed: 3}
+Do you know him!?{nextpage_button}{person: 27 614 613}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Oh,{wait: 12} I love Zak Gramarye!{wait: 20}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+His magic is the best!{nextpage_button}{person: 27 608 607}{speed: 3}
+I'm his biggest fan!{nextpage_button}{name: 7424}{speed: 5}
+I see...{wait: 20}{speed: 3} That's why you're{b}
+wearing that costume you're{b}
+wearing.{nextpage_button}{bganim: 98 579}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Anyway!{wait: 12} That very same Zak{b}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+came into this room!{nextpage_button}{person: 5 612 611}{name: 1280}{speed: 4}
+But no one's been in here{b}
+except me...{nextpage_button}{name: 7424}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+...B{wait: 8}-But he has to be in here{b}
+somewhere!{nextpage_button}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Under the sofa!{wait: 12}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1} In the trash{b}
+can!{wait: 12}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{person: 27 607 607} Behind the painting!{wait: 12}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Under the rug!{nextpage_button}{hidetextbox: 1}{wait: 30}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 257}{person: 29 665 665}{0x5f: 4 1 1}{fademusic: 120}{bgcolor: 772 1 31}{wait: 25}{wait: 40}{name: 1792}{hidetextbox: 0}{speed: 8}
+So...{wait: 30} {speed: 3}Trucy was his{b}{color: 1}
+accomplice{color: 0}.{p}{person: 29 666 665}{name: 7424}{speed: 4}
+Imagine my astonished surprise{b}
+when,{wait: 8} one week later...{p}
+...{wait: 20}I just happen to walk into{b}
+a bar and see...{wait: 10} him!!!{nextpage_button}{name: 1792}{speed: 5}
+Mr. Hat.{nextpage_button}{person: 29 660 659}{name: 7424}{speed: 4}
+I couldn't believe my own{b}
+eyes!{nextpage_button}{person: 29 671 670}{speed: 3}
+For a while,{wait: 8} I thought it had{b}
+all been a long dream{0x5a}...{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(A dream that lasted a week!?){color: 0}{nextpage_button}{person: 29 671 670}{name: 7424}
+But it wasn't the magician{b}
+who disappeared...{0x5a}{wait: 35}{person: 29 666 665}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3} it was{b}
+Mr. Hat.{nextpage_button}{person: 29 665 665}{name: 7424}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+*sniffle, sniffle*{fademusic: 0}{music: 55 0}{nextpage_button}{0x51: 3 53}
+{28417}{3210}{0x10: 33647}{0x37: 6 0}{0x37: 7 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{person: 29 659 659}{name: 1792}{hidetextbox: 0}{speed: 3}Though it seems complex,{wait: 8} what{b}
+really happened that day was{b}
+quite simple.{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 90}{person: 0 0 0}{littlesprite: 13825}{0x3a: 54 96 120}{bgcolor: 258 1 31}{wait: 15}{0x3c: 13825}{wait: 30}{hidetextbox: 0}{speed: 4}
+You were standing by the door,{wait: 12}{b}{0x3c: 13824}
+and out came Zak.{littlesprite: 13569}{0x3a: 53 92 104}{0x6b: 118 104 30}{0x3b: 13572 0}{0x3d: 13568}{0x6b: 118 36 80}{0x3b: 13572 0}{0x3d: 13568}{nextpage_button}{speed: 3}
+...{wait: 16}But that wasn't all.{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Another person got in on the{b}
+act{speed: 8}...{wait: 30} {speed: 3}and she was standing{b}
+in front of Lobby No. 2.{p}{littlesprite: 13313}{0x3a: 52 220 36}{0x3c: 13313}{wait: 60}{0x3c: 13312}{showphoto: 220}{speed: 4}
+Along with Mr. Hat.{nextpage_button}{name: 7424}
+Ah,{wait: 6} and that's the beauty{b}
+of it,{wait: 8} isn't it{speed: 7}...?{nextpage_button}{removephoto}{name: 1792}{speed: 3}
+So...{0x6b: 118 120 20}{0x3b: 13828 0}{0x3d: 13824}{nextpage_button}{0x6b: 170 36 80}{0x3b: 13572 0}
+...while you are standing in{b}
+shock and amazement,{wait: 8} the{b}{0x3d: 13568}
+magician rounds the corner...{nextpage_button}{0x6b: 170 116 80}{0x3b: 13572 0}
+...and,{wait: 12} most likely,{wait: 10} runs{b}
+through the closest door...{b}{0x3d: 13568}
+into Lobby No. 1.{nextpage_button}{0x6b: 118 56 60}{0x3b: 13828 0}{speed: 4}
+This is where you come in.{p}{speed: 3}
+You turn the corner,{wait: 12} in rather{b}{0x3d: 13824}{0x6b: 118 36 20}{0x3b: 13828 0}{0x3d: 13824}{0x6b: 130 36 16}{0x3b: 13828 0}
+lukewarm pursuit...{0x3d: 13824}{nextpage_button}
+...{0x6b: 236 36 20}{0x3b: 13316 0}{0x3d: 13312}{0x6b: 236 116 60}{0x3b: 13316 0}{sound: 52 1}{bgcolor: 2305 8 31}and at that very moment,{wait: 12}{b}
+Trucy runs into{wait: 12} {color: 1}Lobby No. 2{color: 0}!{b}{0x3d: 13312}{nextpage_button}{0x6b: 236 36 80}{0x3b: 13828 0}
+Then,{wait: 16} all she has to do is{b}{0x3d: 13824}{0x6b: 236 100 80}{0x3b: 13828 0}{littlesprite: 13312}
+tuck away the Amazing Mr. Hat.{b}{0x3d: 13824}{nextpage_button}{hidetextbox: 1}{wait: 60}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 514}{bg: 257}{person: 29 665 665}{bgcolor: 260 1 31}{wait: 25}{wait: 30}{person: 29 666 665}{name: 7424}{hidetextbox: 0}{speed: 4}
+Sir,{wait: 12} {speed: 4}I...{p}{speed: 3}
+...I only lost sight of him{b}
+for the briefest of moments!{p}{person: 29 664 663}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Then,{wait: 8} I saw that cape!{b}
+Zak Gramarye's red cape{b}
+fluttering like a... cape!{nextpage_button}{fademusic: 120}{speed: 8}
+.{speed: 10}.{speed: 12}..{speed: 14}..{p}{hidetextbox: 1}{person: 29 658 658}{0x63}{shake: 30 0}{name: 7424}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{person: 29 660 659}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...Astounding,{wait: 8} sir!{fademusic: 0}{music: 38 0}{p}{speed: 3}
+All my days of posing queries{b}
+and making inquiries and{b}
+chasing quarries...{wait: 10}{speed: 2}{shake: 30 0}{bgcolor: 2305 8 31} wasted!{p}{person: 29 671 670}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+It was as if I could see{b}
+them melting away like...{nextpage_button}{hidetextbox: 1}{person: 29 662 662}{0x63}{person: 29 664 663}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+...an ice cream cone left by{b}
+the side of the road to die!!!{p}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+Or the scattered remains of{b}
+a messily eaten chocolate{b}
+parfait!!!{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(Such sweet sorrows...){color: 0}{nextpage_button}{speed: 255}{0x10: 33648}{0x51: 3 53}
+{27649}{3094}{jmp: 131}{endjmp}{endjmp}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{person: 29 657 657}{name: 0}{hidetextbox: 0}{center_text: 1}{speed: 2}{b}{color: 1}
+-- The Disappearing Trick --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{fademusic: 0}{music: 31 0}{0x6c: 0}{person: 29 659 659}{name: 1792}{speed: 4}
+...OK,{wait: 12} Mr. Meekins.{p}{speed: 3}
+What do you know?{wait: 16}{b}
+Spit it out.{nextpage_button}{name: 7424}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...He{wait: 8}-He{wait: 8}-Hey!{wait: 16} Who{wait: 8}-Who{wait: 7}-Who...{wait_noanim: 20}{b}{person: 29 664 663}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+What's with the atmosphere in{b}
+here all of a sudden!?{p}{person: 29 663 663}{name: 1792}{speed: 3}
+You know something,{wait: 8} and I'm{b}
+going to find out what.{p}{speed: 4}
+Zak Gramarye vanished from{b}
+this room...{sound: 52 1}{bgcolor: 2305 8 31} {speed: 3}{color: 1}How'd he do it{color: 0}?{nextpage_button}{person: 29 664 663}{name: 7424}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+H-{wait: 7}H-{wait: 7}How,{wait: 10} sir?{wait: 16} Well,{wait: 10} sir,{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+I can't say as I... sir!{p}{person: 29 663 663}{name: 1792}{speed: 3}
+Why are you so nervous if you{b}
+aren't hiding something...?{nextpage_button}{person: 29 666 665}{name: 7424}{person: 29 666 665}{shake: 30 0}{bgcolor: 2305 8 31}
+Well,{wait: 8} sir,{wait: 12} I, you see,{wait: 8}{b}
+at the{shake: 30 0} time,{wait: 8} sir, I was{wait: 8}{shake: 30 0}{b}{bgcolor: 2305 8 31}
+here,{wait: 10} and{speed: 8}...{nextpage_button}{person: 29 664 663}{bgcolor: 2305 8 31}{shake: 30 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Listen!{0x5a}{wait: 25}{b}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{0x59}
+It was impossible!!!{nextpage_button}{person: 29 669 667}{soundtoggle: 0}{sound: 160 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+What could such a little{bgcolor: 2305 8 31}{b}
+girl {wait: 8}{bgcolor: 2305 8 31}{shake: 30 1}possibly do,{wait: 10}{bgcolor: 2305 8 31} anyway!?{nextpage_button}{soundtoggle: 1}{person: 29 659 659}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+...What did you just say?{nextpage_button}{name: 7424}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...Nyurk!{wait: 20}{person: 29 660 659} Sir!{wait: 10}{bgcolor: 2305 8 31} Did...{shake: 30 0} I just{b}
+say something,{wait: 10} sir?{nextpage_button}{name: 1792}{speed: 4}
+No,{wait: 6} you screamed it through{b}
+that megaphone of yours.{nextpage_button}{speed: 3}
+...There was someone else{b}
+in the room,{wait: 20}{person: 29 665 665}{sound: 52 1}{bgcolor: 2305 8 31} wasn't there?{nextpage_button}{person: 29 666 665}{name: 7424}
+Sir!{wait: 12} {speed: 3}I'm going to have to{wait_noanim: 20}{b}{person: 29 660 659}
+invoke my right to remain{b}
+in a state of not talking!{nextpage_button}{name: 1792}{color: 2}
+(It's OK,{wait: 16} Meekins.{wait: 16} You don't{b}
+have to tell me who Zak's{b}{color: 1}
+accomplice{color: 2} was.){color: 0}{nextpage_button}{endjmp}
+
+{{10}}
+{bop}{0x6e: 20}{person: 29 659 659}{name: 1792}{speed: 3}{color: 3}I know who was here in this{b}
+room that day.{color: 0}{0x82}{bop}F{0x8c}{0x8b}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{b}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{person: 29 659 659}{name: 1792}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}...Well?{nextpage_button}{name: 7424}{speed: 6}
+......{wait: 25}{b}{person: 29 660 659}{speed: 3}
+Sir,{wait: 8} I don't know what to{b}
+say, sir.{nextpage_button}{person: 29 671 670}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 2}
+Except maybe I didn't need{b}
+to worry about not saying{b}
+anything!{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...Huh?{nextpage_button}{name: 7424}{person: 29 671 670}{speed: 3}
+Sir,{wait: 10} it is my distinct{b}
+pleasure to say,{wait: 8} beyond{b}
+any shadow of a doubt,{wait: 8} sir.{nextpage_button}{person: 29 669 667}{soundtoggle: 0}{sound: 160 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...You're wrong!{wait: 16} You're wrong!{b}
+You're wrooooooooooong!{0x5a}{soundtoggle: 1}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{person: 29 667 667}{name: 1792}{speed: 4}{color: 2}
+(...I wish he'd invoke his{b}
+right to remain silent now.){p}{speed: 3}
+(Still,{wait: 8} his little outburst{b}
+back there should be enough{b}
+to go on...){p}
+("What could such a little{b}
+girl possibly do",{wait: 6} was it?){color: 0}{nextpage_button}{0x6c: 0}{jmp: 138}{endjmp}
+
+{{12}}
+{bop}{fademusic: 30}{0x66: 109 0 30}{0x1d: 672}{672}{name: 7424}{hidetextbox: 0}{speed: 2}Sir,{bgcolor: 2305 8 31} I, sir,{bgcolor: 2305 8 31} I, sir,{bgcolor: 2305 8 31} I, sir,{bgcolor: 2305 8 31} I{b}
+siiiiii{shake: 30 0}{bgcolor: 2305 8 31}iiiiiiiiiiiii{bgcolor: 2305 8 31}iiiurgle.{0x63}{wait: 20}{nextpage_nobutton}{person: 29 671 670}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+I've never seen that girl{b}
+until just the other day.{nextpage_button}{name: 1792}{speed: 8}
+......{p}{person: 29 665 665}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Mr. Meekins.{wait: 12} I'm not{b}
+buying it.{nextpage_button}{name: 7424}{speed: 8}
+......{b}{person: 29 670 670}
+......{nextpage_button}{person: 29 672 672}{name: 7424}{shake: 30 2}{hidetextbox: 0}{speed: 2}
+..{bgcolor: 2305 8 31}..{bgcolor: 2305 8 31}..{b}
+.{bgcolor: 2305 8 31}..{bgcolor: 2305 8 31}Sir!{0x63}{nextpage_button}{0x84}{bop}{person: 29 666 665}{hidetextbox: 0}{speed: 4}
+Sir,{wait: 10} that day.{0x5a}{wait: 30}{0x59} {speed: 5}She was here,{wait: 10}{b}
+in the room,{wait: 10} sir.{wait: 16}{speed: 4}{0x23: 0}{music: 255 90}{nextpage_button}{person: 29 664 663}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+But he wasn't!!!{nextpage_button}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+You mean...{wait: 16} you chased her{b}
+into this room,{wait: 10} not him?{nextpage_button}{person: 29 671 670}{name: 7424}{speed: 3}
+Sir...{wait: 20} In my days as a police{b}
+officer -- literally days --{b}
+I learned a thing or two.{nextpage_button}{person: 29 664 663}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+OK,{wait: 10} just one thing.{wait: 16} But it{b}
+was how not to mistake a girl{b}
+for a 7-foot-tall magician!{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(Seven feet?{wait: 16} Zak isn't that{b}
+tall,{wait: 8} is he?){nextpage_button}{color: 0}{person: 29 667 667}{name: 1792}{speed: 5}
+You have a point...{p}{speed: 3}
+...I find it hard to imagine{b}
+that anyone would mistake a{b}
+little girl for Zak Gramarye.{p}
+But,{wait: 12} you saw something...{p}{person: 29 659 659}{sound: 52 1}{bgcolor: 2305 8 31}
+...and therein lies the{wait: 6} {color: 1}trick{color: 0}.{nextpage_button}{0x6c: 0}{endjmp}
+
+{{13}}
+{bop}{0x6e: 20}{person: 29 659 659}{name: 1792}{hidetextbox: 0}I think you know what{b}
+it was,{wait: 8} Mr. Meekins!{nextpage_button}{color: 3}
+Tell me,{wait: 6} does this {color: 1}trick{color: 3} look{b}
+familiar!?{color: 0}{0x82}{bop}Í{0x8f: 142}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{person: 29 671 670}{0x5a}{name: 7424}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}...{0x59}My my my.{nextpage_button}{name: 1792}{speed: 3}
+Your your your what?{nextpage_button}{person: 29 660 659}{name: 7424}
+I guess ex-{wait: 10}attorneys have{b}
+some tricks up their sleeves,{b}
+too!{nextpage_button}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+...It hardly qualifies as{b}
+a "trick".{p}{name: 7424}{speed: 5}
+You might be able to fool{b}
+little girls with that...{nextpage_button}{hidetextbox: 1}{person: 29 662 662}{0x63}{person: 29 664 663}{hidetextbox: 0}{sound: 26 1}{bgcolor: 2305 8 31}{speed: 2}
+...but you'll never fool{b}
+little Meekins!{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{name: 1792}{person: 29 667 667}{speed: 4}{color: 2}
+(Well,{wait: 20} I think I put my foot{b}
+into that one.){p}{color: 0}{0x6c: 0}{jmp: 141}{endjmp}
+
+{{15}}
+{bop}{fademusic: 45}{0x66: 109 0 30}{0x1d: 660}{659}{name: 7424}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 1}Tha{wait: 6}-Tha{wait: 6}-Tha{wait: 6}-Tha{wait: 6}-{bgcolor: 2305 8 31}Tha{wait: 6}-Tha{wait: 6}-Tha{wait: 4}-{bgcolor: 2305 8 31}{b}
+Tha{wait: 6}-Tha{wait: 6}-Tha{wait: 6}-{shake: 30 0}{bgcolor: 2305 8 31}Tha{wait: 6}-Tha{wait: 6}-{bgcolor: 2305 8 31}Tha{wait: 6}-Tha{bgcolor: 2305 8 31}{wait: 6}-{nextpage_nobutton}{shake: 30 0}
+Tha{wait: 6}-Tha{wait: 6}-Tha{wait: 6}-Tha{bgcolor: 2305 8 31}{wait: 6}-Tha{wait: 6}{bgcolor: 2305 8 31}-Tha{wait: 6}{shake: 30 1}-Tha{wait: 4}-{b}
+Tha{wait: 6}-Tha{wait: 6}{bgcolor: 2305 8 31}-Tha{wait: 6}-Tha{wait: 6}-Tha{wait: 6}-Tha{wait: 6}{bgcolor: 2305 8 31}-Tha{wait: 6}-{speed: 2}{b}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+What's that?{nextpage_button}{name: 1792}{showphoto: 220}{speed: 3}
+That girl's favorite trick,{wait: 20}{b}
+"The Amazing Mr. Hat".{nextpage_button}
+She uses it in her show{b}
+down at the Wonder Bar.{nextpage_button}{removephoto}{name: 7424}{speed: 6}
+......{nextpage_button}{person: 29 663 663}{name: 1792}{speed: 3}
+Have you been to the{b}
+Wonder Bar?{nextpage_button}{person: 29 670 670}{name: 7424}{speed: 6}
+......{wait: 30}{b}{person: 29 671 670}{speed: 4}
+So.{p}{sound: 52 1}{bgcolor: 2305 8 31}
+It wasn't a waking dream,{wait: 14}{b}
+was it,{wait: 10} sir?{nextpage_button}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+C-{wait: 20}Come again?{nextpage_button}{person: 29 666 665}{name: 7424}{speed: 3}
+That night,{wait: 8} on stage,{wait: 8} I saw{b}
+a vision!{wait: 20} Except...{wait: 20} it wasn't{b}
+a vision.{p}{speed: 4}
+It was a hat.{nextpage_button}{hidetextbox: 1}{person: 29 662 662}{0x63}{person: 29 664 663}{hidetextbox: 0}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+An Amazing Mr.{bgcolor: 2305 8 31} Hat!{wait: 8}{b}
+He really{bgcolor: 2305 8 31} exists!!{0x5a}{wait: 100}{0x84}{bop}{0x8d}{0x86}{0x51: 3 53}{28929}{1450}{0x10: 33649}{0x37: 5 0}{0x37: 6 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{0x66: 109 0 14}{1792}{speed: 4}{color: 2}(I may not have enough{b}
+evidence right now to{b}
+pull this off.){nextpage_button}
+(Maybe it's time to do a{b}
+little more legwork.){color: 0}{speed: 255}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{name: 0}{color: 1}{speed: 4}...Any more of this,{wait: 8} and{b}
+something's going to give.{nextpage_button}{speed: 3}
+...Time to cool off a bit{b}
+and rethink what I'm doing.{nextpage_button}{color: 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{name: 1792}{speed: 3}I must have seen that painting{b}
+a thousand times,{wait: 8} but I never{b}
+really looked at it until now.{nextpage_button}
+I guess my head was too stuck{b}
+in the trials...{nextpage_button}
+...{wait: 6}I never had time to stop{b}
+and appreciate art.{nextpage_button}{speed: 4}
+I have time now.{wait: 12}{b}
+OK.{wait: 12} Let's appreciate.{nextpage_button}{speed: 8}
+......{nextpage_button}{speed: 3}
+Actually,{wait: 8} it's pretty lame.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{name: 1792}{speed: 3}I actually took a nap on that{b}
+couch once when I was still{b}
+practicing law.{nextpage_button}{speed: 4}
+...Boy,{wait: 12} was that a mistake.{nextpage_button}{speed: 3}
+I never even sit on the{b}
+lobby sofas now.{nextpage_button}
+I never let my clients sit{b}
+on them,{wait: 8} either.{nextpage_button}{speed: 4}
+It's bad luck.{nextpage_button}{speed: 255}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{name: 1792}{speed: 4}You know,{wait: 12} {speed: 3}I think this was{b}
+the lobby I used for my very{b}
+first case.{nextpage_button}
+This plant has seen me grow{b}
+from a rookie,{wait: 10} to an ace...{b}
+to a has-been. {nextpage_button}
+I hate you,{wait: 8} plant.{b}
+...Just kidding.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{name: 1792}I guess this door was{b}
+officially a prop in Zak{b}
+Gramarye's last "show".{nextpage_button}
+He passed through that{b}
+lobby door and vanished...{b}
+but to where?{nextpage_button}
+He choreographed that entire{b}
+fateful trial according to{b}
+his grand scenario...{nextpage_button}{speed: 6}
+......{nextpage_button}{speed: 3}
+I hate magicians.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{person: 29 659 659}{name: 1792}Any thoughts on this,{wait: 10}{b}
+Mr. Meekins?{nextpage_button}{name: 7424}{person: 29 660 659}{wait: 10}
+This{0x5a}{speed: 7}...{wait: 60}{b}{person: 29 658 658}{0x63}{shake: 30 0}{bgcolor: 2305 8 31}{person: 29 660 659}{speed: 2}
+This is an honor!!!{p}{shake: 30 0}{bgcolor: 2305 8 31}
+Sir!{wait: 10} {speed: 3}I've offered my opinions{b}
+on plenty of things,{wait: 12} even{b}
+things I knew nothing about!{p}{person: 29 669 667}{soundtoggle: 0}{sound: 160 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+But no one's ever {bgcolor: 2305 8 31}asked for{b}
+my opinion{shake: 30 0} before!!!{nextpage_button}{soundtoggle: 1}{person: 29 667 667}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{wait: 5}
+Ow.{wait: 16} There's no need to{b}
+shout,{wait: 8} really.{p}
+...{wait: 8}So,{wait: 8} no opinion?{nextpage_button}{hidetextbox: 1}{person: 29 658 658}{0x63}{shake: 30 0}{name: 7424}{person: 29 660 659}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+None!{wait: 20} I know nothing about{b}
+that,{wait: 10} sir!{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(But I thought... oh,{wait: 10} never{b}
+mind.){color: 0}{speed: 255}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}

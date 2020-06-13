@@ -1,0 +1,311 @@
+
+
+{{0}}
+{bop}{0x51: 0 34}{bop}{music: 35 0}{name: 1024}{person: 0 0 0}{hidetextbox: 0}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}A break-in!{wait: 20}{b}{speed: 3}
+They left through that window!{p}{name: 1280}{person: 5 96 95}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Wait,{wait: 8} Apollo!{wait: 16} {speed: 3}You're too late{b}
+to catch them now!{p}{name: 1024}{person: 5 95 95}{color: 2}
+(That must be her experience{b}
+as a panty-snatcher chaser{b}
+talking.){color: 0}{p}{person: 5 75 75}
+Well,{wait: 7} we should tell the{b}
+police!{p}{name: 1280}{person: 5 68 67}
+Let's check the room out,{wait: 8}{b}
+first,{wait: 8} Apollo!{p}
+If we call the police now,{wait: 12}{0x5a}{b}{person: 5 74 73}{sound: 52 1}{bgcolor: 2305 8 31}
+we'll lose our chance!{p}{name: 1024}{person: 5 73 73}{bgcolor: 2305 8 31}{shake: 30 0}
+Y-{wait: 8}You're right.{wait: 16}{b}{speed: 4}{color: 2}
+(She's better at this than{b}
+I am!){color: 0}{p}{fademusic: 60}{name: 1280}{person: 5 76 75}
+Well,{wait: 8} one thing's for certain.{p}{person: 5 96 95}
+This clinic and our murder{b}
+case are looking pretty{b}
+related now!{p}{fademusic: 0}{music: 32 0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{0x10: 32931}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{0x35: 47616 @RelativeAddress0}{jmp: 130}{endjmp}{endjmp}{@RelativeAddress0}{name: 1280}{person: 5 76 75}{showphoto: 77}Kind of an expensive-looking{b}
+lamp,{wait: 8} isn't it?{p}{name: 1280}{person: 5 82 81}{0x5a}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{0x59}
+Hey...{wait: 5} {speed: 3}The bulb's broken.{p}{name: 1024}{person: 5 81 81}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Broken?{wait: 20}{b}
+Don't you mean burned-out?{p}{name: 1280}{person: 5 76 75}{speed: 4}
+No. Our cat burglar must have{b}
+dropped it.{p}{name: 1024}{person: 5 75 75}
+But why is it standing up on{b}
+the floor like that then?{p}{name: 1280}{person: 5 96 95}
+Hey,{wait: 12} {speed: 3}look at the cord...{nextpage_button}{bganim: 98 579}{showphoto: 333}{person: 5 85 85}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}{color: 2}
+(Huh?{wait: 20} {speed: 3}There's a{wait: 10} {color: 1}red{color: 2} splotch{b}
+on a part of the cord...){color: 0}{p}{speed: 5}
+You think that's...{wait: 20}{speed: 3} blood?{bgcolor: 2305 8 31}{shake: 30 0}{p}{person: 5 76 75}{name: 1280}
+It's a little bright for{b}
+blood.{wait: 16} Almost pinkish.{nextpage_button}{name: 1024}{person: 5 67 67}{speed: 4}
+Something's definitely odd{b}{speed: 3}
+about this lamp,{wait: 8} that's for{b}
+sure.{p}{bganim: 98 579}{newevidence: 16461}{name: 0}{color: 2}{speed: 4}
+Lamp added to the Court{b}
+Record.{nextpage_button}{speed: 255}{color: 0}{0x10: 32954}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{person: 0 0 0}{name: 1024}{showphoto: 77}Kind of an expensive-looking{b}
+lamp.{wait: 16} The bulb's broken.{wait: 16}{p}{color: 2}
+(And here I thought light{b}
+bulbs were usually pretty{b}
+resilient little buggers.){color: 0}{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{wait: 16}{name: 1280}{person: 5 76 75}{hidetextbox: 0}{speed: 4}
+Maybe the burglar dropped it.{p}{name: 1024}{person: 5 75 75}
+Funny that it's standing{b}
+upright on the floor then.{p}{name: 1280}{person: 5 84 83}{speed: 4}
+It's bit peculiar, isn't{b}
+it...?{speed: 255}{nextpage_button}{hidetextbox: 1}{removephoto}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{0x35: 46848 @RelativeAddress1}{jmp: 138}{endjmp}{endjmp}{@RelativeAddress1}{0x35: 47104 @RelativeAddress2}{jmp: 139}{endjmp}{endjmp}{@RelativeAddress2}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}What a cute little safe!{p}{name: 1024}{person: 5 69 69}
+Hmm,{wait: 8} looks like a{wait: 16} {color: 1}four-digit{color: 0}{b}
+lock.{p}{person: 0 0 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 55}{wait: 25}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 56}{wait: 25}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 57}{wait: 25}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 60}{wait: 40}{hidetextbox: 0}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...!{wait: 30}{p}{0x76: 0 2}{speed: 3}
+Someone's already entered{b}
+in two numbers,{wait: 8} Apollo!{p}
+7{wait: 12}...9{wait: 8}...{wait: 6}{b}
+Wait,{wait: 8} do you think...{p}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 20}{speed: 3}That burglar just now{b}{fademusic: 0}{music: 35 0}
+was trying to open it!?{p}{speed: 5}{color: 2}
+(I wonder what's inside{b}
+this safe...?){color: 0}{p}{0x76: 2 0}{name: 1280}{0x76: 1 3}{speed: 4}
+Hmm,{wait: 8} is there any way we can{b}
+figure out the last two{b}
+numbers?{p}{name: 1024}
+Well,{wait: 12} we know the first two{b}
+are 7 and 9{speed: 8}...{p}{0x76: 2 0}{name: 1280}{0x76: 0 1}{speed: 3}
+Maybe there's something in{b}
+the Court Record?{p}
+Something that can help us{b}
+figure out the last two{b}
+numbers!{p}{0x76: 2 0}{name: 1024}{color: 2}
+(Hmm,{wait: 10} I wonder...){color: 0}{0x10: 33293}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 124}{0x7d}{65535}{b}{2args_choice_jmp: 133 132}{endjmp}
+
+{{4}}
+{bop}{0x10: 525}{person: 0 0 0}{name: 1024}{fademusic: 60}That would be a bit too{b}
+lucky,{wait: 12} don't you think?{p}{name: 1280}{0x76: 0 3}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Well,{wait: 8} I suppose...{wait: 25}{p}{speed: 3}
+If only there was something{b}
+that could finger which{b}
+buttons had been pressed!{p}{name: 1024}{color: 2}
+(Something that could "finger{b}
+which buttons were pressed",{wait: 8}{b}
+huh?){p}
+(Maybe there is a way after{b}
+all{speed: 7}...){color: 0}{nextpage_button}{fademusic: 0}{music: 32 100}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 223}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{0x10: 525}{person: 0 0 0}{name: 1024}{speed: 4}Well,{wait: 12} {speed: 3}I have an idea...{p}{name: 1280}{0x76: 0 4}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I knew it,{wait: 12} Apollo!{wait: 30}{b}{0x76: 0 6}{speed: 3}
+What is it?{p}{name: 1024}{speed: 5}{color: 2}
+(Well...){p}{speed: 3}
+(All we have to know is what{b}
+buttons have been pressed!){color: 0}{nextpage_button}{name: 1024}
+We can use this to find out{b}
+what the next two numbers are!{b}{bganim: 98 579}{0x10: 33293}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{0x10: 525}{name: 1280}{0x76: 0 3}{fademusic: 60}{hidetextbox: 0}{speed: 7}...{wait: 30}{b}{0x76: 0 2}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+I'm not sure how that's going{b}
+to help us.{p}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}{color: 2}
+(Neither am I,{wait: 8} come to think{b}
+of it...){color: 0}{nextpage_button}{name: 1280}{0x76: 0 3}{speed: 3}
+If only there was something{b}
+that could finger which{b}
+buttons had been pressed!{p}{name: 1024}{color: 2}
+(Something that could "finger{b}
+which buttons were pressed",{wait: 8}{b}
+huh?){color: 0}{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 223}{fademusic: 0}{music: 32 100}{bgcolor: 258 1 31}{wait: 15}{0x41}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x10: 525}{name: 1024}{fademusic: 60}{0x76: 0 3}{hidetextbox: 0}{speed: 5}...{wait: 25}{speed: 3}When you press the buttons,{wait: 8}{b}
+you'd have to touch them{speed: 8}...{p}{0x76: 0 2}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 20}{speed: 3}with your {color: 1}finger{color: 0},{wait: 6} right?{p}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{name: 1280}
+It would leave a print!{p}{name: 1024}
+When you open a safe,{wait: 8} you{b}
+don't press any other buttons{b}
+but the right ones,{wait: 8} right?{p}
+So,{wait: 12} if we can find the{b}
+buttons with fingerprints...{p}{name: 1280}{0x76: 1 5}{speed: 2}
+We'll have the safe code!{p}{0x76: 1 4}{speed: 3}
+Not bad,{wait: 7} Apollo!{p}{hidetextbox: 1}{0x76: 2 0}{fademusic: 0}{music: 4 0}{0x74: 9 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{fademusic: 0}{music: 32 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{name: 1024}{person: 0 0 0}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}Look at{wait: 16} 7{wait: 6} and{wait: 6} 9{wait: 6}{speed: 8}...{p}{bg: 63}{name: 1280}{0x76: 0 4}{speed: 3}
+These are glove marks.{wait: 16} {speed: 4}The{b}
+burglar must have been wearing{b}
+gloves.{nextpage_button}{name: 1024}
+Well,{wait: 12} we might not be able to{b}
+identify the burglar,{wait: 8} but we{b}
+can open this safe!{p}{0x76: 0 5}{shake: 30 0}{bgcolor: 2305 8 31}
+Let's give it a shot!{speed: 2}{wait: 10}{fademusic: 0}{music: 33 0}{p}{hidetextbox: 1}{0x76: 2 0}{0x74: 16 16}{special_jmp}{0x35: 46592 @RelativeAddress3}{jmp: 141}{endjmp}{endjmp}{@RelativeAddress3}{0x35: 47104 @RelativeAddress4}{jmp: 140}{endjmp}{endjmp}{@RelativeAddress4}{jmp: 142}{endjmp}
+
+{{10}}
+{bop}{hidetextbox: 1}{0x72}{bop}{bg: 58}{person: 4 950 950}{sound: 127 1}{wait: 70}{bg: 59}{person: 0 0 0}{0x71: 103 3 28}{color: 21}{endjmp}
+
+{{11}}
+{bop}{hidetextbox: 1}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 55}{wait: 25}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 56}{wait: 25}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 57}{wait: 25}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 62}{wait: 40}{name: 1280}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Let's enter the code,{wait: 8} Apollo!{wait: 16}{p}{speed: 3}
+We know the first two numbers{b}
+are 7 and 9!{nextpage_button}{hidetextbox: 1}{0x74: 16 16}{special_jmp}{0x35: 46592 @RelativeAddress5}{jmp: 141}{endjmp}{endjmp}{@RelativeAddress5}{0x35: 47104 @RelativeAddress6}{jmp: 140}{endjmp}{endjmp}{@RelativeAddress6}{jmp: 142}{endjmp}
+
+{{12}}
+{bop}{bg: 223}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{hidetextbox: 0}{name: 1024}{person: 0 0 0}...{wait: 20}It opened!{p}{0x71: 103 3 28}{color: 21}{endjmp}
+
+{{15}}
+{bop}{bg: 223}{person: 0 0 0}{name: 1024}{hidetextbox: 0}The window is ajar.{p}{name: 1280}{person: 5 96 95}
+That must be how our burglar{b}
+escaped!{p}{name: 1024}{person: 5 95 95}
+I wonder who it was?{p}{name: 1280}{person: 5 76 75}
+Maybe it was just a burglar{b}
+who happened to pick here?{p}{name: 1024}{person: 5 81 81}
+Yeah,{wait: 12} but there's a patrol{b}
+car sitting out front.{p}
+If I were a burglar,{wait: 8} I'd come{b}
+back the next day at least.{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 4}
+I'd give it a month,{wait: 8} myself.{nextpage_button}{name: 1024}{person: 5 75 75}{color: 2}
+(Whoever broke in obviously{b}
+needed to break in today.){color: 0}{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{bg: 223}{hidetextbox: 0}{person: 0 0 0}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}Whoa!{wait: 20} What are those?{p}{speed: 3}
+The wall is covered with{b}
+beakers...{p}{name: 1280}{person: 5 82 81}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Eeeeek!{wait: 16} Something's moving{b}
+inside that one!{p}{hidetextbox: 1}{0x38: 0}{person: 0 0 0}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 15}{speed: 3}You look,{wait: 8} Apollo!{p}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+H-{wait: 6}Hey,{wait: 8} look yourself!{wait: 16}{b}
+You can't{speed: 8}...{wait: 25} {speed: 3}Oh.{p}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}It's a goldfish.{p}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Wow,{wait: 8} they're all fish!{wait: 16}{b}{speed: 3}
+So many kinds!{p}{name: 1024}{person: 5 69 69}{color: 2}
+(Whoever designed this had{b}
+a sick sense of humor...){color: 0}{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{bg: 223}{hidetextbox: 0}{person: 0 0 0}{name: 1024}Books and papers are scattered{b}
+around the room.{p}{name: 1280}{person: 5 82 81}{shake: 30 0}{bgcolor: 2305 8 31}
+Wow,{wait: 8} what a mess.{wait: 16} This is{b}
+worse than Daddy's room!{p}{person: 5 76 75}
+The burglar must have left in{b}
+a hurry.{p}{name: 1024}{person: 5 75 75}
+Even the cup on the desk here{b}
+is lying on its side.{p}{sound: 52 1}{bgcolor: 2305 8 31}
+Huh?{wait: 16} The juice that spilled{b}
+out of that cup...{wait: 16} It's dry.{p}{name: 1280}{person: 5 82 81}
+So,{wait: 8} the messy one wasn't our{b}
+burglar just now!{p}{name: 1024}{person: 5 83 83}{speed: 4}
+Someone knocked this cup over{b}
+a while ago and left it.{speed: 255}{p}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{person: 0 0 0}{name: 1024}This potted plant has seen{b}
+better days.{p}{shake: 30 0}{speed: 5}
+Hmm...{wait: 30} {speed: 4}That doesn't make{b}
+sense either.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{wait: 16}{name: 1280}{person: 5 76 75}{hidetextbox: 0}{speed: 3}
+What doesn't?{p}{name: 1024}{person: 5 75 75}
+Normally,{wait: 8} burglars are looking{b}
+for valuables,{wait: 8} right?{p}{name: 1280}{person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+That's true!{wait: 16} {speed: 3}That's what I{b}
+would do!{wait: 16} If I were a burglar.{p}{name: 1024}{person: 5 95 95}{speed: 3}
+So why look under a potted{b}
+plant?{p}{name: 1280}{person: 5 74 73}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Maybe they were looking for{b}
+the key to the safe?{p}{name: 1024}{person: 5 75 75}
+I've heard of people putting{b}
+their house keys under plants,{wait: 8}{b}
+but the key to a safe...?{p}{name: 1280}{person: 5 74 73}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Then maybe the burglar was{b}
+looking for the house keys!{nextpage_button}{name: 1024}{person: 5 73 73}{speed: 4}{color: 2}
+(This is getting nowhere{b}
+fast...){speed: 255}{color: 0}{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{0x35: 41984 @RelativeAddress7}{jmp: 148}{endjmp}{endjmp}{@RelativeAddress7}{name: 1280}{person: 0 0 0}{0x76: 0 3}This looks like{speed: 8}...{wait: 20} {speed: 3}a medical{b}
+chart.{p}
+There's an X-ray in here with{b}
+it.{p}{name: 1024}
+An X-ray{speed: 8}...?{wait: 12} {speed: 3}Hmm,{wait: 12} can't make{b}
+heads or tails of it.{p}
+And I can't read the chart{b}
+either,{wait: 8} it's all in medical-{b}
+speak.{p}{name: 1280}{0x76: 0 1}
+But,{wait: 5} the names are easy enough{b}
+to read.{wait: 16} Look,{wait: 8} by{wait: 6} "Patient"{wait: 6} it{wait: 30}{b}{0x76: 0 2}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}
+says...{wait: 6} "Wocky Kitaki"!{p}{name: 1280}{0x76: 1 3}{fademusic: 0}{music: 18 0}
+So this is Wocky...{wait: 16} our{b}
+client's chart, huh.{p}{name: 1024}{speed: 4}
+Why would this one chart be{b}
+here in this safe...?{p}
+Let's see,{wait: 8} the physician's{b}
+signature says{wait: 10} "Pal Meraktis".{p}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 6}
+Eh{speed: 8}..{speed: 10}.{p}{0x76: 2 0}{name: 1280}{0x76: 0 1}{speed: 3}
+What is it,{wait: 8} Apollo?{p}{name: 1024}
+Look here where it says who{b}
+filed the chart{speed: 8}...{p}{name: 1280}{speed: 5}
+Let's see...{wait: 30} "Nurse Alita{b}
+Tiala"{speed: 8}...!{0x76: 0 2}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{p}{name: 1024}{speed: 3}
+Alita Tialita is Wocky's{b}
+fianc{1984}e!{wait: 20}{p}{name: 1280}{0x76: 0 5}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+That's one{wait: 5} "ita" too many,{wait: 8}{b}
+Apololo!{p}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Never mind that,{wait: 8} what's her{b}
+name doing here!?{wait: 20}{p}{name: 1280}{0x76: 1 2}{speed: 3}
+How should I know?{p}{0x76: 1 3}{speed: 4}
+Though...{wait: 12} I guess it means{b}
+she's on staff at this{b}
+clinic?{p}{name: 1024}{speed: 3}
+Odd that she neglected to{b}
+mention this before now...{nextpage_button}{name: 1280}{speed: 3}
+I'm sure she had her reasons.{0x76: 1 8}{p}{name: 1024}{speed: 4}{color: 2}
+(So Alita Tiala worked at the{b}
+Meraktis Clinic...){p}{speed: 3}
+(And she had access to Wocki{b}
+Kitaky's medical chart!){color: 0}{p}{name: 1280}{0x76: 0 5}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+You got the{wait: 5} "I"{wait: 5} and{wait: 5} "Y"{wait: 5} wrong,{wait: 8}{b}
+Appolo!{p}{name: 1024}{speed: 5}
+I'd be very interested to find{b}
+out what this chart says.{p}{speed: 4}{color: 2}
+(Who could help us decipher{b}
+this...?){color: 0}{p}{bganim: 98 579}{fademusic: 30}{newevidence: 16462}{name: 0}{color: 2}{speed: 4}
+Wocky's Chart added to the{b}
+Court Record.{speed: 255}{color: 0}{fademusic: 0}{music: 33 0}{nextpage_button}{0x10: 32932}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{name: 1024}{speed: 3}{color: 2}(Wocky's medical chart was{b}
+hidden inside a safe...){p}{speed: 3}
+(And Alita Tiala was the one{b}
+who filed it.){color: 0}{p}{name: 1024}{speed: 3}
+We have to figure out what{b}
+this chart says.{p}{speed: 4}{color: 2}
+(I wonder if there's anyone{b}
+who can help us decipher it?){speed: 255}{color: 0}{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{0x35: 42240 @RelativeAddress8}{jmp: 150}{endjmp}{endjmp}{@RelativeAddress8}{name: 1024}{person: 0 0 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}This looks like a bullet hole!{p}{name: 1280}{0x76: 0 3}
+Hmm, you can still see the{b}
+bullet sticking out of it.{p}{name: 1024}{speed: 5}
+Why is it in the middle of{b}
+a safe?{p}{name: 1280}{0x76: 0 4}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hey,{wait: 12} the bullet came out!{wait: 25}{b}{showphoto: 335}{speed: 3}
+The tip is all squished.{p}{name: 1024}{speed: 4}
+Not surprising given that it{b}
+was fired into a metal safe.{p}{color: 2}
+(This bullet's got a story{b}
+behind it,{wait: 8} that's for sure.){color: 0}{p}{0x76: 2 0}{removephoto}{newevidence: 16463}{name: 0}{color: 2}{speed: 4}
+Bullet added to the Court{b}
+Record.{nextpage_button}{speed: 255}{color: 0}{0x10: 32933}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{name: 1024}{color: 2}(A bullet hole remains in the{b}
+back wall of the safe.){p}{speed: 4}
+(Now why would someone shoot{b}
+a bullet into a safe?){speed: 255}{color: 0}{p}{hidetextbox: 3}{special_jmp}{endjmp}

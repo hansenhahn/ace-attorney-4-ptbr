@@ -1,0 +1,185 @@
+
+
+{{0}}
+{bop}{newevidence: 32926}{0x62: 4 2}{0x10: 32799}{0x10: 33587}{0x26: 0}{bg: 30}{person: 0 0 0}{name: 0}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{0x74: 2 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}October 8, 9:48 AM{b}
+District Court{b}
+Defendant Lobby No. 6{p}{color: 0}{hidetextbox: 1}{center_text: 0}{wait: 30}{speed: 255}{fademusic: 0}{music: 39 0}{wait: 30}{personvanish: 3 4}{person: 19 414 414}{wait: 64}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Good morning!{nextpage_button}{name: 4864}{person: 19 414 414}{speed: 8}
+......{nextpage_button}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+So!{wait: 16} You're...{wait: 8} Vera,{wait: 10} right?{p}{speed: 3}
+I'm Trucy!{wait: 10} Trucy Wright!{wait: 10}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+That's{wait: 6} "Wright" with a{wait: 6} "W"!{b}
+Uh, but not{wait: 6} "write", right?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 19 414 414}{name: 4864}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 8}
+......{p}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Um!{wait: 16} We're... on your side!{p}
+You can tell us anything!{b}
+...Please?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 19 414 414}{name: 4864}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{fademusic: 120}{speed: 8}
+......{p}{sound: 52 1}{bgcolor: 2305 8 31}{person: 19 415 414}{speed: 5}
+...Good morning...{nextpage_button}{name: 1024}{person: 19 414 414}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+...{bgcolor: 2305 8 31}!{wait: 30}{b}{color: 2}
+(She{speed: 8}...{wait: 20} {speed: 2}{bgcolor: 2305 8 31}{shake: 30 0}She speaks!){color: 0}{0x23: 0}{music: 255 60}{p}{name: 1280}{person: 5 76 75}{bgcolor: 2305 8 31}
+Hmm,{wait: 10} not bad,{wait: 10} not bad.{p}{person: 5 68 67}{speed: 3}
+But I think you'd do better{b}
+with a little smile,{wait: 12} you know?{p}{person: 5 72 69}
+You're so pretty!{wait: 16} You need to{b}
+sell yourself,{wait: 8} you know?{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+Trucy! Let's...{wait: 16} take it easy{b}
+for starters.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 414 414}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{fademusic: 120}{speed: 8}
+.{speed: 10}.{speed: 12}.{speed: 14}...{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{0x6b: 0 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 5}
+...Thank you for taking my{b}
+   case...{p}{name: 1280}{person: 5 81 81}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+...{bgcolor: 2305 8 31}!{p}{name: 1024}{speed: 5}{color: 2}
+(Okaaaaay... Well, that's{b}
+a start, I guess.){color: 0}{wait: 1}{0x23: 0}{music: 255 60}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 416 416}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{showphoto: 223}{speed: 8}
+..{speed: 10}..{speed: 12}..{p}{name: 1024}{person: 19 416 416}{color: 2}{speed: 3}
+(There she goes with the{b}
+nail polish again...){p}{color: 0}{bganim: 98 579}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+That's great,{wait: 8} really!{wait: 16} {speed: 3}It's{b}{person: 5 74 73}
+so cultured!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4864}{person: 19 416 416}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{showphoto: 223}{speed: 12}
+...{speed: 14}...{person: 19 414 414}{removephoto}{speed: 16}......{nextpage_nobutton}{hidetextbox: 1}{0x6b: 0 0 0}{bganim: 98 8}{person: 19 32769 430}{wait: 160}{person: 19 431 430}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 5}
+...Want to try...?{p}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oooooh!{wait: 10} {speed: 3}Really!?{nextpage_button}{name: 1024}{person: 5 95 95}{speed: 5}
+*sigh*{b}
+Girls...{p}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 4095}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{color: 2}{showphoto: 167}{speed: 3}
+(The victim,{wait: 8} Drew Misham,{wait: 10} was{b}
+a {color: 1}forger{color: 2}.){p}
+(And a stolen painting was{b}
+found in his studio.){p}
+(A life of crime,{wait: 6} really...){p}
+(...And maybe one that led{b}
+to his death.){p}{color: 0}{bganim: 98 579}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{endjmp}
+
+{{1}}
+{bop}{0x26: 0}{bg: 4095}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{center_text: 1}{wait: 30}{speed: 10}{0x30: 2}{color: 3}October 8, 10:00 AM{b}
+District Court{b}
+Courtroom No. 3{p}{color: 0}{center_text: 0}{hidetextbox: 1}{wait: 30}{speed: 255}{wait: 30}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{fademusic: 0}{music: 1 0}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 259 258}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Well,{wait: 10} we will now{speed: 8}{0x5a}... {shake: 30 1}er...{wait: 30}{b}
+*cough*{p}{person: 10 265 264}{speed: 3}{shake: 30 0}
+Begin the,{wait: 15} er,{wait: 16} {shake: 30 0}trial of...{p}{shake: 30 0}{speed: 2}
+Vuh...{wait: 15} Vuh...{wait: 15}{shake: 30 1} Vuh...{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Vera Misham!{nextpage_button}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 4}
+...Is the judge OK?{p}{person: 5 99 98}{speed: 3}
+His voice is all raspy,{wait: 14} and{b}
+he's looking around all{b}
+nervous-like.{p}{bg: 29}{name: 2560}{person: 10 259 258}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 6}
+Erm...{wait: 30} {speed: 3}ahem.{p}{person: 10 263 262}{speed: 3}
+The repercussions of today's{b}
+trial will,{wait_noanim: 25}{person: 10 263 262} most likely,{wait: 10} be{b}
+felt for a long time.{p}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+...And may,{wait: 8} indeed,{wait: 8} alter our{b}
+legal system forever.{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}
+Today is a test of the{wait: 6}{b}{color: 1}
+Jurist System{color: 0}...{p}{person: 6 149 148}{speed: 3}
+...and the first step toward{b}
+a new order in our courts.{p}{newevidence: 32870}{bg: 28}{name: 1280}{person: 5 99 98}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Daddy's {color: 1}secret mission{color: 0}!{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+The jurists will function like{b}
+a {color: 1}jury{color: 0}.{p}
+It is hoped their inclusion{b}
+will help the courts to better{b}
+reflect the people's will.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 40}{wait: 32}{hidetextbox: 0}{name: 1024}{person: 4 41 40}
+Why...{wait: 12} aren't there any{b}
+jurists in the courtroom?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}
+Three closed-circuit cameras{b}
+watch this courtroom at all{b}
+times.{p}
+The jurists have access to{b}
+everything that transpires.{p}{fademusic: 30}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{fademusic: 0}{music: 19 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 2}
+Jurists!{wait: 20} Judge well,{wait: 8} and{b}
+judge cool.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+N-{wait: 8}Now see here,{wait: 15} {bgcolor: 2305 8 31}{shake: 30 0}Prosecutor{b}
+Gavin!{nextpage_button}{person: 10 263 262}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+I-I was going to say that!{p}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 5}
+Ah,{wait: 8} my apologies,{wait: 8} Herr Judge.{p}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ahem.{wait: 8} Jurists!{wait: 15} Today,{wait: 10} er...{p}{bgcolor: 2305 8 31}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Judge today's trial "coolly",{b}
+if you would be so kind!{p}{bg: 25}{name: 1024}{person: 4 58 58}{color: 2}{speed: 3}
+(The jurists are unbound by{b}
+the letter of the law.){p}
+(They don't affect the trial{b}
+with evidence... but by their{b}
+"feelings".){p}{person: 4 36 36}
+(And we're about to find out{b}
+just what effect they're{b}
+going to have.){nextpage_button}{color: 0}{bg: 29}{name: 2560}{person: 10 263 262}{hidetextbox: 0}
+Very well,{wait: 8} Prosecutor Gavin.{b}
+The details of the case,{wait: 8}{b}
+if you would.{p}{bg: 26}{name: 13568}{person: 6 151 150}{showphoto: 167}
+The victim is the painter{b}{color: 1}
+Drew Misham{color: 0}.{wait: 16} He was killed{b}
+in his own studio.{p}{bganim: 98 579}
+His coffee...{wait: 16} was poisoned.{b}
+By whom,{wait: 8} you ask?{nextpage_button}{bg: 166}{person: 0 0 0}
+By none other than the{b}
+defendant,{wait: 8} Vera Misham.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{bg: 26}{person: 6 145 145}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}
+There wasn't any poison{b}
+in the coffee!{p}{bg: 26}{name: 13568}{person: 6 149 148}{sound: 52 1}{bgcolor: 2305 8 31}
+Achtung{0x5a}...{wait: 30} {0x59}Someone has been{b}
+doing their homework!{p}
+Indeed.{wait: 20} Poison was not present{b}
+in the coffee...{wait: 20}{showphoto: 205}{person: 6 151 150}{speed: 3} but on the{b}
+mug itself.{p}{bg: 29}{name: 2560}{person: 10 266 266}
+The mug...?{0x63}{wait: 8}{person: 10 265 264} Ah,{wait: 8} residue was{b}
+found on the rim,{wait: 8} I see.{p}{bganim: 98 579}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+The autopsy report describes{b}{showphoto: 65}
+the manner of our victim's{b}
+death.{p}{bganim: 98 579}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+The court accepts this as{b}
+evidence.{0x5a}{nextpage_button}{newevidence: 16614}{name: 0}{color: 2}{speed: 4}
+Misham's Autopsy Report added{b}
+to the Court Record.{nextpage_button}{speed: 255}{color: 0}{person: 10 259 258}{name: 2560}{showphoto: 65}
+According to this report...{p}{person: 10 263 262}
+...the victim's death was{b}
+caused by "{color: 1}atroquinine{color: 0}"{b}
+poisoning.{nextpage_button}{bganim: 98 579}{bg: 26}{name: 13568}{person: 6 151 150}
+A chemical compound that does{b}
+not occur naturally.{wait: 16} Lethal{b}
+dosage is a mere 0.{wait: 16}002mg.{p}{speed: 4}
+A touch of atroquinine in{b}
+the body...{p}{person: 6 146 145}{speed: 3}
+...{wait: 12}is the touch of the{b}
+Reaper's scythe.{p}{fademusic: 45}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 259 258}
+Very well,{wait: 8} Prosecutor Gavin.{wait: 16}{b}
+You may present your witness.{p}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+I have for you today a simple{b}
+man,{wait: 12} for a simple case.{p}{speed: 3}
+...A man who witnessed the{b}
+murder in its entirety.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{name: 1024}{person: 4 36 36}{hidetextbox: 0}{color: 2}
+(That journalist,{wait: 16} no doubt...){p}{color: 0}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{endjmp}
+
+{{2}}
+{bop}{bg: 26}{person: 6 146 145}{0x5a}{bgcolor: 258 1 31}{wait: 15}{fademusic: 0}{music: 1 0}{name: 13568}{hidetextbox: 0}{0x59}The witness will state his{b}
+name and occupation.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 449}{wait: 32}{name: 5120}{person: 20 453 453}{wait: 60}{hidetextbox: 0}{person: 20 460 459}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah!{wait: 15} Right!{p}{person: 20 450 449}
+Well,{wait: 10} for starters,{wait: 10} my name's{b}
+Spark Brushel!{wait: 16} My job is...{b}
+a lone observer of the world!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{hidetextbox: 0}{name: 1024}{person: 4 37 36}{speed: 3}
+In other words,{wait: 12} a freelance{b}
+journalist,{wait: 10} right?{p}{bg: 27}{name: 5120}{person: 20 460 459}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Ahem!{wait: 15} If you don't mind,{wait: 8}{b}
+I'd like to state something{b}
+here for the record.{p}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 3}
+Yes,{wait: 8} Mr. Brushel?{p}{bg: 27}{name: 5120}{person: 20 457 456}{speed: 2}
+I dislike conclusions,{wait: 8}{b}
+specifically,{wait: 8} the jumping{b}
+to aspect of conclusions.{p}{person: 20 457 456}{speed: 2}
+"Preconceptions Make Park{b}
+Sandbox of Endless Desert{b}
+Waste..."{wait: 15}{speed: 2}{0x5a}{person: 20 450 449}{shake: 30 0}{wait: 10} end quote.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{hidetextbox: 0}{name: 1024}{person: 4 37 36}{speed: 3}
+But,{wait: 10} you are a journalist.{p}
+You said so yourself{b}
+yesterday.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{hidetextbox: 0}{name: 5120}{person: 20 452 451}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 16}Well,{wait: 8} that's true, yes.{p}{person: 20 450 449}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+But you must understand,{wait: 8}{b}
+I stand before you today a{b}
+man with a dream!{nextpage_button}{person: 20 457 456}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+I'm offering you my testimony{b}
+in exchange for exclusive{b}
+rights to the story!{nextpage_button}{person: 20 452 451}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+"Scoop Turns Mr. Brushel Into{b}{bgcolor: 2305 8 31}
+THAT Mr. Brushel!{wait: 6}" end quote.{nextpage_button}{fademusic: 45}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+...Let's hear your testimony{b}
+then,{wait: 10} shall we?{p}{bg: 25}{name: 1024}{person: 4 36 36}{speed: 4}{color: 2}
+(A{wait: 6} "{color: 1}simple case{color: 2}", eh, Gavin?{wait: 20}{b}{speed: 3}
+For me,{wait: 10} the jury... is{b}
+still out.){color: 0}{nextpage_button}{hidetextbox: 1}{testimony_animation: 1}{special_jmp}{endjmp}

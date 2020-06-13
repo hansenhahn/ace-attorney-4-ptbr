@@ -1,0 +1,1358 @@
+
+
+{{0}}
+{bop}{0x62: 4 1}{0x26: 0}{person: 0 0 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}October 7{b}
+Drew Studio{color: 0}{nextpage_button}{center_text: 0}{speed: 255}{hidetextbox: 1}{wait: 20}{0x26: 0}{fademusic: 0}{music: 25 0}{wait: 70}{name: 1024}{hidetextbox: 0}
+Wow,{wait: 10} this looks like{speed: 8}...{wait: 20} {speed: 3}it{b}
+looks like a studio.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{wait: 16}{person: 5 76 75}{name: 1280}{hidetextbox: 0}
+It's like life imitating{b}
+art...{wait: 15} Or,{wait: 8} maybe, it's the{b}
+other way around... Hmm.{p}{speed: 4}
+But the tape on the ground{b}
+there... {wait: 8}{person: 5 84 83}It's a bit jarring...{nextpage_button}{name: 1024}
+Yeah...{wait: 25} Looks like we found{b}
+our crime scene...{nextpage_button}{name: 1280}{person: 5 68 67}{sound: 51 1}{bgcolor: 2305 8 31}
+Apollo!{wait: 15} {speed: 3}Look at all those{b}
+paintings!{nextpage_button}{name: 1024}{person: 5 67 67}
+Hey,{wait: 15} don't touch those.{p}{name: 1280}{person: 5 72 69}
+It's OK,{wait: 15} I'm just looking.{speed: 255}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 70}{person: 0 0 0}{bgcolor: 260 1 31}{wait: 25}{wait: 60}{bgcolor: 514 1 31}{wait: 15}{bg: 71}{bgcolor: 260 1 31}{wait: 25}{wait: 60}{bgcolor: 514 1 31}{wait: 15}{bg: 69}{bgcolor: 260 1 31}{wait: 25}{wait: 60}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}
+Huh?{wait: 16} Apollo...{wait: 25}{b}{speed: 4}
+Look at this one.{nextpage_button}{name: 1024}
+...Looks half finished.{wait: 20}{b}{speed: 3}{color: 2}
+(You can still see the{b}
+rough sketch underneath.){color: 0}{p}{name: 1280}{speed: 5}
+But, that's odd.{wait: 20}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3} The rough{b}
+part doesn't look like the{b}
+rest of the painting at all.{p}{name: 1024}
+Yeah,{wait: 14} good point.{wait: 14}{b}{speed: 4}{color: 2}
+(That is odd...){color: 0}{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 241}{person: 5 72 69}{0x5a}{bgcolor: 258 1 31}{wait: 15}{0x51: 3 53}
+{6913}{1780}{newevidence: 198}{newevidence: 199}{newevidence: 16584}{name: 0}{hidetextbox: 0}{speed: 3}{color: 2}Drew Misham's Paintings added{b}
+to the Court Record.{color: 0}{nextpage_button}{speed: 255}{name: 1280}{hidetextbox: 0}{0x59}
+...{speed: 3}All the paintings have a{b}
+really different style,{wait: 8} too.{nextpage_button}{fademusic: 45}{name: 768}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah!{wait: 30} I thought I might find{b}
+you two here.{nextpage_button}{hidetextbox: 1}{personvanish: 3 2}{person: 9 251 251}{wait: 32}{sound: 52 1}{bgcolor: 2305 8 31}{newevidence: 32930}{wait: 60}{person: 5 82 81}{name: 1280}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ema!{wait: 15}{b}
+Long time no{fademusic: 0}{music: 41 0} see!{wait_noanim: 25}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+Oh?{p}
+Seems like I run into you{b}
+far too often.{nextpage_button}{person: 9 239 238}{speed: 5}
+I'll bet I know why you're{b}
+here,{wait: 10} too.{nextpage_button}{name: 1024}{speed: 3}
+You know about the {color: 1}trial{b}
+simulation{color: 0} tomorrow?{p}{person: 9 233 232}{name: 2304}
+I've heard about it,{wait: 10} sure.{wait: 10}{b}
+So Mr. Wright chose you, huh?{nextpage_button}{person: 9 232 232}{name: 1024}
+We don't even know what the{b}
+case is about.{p}{person: 9 233 232}{name: 2304}
+Well, he was killed.{wait: 20}{b}
+The artist who owns this{b}
+studio,{wait: 10} that is.{nextpage_button}{person: 9 241 240}{showphoto: 167}
+Mr. Drew Misham.{nextpage_button}{bganim: 98 579}{person: 5 76 75}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Misham...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+And his daughter was put under{b}
+arrest.{nextpage_button}{person: 9 232 232}{name: 1024}{speed: 4}
+Yeah...{wait: 25} {speed: 3}We just saw her at{b}
+the detention center.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+It was funny,{wait: 10} though.{p}{speed: 3}
+She seemed more like a victim{b}{wait_noanim: 20}{person: 5 68 67}
+than the kind of person who{b}
+could commit murder.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 5}
+You don't say.{p}{person: 9 250 249}
+Not even by {color: 1}poisoning{color: 0}?{wait: 10} That's{b}
+how it was done,{wait: 6} you know.{p}{person: 9 233 232}{speed: 3}
+Poisoning's a common way to{b}
+get the job done,{wait: 10} when the{b}
+murderer is a woman.{nextpage_button}{newevidence: 32935}{0x19: 32933 163}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 6}
+P-{wait: 10}Poisoning...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+Anyway,{wait: 15} Mr. Wright told me{b}
+you'd be coming.{p}{person: 9 241 240}
+Feel free to take a look{b}
+around.{p}{person: 9 252 251}
+I'll just be over here.{wait: 12}{b}
+With my Snackoos.{nextpage_button}{name: 1024}{color: 2}
+(We can't talk to anyone{b}
+related to the case this{b}
+time around...){nextpage_button}
+(...{wait: 8}Which means we'd better{b}
+find out as much as we can{b}
+here at the scene.){nextpage_button}{speed: 4}
+(...Or else.){speed: 255}{color: 0}{nextpage_button}{0x10: 33559}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{name: 1024}{hidetextbox: 0}So,{wait: 6} about this reporter...{nextpage_button}{person: 9 250 249}{name: 2304}
+I can't tell you much.{wait: 10} I hear{b}
+he's going to be a witness{b}
+tomorrow,{wait: 10} though.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}
+I thought so.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+I'll never forget that face,{wait_noanim: 20}{b}{person: 9 250 249}
+but what was his name...?{nextpage_button}{person: 9 246 245}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Oh,{wait: 10} right.{0x5a}{wait: 25}{showphoto: 196}{person: 9 241 240} Brushel.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}{wait: 8}
+Brushel...{nextpage_button}{removephoto}{person: 9 250 249}{name: 2304}{speed: 3}
+He's after a scoop to sell{b}
+to the papers.{nextpage_button}{person: 9 240 240}{name: 1024}{fademusic: 120}{speed: 4}
+So a reporter comes for an{b}
+interview with a painter.{p}{person: 9 240 240}{sound: 52 1}{bgcolor: 2305 8 31}
+His first interview ever,{wait: 10}{b}
+and that night,{wait: 12} {speed: 3}he's killed.{wait: 20}{b}
+Seem strange to you?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 86 85}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+Really strange.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 5}
+It does raise a few questions.{nextpage_button}{person: 9 251 251}{name: 1024}
+I'd like to speak with this{b}
+reporter if I could.{p}{person: 9 252 251}{name: 2304}
+Well,{wait: 10} I hear he's on the{b}
+beat today,{wait: 10} too.{p}{person: 9 250 249}{speed: 4}
+...He said something about{b}
+covering a magician.{nextpage_button}{person: 9 249 249}{name: 1024}
+Magician{speed: 6}...?{wait: 25}{b}{bgcolor: 2305 8 31}{speed: 2}{color: 2}
+(Well,{wait: 20} if it's not Trucy,{wait: 10} that{b}
+leaves only one other person.){color: 0}{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+It wasn't {color: 1}Valant Gramarye{color: 0},{wait: 10} by{b}
+any chance, was it?{nextpage_button}{person: 9 246 245}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Yeah,{wait: 8} something like that!{wait_noanim: 20}{b}{person: 9 252 251}{speed: 3}
+He's got some big show lined{b}
+up,{wait: 8} I hear.{nextpage_button}{person: 9 251 251}{name: 1024}{speed: 4}{color: 2}
+(So, he's out interviewing{b}
+Valant Gramarye{speed: 7}...){nextpage_button}{speed: 4}
+(Looks like I'll be heading{b}
+out to that coliseum again{b}{fademusic: 0}{music: 33 0}
+sooner than I thought.){color: 0}{nextpage_button}{person: 9 252 251}{name: 2304}{showphoto: 196}
+Here,{wait: 8} I'll give you that{b}
+reporter's card if you want.{nextpage_button}{bganim: 98 579}{newevidence: 16580}{name: 0}{speed: 3}{color: 2}
+Brushel's Card added to the{b}
+Court Record.{color: 0}{b}{speed: 255}{color: 0}{nextpage_button}{0x10: 33560}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{name: 1024}{hidetextbox: 0}So,{wait: 10} Ema,{wait: 10} I was wondering...{p}
+What's the story about this{b}
+reporter that came here for a{b}
+story the night of the crime?{nextpage_button}{person: 9 244 243}{name: 2304}{bgcolor: 2305 8 31}{shake: 30 0}
+Ah!{wait: 8} I'm afraid I can't tell{b}
+you, because he's going to be{b}
+a witness tomorrow,{wait: 8} I hear.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}
+I thought so.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+I'll never forget that face,{wait_noanim: 20}{b}{person: 9 250 249}
+but what was his name{speed: 8}...?{nextpage_button}{person: 9 246 245}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Oh,{wait: 10} right.{0x5a}{wait: 25}{showphoto: 196}{person: 9 241 240} Brushel.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}{wait: 8}
+Brushel...{nextpage_button}{removephoto}{person: 9 250 249}{name: 2304}{speed: 3}
+He's after a scoop to sell{b}
+to the papers.{nextpage_button}{person: 9 240 240}{name: 1024}{fademusic: 120}{speed: 4}
+So a reporter comes for an{b}
+interview with a painter.{p}{person: 9 240 240}{sound: 52 1}{bgcolor: 2305 8 31}
+His first interview ever,{wait: 12}{b}{speed: 3}
+and that night, he's killed.{wait: 20}{b}
+Seem strange to you?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 86 85}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+Really strange.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 5}
+It does raise a few questions.{nextpage_button}{person: 9 251 251}{name: 1024}
+I'd like to speak with this{b}
+reporter if I could.{p}{person: 9 252 251}{name: 2304}
+Well,{wait: 10} I hear he's on the{b}
+beat today,{wait: 10} too.{p}{person: 9 250 249}{speed: 4}
+...{wait: 16}He said something about{b}
+covering a magician.{nextpage_button}{person: 9 249 249}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+Magician...?{wait: 25}{b}{bgcolor: 2305 8 31}{speed: 2}{color: 2}
+(Well,{wait: 10} if it's not Trucy,{wait: 10} that{b}
+leaves only one other person.){color: 0}{nextpage_button}{person: 5 96 95}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+It wasn't {color: 1}Valant Gramarye{color: 0},{wait: 15} by{b}
+any chance, was it?{nextpage_button}{person: 9 246 245}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Yeah,{wait: 10} something like that!{wait_noanim: 20}{b}{person: 9 252 251}{speed: 3}
+He's got some big show lined{b}
+up,{wait: 8} I hear.{nextpage_button}{person: 9 251 251}{name: 1024}{speed: 4}{color: 2}
+(So, he's out interviewing{b}{wait: 16}
+Valant Gramarye{speed: 7}...){nextpage_button}{speed: 3}
+(Looks like I'll be heading{b}
+out to that coliseum again{b}{fademusic: 0}{music: 33 0}
+sooner than I thought.){color: 0}{nextpage_button}{person: 9 252 251}{name: 2304}{showphoto: 196}
+Here,{wait: 8} I'll give you that{b}
+reporter's card if you want.{nextpage_button}{bganim: 98 579}{newevidence: 16580}{name: 0}{speed: 3}{color: 2}
+Brushel's Card added to the{b}
+Court Record.{b}{speed: 255}{color: 0}{nextpage_button}{0x10: 33560}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{showphoto: 196}Here,{wait: 8} I'll give you that{b}
+reporter's card if you want.{nextpage_button}{bganim: 98 579}{nextpage_button}{newevidence: 16580}{name: 0}{speed: 3}{color: 2}
+Brushel's Card added to the{b}
+Court Record.{b}{speed: 255}{color: 0}{nextpage_button}{0x10: 33560}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{hidetextbox: 0}{speed: 5}So,{wait: 12} this,{wait: 8} um, Drew Misham was{b}
+some kind of artist?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 4}
+Apparently.{wait: 16} {speed: 3}Did a lot of{b}
+illustrations for books,{wait: 10}{b}
+I hear.{p}
+Had a lot of female fans,{wait: 8} too,{wait_noanim: 20}{b}{person: 9 252 251}
+for what it's worth.{nextpage_button}{person: 5 68 67}{name: 1280}{shake: 30 0}{speed: 6}{wait: 10}
+Oh?{wait: 15}{person: 5 72 69}{speed: 3} Well, I guess his stuff{b}
+is kinda pretty.{p}{speed: 4}
+Like that oil painting over{b}
+there,{wait: 12} for instance.{speed: 255}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 239 238}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}{wait: 8}
+Um...{wait: 15} {speed: 4}yeah.{p}{person: 9 237 236}
+That{0x5a}...{wait: 16} {0x59}wasn't one of his{b}
+illustrations,{wait: 8} actually.{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{color: 2}
+(Huh? So it was a standalone{b}
+painting or something? Is{b}
+that what she means?){color: 0}{p}{person: 9 250 249}{name: 2304}{speed: 255}
+He was an odd bird,{wait: 8} Misham.{p}{person: 9 233 232}
+Hadn't shown his face to{b}
+anyone until the end.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}
+What do you mean,{wait: 10} "to anyone"?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+He was always locked up here{b}
+in this studio,{wait: 8} apparently.{p}
+His only connection to the{b}
+outside world...{p}{person: 9 239 238}{showphoto: 197}
+...was through letters he'd{b}
+put in that letter box there.{nextpage_button}{bganim: 98 579}{person: 9 238 238}{name: 1024}{speed: 5}
+Letters?{wait: 20} {speed: 4}Do people still{b}
+write letters?{nextpage_button}{person: 5 68 67}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+What do you mean,{wait: 16} Apollo?{nextpage_button}{name: 1024}{speed: 3}
+I mean,{wait: 12} when was the last time{b}
+you wrote a real letter?{nextpage_button}{person: 5 75 75}
+Don't most people use e-mail{b}
+and stuff these days?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+Not Mr. Misham.{wait: 12} Couldn't{b}
+stand technology,{wait: 10} it seems.{p}{person: 9 250 249}
+He did everything by mail.{nextpage_button}{person: 5 72 69}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}
+Maybe he thought that way was{b}
+more artistic,{wait: 12} you know?{nextpage_button}{0x35: 6913 @RelativeAddress0}{newevidence: 16581}{name: 0}{speed: 3}{color: 2}
+Letter Box added to the Court{b}
+Record.{nextpage_button}{speed: 255}{color: 0}{@RelativeAddress0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{hidetextbox: 0}{speed: 3}
+In any case,{wait: 8} the only person{b}
+besides him allowed in here...{p}{person: 9 252 251}{showphoto: 163}
+...was his daughter,{wait: 8} Vera.{nextpage_button}{person: 5 68 67}{name: 1280}{bgcolor: 2305 8 31}
+Oh,{wait: 12} you mean the killer?{nextpage_button}{person: 5 75 75}{name: 1024}{speed: 4}
+...{wait: 10}The "suspect", please.{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+We took some fingerprints,{wait: 12}{b}
+of course.{p}
+The only ones found in the{b}
+room were Mr. Misham's and{b}
+Vera's,{wait: 10} basically.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+"Basically"{speed: 6}...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+Actually,{wait: 10} last night{speed: 8}{0x5a}...{0x59}{p}{person: 9 237 236}
+...{wait: 14}{speed: 3}Mr. Misham gave an{b}
+interview to a reporter{b}
+for the first time.{p}
+It happened during the{b}
+interview, apparently.{nextpage_button}{person: 5 86 85}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+His first interview ever...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 3}
+Could you tell us a bit more{b}
+about what happened the night{b}
+of the murder?{nextpage_button}{0x10: 33563}{0x51: 3 53}
+{8961}{4130}{0x35: 11521 @RelativeAddress1}{0x37: 9 0}{0x37: 10 1}{hidetextbox: 3}{special_jmp}{@RelativeAddress1}{0x37: 9 0}{0x37: 10 0}{0x37: 13 0}{0x37: 11 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 9 251 251}{name: 1024}{hidetextbox: 0}{speed: 5}So,{wait: 10} this woman,{wait: 10} Vera...{wait: 30}{b}{showphoto: 163}{p}{speed: 3}
+She's Mr. Misham's daughter,{b}
+right?{p}{person: 9 233 232}{name: 2304}
+Yep.{wait: 16} A real sickly girl,{wait: 6} ever{b}
+since she was little.{p}{person: 9 239 238}
+Hardly ever went outside.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 93 92}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+She did kind of give off a{b}
+withdrawn sort of aura...{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+She was home-{wait: 10}schooled by her{b}
+father,{wait: 10} apparently.{p}{person: 9 250 249}
+It was quite a scene when they{b}
+took her to the detention{b}
+center.{nextpage_button}{person: 9 237 236}
+She was screaming about how{b}
+she'd die{wait: 10} "if they took her{b}
+outside".{nextpage_button}{name: 1024}{speed: 6}
+That...{wait: 20} {speed: 4}does sound like a{b}
+scene.{p}{person: 9 233 232}{name: 2304}{speed: 3}
+In the end,{wait: 8} she agreed to{b}
+leave if she was allowed her{b}
+"good luck charm" for company.{nextpage_button}{person: 5 76 75}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Her "good luck charm"...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+Apparently,{wait: 12} she has this charm{b}
+that magically gives her the{b}
+courage to go outside.{p}{person: 9 238 238}{name: 1024}{speed: 4}{color: 2}
+(...{wait: 16}Why can't I ever get a{b}
+normal client?){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+But why would a shut{wait: 6}-in{b}
+daughter kill her own dad?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+Don't look at me.{nextpage_button}{name: 1024}
+So,{wait: 6} about the poison...{b}
+It was found to be in his{b}
+coffee, right...?{p}{person: 9 239 238}{name: 2304}{speed: 5}{wait: 10}
+No{0x5a}{speed: 8}...{wait: 30}{0x59} {speed: 3}Not precisely.{p}{person: 5 76 75}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Not precisely?{wait: 15} What does that{b}
+mean?{nextpage_button}{person: 5 75 75}{name: 1024}{color: 2}
+(It means "see for yourself",{wait: 12}{b}
+I think.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{0x10: 33564}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 9 250 249}{name: 2304}{hidetextbox: 0}Like I said.{p}{person: 9 252 251}
+Last night was the first time{b}
+someone from the{wait: 6} "outside"{wait: 6}{b}
+came into this studio.{p}{person: 9 250 249}
+I guess mysterious painters{b}
+who never go outside make for{b}
+good articles.{nextpage_button}{person: 9 249 249}{name: 1024}{speed: 4}
+And it just so happened that{wait: 30}{b}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 45}
+he died the night of his{b}
+first interview...?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 166}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{fademusic: 0}{music: 4 100}{hidetextbox: 0}{name: 2304}{speed: 4}
+...At around 9:00 PM every{b}
+night...{p}
+...Vera always made him a cup{b}
+of coffee.{p}
+Last night,{wait: 10} he drank his usual{b}
+coffee,{wait: 10} and suddenly became{b}
+violently ill...{nextpage_button}{name: 1280}{speed: 5}
+...And died?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 241}{person: 5 96 95}{0x5a}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{0x59}{speed: 2}
+She poisoned him on the night{b}
+of his interview!?{wait: 15} {speed: 3}Wouldn't{b}
+the reporter see?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+He wasn't near Mr. Misham when{b}
+she brought her father his{b}
+coffee.{nextpage_button}{hidetextbox: 1}{wait: 1}{0x1d: 264}{0x4c}{hidetextbox: 0}
+He was checking out some{b}
+equipment in the back of{b}
+the room.{nextpage_button}{hidetextbox: 1}{wait: 1}{0x1d: 8}{0x4c}{hidetextbox: 0}{person: 9 250 249}
+...{wait: 20}Supposedly, that's why she{b}
+didn't notice he was there.{p}{person: 9 241 240}
+It was the reporter who called{b}
+the police,{wait: 8} in fact.{nextpage_button}{person: 9 251 251}{name: 1024}{speed: 5}
+Wait,{wait: 20} but why is she the{b}
+suspect?{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+If anyone is suspicious,{wait: 6} it's{b}
+the reporter!{p}{person: 9 252 251}{name: 2304}{speed: 3}
+Yet the reporter never got{b}
+near Mr. Misham's coffee.{p}{fademusic: 45}{person: 9 241 240}{sound: 52 1}{bgcolor: 2305 8 31}
+Even Vera acknowledges that.{nextpage_button}{name: 1024}{color: 2}{speed: 3}
+(Regardless,{wait: 6} I want to know{b}{fademusic: 0}{music: 41 100}
+more about this{wait: 6} "reporter".){nextpage_button}{color: 0}{person: 9 251 251}{0x10: 33565}{0x51: 3 53}
+{6656}{2386}{0x35: 6400 @RelativeAddress2}{0x35: 6145 @RelativeAddress3}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress2}{@RelativeAddress3}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x51: 3 53}{7680}{removephoto}{jmp: 136}{endjmp}{endjmp}{wait: 1}{0x1d: 8}{0x4c}{person: 9 251 251}{name: 1024}{hidetextbox: 0}{color: 2}(I bet Ema could help us out{b}
+here...){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 74 73}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+Don't forget,{wait: 12} flattery will{b}
+get you everywhere with her,{b}
+Apollo!{p}{person: 9 237 236}{name: 2304}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Huh?{wait: 20} {speed: 3}What are you two{b}
+whispering about?{nextpage_button}{name: 1024}{speed: 5}
+Well...{wait: 20}{b}{speed: 3}
+I was thinking.{p}{person: 9 251 251}
+I mean,{wait: 12} what is it we always{b}
+do when we run into you at{b}
+a crime scene?{p}{person: 9 232 232}{shake: 30 0}{speed: 5}
+What is it we always do...{wait: 16}{b}{speed: 4}
+scientifically?{p}{0x8e: 9 255}{0x8f: 256}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Ah,{wait: 15} you know me too well!{wait: 8}{0x63}{b}{person: 9 246 245}{wait: 10}
+OK...{nextpage_button}{person: 9 245 245}{name: 1024}{shake: 30 0}
+OK...{wait: 20} {speed: 3}meaning we can get{b}
+erm,{wait: 12} scientific now?{p}{person: 9 241 240}{name: 2304}{bgcolor: 2305 8 31}{speed: 2}
+Oh,{wait: 8} I suppose.{wait: 20}{b}{speed: 3}
+Just this once!{p}{person: 9 246 245}
+Bring me anything you find{b}
+suspicious and we'll check{b}
+it out.{nextpage_button}{0x10: 33566}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 9 232 232}{name: 1024}{hidetextbox: 0}I was hoping we could do a{b}
+little forensics work...{p}{person: 9 241 240}{name: 2304}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...I suppose.{wait: 20} If we must.{wait: 20}{b}{speed: 3}
+Just this once!{nextpage_button}{0x10: 33566}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{bg: 241}{person: 9 240 240}{name: 1024}{color: 2}(Let's start analyzing,{wait: 10} shall{b}
+we...){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 69}{0x3e: 65535}{b}{2args_choice_jmp: 170 180}{endjmp}
+
+{{10}}
+{bop}{person: 9 240 240}{name: 1024}{color: 2}(Let's start analyzing,{wait: 10} shall{b}
+we...){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 70}{0x3e: 65535}{b}{2args_choice_jmp: 174 180}{endjmp}
+
+{{11}}
+{bop}{person: 9 240 240}{name: 1024}{color: 2}(OK.{wait: 16} Now, which analysis{b}
+should we do?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 69}{bgtile: 62}{b}{b}{3args_choice_jmp: 170 174 180}{endjmp}
+
+{{12}}
+{bop}{0x51: 3 53}{8705}{swoosh: 53 9216 34 44}{0x8d}{endjmp}{endjmp}{jmp: 142}{endjmp}{endjmp}{person: 5 68 67}{name: 1280}{hidetextbox: 0}{speed: 3}I wouldn't mind taking a{b}
+closer look at those{b}
+paintings.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 70}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{name: 1280}{hidetextbox: 0}
+I just love oils! You know,{wait: 10}{b}
+how they're so thick? Is that{b}
+the word?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 71}{bgcolor: 258 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}
+...{wait: 12}These paints are all dry.{p}{speed: 3}
+I'm just surprised at how{b}
+different these all are.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 69}{bgcolor: 258 1 31}{wait: 15}{wait: 40}{name: 1280}{hidetextbox: 0}{speed: 3}
+Yeah...{wait: 12} {sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}And what's going on{b}
+with this half-finished one?{nextpage_button}{name: 1024}{speed: 3}
+It must have been a work in{b}
+progress. You can still see{b}
+the rough sketch below...{color: 0}{p}{name: 1280}{speed: 5}
+...{wait: 20}{speed: 4}That's what's so weird.{wait: 25} {speed: 3}The{b}
+sketched part doesn't really{b}
+fit the finished parts.{p}{name: 1024}
+I noticed.{wait: 20}{b}{color: 2}{speed: 4}
+(That is weird...){color: 0}{p}{hidetextbox: 1}{bg: 241}{personvanish: 3 1}{person: 32777 232 232}{0x10: 33572}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{person: 5 68 67}{name: 1280}{hidetextbox: 0}{speed: 3}Let's take a closer look.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 69}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}
+This painting here looks like{b}
+a work in progress.{p}{name: 1280}
+But{speed: 8}...{wait: 16} {sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}the rough sketch part{b}
+doesn't fit the other parts.{p}{name: 1024}
+I know.{wait: 20}{b}{color: 2}{speed: 4}
+(Very peculiar...){color: 0}{p}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 241}{bgcolor: 257 1 31}{wait: 7}{personvanish: 3 1}{person: 32777 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{0x51: 3 53}{6656}{removephoto}{jmp: 143}{endjmp}{endjmp}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{hidetextbox: 0}{speed: 3}Let's take a closer look!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 69}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{name: 1280}{hidetextbox: 0}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}
+Why are two of the paintings{b}
+identical?{p}{name: 1024}
+It certainly is a bit{b}
+curious.{p}{color: 2}
+(...{wait: 12}And a whole lot of{b}
+suspicious.){color: 0}{p}{hidetextbox: 1}{0x23: 0}{music: 255 60}{bgcolor: 514 1 31}{wait: 15}{bg: 241}{person: 32777 232 232}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{hidetextbox: 0}{speed: 3}Let's take a closer look.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 70}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{fademusic: 30}{name: 1280}{hidetextbox: 0}
+Mr. Misham sure worked on a{b}
+lot of different paintings.{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 71}{bgcolor: 258 1 31}{wait: 15}{name: 1280}{hidetextbox: 0}
+You think his works really go{b}
+for a 100 grand a piece? Maybe{b}
+I should take up painting.{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 69}{bgcolor: 258 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{color: 2}{speed: 255}
+(I don't think his paintings{b}
+are worth THAT much.{b}
+Something's not right here.){color: 0}{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 241}{person: 32777 232 232}{bgcolor: 258 1 31}{wait: 15}{0x23: 0}{music: 255 60}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{0x10: 33583}{person: 5 76 75}{name: 1280}{showphoto: 197}That letter box looks funny{b}
+sitting inside a room like{b}
+this.{p}{person: 5 75 75}{name: 1024}{speed: 5}
+Let's take a look...{wait: 30}{b}{speed: 3}
+Empty.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+The other half of that letter{b}
+box is actually connected to{b}
+the outside of the studio.{p}{person: 9 250 249}
+Mr. Misham would put his{b}
+letters in there...{p}{person: 9 233 232}
+...and the postman took them{b}
+away.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}
+Impressive that someone still{b}
+writes letters in this day{b}
+and age.{wait: 15} {speed: 3}Or wrote,{wait: 10} rather.{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{showphoto: 197}That letter box looks funny{b}
+sitting inside a room like{b}
+this.{p}{person: 5 75 75}{name: 1024}{speed: 5}
+Let's take a look...{wait: 30}{b}{speed: 3}
+Empty.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+The other half of that letter{b}
+box is actually connected to{b}
+the outside of the studio.{p}{person: 9 250 249}
+Mr. Misham would put his{b}
+letters in there...{p}{person: 9 233 232}
+...and the postman took them{b}
+away.{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 5}
+Impressive that someone still{b}
+writes letters in this day{b}
+and age.{wait: 30} {speed: 3}Or wrote, rather.{nextpage_button}{removephoto}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{0x51: 3 53}{11776}{removephoto}{jmp: 147}{endjmp}{endjmp}{0x10: 33582}{person: 5 82 81}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}Hey...{p}{name: 1280}{speed: 3}
+There's a painting hidden{b}
+back here!{p}{person: 5 73 73}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}
+...Hey,{wait: 10} you're right!{p}{person: 5 74 73}{name: 1280}
+What if it's embarrassing{b}
+somehow,{wait: 10} {bgcolor: 2305 8 31}{shake: 30 0}and he didn't want{b}
+anyone to see it!?{p}{person: 5 95 95}{name: 1024}{speed: 4}
+You certainly seem pleased{b}
+by the possibility.{nextpage_button}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{bgcolor: 514 1 31}{wait: 15}{bg: 72}{bgcolor: 258 1 31}{wait: 15}{name: 1280}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Huh.{wait: 16} {speed: 2}It's so... normal!{p}{name: 1024}{speed: 4}
+That's hardly something to{b}
+get mad about...{p}{fademusic: 60}{speed: 6}
+..{speed: 8}..{speed: 10}..{p}{name: 1280}{speed: 3}
+Huh?{wait: 25}{b}{shake: 30 0}
+What is it,{wait: 6} Apollo?{p}{name: 1024}
+Well,{wait: 6} doesn't this painting{b}
+look like{speed: 8}...{wait: 30} {speed: 5}never mind.{p}{name: 1280}{speed: 5}
+...?{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 241}{person: 5 75 75}{bgcolor: 258 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}
+(I'd better get a professional{b}
+opinion on this...){0x23: 0}{music: 255 90}{color: 0}{p}{newevidence: 16585}{name: 0}{speed: 4}{color: 2}
+Hidden Painting added to the{b}
+Court Record.{color: 0}{nextpage_button}{speed: 255}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32777 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{person: 5 82 81}{0x5a}{name: 1280}{hidetextbox: 0}{0x59}Huh?{wait: 15}{b}
+What is it,{wait: 10} Apollo?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 72}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}
+Well,{wait: 8} doesn't this painting{b}
+look like...{wait: 30} never mind.{p}{hidetextbox: 1}{bg: 241}{person: 5 75 75}{bgcolor: 258 1 31}{wait: 15}{name: 1280}{hidetextbox: 0}
+...?{p}{name: 1024}{color: 2}
+(I'd better get a professional{b}
+opinion on this...){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32777 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{person: 5 96 95}{name: 1280}{shake: 30 0}Eek,{wait: 12} Apollo!{wait: 16} Th{wait: 12}-{shake: 30 0}That's where{b}
+the body was!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+That's the spot where{b}
+Mr. Drew Misham passed away.{p}
+He put the coffee mug to his{b}
+lips,{wait: 10} and the next moment...{p}{person: 9 251 251}{name: 1024}
+There's quite a bit of paint{b}
+on the ground.{p}{person: 9 252 251}{name: 2304}
+See that half-painted{b}
+painting there?{p}{person: 9 250 249}
+He must have been working on{b}
+that right up to the moment{b}
+he died.{p}{person: 5 82 81}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Wow!{wait_noanim: 20} {person: 5 96 95}{speed: 3}A true artist to the end!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+Or maybe he started it a year{b}
+ago and was procrastinating.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{person: 5 68 67}{name: 1280}What is all this equipment{b}
+here for?{p}{person: 5 76 75}
+It doesn't look very artistic,{wait: 6}{b}
+really.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+He had everything from a{b}
+lathe to a laser cutter.{p}{person: 9 241 240}
+Looks like he was ready to{b}
+work on metals and wood, too.{p}{person: 9 250 249}
+...{speed: 4}Though his equipment's a{b}
+bit old,{wait: 8} to tell the truth.{nextpage_button}{name: 1024}
+Why would a painter need all{b}
+this?{nextpage_button}{person: 9 252 251}{name: 2304}
+From the dust,{wait: 12} I'd say he{b}
+hasn't used this stuff for{b}
+years.{p}{person: 9 232 232}{name: 1024}{color: 2}
+(This corner doesn't fit with{b}
+the rest of the studio.){color: 0}{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Oh,{wait: 10} do you think I could{b}
+borrow this?{p}{person: 5 96 95}
+I want to cut a quarter in{b}
+half to make a trick coin!{p}{person: 5 81 81}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...This is a crime scene,{wait: 10}{b}
+Trucy.{p}{person: 5 93 92}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+But these cost like 50 bucks{b}
+at the magic shop!{speed: 255}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32777 251 251}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{person: 5 76 75}{name: 1280}Is this desk for painting,{wait: 16}{b}
+Apollo?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+That would be a drafting{b}
+table.{p}{person: 5 82 81}{name: 1280}{speed: 5}
+...Drafting?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+Basically,{wait: 12} it's a tool for{b}
+making precise diagrams.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}
+...{wait: 20}{speed: 3}Wow,{wait: 12} painting is harder{b}
+than I thought.{nextpage_button}{name: 1024}{color: 2}{speed: 4}
+(Why would a painter need a{b}
+drafting table?{speed: 255} Was he an{b}
+architect,{wait: 8} too?){nextpage_button}{color: 0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32777 249 249}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}Look at all these paints,{wait: 10}{b}
+Apollo!{wait: 14} There's so many!{p}{person: 5 76 75}{speed: 3}
+He's got like{speed: 8}{0x5a}...{wait: 30}{person: 5 68 67}{0x59} {speed: 3}twenty{b}{shake: 30 0}
+kinds of red!{nextpage_button}{person: 5 72 69}{name: 1280}
+We could repaint your{b}
+suit,{wait: 10} Apollo!{p}{speed: 5}
+How about this shade of...{b}{person: 5 74 73}{sound: 52 1}{bgcolor: 2305 8 31}
+green!?{p}{person: 5 69 69}{name: 1024}{speed: 3}
+That'll be enough of that,{wait: 10}{b}
+thanks.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32777 251 251}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{24}}
+{bop}{0x51: 3 53}{11520}{removephoto}{jmp: 153}{endjmp}{endjmp}{0x10: 33581}{name: 1024}{showphoto: 202}{speed: 4}This envelope has been{b}{sound: 52 1}{bgcolor: 2305 8 31}
+opened and resealed.{p}{0x76: 1 4}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Ooh!{wait: 16} I know how to do that!{p}{0x76: 1 3}
+You take a pot of boiling{b}
+water,{wait: 8} and hold the envelope{b}
+up to the steam.{p}{0x76: 1 6}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+The glue melts and it opens!{wait: 15}{b}{speed: 3}
+Cool,{wait: 10} huh?{nextpage_button}{name: 1024}
+Whoever did this wasn't so{b}
+delicate.{p}{0x76: 0 1}{name: 1280}
+You're right.{wait: 20} Looks like they{b}
+just ripped it open and stuck{b}
+it back together.{nextpage_button}{name: 1280}{0x76: 0 2}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+...Huh?{nextpage_button}{bganim: 98 579}{showphoto: 458}{speed: 3}
+The postmark on this letter{wait: 30}{b}{sound: 52 1}{bgcolor: 2305 8 31}
+is from seven years ago!{nextpage_button}{name: 1024}{color: 2}{speed: 4}
+(Why would someone open a{b}
+letter,{wait: 30} {speed: 3}then seal it again?){p}
+(Hmm...{wait: 10} I'd better hang on{b}
+to this.){p}{color: 0}{bganim: 98 579}{newevidence: 16586}{name: 0}{speed: 3}{color: 2}
+Red Envelope added to the{b}
+Court Record.{color: 0}{p}{speed: 255}{0x51: 3 53}
+{8961}{1300}{0x35: 6912 @RelativeAddress4}{0x37: 10 0}{0x37: 11 1}{hidetextbox: 3}{special_jmp}{@RelativeAddress4}{0x37: 9 0}{0x37: 13 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{25}}
+{bop}{name: 1024}{showphoto: 202}This envelope has been{b}{sound: 52 1}{bgcolor: 2305 8 31}
+opened and resealed.{p}{0x76: 1 1}{name: 1280}{bgcolor: 2305 8 31}{speed: 3}
+You're right.{wait: 20} Looks like they{b}
+just ripped it open and stuck{b}
+it back together.{nextpage_button}{name: 1024}
+Very strange...{p}{0x76: 1 3}{name: 1024}{color: 2}{speed: 4}
+(Why would someone open a{b}
+letter,{wait: 30} then seal it again?){p}
+(Hmm...{wait: 10} I'd better hang on{b}
+to this.){p}{color: 0}{removephoto}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{26}}
+{bop}{name: 1024}Is this{speed: 8}... {speed: 3}a journal?{p}{0x76: 0 1}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Wow,{wait: 12} talk about a clue!{p}{speed: 3}
+Let's read it!{p}{name: 1024}{speed: 6}
+..{speed: 8}..{speed: 10}..{p}{name: 1280}{0x76: 0 5}{bgcolor: 2305 8 31}{speed: 2}
+Wh-{wait: 12}{shake: 30 0}What is it,{wait: 16} Apollo!?{p}{speed: 3}
+He didn't write the name of{b}
+the killer,{wait: 10} did he!?{p}{0x76: 0 2}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}
+...It's new. He didn't write{b}
+a single line.{p}{0x76: 0 9}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+Argh!{wait: 16} You had me going for{b}
+a while there.{p}{0x76: 2 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{27}}
+{bop}{name: 1280}{0x76: 0 1}Hey,{wait: 12} Apollo,{wait: 8} what's this{b}
+feather-thingy?{p}{name: 1024}
+Isn't that a pen?{wait: 16} {speed: 3}Like an{b}
+old{wait: 8}-fashioned quill pen?{p}{0x76: 0 3}{name: 1280}
+But it doesn't have a pointy{b}
+end.{p}{bganim: 98 579}{name: 2304}{0x76: 1 17}{sound: 51 1}{bgcolor: 2305 8 31}
+That was most likely for{b}
+sweeping detritus off{b}
+the desk.{p}{bganim: 98 579}{name: 1280}{0x76: 0 4}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Wow,{wait: 8} you sure know a lot,{wait: 16}{b}
+Ema.{p}{0x76: 0 17}{name: 2304}
+Bold and scientific,{wait: 12} that's{b}
+my motto.{p}{name: 1024}{speed: 4}{color: 2}
+(...Exactly what about that{b}
+was{wait: 6} "bold"{wait: 6} or{wait: 6} "scientific"?){p}{color: 0}{speed: 255}{0x76: 2 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{28}}
+{bop}{0x51: 3 53}{8960}{removephoto}{jmp: 157}{endjmp}{endjmp}{person: 9 239 238}{name: 2304}{showphoto: 205}{speed: 3}Ah,{wait: 8} that's the victim's{b}
+coffee mug.{nextpage_button}{person: 5 74 73}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Ah ha!{wait: 20} {speed: 3}So the poison was in{b}
+here!{nextpage_button}{person: 5 72 69}{speed: 3}
+This is my first time seeing{b}
+a real poisoned mug of coffee!{nextpage_button}{person: 5 70 70}{name: 1024}
+I would hope so.{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 6}
+..{speed: 8}..{speed: 10}..{nextpage_button}{person: 9 239 238}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+"Poisoned Coffee"{speed: 8}...?{wait: 12}{b}{speed: 3}
+Not exactly,{wait: 12} actually.{nextpage_button}{name: 1024}{speed: 4}
+What do you mean?{p}{name: 2304}{speed: 3}
+No traces of poison were{b}
+found in the coffee.{p}{person: 5 82 81}{name: 1280}{bgcolor: 2305 8 31}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}{wait: 8}
+What!?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 239 238}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 12}You'll have to figure out{b}
+the rest yourself.{p}{person: 9 237 236}
+I'm officially not on your{b}
+side,{wait: 6} after all.{nextpage_button}{newevidence: 16589}{name: 0}{speed: 4}{color: 2}
+Coffee Mug added to the{b}
+Court Record.{color: 0}{nextpage_button}{speed: 255}{0x10: 33571}{0x51: 3 53}
+{11521}{1216}{0x35: 6912 @RelativeAddress5}{0x37: 10 0}{0x37: 11 1}{hidetextbox: 3}{special_jmp}{@RelativeAddress5}{0x37: 9 0}{0x37: 13 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{29}}
+{bop}{person: 9 248 247}{name: 2304}{speed: 3}That coffee mug...{wait: 10} it's not{b}
+what you'd expect.{p}
+No traces of poison were{b}
+found in the coffee.{p}{person: 9 247 247}{name: 1024}
+Huh?{wait: 30}{b}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Whaaaat?{p}{hidetextbox: 1}{0x8e: 9 254}{0x8f: 257}{0x63}{wait: 20}{hidetextbox: 0}{person: 9 241 240}{name: 2304}{speed: 3}
+Yet the only thing the victim{b}
+drank that night was this{b}
+coffee...{p}{person: 9 239 238}{speed: 4}
+...{wait: 8}so the poison definitely{b}
+reached him through this mug.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 88 90}{0x8f: 89}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 6}
+......{0x63}{p}{person: 5 91 90}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+I like you better when you{b}
+tell us stuff.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 236 236}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{shake: 30 0}{person: 9 235 234}{speed: 5}
+Look...{0x5a}{wait: 40}{0x59}{bgcolor: 2305 8 31}{speed: 2} Just figure{shake: 30 0} it out{b}
+yourselves,{wait: 10} OK?{nextpage_button}{person: 9 239 238}{speed: 3}
+I have my "position" here to{b}
+consider.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{30}}
+{bop}{person: 9 233 232}{name: 2304}I imagine this coffee cup was{b}
+for guests to use.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+...Guests?{nextpage_button}{person: 5 75 75}{name: 1024}{speed: 3}
+Did the police already analyze{b}
+this cup, too?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+Not a trace of poison was{b}
+found on that cup.{nextpage_button}{person: 9 251 251}{name: 1024}{color: 2}
+(So the killer was after{b}
+Drew Misham alone.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32777 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{31}}
+{bop}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32777 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{32}}
+{bop}{0x51: 3 53}{6400}{removephoto}{jmp: 161}{endjmp}{endjmp}{name: 1280}{0x76: 0 4}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Ooh!{wait: 20} Cute!{wait: 20} {speed: 3}Look at the tiny{b}
+frame,{wait: 10} Apollo!{nextpage_button}{name: 1024}
+Tiny is right.{wait: 20} That thing's{b}
+barely two inches high.{wait: 20} What{b}
+picture would fit in that?{p}{0x76: 0 3}{name: 1280}{speed: 4}
+None,{wait: 10} apparently.{wait: 20} It's {sound: 52 1}{bgcolor: 2305 8 31}empty.{p}{name: 1024}{speed: 4}{color: 2}
+(There's no glass in it,{wait: 10}{b}
+either.{wait: 20} What's it doing{b}
+sitting on the desk?){color: 0}{p}{0x76: 0 6}{name: 1280}
+This is a lesson for us all:{b}
+be sure to check the size{b}
+when you buy frames!{p}{0x76: 2 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{33}}
+{bop}{name: 1024}{speed: 3}I wonder why there's poison{b}
+on this tiny frame.{p}{0x76: 0 3}{name: 1280}
+Very strange indeed.{wait: 30}{b}{0x76: 0 4}{bgcolor: 2305 8 31}{shake: 30 0}
+Wait,{wait: 10} I know!{p}
+I'll bet it was poisoned{b}
+from the time he bought it!{p}{0x76: 0 3}
+Haven't you heard about some{b}
+kinds of green paint being{b}
+toxic?{p}{0x76: 0 1}{name: 1024}
+I don't think they sell that{b}
+kind anymore.{wait: 16} And the poison{b}
+was atroquinine,{wait: 12} anyway.{p}{0x76: 0 3}{name: 1024}{color: 2}
+(A tiny,{wait: 12} mysterious, poisoned{b}
+frame{speed: 8}...){p}{color: 0}{0x76: 2 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{34}}
+{bop}{name: 1024}{speed: 3}So this is Drew Misham?{p}{0x76: 0 4}{name: 1280}
+And this little girl must{b}
+be Vera!{nextpage_button}{0x76: 1 24}{name: 2304}
+Yes, they took that some{b}
+years ago.{wait: 20} They look close.{wait: 20}{b}
+A happy little family.{nextpage_button}{name: 1024}
+Until you arrested his{b}
+daughter.{p}{0x76: 1 22}{name: 2304}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}
+...Ack!{p}{0x76: 1 21}
+Look,{wait: 8} I was personally against{b}
+that,{wait: 10} OK?{p}{0x76: 1 19}
+She just didn't seem very{b}
+suspicious.{wait: 12}{b}
+Scientifically speaking.{nextpage_button}{name: 1024}{speed: 4}
+Uh{wait: 6} huh.{wait: 20} Right.{nextpage_button}{0x76: 2 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{35}}
+{bop}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}Hmm.{wait: 16} {speed: 3}Something about the way{b}
+that figure is posed...{p}{0x76: 0 1}{name: 1280}{speed: 3}
+...{wait: 20}I've seen that pose before!{p}{0x76: 0 4}{speed: 2}
+It's you, Apollo!{wait: 16} {speed: 3}See, you're{b}
+making one of your flamboyant{b}
+gestures!{p}{name: 1024}
+Please,{wait: 10} I am a professional.{p}{name: 1024}{color: 2}{speed: 4}
+(...{wait: 12}{speed: 255}I wonder why it's posed{b}
+like that?{wait: 20} Coincidence?){p}{color: 0}{0x76: 2 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{36}}
+{bop}{name: 1024}Let's take a closer look{b}
+at this desk here.{p}{hidetextbox: 1}{0x71: 103 5 18}
+{2305}{2args_choice_jmp: 31 6}{0x3b: 1 27}{265}{wait: 30}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 264}{wait: 30}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 263}{wait: 30}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{37}}
+{bop}{0x51: 3 53}{9472}{removephoto}{jmp: 191}{endjmp}{endjmp}{wait: 1}{0x1d: 8}{0x4c}{person: 9 249 249}{name: 1024}Oh,{wait: 10} Ema,{wait: 20} {showphoto: 201}I was wondering{b}
+about this painting here...{p}{person: 9 242 242}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}
+Ah.{wait: 10} Aaah.{shake: 30 0}{0x63}{wait: 8} {person: 9 233 232}That one?{b}
+What about it?{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+"What about it"!?{nextpage_button}{person: 5 82 81}{name: 1280}{bgcolor: 2305 8 31}{speed: 3}
+Yeah,{wait: 10} what about it,{wait: 10} Apollo?{nextpage_button}{person: 5 81 81}{name: 1024}
+Take a closer look at it,{wait: 20}{b}{bganim: 98 579}{person: 0 0 0}{bg: 72}
+both of you.{nextpage_button}{name: 1024}
+Now...{wait: 12} look at this one.{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 69}{bgcolor: 258 1 31}{wait: 15}{wait: 40}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+This is the third painting{b}
+he was working on.{p}{bg: 241}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+Hey.{wait: 15} They're the same!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 239 238}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 4}
+...{speed: 3}I was hoping you wouldn't{b}
+find that.{p}{speed: 4}
+You're right,{wait: 10} though.{p}{person: 9 250 249}{showphoto: 201}
+Drew Misham was copying this{b}
+painting.{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Wow.{wait: 20} It's pretty good!{p}{person: 5 69 69}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}{color: 2}
+(Copying a painting...?{b}
+What for?){color: 0}{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{0x10: 33570}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{38}}
+{bop}{0x51: 3 53}{7937}{0x18: 16}{33292}{jmp: 167}{endjmp}{endjmp}{wait: 1}{0x1d: 8}{0x4c}{person: 9 232 232}{name: 1024}{showphoto: 205}Um,{wait: 10} Ema,{wait: 10} about this mug...{p}{name: 1024}{speed: 8}
+...{wait: 30}{speed: 3}there's a pale blue,{wait: 12} uh,{wait: 12}{b}{person: 9 243 243}{sound: 52 1}{bgcolor: 2305 8 31}
+"residue" on the rim.{p}{bganim: 98 579}{person: 9 242 242}{name: 2304}{fademusic: 45}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Eh?{wait: 15} Ah!{wait: 7} Th{bgcolor: 2305 8 31}-{wait: 8}That!{0x63}{wait: 10}{b}{person: 9 250 249}{shake: 30 0}{speed: 5}
+Yes, well, it's just a{b}
+rumor...{nextpage_button}{person: 9 246 245}
+...{wait: 10}{speed: 3}but I've heard there's a{b}
+kind of coffee called "Blue{b}
+Mountain"!{p}{person: 9 249 249}{name: 1024}
+I'm pretty sure it isn't{b}
+actually blue, Ema.{p}{person: 9 239 238}{name: 2304}{speed: 6}
+Ah.{wait: 20} {speed: 3}Right.{p}
+OK,{wait: 8} you got me.{wait_noanim: 30}{person: 9 239 238}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3} That's left{b}
+over from my testing spray.{nextpage_button}{person: 5 96 95}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Forensic science!{wait: 15}{b}
+I knew your hobby{bgcolor: 2305 8 31}{shake: 30 0} was behind{b}
+this somehow,{wait: 8} Ema!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 237 236}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 4}
+It's not a{wait: 6} "hobby"!{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{speed: 3}
+So,{wait: 10} what kind of scientific{b}
+stuff were you up to?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 241 240}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{showphoto: 231}{sound: 52 1}{bgcolor: 2305 8 31}
+This spray, that's what.{b}
+It turns {color: 2}blue{color: 0} when it{b}
+touches poison.{p}{bganim: 98 579}{person: 9 240 240}{name: 1024}{speed: 3}
+So,{wait: 12} the poison that killed{b}
+the victim was on this mug?{p}{person: 9 241 240}{name: 2304}
+That's right.{wait: 16} See?{wait: 16} It wasn't{b}
+in the coffee.{p}
+The killer applied it to the{b}
+rim of the mug itself!{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Wow!{wait: 12} Science is amazing!{p}{person: 5 70 70}{name: 1024}{speed: 5}{color: 2}
+(It certainly is helpful...){p}
+(Maybe Ema'd be willing to{b}
+help us out a bit more...){color: 0}{p}{person: 5 76 75}{name: 1280}{speed: 3}
+You should try buttering{b}
+her up,{wait: 8} Apollo.{p}{person: 5 68 67}{speed: 3}
+They say flattery will get{b}
+you everywhere.{nextpage_button}{name: 1024}{speed: 3}{color: 2}
+(It's certainly worth talking{b}
+to her a bit more.){b}{0x23: 0}{music: 255 90}{color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{0x10: 33568}{0x51: 3 53}
+{7680}{2508}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{jmp: 170}{endjmp}{endjmp}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{39}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 1024}So,{wait: 10} Ema,{wait: 10} about this coffee{b}
+mug...{p}{person: 9 239 238}{name: 2304}
+I hope you aren't trying to{b}
+grill me for information.{wait: 16}{b}
+You know I'm not talking.{nextpage_button}{name: 1024}
+...{wait: 16}I suppose you are the{b}
+detective here.{p}{person: 9 233 232}{name: 2304}
+Why don't you two take a look{b}
+yourselves?{p}{person: 9 252 251}
+If you find a clue,{wait: 8} I might{b}
+not be unwilling to lend a{b}
+hand.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+...{wait: 16}I think she's going to{b}
+help us,{wait: 8} Apollo.{nextpage_button}{person: 5 75 75}{name: 1024}
+Let's check out this mug,{wait: 12}{b}
+shall we?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{40}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 1024}Ema,{wait: 12} about this...{showphoto: 202}{p}{person: 9 242 242}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oh!{wait: 10} Th-{wait: 8}That!{wait: 16}{0x63}{person: 9 233 232}{speed: 3} Y-{wait: 8}Yes,{wait: 10} why that's{b}
+a bright red envelope.{nextpage_button}{person: 9 232 232}{name: 1024}{color: 2}
+(She sure is jumpy...){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+Someone opened this,{wait: 10} didn't{b}
+they?{p}{person: 9 232 232}{name: 2304}{fademusic: 120}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 40}{b}{bganim: 98 579}{hidetextbox: 1}{person: 9 245 245}{wait: 20}{person: 9 248 247}{0x5a}{wait: 30}{hidetextbox: 0}{0x59}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+My lips are sealed.{nextpage_button}{person: 9 247 247}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+Y{wait: 10}{speed: 5}-Your "lips are sealed"...?{wait: 25}{b}{speed: 4}{color: 2}
+(That's a first!){color: 0}{p}
+You mean{speed: 8}...{wait: 20} {speed: 3}you know what's{b}
+inside the envelope?{p}{name: 2304}{person: 9 248 247}{name: 2304}
+Sure.{wait: 30}{b}{speed: 3}
+I read it,{wait: 8} after all.{nextpage_button}{person: 5 68 67}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Ah!{wait: 16}{showphoto: 458} You mean you were the one{b}
+who ripped this open!?{nextpage_button}{person: 9 248 247}{name: 2304}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Hah!{wait: 12} Please!{wait: 20} I would have{b}
+steamed it open.{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(But she did sneak a peek at{b}
+it,{wait: 10} apparently.){color: 0}{p}{bganim: 98 579}{hidetextbox: 1}{0x8e: 9 255}{0x8f: 256}{0x63}{hidetextbox: 0}{person: 9 241 240}{name: 2304}{0x5a}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 30}{speed: 3}{0x59}
+Know that I have a powerful{b}
+weapon on my side.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}
+Weapon...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 241 240}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{showphoto: 232}{speed: 3}
+Yes!{wait: 20} The use of tools!{wait: 16}{b}
+Highly specialized tools{b}
+for information gathering.{nextpage_button}{person: 9 240 240}{name: 1024}{speed: 4}{color: 2}
+(Tools I wouldn't mind getting{b}
+my hands on...){color: 0}{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+You should try flattering{b}
+her,{wait: 8} Apollo...{p}{person: 5 68 67}
+They say a little praise{b}
+can open big doors.{nextpage_button}{name: 1024}{color: 2}
+(Never heard that one,{wait: 12} but{b}
+it's good advice...{wait: 16} Let's try{b}
+talking to her some more.){color: 0}{nextpage_button}{0x23: 0}{music: 255 90}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{0x10: 33569}{0x51: 3 53}
+{7680}{2348}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{jmp: 174}{endjmp}{endjmp}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{41}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 9 232 232}{name: 1024}Ema,{wait: 20} I was wondering if you{b}
+could take a look at this...{p}{person: 9 233 232}{name: 2304}
+Look,{wait: 8} I'm a detective.{wait: 16}{b}
+A detective!{p}
+You can't just ask me any old{b}
+thing and expect an answer,{wait: 12}{b}
+OK?{p}
+I think you need to be a{b}
+little more focused in your{b}
+inquiries.{wait: 16} Scientific,{wait: 8} even.{nextpage_button}{person: 9 232 232}{name: 1024}{color: 2}
+(Somehow I knew she'd get{b}
+around to science.){nextpage_button}{color: 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{42}}
+{bop}{0x51: 3 53}{6400}{removephoto}{jmp: 173}{endjmp}{endjmp}{person: 9 232 232}{name: 1024}{hidetextbox: 0}Um,{wait: 6} about {color: 1}poison analysis{color: 0}...{p}{person: 9 241 240}{name: 2304}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}{0x5a}
+...{speed: 2}{0x59}I was afraid you were going{b}
+to ask about that.{nextpage_button}{name: 2304}{showphoto: 231}{0x8e: 9 255}{0x8f: 256}{speed: 3}
+See,{wait: 10} this solution is used to{0x63}{b}{person: 9 246 245}
+test for atroquinine.{nextpage_button}{person: 5 76 75}{name: 1280}{bgcolor: 2305 8 31}{speed: 5}
+Atro... huh?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 241 240}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Atroquinine!{wait: 16} The deadly poison{b}
+found in the autopsy!{nextpage_button}{removephoto}{name: 1024}{speed: 4}{color: 2}
+(...Uh oh,{wait: 8} I know that spark{b}
+in her eyes.{wait: 25} {speed: 3}She's getting{b}
+excited.{wait: 16} Best tread lightly.){p}{color: 0}{person: 9 233 232}{name: 2304}{speed: 3}
+It's one of the most virulent{b}
+poisons,{wait: 12} but is absorbed into{b}
+the body astonishingly slowly.{p}{person: 9 246 245}
+It takes at least 15 minutes{b}
+from the time of ingestion for{b}
+adverse effects to show.{p}{shake: 30 0}{speed: 2}
+Oh,{wait: 8} and guess what!?{wait: 16}{b}{speed: 3}
+Recent research has shown...{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Th{wait: 10}-That's fine,{wait: 10} really.{wait: 17} We{b}
+don't need to know all the{b}
+gory details.{p}{person: 5 96 95}{name: 1280}{fademusic: 45}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I think I get it.{wait_noanim: 20} {showphoto: 231}{0x59}{speed: 3}You just{b}
+spray this stuff on something{b}
+you want to test,{wait: 10} right?{nextpage_button}{person: 9 246 245}{name: 2304}{bgcolor: 2305 8 31}{shake: 30 0}
+Precisely!{wait: 15} You can find even{b}
+the slightest trace of poison{b}
+with this!{p}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+I wanna try, too,{wait: 10} Ema!{wait: 10}{b}
+Pretty please?{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 246 245}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+You don't have to ask twice!{nextpage_button}{person: 9 241 240}
+...{wait: 15}I already used it on{b}
+everything suspicious,{wait: 10} of{b}
+course.{fademusic: 0}{music: 4 60}{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yay!{wait: 15} {speed: 3}Let's give it a whirl,{wait: 10}{b}
+Apollo!{nextpage_button}{hidetextbox: 1}{sound: 158 1}{bgcolor: 1025 8 31}{wait: 1}{bgcolor: 770 1 31}{wait: 15}{person: 5 81 81}{name: 1024}{fademusic: 30}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{hidetextbox: 0}{speed: 2}
+Aaaaugh!{wait: 30}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+What are you doing!?{p}{person: 5 82 81}{name: 1280}{speed: 3}
+I was just seeing if I got{b}
+a reaction off of you.{nextpage_button}{person: 5 81 81}{name: 1024}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+How's this for a reaction:{b}
+Never do that again!{wait: 16}{b}
+I'm not poisonous!{p}{person: 5 76 75}{name: 1280}{speed: 3}
+Tell that to those hapless{b}
+witnesses on the stand!{p}{person: 5 67 67}{name: 1024}{speed: 3}{color: 2}
+(Let's just get down to{b}
+checking for real poisons,{wait: 8}{b}
+shall we{fademusic: 0}{music: 4 60}?){color: 0}{nextpage_button}{hidetextbox: 1}{0x74: 6 0}{special_jmp}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{43}}
+{bop}{fademusic: 120}{person: 5 76 75}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}Too bad.{wait: 16} No reaction there.{nextpage_button}{name: 1024}
+I'm sure Ema checked out all{b}
+the likely spots.{nextpage_button}{speed: 4}
+...Wait a second.{p}{person: 5 68 67}{name: 1280}{speed: 3}
+What is it,{wait: 16} Apollo?{nextpage_button}{hidetextbox: 1}{wait: 1}{0x1d: 260}{0x4c}{wait: 50}{name: 1024}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}
+Did you spray that little{b}
+desk over there?{p}{person: 5 76 75}{name: 1280}
+I don't think so...{wait: 16}{b}
+The spray probably can't{b}
+reach that far,{wait: 8} you know?{p}{person: 5 67 67}{name: 1024}
+Let's check it out,{wait: 12} just to{b}
+be sure.{fademusic: 0}{music: 4 60}{nextpage_button}{hidetextbox: 1}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 263}{person: 0 0 0}{0x74: 6 1}{special_jmp}{endjmp}
+
+{{44}}
+{bop}{fademusic: 45}{bg: 241}{person: 5 77 81}{0x8f: 78}{0x8f: 79}{0x8f: 80}{name: 1280}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}Eeeeeeeeeeeek!{0x63}{b}{person: 5 82 81}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+A reaction,{wait: 10} Apollo!{nextpage_button}{person: 9 242 242}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+Aa{bgcolor: 2305 8 31}aaa{bgcolor: 2305 8 31}augh!{wait: 25}{b}{person: 9 235 234}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Where,{wait: 12} where!?{nextpage_button}{person: 5 82 81}{name: 1280}{bgcolor: 2305 8 31}{speed: 2}
+The inside of that cute little{b}{showphoto: 204}
+frame!{wait: 20} {speed: 3}Look!{nextpage_button}{person: 9 244 243}{name: 2304}{bgcolor: 2305 8 31}{shake: 30 0}
+Well,{wait: 8} would you look at that.{wait: 15}{b}
+Nice going,{wait: 10} Trucy.{nextpage_button}{person: 5 68 67}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+I'm known to work magic!{nextpage_button}{person: 5 73 73}{name: 1024}{speed: 4}{color: 2}
+(Never mind that I was the one{b}
+who found it.){color: 0}{p}{bganim: 98 579}{newevidence: 16588}{name: 0}{speed: 4}{color: 2}
+Tiny Frame added to the Court{b}
+Record.{p}{speed: 255}{name: 1024}
+(Why would the inside of that{b}
+frame have poison on it?){nextpage_button}{color: 0}{0x19: 205 206}{person: 9 249 249}{name: 1024}{color: 2}
+(...It looks like we found the{b}
+only other place that was{b}
+poisoned,{wait: 8} in any case.){color: 0}{nextpage_button}{fademusic: 0}{music: 33 0}{person: 32777 232 232}{0x10: 33561}{0x51: 3 53}
+{6656}{1226}{0x35: 7424 @RelativeAddress6}{0x35: 6145 @RelativeAddress7}{jmp: 130}{endjmp}{endjmp}{@RelativeAddress6}{@RelativeAddress7}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{45}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 5 68 67}{name: 1280}Are we going to test for{b}
+poison again?{p}{person: 5 75 75}{name: 1024}
+Why not?{wait: 20} Just to be sure.{p}{person: 9 233 232}{name: 2304}{bgcolor: 2305 8 31}{shake: 30 0}
+But,{wait: 8} you found your clue{b}
+already.{wait: 16} Isn't that enough?{p}{person: 9 250 249}{showphoto: 231}
+This stuff isn't cheap,{wait: 10}{b}
+you know?{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+I bet she doesn't have a{b}
+lot of spending money.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 4}{color: 2}
+(I bet she spends it all on{b}
+Snackoos.){p}{color: 0}{speed: 255}{person: 32777 251 251}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{46}}
+{bop}{0x51: 3 53}{6656}{removephoto}{jmp: 181}{endjmp}{endjmp}{person: 9 251 251}{name: 1024}{hidetextbox: 0}About that {showphoto: 202}envelope we{b}
+found...{p}
+...I was wondering if you{b}
+could help us out with that{b}{person: 9 232 232}
+"tool" you were mentioning?{p}{bganim: 98 579}{person: 9 241 240}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Eh heh heh,{wait_noanim: 20}{person: 9 241 240} you want to know{b}{showphoto: 232}
+about my tool do you?{p}{speed: 3}
+It's called an X{wait: 6}-Ray Analyzer.{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 4}
+X-ray...{wait: 10} {speed: 3}like the x-rays you{b}
+get at the dentist?{p}{person: 9 241 240}{name: 2304}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+That's right!{wait: 16} {speed: 3}At least,{wait: 8} that's{b}
+what I call it.{p}{bganim: 98 579}{person: 5 81 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Huh?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{name: 2304}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+It has a real name,{wait: 12} but it's{b}
+much more complicated: the{b}
+X-Ray Spectraliziation...{nextpage_button}{hidetextbox: 1}{0x8e: 9 255}{0x8f: 256}{0x63}{person: 9 246 245}{hidetextbox: 0}
+...something.{b}
+How am I supposed to remember{b}
+all that?{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+So,{wait: 12} basically,{wait: 8} it lets you{b}
+see inside things...{wait: 16} like{b}
+envelopes?{p}{person: 9 246 245}{name: 2304}{fademusic: 45}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+That's{shake: 30 0} right!{wait: 16}{b}
+You're sharp,{wait: 10} Trucy.{p}{person: 9 233 232}{speed: 3}
+But it's a bit more{b}
+complicated than that,{wait: 8} in{b}
+practice,{wait: 8} of course.{p}{person: 9 250 249}
+Actually,{wait: 8} to tell the truth,{wait: 8}{b}
+I'm not really sure how it{b}
+works,{wait: 8} scientifically.{p}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+Can I try it out,{wait: 10} Ema?{wait: 10}{b}
+Please!?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 246 245}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+Oh,{wait: 10} I suppose.{wait: 16}{fademusic: 0}{music: 4 60}{p}{person: 9 233 232}
+...Of course,{wait: 12} I've already{b}
+checked out everything{b}
+suspicious myself.{p}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Alright!{wait: 15} {speed: 3}Let's give it{b}
+a spin,{wait: 10} Apollo!{nextpage_button}{hidetextbox: 1}{sound: 129 1}{bgcolor: 2305 8 31}{shake: 30 0}{wait: 50}{bgcolor: 2305 8 31}{shake: 30 0}{wait: 50}{hidetextbox: 0}{person: 5 81 81}{name: 1024}{fademusic: 30}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Yeeeeargh!{wait: 30}{b}{sound: 129 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+What are you doing!?{p}{person: 5 82 81}{name: 1280}{speed: 3}
+Oh,{wait: 8} just seeing if I could{b}
+see through your hair...{wait: 10}{b}
+But it's like lead!{nextpage_button}{person: 5 81 81}{name: 1024}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Point that thing at me any{b}
+more, and it might all fall{b}
+out.{p}{person: 5 76 75}{name: 1280}{speed: 3}
+Then I wouldn't need an{b}
+x-ray machine to see through{b}
+it!{p}{person: 5 67 67}{name: 1024}{speed: 5}{color: 2}
+(Let's just get down to{b}
+business,{wait: 16} {speed: 3}shall we?){fademusic: 0}{music: 4 60}{color: 0}{nextpage_button}{person: 9 246 245}{name: 2304}
+Right.{wait: 20} {speed: 3}Let's test it on a{wait: 10}{b}
+sample,{wait: 10} first.{p}{showphoto: 239}
+It just so happens that I have{b}
+a lottery ticket here.{p}{bganim: 98 579}{hidetextbox: 1}{0x74: 20 0}{special_jmp}{endjmp}
+
+{{47}}
+{bop}{fademusic: 60}{0x38: 1}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Woo hoo!{wait: 16}{b}
+I'm a big winner!!!{p}{person: 9 241 240}{name: 2304}{bgcolor: 2305 8 31}{speed: 3}
+Ah ha ha.{wait: 20} {showphoto: 232}See! This is the{b}
+true hidden power of my{b}
+weapon. Neat, huh?{nextpage_button}{person: 9 246 245}{name: 2304}{speed: 3}
+Now let's try it out on {bganim: 98 579}{showphoto: 458}the{b}
+real thing,{wait: 16} shall we?{p}{bganim: 98 579}{fademusic: 0}{music: 4 60}{hidetextbox: 1}{0x74: 20 3}{special_jmp}{endjmp}
+
+{{48}}
+{bop}{fademusic: 60}{0x38: 1}{person: 5 84 83}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}...Hmm. Does this mean I have{b}
+to buy another one to win?{nextpage_button}{name: 1024}
+Well,{wait: 8} it's Ema's ticket.{wait: 16} Let{b}
+her buy another one.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+It's OK, there's no need.{wait: 16} {showphoto: 232}But{b}
+see, this is the true hidden{b}
+power of my weapon.{wait: 12} Neat, huh?{nextpage_button}{person: 9 246 245}
+Now let's try it out on {bganim: 98 579}{showphoto: 458}the{b}
+real thing, shall we?{p}{bganim: 98 579}{fademusic: 0}{music: 4 60}{hidetextbox: 1}{0x74: 20 3}{special_jmp}{endjmp}
+
+{{49}}
+{bop}{fademusic: 60}{0x38: 1}{person: 5 93 92}{0x5a}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{0x59}{speed: 5}Ouch.{wait: 16} "You lose".{nextpage_button}{person: 9 241 240}{name: 2304}{bgcolor: 2305 8 31}{speed: 3}
+At least you know where you{b}
+stand,{wait: 8} eh?{p}
+Anyway,{wait: 8} {showphoto: 232}now you see the true{b}
+hidden power of my weapon.{wait: 12}{b}
+Neat, huh?{nextpage_button}{bganim: 98 579}{person: 9 246 245}
+Now let's try it out on {showphoto: 202}the{b}
+real thing,{wait: 8} shall we?{p}{bganim: 98 579}{fademusic: 0}{music: 4 60}{hidetextbox: 1}{0x74: 20 3}{special_jmp}{endjmp}
+
+{{50}}
+{bop}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 4}Someone deposited $100,000{b}
+into Mr. Misham's account?{p}{person: 5 72 69}{speed: 3}
+His paintings must be really{b}
+valuable!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{showphoto: 202}
+There's another page in{b}
+there.{p}
+...Care to take a look?{p}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{speed: 2}
+You bet I do!{wait: 16} If you're going{b}
+to read someone's mail you{b}
+might as well read it all!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+Here goes with the second{b}
+page,{wait: 8} then.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{0x74: 20 4}{special_jmp}{endjmp}
+
+{{51}}
+{bop}{fademusic: 120}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}...{wait: 15}So it was a letter about{b}
+payment for one of his{b}
+paintings.{nextpage_button}{name: 1024}
+Why all the secrecy,{wait: 12} though?{nextpage_button}{speed: 5}
+And...{nextpage_button}{person: 5 68 67}{name: 1280}
+...And what?{p}{person: 5 75 75}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{showphoto: 202}
+...{wait: 12}Why was this letter the{b}
+only one in here?{p}
+...{wait: 20}It's seven years old,{wait: 10}{b}
+right?{nextpage_button}{person: 5 76 75}{name: 1280}
+Maybe it had some special{b}
+significance to him?{p}{person: 5 68 67}
+Well,{wait: 10} Ema?{p}{bganim: 98 579}{person: 9 251 251}{name: 2304}{sound: 52 1}{bgcolor: 2305 8 31}{person: 9 252 251}{speed: 4}
+Well indeed.{p}{person: 9 251 251}{speed: 8}
+......{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(She knows something she's{b}
+not telling us.){color: 0}{p}{color: 2}
+(...Looks like she's keeping{b}
+mum about it.){color: 0}{p}{0x19: 16586 16587}{name: 0}{speed: 3}{color: 2}
+Red Envelope updated in the{b}
+Court Record.{color: 0}{p}{speed: 255}{fademusic: 0}{music: 33 0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32777 232 232}{0x10: 33562}{0x51: 3 53}
+{6400}{1100}{0x35: 7424 @RelativeAddress8}{0x35: 6145 @RelativeAddress9}{jmp: 130}{endjmp}{endjmp}{@RelativeAddress8}{@RelativeAddress9}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{52}}
+{bop}{person: 9 233 232}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}Oh?{wait: 16} Not going to do any{b}
+forensic science?{p}{person: 9 232 232}{name: 1024}
+Maybe later,{wait: 10} if you don't{b}
+mind.{p}{person: 9 239 238}{name: 2304}{shake: 30 0}
+Oh,{wait: 10} I suppose.{nextpage_button}{name: 1024}{color: 2}
+(She seems disappointed...){nextpage_button}{color: 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{53}}
+{bop}{person: 5 76 75}{name: 1280}But we just did the X-ray{b}
+detection thing!{p}{person: 5 90 90}{name: 1024}{bgcolor: 2305 8 31}
+Oh,{wait: 10} right.{wait: 20}{b}
+Sorry.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32777 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{54}}
+{bop}{0x51: 3 53}{9729}{0x18: 16}{33292}{jmp: 193}{endjmp}{endjmp}{wait: 1}{0x1d: 8}{0x4c}{person: 9 251 251}{name: 1024}{hidetextbox: 0}{speed: 3}Um,{wait: 16} I kind of wanted to see{b}
+the rough sketch under this{b}
+painting.{p}{showphoto: 232}
+And I was wondering if your{b}{person: 9 232 232}
+"tool" there might do the{b}
+trick?{p}{bganim: 98 579}{person: 9 241 240}{name: 2304}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oh,{wait: 8} fine.{wait: 16} Fine!{wait: 16} {speed: 3}Just this{b}
+time,{wait: 10} though.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{fademusic: 30}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Let's check it out!{nextpage_button}{fademusic: 0}{music: 4 100}{hidetextbox: 1}{0x74: 20 5}{special_jmp}{endjmp}
+
+{{55}}
+{bop}{hidetextbox: 0}{name: 1024}...Maybe later.{nextpage_button}{jmp: 180}{endjmp}
+
+{{56}}
+{bop}{0x26: 0}{person: 0 0 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}October 7{b}
+Drew Studio{color: 0}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{hidetextbox: 1}{personvanish: 3 1}{person: 9 232 232}{wait: 16}{name: 2304}{fademusic: 0}{music: 41 0}{person: 9 233 232}{hidetextbox: 0}
+Well,{wait: 12} how'd it go?{wait: 16}{b}
+Find anything out?{p}{person: 9 232 232}{name: 1024}
+Actually,{wait: 12} there was one thing{b}
+I wanted to check with you.{p}{person: 9 252 251}{name: 2304}{shake: 30 0}{speed: 3}
+Wh-{wait: 8}What's with that scary{b}
+face you're making?{p}{person: 9 236 236}{name: 1024}{color: 2}
+(And what's with the "I know{b}
+something but I'm not telling"{b}
+face you've got going, Ema?){color: 0}{p}{0x10: 33573}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{57}}
+{bop}{fademusic: 30}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 7}What...{wait: 20} {speed: 4}What the heck?{wait: 30}{p}{bg: 241}{person: 5 91 90}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Wow,{wait: 10} he really blows!{wait: 15} {speed: 3}{bgcolor: 2305 8 31}{shake: 30 0}The{b}
+finished painting isn't{b}
+anything like the {fademusic: 0}{music: 41 100}rough!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 241 240}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{showphoto: 232}{speed: 3}
+Devices like mine didn't{b}
+exist until recently.{p}
+He probably thought he could{b}
+draw any sort of thing he{b}
+wanted to for the rough.{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+What do you mean?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+Well,{wait: 8} in the past,{wait: 8} you could{b}
+only analyze the composition{b}
+of a rough sketch.{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Composition?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+In other words,{wait: 10} the traces of{b}
+charcoal between paint and{b}
+canvas.{p}
+So you could tell if there had{b}{person: 9 233 232}
+been a rough sketch{0x5a}...{p}{person: 9 252 251}
+...{wait: 16}but not what it looked{b}
+like.{nextpage_button}{name: 1024}{speed: 5}
+Ah,{wait: 12} I think I follow you.{nextpage_button}
+So,{wait: 6} in essence,{wait: 6} it wouldn't{b}
+matter what was underneath the{b}
+finished painting.{nextpage_button}{person: 9 250 249}{name: 2304}
+Some pros would actually paint{b}
+out a rough sketch entirely.{p}
+Then do a completely new{b}
+painting on top of that.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+So Mr. Misham was drawing{b}
+whatever he wanted before{b}
+painting over them...?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 4}
+Possibly.{wait_noanim: 30}{person: 9 233 232}{speed: 3} Is there a problem{b}
+with that?{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Not particularly... But{b}
+something about the sketch{b}
+itself is kind of{speed: 8}... odd.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+You're awfully silent all of{b}
+a sudden,{wait: 10} Apollo.{nextpage_button}{person: 9 243 243}{name: 1024}{fademusic: 60}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+You think we could check out{b}
+one of the other paintings!?{nextpage_button}{person: 9 244 243}{name: 2304}
+Well,{wait: 10} sure.{wait_noanim: 30}{person: 9 246 245}{speed: 3} You like this{b}
+detection stuff,{wait: 10} don't you?{nextpage_button}{fademusic: 0}{music: 4 100}{0x10: 33575}{hidetextbox: 1}{0x74: 20 5}{special_jmp}{endjmp}
+
+{{58}}
+{bop}{person: 9 252 251}{name: 2304}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{59}}
+{bop}{fademusic: 30}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}This one, too!{p}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 241}{person: 5 84 83}{0x5a}{bgcolor: 257 1 31}{wait: 7}{name: 1280}{0x59}{hidetextbox: 0}{speed: 4}
+What's wrong,{wait: 15} Apollo?{wait_noanim: 25}{0x59} {speed: 3}You look{b}
+so serious all of a sudden!{nextpage_button}{person: 9 243 243}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Um,{wait: 12} you think I could just{b}
+look at the last of these?{nextpage_button}{person: 9 244 243}{name: 2304}{wait: 10}
+Fine by me. {wait_noanim: 20}{person: 9 246 245}Knock yourself{b}
+out.{nextpage_button}{fademusic: 0}{music: 4 100}{0x10: 33576}{hidetextbox: 1}{0x74: 20 5}{special_jmp}{endjmp}
+
+{{60}}
+{bop}{person: 9 252 251}{name: 2304}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{61}}
+{bop}{0x10: 33587}{fademusic: 60}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}Wh-Wh...{wait: 30}{b}{bg: 241}{person: 9 243 243}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+What the heck is all this!?{nextpage_button}{person: 9 244 243}{name: 2304}{speed: 4}
+...{wait: 16}{speed: 3}I hesitate to ask why{b}
+you're getting so excited.{p}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{showphoto: 232}
+You sure your device isn't{b}
+leaking some kind of strange{b}
+radiation?{nextpage_button}{bganim: 98 579}{person: 5 81 81}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Trucy!{wait: 10} Look at these{b}
+three sketches!{p}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+...{wait: 20}Do you notice anything?{nextpage_button}{fademusic: 0}{music: 4 0}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{bgcolor: 514 1 31}{wait: 15}{bg: 64}{bgcolor: 258 1 31}{wait: 15}{wait: 90}{bgcolor: 514 1 31}{wait: 15}{bg: 68}{bgcolor: 258 1 31}{wait: 15}{wait: 90}{bgcolor: 514 1 31}{wait: 15}{bg: 67}{bgcolor: 258 1 31}{wait: 15}{wait: 90}{fademusic: 30}{bg: 241}{person: 5 77 81}{0x8f: 78}{0x8f: 79}{0x8f: 80}{name: 1280}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{hidetextbox: 0}{speed: 2}
+Aaaa{bgcolor: 2305 8 31}aaaa{bgcolor: 2305 8 31}aaaa{bgcolor: 2305 8 31}aaaa{bgcolor: 2305 8 31}aaaa{bgcolor: 2305 8 31}aaaa{bgcolor: 2305 8 31}aaah!{0x63}{b}{shake: 30 0}{person: 5 82 81}
+Th{wait: 15}-Th{wait: 20}-{speed: 3}They're{0x5a}...!!{nextpage_button}{person: 9 237 236}{name: 2304}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Now you're both white as{b}
+sheets!{wait: 15} {speed: 3}What's going on!?{nextpage_button}{name: 1024}
+These sketches{speed: 8}...{wait: 40}{person: 9 243 243}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} are of{b}
+the three{bgcolor: 2305 8 31} cases I{bgcolor: 2305 8 31} worked on!{fademusic: 0}{music: 35 0}{nextpage_button}{name: 2304}{bgcolor: 2305 8 31}{person: 9 244 243}{speed: 5}
+What...?{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 64}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{speed: 3}
+The murder in the poker room{b}{bgcolor: 2305 8 31}{shake: 30 0}
+at the Borscht Bowl Club!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 68}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}
+The dead man pulling the{b}
+noodle stand!{p}{speed: 5}
+And then...{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 67}{bgcolor: 772 1 31}{wait: 25}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+...{wait: 16}the events that transpired{b}
+during the Gavinners concert!{nextpage_button}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 241}{person: 9 244 243}{0x5a}{name: 2304}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{speed: 5}
+...{0x59}What could it mean?{p}
+How could he have painted{b}
+those things{0x5a}...{wait: 30}{person: 9 235 234}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2} and why!?{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+That's what I want to know!{p}{name: 2304}{bgcolor: 2305 8 31}
+Wait!{wait: 15}{b}{person: 9 239 238}{0x59}{speed: 5}
+Is Drew Misham{0x5a}{speed: 8}...{p}{person: 9 244 243}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 15}your father?{nextpage_button}{person: 9 234 234}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Give me a break! Does that{b}
+seem even REMOTELY possible{b}
+to you!?{0x23: 0}{music: 255 60}{nextpage_button}{hidetextbox: 1}{wait: 40}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{bgcolor: 257 1 31}{wait: 7}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}
+(I'd never even heard of any{b}
+Drew Misham before.){p}
+(I hadn't even seen a picture{b}
+of him.){p}{speed: 5}
+(But there were my cases,{wait: 30}{b}{speed: 3}
+drawn on his canvas!){p}
+(...{wait: 12}{speed: 2}Every single one of them.){b}{shake: 30 0}{bgcolor: 2305 8 31}{p}{speed: 5}
+(It couldn't have been a{b}
+coincidence.){p}
+(Just who was this Drew{b}
+Misham{speed: 8}...{wait: 30} {speed: 3}and what did he{b}
+have to do with me?){p}{color: 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 4095}{person: 0 0 0}{hidetextbox: 0}{0x48: 128 142}{speed: 0}{soundtoggle: 0}{b}{b}
+To be continued.{bgcolor: 260 1 31}{wait: 25}{wait: 80}{fademusic: 120}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{savegame}{bop}{special_jmp}{endjmp}
+
+{{62}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{hidetextbox: 0}So,{wait: 10} what exactly is a{wait: 6}{b}
+"forger"?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 4}
+Well,{wait: 6} basically,{wait: 6} it's someone{b}
+who makes{wait: 6} "{color: 1}forgeries{color: 0}".{p}{speed: 3}{color: 1}
+Fakes{color: 0},{wait: 6} in other words.{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Fakes...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+Copies of an original.{p}{person: 9 252 251}{speed: 4}
+Exact copies,{wait: 12} so precise, you{b}
+can't tell them apart.{nextpage_button}{name: 1280}{person: 5 82 81}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Well,{wait: 8} {person: 5 76 75}why not just photocopy{b}
+them?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+The big problem with{b}{color: 1}
+forgeries{color: 0}...{p}
+...is that people try to sell{b}
+them as the {color: 1}real article{color: 0}.{p}{person: 9 239 238}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+It's a crime,{wait: 8} of course.{wait: 16}{nextpage_button}{person: 5 82 81}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+So,{wait: 8} Drew Misham was...?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 239 238}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 4}
+A criminal?{wait: 10} I'm afraid so.{p}{person: 9 237 236}{speed: 3}
+He received money to create{b}
+elaborate forgeries.{p}
+...To supplement his work{b}
+in illustration,{wait: 8} I guess.{p}{person: 9 238 238}{name: 1024}{speed: 4}
+I see.{p}{person: 9 239 238}{name: 2304}
+Actually...{p}{0x5a}{showphoto: 232}{speed: 3}
+...{wait: 14}{0x59}that's why I brought this{b}
+here in the first place.{fademusic: 0}{music: 18 0}{nextpage_button}{bganim: 98 579}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+What do you mean?{p}{name: 2304}{speed: 4}
+When you're trying to{b}
+determine if a painting{b}
+is a forgery...{p}{person: 9 252 251}
+...the rough sketch underneath{b}
+can be a valuable clue.{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{speed: 2}
+So the rough sketch is like{b}
+practice for the real thing!{p}{person: 5 76 75}{speed: 3}
+Like doing a magic trick in{b}
+front of a mirror before you{b}
+go on stage!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 5}{0x5a}
+...{wait: 30}{0x59}{speed: 3}But not in the case of a{b}
+forgery.{wait: 12} Not necessarily,{wait: 8}{b}
+anyway.{p}
+You know what the finished{b}
+product is going to look like,{wait: 8}{b}
+after all.{p}{person: 5 81 81}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Oh,{wait: 30} {person: 5 82 81}yeah,{wait: 8} I guess you would.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+That's why I brought this.{p}{person: 9 233 232}{showphoto: 232}
+I'm going to use it to see{b}
+what's under the paint of the{b}
+finished pieces.{p}{person: 9 232 232}{name: 1024}{speed: 4}{color: 2}
+(I get it now...){fademusic: 60}{color: 0}{p}{removephoto}{person: 9 239 238}{name: 2304}{bgcolor: 2305 8 31}
+Not that I really needed to{b}
+go to such lengths.{p}
+Seeing as how one of{b}
+the paintings was only{b}
+half-finished anyway.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+...{wait: 16}Still,{wait: 10} it'd be neat to see{b}
+Mr. Misham's rough sketches.{p}{person: 5 68 67}
+Kind of like what he was{b}
+drawing when he thought{b}
+no one was looking.{p}{person: 5 69 69}{name: 1024}{speed: 4}{color: 2}
+(True...{wait: 30} {speed: 3}That would be{b}
+interesting.{wait: 16} And maybe{b}
+valuable for our case.){color: 0}{p}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+You should try buttering{b}
+her up,{wait: 8} Apollo!{p}{person: 5 68 67}
+Flattery will get you{b}
+everywhere,{wait: 16} they say!{nextpage_button}{name: 1024}{color: 2}
+(...Hmm,{wait: 12} maybe I should ask{b}
+Ema to help us out.){b}{fademusic: 0}{music: 41 100}{nextpage_button}{color: 0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{0x10: 33574}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{63}}
+{bop}{0x51: 3 53}{12800}{removephoto}{jmp: 192}{endjmp}{endjmp}{0x10: 33586}{wait: 1}{0x1d: 8}{0x4c}{person: 9 232 232}{name: 1024}{speed: 5}This painting...{wait: 20} {speed: 3}came from{b}
+behind that dresser.{p}{person: 9 239 238}{name: 2304}{bgcolor: 2305 8 31}{shake: 30 0}
+Ah,{wait: 8} yes.{wait: 10} So?{p}{person: 9 238 238}{name: 1024}
+...It was stolen,{wait: 10} no?{p}{name: 2304}{fademusic: 60}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 30}{b}{person: 9 237 236}{sound: 52 1}{speed: 3}
+I was hoping you wouldn't{b}
+figure that out.{nextpage_button}{person: 9 243 243}{name: 1024}{speed: 4}
+Do you think you could tell{b}
+us a bit about this?{p}{person: 9 250 249}{name: 2304}
+...{wait: 8}I suppose.{wait_noanim: 30}{p}{person: 9 233 232}{speed: 3}
+It's what you think.{p}{person: 9 252 251}
+Drew Misham...{wait: 10} was a{b}{color: 1}
+forger{color: 0}.{fademusic: 0}{music: 25 0}{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+A forger...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{0x37: 11 0}{0x37: 12 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{64}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 9 232 232}{name: 1024}{speed: 5}Ema...{wait: 20} {speed: 3}about this painting{b}
+from behind the dresser there.{p}{person: 9 250 249}{name: 2304}
+...Ah,{wait: 8} yes.{wait_noanim: 30}{p}{person: 9 233 232}{speed: 3}
+It's what you think.{p}{person: 9 252 251}
+Drew Misham...{wait: 10} was a{b}{color: 1}
+forger{color: 0}.{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+A forger...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{65}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 9 232 232}{name: 1024}Ema,{wait: 16} about this painting...{p}{person: 9 237 236}{name: 2304}
+Oh,{wait: 10} that?{wait: 16}{b}
+Quite good,{wait: 10} isn't it.{p}{person: 9 236 236}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Er,{wait: 8} that's not what I wanted{b}
+to ask you about.{p}{person: 9 250 249}{name: 2304}
+You want to examine it,{wait: 8} is{b}
+that it?{p}
+I'd be happy to let you,{wait: 8}{b}
+if you had a good reason.{p}{person: 9 241 240}{bgcolor: 2305 8 31}{shake: 30 0}
+But without that... sorry.{nextpage_button}{person: 9 240 240}{name: 1024}{color: 2}
+(...I guess she wants us to do{b}
+a little footwork on our own{b}
+first.){nextpage_button}{color: 0}{hidetextbox: 3}{special_jmp}{endjmp}

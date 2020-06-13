@@ -1,0 +1,606 @@
+
+
+{{0}}
+{bop}{0x62: 4 4}{0x25: 1}{bg: 241}{bganim: 98 267}{person: 0 0 0}{name: 0}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{0x74: 2 0}{center_text: 1}{color: 3}Present Day{b}
+Drew Studio{color: 0}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{0x38: 1}{person: 20 449 449}{person: 20 450 449}{name: 5120}{fademusic: 0}{music: 38 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Eh? {wait: 25}{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Well well well what do we{b}
+have here?{nextpage_button}{person: 20 449 449}{name: 1792}{speed: 3}
+Remember me?{nextpage_button}{person: 20 452 451}{name: 5120}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Of course I remember you!{wait: 16}{b}
+"Journalist Meets Ex-{wait: 12}Attorney{b}
+In Bar", end quote.{nextpage_button}{person: 20 451 451}{name: 1792}{speed: 3}
+Can I ask what you're doing{b}
+here?{p}
+Mr. Misham was poisoned,{wait: 10} and{b}
+his daughter's{speed: 8}...{nextpage_button}{person: 20 450 449}{name: 5120}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oh, yes,{wait: 12} I know.{wait: 10}{b}
+Oh,{wait: 10} how I know!{wait: 8} Yes.{nextpage_button}{person: 20 457 456}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+It's caused me no end of{b}
+grief,{wait: 16} {speed: 2}to be honest.{p}{speed: 5}
+"Journalist Wishes He'd{b}
+Tracked Down Case Just{b}
+A Little Quicker",{0x5a}{wait: 15}{speed: 2}{person: 20 450 449}{shake: 30 0}{wait: 10} end quote.{nextpage_button}{name: 1792}{speed: 3}
+Were you on the trail of{b}
+this case the whole time?{nextpage_button}{person: 20 452 451}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Zak Gramarye...{wait: 16} {speed: 3}was a good{b}
+friend.{nextpage_button}{name: 1792}{speed: 4}
+Zak said something to that{b}
+effect back at the Borscht{b}
+Bowl Club.{nextpage_button}{person: 20 452 451}{name: 5120}{speed: 2}
+What a character,{wait: 8} what a man!{p}{person: 20 457 456}{speed: 5}
+If a little{0x5a}...{wait: 12}{speed: 2}{bgcolor: 2305 8 31}{shake: 30 0}{0x59} No{0x5a},{wait: 16}{speed: 5}{0x59} a lot...{wait: 12}{speed: 2}{bgcolor: 2305 8 31}{b}{shake: 30 0}
+No,{0x5a}{wait: 20} {0x59}{person: 20 452 451}{bgcolor: 2305 8 31}extremely rough around{b}
+the edges!{nextpage_button}{person: 20 456 456}{name: 1792}{speed: 3}
+Do you think I could ask you{b}
+a few questions?{nextpage_button}{person: 20 460 459}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oh?{wait: 16} You serious?{bgcolor: 2305 8 31}{wait: 6} {speed: 2}I mean,{wait: 10} I'm {b}{shake: 30 0}
+usually the interviewer,{wait: 8}{b}
+not interviewee!{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+"Journalist Asks Questions,{wait: 6}{b}
+Not Other Way Around",{0x5a}{wait: 30}{speed: 3}{b}{person: 20 461 461}
+end quote.{nextpage_button}{fademusic: 120}{name: 1792}{speed: 7}
+.{speed: 9}.{speed: 11}..{speed: 13}..{wait: 30}{nextpage_button}{person: 20 450 449}{name: 5120}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 2}{shake: 30 0}
+Fine,{wait: 8} shoot,{wait: 8} I don't care!{nextpage_button}{person: 20 452 451}
+People have been asking me{b}
+all sorts of things{fademusic: 0}{music: 38 0} lately.{nextpage_button}{0x10: 33684}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{person: 20 457 456}{name: 5120}{speed: 3}People and events all get{b}
+tangled together and get{b}
+biggerer and biggerer...{p}{person: 20 452 451}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 2}
+...don'tcha think?{nextpage_button}{name: 1792}{speed: 3}{color: 2}
+(I was too busy wondering{b}
+about "biggerer" to listen{b}
+to what you were saying.){color: 0}{nextpage_button}{person: 20 457 456}{name: 5120}
+...Sometimes,{wait: 8} you just gotta{b}
+accept that you won't be able{b}
+to untangle it all,{wait: 8} I think.{nextpage_button}{name: 1792}{speed: 4}
+Maybe so.{wait: 20}{b}{speed: 3}
+But still...{nextpage_button}{person: 20 461 461}
+...{wait: 9}I have to do what I can.{p}{speed: 3}
+And{speed: 6}...{speed: 3} I have to tell what{b}
+I find to those who come {color: 1}next{color: 0}.{sound: 52 1}{bgcolor: 2305 8 31}{p}{person: 20 460 459}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}
+"{color: 1}Next{color: 0}" you say?{nextpage_button}{person: 20 459 459}{name: 1792}
+I'm not the one who will{b}
+close the curtain on this{b}
+little play.{p}{person: 20 461 461}
+Apparently,{wait: 12} that's not my{b}
+role anymore.{nextpage_button}{hidetextbox: 1}{wait: 90}{name: 5120}{hidetextbox: 0}{speed: 4}
+Magnifi...{nextpage_button}{name: 1792}{person: 20 456 456}{bgcolor: 2305 8 31}{speed: 3}
+...?{nextpage_button}{name: 5120}{person: 20 450 449}{speed: 3}
+I was just wondering what{b}
+Magnifi would think of all{b}
+this.{nextpage_button}{name: 1792}{person: 20 449 449}
+What do you mean?{nextpage_button}{name: 5120}{person: 20 450 449}
+Haven't you seen it in{b}
+Trucy?{nextpage_button}{fademusic: 60}{wait: 60}{sound: 52 1}{bgcolor: 2305 8 31}{person: 20 450 449}{speed: 4}
+She's got his {fademusic: 0}{music: 29 100}{color: 1}power{color: 0}.{nextpage_button}{name: 1792}{person: 20 449 449}{speed: 4}
+You mean, how I can't lie{b}
+to Trucy?{nextpage_button}{name: 5120}{person: 20 457 456}{speed: 3}
+It was the same with Magnifi.{p}
+And with his daughter{speed: 8}{0x5a}...{wait: 25}{b}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Thalassa.{nextpage_button}{name: 1792}{speed: 4}
+It's a strange thing.{wait: 12} {speed: 3}You{b}
+think it's some Gramarye{b}
+gene?{nextpage_button}{name: 5120}{person: 20 457 456}
+Magnifi told me once,{wait: 8} back{b}
+when Zak married Thalassa.{p}
+He said Zak had good "eyes".{nextpage_button}{person: 20 452 451}
+But not good like a Gramarye's{b}
+eyes.{0x5a}{wait: 8}{0x59}{wait: 8} Not that good.{nextpage_button}{name: 1792}{person: 20 451 451}{speed: 4}{color: 2}
+(...I wonder if Zak ever{b}
+played a game of poker with{b}
+his wife?){color: 0}{speed: 255}{nextpage_button}{speed: 4}
+Who knows what the "{color: 1}Gramarye{b}
+Secret{color: 0}" was...?{nextpage_button}{name: 5120}{person: 20 450 449}{speed: 3}
+Maybe nobody,{wait: 8} now that Zak's{b}
+gone.{nextpage_button}{name: 1792}{person: 20 449 449}{speed: 4}{color: 2}
+(Zak Gramarye{speed: 8}...){color: 0}{nextpage_button}{hidetextbox: 1}{0x26: 1}{bganim: 98 519}{wait: 60}{0x5f: 15 3 0}{wait: 120}{name: 1792}{hidetextbox: 0}{speed: 4}
+...{wait: 16}The plot had finally begun{b}
+to reveal itself.{nextpage_button}{speed: 3}
+It sprouted from a{wait: 4} {color: 1}warp{color: 0}{wait: 4} in the{b}
+Gramarye fabric,{wait: 12} and grew,{b}
+swallowing everything{speed: 8}...{nextpage_button}{speed: 3}
+...{wait: 12}{speed: 4}wrapping itself around the{b}
+Gramaryes' "{color: 1}power{color: 0}".{nextpage_button}{hidetextbox: 1}{wait: 60}{bgcolor: 2566 1 31}{wait: 25}{bg: 190}{person: 0 0 0}{bgcolor: 2308 1 31}{wait: 25}{wait: 60}{name: 1792}{hidetextbox: 0}{speed: 4}
+A power which passed from{b}
+Magnifi Gramarye to Thalassa{b}
+...{wait: 16}{speed: 4}to the next generation.{nextpage_button}{speed: 3}
+And I would once again need{b}
+to meet{speed: 8}...{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 2561 1 31}{wait: 1}{bg: 191}{person: 0 0 0}{bgcolor: 2308 1 31}{wait: 25}{wait: 60}{name: 1792}{hidetextbox: 0}{speed: 5}
+...{wait: 16}the one who bridged{b}
+it all together.{nextpage_button}{hidetextbox: 1}{wait: 60}{fademusic: 120}{wait: 120}{0x64}{rejmp: 4}{b}{hideperson}{wait: 25}{0x5f: 16 1 1}{0x10: 33685}{0x10: 33683}{0x26: 0}{bganim: 0 4096}{0x74: 18 0}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 20 449 449}{name: 1792}{hidetextbox: 0}{speed: 3}It was tragic what happened{b}
+to Drew Misham and his{b}
+daughter.{nextpage_button}{person: 20 457 456}{name: 5120}{speed: 2}{color: 1}
+Forgery{color: 0} is a serious crime,{wait: 6}{b}
+and they paid the price.{nextpage_button}{person: 20 450 449}{speed: 3}
+You know what really did them{b}
+in though,{wait: 10} {bgcolor: 2305 8 31}{shake: 30 0}don't you?{nextpage_button}{person: 20 449 449}{name: 1792}{speed: 8}
+...Yes.{wait: 14}{b}{showphoto: 211}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+A forged diary page.{nextpage_button}{bganim: 98 579}{person: 20 457 456}{name: 5120}{speed: 2}
+The night I "interviewed"{wait: 10}{b}
+him...{p}
+...I found out something about{b}
+Mr. Misham I hadn't known.{b}{fademusic: 0}{music: 25 80}{nextpage_button}{person: 20 461 461}{name: 1792}{speed: 3}
+...What's that?{p}{person: 20 450 449}{name: 5120}{speed: 2}
+You know,{wait: 6} he always felt like{b}
+he was being watched?{nextpage_button}{person: 20 457 456}{speed: 3}
+Every day,{wait: 8} for seven years.{wait: 16}{b}
+"Walls Have Ears,{wait: 12} Potatoes{b}
+Have Eyes",{wait_noanim: 20}{speed: 2} {person: 20 450 449}{shake: 30 0}{wait: 10}end quote.{nextpage_button}{name: 1792}{speed: 5}
+Being watched{speed: 8}...{wait: 25} {speed: 3}you mean,{wait: 8}{b}
+he felt guilty?{nextpage_button}{person: 20 457 456}{name: 5120}{sound: 52 1}{bgcolor: 2305 8 31}
+No,{wait: 6} no,{wait: 6} I'm not talking about{b}
+"feelings", here.{nextpage_button}{person: 20 449 449}{name: 1792}{speed: 5}
+...?{nextpage_button}{person: 20 453 453}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...You know,{wait: 8} I felt watched,{wait: 16}{b}
+too.{nextpage_button}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+The whole time I've been on{b}
+this case,{wait: 8} no less!{nextpage_button}{person: 20 457 456}{speed: 4}
+"Journalist Gets Tingling{b}
+Sensation On Back Of Neck,{wait: 6}{b}
+Freaks Out",{0x5a}{wait: 15}{speed: 2}{person: 20 450 449}{shake: 30 0}{wait: 10} end quote.{nextpage_button}{person: 20 456 456}{name: 1792}{speed: 4}
+Because...{wait: 25} {speed: 3}you felt guilty?{sound: 52 1}{bgcolor: 2305 8 31}{nextpage_button}{person: 20 460 459}{name: 5120}{fademusic: 30}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Why would I feel guilty!?{nextpage_button}{0x23: 0}{music: 255 90}{person: 20 449 449}{name: 1792}{speed: 5}{color: 2}
+(You felt like you were being{b}
+"{color: 1}watched{color: 2}", huh?{wait: 30} {speed: 3}I wonder what{b}
+it all means?){color: 0}{nextpage_button}{0x10: 33686}{0x51: 3 53}
+{38657}{2244}{0x37: 27 0}{0x37: 28 1}{hidetextbox: 3}{special_jmp}{0x37: 30 0}{0x37: 29 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 20 461 461}{name: 1792}{hidetextbox: 0}{speed: 3}Drew Misham felt like he was{b}
+being{wait: 4} "{color: 1}watched{color: 0}{speed: 8}"...{p}{person: 20 449 449}{speed: 4}
+...{wait: 8}and you along with him.{wait: 30}{b}
+You sure it wasn't just{b}
+nerves?{nextpage_button}{person: 20 457 456}{name: 5120}{speed: 4}
+Nerves?{wait: 8} No,{wait: 8} it's nothing{b}
+so mundane{speed: 8}{0x5a}...{p}{person: 20 464 463}{animation: 149 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...I stopped paying attention{b}
+to my nerves a long time ago!{nextpage_button}{person: 20 460 459}{hidetextbox: 0}{fademusic: 30}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+But I felt it, too!{wait: 16}{b}
+"Journalist Sure He Is{b}
+Being {person: 20 464 463}{animation: 149 1}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}Watched",{fademusic: 0}{music: 18 0} end quote.{nextpage_button}{person: 20 457 456}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Don't you wonder why Zak{b}
+Gramarye got rubbed out{b}
+after seven years...{p}
+...{wait: 16}{speed: 3}right after coming into{b}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+contact with me!?{nextpage_button}{person: 20 459 459}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...!{nextpage_button}{person: 20 457 456}{name: 5120}{speed: 3}
+He completely{wait: 6} {color: 1}vanishes{color: 0}{wait: 6} from{b}
+that courtroom{speed: 8}...{p}{person: 20 450 449}
+...{speed: 2}Then,{wait: 8} for seven years, he{b}
+talks to no one.{wait: 16} Not a soul!{p}{person: 20 457 456}{speed: 3}
+Then,{wait: 8} just as the{wait: 6} "remaining{b}
+time"{wait: 6} was almost up...{p}{person: 20 464 463}{animation: 149 1}{showphoto: 194}
+...{wait: 12}he contacts me in order to{b}
+have this made.{nextpage_button}{removephoto}{name: 1792}{speed: 5}
+And then{speed: 8}...{wait: 20} {speed: 3}he dies.{p}{name: 5120}{speed: 2}
+Starting to put the pieces{b}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+together,{wait: 8} are we!?{nextpage_button}{name: 1792}{speed: 3}
+And... you were being{wait: 6}{b}
+"watched" this whole time?{nextpage_button}{person: 20 457 456}{name: 5120}{speed: 3}
+Maybe not just me.{wait: 15}{person: 20 452 451}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3} Maybe{b}
+you were, too!{nextpage_button}{person: 20 463 463}{animation: 149 1}{name: 1792}{speed: 8}{color: 2}
+(M-Me...?){color: 0}{nextpage_button}{fademusic: 0}{music: 25 0}{0x51: 3 53}
+{44289}{2148}{0x10: 33709}{0x35: 44544 @RelativeAddress0}{0x35: 44800 @RelativeAddress1}{0x35: 43776 @RelativeAddress2}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress0}{@RelativeAddress1}{@RelativeAddress2}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 20 457 456}{name: 5120}{hidetextbox: 0}{speed: 3}I met Zak through that{b}
+case,{wait: 8} actually.{p}{person: 0 0 0}{bg: 152}{0x5f: 3 1 31}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}
+You mean the shooting of{b}
+Magnifi Gramarye?{nextpage_button}{bg: 241}{person: 20 450 449}{0x5f: 4 1 1}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+No,{wait: 12} {speed: 3}before that{speed: 7}{0x5a}...{wait: 20}{b}{person: 20 452 451}
+It's not widely known.{nextpage_button}{fademusic: 45}{person: 20 449 449}{name: 1792}{speed: 5}
+You mean{speed: 8}...{wait: 30}{person: 0 0 0}{bg: 85}{0x5f: 3 1 31}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4} the "accident"?{wait: 35}{b}{speed: 3}
+During the Quick-{wait: 6}Draw Shootem{b}
+practice?{fademusic: 0}{music: 29 90}{nextpage_button}{bg: 241}{person: 20 460 459}{0x5f: 4 1 1}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+My my my,{wait: 10} you're well{b}
+informed!{nextpage_button}{person: 20 457 456}{speed: 3}
+You should've seen me{b}
+back then.{wait: 16} I'd dug up{b}
+quite the scoop.{p}{person: 20 457 456}
+I wanted it all.{wait: 16} Money, fame,{b}
+women, a little puppy...{b}
+all for me!{p}{person: 20 452 451}{speed: 2}
+I was younger then,{wait: 12} and my{b}
+days and nights smelled of{b}
+fresher mint than they do now.{p}{person: 20 451 451}{name: 1792}{showphoto: 170}{speed: 3}
+Valant Gramarye did mention{b}
+one particularly "nosy{b}
+reporter".{nextpage_button}{removephoto}{person: 20 457 456}{name: 5120}
+In fact,{wait: 8} I was on close{b}
+speaking terms with Magnifi{b}
+Gramarye at the time.{p}{person: 20 450 449}
+I knew his daughter, too,{wait: 8}{b}
+of course.{wait: 16} Thalassa, was it?{nextpage_button}{person: 20 449 449}{name: 1792}{speed: 5}
+Really...{nextpage_button}{person: 20 457 456}{name: 5120}{speed: 3}
+Then Thalassa disappeared.{wait: 16}{b}
+Quite suddenly, at that.{p}
+And Magnifi wouldn't say a{b}
+word about it.{p}{person: 20 452 451}{speed: 2}
+Yeah...{wait: 16}{b}{person: 20 453 453}{bgcolor: 2305 8 31}{shake: 30 0}
+My evil habit got the{bgcolor: 2305 8 31} better{b}
+of me.{nextpage_button}{speed: 5}
+"Journalist Catches Scent Of{b}
+A Scoop,{wait: 10} Goes On Feeding{b}
+Frenzy"...{wait: 15}{speed: 2}{0x5a}{person: 20 450 449}{shake: 30 0}{wait: 10} end quote.{nextpage_button}{person: 20 452 451}
+I set up a one-on-one{b}
+interview with Thalassa's{b}
+husband,{wait: 12} see.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{showphoto: 431}{speed: 3}
+Zak Gramarye{speed: 8}...{nextpage_button}{removephoto}{person: 20 457 456}{name: 5120}{speed: 3}
+Something strange was in the{b}
+air over at Troupe Gramarye{b}
+in those days.{p}
+The whole screwy mentor-{b}
+controlling-disciples scene'd{b}
+started by then,{wait: 8} I'm guessing.{p}{speed: 5}
+Thalassa,{wait: 10} she was part of{b}
+it all,{0x5a}{wait: 34}{person: 20 452 451}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} right?{nextpage_button}{person: 20 461 461}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+C'mon,{wait: 8} you can tell me,{wait: 10}{bgcolor: 2305 8 31}{b}{shake: 30 1}
+off the record!{nextpage_button}{name: 1792}{speed: 4}
+...{wait: 16}Sorry,{wait: 10} I don't know.{nextpage_button}{person: 20 457 456}{name: 5120}{speed: 4}
+...Anyway.{fademusic: 0}{music: 38 100}{p}{speed: 3}
+I kept prying,{wait: 8} and eventually{b}
+became friends with Zak.{p}{person: 20 452 451}{speed: 2}
+Sure,{wait: 8} he punched me once or{b}
+twice.{wait: 8} Or five times.{nextpage_button}{person: 20 450 449}{speed: 3}
+But over time,{wait: 8} he came to see{b}
+me as his confidant.{nextpage_button}{0x51: 3 53}
+{44545}{3530}{0x10: 33710}{0x35: 44288 @RelativeAddress3}{0x35: 44800 @RelativeAddress4}{0x35: 43776 @RelativeAddress5}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress3}{@RelativeAddress4}{@RelativeAddress5}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 20 457 456}{name: 5120}{hidetextbox: 0}{speed: 3}He's been waiting this whole{b}
+time.{wait: 16} Seven years,{wait: 8} eh?{nextpage_button}{person: 20 449 449}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Waiting...?{nextpage_button}{person: 20 452 451}{name: 5120}{speed: 2}
+For his big comeback,{wait: 12}{b}
+of course!{p}{speed: 4}
+A big "revival of the Magnifi{b}
+Miracle"...{wait_noanim: 15}{person: 20 450 449}{wait: 10}{bgcolor: 2305 8 31}{speed: 2} 'Course it was{b}
+all {shake: 30 0}a dream.{nextpage_button}{name: 1792}{showphoto: 194}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Because of this.{nextpage_button}{speed: 3}
+...The{wait: 4} {color: 1}performance rights{color: 0}.{nextpage_button}{person: 20 457 456}{name: 5120}
+In the absence of any official{b}
+documents,{wait: 8} he was golden.{p}
+Who's to say the old man{b}
+didn't give his rights to{b}
+both Zak and Valant?{nextpage_button}{removephoto}{person: 20 456 456}{name: 1792}{speed: 3}
+...So Valant waited until{b}
+Zak{wait: 8} "died".{wait: 8} Legally,{wait: 8} at least.{nextpage_button}{person: 20 450 449}{name: 5120}
+The time finally comes,{wait: 8} and{b}
+Valant's like a kid on {b}
+Christmas morning!{nextpage_button}{name: 1792}
+He's getting ready for his{b}
+show at the Sunshine Coliseum,{wait: 6}{b}
+you know.{nextpage_button}{person: 20 457 456}{name: 5120}
+If that document sees the{b}{showphoto: 194}
+legal light of day...{p}{person: 20 452 451}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 12}it's going to put a bit of{b}
+a damper on the big show.{nextpage_button}{removephoto}{person: 20 457 456}{speed: 3}
+He's a sorry one,{wait: 12} that{b}
+Valant Gramarye.{p}{speed: 4}
+Lost out to his partner at{b}
+work{speed: 8}{0x5a}...{0x59}{speed: 3} and in love,{wait: 12} too.{nextpage_button}{name: 1792}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+"Love"{wait: 10}...?{nextpage_button}{person: 20 450 449}{name: 5120}{speed: 2}
+...It's the same old story,{wait: 8}{b}
+really.{nextpage_button}{person: 20 457 456}{speed: 4}
+Two disciples,{wait: 6} and their{b}
+mentor's only daughter.{p}{person: 20 452 451}{fademusic: 0}{music: 29 60}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+What has three sides,{wait: 10} and{b}
+all of 'em pointy?{wait: 16}{b}
+...A love triangle.{nextpage_button}{name: 1792}{speed: 8}
+Hmm.{wait: 20} {speed: 3}That is pretty classic.{nextpage_button}{person: 20 457 456}{name: 5120}
+When you're in a performing{b}
+troupe,{wait: 10} that's your world.{p}
+It's like family.{nextpage_button}{person: 20 452 451}
+...One with an entire high{b}
+school's worth of drama,{wait: 8}{b}
+intrigue,{wait: 8} and backstabbing.{nextpage_button}{person: 20 449 449}{name: 1792}{speed: 3}
+And in the middle of all{b}
+this,{wait: 8} Thalassa has Trucy.{p}
+...{wait: 8}And then she dies.{nextpage_button}{person: 20 461 461}{name: 1792}{speed: 3}{color: 2}
+(I need to find out more{b}
+about this Thalassa{speed: 8}...){color: 0}{nextpage_button}{0x51: 3 53}
+{44801}{2982}{0x10: 33711}{0x35: 44288 @RelativeAddress6}{0x35: 44544 @RelativeAddress7}{0x35: 43776 @RelativeAddress8}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress6}{@RelativeAddress7}{@RelativeAddress8}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 20 457 456}{name: 5120}{hidetextbox: 0}{speed: 3}So... Thalassa married Zak{b}
+and had Trucy, see.{nextpage_button}{person: 20 450 449}{name: 5120}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 2}
+It was her second marriage,{wait: 12}{b}
+actually.{nextpage_button}{person: 20 451 451}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+You mean she was divorced...?{wait: 30}{b}{speed: 4}{color: 2}
+(I hadn't heard this one{b}
+before...){color: 0}{nextpage_button}{person: 20 461 461}{name: 5120}{speed: 2}
+Not quite.{wait: 16} Her late husband{b}
+was a performer,{wait: 8} too.{p}
+He died in an accident{b}
+on stage.{nextpage_button}{person: 20 457 456}{speed: 3}
+Tragic,{wait: 8} really.{wait: 16} They had only{b}
+been married one year.{nextpage_button}{name: 1792}{speed: 5}
+I didn't know...{nextpage_button}{person: 20 450 449}{name: 5120}{speed: 3}
+...Ah,{wait: 8} but she was a beauty.{wait_noanim: 30}{b}{showphoto: 25}{person: 20 452 451}{speed: 2}
+I still carry a portrait photo{b}
+of her around,{wait: 8} you know.{nextpage_button}{hidetextbox: 1}{bganim: 98 579}{bgcolor: 514 1 31}{wait: 15}{bg: 172}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{wait: 160}{bgcolor: 516 1 31}{wait: 25}{bg: 241}{person: 20 456 456}{bgcolor: 258 1 31}{wait: 15}{person: 20 457 456}{name: 5120}{hidetextbox: 0}{fademusic: 120}{speed: 2}
+I've known Trucy since she{b}
+was a little thing,{wait: 8} too.{p}{name: 5120}
+...She got the better deal,{wait: 12}{b}
+really.{p}{person: 20 450 449}{speed: 3}
+She's got you for{wait: 4} "family",{b}
+after all.{nextpage_button}{person: 20 449 449}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...?{wait: 30}{b}{speed: 3}
+What do you mean?{nextpage_button}{person: 20 457 456}{name: 5120}{speed: 2}
+Just reminiscing,{wait: 8} you know.{p}{speed: 3}
+"Thalassa Has Another Child{b}
+Besides Trucy",{0x5a}{wait: 30}{speed: 4}{person: 20 452 451}{sound: 52 1}{bgcolor: 2305 8 31} end quote.{fademusic: 0}{music: 18 0}{nextpage_button}{person: 20 456 456}{name: 1792}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+What!?{nextpage_button}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 3}
+But...{wait: 16} But Trucy said she{b}
+was an only child!{nextpage_button}{person: 20 452 451}{name: 5120}{speed: 2}
+Ahh,{wait: 8} yes.{wait: 16} This one she had{b}
+with her previous husband.{nextpage_button}{person: 20 449 449}{name: 1792}{bgcolor: 2305 8 31}{speed: 5}
+Her previous husband...?{p}{speed: 3}
+Her first husband who died{b}
+on stage?{p}{person: 20 450 449}{name: 5120}{speed: 2}
+Yep.{wait: 12} They had themselves{b}
+a kid.{p}{person: 20 457 456}{speed: 3}
+Another orphan,{wait: 8} now.{p}
+That's another one who{b}
+slipped through the cracks.{wait: 16}{b}
+No idea where they are now.{nextpage_button}{person: 20 456 456}{name: 1792}{speed: 4}{color: 2}
+(Thalassa had another{b}{color: 1}
+child{color: 2}{speed: 8}...?){p}{color: 0}{showphoto: 25}{fademusic: 60}{speed: 3}
+Do you think I could borrow{b}
+that photo?{nextpage_button}{person: 20 452 451}{name: 5120}
+...Sure.{wait: 16} I can be generous{b}
+on occasion,{wait: 8} you know.{nextpage_button}{bganim: 98 579}{0x51: 3 53}
+{38145}{3148}{0x35: 43777 @RelativeAddress9}{newevidence: 16610}{name: 0}{speed: 3}{color: 2}Thalassa's Portrait added to{b}
+the Court Record.{nextpage_button}{speed: 255}{color: 0}{person: 20 461 461}{name: 1792}{showphoto: 221}{speed: 3}{color: 2}
+(I won't need this locket{b}
+anymore...){p}
+(Better return it to Trucy{b}
+before I forget.){nextpage_button}{color: 0}{removephoto}{0x18: 221}{fademusic: 0}{music: 38 100}{0x10: 33707}{0x51: 3 53}
+{44288}{3148}{0x35: 44544 @RelativeAddress10}{0x35: 44800 @RelativeAddress11}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress9}{@RelativeAddress10}{@RelativeAddress11}{fademusic: 0}{music: 38 100}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{name: 1792}The door outside.{p}
+Vera might come walking{b}
+in at any moment... if she{b}
+wasn't in intensive care.{p}
+Will she ever come through{b}
+that door again,{wait: 8} I wonder?{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{name: 1792}{speed: 3}Those three paintings...{p}{name: 5120}{person: 20 450 449}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...All Drew's{wait: 6} "{color: 1}works{color: 0}",{wait: 6} of{b}
+course.{p}{person: 20 457 456}{sound: 51 1}{bgcolor: 2305 8 31}
+Which is to say,{wait: 12} Vera's{wait: 6}{b}
+"{color: 1}works{color: 0}",{wait: 6} really.{p}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}
+Or,{wait: 8} to be more precise,{wait: 8} Vera's{b}
+forgeries of someone else's{b}
+works.{nextpage_button}{person: 20 457 456}{sound: 51 1}{bgcolor: 2305 8 31}
+Of course,{wait: 8} if you demand utter{b}
+and total precision...{nextpage_button}{speed: 6}
+.{speed: 8}.{speed: 10}..{speed: 12}..{nextpage_button}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Actually, there's nothing{b}
+more.{nextpage_button}{name: 1792}{speed: 5}{color: 2}
+(I was about to say...){color: 0}{nextpage_button}{speed: 255}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{person: 0 0 0}{name: 1792}...This is where Mr. Misham{b}
+fell?{p}{speed: 4}
+Never thought our seven-year{b}
+reunion would be quite like{b}
+this.{p}{name: 5120}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Wait.{wait: 10} You knew Mr. Misham!?{nextpage_button}{name: 1792}{person: 20 449 449}{speed: 4}
+...I met him once.{wait: 16}{b}{speed: 3}
+In court.{nextpage_button}{person: 20 453 453}{sound: 52 1}{bgcolor: 2305 8 31}
+It was a...{wait: 16} brief meeting,{b}
+but one I'll remember for{b}
+the rest of my life.{nextpage_button}{person: 20 452 451}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Now that's a story right{b}
+there,{wait: 12} that is!{p}{person: 20 457 456}{speed: 3}
+I smell a {bgcolor: 2305 8 31}scoop!{nextpage_button}{person: 20 452 451}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}
+"Ex-{wait: 5}{bgcolor: 2305 8 31}Attorney Now Down-On-His-{b}
+Luck{bgcolor: 2305 8 31} Pianist Plays Sonata Of{b}
+Sorrow!"{bgcolor: 2305 8 31} end quote.{nextpage_button}{person: 20 461 461}{bgcolor: 2305 8 31}{shake: 30 0}
+I'm all ears!{wait: 20} Let's have it!{wait: 16}{b}
+Don't hold anything back!{nextpage_button}{name: 1792}{speed: 8}
+......{nextpage_button}{speed: 4}
+Could you at least get rid{b}
+of the "down-on-his-luck"{b}
+part?{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{person: 0 0 0}{name: 1792}Look at all the jars of{b}
+paints and pigments.{nextpage_button}{speed: 3}
+Why are there so many jars{b}
+of the same color?{nextpage_button}{person: 20 457 456}{name: 5120}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 2}
+My guess is that they're{b}
+sorted by{wait: 6} "age".{nextpage_button}{name: 1792}{speed: 5}
+Age...?{nextpage_button}{person: 20 450 449}{name: 5120}{speed: 2}
+When you're making a forgery,{wait: 6}{b}
+it's important to match the{b}
+age of the original,{wait: 8} see?{nextpage_button}{person: 20 452 451}{speed: 3}
+Paint composition's changed{b}
+a lot over the years.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Oh...{wait: 20} {speed: 2}right.{wait: 30} {speed: 3}Did you learn{b}
+that in journalism school?{nextpage_button}{person: 20 457 456}{name: 5120}{speed: 5}
+"Journalist Relies On Writing{b}
+Skill And Imagination!"{0x5a}{wait: 25}{speed: 2}{b}{person: 20 452 451}{shake: 30 0}
+end quote.{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(...As long as you don't do{b}
+news stories by imagination.){color: 0}{nextpage_button}{person: 20 457 456}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Either that,{wait: 8} or they just{b}
+bought a lot of the same{b}
+color by mistake.{nextpage_button}{person: 20 461 461}{name: 1792}
+......{wait: 30}{b}{speed: 4}{color: 2}
+(I find myself not caring{b}
+anymore.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32788 449 449}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{person: 0 0 0}{name: 1792}That's an odd assortment of{b}
+equipment to find in a {b}
+painter's studio.{nextpage_button}
+Of course,{wait: 10} it makes more{b}
+sense when you know they{b}
+were making forgeries.{nextpage_button}{speed: 4}
+I guess that's why they never{b}
+took visitors here.{nextpage_button}{speed: 3}
+Wouldn't really want people{b}
+seeing all this.{nextpage_button}{person: 20 452 451}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Yes,{wait: 10} in fact I was the first{b}
+human being ever to set foot{b}
+inside this studio.{nextpage_button}{person: 20 450 449}{sound: 51 1}{bgcolor: 2305 8 31}
+Er,{wait: 8} other than Mr. Misham,{wait: 8}{b}
+of course.{nextpage_button}{person: 20 457 456}{sound: 51 1}{bgcolor: 2305 8 31}
+Oh,{wait: 8} and Vera, too.{nextpage_button}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}
+And,{wait: 8} this is assuming that{b}
+I'm human,{wait: 10} of course.{nextpage_button}{person: 20 462 462}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}{color: 2}
+(...I'm{bgcolor: 2305 8 31} beginning to{bgcolor: 2305 8 31}{shake: 30 0} have my{b}
+doubts.){0x63}{wait: 20}{color: 0}{person: 20 461 461}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32788 449 449}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{person: 0 0 0}{name: 1792}A drafting table.{wait: 16} Probably {b}
+for making detailed designs{b}
+for forgeries.{nextpage_button}{name: 5120}{person: 20 450 449}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+You know what I think about{wait: 8}{b}
+that? I'll tell you!{nextpage_button}{person: 20 457 456}
+Painting should be done{b}
+freehand...{wait: 16} no rules,{wait: 8}{b}
+no restrictions!{nextpage_button}{person: 20 460 459}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+You really think a line drawn{b}
+by a ruler's going to "move"{b}
+anyone?{nextpage_button}{person: 20 450 449}{shake: 30 0}{bgcolor: 2305 8 31}
+I smell a letter to the{b}
+editor!{nextpage_button}{person: 20 457 456}{speed: 4}
+"Could You Write An Article{b}
+With A Ruler?"{0x5a}{speed: 8}...{person: 20 452 451}{shake: 30 0}{speed: 2} end quote!{nextpage_button}{person: 20 457 456}{speed: 2}
+Unless you wanted a ruler to{b}
+write the address on your{b}
+blackmail letter straight!{nextpage_button}{person: 20 450 449}
+That's what I think.{wait: 16}{b}
+You can quote me on it, too.{nextpage_button}{name: 1792}{speed: 6}
+......{nextpage_button}{speed: 4}{color: 2}
+(You could drop this guy on {b}
+a deserted island and he{b}
+wouldn't get bored.){nextpage_button}{color: 0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32788 449 449}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{name: 1792}Looks like a diary.{b}
+Inside{speed: 8}...{wait: 12} {speed: 3}it's completely{b}
+blank.{wait: 16} Nothing's written.{nextpage_button}
+I've always had trouble{b}
+writing in diary{wait: 6} "books" like{b}
+this.{nextpage_button}{speed: 4}
+No one'd buy my life story in{b}
+hardcover,{wait: 10} anyway.{wait: 16} They'd wait{b}
+for the paperback edition.{speed: 255}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{name: 1792}{speed: 4}A feather for dusting away{b}
+eraser leavings.{wait: 12} I think{b}
+there's a name for these.{nextpage_button}{speed: 6}
+.....{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Well,{wait: 12} now that I've{b}
+established my lack{b}
+of education.{nextpage_button}
+Maybe I'll just think up{b}
+my own name.{wait: 20}{b}{speed: 8}
+...{wait: 20}{speed: 3}It's a "featheraser".{nextpage_button}{speed: 6}
+......{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+And...{wait: 12} now I've established{b}
+my lack of imagination,{wait: 8} too.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{name: 1792}A picture of a young{b}
+Mr. Misham and a very young{b}
+Vera.{p}
+They're smiling.{wait: 16} They look{b}
+happy.{p}
+Of course,{wait: 10} now Mr. Misham's{b}
+passed away...{p}
+...and Vera's on death's{b}
+doorstep in the hospital.{p}{speed: 4}
+...Guess I'll just do what{b}
+I can...{wait: 12} and hope it's enough.{speed: 255}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{name: 1792}{speed: 3}This envelope's from the{b}{wait: 4}{color: 1}
+client{color: 0}{wait: 4} who requested that{b}
+forgery.{p}{speed: 4}
+Just think,{wait: 12} if that had{b}
+gotten lost in the mail...{p}
+...{speed: 3}I'd still be wearing my{b}
+attorney's badge.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{name: 1792}This frame looks even smaller{b}
+sitting next to that photo.{p}
+Just the right size for a{b}
+commemorative stamp,{wait: 8} indeed.{p}
+A commemorative stamp put{b}
+there by a daughter... that{b}
+killed her father.{nextpage_button}
+Sometimes,{wait: 8} life just sucks.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 37 1}{wait: 60}{name: 1792}{hidetextbox: 0}...{wait: 8}I just have to do that{b}
+when I see this pose.{p}{speed: 4}
+I can't believe it's been{b}
+seven years...{nextpage_button}{speed: 6}
+...{speed: 4}I have to stop torturing{b}
+myself with these things!{nextpage_button}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+I know!{wait: 16} {speed: 3}I'll just pretend{b}
+it's saying something else.{nextpage_button}{speed: 3}
+"The post office?{wait: 16} Why,{wait: 8} it's{b}
+right over there!{wait: 16} Good day,{wait: 8}{b}
+sir!"{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{name: 1792}Let's take a closer look{b}
+at that desk.{p}{hidetextbox: 1}{0x71: 103 6 18}
+{2305}{2args_choice_jmp: 31 6}{0x3b: 1 27}{265}{wait: 30}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 264}{wait: 30}{bgcolor: 2305 8 31}{sound: 59 1}{bg: 263}{wait: 30}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 20 449 449}{name: 1792}Mr. Brushel?{wait: 16}{showphoto: 221} Do you know{b}
+this person?{nextpage_button}{person: 20 450 449}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Do I know that person?{wait: 12}{b}
+Of course!{nextpage_button}{person: 20 452 451}
+I was friends with Zak,{wait: 12}{b}
+after all{0x5a}{wait: 23}...{speed: 3}{0x59} He hit me a few{b}
+times.{wait: 16} Five times,{wait: 8} actually.{nextpage_button}{person: 20 450 449}{speed: 2}
+But still!{wait: 16} I'd never forget{b}
+his wife.{nextpage_button}{person: 20 456 456}{name: 1792}{speed: 3}
+Thalassa Gramarye{speed: 8}...{nextpage_button}{person: 20 449 449}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...{speed: 3}Magnifi Gramarye's only{b}
+daughter.{nextpage_button}{bganim: 98 579}{name: 1792}
+...Do you think you could{b}
+tell me more about her?{nextpage_button}{name: 5120}{speed: 6}
+......{b}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Well,{wait: 8} why the heck not!{nextpage_button}{0x51: 3 53}
+{38657}{932}{0x10: 33687}{0x37: 28 0}{0x37: 29 1}{0x35: 38401 @RelativeAddress12}{0x37: 27 0}{0x37: 29 0}{0x37: 30 1}{@RelativeAddress12}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 20 449 449}{name: 1792}Mr. Brushel,{wait: 12} could you{b}
+take a look at this?{p}{person: 20 450 449}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah,{wait: 8} I hear you loud and{b}
+clear!{wait: 16} Loud.{wait: 16} And.{wait: 16} Clear!{nextpage_button}{person: 20 461 461}
+So...{wait: 12} you want me to write{b}
+an article on that,{wait: 8} right?{wait: 20}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+What's the angle!?{p}{name: 1792}{person: 20 451 451}{speed: 3}
+Actually,{wait: 8} no, that's OK.{b}
+I don't need an article.{nextpage_button}
+I was just wondering if{b}
+you had any thoughts on{b}
+this.{p}{name: 5120}{person: 20 450 449}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I hear you.{wait: 10} I.{wait: 8} Hear.{wait: 10} You!{p}
+You want me to sniff around{b}{person: 20 453 453}{bgcolor: 2305 8 31}{shake: 30 0}
+for a scoop!{wait: 10} Well you've come{b}
+to the right nose,{wait: 8} my friend!{p}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 9}
+..{bgcolor: 2305 8 31}{shake: 30 0}.{wait: 40}{nextpage_nobutton}{person: 20 450 449}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+It's odorless.{nextpage_button}{name: 1792}{speed: 4}
+...Th-Thanks.{wait: 30}{b}{speed: 4}{color: 2}
+(OK,{wait: 8} that was less than{b}
+informative.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}

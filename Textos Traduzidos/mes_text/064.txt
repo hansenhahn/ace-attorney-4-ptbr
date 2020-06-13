@@ -1,0 +1,625 @@
+
+
+{{0}}
+{bop}{0x26: 0}{0x4d: 39 0}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16{b}
+Detention Center{b}
+Visitor's Room{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{person: 5 76 75}{hidetextbox: 0}
+Hmm...{wait: 20} Looks like Wocky's{b}
+out for questioning.{p}{name: 1024}{person: 5 75 75}
+I really need to talk to him.{wait: 16}{b}
+I guess we'll come back later.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{name: 13312}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Excuse me.{p}{name: 1024}
+Yes?{p}{name: 13312}
+The other suspect is all{b}
+through with questioning,{wait: 8} sir.{p}{person: 5 74 73}{name: 1280}{hidetextbox: 0}{speed: 3}
+The other...{wait: 20}{sound: 51 1}{bgcolor: 2305 8 31} Ah!{wait: 16} You mean{b}
+the panty-snatcher!?{p}{name: 1024}{person: 5 69 69}
+...{wait: 20}Wesley Stickler.{wait: 16}{b}{color: 2}
+(So they arrested him,{wait: 10} too?){color: 0}{p}{name: 1024}{person: 5 69 69}
+Alright.{wait: 20} Let's have a little{b}
+chat with Mr. Stickler.{wait: 16}{b}{speed: 4}{color: 2}
+(I hope I don't regret this.){color: 0}{p}{name: 1280}{person: 5 68 67}{speed: 3}
+He is a valuable witness!{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(He is a bit{wait: 6} "precious",{wait: 6} I'll{b}
+give him that.){color: 0}{nextpage_button}{hidetextbox: 1}{wait: 30}{bgcolor: 516 1 31}{wait: 25}{0x4d: 39 1}{person: 0 0 0}{fademusic: 0}{music: 28 0}{bgcolor: 258 1 31}{wait: 15}{wait: 40}{name: 7680}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Please,{wait: 8} keep this brief,{wait: 8} if{b}
+you would.{wait: 16} {speed: 3}I'm quite busy.{p}{hidetextbox: 1}{person: 30 673 673}{personvanish: 3 2}{wait: 32}{person: 30 679 679}{0x63}{person: 30 680 680}{wait: 60}{person: 30 674 673}{hidetextbox: 0}
+I need to finish this paper{0x5a}{speed: 8}...{wait_noanim: 30}{b}{fademusic: 30}{person: 30 695 695}{animation: 219 1}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Nyurk!{wait: 12} I-It's you!!!{nextpage_button}{name: 1024}{speed: 3}
+...{wait: 20}Mr. Stickler.{wait: 16} We'd like to{b}
+have a few words with you.{p}{name: 7680}{speed: 6}
+..{speed: 8}..{speed: 10}..{p}{person: 30 674 673}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}Very well.{wait: 20} {speed: 3}As long as{b}
+they're few.{nextpage_button}{name: 1024}{color: 2}
+(Nothing would make me{b}
+happier,{wait: 10} believe me.){speed: 255}{color: 0}{nextpage_button}{fademusic: 0}{music: 17 0}{0x10: 32902}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{endjmp}
+
+{{2}}
+{bop}{endjmp}
+
+{{3}}
+{bop}{endjmp}
+
+{{4}}
+{bop}{endjmp}
+
+{{5}}
+{bop}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{person: 0 0 0}{name: 1024}That security camera is{b}
+looking at me.{p}
+I wonder if they tape all{b}
+of this.{nextpage_button}{0x51: 0 53}
+{42497}e{0x35: 34560 @RelativeAddress0}{0x35: 34817 @RelativeAddress1}{hidetextbox: 1}{personvanish: 3 1}{person: 14 350 350}{wait: 16}{hidetextbox: 3}{special_jmp}{@RelativeAddress0}{hidetextbox: 1}{personvanish: 3 1}{person: 30 673 673}{wait: 16}{@RelativeAddress1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{person: 0 0 0}{name: 1024}A security guard.{wait: 16} He stands{b}
+here,{wait: 8} watching this room.{p}
+I have no idea if he's{b}
+listening to us talk.{p}
+I'm not even sure he's{b}
+breathing.{nextpage_button}{0x51: 0 53}
+{42497}{310}{0x35: 34560 @RelativeAddress2}{0x35: 34817 @RelativeAddress3}{hidetextbox: 1}{personvanish: 3 1}{person: 14 350 350}{wait: 16}{hidetextbox: 3}{special_jmp}{@RelativeAddress2}{hidetextbox: 1}{personvanish: 3 1}{person: 30 673 673}{wait: 16}{@RelativeAddress3}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{name: 1024}{person: 30 32768 32768}{hidetextbox: 0}Mr. Stickler.{wait: 16}{b}
+On the night of the murder,{wait: 8}{b}
+you stole...{p}{name: 7680}{person: 30 678 677}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Wait!{wait: 16} {speed: 4}I can't help but feel{b}
+that I'm being misunderstood.{p}{name: 1024}{person: 30 673 673}
+...{wait: 20}How,{wait: 8} exactly?{p}{name: 7680}{person: 30 686 685}
+Yes,{wait: 8} that night,{wait_noanim: 20} {bg: 120}{person: 0 0 0}I obtained{b}
+a pair of panties,{wait: 8} it's true.{p}{speed: 2}
+However!{wait: 20} {speed: 3}It was my burning{b}
+curiosity that drove me to{b}
+do it!{wait: 16} {speed: 2}Nothing more!{nextpage_button}{0x4d: 39 0}{name: 1280}{person: 5 76 75}{speed: 3}
+You wanted to know the trick{b}
+to my panties,{wait: 8} right?{p}{0x4d: 39 1}{name: 7680}{person: 30 695 695}{animation: 219 1}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+Y-{wait: 10}You're{bgcolor: 2305 8 31} here, too!?{nextpage_button}{0x4d: 39 0}{name: 1280}{person: 5 67 67}{bgcolor: 2305 8 31}{speed: 3}
+...?{p}{0x4d: 39 1}{name: 7680}{person: 30 678 677}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Oh,{wait: 8} Great Trucy!{wait: 16} Teach me!{p}{0x4d: 39 0}{name: 1280}{person: 5 81 81}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+Eh!?{p}{0x4d: 39 1}{name: 7680}{person: 30 678 677}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+I must know the secret of{b}
+your panties!{p}{person: 30 689 688}{speed: 3}
+My very existence hangs in{b}
+the balance!{p}{person: 30 678 677}
+Please,{wait: 8} make me your{b}
+apprentice!{nextpage_button}{0x4d: 39 0}{name: 1280}{person: 5 84 83}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Apollo!{wait: 16}{b}{speed: 3}
+Help!{nextpage_button}{name: 1024}
+I dunno,{wait: 16} {0x4d: 39 1}{person: 30 685 685}{bgcolor: 2305 8 31}I think he'd make{b}
+a great{wait: 6} "lovely assistant".{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 4}
+Don't say that,{wait: 8} Apollo...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 30 32768 32768}{wait: 16}{0x10: 32958}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{name: 1024}{person: 30 673 673}{hidetextbox: 0}Could you relate what you{b}
+saw the night of the murder{b}
+to us one more time?{p}{name: 7680}{person: 30 674 673}
+...{wait: 20}Why not.{wait_noanim: 20} {person: 30 686 685}Though it hardly{b}
+differs from the testimony{b}
+I gave in court.{p}{person: 30 683 682}
+The defendant was there in{b}
+the park that night,{wait: 8} of this{b}
+I'm quite certain.{p}{bg: 117}{person: 0 0 0}
+He was pointing a pistol{speed: 8}...{wait: 25}{b}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+or something like that at{b}
+the victim!{p}{speed: 3}
+That's when I shouted,{wait: 8} "Stop,{wait: 12}{b}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}
+you two!{wait: 16} {speed: 2}Let's resolve this{b}
+like gentlemen!"{p}
+...{wait: 20}And the next moment,{wait: 8} a shot{wait: 16}{b}{bg: 4095}{sound: 96 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+was{bgcolor: 2305 8 31} fired.{p}{0x4d: 39 1}{person: 30 688 688}{name: 1024}{speed: 5}
+And this is all true?{wait: 30}{b}{speed: 4}
+Really?{p}{name: 7680}{person: 30 689 688}{speed: 4}
+My panties are gone.{b}
+My innermost heart revealed.{p}{person: 30 674 673}{speed: 3}
+What further reason could I{b}
+possibly have to lie?{nextpage_button}{name: 1024}{color: 2}
+(I can't think of anything{b}
+he'd want to hide more than{b}
+panty-snatching,{wait: 8} true.){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 1280}{personvanish: 3 1}{person: 5 93 92}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+It sounds like Wocky was at{b}
+the scene of the crime,{wait: 8}{b}
+after all.{p}{name: 1024}{person: 5 92 92}{speed: 4}
+How I wish it weren't so.{speed: 255}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 30 32768 32768}{wait: 16}{0x10: 32959}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{name: 7680}{person: 30 678 677}{showphoto: 59}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}Th-{wait: 8}That's it!{wait: 16} The mystery!{wait: 16}{b}
+The unanswerable riddle!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Actually,{wait: 8} they're just a{b}
+normal pair of panties.{p}{bganim: 98 579}{0x4d: 39 1}{name: 7680}{person: 30 695 695}{animation: 219 1}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Wh-{wait: 8}What!?{b}{speed: 3}
+How is that possible?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{name: 1280}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+It just takes practice,{wait_noanim: 20}{b}{person: 5 74 73}
+that's all.{nextpage_button}{0x4d: 39 1}{name: 7680}{person: 30 678 677}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Then you must teach me!{wait: 20}{b}{speed: 3}
+You must!{p}{person: 30 686 685}{speed: 4}
+To think,{wait: 12} if I could produce{b}
+a pencil,{wait: 8} an eraser,{wait: 8} a text{b}
+book,{wait: 12} and a lunch...{nextpage_button}{person: 30 689 688}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 20}all from a pair of panties!{wait: 16}{b}
+My life would be complete!{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(He's serious,{wait: 8} isn't he.){speed: 255}{color: 0}{nextpage_button}{hidetextbox: 1}{person: 30 32768 32768}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{0x4d: 39 1}{name: 1024}{person: 30 685 685}{hidetextbox: 0}{speed: 6}...{p}{person: 30 685 685}{speed: 4}{color: 2}
+(...{wait: 20}Fine,{wait: 8} ignore my evidence.{b}
+See if I care.){p}{person: 30 688 688}{speed: 3}
+(I wonder what he's thinki...{wait: 20}{b}
+On second thought,{wait: 8} let's{b}
+not go there.){p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{endjmp}
+
+{{13}}
+{bop}{endjmp}
+
+{{14}}
+{bop}{endjmp}
+
+{{15}}
+{bop}{endjmp}
+
+{{16}}
+{bop}{endjmp}
+
+{{17}}
+{bop}{endjmp}
+
+{{18}}
+{bop}{endjmp}
+
+{{19}}
+{bop}{endjmp}
+
+{{20}}
+{bop}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16{b}
+Detention Center{b}
+Visitor's Room{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{person: 0 0 0}{name: 1024}
+Um...{wait: 20} I was hoping to meet{b}
+with my client?{p}{name: 13312}{sound: 52 1}{bgcolor: 2305 8 31}
+Wocky Kitaki's just finished{b}
+questioning.{wait: 16} I'll bring him{b}
+out.{p}{0x4d: 39 0}{name: 1280}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}
+Great!{wait: 16}{b}
+Finally!{nextpage_button}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{0x4d: 39 1}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{wait: 40}{person: 14 358 357}{name: 3584}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 3}
+Yo,{wait: 12} 'sup,{wait: 12} my little imposter!{b}{fademusic: 0}{music: 20 0}{nextpage_button}{0x4d: 39 0}{name: 1280}{person: 5 82 81}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+Eeek!{wait: 15}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+Wh-{wait: 8}What did you call me?{nextpage_button}{0x4d: 39 1}{name: 3584}{person: 14 370 369}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Dizzam!{wait: 15} It's you!?{wait: 12} {speed: 3}Sorry,{wait: 8} G,{wait_noanim: 18}{b}{bgcolor: 2305 8 31}{person: 14 362 361}
+thought you were Alita.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{sound: 52 1}{bgcolor: 2305 8 31}
+"My little imposter" sure is{b}
+a strange nickname.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 3584}{person: 14 351 350}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+It's a clink thang.{wait: 15}{b}
+You wouldn't understand.{p}{person: 14 360 359}{speed: 4}
+D-Did I say{wait: 6} "imposter"?{wait: 16}{b}
+I meant{wait: 8} "poster"{speed: 8}...{wait: 20} {speed: 4}li{bgcolor: 2305 8 31}{sound: 51 1}ke{b}{person: 14 358 357}{speed: 4}{wait: 8}
+"poster girl",{wait: 8} 'aight?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+If you're going to drop part{b}
+of that,{wait: 8} why not drop{wait: 8} "poster"{wait: 8}{b}
+and just call her{wait: 5} "girl"?{nextpage_button}{0x4d: 39 1}{name: 3584}{person: 14 355 354}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Cause she's so much more than{b}
+that,{wait: 8} G.{wait: 16} She's like...{wait: 20} She's{b}
+like an angel.{wait: 15} A fallen angel.{p}{person: 14 362 361}{speed: 5}
+...{wait: 20}{speed: 3}So.{wait: 18} What can I do you for?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+...{wait: 20}You don't look so chipper{b}
+today,{wait: 10} Wocky.{nextpage_button}{name: 1024}{speed: 4}
+Worried about your,{wait: 12} um,{wait: 8}{b}
+heart condition,{wait: 12} maybe?{nextpage_button}{hidetextbox: 1}{fademusic: 30}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 27}{name: 3584}{person: 14 351 350}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{bg: 27}{name: 3584}{person: 14 351 350}{speed: 2}
+That was the wackest thing{b}
+of all!{wait: 16} {speed: 3}All us G's lining up,{wait: 8}{b}
+taking eye exams...{p}{person: 14 370 369}{speed: 3}
+Better to die young than{person: 14 372 372}{b}{shake: 30 0}{bgcolor: 2305 8 31}
+fade away,{wait: 8} bizzzoy!{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{bg: 26}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 4}
+...{wait: 20}A relief to hear.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 14 361}{wait: 32}{hidetextbox: 0}{person: 14 362 361}{name: 3584}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 2}
+Eh?{wait: 16} Wh-{wait: 12}What's a relief!?{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}{speed: 3}
+Oh?{wait: 16} Did your father not{b}
+tell you?{p}
+That bullet you carry so close{b}{person: 6 149 148}
+to your heart{speed: 8}...{wait: 20} {speed: 3}if not{b}
+attended to immediately...{p}{person: 6 146 145}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 20}It could kill you.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{0x4d: 39 1}{name: 3584}{person: 14 351 350}{0x5a}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{name: 3584}{person: 14 351 350}{speed: 2}
+M-{wait: 8}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}Man...{wait_noanim: 15}{b}{person: 14 355 354}{speed: 4}
+I ain't trying to hear that!{p}{person: 14 370 369}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+A man fights to protect what's{b}
+valuable to him,{wait: 12} you know{b}
+what I'm saying?{p}{name: 3584}{person: 14 355 354}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+...{wait: 20}I miss my fallen angel!{b}{bgcolor: 2305 8 31}{shake: 30 1}{person: 14 355 354}{p}{person: 14 351 350}
+Hey,{wait: 12} you go get Alita for{b}
+me.{wait: 16} You're my lawyer,{wait: 8}{b}{person: 14 356 356}{fademusic: 0}{music: 20 100}{0x63}
+aren't you?{nextpage_button}{person: 14 372 372}{name: 1024}{speed: 4}{color: 2}
+(Lawyer,{wait: 12} not gopher...){color: 0}{b}{p}{person: 14 369 369}{0x10: 32903}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{name: 1024}{person: 14 350 350}{hidetextbox: 0}{speed: 3}So,{wait: 10} I hear you're to be{b}
+married next month?{p}{name: 3584}{person: 14 358 357}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Straight up!{wait: 15} {speed: 3}We poured the{b}
+nuptial 40 out on the stoop!{p}
+Alita!{wait: 15} Oh,{wait: 8} snapplecakes!{wait: 16}{b}
+She soooo foine!{p}{name: 1024}{person: 14 357 357}{speed: 4}{color: 2}
+(I think he's smitten with{b}
+her in his own weird way.){color: 0}{nextpage_button}{0x4d: 39 0}{name: 1280}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+I was wondering,{wait: 12} how did you{b}
+two meet?{p}{person: 5 76 75}
+I asked Tiala,{wait: 12} but she{b}
+was...{wait: 20} very vague.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 3584}{person: 14 360 359}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Huh?{wait: 15} {speed: 3}Well,{wait: 10} man,{wait: 8} if she{b}
+wouldn't tell you...{wait: 20}{p}{person: 14 358 357}
+I'd best hold my tongue,{wait: 8}{b}
+you feel me?{nextpage_button}{0x4d: 39 0}{name: 1280}{person: 5 81 81}{shake: 30 0}{bgcolor: 2305 8 31}
+Wha--!?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 3584}{person: 14 360 359}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Man,{wait: 8} what's past is past.{wait: 16}{b}
+She knows that.{p}{0x4d: 39 1}{person: 14 351 350}{speed: 4}
+When I'm with Alita...{p}{person: 14 358 357}{speed: 3}
+I feel like there's things{b}
+worth protecting out there.{wait: 16}{b}
+You feel me?{p}
+And my Alita,{wait: 8} she's down{b}
+with that all the way.{p}{name: 1024}{person: 14 357 357}{speed: 4}{color: 2}
+(Hmm,{wait: 8} so both of them are{b}
+mum about their past...){color: 0}{p}{0x10: 32915}{0x51: 0 53}
+{44545}{1628}{0x37: 2 0}{0x37: 3 1}{hidetextbox: 3}{special_jmp}{endjmp}{endjmp}{0x35: 49153 @RelativeAddress4}{0x37: 19 0}{0x37: 20 1}{0x10: 32960}{@RelativeAddress4}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 86 85}{hidetextbox: 0}{speed: 3}Do you think you could tell{b}
+us what happened with you{b}
+and Pal Meraktis...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 3584}{person: 14 351 350}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+...{wait: 20}There's something you{b}
+should know.{p}{speed: 3}
+We Kitakis are having what{b}
+you might call a feud with{b}
+the Rivales Family.{p}{name: 3584}{person: 14 360 359}{speed: 4}
+So,{wait: 10} 'bout six months back...{p}{person: 14 362 361}{speed: 3}
+I go into Rivales turf,{wait: 8}{b}
+packing a knife,{wait: 8} right?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+And{0x5a}{speed: 8}...{wait: 20}{b}{person: 0 0 0}{bg: 118}{sound: 96 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 3}
+You were shot?{nextpage_button}{name: 3584}{speed: 3}
+Coldest thing I ever seen.{p}{0x4d: 39 1}{person: 14 360 359}{speed: 3}
+One shot,{wait: 8} to the heart,{wait: 8} but my{b}
+homies weren't too late.{wait: 15}{b}
+It's a miracle that I lived.{p}{person: 14 358 357}
+It's already considered one{b}
+of the seven wonders of the{b}
+Kitaki Family,{wait: 8} you know that?{nextpage_button}{name: 1024}
+So,{wait: 12} you were taken to the{b}
+Meraktis Clinic then?{nextpage_button}{name: 3584}{person: 14 360 359}
+You shoulda seen their faces{b}
+when they wheeled me in.{p}{person: 14 353 352}
+You can't just let the{b}
+Boss's son die,{wait: 8} you know?{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(I'd hate to have been in{b}
+that doctor's shoes...){p}{person: 14 356 356}
+(Mr. Kitaki's scary enough{b}
+when he's not angry...){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{name: 1280}{0x4d: 39 0}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+But the bullet that hit you...{p}{person: 5 86 85}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}it was never removed?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 1024}{person: 14 372 372}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}{color: 2}
+(And it's still threatening{b}
+his life!){color: 0}{p}{name: 3584}{person: 14 355 354}{speed: 4}
+That doctor...{wait: 15} {speed: 2}He did it{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+on purpose!{p}{speed: 3}
+The Rivales paid him off,{wait: 8}{b}
+I'm sure of it!{nextpage_button}{name: 1024}{person: 14 369 369}{color: 2}
+(I need to hear more about the{b}
+night of the murder,{wait: 12} that{b}
+much is clear.){color: 0}{p}{0x10: 32916}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{24}}
+{bop}{name: 3584}{person: 14 351 350}{hidetextbox: 0}{speed: 3}Life in the Family is a G{b}
+thang.{wait: 20} It's about being a man.{p}{person: 14 356 356}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...{wait: 20}You know what I'm saying?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Sorry,{wait: 10} I'm not up on my{b}
+G things.{wait: 16} I'm not even sure{b}
+what a G thing is...{nextpage_button}{0x4d: 39 1}{name: 3584}{person: 14 360 359}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+But my old man,{wait: 10} he's gone{b}
+soft.{p}{speed: 4}
+He says the old rival gang{b}
+days are over.{wait: 10} {speed: 3}He just wants{b}
+to make money!{nextpage_button}{0x4d: 39 0}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{speed: 3}
+Isn't that a good thing?{nextpage_button}{0x4d: 39 1}{name: 3584}{person: 14 355 354}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Man,{wait: 15} {speed: 3}there ain't no soul{b}
+in making money!{p}{person: 14 362 361}
+Better to live fast and{b}
+die young.{wait: 12} Fo'shizzle!{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(*sigh*...){color: 0}{p}{name: 3584}{person: 14 351 350}{speed: 3}
+Wait till I run the yard.{wait: 20}{b}
+Then everyone'll know what{b}
+time it is.{p}{person: 14 370 369}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+That's right!{bgcolor: 2305 8 31}{wait: 16} O.G. time all{b}
+the time.{wait: 16} Represent!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Apollo,{wait: 8} why does he keep{b}
+talking about{wait: 6} "Old Guys"?{p}{name: 1024}{person: 5 75 75}{speed: 4}
+I don't think that's what{b}
+"O.G." means,{wait: 8} Trucy.{color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{person: 14 350 350}{0x10: 32917}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{25}}
+{bop}{name: 1024}{person: 14 350 350}{hidetextbox: 0}{speed: 4}Um...{wait: 15} Actually,{wait: 10} there's a{b}
+question I've been wanting{b}
+to ask you for a while now.{p}{speed: 6}
+That is,{wait: 12} uh...{wait: 20} {speed: 4}Did you do it?{b}{showphoto: 52}
+Did you sho{bgcolor: 2305 8 31}ot him?{p}{name: 3584}{person: 14 359 359}{speed: 7}
+...{wait_noanim: 20}{b}{person: 14 353 352}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+I dunno.{p}{name: 1024}{person: 14 359 359}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Eh?{nextpage_button}{removephoto}{name: 3584}{person: 14 360 359}
+The day of that check-up,{wait: 12}{b}
+when I found out about the{b}
+bullet by my heart...{p}{speed: 4}
+...I{speed: 8}...{wait: 15} {speed: 3}borrowed a gun from{b}{person: 14 353 352}
+the Family's stash.{p}{speed: 3}
+Figured I'd give that doctor{b}{person: 14 355 354}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+a taste of his own bad{b}
+medicine.{p}{name: 1024}{person: 14 354 354}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}{color: 2}
+(Uh oh...{wait: 15} {speed: 4}I don't like where{b}
+this is going...){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+But...{wait: 12} you were carrying a{b}{showphoto: 70}
+knife,{wait: 8} weren't you?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 3584}{person: 14 360 359}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Oh that?{wait: 10} {speed: 3}Yeah,{wait: 12} well,{wait: 16} {person: 14 370 369}never{b}
+can be too careful,{wait: 14} I say.{p}{speed: 3}
+So I'm on my way to the{b}
+clinic,{wait: 10} right?{nextpage_button}{hidetextbox: 1}{person: 0 0 0}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bganim: 98 579}{bg: 117}{bgcolor: 770 1 31}{wait: 15}{name: 3584}{hidetextbox: 0}{speed: 3}
+When I run into him in the{b}
+park{speed: 8}...{wait: 12} {speed: 4}and he's dragging this{b}
+noodle stand behind him!{nextpage_button}{0x4d: 39 0}{name: 1280}{name: 1280}{person: 5 76 75}{speed: 3}
+Wait,{wait: 8} you didn't put him{b}
+up to that?{p}{person: 5 72 69}{speed: 4}
+Like,{wait: 10} you know,{wait: 8} in the movies?{p}{person: 5 74 73}
+"If you value your life,{wait: 8}{b}
+you'll bring the stand..."{nextpage_button}{0x4d: 39 1}{name: 3584}{person: 14 360 359}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}Shorty,{wait: 10} you're more wacked{b}
+than I am.{wait: 16} And that's saying{b}
+something.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{0x59}{shake: 30 0}{speed: 5}
+...{wait: 15}{speed: 4}But I was serious!{0x59}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 3584}{person: 14 360 359}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+The thing is,{wait: 12} I don't remember{b}
+what happened next all too{b}
+well.{nextpage_button}{name: 1024}{person: 14 359 359}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+You don't remember...?{p}{name: 3584}{person: 14 360 359}
+But,{wait: 8} the way I see it,{wait: 8} if{b}
+there wasn't anyone else{b}
+there that night...{p}{speed: 4}
+...{wait: 20}then I guess it probably{b}
+was me who did him in,{wait: 8} you{b}
+know what I'm saying?{nextpage_button}{0x10: 32918}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{26}}
+{bop}{0x51: 0 53}{42496}{removephoto}{jmp: 164}{endjmp}{endjmp}{0x35: 37889 @RelativeAddress5}{0x10: 33292}{jmp: 155}{endjmp}{endjmp}{@RelativeAddress5}{name: 1024}{person: 14 350 350}{speed: 4}About these weapons...{wait: 15} {speed: 3}the{b}
+pistol and the knife.{p}{name: 3584}{person: 14 353 352}{speed: 3}
+They belong to the Family.{wait: 15}{b}
+I snuck 'em out that night.{p}{name: 1024}{person: 14 359 359}{speed: 3}
+So,{wait: 8} the{wait: 6} "killer"{wait: 6} Mr. Stickler{b}{showphoto: 42}
+says he saw that night was...{p}{name: 3584}{person: 14 362 361}{speed: 4}
+I guess it was me.{wait: 12} {speed: 3}I was{b}
+there,{wait: 8} after all.{p}{bganim: 98 579}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{person: 14 361 361}{speed: 2}
+Gak{bgcolor: 2305 8 31}...!{wait: 12}{b}{speed: 4}{color: 2}
+(We're finished...){color: 0}{p}{0x4d: 39 0}{name: 1280}{person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Um...{wait: 10} Yo,{wait: 8} Wocky!{p}{speed: 3}
+Do you think you could tell{b}
+us exactly what hap{shake: 30 0}{bgcolor: 2305 8 31}pened{b}
+that night?{nextpage_button}{0x4d: 39 1}{name: 3584}{person: 14 356 356}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Heh{speed: 8}...{wait_noanim: 30}{b}{person: 14 351 350}{speed: 4}
+You don't beat around the{b}
+bush,{wait: 8} do you?{nextpage_button}{person: 14 358 357}{bgcolor: 2305 8 31}
+I like your style,{wait: 8} shorty.{wait: 16}{p}{0x10: 32942}{0x35: 37633 @RelativeAddress6}{0x37: 2 0}{0x37: 19 1}{hidetextbox: 3}{special_jmp}{endjmp}{endjmp}{@RelativeAddress6}{0x35: 49153 @RelativeAddress7}{0x37: 3 0}{0x37: 11 1}{0x10: 32960}{@RelativeAddress7}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{27}}
+{bop}{0x51: 0 53}{42497}{348}{name: 3584}{person: 14 359 359}{speed: 8}...{wait: 20}{b}{shake: 30 0}{bgcolor: 2305 8 31}{person: 14 360 359}{speed: 5}
+Yeah,{wait: 8} whatever.{b}{nextpage_button}{person: 14 359 359}{name: 1024}{speed: 4}{color: 2}
+(He seems preoccupied...{wait: 16} I'm{b}
+not sure he even looked at{b}
+my evidence...){color: 0}{p}{name: 3584}{person: 14 358 357}{speed: 4}
+Alita,{wait: 8} man.{0x5a}{wait: 20}{b}{0x59}
+Alita.{nextpage_button}{hidetextbox: 3}{special_jmp}{jmp: 164}{endjmp}
+
+{{28}}
+{bop}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16{b}
+Detention Center{b}
+Visitor's Room{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{0x4d: 39 0}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}
+Well,{wait: 8} the time of the decision{b}
+is upon us!{p}{person: 5 96 95}
+Which one of our two jailbirds{b}
+do we want to talk to?{p}{name: 13312}{person: 5 81 81}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Excuse me!{p}{name: 13312}{person: 5 67 67}
+Both detainees are currently{b}
+in questioning to corroborate{b}
+their accounts.{p}{name: 1024}{person: 5 75 75}{showphoto: 42}{speed: 4}
+Mr. Stickler and{wait: 16}{removephoto}{showphoto: 293} Wocky?{b}
+Both of them?{p}{removephoto}{name: 1024}{person: 5 75 75}{color: 2}
+(I pity the questioner...){color: 0}{nextpage_button}{name: 1280}{person: 5 68 67}{speed: 3}
+I guess we'll be back then!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{0x10: 178}{0x10: 179}{0x10: 32904}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{29}}
+{bop}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16{b}
+Detention Center{b}
+Visitor's Room{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{name: 3584}{person: 14 358 357}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Don't cry angel,{wait: 8} Daddy's{b}
+back and Daddy's...{p}{speed: 4}
+...{wait: 20}Oh.{wait_noanim: 20}{b}{person: 14 355 354}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+You again.{fademusic: 0}{music: 20 0}{p}{name: 1024}{person: 14 354 354}{speed: 4}
+Do you always have to announce{b}
+your entrances like that?{p}{name: 3584}{person: 14 360 359}{speed: 3}
+Man,{wait: 8} my old man,{wait: 12} he...{wait: 18}{b}
+Man!{p}{person: 14 372 372}{shake: 30 0}{bgcolor: 2305 8 31}
+Now I'm all in a funk,{wait: 8} and{b}
+it's his fault.{p}{person: 14 371 371}{name: 1024}{person: 14 372 372}{speed: 4}{color: 2}
+(One can only assume that his{b}
+father tried to teach him a{b}
+lesson.{wait: 16} And failed,{wait: 8} clearly.){color: 0}{p}{name: 3584}{person: 14 370 369}{speed: 3}
+You two got your work cut{b}
+out for you,{wait: 8} straight up.{p}{person: 14 362 361}
+Course I don't care if they{b}
+lock me up.{wait: 20} I'm ready to go!{p}{name: 1024}{person: 14 361 361}{speed: 4}{color: 2}
+(Some days,{wait: 8} I wonder why{b}
+I do what I do.){color: 0}{p}{0x37: 20 0}{0x37: 11 0}{0x37: 13 1}{0x10: 32934}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{30}}
+{bop}{name: 3584}{person: 14 362 361}{hidetextbox: 0}{speed: 3}Hey man,{wait: 8} you won't see me{b}
+bugging 'bout one or two{b}
+guilty charges.{nextpage_button}{0x4d: 39 0}{name: 1280}{person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+But what if you're found{b}
+guilty of murder!?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 3584}{person: 14 362 361}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Hey,{wait: 8} it's all experience,{wait: 10}{b}
+you feel me,{wait: 8} shorty?{wait: 16}{b}
+Like a badge of honor.{p}{person: 14 370 369}
+...{wait: 20}They don't give the death{b}
+penalty,{wait: 8} do they?{b}{person: 14 371 371}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 86 85}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+...{wait: 20}You didn't really do it,{wait_noanim: 20}{b}{person: 5 86 85}
+did you?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 3584}{person: 14 371 371}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait: 40}{nextpage_nobutton}{person: 14 360 359}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Maybe I did,{wait: 16} maybe I didn't.{wait: 20}{p}{person: 14 372 372}{name: 1024}{color: 2}
+(If I've learned one thing{b}
+today{speed: 8}...{wait: 20} {speed: 3}it's that "silence"{b}
+speaks louder than words.){color: 0}{p}{0x10: 32936}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{31}}
+{bop}{name: 3584}{person: 14 360 359}{hidetextbox: 0}{speed: 4}Man,{wait: 12} {speed: 3}my old man is wack.{wait: 16}{b}
+Disappointing,{wait: 8} that's what{b}
+he is.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+I heard he wants to leave{b}
+the mob?{nextpage_button}{0x4d: 39 1}{name: 3584}{person: 14 355 354}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Over my de{bgcolor: 2305 8 31}ad body!{nextpage_button}{person: 14 360 359}{speed: 3}
+I spend my life,{wait: 12} {speed: 3}trying to{b}
+keep it real,{wait: 8} being an O.G.{b}
+and never stepping down.{p}{person: 14 351 350}
+Now my old man wants to go{b}
+soft?{wait: 15} Fine,{wait: 8} let him.{wait: 15} Just{b}
+leave me out of it.{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(*sigh*){color: 0}{p}{name: 3584}{person: 14 358 357}{speed: 3}
+The day I get out of the{b}
+clink...{p}
+That's the day Alita and{b}
+I start the next generation{b}
+of the Kitaki Family.{nextpage_button}{name: 1024}{person: 14 357 357}{speed: 4}{color: 2}
+(Please don't talk as though{b}
+it's assumed you're going to{b}
+jail...{wait: 20} for my sake.){color: 0}{nextpage_button}{0x10: 32937}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{32}}
+{bop}{name: 3584}{person: 14 351 350}{hidetextbox: 0}{speed: 3}'Bout half a year ago,{person: 0 0 0}{bg: 118}{sound: 96 1}{shake: 30 1}{bgcolor: 2305 8 31} I was{b}
+shot during a little turf war{b}
+with another family.{p}
+I was ready to die,{wait: 10} sure.{p}
+But they came in and got me,{wait: 10}{b}
+hauled me off to the doc's.{nextpage_button}{0x4d: 39 0}{name: 1280}{person: 5 76 75}{speed: 3}
+...{wait: 20}The{wait: 6} Meraktis Clinic?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 3584}{person: 14 360 359}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+That's where I met her.{wait_noanim: 20}{b}{person: 14 358 357}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+My fallen angel...{nextpage_button}{name: 1024}{person: 14 357 357}{speed: 3}
+You mean Alita Tiala?{p}{name: 3584}{person: 14 358 357}
+She was scared of me at{b}
+first,{wait: 8} turns out.{p}{speed: 3}
+But you know what they say --{wait_noanim: 20}{b}{person: 14 370 369}
+the{bgcolor: 2305 8 31} bad guy always gets the{b}{person: 14 371 371}
+ladies.{p}{name: 1024}{speed: 5}
+Right...{nextpage_button}{name: 3584}{person: 14 370 369}{speed: 3}
+She was done with that clinic{b}
+anyhow.{p}{person: 14 353 352}
+So I was like,{wait: 8} I'll take you{b}
+on,{wait: 8} woman!{p}
+Straight gangster style.{wait_noanim: 25}{b}{person: 14 358 357}{speed: 4}
+Guess what she said?{nextpage_button}{0x4d: 39 0}{name: 1280}{person: 5 68 67}{bgcolor: 2305 8 31}{speed: 3}
+What did she say?{nextpage_button}{0x4d: 39 1}{name: 3584}{person: 14 353 352}{bgcolor: 2305 8 31}{shake: 30 0}
+C'mon,{wait: 12} give it some thought!{p}{person: 14 360 359}{speed: 4}
+She said it real quiet-like,{b}
+on the down low,{wait: 8} know what{b}
+I'm saying?{p}{person: 14 358 357}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+"I'll leave...{wait: 20} if you'll marry{b}
+me."{p}{name: 1024}{person: 14 357 357}
+So...{wait: 12} that was the proposal?{p}{name: 3584}{person: 14 360 359}{speed: 2}
+You know it!{wait: 16} {speed: 3}An oath of love,{wait: 8}{b}
+right there in the hospital{b}
+room.{nextpage_button}{person: 14 370 369}
+Just like that,{wait: 6} the op was{b}{person: 14 372 372}
+done,{wait: 7} and we were outta there.{b}
+See ya later,{wait: 8} bye!{p}{name: 1024}{person: 14 371 371}{speed: 4}
+Um,{wait: 8} about that{wait: 8} "op"...{p}{name: 3584}{person: 14 370 369}{speed: 5}
+Yeah.{wait: 15} {speed: 3}Didn't go so well after{b}
+all,{wait: 8} did it?{p}{person: 14 360 359}{speed: 4}
+I know about the report.{wait_noanim: 20}{b}{person: 14 362 361}
+I know it's still in me.{p}{0x51: 0 53}
+{43521}{2442}{0x10: 32938}{0x37: 14 0}{0x37: 15 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{33}}
+{bop}{0x4d: 39 0}{name: 1280}{person: 5 76 75}{hidetextbox: 0}{speed: 3}This health check-up was the{b}
+Boss's idea,{wait: 8} you said?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 3584}{person: 14 360 359}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Yeah.{wait: 15} Can you imagine?{p}{person: 14 355 354}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+What's the point of living{b}
+healthy when you're a G,{wait: 8}{b}
+you know what I'm saying?{nextpage_button}{0x4d: 39 0}{name: 1280}{person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+But didn't you learn about{b}
+the bullet at that check-up?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 3584}{person: 14 360 359}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Yeah...{wait: 12}{p}{person: 14 362 361}{speed: 3}
+That's when I knew that doctor{b}
+had to pay.{p}
+Figured I could get that cap{b}
+pulled after I got my revenge.{p}{person: 14 370 369}
+And hey,{wait: 12} I'm still living{b}
+large now,{wait: 8} aren't I?{p}{name: 1024}{person: 14 372 372}{speed: 4}
+Incidentally...{wait: 18} {speed: 3}had you ever{b}
+had a health check-up before?{p}{name: 3584}{person: 14 370 369}{speed: 3}
+Naw,{wait: 8} my old man suddenly gets{b}
+this idea that we all gotta{b}
+get check-ups!{p}{person: 14 360 359}
+Guess he's getting old.{wait: 16}{b}
+Older,{wait: 8} I mean.{nextpage_button}{0x10: 32939}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{34}}
+{bop}{name: 1024}{person: 14 350 350}{showphoto: 73}{speed: 4}Wocky...{wait: 18} {speed: 3}You don't happen to{b}
+recognize these,{wait: 14} do you?{p}{name: 3584}{person: 14 358 357}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hey!{wait: 15} {speed: 3}Sure I do!{p}
+I was the one who bought 'em{b}
+for her.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+For...{wait: 16} {speed: 3}Ms. Tiala?{nextpage_button}{0x4d: 39 1}{name: 3584}{person: 14 358 357}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Yeah.{wait: 15}{b}
+A birthday present.{p}{speed: 4}
+She's got mad little feet.{b}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Mad!{wait: 16} So cute,{wait: 8} man.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 93 92}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+So these sandals are hers{speed: 8}...{nextpage_button}{removephoto}{name: 1024}{person: 5 92 92}{speed: 4}
+Yeah...{wait: 15} {speed: 3}I kinda had a feeling.{nextpage_button}{0x4d: 39 1}{name: 3584}{person: 14 370 369}{speed: 3}
+What's up with the{b}
+funky vibes?{nextpage_button}{name: 1024}{person: 14 371 371}{speed: 5}{color: 2}
+(*sigh*...){color: 0}{nextpage_button}{0x51: 0 53}
+{44033}{1058}{0x19: 16458 16459}{name: 0}{color: 2}{speed: 4}Sandals updated in the Court{b}
+Record.{nextpage_button}{speed: 255}{color: 0}{0x10: 32940}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{35}}
+{bop}{name: 3584}{person: 14 351 350}{speed: 3}Huh?{wait: 12} What's that?{wait: 16} Some kinda{b}
+X-ray?{p}{speed: 4}
+Wait...{p}{name: 1024}{person: 14 359 359}{speed: 4}
+That's right,{wait: 12} Wocky.{wait: 15}{b}{speed: 3}
+It's yours.{p}{name: 3584}{person: 14 358 357}{speed: 3}
+Hey look,{wait: 12} I don't smoke or{b}
+nothing.{wait: 20} I'll live long,{wait: 8}{b}
+right?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 93 92}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+I don't think he gets it,{wait: 8}{b}
+Apollo...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 1024}{person: 14 357 357}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Ah,{wait: 10} take a closer look.{wait: 12}{b}
+Here,{wait: 8} in particular...{p}{wait: 6}
+...{wait: 25}where it says "Nurse".{b}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 20}It's signed{wait: 8} {speed: 3}"Alita Tiala".{p}{name: 3584}{person: 14 360 359}{speed: 5}
+...Huh.{wait: 12} {speed: 4}You lawyers do your{b}{person: 14 357 357}
+homework.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 0}{personvanish: 3 1}{name: 1280}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+So,{wait: 12} {speed: 3}you met Ms. Tiala{b}
+when you...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{0x4d: 39 1}{personvanish: 3 1}{name: 3584}{person: 14 358 357}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Yeah,{wait: 10} I met her at the clinic.{wait: 15}{b}
+So?{p}{name: 1024}{person: 14 357 357}{speed: 4}
+Could you tell us a bit about{b}
+the circumstances of your{b}
+meeting?{p}{name: 3584}{person: 14 358 357}{shake: 30 1}{speed: 3}
+Fine,{wait: 10} fine!{wait: 15} I'll tell you{b}
+how we met if you want to{b}
+know that bad.{p}{0x51: 0 53}
+{51713}{1514}{0x10: 32970}{0x37: 13 0}{0x37: 14 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{36}}
+{bop}{name: 3584}{person: 14 359 359}{speed: 8}...{wait: 20}{b}{shake: 30 0}{bgcolor: 2305 8 31}{person: 14 360 359}{speed: 5}
+Man...{wait: 20}{speed: 3} that is so far off the{b}
+hook,{wait: 8} it's off the chain,{wait: 8} G!{nextpage_button}{person: 14 359 359}{name: 1024}{color: 2}
+(He seems preoccupied with{b}
+something else...){color: 0}{p}{person: 14 358 357}{name: 3584}{speed: 4}{0x5a}{wait: 20}
+...{0x59}{wait: 20}Wonder how my Alita's{b}
+doing.{wait: 16} Man,{wait: 8} I miss her.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}

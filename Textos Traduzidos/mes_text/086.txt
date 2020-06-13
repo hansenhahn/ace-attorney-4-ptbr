@@ -1,0 +1,1180 @@
+
+
+{{0}}
+{bop}{0x62: 4 4}{0x25: 1}{bg: 235}{bganim: 98 267}{person: 0 0 0}{name: 0}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{0x74: 2 0}{center_text: 1}{color: 3}Present Day{b}
+Borscht Bowl Club{color: 0}{nextpage_button}{center_text: 0}{speed: 255}{hidetextbox: 1}{wait: 30}{person: 8 210 210}{personvanish: 3 2}{wait: 32}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 60}{fademusic: 0}{music: 27 0}{person: 8 202 201}{name: 1536}{hidetextbox: 0}{speed: 4}
+...{wait: 16}{speed: 3}I'll be taking my leave,{wait: 8}{b}
+now.{p}
+Still have some work to do{b}
+back at the office.{nextpage_button}{name: 1792}
+...{wait: 16}Then I guess I'll go back{b}
+to my piano.{nextpage_button}{person: 8 211 210}{name: 1536}{speed: 4}
+To be honest,{wait: 12} it's better{b}
+when you aren't playing.{p}{person: 8 204 203}{speed: 3}
+This frigid culinary dungeon{b}
+almost feels...{wait: 16} comfortable.{p}
+...{wait: 16}Later,{wait: 8} then.{nextpage_button}{hidetextbox: 1}{wait: 30}{personvanish: 4 4}{wait: 64}{person: 0 0 0}{wait: 60}{name: 1792}{hidetextbox: 0}{speed: 5}{color: 2}
+(*sigh*...{wait: 16}{b}{speed: 3}
+Two hours left on my shift.){p}{speed: 4}
+(Wonder if we'll get any{b}{wait: 6}
+"customers"{wait: 6} tonight.){nextpage_button}{color: 0}{hidetextbox: 1}{wait: 80}{name: 512}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+...Ahem.{wait: 20} Do you know who{b}{fademusic: 120}
+I am?{nextpage_button}{hidetextbox: 1}{personvanish: 3 2}{person: 32 713 713}{0x5a}{wait: 32}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 40}{name: 1792}{hidetextbox: 0}{speed: 4}
+"Who I Am"?{wait: 8} No...{wait: 20} {speed: 3}But if you{b}
+hum it,{wait: 6} I can play it!{p}
+...Just kidding,{wait: 8} I don't do{b}
+requests.{nextpage_button}{person: 32 714 713}{name: 512}
+How about a different sort{b}
+of request?{nextpage_button}{person: 32 716 715}{speed: 3}
+You see{speed: 3}...{wait: 20} {speed: 3}I play cards.{nextpage_button}{name: 1792}{speed: 8}
+Oh...{wait: 20} {speed: 3}a customer.{nextpage_button}
+I was just hoping someone{b}
+would come in and save me from{b}
+a night at the keys.{p}{name: 512}{speed: 4}
+...I seek a true competition.{b}
+I have heard the Borscht Bowl{b}
+Club is the place for this.{p}{person: 32 714 713}{speed: 3}
+Now I see the rumor is true.{nextpage_button}{name: 1792}{speed: 4}
+...{wait: 16}And this is?{wait: 16}{b}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 20 461 461}{wait: 16}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+A friend of yours?{nextpage_button}{name: 512}{person: 20 450 449}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah!{wait: 8} Don't mind me!{wait: 12} I'm just{b}
+your friendly neighborhood{b}{shake: 30 0}
+newsman{bgcolor: 2305 8 31}!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32 716 715}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 512}{speed: 4}
+...Ah.{wait: 16} {speed: 3}He will not be playing{b}
+tonight.{p}
+When his business is finished,{b}{wait_noanim: 30}{person: 32 714 713}
+I shall send him home.{p}
+This competition will be{b}{person: 32 722 721}
+between us.{wait_noanim: 25}{0x59} No others.{nextpage_button}{hidetextbox: 1}{wait: 60}{fademusic: 0}{music: 29 100}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{bgcolor: 257 1 31}{wait: 7}{name: 1792}{hidetextbox: 0}{speed: 4}
+The Wright Talent Agency{b}
+represents two artists.{p}{speed: 3}
+And I'm number two.{wait: 16} I play{b}
+piano...{wait: 6} Well,{wait: 6} sort of.{p}
+It's actually just a front{b}
+for my real talent{speed: 8}...{p}
+...{speed: 3}which is playing poker.{nextpage_button}{hidetextbox: 1}{0x75}{bop}{bop}{endjmp}{b}{0x75}{color: 0}{bop}{bop}{0x75}{pause}{0x71: 0 0 117}{music: 139 0}{bop}{0x75}{b}
+{16384}{bop}{bop}{0x75}{sound: 0 0}{bop}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{0x75}{b}{p}{bop}{bop}{bg: 4095}{bgcolor: 257 8 31}{wait: 1}{name: 1792}{hidetextbox: 0}{speed: 4}
+Don't ask me how I got{b}
+started.{wait: 20} {speed: 3}I don't remember.{p}{hidetextbox: 1}{0x75}{bop}{bop}{endjmp}{b}{0x75}{color: 0}{bop}{bop}{0x75}{pause}{0x71: 0 0 117}{music: 139 0}{bop}{0x75}{b}
+{16384}{bop}{bop}{0x75}{pause}{0x4a}{bop}{bop}{0x75}{music: 87 0}{bop}{0x75}{b}{b}{bop}{bop}{0x75}{sound: 0 0}{bop}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{0x75}{b}{p}{bop}{bop}{bg: 4095}{bgcolor: 257 8 31}{wait: 1}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 2}
+But I'm good.{wait: 16} Real good.{bgcolor: 2305 8 31}{p}{bgcolor: 2305 8 31}
+It didn't take long for{b}
+the rumors to get around...{b}{p}{name: 1792}{speed: 4}
+"Go to the Borscht Bowl Club{b}
+if you want a real game.{wait: 16}{b}
+That guy's never lost"...{p}{speed: 4}
+People don't come to hear{b}
+me tickle the ivory.{wait: 12} They come{b}
+to watch me play cards.{p}{hidetextbox: 1}{bganim: 284 0}{bganim: 283 0}{0x75}{sound: 0 0}{bop}{wait: 40}{bgcolor: 514 1 31}{wait: 15}{0x75}{b}{p}{bop}{bop}{bg: 4095}{bgcolor: 257 8 31}{wait: 1}{hidetextbox: 0}
+Is this a seedy poker club?{wait: 16}{b}
+No.{wait: 16} It's a restaurant.{p}
+We don't play for high stakes.{wait: 16}{b}
+There's no money involved.{p}{name: 1792}
+But real players carry cash{speed: 8}...{wait: 20}{b}{speed: 3}
+and they're always thirsty.{p}
+It's a handy source of income{b}
+for the club owner.{p}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 235}{person: 32 713 713}{bgcolor: 260 1 31}{wait: 25}{name: 1792}{person: 32 713 713}{name: 1792}{hidetextbox: 0}
+Then,{wait: 8} let's compete.{wait: 20} {speed: 3}I'll{b}
+take you to the room.{nextpage_button}{person: 32 722 721}{name: 512}
+The Hydeout,{wait: 6} yes.{wait_noanim: 30}{b}{person: 32 716 715}{sound: 52 1}{bgcolor: 2305 8 31}
+But before we go...{nextpage_button}{name: 1792}{speed: 4}
+...Yes?{p}{name: 512}{speed: 3}
+Allow me to introduce myself.{0x5a}{wait: 30}{b}{person: 32 714 713}{speed: 4}
+My name is Shadi Smith.{nextpage_button}{person: 20 450 449}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oh,{wait: 8} and I'm Brushel!{wait: 10} Spark{b}
+Brushel!{wait: 10} News reporter!{nextpage_button}{newevidence: 32946}{person: 20 449 449}{name: 1792}{speed: 3}
+Oh.{wait: 12} I'm{speed: 8}...{nextpage_button}{person: 32 716 715}{name: 512}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+No,{wait: 10} no, {wait_noanim: 35}{person: 32 714 713}{sound: 52 1}{bgcolor: 2305 8 31}Phoenix Wright.{b}{nextpage_button}{person: 32 713 713}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Huh...?{nextpage_button}{person: 32 714 713}{name: 512}{speed: 3}
+You must always look a man{b}
+in the eye when you make{b}
+your introductions.{nextpage_button}{person: 32 716 715}{speed: 4}
+...You still do not know{b}
+who I am?{nextpage_button}{name: 1792}
+Have we{speed: 8}... met?{wait: 35}{b}{fademusic: 30}{sound: 50 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}{color: 2}
+(Ah...!){bgcolor: 2305 8 31}{nextpage_button}{color: 0}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 34}{person: 31 708 708}{0x5f: 3 1 31}{bgcolor: 772 1 31}{wait: 25}{person: 31 709 708}{name: 7936}{hidetextbox: 0}{speed: 5}
+Today,{wait: 20} in this courtroom...{p}{person: 31 705 704}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 12}you cannot declare me{b}
+"guilty".{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{sound: 51 1}{shake: 30 0}{speed: 3}
+What are you talking about?{nextpage_button}{bg: 34}{person: 31 705 704}{name: 7936}{speed: 5}
+I am talking{speed: 8}{0x5a}..{speed: 10}.{wait: 70}{b}{person: 31 707 706}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 1}
+about{bgcolor: 2305 8 31} this!{0x5a}{wait: 40}{nextpage_nobutton}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{person: 0 0 0}{bg: 34}{wait: 30}{fademusic: 0}{music: 22 0}{sound: 50 1}{shake: 30 2}{bgcolor: 769 0 31}{wait: 1}{bgcolor: 2305 8 31}{wait: 5}{bgcolor: 2305 8 31}{wait: 8}{bgcolor: 2305 8 31}{wait: 3}{bgcolor: 2305 8 31}{wait: 10}{bgcolor: 2305 8 31}{wait: 80}{hidetextbox: 1}{swoosh: 0 1 21 474}{wait: 32}{person: 21 475 474}{name: 1792}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+M-{wait: 10}Mr. Enigmar!!!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 23 526}{wait: 32}{name: 13568}{person: 23 527 526}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+The defendant's escaped!{wait: 12}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+Find him!{wait: 12} Quick!{nextpage_button}{bg: 36}{person: 10 263 262}{name: 2560}{sound: 26 1}{shake: 30 2}{bgcolor: 2305 8 31}
+Bailiff!{wait: 16} Close all exits from{b}
+the building!{nextpage_button}{hidetextbox: 1}{bg: 31}{person: 0 0 0}{animation: 69 1}{animation: 70 1}{animation: 71 1}{animation: 73 1}{sound: 22 1}{wait: 120}{hidetextbox: 0}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+On the double!{wait: 20} He must not be{b}
+allowed to escape!{nextpage_button}{hidetextbox: 1}{wait: 40}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 235}{person: 32 721 721}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{wait: 60}{name: 1792}{hidetextbox: 0}{bgcolor: 2305 8 31}
+Y-{wait: 20}{speed: 5}You can't be{speed: 8}...{wait: 16}{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+But you're{speed: 8}...!{nextpage_button}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...Zak{bgcolor: 2305 8 31} Gramarye!?{nextpage_button}{person: 32 722 721}{name: 7936}{speed: 4}
+Yes...{wait: 12} The reincarnation{b}
+act of the century.{p}{speed: 3}
+Pity I have only an audience{b}
+of one.{p}{person: 32 714 713}{fademusic: 120}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 16}You.{nextpage_button}{person: 32 715 715}{name: 1792}{color: 2}
+(Zak Gramarye!?{wait: 30}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} This must be{b}
+a bad dream.){p}{speed: 3}
+(In a sense,{wait: 8} this guy ruined{b}
+my life.){nextpage_button}{color: 0}{0x19: 32945 174}{person: 32 714 713}{name: 7936}{bgcolor: 2305 8 31}{shake: 30 0}
+You there!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 12 277 276}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 3072}{shake: 30 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...D-{wait: 20}Dah?{nextpage_button}{person: 32 714 713}{name: 7936}{bgcolor: 2305 8 31}{speed: 3}
+We will play soon.{wait: 16}{b}
+Ready the room.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 12 277 276}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 3072}{speed: 4}
+Dah...{wait: 12} I will be preparing{b}
+the Hydeout for you.{nextpage_button}{hidetextbox: 1}{wait: 40}{personvanish: 4 4}{wait: 64}{person: 0 0 0}{wait: 60}{personvanish: 3 2}{person: 32 713 713}{wait: 64}{wait: 30}{name: 1792}{hidetextbox: 0}{speed: 3}
+Are you really him?{wait: 20}{b}
+The Zak Gramarye?{nextpage_button}{person: 32 714 713}{name: 7936}
+Now I am Shadi Smith.{wait: 16}{b}
+Remember this.{nextpage_button}{name: 1792}{speed: 4}
+...{wait: 20}How many years has it been{b}
+now?{wait: 16} Six?{nextpage_button}{person: 32 714 713}{name: 7936}
+In exactly three days from{b}
+now,{wait: 8} it will be seven.{p}{person: 32 716 715}{speed: 4}
+I caused you much...{wait: 16}{b}
+inconvenience,{wait: 8} I fear.{nextpage_button}{name: 1792}{speed: 5}
+Yeah,{wait: 25} {speed: 3}you could say that.{p}{name: 7936}{speed: 5}{0x59}
+Is...{0x5a}{wait: 30}{0x59}{speed: 3} she well?{wait_noanim: 30}{b}{person: 32 714 713}{shake: 30 0}{speed: 4}
+Trucy,{wait: 16} {speed: 3}I mean.{nextpage_button}{name: 1792}
+She's fine.{nextpage_button}
+I've got her working already.{wait: 12}{b}
+Hope you don't mind.{p}{person: 32 716 715}{name: 7936}
+I hardly need express my{b}
+gratitude.{wait: 20} But,{wait: 8} you have it.{p}{speed: 4}
+...{wait: 16}This is why I have come.{p}{sound: 52 1}{bgcolor: 2305 8 31}{person: 32 714 713}{speed: 3}
+That,{wait: 8} and to settle a matter{b}
+of cards.{nextpage_button}{name: 1792}{speed: 4}
+...{wait: 16}By which you mean poker?{wait: 20}{b}{color: 2}
+(Those eyes!{wait: 25} {speed: 3}He's serious...){color: 0}{nextpage_button}{person: 32 722 721}{name: 7936}
+I despise losing above all{b}
+else.{nextpage_button}{person: 32 714 713}{speed: 4}
+And so,{wait: 10} I have decided that{b}
+I will win tonight.{b}
+No matter what it takes.{p}{person: 32 713 713}{name: 1792}{speed: 4}{color: 2}
+(I know this guy's type...{wait: 20}{b}
+and they're dangerous.){p}{speed: 3}
+(Everything's about the{b}
+competition.{wait: 25} {speed: 4}All else is{b}
+secondary.){nextpage_button}{color: 0}{person: 32 716 715}{name: 7936}{speed: 4}
+...Perhaps we should take{b}
+this time to talk,{wait: 8} before{b}
+we play.{nextpage_button}{person: 32 714 713}{speed: 3}
+I know you have much to{b}
+ask me.{p}{person: 32 722 721}{speed: 5}
+...And I,{wait: 16} you.{nextpage_button}{fademusic: 0}{music: 32 0}{0x80}{bop}{color: 32}{wait: 147}
+FG{0x82}{bop}Ó65{0x83}{bop}{224}6{0x83}{bop}Ê7{0x10: 33651}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{fademusic: 120}{person: 32 716 715}{name: 7936}{speed: 4}...Brushel.{nextpage_button}{person: 20 450 449}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Sir!{0x5a}{wait: 30}{b}{showphoto: 194}{person: 20 452 451}{speed: 3}
+Ah,{wait: 12} here you go.{nextpage_button}{person: 32 713 713}{name: 1792}{speed: 5}
+What's this...?{nextpage_button}{person: 32 714 713}{name: 7936}{speed: 3}
+A letter passing the rights{b}
+I have inherited to Trucy.{p}{person: 32 722 721}
+I would have you sign here,{wait: 8}{b}
+as a witness.{nextpage_button}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}
+B-{wait: 12}But{speed: 8}...{wait: 30} {speed: 3}I'm not a lawyer{b}
+anymore.{removephoto}{nextpage_button}
+And you need a public notary,{wait: 16}{b}
+besides.{nextpage_button}{person: 20 452 451}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah,{wait: 8} I may not look it,{wait: 8} but{b}
+I'm a certified notary!{nextpage_button}{person: 20 449 449}{name: 1792}{speed: 5}
+You are...?{nextpage_button}{person: 20 452 451}{name: 5120}{speed: 2}
+By day,{wait: 8} I wear a notary's{b}
+glasses and hunt for news.{p}{person: 20 450 449}
+Also by day,{wait: 8} I wear a{b}
+reporter's glasses and{b}
+notarize!{p}{person: 20 457 456}{speed: 3}
+When I take off the glasses{speed: 8}{0x5a}...{wait: 25}{speed: 2}{b}{person: 20 452 451}{shake: 30 0}{speed: 2}
+I can't see very well.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32 714 713}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 7936}{showphoto: 194}{speed: 3}
+Your signature,{wait: 8} please.{wait_noanim: 35}{b}{person: 32 722 721}
+This is the first reason{b}
+I have come here tonight.{nextpage_button}{bganim: 98 579}{newevidence: 16606}{name: 0}{speed: 4}{color: 2}
+Transferal of Rights added{b}
+to the Court Record.{nextpage_button}{speed: 255}{color: 0}{name: 1792}{speed: 8}
+Ah...{wait: 35}{speed: 3} {person: 32 713 713}I've finally figured{b}
+it out.{p}
+Now I know why you've come{b}
+out of hiding only now.{p}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+It's been{wait: 6} {color: 1}seven years{color: 0},{wait: 6} you{b}
+said?{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 5}
+...Precisely.{nextpage_button}{fademusic: 0}{music: 55 0}{0x10: 33652}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{fademusic: 120}{person: 32 714 713}{name: 7936}{speed: 4}Well,{wait: 20} {speed: 3}the prelude may have{b}
+been longer than the main{b}
+attraction.{p}
+Shall we begin our game?{wait_noanim: 35}{b}{person: 32 722 721}
+My{wait: 5} {color: 1}final competition{color: 0}?{nextpage_button}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Final...? Why?{nextpage_button}{person: 32 714 713}{name: 7936}{speed: 3}
+As you said,{wait: 10} I have come out{b}{showphoto: 194}
+of hiding today to make this{b}
+document legally binding.{p}
+Once that is done,{wait: 8} I shall{b}
+slip once more underground.{nextpage_button}{name: 1792}{speed: 4}
+...Without seeing your{b}
+daughter?{nextpage_button}{showphoto: 477}{person: 32 715 715}{name: 7936}{speed: 7}
+......{nextpage_button}{removephoto}{person: 32 714 713}{speed: 3}
+It would be best if I did not.{p}{speed: 4}
+...{wait: 16}{speed: 4}Seven years ago,{wait: 8} we played.{wait: 16}{b}
+Seven years ago,{wait: 7} I lost.{nextpage_button}{person: 32 716 715}{speed: 3}
+I already lost to Magnifi.{0x5a}{wait: 20}{b}{0x59}
+I do not care to lose to{b}
+another.{nextpage_button}{person: 32 714 713}{speed: 3}
+And I have heard that you{b}
+never lose.{fademusic: 0}{music: 18 0}{nextpage_button}{name: 1792}{speed: 4}
+...It's just a rumor.{nextpage_button}{person: 32 722 721}{name: 7936}
+Yes...{wait: 20} for it is impossible{b}
+to never lose.{wait: 6} {speed: 3}Unless one has{b}
+an ace up one's sleeve.{nextpage_button}{name: 1792}{speed: 6}
+......{p}{name: 7936}{speed: 3}
+As a magician,{wait: 8} it causes me{b}
+no end of irritation.{nextpage_button}{person: 32 714 713}{sound: 52 1}{bgcolor: 2305 8 31}
+To think a mere lawyer might{b}
+be out there,{wait: 10} pulling the wool{b}
+over so many eyes.{nextpage_button}{name: 1792}{speed: 4}
+Hey{speed: 8}...{wait: 20} {speed: 3}I just signed your{b}
+document for you.{wait: 16} Maybe you{b}
+could try lightening up?{p}{name: 7936}
+That was that.{wait: 16} This is this.{p}{speed: 5}
+For my final competition,{wait: 8}{b}
+I will destroy your perfect{b}
+record,{wait: 8} Phoenix Wright.{p}
+This...{speed: 3} will be my final{b}
+performance.{wait_noanim: 40}{person: 32 722 721} You are warned.{nextpage_button}{name: 1792}{color: 2}
+(This guy is beyond serious{speed: 8}...{wait: 20}{speed: 3}{b}
+So much for a fun evening{b}
+of cards.){color: 0}{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 4}
+...Brushel.{wait: 16}{b}{speed: 3}
+You may leave.{nextpage_button}{name: 5120}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah,{wait: 10} but,{wait: 8} it's your last game!{wait_noanim: 20}{b}{person: 20 461 461}{speed: 3}
+I mean,{wait: 12} {speed: 4}what a scoop{speed: 8}...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32 715 715}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 7936}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 40}{b}{person: 32 722 721}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...I punch,{wait: 8} and I punch.{b}
+But still,{wait: 10} it is not enough.{nextpage_button}{person: 20 456 456}{name: 5120}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 40}{b}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Er,{wait: 10} I just remembered a{b}
+future,{wait: 8} er,{person: 20 450 449}{wait: 10} prior engagement!{nextpage_button}{person: 20 452 451}{bgcolor: 2305 8 31}{shake: 30 0}
+Toodles,{wait: 6} gentlemen!{wait: 16} Oh,{wait: 10} and{b}
+nice meeting you,{wait: 6} piano man!{nextpage_button}{hidetextbox: 1}{wait: 10}{shake: 30 0}{personvanish: 4 1}{wait: 16}{wait: 60}{personvanish: 3 2}{person: 32 713 713}{wait: 32}{wait: 20}{person: 32 714 713}{name: 7936}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 7}Then let us begin.{wait_noanim: 30}{b}{person: 32 722 721}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Dealer!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 12 277 276}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 3072}{shake: 30 0}
+...Dah?{nextpage_button}{person: 32 714 713}{name: 7936}{speed: 4}
+You will be witness to our{b}
+competition.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 12 277 276}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 3072}{speed: 3}
+Dah.{wait: 16} It is honor for me.{nextpage_button}{person: 12 276 276}{name: 1792}{speed: 5}
+...?{wait: 20}{b}{speed: 4}{color: 2}
+(Why haven't I seen her{b}
+around here before?){color: 0}{nextpage_button}{color: 0}{person: 32 714 713}{name: 7936}{sound: 51 1}{bgcolor: 2305 8 31}
+Ah,{wait: 16} that reminds me{speed: 8}...{p}{speed: 3}
+I saw a familiar face as I{b}
+entered this restaurant.{p}{person: 32 716 715}{speed: 4}
+...{wait: 20}He did not seem to{b}
+notice me,{wait: 8} however.{nextpage_button}{name: 1792}
+...?{nextpage_button}{person: 32 716 715}{name: 7936}{0x59}{speed: 5}
+Gavin{speed: 8}{0x5a}...{wait: 20}{0x59} {speed: 3}I believe was his{b}
+name.{nextpage_button}{name: 1792}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}{speed: 4}
+You know him?{p}{name: 7936}
+After a fashion.{wait_noanim: 30}{b}{person: 32 714 713}
+...{wait: 12}{speed: 3}Listen,{wait: 12} Phoenix Wright.{nextpage_button}{person: 32 714 713}{name: 7936}{speed: 4}
+One can learn much from a{b}
+true competition.{nextpage_button}{person: 32 722 721}{speed: 3}
+...Remember this.{nextpage_button}{hidetextbox: 1}{0x26: 1}{bganim: 98 519}{wait: 60}{0x5f: 15 3 0}{wait: 120}{fademusic: 0}{music: 29 100}{name: 1792}{hidetextbox: 0}{speed: 4}
+The Gramarye{wait: 6} "{color: 1}power{color: 0}{speed: 8}"...{nextpage_button}{speed: 3}
+I was close to understanding{b}
+it,{wait: 10} but I needed more.{nextpage_button}
+And I knew where to get it.{wait: 25}{b}
+...{speed: 5}Trucy's mother.{nextpage_button}{speed: 3}
+I'd need to meet that reporter{b}
+again,{wait: 12} that was clear...{nextpage_button}{speed: 5}
+...{wait: 12}And one other thing.{nextpage_button}{speed: 4}
+From the moment my{wait: 6} "final{b}
+competition"{wait: 6} with Zak began{b}
+that night{speed: 8}...{nextpage_button}{speed: 3}
+...{wait: 12}a {wait: 5}{color: 1}name{color: 0}{wait: 5} was running{b}
+through my head.{nextpage_button}{speed: 4}
+...{wait: 12}The name of a man now in{b}
+prison.{nextpage_button}
+...{wait: 12}A name Zak Gramarye knew.{wait: 8}{b}
+But how?{wait: 20} And why{speed: 8}...?{nextpage_button}{hidetextbox: 1}{wait: 60}{fademusic: 120}{wait: 120}{0x64}{rejmp: 4}{b}{hideperson}{wait: 25}{0x5f: 16 1 1}{0x10: 33653}{0x26: 0}{bganim: 0 4096}{0x74: 18 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{person: 32 713 713}{name: 1792}{hidetextbox: 0}We competed that day{b}
+seven years ago,{wait: 16} {speed: 3}too.{nextpage_button}{person: 32 714 713}{name: 7936}
+Ah,{wait: 8} yes. ...{wait: 16}You must have{b}
+been surprised.{nextpage_button}{person: 32 722 721}
+...Called to the detention{b}
+center out of the blue.{p}{fademusic: 45}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{person: 0 0 0}{bg: 4095}{bgcolor: 770 1 31}{wait: 15}{speed: 4}{name: 0}{hidetextbox: 0}
+Two...{nextpage_button}{hidetextbox: 1}{0x75}{bop}{bop}{endjmp}{b}{0x75}{color: 0}{bop}{bop}{0x75}{pause}{0x71: 0 0 117}{music: 139 0}{bop}{0x75}{b}
+{16384}{bop}{bop}{0x75}{sound: 0 0}{bop}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{0x75}{b}{p}{bop}{bop}{bg: 4095}{bgcolor: 257 8 31}{wait: 1}{name: 0}{hidetextbox: 0}
+One...{nextpage_button}{hidetextbox: 1}{0x75}{bop}{bop}{endjmp}{b}{0x75}{color: 0}{bop}{bop}{0x75}{pause}{0x71: 0 0 117}{music: 139 0}{bop}{0x75}{b}
+{16384}{bop}{bop}{0x75}{pause}{0x4a}{bop}{bop}{0x75}{music: 87 0}{bop}{0x75}{b}{b}{bop}{bop}{0x75}{sound: 0 0}{bop}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{0x75}{b}{p}{bop}{bop}{bg: 4095}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{name: 0}{speed: 5}
+...Showdown time.{nextpage_button}{hidetextbox: 1}{bganim: 284 0}{bganim: 283 0}{0x75}{sound: 0 0}{bop}{wait: 40}{bgcolor: 514 1 31}{wait: 15}{0x75}{b}{p}{bop}{bop}{bg: 167}{bgcolor: 260 1 31}{wait: 25}{fademusic: 0}{music: 29 0}{wait: 60}{hidetextbox: 0}{name: 0}{speed: 3}
+I{speed: 8}...{wait: 20}{speed: 4} I lost.{nextpage_button}{name: 0}{speed: 3}
+It's only a game of poker.{nextpage_button}{name: 0}{speed: 4}
+A game I've played for a long{b}
+time{speed: 8}...{wait: 30}{speed: 3} and only lost twice.{nextpage_button}{name: 0}{speed: 4}
+...Who was the first?{nextpage_button}{name: 0}{speed: 4}
+The man I "killed"... of{b}
+course{speed: 8}...{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 235}{person: 32 715 715}{bgcolor: 770 1 31}{wait: 15}{name: 1792}{hidetextbox: 0}{hidetextbox: 0}{speed: 4}
+You choose your defense{b}
+attorneys by playing poker.{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 3}
+Some are hired,{wait: 8} others fired.{p}{person: 32 714 713}{name: 7936}
+When you compete,{wait: 4} you see{b}
+a man's{wait: 4} {color: 1}true nature{color: 0}.{p}
+You know what I speak of.{wait: 16}{b}{person: 32 722 721}{speed: 4}
+...{wait: 16}I know that you do.{nextpage_button}{person: 32 721 721}{name: 1792}{speed: 3}
+...Trucy's{wait: 6} "{color: 1}power{color: 0}"?{nextpage_button}{person: 32 716 715}{name: 7936}
+Trucy?{wait: 16} She is in a class{b}
+of her own.{nextpage_button}{hidetextbox: 1}{wait: 40}{bgcolor: 516 1 31}{wait: 25}{person: 0 0 0}{bg: 4095}{bgcolor: 257 1 31}{wait: 7}{name: 1792}{hidetextbox: 0}{speed: 5}{color: 2}
+(For seven years I've played {b}
+poker here at the Borscht{b}
+Bowl Club...){p}{speed: 3}
+(And I've never lost once.{wait: 16}{b}
+I'm good... but not that{b}
+good.){p}
+(I win because whenever{b}
+there's a big game,{wait: 10} I bring{b}
+in Trucy.){p}{hidetextbox: 1}{person: 27 607 607}{personvanish: 3 4}{wait: 64}{hidetextbox: 0}
+(...{wait: 14}And she sends me {color: 1}signals{color: 2}.){p}{color: 0}{hidetextbox: 1}{bg: 4095}{person: 0 0 0}{bgcolor: 257 1 31}{wait: 7}{name: 1280}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 12}Daddy,{wait: 10} he's got a good{b}
+hand.{p}{name: 1280}{bgcolor: 2305 8 31}
+...You might have a chance{b}
+if you act quick!{wait: 16} Better{b}
+call him soon.{p}{hidetextbox: 1}{bganim: 284 0}{bganim: 283 0}{0x75}{sound: 0 0}{bop}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{0x75}{b}{p}{bop}{bop}{bg: 235}{person: 32 715 715}{bgcolor: 258 1 31}{wait: 15}{name: 1792}{hidetextbox: 0}{speed: 3}
+Can you tell me what{b}
+her{wait: 6} {color: 1}power{color: 0}{wait: 6} is?{nextpage_button}{person: 32 716 715}{name: 7936}
+Judging a person's thoughts{b}
+by reading their reactions is{b}
+a staple of performance magic.{p}{speed: 3}
+But those of Trucy's line{wait_noanim: 20}{b}{person: 32 714 713}
+possess far greater skill.{nextpage_button}{person: 32 713 713}{name: 1792}{speed: 5}
+...Her{wait: 6} "line"?{nextpage_button}{person: 32 714 713}{name: 7936}
+Recall,{wait: 8} you were the second{b}
+man to whom I've lost.{nextpage_button}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Magnifi Gramarye...{p}{name: 7936}
+That was the first time I{b}{wait_noanim: 30}{person: 32 716 715}
+learned of this {wait: 5}"{color: 1}power{color: 0}",{bgcolor: 2305 8 31} as{b}
+you call it.{nextpage_button}{person: 32 715 715}{name: 1792}{speed: 5}
+Wait,{wait: 10} so you're saying...{p}{speed: 3}
+...{wait: 12}her power is{wait: 5} {color: 1}genetic{color: 0}?{p}{speed: 4}
+It's just "in" the Gramarye{b}
+blood or something?{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 5}
+"Blood"{speed: 8}{0x5a}...{nextpage_button}{fademusic: 30}{0x88}{color: 13}
+
+{{4}}
+{bop}{person: 32 716 715}{name: 7936}{hidetextbox: 0}{speed: 5}I am sorry,{wait: 8} but it is not{b}
+something told lightly{b}
+to outsiders.{p}{person: 32 714 713}{speed: 3}
+And it is nothing you need{b}
+to know at this time.{nextpage_button}{name: 1792}{speed: 2}{color: 2}
+(It's some kind of {color: 1}Gramarye{b}
+secret{color: 2},{wait: 8} then?{wait: 8} Fine...){color: 0}{fademusic: 0}{music: 32 100}{nextpage_button}{0x8c}{0x83}{0x89}{0x51: 3 53}
+{30465}{524}{0x10: 33655}{0x35: 30977 @RelativeAddress0}{0x35: 30721 @RelativeAddress1}{0x37: 8 0}{0x37: 15 1}{0x35: 30465 @RelativeAddress2}{@RelativeAddress1}{0x37: 10 0}{0x37: 9 1}{0x35: 30465 @RelativeAddress3}{@RelativeAddress0}{0x37: 12 0}{0x37: 11 1}{@RelativeAddress2}{@RelativeAddress3}{0x35: 29953 @RelativeAddress4}{0x35: 30720 @RelativeAddress5}{0x35: 30976 @RelativeAddress6}{0x35: 31232 @RelativeAddress7}{0x35: 32512 @RelativeAddress8}{jmp: 130}{endjmp}{endjmp}{@RelativeAddress4}{@RelativeAddress5}{@RelativeAddress6}{@RelativeAddress7}{@RelativeAddress8}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{person: 32 716 715}{name: 7936}{hidetextbox: 0}{speed: 4}She's... fifteen this year?{nextpage_button}{name: 1792}{speed: 3}
+She's still trying her best{b}
+to follow in your footsteps,{wait: 8}{b}
+you know.{p}{name: 7936}{speed: 4}
+I...{wait: 12} see.{p}{speed: 3}
+When I planned my disappearing{b}
+act,{wait_noanim: 20}{person: 32 714 713} it was the thought of her{b}
+alone that gave me pause.{nextpage_button}{name: 1792}{speed: 5}
+Wait,{wait: 16} {speed: 3}you were planning{b}
+on vanishing from the get-go?{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 5}
+Yes,{wait: 16} and for that, I must{b}
+apologize.{wait: 16}{b}
+However...{p}{speed: 4}
+I could not be found{b}
+guilty that day.{nextpage_button}{person: 32 714 713}{showphoto: 211}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Because of this.{nextpage_button}{person: 32 713 713}{name: 1792}{speed: 4}
+This...?{nextpage_button}{person: 32 714 713}{name: 7936}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+A {color: 1}transferal of rights{color: 0}.{0x5a}{wait: 30}{b}{person: 32 716 715}{speed: 3}
+You see the signature?{nextpage_button}{name: 1792}{speed: 4}
+A transferal{speed: 8}...?{nextpage_button}{speed: 3}
+That's Magnifi Gramarye's{b}
+signature,{wait: 6} isn't it?{nextpage_button}{hidetextbox: 1}{bganim: 98 579}{bg: 198}{person: 0 0 0}{bgcolor: 260 1 31}{wait: 25}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 29 100}{wait: 120}{name: 1792}{hidetextbox: 0}{speed: 4}
+"I hereby give all rights to{b}
+the secrets,{wait: 10} staging,{wait: 10} and{b}
+performance of my magic..."{p}
+"...to the recipient named{b}
+below."{p}{speed: 5}
+And the recipient's name{speed: 8}...{wait: 30}{b}{bgcolor: 2305 8 31}{speed: 3}
+is you... Zak Gramarye.{nextpage_button}{hidetextbox: 1}{bg: 235}{person: 32 715 715}{bgcolor: 260 1 31}{wait: 25}{wait: 40}{name: 7936}{hidetextbox: 0}{person: 32 714 713}
+Yes,{wait: 10} it is I.{speed: 3}{nextpage_button}{person: 32 713 713}{name: 1792}{showphoto: 211}{speed: 4}
+Wait...{wait: 30} {speed: 6}This page looks{b}
+torn.{nextpage_button}{person: 32 714 713}{name: 7936}{speed: 3}
+You recall the {color: 1}diary{color: 0},{wait: 10} yes?{nextpage_button}{fademusic: 30}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bganim: 98 579}{bg: 32}{person: 21 468 467}{0x5a}{0x5f: 3 1 31}{bgcolor: 772 1 31}{wait: 25}{fademusic: 0}{music: 34 60}{name: 1792}{showphoto: 475}{0x59}{hidetextbox: 0}{speed: 3}
+First...{wait: 12} take a close look at{b}
+this diary.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 170}{person: 0 0 0}{bgcolor: 260 1 31}{wait: 25}{wait: 30}{name: 1792}{person: 0 0 0}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 16}Note that a page has{b}
+clearly {color: 1}been ripped out{color: 0}!{nextpage_button}{bg: 32}{person: 21 470 469}{speed: 3}
+As it just so happens...{nextpage_button}{person: 21 475 474}{showphoto: 467}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 10}I have here what I believe{b}
+to be the missing page.{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+W-{wait: 10}Wait.{wait: 16} {speed: 3}Let me see that!{0x5a}{wait: 15}{b}{showphoto: 211}{bgcolor: 2305 8 31}{shake: 30 0}{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bganim: 98 579}{bg: 235}{person: 32 715 715}{0x5f: 4 1 1}{bgcolor: 772 1 31}{wait: 25}{wait: 30}{name: 1792}{hidetextbox: 0}{speed: 3}
+...How could I forget?{p}
+That scrap of paper lost{b}
+me my attorney's badge.{nextpage_button}{person: 32 716 715}{name: 7936}{showphoto: 211}
+This is{wait: 6} the {color: 1}real{color: 0}{wait: 6} page that{b}
+was torn from the book.{p}{person: 32 714 713}
+Magnifi gave it to me that{b}
+night.{nextpage_button}{bganim: 98 579}{name: 1792}
+...{wait: 12}You could have told me{b}
+this earlier.{wait: 16} Like,{wait: 8} seven{b}
+years earlier.{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 5}
+Once again,{wait: 8} I must apologize.{p}{person: 32 714 713}{speed: 3}
+It was all I could do to{b}
+prepare for my escape from{b}
+that courtroom.{nextpage_button}{0x51: 3 53}
+{30721}{3482}{0x10: 33656}{0x35: 29953 @RelativeAddress9}{0x35: 30464 @RelativeAddress10}{0x35: 30976 @RelativeAddress11}{0x35: 31232 @RelativeAddress12}{0x35: 32512 @RelativeAddress13}{jmp: 130}{endjmp}{endjmp}{@RelativeAddress10}{@RelativeAddress11}{@RelativeAddress12}{0x35: 30464 @RelativeAddress14}{0x37: 15 0}{0x37: 9 1}{hidetextbox: 3}{special_jmp}{@RelativeAddress14}{0x37: 8 0}{0x37: 10 1}{@RelativeAddress9}{@RelativeAddress13}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{person: 32 714 713}{name: 7936}{hidetextbox: 0}{speed: 3}The greatest of Magnifi{b}
+Gramarye's illusions are{b}
+true art.{nextpage_button}{showphoto: 211}{person: 32 716 715}
+As such,{wait: 12} they are well{b}
+protected{speed: 8}... by this{b}
+document.{p}{speed: 3}
+Only its bearer may perform{b}
+his illusions on stage.{nextpage_button}{removephoto}{name: 1792}{speed: 4}{color: 2}
+(Sounds like a pretty{b}
+important thing to have{b}
+if you're his {color: 1}disciple{color: 2}.){p}{color: 0}{name: 7936}{speed: 3}
+As the rightful heir to{b}{person: 32 714 713}
+his art,{wait: 8} I, too, wanted a{b}
+rightful heir.{nextpage_button}{person: 32 713 713}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{fademusic: 120}{speed: 5}
+"Rightful"...?{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 3}
+I'm sure you know who I{b}
+chose as my successor.{nextpage_button}{person: 32 715 715}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Your daughter.{nextpage_button}{person: 32 714 713}{name: 7936}{speed: 3}
+That is why I have risked{b}
+all to come here tonight.{nextpage_button}{0x10: 33657}{0x51: 3 53}
+{29953}{1150}{0x35: 30464 @RelativeAddress15}{0x35: 30720 @RelativeAddress16}{0x35: 31232 @RelativeAddress17}{0x35: 32512 @RelativeAddress18}{jmp: 130}{endjmp}{endjmp}{@RelativeAddress15}{@RelativeAddress16}{@RelativeAddress17}{0x37: 9 0}{0x37: 11 1}{0x35: 30465 @RelativeAddress19}{0x37: 10 0}{0x37: 11 0}{0x37: 12 1}{@RelativeAddress19}{0x35: 29697 @RelativeAddress20}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress18}{@RelativeAddress20}{fademusic: 0}{music: 32 100}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{person: 32 713 713}{name: 1792}{hidetextbox: 0}{speed: 3}...{wait: 12}There's a law that covers{b}
+your situation.{p}{speed: 4}
+After seven years,{wait: 10} missing{b}
+persons are considered to{b}
+be legally{wait: 6} "{color: 1}deceased{color: 0}".{p}{speed: 3}
+So,{wait: 8} if someone was to vanish{b}
+from the face of the earth{b}
+seven years ago...{p}{person: 32 715 715}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 12}they would lose all rights{b}
+as a {wait: 5}"living person"{wait: 5} after{b}
+seven years from that day.{p}
+Not to mention all of their{b}{wait: 4}{speed: 4}{color: 1}
+possessions{color: 0}.{nextpage_button}{person: 32 716 715}{name: 7936}
+Exactly.{0x5a}{wait: 30}{b}{speed: 3}{0x59}
+Which is why I am here.{p}{person: 32 714 713}{speed: 3}
+I risk showing my face in{b}
+public for the sake of this{b}
+document.{p}
+...Before my{wait: 6} {color: 1}seven years{color: 0}{wait: 6} are{b}
+up.{p}{speed: 4}
+You might say,{0x5a}{wait: 30}{person: 32 722 721}{sound: 52 1}{speed: 3}{bgcolor: 2305 8 31} I am securing{b}
+my daughter's inheritance.{nextpage_button}{name: 1792}
+But do you really need this{b}
+document?{nextpage_button}
+Wouldn't Trucy inherit your{b}
+estate automatically?{nextpage_button}{person: 32 716 715}{name: 7936}
+...{wait: 16}Not in this case, I am{b}
+afraid.{nextpage_button}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+"This case"...?{p}{name: 7936}{speed: 3}
+Yes,{wait: 8} I received the{b}{color: 1}
+performance rights{color: 0} from{b}
+Magnifi Gramarye.{p}
+However,{wait: 12} this was done in{b}
+secret,{wait: 4} without witnesses.{nextpage_button}{person: 32 714 713}{name: 7936}
+Before Magnifi died,{wait: 10} two{b}
+potential successors to his{b}
+repertoire were named.{p}
+Myself,{wait: 10} Zak Gramarye.{0x5a}{wait: 20}{speed: 3}{0x59}{b}
+And Valant Gramarye.{nextpage_button}{person: 32 716 715}{speed: 4}
+...Not Trucy.{nextpage_button}{name: 1792}{showphoto: 194}{speed: 5}
+I see.{wait: 16} {speed: 3}So you do need this{b}
+document.{nextpage_button}{bganim: 98 579}{person: 32 714 713}{name: 7936}
+I have known Brushel since{b}
+before I vanished.{wait: 16} He is{b}
+a man I trust.{nextpage_button}{person: 32 716 715}
+Now,{wait: 6} only three know of{b}
+my{wait: 6} "rebirth".{nextpage_button}{name: 1792}{speed: 4}
+...{wait: 16}I took the liberty of{b}
+looking into Trucy's{b}
+background.{nextpage_button}{speed: 3}
+And found you had no other{b}
+close kin.{nextpage_button}{person: 32 714 713}{name: 7936}
+...It is as you say.{nextpage_button}{person: 32 713 713}{speed: 8}
+......{nextpage_button}{person: 32 713 713}{name: 1792}
+......{wait: 30}{b}{speed: 4}{color: 2}
+(OK...){p}{speed: 3}{color: 2}
+(I was kind of hoping he'd {b}
+say something about the {b}{color: 1}
+mother{color: 2} at this point.){nextpage_button}{color: 0}{person: 32 715 715}{name: 7936}{speed: 8}
+......{nextpage_button}{person: 32 715 715}{name: 1792}{color: 2}{speed: 4}
+(I know everyone else,{wait: 8} but{b}
+Trucy's {color: 1}mother{color: 2}...{wait: 25} is a{b}
+mystery.){nextpage_button}{speed: 255}{color: 0}{0x10: 33658}{0x51: 3 53}
+{29953}{3198}{0x35: 30464 @RelativeAddress21}{0x35: 30720 @RelativeAddress22}{0x35: 30976 @RelativeAddress23}{0x35: 32512 @RelativeAddress24}{jmp: 130}{endjmp}{endjmp}{@RelativeAddress21}{@RelativeAddress22}{@RelativeAddress23}{@RelativeAddress24}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{name: 7936}{person: 32 714 713}{speed: 3}I must say,{wait: 12} it comes as{b}
+quite a surprise.{p}{person: 32 722 721}
+I never knew you played.{nextpage_button}{name: 1792}
+I'd do anything else if{b}
+I could,{wait: 8} believe me.{nextpage_button}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+Oh yeah,{wait: 8} there's something{b}
+you could help me with.{nextpage_button}
+Do you think you could make{b}
+that piano disappear?{nextpage_button}{speed: 4}
+...It'd help out in a lot{b}
+of ways,{wait: 10} really.{nextpage_button}{person: 32 717 717}{name: 7936}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 8}
+......{nextpage_button}{person: 32 720 720}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Wah{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha!{wait: 30}{b}{person: 32 722 721}{speed: 3}
+You say the funniest things{b}
+with the straightest face!{nextpage_button}{name: 1792}{speed: 4}
+...People always tell me that.{wait: 20}{b}{speed: 3}{color: 2}
+(Except I wasn't joking.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{name: 7936}{person: 32 714 713}{speed: 4}This... is grape juice?{wait: 16}{b}{speed: 3}
+Is it refreshing?{nextpage_button}{name: 1792}{person: 32 713 713}
+I usually drink too much and{b}
+it ends up making me thirsty.{nextpage_button}{name: 7936}{person: 32 714 713}
+...{wait: 16}Oh,{wait: 10} Mr. Wright.{p}{person: 32 722 721}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+There is something inside{b}
+that bottle.{p}{name: 1792}{person: 32 721 721}{speed: 4}
+Huh{speed: 8}...?{wait: 30}{b}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+It's my business card.{nextpage_button}{name: 7936}{speed: 8}
+......{nextpage_button}{person: 32 714 713}{speed: 3}
+You aren't surprised at all.{wait: 16}{b}
+Perhaps you don't like magic?{nextpage_button}{name: 1792}{color: 2}{speed: 4}
+(I sure felt surprised.{wait: 16} Maybe{b}
+I had my poker face on.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{name: 1792}One of the restaurant tables.{wait: 16}{b}
+This one's the closest to{b}
+the piano.{nextpage_button}
+...{wait: 12}Which makes it the hardest{b}
+to eat at, I hear.{nextpage_button}{speed: 4}
+...{wait: 10}On days when I'm playing,{wait: 10}{b}
+that is.{nextpage_button}{person: 32 722 721}{name: 7936}
+What do you think about{b}
+the ukulele?{nextpage_button}{person: 32 714 713}
+The sound is slight,{wait: 12} the{b}
+annoyance,{wait: 10} curtailed.{nextpage_button}{name: 1792}
+A ukulele in a Russian{b}
+restaurant?{nextpage_button}{person: 32 722 721}{name: 7936}
+Then,{wait: 12} you must go to a{b}
+Hawaiian restaurant.{nextpage_button}{name: 1792}
+Hawaiian shirts don't go{b}{person: 32 717 717}
+with my complexion.{nextpage_button}{name: 7936}{person: 32 720 720}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Wa{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha!{wait: 30}{b}{person: 32 714 713}{speed: 3}
+...I give up.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{0x51: 3 53}{32512}{removephoto}{jmp: 140}{endjmp}{endjmp}{showphoto: 221}{person: 32 713 713}{name: 1792}This person in the photo is{b}
+Trucy's mother?{nextpage_button}{person: 32 717 717}{name: 7936}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+...!{wait: 35}{b}{person: 32 714 713}{speed: 3}
+How did you come by this?{nextpage_button}{person: 32 715 715}{name: 1792}
+Trucy showed it to me.{nextpage_button}
+She said her mother {b}
+was{wait: 6} "gone"...{nextpage_button}{removephoto}{person: 32 716 715}{name: 7936}{sound: 52 1}{speed: 4}{bgcolor: 2305 8 31}
+Then,{wait: 16} it is so.{nextpage_button}{person: 32 713 713}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}
+Huh?{wait: 16}{nextpage_button}{person: 32 714 713}{name: 7936}
+She is gone.{0x5a}{wait: 12}{speed: 3}{0x59} What more is{wait: 16}{b}
+there to say?{nextpage_button}{person: 32 713 713}{name: 1792}{speed: 4}{color: 2}
+(Um...{wait: 16} lots?){nextpage_button}{color: 0}{person: 20 452 451}{name: 5120}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Ah,{wait: 8} I know,{wait: 8} I know!{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Whoa! You're still here!?{nextpage_button}{person: 20 461 461}{name: 5120}{speed: 2}
+According to my in-depth{b}
+research...{nextpage_button}{person: 20 452 451}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+..."Trucy's Mother Magnifi{b}
+Gramarye's {color: 1}Only Daughter{color: 0}!"{b}
+end quote.{nextpage_button}{person: 20 451 451}{name: 1792}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Wh-{wait: 8}What!?{wait: 20} Magnifi's daughter?{wait: 20}{b}{speed: 3}
+Is that true,{wait: 16} Mr. Zak...?{nextpage_button}{person: 32 714 713}{name: 7936}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Brushel!{wait: 25}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31} You say{bgcolor: 2305 8 31} too much!{nextpage_button}{person: 20 462 462}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{name: 5120}{speed: 2}
+Urrrrr{bgcolor: 2305 8 31}rrrrrr{bgcolor: 2305 8 31}rrrng!{wait: 90}{nextpage_nobutton}{person: 20 464 463}{animation: 149 1}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 5120}{shake: 30 0}{bgcolor: 2305 8 31}
+Eh?{wait: 8} Eh?{wait: 8} What,{wait: 16}{shake: 30 1} why am I the{b}{bgcolor: 2305 8 31}
+bad guy?{wait: 8} Why?{nextpage_button}{name: 1792}{speed: 5}{color: 2}
+(Zak decked him...){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32 714 713}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 7936}{speed: 3}
+In any case,{wait: 8} Mr. Wright,{wait: 8}{b}
+this discussion... is over.{nextpage_button}{person: 32 715 715}{name: 1792}{speed: 4}{color: 2}
+(Thalassa Gramarye...{wait: 8} She's{b}
+the most mysterious of the{b}
+whole lot.){p}{speed: 3}
+(I need to gather me some{b}
+more evidence,{wait: 8} clearly.){nextpage_button}{color: 0}{0x23: 0}{music: 255 90}{0x19: 32957 190}{0x10: 33663}{0x51: 3 53}
+{29953}{2156}{0x35: 30464 @RelativeAddress25}{0x35: 30720 @RelativeAddress26}{0x35: 30976 @RelativeAddress27}{0x35: 31232 @RelativeAddress28}{jmp: 130}{endjmp}{endjmp}{@RelativeAddress25}{@RelativeAddress26}{@RelativeAddress27}{@RelativeAddress28}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{person: 32 713 713}{name: 1792}{showphoto: 221}This woman is Trucy's mother,{wait: 8}{b}
+yes?{nextpage_button}{person: 32 715 715}{name: 7936}{speed: 8}
+......{p}{name: 1792}{speed: 3}
+She said her mother was{wait: 6}{b}
+"gone".{nextpage_button}{removephoto}{person: 32 714 713}{name: 7936}{speed: 4}
+...And it is so.{wait: 16} {speed: 3}What more{b}
+is there to say?{p}{person: 32 713 713}{name: 1792}{speed: 4}{color: 2}
+(Thalassa Gramarye...{wait: 8} Magnifi{b}
+Gramarye's only daughter.){nextpage_button}{speed: 3}
+(I need to gather me some{b}
+more evidence,{wait: 8} clearly.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{person: 32 713 713}{name: 1792}Mr. Zak,{wait: 8} could you tell me{b}
+about this?{nextpage_button}{person: 32 714 713}{name: 7936}{speed: 4}
+...Mr. Wright.{p}{person: 32 716 715}{speed: 3}
+We meet for the first time{b}
+in seven years,{wait: 8} and you{b}
+offer me this?{wait: 16} Please.{nextpage_button}{name: 1792}
+It...{wait: 12} wasn't a present.{nextpage_button}{speed: 3}{color: 2}
+(This guy's a hard sell.){nextpage_button}
+(Probably won't get a rise out{b}
+of him unless I show him{b}
+something real interesting.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{person: 32 716 715}{name: 7936}{fademusic: 120}{speed: 4}...{wait: 6}That is all I know of{b}
+things Gramarye.{nextpage_button}{name: 1792}{speed: 3}
+Thank you,{wait: 8} Mr. Zak.{p}{name: 7936}
+If this boy's bracelet is{b}
+the real thing, then he{b}
+will use it before long.{p}{person: 32 714 713}
+Thereby awakening his{wait: 5} {color: 1}power{color: 0}.{p}{person: 32 713 713}{name: 1792}{speed: 4}
+...I'll keep that in mind.{p}{speed: 3}
+Well,{wait: 13} shall we play a game?{nextpage_button}{person: 32 716 715}{name: 7936}
+Ah{speed: 8}...{wait: 16} {speed: 3}I've said so much.{wait: 16}{b}
+Let me say one more thing.{p}
+...I will tell you of that{b}
+night.{nextpage_button}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+"That night"...?{p}{person: 32 714 713}{name: 7936}
+The night my mentor,{wait: 10} {speed: 3}Magnifi{b}
+Gramarye,{wait: 12} passed from this{b}
+world to the next.{nextpage_button}{person: 32 713 713}{name: 1792}{fademusic: 0}{music: 29 60}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...{bgcolor: 2305 8 31}!{p}{person: 32 716 715}{name: 7936}{speed: 4}
+There were two pistols,{wait: 16}{b}
+and two letters sent.{p}
+This...{wait: 10} was Magnifi's{wait: 8} "test".{nextpage_button}{name: 1792}{speed: 5}
+A test?{p}{name: 7936}{speed: 3}
+In his last years,{wait: 6} Magnifi{b}
+Gramarye worked us to the{b}
+bone...{wait: 20} No. To the pain.{p}{name: 7936}{speed: 4}
+But that night,{wait: 8} {speed: 3}I could{b}
+not shoot him.{nextpage_button}{person: 32 716 715}
+...So I shot the {color: 1}clown's{b}
+forehead{color: 0} instead.{nextpage_button}{hidetextbox: 1}{sound: 155 1}{bgcolor: 1025 8 31}{wait: 1}{bg: 4095}{person: 0 0 0}{bgcolor: 772 1 31}{wait: 25}{wait: 30}{hidetextbox: 0}{speed: 5}
+This,{wait: 6} it seems,{wait: 6} was the{b}
+correct{wait: 6} "answer".{nextpage_button}{hidetextbox: 1}{bgcolor: 513 0 31}{wait: 1}{bg: 173}{bgcolor: 260 1 31}{wait: 25}{wait: 60}{name: 12800}{hidetextbox: 0}{speed: 5}
+...{wait: 30}Take this.{wait: 14} I give my art{b}
+to you,{wait: 10} Zak.{nextpage_button}{showphoto: 211}{name: 7936}{shake: 30 0}{speed: 2}{bgcolor: 2305 8 31}
+What...?{nextpage_button}{removephoto}{name: 12800}{speed: 2}
+It is thanks for playing{b}
+along with my{wait: 4} "show".{p}{speed: 5}
+You shot well tonight, Zak.{p}{speed: 4}
+Though I would not have{b}
+minded dying by your hand.{nextpage_button}{name: 7936}{speed: 3}
+How could I shoot you?{wait: 30}{b}
+...You're my mentor.{nextpage_button}{name: 12800}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Bah!{wait: 30} I thought you might{b}
+say that.{nextpage_button}{name: 7936}{speed: 4}
+...{wait: 20}{speed: 3}If I went home without{b}
+shooting anything...{p}
+...what would you have done{b}
+then?{nextpage_button}{name: 12800}
+Then,{wait: 6} of course,{wait: 6} I would have{b}
+given Valant his chance.{nextpage_button}{name: 7936}{speed: 5}
+And if I had shot you in the{b}
+forehead instead?{nextpage_button}{name: 12800}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Then it would be over.{p}{speed: 5}
+If you or Valant were to{b}
+shoot me in the head...{p}
+...{wait: 16}then I to the darkness{b}
+would go,{wait: 8} and my art with me.{p}{speed: 4}
+A fitting end,{wait: 8} don't you{b}
+think?{nextpage_button}{name: 7936}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah...{nextpage_button}{name: 12800}{speed: 4}
+Yet this ending, too, gives me{b}
+no cause for regret.{wait: 30}{b}
+I thank you,{wait: 8} Zak.{p}
+And{speed: 8}...{wait: 35} {speed: 5}I am sorry.{wait: 16} I have done{b}
+much that was wrong in my day.{nextpage_button}{hidetextbox: 1}{wait: 60}{fademusic: 120}{bgcolor: 516 1 31}{wait: 25}{bg: 235}{person: 32 715 715}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{person: 32 715 715}{name: 1792}{speed: 4}
+It seems to me that Magnifi{b}
+wanted you to be his successor{b}
+all along.{p}{speed: 3}
+That's why the time he gave{b}
+you was earlier than Valant's.{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 4}
+...{wait: 16}Perhaps.{wait: 16} But it is not{b}
+something we will ever know{b}
+for sure now.{nextpage_button}{person: 32 716 715}{speed: 5}
+I wonder...{wait: 16} {speed: 3}What is Valant{b}
+up to these days?{nextpage_button}{person: 32 713 713}{name: 1792}
+...Waiting for you to{wait: 6} "die".{nextpage_button}
+If{wait: 4} {color: 1}seven years{color: 0}{wait: 4} pass like this,{wait: 12}{b}
+the performance rights go to{b}
+him.{p}{person: 32 714 713}{name: 7936}{speed: 5}
+...Ahh.{nextpage_button}{person: 32 716 715}{speed: 3}
+And now here I am...{wait: 10} and his{b}
+dream is ended.{nextpage_button}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+It's worse than that,{wait: 8}{b}
+actually.{nextpage_button}{speed: 5}
+Public opinion's a fickle{b}
+thing,{wait: 14} you know?{nextpage_button}{person: 32 718 717}{name: 7936}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+What...?{fademusic: 0}{music: 18 0}{nextpage_button}{person: 32 714 713}{speed: 4}
+You don't mean to tell me{b}
+they've put the blame for{b}
+our mentor's death on... him?{nextpage_button}{name: 1792}{speed: 3}
+The trial ended when you{b}
+vanished,{wait: 8} Mr. Zak.{nextpage_button}
+There were even rumors that{b}
+Valant had helped you pull{b}
+it off.{nextpage_button}{person: 32 718 717}{name: 7936}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+But that's madness!{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 7}{0x5a}
+......{wait: 40}{b}{speed: 5}{0x59}
+Well.{p}{speed: 3}
+It seems that before I can{b}
+once again disappear from this{b}
+world{speed: 8}{0x5a}...{nextpage_button}{person: 32 714 713}{fademusic: 120}{sound: 52 1}{bgcolor: 2305 8 31}
+...I have one more act to{b}
+perform.{nextpage_button}{name: 1792}{speed: 5}
+...?{nextpage_button}{person: 32 714 713}{name: 7936}{speed: 3}
+...Isn't it odd that sorting{b}
+out my life should prove so{b}
+complicated...{p}
+...even though I'm "dead"?{nextpage_button}{hidetextbox: 1}{wait: 60}{0x26: 1}{bganim: 98 519}{wait: 60}{fademusic: 0}{music: 29 120}{0x5f: 15 3 0}{wait: 120}{name: 1792}{hidetextbox: 0}{speed: 4}
+...That night,{wait: 8} Zak Gramarye{b}
+was killed.{nextpage_button}
+He died as{wait: 6} "Shadi Smith", a{b}
+mysterious traveler with a{b}
+secret past.{nextpage_button}{speed: 4}
+But he left one thing{b}
+behind before he parted...{nextpage_button}
+This.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x5f: 16 1 1}{bg: 158}{person: 0 0 0}{bgcolor: 260 1 31}{wait: 25}{wait: 80}{name: 1792}{hidetextbox: 0}{speed: 5}
+His "confession".{b}
+...{wait: 40}{speed: 3}To use as I saw fit.{p}{speed: 4}
+...{wait: 16}Of course,{wait: 8} he'd killed{b}
+no one.{p}{speed: 4}
+This was his way of tying up{b}
+loose ends with his old{b}
+partner,{wait: 12} Valant Gramarye.{p}{newevidence: 16611}{name: 0}{speed: 4}{color: 2}
+Zak's Confession added to{b}
+the Court Record.{nextpage_button}{speed: 255}{color: 0}{hidetextbox: 1}{wait: 60}{fademusic: 120}{wait: 120}{0x64}{rejmp: 4}{b}{hideperson}{wait: 25}{0x10: 33654}{0x10: 33650}{0x26: 0}{bganim: 0 4096}{0x74: 18 0}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{person: 32 716 715}{name: 7936}{hidetextbox: 0}{speed: 4}This strange{wait: 6} "{color: 1}power{color: 0}"{speed: 8}{0x5a}...{wait: 20}{speed: 3}{0x59}{b}
+I myself do not know{b}
+from where it comes.{p}
+Yet,{wait: 6} the fact is that it{b}
+is passed down the Gramarye{b}
+line.{wait: 16} It runs in their veins.{nextpage_button}{name: 1792}{speed: 5}
+What{speed: 8}...{wait: 16} {speed: 4}is it?{p}{name: 7936}
+I asked her{speed: 8}{0x5a}...{wait: 20}{0x59}{speed: 3} Thalassa,{wait: 8}{b}
+once.{p}
+This is what she told me.{p}
+Her power responds to{wait_noanim: 20}{b}{person: 32 714 713}{sound: 52 1}{bgcolor: 2305 8 31}
+"{color: 1}tension{color: 0}" in others.{nextpage_button}{name: 1792}{speed: 5}
+Tension{speed: 8}...?{p}{name: 7936}{speed: 3}
+If she were to face a{b}
+person,{wait: 8} and they became{b}
+tense,{wait: 8} even slightly...{p}
+...then she would know,{wait: 12} no{b}
+matter how hard they tried to{b}
+hide it from her.{nextpage_button}{name: 1792}
+So,{wait: 8} she could{speed: 6} "see" it?{p}{person: 32 714 713}{name: 7936}{speed: 4}
+Not quite. This is the{b}
+strangest part of it all.{p}{person: 32 716 715}{speed: 3}
+She wouldn't realize that she{b}
+was subconsciously detecting{b}
+this tension...{p}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...without the use of a{b}
+particular{wait: 4} "{color: 1}object{color: 0}", or,{wait: 8} in{b}
+her case,{wait: 8} "{color: 1}objects{color: 0}".{nextpage_button}{name: 1792}{speed: 5}
+Objects{speed: 8}...?{wait: 35} Wait...{wait: 14} {speed: 3}were they{b}
+something she wore?{p}{name: 7936}
+Yes.{wait: 20}{0x5a}{wait: 16}{showphoto: 83}{person: 32 714 713} Her{wait: 6} {color: 1}bracelets{color: 0}.{nextpage_button}{person: 32 713 713}{name: 1792}{speed: 4}{color: 2}
+(I admit the first time I saw{b}
+one of those, I felt there was{b}
+more to it than just fashion.){p}{speed: 3}
+(But what kind of power could{b}
+a bracelet have...?){p}{color: 0}{removephoto}{person: 32 716 715}{name: 7936}{speed: 5}
+...I have made a decision.{nextpage_button}{person: 32 722 721}{speed: 3}
+I will tell you all I know.{wait: 16}{b}
+Consider it a gift.{nextpage_button}{0x10: 33659}{0x37: 13 0}{0x37: 14 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{name: 1792}{hidetextbox: 0}{speed: 3}Well,{wait: 6} I hardly need you{b}{person: 32 715 715}
+to tell me at this point,{wait: 8}{b}
+but those two...{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 3}
+...Are brother and sister,{wait: 8}{b}
+yes.{p}{speed: 3}
+And the brother, too,{wait: 8} has{b}
+this {person: 32 714 713}"{color: 1}power{color: 0}" of theirs.{nextpage_button}{name: 1792}{speed: 4}
+So Trucy has an older{b}
+brother{speed: 8}...{wait: 30} {speed: 3}I wonder what{b}
+will come of that.{nextpage_button}{person: 32 714 713}{name: 7936}{speed: 4}
+...Mr. Wright.{p}{name: 7936}
+Tonight,{wait: 12} after our game{b}
+is done...{p}{person: 32 716 715}{speed: 3}
+...{wait: 12}I will return to a life{b}
+of hiding.{nextpage_button}{name: 1792}{speed: 6}
+......{p}{name: 7936}{speed: 4}
+I would not see her live her{b}
+life without knowing{speed: 8}{0x5a}...{nextpage_button}{name: 1792}{speed: 3}
+I understand.{wait: 20} I'll tell the{b}{person: 32 713 713}
+two of them when the time{b}
+is right.{nextpage_button}{person: 32 722 721}{name: 7936}{bgcolor: 2305 8 31}{shake: 30 0}
+I...{wait: 8} am in your debt.{wait: 16}{b}
+Once again.{nextpage_button}{name: 1792}{speed: 4}
+No kidding.{nextpage_button}{person: 32 713 713}{speed: 3}
+What I want to know is how{b}
+all this got to be so{b}
+messed up{speed: 8}...{nextpage_button}{0x10: 33660}{0x51: 3 53}
+{32000}{1338}{0x35: 32256 @RelativeAddress29}{0x35: 30209 @RelativeAddress30}{jmp: 142}{endjmp}{endjmp}{@RelativeAddress29}{@RelativeAddress30}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{person: 32 716 715}{name: 7936}{showphoto: 83}{hidetextbox: 0}{speed: 3}Those bracelets are made of{b}
+a special alloy...{p}
+...{wait: 12}It is said to expand and{b}
+shrink,{wait: 8} very slightly,{wait: 8} in{b}
+response to body warmth.{nextpage_button}{person: 32 713 713}{name: 1792}{speed: 5}
+So they're temperature{b}
+sensitive or something?{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 3}
+Yes.{wait: 16}{p}{person: 32 714 713}
+This is how they can shrink{b}
+to the{wait: 10} {color: 1}exact size{color: 0} of their{b}
+wearer's wrist!{nextpage_button}{removephoto}{name: 1792}{speed: 4}
+...{wait: 12}{speed: 3}And this has something to{b}
+do with the{wait: 6} "{color: 1}power{color: 0}"?{nextpage_button}{person: 32 716 715}{name: 7936}
+What have I told you?{p}
+The Gramarye{wait: 6} "{color: 1}power{color: 0}"{wait: 6} reacts{b}
+to {color: 1}tension{color: 0} in others.{p}
+When a Gramarye senses{b}
+tension,{wait: 8} they, too, become{b}
+tense.{nextpage_button}{person: 32 714 713}{name: 7936}
+And this tension translates{b}
+into minute contractions of{b}
+the muscles.{p}{person: 32 716 715}
+So minute,{wait: 10} they cannot sense{b}
+it on their own.{nextpage_button}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Their muscles?{wait: 30} {speed: 3}Oh,{wait: 8} so that's{b}
+what the bracelets are for!{nextpage_button}{person: 32 714 713}{name: 7936}
+With a bracelet on,{wait: 12} one{b}
+can sense these contractions.{p}{person: 32 722 721}
+Because the bracelet is{b}
+always a perfect fit.{nextpage_button}{name: 1792}
+...{wait: 20}So when the person they're{b}
+watching gets tense...{nextpage_button}{person: 32 713 713}{speed: 3}
+...the bracelet feels tighter{b}
+on their wrist!{nextpage_button}{person: 32 714 713}{name: 7936}
+Precisely.{nextpage_button}{name: 1792}
+But that alone doesn't really{b}
+count as mind reading.{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 4}
+I believe I understand how{b}
+the process works from there.{p}{person: 32 722 721}{speed: 3}
+It's a simple question{b}
+of "{color: 1}eyesight{color: 0}".{nextpage_button}{person: 32 713 713}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Eyesight...?{p}{speed: 3}{color: 2}
+(I guess that sounds simple{b}
+enough...){nextpage_button}{color: 0}{0x10: 33661}{0x51: 3 53}
+{31744}{2420}{0x35: 32256 @RelativeAddress31}{0x35: 30209 @RelativeAddress32}{jmp: 142}{endjmp}{endjmp}{@RelativeAddress31}{@RelativeAddress32}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{person: 32 714 713}{name: 7936}{hidetextbox: 0}{speed: 3}Have you ever heard of{b}
+"kinetic vision"?{nextpage_button}{person: 32 713 713}{name: 1792}
+Something about the ability to{b}
+see moving objects with full{b}
+clarity, right?{p}
+I've heard of it before.{p}
+They say athletes can see{b}
+a moving ball like it was{b}
+stopped...{wait: 8} if they focus.{nextpage_button}{person: 32 722 721}{name: 7936}
+Oh,{wait: 8} but it's not confined to{b}
+sports alone.{p}
+It all relies on the ability{b}
+to "focus". When we focus,{wait: 8}{b}
+we can see many things...{p}{person: 32 714 713}
+...{wait: 6}The faintest twitch of{b}
+the face...{wait: 20} and the meaning{b}
+that lies behind it.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...!{nextpage_button}{person: 32 722 721}{name: 7936}{speed: 3}
+Therein lies one of the{b}
+secrets of magic.{p}
+One must know the mind of{b}
+a crowd before one may{b}
+distract it.{nextpage_button}{person: 32 721 721}{name: 1792}
+So,{wait: 20} {speed: 4}basically,{wait: 8} what you're{b}
+saying is...{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 10}the Gramaryes can {color: 1}see{b}
+really well{color: 0}?{p}{person: 32 714 713}{name: 7936}
+For them,{wait: 10} seeing is more{b}
+than believing.{wait: 16} It is knowing.{nextpage_button}{person: 32 722 721}{speed: 3}
+Their{wait: 6} "power"{wait: 6} relies on{b}
+eyesight combined with{b}
+exceptional focus.{nextpage_button}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Things are starting to come{b}{person: 32 713 713}
+into focus for me,{wait: 10} too.{nextpage_button}{person: 32 716 715}{name: 7936}
+Of course,{wait: 12} it is difficult to{b}
+maintain such levels of{b}
+focus for any length of time.{p}
+But,{wait: 8} what if someone could{b}{person: 32 714 713}
+tell you when to focus?{nextpage_button}{person: 32 713 713}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Or{bgcolor: 2305 8 31}{wait: 30} {speed: 4}some-{showphoto: 83}{wait: 4}"thing"!{nextpage_button}{person: 32 722 721}{name: 7936}{speed: 4}
+...Precisely.{nextpage_button}{bganim: 98 579}{person: 32 713 713}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+But wait.{wait: 12} {speed: 3}Trucy doesn't{b}
+have any bracelets.{nextpage_button}{person: 32 714 713}{name: 7936}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+You are talking about{b}
+poker,{wait: 8} yes?{p}{person: 32 722 721}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+The timing of when to focus{b}
+is so elementary,{wait: 12} she probably{b}
+does it without thinking.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...!{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 4}
+I doubt Trucy herself has{b}
+realized this.{speed: 255}{nextpage_button}{0x10: 33662}{0x51: 3 53}
+{31744}{2846}{0x35: 32000 @RelativeAddress33}{0x35: 30209 @RelativeAddress34}{jmp: 142}{endjmp}{endjmp}{@RelativeAddress33}{@RelativeAddress34}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{person: 32 713 713}{name: 0}{hidetextbox: 0}{center_text: 1}{speed: 2}{b}{color: 1}
+-- The Gramarye Secret --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{fademusic: 0}{music: 31 0}{0x6c: 0}{person: 32 713 713}{name: 1792}{speed: 3}
+I have to know more about{b}
+this{wait: 6} "{color: 1}power{color: 0}"{wait: 6} of Trucy's.{p}
+It's like she can see right{b}
+into people's minds{speed: 8}...!{p}{speed: 3}
+The first time I saw her{b}
+do it,{wait: 8} it blew mine.{p}{person: 32 714 713}{name: 7936}{speed: 3}
+And after you were done having{b}
+your mind blown,{wait: 8} you took her{b}
+to play cards with you.{nextpage_button}{name: 1792}{speed: 5}
+Er...{speed: 3} Gotta use the resources{b}
+at hand,{wait: 8} I always say.{nextpage_button}{person: 32 716 715}{name: 7936}
+Yet,{wait: 16} I myself have no such{wait: 6}{b}
+"{color: 1}power{color: 0}".{nextpage_button}{name: 1792}
+But {color: 1}Trucy does{color: 0}...{nextpage_button}
+...Why's that?{nextpage_button}{name: 7936}{speed: 6}
+......{nextpage_button}{person: 32 715 715}{name: 1792}
+Maybe Trucy got her{wait: 4} "{color: 1}power{color: 0}"{wait: 4}{b}
+from her mother?{p}{speed: 3}
+Thalassa Gramarye{speed: 8}...?{nextpage_button}{person: 32 714 713}{name: 7936}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I will not speak of that!{nextpage_button}{endjmp}
+
+{{20}}
+{bop}{0x6e: 20}{name: 1792}{person: 32 713 713}Thalassa is officially{b}
+"missing", correct?{p}{0x82}{bop}
+Ó65{0x83}{bop}{224}6{0x83}{bop}Ê7{color: 3}And I think I know why you{b}
+don't want to talk about her.{speed: 255}{color: 0}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{name: 1792}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}Well,{wait: 10} Mr. Zak!?{nextpage_button}{person: 32 716 715}{name: 7936}{speed: 4}
+...Let me be frank.{p}{speed: 3}
+It is true I do not wish{b}
+to talk of her.{p}
+And now,{wait: 16} there is another{b}
+I could care less about.{nextpage_button}{person: 32 714 713}{sound: 52 1}{bgcolor: 2305 8 31}
+...You.{nextpage_button}{name: 1792}{speed: 5}
+Ah.{nextpage_button}{person: 32 722 721}{name: 7936}{speed: 3}
+Take care you do not end{b}
+up{wait: 6} "missing"{wait: 6} yourself.{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(For some reason,{wait: 10} it's extra{b}
+scary when magicians threaten{b}
+me.){nextpage_button}{person: 32 713 713}{speed: 3}
+(I'd better rethink my{b}
+strategy here!){color: 0}{nextpage_button}{0x6c: 0}{jmp: 148}{endjmp}
+
+{{22}}
+{bop}{0x66: 109 0 34}{person: 30 32 713}{713}{name: 1792}{hidetextbox: 0}The three of you were{b}
+a team,{wait: 8} once.{nextpage_button}{showphoto: 224}
+Not that the entire country{b}
+doesn't already know this.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 151}{person: 0 0 0}{bgcolor: 260 1 31}{wait: 25}{wait: 60}{hidetextbox: 0}
+At your peak,{wait: 8} you were the{b}
+biggest stars around.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x86}{jmp: 152}{endjmp}
+
+{{23}}
+{bop}{0x66: 109 0 34}{person: 30 32 713}{713}{name: 1792}{hidetextbox: 0}The three of you were{b}
+a team,{wait: 8} once.{nextpage_button}
+Not that the entire country{b}
+doesn't already know this.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 168}{person: 0 0 0}{bgcolor: 260 1 31}{wait: 25}{wait: 60}{hidetextbox: 0}
+At your peak,{wait: 8} you were the{b}
+biggest stars around.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x86}{jmp: 152}{endjmp}
+
+{{24}}
+{bop}{person: 32 715 715}{bgcolor: 258 1 31}{wait: 15}{wait: 40}{name: 1792}{hidetextbox: 0}Yet,{wait: 20} {speed: 3}there's another story{b}
+behind the fame.{wait: 30} {speed: 4}One that{b}
+not many know.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 85}{person: 0 0 0}{bgcolor: 772 1 31}{wait: 25}{wait: 40}{name: 1792}{hidetextbox: 0}
+Thalassa lost her life{b}
+during a rehearsal.{p}{speed: 8}
+...{wait: 16}{speed: 4}To you and Valant{b}{showphoto: 217}
+Gramarye's bullets.{nextpage_button}{bganim: 98 579}{0x86}{person: 32 716 715}{name: 7936}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+It was an accident!{b}
+It{0x5a}...{wait: 30}{shake: 30 0}{bgcolor: 2305 8 31}{0x59}{speed: 5} It wasn't me!{p}{speed: 2}
+How could I{shake: 30 0}{bgcolor: 2305 8 31}{person: 32 714 713} shoot my dear{b}
+Thalassa!?{nextpage_button}{name: 1792}{speed: 4}
+...I'm sure Valant would say{b}
+the same thing.{nextpage_button}{speed: 3}
+Why,{wait: 8} it's just like another{b}
+murder I might mention.{nextpage_button}{person: 32 716 715}{name: 7936}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}{wait: 10}
+Damn you!{wait_noanim: 20}{nextpage_button}{0x84}{bop}{person: 32 716 715}{name: 7936}{hidetextbox: 0}{speed: 4}
+Her eyes...{wait: 8} I loved Thalassa's{b}
+eyes.{p}{person: 32 716 715}
+To think they could read{b}
+my mind...{wait: 16} was frightening.{p}{speed: 3}
+Yet there was a warmth in{b}
+them that felt...{wait: 16} like an{b}
+embrace.{p}{person: 32 714 713}
+She is dead,{wait: 12} and Magnifi{b}
+Gramarye has joined her.{nextpage_button}{person: 32 713 713}{name: 1792}
+So the only one with her{wait: 5}{b}
+"{color: 1}power{color: 0}"{wait: 5} left now...{p}{sound: 52 1}{bgcolor: 2305 8 31}
+...is Trucy?{nextpage_button}{person: 32 715 715}{name: 7936}{speed: 8}
+......{nextpage_button}{person: 32 715 715}{name: 1792}{speed: 4}
+Mr. Zak...?{nextpage_button}{person: 32 716 715}{name: 7936}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 8}
+I...{wait: 20} {speed: 3}do not know.{nextpage_button}{person: 32 715 715}{name: 1792}{color: 2}{speed: 4}
+(I don't need any{wait: 5} "{color: 1}power{color: 2}" to{b}
+see through that one,{wait: 8} buddy.){p}{color: 0}{0x23: 0}{music: 255 90}{name: 1792}{speed: 4}
+So there's someone else.{wait: 30}{b}{speed: 3}
+Someone other than Trucy.{p}
+Someone who inherited{b}
+Thalassa's "{color: 1}power{color: 0}".{nextpage_button}{person: 32 718 717}{name: 7936}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Hah...{wait: 8} Hah!{wait: 15}{b}{speed: 3}
+How would I know...?{nextpage_button}{0x6c: 0}{endjmp}
+
+{{25}}
+{bop}{0x6e: 20}{person: 32 713 713}{name: 1792}{speed: 4}{color: 2}(My chances are slim.){nextpage_button}
+(It would take a miracle to{b}
+learn the truth.){p}
+(Or maybe... one has already{b}
+occurred.){p}{0x82}{bop}
+aBA{color: 3}There is someone else with{b}
+the{wait: 8} "power".{wait: 6} And I know who...{color: 0}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{b}{special_jmp}{endjmp}
+
+{{26}}
+{bop}{person: 32 716 715}{name: 7936}{hidetextbox: 0}{speed: 4}Tell me,{wait: 6} what do you think{b}
+the{wait: 7} "meaning" of magic is?{nextpage_button}{name: 1792}{speed: 5}
+...Huh?{p}{name: 7936}
+It is simple.{wait: 30}{person: 32 714 713} To do magic{b}
+is to make miracles happen.{p}{speed: 4}
+It is not something an{b}
+amateur can achieve.{wait_noanim: 35}{b}{person: 32 716 715}
+Or you,{wait: 8} apparently.{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{name: 1792}{color: 2}
+(I don't need to make a{b}
+miracle if one's already{b}
+occurred{speed: 8}...){nextpage_button}{speed: 4}
+(And I've known it all{b}
+along.){nextpage_button}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+(In fact, it would take a{b}{wait: 4}
+"miracle"{speed: 4} for me to mess{b}
+this one up!){nextpage_button}{speed: 3}
+(I know who {shake: 30 0}{bgcolor: 2305 8 31}{color: 1}the other{b}
+one with the power{color: 2} is!){nextpage_button}{speed: 255}{color: 0}{0x6c: 0}{jmp: 153}{endjmp}
+
+{{27}}
+{bop}{0x66: 109 0 34}{person: 30 32 714}{713}{name: 7936}{hidetextbox: 0}{showphoto: 180}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}This...{wait: 20} This boy?{nextpage_button}{name: 1792}{speed: 3}
+His name is{speed: 8}... I forget.{wait: 23}{b}
+Something weird.{nextpage_button}{person: 32 714 713}{name: 7936}
+Who could he be?{nextpage_button}{person: 32 713 713}{name: 1792}
+An attorney.{nextpage_button}{person: 32 718 717}{name: 7936}{shake: 30 0}{bgcolor: 2305 8 31}
+A-{wait: 10}Attorney!?{nextpage_button}{person: 32 717 717}{name: 1792}{speed: 3}
+I noticed him when I went to{b}
+visit a friend's law offices.{nextpage_button}{person: 32 715 715}{name: 7936}{speed: 5}
+......{nextpage_button}{person: 32 722 721}{bganim: 98 579}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...So,{wait: 8} what are we to make{b}
+of this,{wait: 8} O Great Ex-Attorney?{0x23: 0}{music: 255 90}{nextpage_button}{name: 1792}{speed: 6}
+......{nextpage_button}{person: 32 714 713}{name: 7936}
+You can show me pictures of{b}
+strange boys all you like.{nextpage_button}{person: 32 722 721}
+But you could at least say {b}
+something like{wait: 6} "I'm this boy".{b}
+I could use a laugh.{nextpage_button}{name: 1792}
+Perhaps you wouldn't laugh{b}
+if you knew the facts.{nextpage_button}{person: 32 713 713}{name: 7936}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...!{nextpage_button}{0x6c: 0}{endjmp}
+
+{{28}}
+{bop}{0x6e: 20}{person: 32 713 713}{name: 1792}This might not be 100%{b}
+proof,{wait: 8} but it's close.{p}
+There's a link between this{b}
+boy and Thalassa{speed: 8}...{wait: 25} {speed: 3}Actually,{b}
+it's more of a{wait: 6} "{color: 1}ring{color: 0}".{nextpage_button}{person: 32 714 713}{name: 7936}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...{wait: 16}{speed: 4}A ring?{nextpage_button}{person: 32 715 715}{name: 1792}{speed: 3}
+Perhaps this will refresh{b}
+your memory.{nextpage_button}{0x82}{bop}
+{226}ED{person: 32 713 713}{color: 3}I just so happen to have{b}
+evidence showing this{wait: 8}{b}
+"missing link"!{color: 0}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{29}}
+{bop}{person: 32 720 720}{name: 7936}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}Wa{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha!{nextpage_button}{name: 1792}{speed: 3}
+...Mr. Zak?{nextpage_button}{name: 7936}{person: 32 722 721}{sound: 52 1}{bgcolor: 2305 8 31}
+This face is your {b}
+response,{wait: 12} Mr. Ex-Attorney.{nextpage_button}{person: 32 714 713}
+You did say that I wouldn't{b}
+laugh if I knew the facts,{wait: 8}{b}
+right?{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Yeah...{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{p}{person: 32 722 721}{name: 7936}{speed: 3}
+Few magicians will tell you{b}
+they're going to produce a{b}
+dove,{wait: 10} then take off their hat.{nextpage_button}{person: 32 714 713}
+It's almost more effective{b}
+to not reveal your hand{b}
+in advance,{wait: 10} Mr. Wright.{nextpage_button}{name: 1792}{color: 2}
+(Which I've just done,{wait: 12}{b}{speed: 3}
+clearly.){nextpage_button}{speed: 6}
+(The question is,{wait: 12} {speed: 3}do I have{b}
+a trump card in here{b}
+somewhere?){nextpage_button}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+(Think,{wait: 8} Wright,{wait: 8} think!){color: 0}{nextpage_button}{0x6c: 0}{jmp: 156}{endjmp}
+
+{{30}}
+{bop}{0x66: 109 0 34}{person: 30 32 715}{715}{name: 1792}{hidetextbox: 0}{speed: 3}Actually,{wait: 8} I know something.{p}
+Your marriage to Thalassa{b}{person: 32 713 713}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+was her second.{nextpage_button}{person: 32 718 717}{name: 7936}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+How did{bgcolor: 2305 8 31} you know this!?{nextpage_button}{person: 32 717 717}{name: 1792}{speed: 3}
+Her first husband... He died a{b}
+year after they were wed, yes?{nextpage_button}{person: 32 715 715}{name: 7936}{speed: 8}
+......{nextpage_button}{person: 32 714 713}{speed: 4}
+He was a performer.{speed: 3} They met{b}
+when he joined us Gramaryes{b}
+as a guest in our show.{nextpage_button}{person: 32 716 715}
+After Thalassa wed him,{wait: 8} she{b}
+left the Troupe for a while.{nextpage_button}{speed: 8}
+......{wait: 40}{b}{person: 32 716 715}{speed: 4}
+And you say she had a child{b}
+then...?{nextpage_button}{showphoto: 226}{name: 1792}{speed: 3}
+I have a photograph of her{b}
+here.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 172}{person: 0 0 0}{bgcolor: 260 1 31}{wait: 25}{wait: 60}{name: 1792}{hidetextbox: 0}{speed: 4}
+I couldn't help notice{b}
+what she was wearing when{b}
+I first saw this.{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{showphoto: 83}
+Those bracelets stand out.{nextpage_button}{hidetextbox: 1}{0x86}{person: 32 716 715}{name: 7936}{hidetextbox: 0}{speed: 4}
+They are a Gramarye family{b}
+heirloom.{nextpage_button}{name: 1792}
+This boy...{nextpage_button}
+...{wait: 20}wears a bracelet just{b}
+like the ones in the picture.{nextpage_button}{person: 32 719 719}{name: 7936}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Wha{bgcolor: 2305 8 31}t...!?{0x63}{wait: 40}{nextpage_nobutton}{person: 32 716 715}{speed: 5}
+So...{0x5a}{wait: 20}{0x59}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}{wait: 15} that's why!{nextpage_button}{name: 1792}{speed: 3}
+Why what,{wait: 10} Mr. Zak?{p}{name: 7936}{showphoto: 226}{speed: 4}
+I took this photograph of{b}
+Thalassa before she left us.{nextpage_button}{bganim: 98 579}{person: 0 0 0}{bg: 172}{speed: 4}
+When she returned...{p}{speed: 3}
+...she wore only one {color: 1}bracelet{color: 0}.{nextpage_button}{0x86}{person: 32 715 715}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 2}
+I bet I know where that{b}{bgcolor: 2305 8 31}{shake: 30 0}
+other one went.{nextpage_button}{person: 32 716 715}{name: 7936}{showphoto: 180}{speed: 5}
+She gave it to this boy.{0x5a}{wait: 30}{b}{person: 32 714 713}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 20}Her son.{nextpage_button}{bganim: 98 579}{0x84}{bop}{0x84}{bop}{0x8d}{0x83}{0x51: 3 53}
+{32769}{2224}{0x10: 33664}{0x37: 11 0}{0x37: 13 1}{fademusic: 0}{music: 32 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{31}}
+{bop}{0x66: 109 0 14}{1792}{speed: 4}{color: 2}(I may not have enough{b}
+evidence right now to{b}
+pull this off.){nextpage_button}
+(Maybe it's time to do a{b}
+little more legwork.){color: 0}{speed: 255}{nextpage_button}{fademusic: 45}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{32}}
+{bop}{name: 0}{speed: 4}{color: 1}...Any more of this,{wait: 8} and{b}
+something's going to give.{nextpage_button}{speed: 3}
+...Time to cool off a bit{b}
+and rethink what I'm doing.{nextpage_button}{color: 0}{0x66: 109 0 34}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}

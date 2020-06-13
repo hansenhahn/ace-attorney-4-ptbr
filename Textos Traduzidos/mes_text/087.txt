@@ -1,0 +1,486 @@
+
+
+{{0}}
+{bop}{0x62: 4 4}{bganim: 98 267}{0x74: 2 0}{bg: 4095}{person: 0 0 0}{name: 1792}{speed: 4}The nightmare trial was{b}
+over{speed: 8}...{p}{speed: 4}
+...{wait: 10}and the new nightmare of{b}
+figuring out what had happened{b}
+had just begun.{p}{speed: 3}
+I wanted to wake up,{wait: 8}{b}
+to walk away.{p}{speed: 4}
+...{wait: 12}But I figured I'm the{b}
+only one who could do this,{wait: 12}{b}
+probably.{p}{speed: 3}
+And besides,{wait: 8} I had plenty of{b}
+time.{p}{speed: 4}
+Thanks to the Bar Association{b}
+review board's decision.{p}{speed: 5}
+It's hard to work when{b}
+your attorney's badge{b}
+has been taken away.{nextpage_button}{hidetextbox: 1}{wait: 60}{0x10: 33633}{jmp: 129}{endjmp}
+
+{{1}}
+{bop}{0x62: 4 4}{0x25: 1}{bganim: 98 267}{person: 0 0 0}{name: 0}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{0x74: 2 0}{center_text: 1}{hidetextbox: 0}{color: 3}Seven Years Ago{b}
+Wright & Co. Law Offices{color: 0}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{bgcolor: 513 0 31}{wait: 1}{bg: 257}{person: 27 607 607}{0x5f: 3 1 31}{fademusic: 0}{music: 45 0}{bgcolor: 258 1 31}{wait: 15}{person: 27 614 613}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+Ooh!{wait: 16} Morning,{wait: 12} Daddy!{nextpage_button}{person: 31 712 711}{name: 12288}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Ah,{wait: 10} I'm so glad you came.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 612 611}{name: 1280}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+You OK,{wait: 6} Daddy?{wait: 20} {speed: 3}They picking{b}
+on you?{nextpage_button}{person: 31 710 710}{name: 12288}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha.{wait: 30}{b}{person: 31 712 711}
+I am fine,{wait: 12} as always.{p}
+This old boy is here to{b}
+help me,{wait: 8} after all.{nextpage_button}{person: 31 704 704}{name: 1792}{color: 2}
+(That's{wait: 6} "young man" to you.){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 27 607 607}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Good morning.{wait: 30} That's a cute{b}
+outfit you have on.{nextpage_button}{person: 27 614 613}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Thanks!{wait: 20} {speed: 3}My first show's today,{wait: 12}{b}
+after all!{nextpage_button}{hidetextbox: 1}{wait: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{bgcolor: 257 1 31}{wait: 7}{name: 1792}{hidetextbox: 0}{speed: 4}
+...Two weeks had passed{b}
+since then.{nextpage_button}{fademusic: 120}
+I called her into my office.{nextpage_button}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 40}{person: 27 609 609}{0x5f: 4 1 1}{bgcolor: 260 1 31}{wait: 25}{wait: 60}{name: 1792}{hidetextbox: 0}{speed: 3}
+Trucy,{wait: 20} there's something{b}
+we need to talk about.{nextpage_button}{person: 27 609 609}{name: 1280}{speed: 7}
+......{nextpage_button}{name: 1792}{speed: 3}
+It's been two weeks since{b}
+your father... disappeared.{p}{speed: 4}
+We need to start thinking{b}
+about{speed: 8}...{wait: 20} {speed: 3}your future.{nextpage_button}{name: 1280}{speed: 7}
+......{nextpage_button}{person: 27 609 609}{name: 1792}{speed: 3}
+I, um, did some calling{b}
+around.{wait: 25} {speed: 4}This is hard to say,{b}
+but...{p}{speed: 3}
+...you have no living{b}
+relatives.{nextpage_button}{name: 1280}{speed: 7}
+......{nextpage_button}{person: 27 609 609}{name: 1792}{speed: 4}
+So...{nextpage_button}{speed: 3}
+...{wait: 16}I was wondering if you{b}
+wanted to stay with me for{b}
+a while.{p}
+Just until your daddy comes{b}
+home.{wait: 25} {speed: 3}It won't be long.{p}{color: 2}
+(...{wait: 16}I hope.){nextpage_button}{color: 0}{name: 1280}{speed: 7}
+......{nextpage_button}{person: 27 609 609}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Uh,{wait: 12} of course,{wait: 30} {speed: 3}it's totally{b}
+your choice.{p}
+If you don't like it here,{wait: 8}{b}
+you can go wherever you'd{b}
+like.{p}
+I could look up some places{b}
+you might like to stay at...{wait: 20}{b}{color: 2}
+(This is so weird...){nextpage_button}{color: 0}{person: 27 610 609}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...Mr. Attorney.{wait: 16} Daddy told{b}
+me about you.{p}{person: 27 608 607}{sound: 51 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 16 60}{speed: 3}
+He said I could trust you.{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 8}
+Huh...?{wait: 30} {speed: 3}Really?{nextpage_button}{person: 5 612 611}{name: 1280}{speed: 3}
+So,{wait: 10} if I stay here...{p}{person: 27 608 607}
+...does that mean you'll be{b}
+my family?{nextpage_button}{person: 27 607 607}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Huh?{wait: 30} Uh...{wait: 16} Um...{wait: 12} I guess so?{p}{speed: 3}{color: 2}
+(Getting weirder{speed: 8}...){nextpage_button}{color: 0}{person: 27 610 609}{name: 1280}{speed: 5}
+Um{speed: 8}{0x5a}...{wait: 20}{person: 27 608 607}{bgcolor: 2305 8 31}{speed: 4} Mr. Attorney?{nextpage_button}{person: 27 607 607}{name: 1792}
+Er,{wait: 16} actually,{wait: 10} why don't you{b}
+call me{speed: 5}...{wait: 16} {speed: 3}Nick.{p}
+...{wait: 10}Or you can call me "{color: 1}Daddy{color: 0}"{b}
+if you'd like.{wait: 16} It doesn't have{b}
+to be today,{wait: 8} or anything.{nextpage_button}{person: 27 614 613}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+OK!{wait: 10} Say, Daddy?{nextpage_button}{person: 27 613 613}{name: 1792}{speed: 5}{color: 2}
+(That was quick.){color: 0}{wait: 30}{b}{speed: 3}
+...Yes?{nextpage_button}{person: 5 612 611}{name: 1280}
+If I move here,{wait: 14} I have{b}
+to switch schools,{wait: 8} right?{nextpage_button}{person: 27 608 607}
+And I was thinking,{wait: 8} I haven't{b}
+paid for lunches at my last{b}
+school...{wait: 16} for a year.{nextpage_button}{person: 27 614 613}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+So thanks,{wait: 8} Daddy!{nextpage_button}{person: 27 607 607}{name: 1792}{speed: 5}
+...Ah.{nextpage_button}{person: 5 612 611}{name: 1280}{speed: 3}
+Oh,{wait: 8} and this office?{wait: 20} It's{b}
+a little blah.{p}{speed: 5}
+A little color goes a long{b}
+way,{wait: 12} {speed: 3}you know?{nextpage_button}{name: 1792}{speed: 5}
+...Ah.{nextpage_button}{person: 27 608 607}{name: 1280}{speed: 3}
+Oh,{wait: 4} and Daddy?{wait: 20} You got{b}
+fired from work,{wait: 4} right?{nextpage_button}{person: 27 614 613}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Don't you worry one bit!{wait: 16}{b}{speed: 3}
+I'll work twice as hard!{wait: 16}{b}
+We'll make it through this!{nextpage_button}{person: 27 613 613}{name: 1792}{speed: 4}
+Trucy...{wait: 12} {speed: 3}how old are you?{nextpage_button}{person: 27 608 607}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+Oh,{wait: 8} I'm eight.{nextpage_button}{person: 5 612 611}{name: 1280}
+But don't let appearances{b}
+deceive you!{p}{person: 27 608 607}
+I'm a {color: 1}young professional{color: 0}!{nextpage_button}{person: 27 614 613}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Stick with me and you'll{b}
+do just fine,{wait: 16} Daddy!{nextpage_button}{person: 27 613 613}{name: 1792}{speed: 6}
+...{wait: 30}{speed: 5}Ah, thanks.{wait: 30}{b}{speed: 4}{color: 2}
+(Why does it feel like she's{b}
+already in charge...?){nextpage_button}{color: 0}{speed: 255}{0x10: 33635}{0x32: 13 40}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{fademusic: 120}{person: 27 607 607}{name: 1792}{hidetextbox: 0}{speed: 4}I think that's probably{b}
+enough for today.{p}
+Sorry to ask you so much{b}
+all at once like that.{nextpage_button}{person: 27 614 613}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+It's OK!{wait: 16} {speed: 3}After all,{wait: 8} we're{b}
+family!{p}{person: 27 608 607}
+I just hope you're ready!{nextpage_button}{person: 27 614 613}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+The {color: 1}Wright Talent Agency{color: 0}{wait_noanim: 30}{b}{person: 27 608 607}{0x59}{wait: 4}
+opens tomorrow!{nextpage_button}{person: 27 613 613}{name: 1792}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+Wh-What!? B-But are we...{wait: 16}{b}
+representing anyone?{nextpage_button}{person: 5 612 611}{name: 1280}{speed: 3}
+Me and you...{wait: 16}{b}
+That makes two, Daddy...!{nextpage_button}{name: 1792}{wait: 16}
+I think you need more than{b}
+that to make an agency.{nextpage_button}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Besides...{nextpage_button}{person: 27 607 607}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+...you may be a magician...{wait: 20}{b}
+but I'm no {color: 1}talent{color: 0}!{nextpage_button}{person: 27 608 607}{name: 1280}{speed: 3}
+Oh,{wait: 12} I'm sure there's {b}
+something you're good at!{nextpage_button}{person: 27 607 607}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Well,{wait: 10} when you put it that{b}
+way...{nextpage_button}{person: 5 612 611}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+You mean you don't have any{b}
+tricks?{wait: 16} No old standbys?{wait: 16}{b}
+This will not do!{p}{person: 27 610 609}{speed: 3}
+A boy should always have a{b}
+trick or two in his pocket.{nextpage_button}{person: 5 611 611}{name: 1792}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+OK,{wait: 8} OK!{wait: 16} {speed: 3}I'll think of{b}
+something.{nextpage_button}{person: 27 614 613}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+That's the spirit!{0x5a}{wait: 20}{0x59} See you{b}
+bright and early tomorrow,{wait: 12}{b}
+Daddy!{nextpage_button}{hidetextbox: 1}{fademusic: 0}{music: 16 0}{0x8e: 27 619}{sound: 186 1}{0x63}{0x8e: 27 620}{0x63}{0x8e: 27 621}{0x63}{0x8e: 27 622}{0x63}{0x8e: 27 623}{0x63}{0x8e: 27 624}{0x63}{0x8e: 27 625}{0x63}{0x8e: 27 626}{0x63}{0x8e: 27 627}{0x63}{0x8e: 27 628}{0x63}{0x8e: 27 629}{0x63}{0x8e: 27 630}{0x63}{0x8e: 27 631}{0x63}{0x8e: 27 632}{0x63}{0x8e: 27 633}{0x63}{0x8e: 27 634}{0x63}{0x8e: 27 635}{0x63}{0x8e: 27 636}{0x63}{0x8e: 27 637}{0x63}{0x8e: 27 638}{0x63}{0x8e: 27 639}{0x63}{0x8e: 27 640}{0x63}{0x8e: 27 641}{0x63}{0x8e: 27 642}{0x63}{0x8e: 27 643}{0x63}{0x8e: 27 617}{0x63}{0x63}{person: 27 618 615}{name: 11776}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}{color: 3}
+Welcome to the team,{wait: 8} Daddy-O!{nextpage_button}{color: 0}{name: 1792}{speed: 5}
+The team...{wait: 20} {speed: 4}right.{speed: 255}{nextpage_button}{hidetextbox: 1}{0x26: 1}{bganim: 98 519}{wait: 60}{0x5f: 15 3 0}{wait: 120}{wait: 60}{name: 1792}{hidetextbox: 0}{speed: 4}
+Sometimes when magicians{b}
+vanish,{wait: 8} they leave something{b}
+behind...{nextpage_button}
+That's how Trucy became{wait: 6}{b}{color: 1}
+Trucy Wright{color: 0}{wait: 12}...{wait: 20} my daughter.{nextpage_button}{speed: 3}
+To be honest,{wait: 8} I was pretty{b}
+lost those first few days.{nextpage_button}
+Thinking back on it,{wait: 7} it was{b}
+a pretty dark time in my life.{nextpage_button}{speed: 4}
+But Trucy...{wait: 12} happy,{wait: 12} smiling{b}
+Trucy... she was my light.{nextpage_button}{hidetextbox: 1}{wait: 60}{fademusic: 120}{wait: 120}{0x64}{rejmp: 4}{b}{hideperson}{wait: 25}{0x5f: 16 1 1}{0x10: 33636}{0x10: 33634}{0x26: 0}{bganim: 0 4096}{0x74: 18 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{person: 27 608 607}{name: 1280}{hidetextbox: 0}{speed: 3}So,{wait: 7} Daddy,{wait: 10} you got fired{b}
+from being a lawyer,{wait: 8} right?{nextpage_button}{person: 27 607 607}{name: 1792}
+You could at least kind of{b}
+look aside or something when{b}
+you say that.{p}{speed: 4}
+It's...{wait: 16} {speed: 3}actually kind of{b}
+hard for me...{wait: 12} For Daddy.{nextpage_button}{person: 27 608 607}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oh,{wait: 8} I'm sorry,{wait: 8} Daddy!{p}{person: 5 612 611}{speed: 4}
+Wait!{wait: 6} Is that{wait: 6} "foolish{b}
+pride"?{p}{person: 27 608 607}{speed: 3}
+My other daddy always used{b}
+to talk about that.{nextpage_button}{name: 1792}{speed: 5}
+Uh...{wait: 20} {speed: 4}Actually,{wait: 16} that's pretty{b}
+accurate.{nextpage_button}{person: 5 612 611}{name: 1280}
+So,{wait: 8} here's my idea.{wait_noanim: 25}{person: 27 614 613}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} We'll{b}
+make a new office!{p}{person: 5 612 611}{speed: 3}
+"Law" just seems so stiff,{wait: 12}{b}
+doesn't it?{nextpage_button}{person: 27 610 609}{speed: 4}
+And no one will be my friend{b}
+at school that way!{nextpage_button}{person: 27 609 609}{name: 1792}{shake: 30 0}{speed: 5}
+Well that won't do,{wait: 8} I guess.{p}
+I just don't know much about{b}
+anything other than law.{p}{color: 2}
+(Or even much about law,{wait: 10} if{b}
+you were to ask some people.){nextpage_button}{color: 0}{person: 5 612 611}{name: 1280}{speed: 3}
+Maybe the problem is calling{b}
+it an "office". We should{b}
+run an "{color: 1}agency{color: 0}" instead!{nextpage_button}{person: 27 607 607}{name: 1792}{speed: 5}
+You mean...{wait: 16} like a {sound: 52 1}{bgcolor: 2305 8 31}{color: 1}talent{b}
+agency{color: 0}?{nextpage_button}{person: 27 613 613}{name: 1792}
+Forgive me for asking,{wait: 6} but{b}
+doesn't that require{wait: 5} "talent"?{nextpage_button}{person: 27 614 613}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+You've got me,{wait: 12} don'tcha?{wait: 16}{b}{speed: 3}
+I'm a professional!{nextpage_button}{person: 5 611 611}{name: 1792}{speed: 4}
+A professional{speed: 8}...?{nextpage_button}{person: 27 614 613}{name: 1280}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yup!{wait_noanim: 20}{p}{speed: 3}
+After all,{wait: 12} I am directly{wait: 12}{b}
+descended from the {color: 1}famous{color: 0}{b}
+Zak Gramarye!{nextpage_button}{person: 27 613 613}{name: 1792}{speed: 5}
+Directly descended... He's{b}
+your father.{nextpage_button}{person: 5 611 611}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 6}
+Oh...!{wait: 40}{person: 27 608 607}{speed: 3} And now I'm directly{b}
+descended from the {color: 1}famous{color: 0}{b}
+Phoenix Wright,{wait: 8} too!{nextpage_button}{person: 27 613 613}{name: 1792}{speed: 4}{color: 2}
+(I think an eight-year-old{b}
+just massaged my ego.){speed: 255}{nextpage_button}{color: 0}{0x51: 3 53}
+{25857}{2766}{0x10: 33637}{0x35: 26112 @RelativeAddress0}{0x37: 2 0}{0x37: 3 1}{hidetextbox: 3}{special_jmp}{@RelativeAddress0}{0x37: 0 0}{0x37: 1 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{person: 27 607 607}{name: 1792}{hidetextbox: 0}So Trucy...{p}
+You're...{wait: 10} a "professional"?{nextpage_button}{person: 27 614 613}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yes!{wait: 16} {speed: 3}Um...{wait: 16}{b}
+It's like that thing they say!{p}{person: 5 612 611}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+"Baby frogs grow up to be{b}
+frogs"...?{nextpage_button}{person: 5 611 611}{name: 1792}{speed: 3}
+They say that?{nextpage_button}{person: 5 612 611}{name: 1280}
+I always thought it was{b}
+funny,{wait: 8} though.{nextpage_button}{person: 27 607 607}{name: 1792}{speed: 4}
+What was?{nextpage_button}{person: 27 608 607}{name: 1280}
+Aren't baby frogs called{b}
+"tadpoles"{speed: 5}...?{nextpage_button}{person: 5 612 611}{speed: 3}
+Maybe they thought it would{b}
+be easier to understand that{b}
+way for kids.{wait: 16} {bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}How stupid!{nextpage_button}{name: 1792}{speed: 6}
+...Right.{wait: 16} {speed: 3}So,{wait: 8} in conclusion...{wait: 30}{nextpage_button}
+...you're a professional{b}
+magician,{wait: 6} Trucy?{nextpage_button}{person: 27 608 607}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+That's right!{nextpage_button}{person: 27 614 613}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Well?{wait: 10} Well?{wait: 10}{b}
+Wanna see a trick?{nextpage_button}{endjmp}
+
+{{5}}
+{bop}{person: 27 613 613}{name: 1792}{speed: 3}You're...{wait: 6} going to do a {b}
+magic trick?{b}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 102}{0x67}
+{65535}{b}{2args_choice_jmp: 135 134}{endjmp}
+
+{{6}}
+{bop}{person: 27 613 613}{name: 1792}Thanks,{wait: 12} but maybe next time.{nextpage_button}{person: 27 610 609}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Aw,{wait: 8} that's no fun.{wait: 16} You only{b}
+live once,{wait: 8} you know?{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(The tricks can wait.{wait: 16} We've{b}
+got more important things{b}
+to discuss.){color: 0}{nextpage_button}{person: 5 612 611}{name: 1280}
+I can't think of anything more{b}
+important than magic,{wait: 8} myself.{nextpage_button}{name: 1792}{speed: 6}
+......{wait: 20}{b}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}{color: 2}
+(Was that...{wait: 16}{speed: 5} mind reading?){color: 0}{nextpage_button}{person: 27 608 607}{name: 1280}{speed: 3}
+Silly,{wait: 16} it was written all{b}
+over your face!{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(If that wasn't a magic{b}
+trick,{wait: 8} I wonder what the{b}
+real ones are like!){color: 0}{nextpage_button}{speed: 255}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{person: 27 607 607}{name: 1792}{bgcolor: 2305 8 31}{speed: 3}Actually,{wait: 8} I would like to{b}
+see your trick.{p}
+The future of the {wait: 10}"agency"{b}
+depends on it,{wait: 8} after all.{nextpage_button}{person: 27 614 613}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}{shake: 30 0}
+That's the spirit!{p}{speed: 3}
+...Ready?{wait_noanim: 25}{person: 27 608 607}{fademusic: 30}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2} Here{bgcolor: 2305 8 31} goes!{wait: 12}{b}
+Ta{bgcolor: 2305 8 31} dah!!!{nextpage_button}{hidetextbox: 1}{0x8e: 27 619}{sound: 186 1}{0x63}{0x8e: 27 620}{0x63}{0x8e: 27 621}{0x63}{0x8e: 27 622}{0x63}{0x8e: 27 623}{0x63}{0x8e: 27 624}{0x63}{0x8e: 27 625}{0x63}{0x8e: 27 626}{0x63}{0x8e: 27 627}{0x63}{0x8e: 27 628}{0x63}{0x8e: 27 629}{0x63}{0x8e: 27 630}{0x63}{0x8e: 27 631}{0x63}{0x8e: 27 632}{0x63}{0x8e: 27 633}{0x63}{0x8e: 27 634}{0x63}{0x8e: 27 635}{0x63}{0x8e: 27 636}{0x63}{0x8e: 27 637}{0x63}{0x8e: 27 638}{0x63}{0x8e: 27 639}{0x63}{0x8e: 27 640}{0x63}{0x8e: 27 641}{0x63}{0x8e: 27 642}{0x63}{0x8e: 27 643}{0x63}{0x8e: 27 617}{0x63}{fademusic: 0}{music: 22 0}{person: 27 618 615}{name: 11776}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{soundtoggle: 0}{speed: 4}{color: 3}
+Hey folks,{wait: 8} it's Mr. Hat!{wait: 16}{b}
+I gotta say it's good to{b}
+be seen!{color: 0}{nextpage_button}{soundtoggle: 1}{name: 1792}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Yeee{bgcolor: 2305 8 31}eeee{bgcolor: 2305 8 31}eargh!{nextpage_button}{person: 27 615 615}{name: 1792}{shake: 30 0}{speed: 5}
+Whoa...{wait: 20} {speed: 4}that was... startling.{nextpage_button}{person: 27 616 615}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+The Amazing Mr. Hat!{wait: 16} {speed: 3}Isn't{b}{bgcolor: 2305 8 31}{shake: 30 0}
+he great?{nextpage_button}{person: 27 618 615}{name: 11776}{soundtoggle: 0}{speed: 4}{color: 3}
+Your friendly neighborhood{b}
+Mr. Hat,{wait: 8} at your service!{color: 0}{nextpage_button}{soundtoggle: 1}{person: 27 615 615}{name: 1792}{speed: 8}
+He...{wait: 20}{speed: 5} certainly makes an{b}
+impression.{nextpage_button}{person: 27 616 615}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Doesn't he? Ha ha ha! I'm so{b}
+glad you like him, Daddy!{nextpage_button}{name: 11776}{person: 27 618 615}{soundtoggle: 0}{speed: 3}{color: 3}
+Though my routines do get{b}
+a bit "heady" at times!{wait: 18}{b}
+Hah!{wait: 18} Get it?{wait: 18} Heady!{color: 0}{nextpage_button}{soundtoggle: 1}{person: 27 615 615}{name: 1792}{color: 2}{speed: 5}
+({speed: 8}...{wait: 30}{speed: 3}My friendly neighborhood{b}
+Mr. Hat nearly gave me a heart{b}
+attack.){nextpage_button}{color: 0}{0x51: 3 53}
+{26369}{2060}{newevidence: 16604}{name: 0}{speed: 3}{color: 2}The Amazing Mr. Hat added to{b}
+the Court Record.{nextpage_button}{speed: 255}{color: 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{person: 27 613 613}{bgcolor: 258 1 31}{wait: 15}{0x10: 33639}{0x51: 3 53}
+{26624}{2096}{0x35: 25601 @RelativeAddress1}{jmp: 130}{endjmp}{endjmp}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{person: 27 613 613}{bgcolor: 258 1 31}{wait: 15}{@RelativeAddress1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{person: 27 607 607}{name: 1792}{hidetextbox: 0}Could you tell me a bit more{b}
+about your daddy...{wait: 30} er,{wait: 6}{b}{color: 1}
+Zak Gramarye{color: 0}?{nextpage_button}{person: 27 614 613}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Daddy?{wait: 16} {speed: 3}Sure thing,{wait: 8} Daddy!{nextpage_button}{name: 1792}{color: 2}
+(Which Daddy was that again?){color: 0}{p}{person: 27 608 607}{name: 1280}
+Daddy's so amazing!{p}{person: 27 614 613}{shake: 30 0}{bgcolor: 2305 8 31}
+The biggest star of{wait: 4} {color: 1}Troupe{b}
+Gramarye{color: 0}!{wait: 16} And they're big!{nextpage_button}{name: 1792}{speed: 5}
+The Gramaryes{speed: 8}...{wait: 16} {speed: 3}They were on{b}
+television a lot.{nextpage_button}{speed: 4}{color: 2}
+(Haven't seen them on much{b}
+recently,{wait: 12} come to think of{b}
+it.){nextpage_button}{color: 0}{person: 5 612 611}{name: 1280}{speed: 3}
+Big magic happens when you{b}
+put Zak and Valant Gramarye{b}
+together, you know.{nextpage_button}{person: 27 608 607}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Once they made a giant{b}
+waterfall,{wait: 8} right there{b}
+on the stage!{p}{person: 27 614 613}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}
+And this giant trout swam{b}
+up the giant waterfall!{nextpage_button}{person: 27 607 607}{name: 1792}{speed: 3}
+Let me guess,{wait: 12} there was a{b}
+giant fisherman waiting for{b}
+him at the top?{nextpage_button}{person: 27 610 609}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+I wish I could have seen more{b}
+of Daddy's magic{speed: 8}...{b}{fademusic: 60}{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}{color: 2}
+(Ack!{wait: 20} {speed: 4}I shouldn't have brought{b}
+it up so soon...){p}{color: 0}{person: 27 610 609}{name: 1280}{speed: 3}
+I wonder what'll happen to{b}
+me,{wait: 8} with Daddy and Mommy{b}
+both gone.{nextpage_button}{name: 1792}
+Mommy{speed: 8}...?{nextpage_button}{speed: 5}{color: 2}
+(Yeah,{wait: 16} {speed: 3}what about Mommy?){nextpage_button}
+(I haven't heard anything{b}
+about Trucy's mother!){nextpage_button}{color: 0}{person: 27 608 607}{name: 1280}{speed: 3}
+But I have my magic!{wait: 16}{b}
+And a great daddy,{wait: 8} even if{b}
+he is unemployed!{p}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+You know,{wait: 8} I think thing's are{b}
+going to be OK!{0x5a}{fademusic: 0}{music: 16 60}{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(I wonder if she'll talk{b}
+about her mother...?){color: 0}{nextpage_button}{speed: 255}{0x51: 3 53}
+{26113}{2472}{0x10: 33638}{0x35: 25856 @RelativeAddress2}{0x37: 1 0}{0x37: 3 1}{hidetextbox: 3}{special_jmp}{@RelativeAddress2}{0x37: 0 0}{0x37: 2 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{person: 27 607 607}{name: 1792}{hidetextbox: 0}Could you tell me about your{b}
+mommy{speed: 8}...{wait: 20} {speed: 3}if it's OK?{nextpage_button}{person: 27 610 609}{name: 1280}{speed: 5}
+Mommy was so pretty...{p}{person: 5 612 611}{speed: 3}
+She was like{wait_noanim: 20} {person: 27 608 607}{bgcolor: 2305 8 31}an angel up{b}
+on stage.{nextpage_button}{person: 27 607 607}{name: 1792}{speed: 6}
+On stage{speed: 8}...{wait: 12} {speed: 3}You mean,{wait: 16}{b}
+with your daddy?{nextpage_button}{person: 27 614 613}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yep!{p}{speed: 3}
+She was always there with{b}{bgcolor: 2305 8 31}{shake: 30 0}
+Zak & Valant, smiling!{nextpage_button}{person: 27 608 607}{speed: 4}
+But then...{person: 27 610 609}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 16}{speed: 3} she went away.{wait_noanim: 30}{b}{fademusic: 60}{nextpage_button}{person: 27 609 609}{name: 1792}{speed: 5}
+Went away?{nextpage_button}{person: 27 610 609}{name: 1280}{speed: 5}
+It was a grand illusion{speed: 8}...{wait: 20} {speed: 4}but{b}
+she made a mistake.{p}
+She vanished...{wait: 8} and I guess{b}
+she didn't know how to get{b}
+back.{nextpage_button}{name: 1792}
+...{wait: 12}Maybe so.{p}{name: 1280}
+I cried then,{wait: 8} a lot.{p}{speed: 3}
+That's when Daddy gave me{0x5a}{wait: 25}{b}{showphoto: 221}{person: 27 608 607}
+this.{wait: 16}  {b}
+...Here.{nextpage_button}{hidetextbox: 1}{0x26: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bganim: 98 579}{0x6b: 0 2 0}{bganim: 98 261}{fademusic: 0}{music: 29 100}{bgcolor: 2308 1 31}{wait: 25}{0x6b: 0 2 1}{bganim: 98 261}{nextpage_nobutton}{wait: 30}{name: 1792}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+This{speed: 8}...{wait: 20} {speed: 4}is your mother?{wait: 20}{b}{color: 2}
+(She's beautiful...){color: 0}{nextpage_button}{speed: 255}{hidetextbox: 1}{wait: 40}{bgcolor: 2564 1 31}{wait: 25}{0x6b: 0 2 2}{bganim: 98 261}{nextpage_nobutton}{bgcolor: 769 0 31}{wait: 1}{bg: 40}{person: 27 607 607}{bgcolor: 2308 1 31}{wait: 25}{0x26: 0}{person: 27 608 607}{name: 1280}{hidetextbox: 0}
+Her name's Thalassa.{wait: 16}{b}
+Thalassa Gramarye.{nextpage_button}{person: 27 607 607}{name: 1792}{speed: 4}{color: 2}
+(Poor girl.{wait: 16} I didn't know her{b}
+mommy had gone missing.){p}{speed: 3}
+(And now her daddy's vanished,{b}
+too,{wait: 8} right before her eyes.){color: 0}{nextpage_button}{color: 0}{person: 27 610 609}{name: 1280}
+Hey,{wait: 7} Daddy?{wait: 16} You won't{0x5a}{speed: 4}...{nextpage_button}{name: 1792}{speed: 3}
+Don't worry.{wait: 20}{person: 27 607 607} I won't vanish,{wait: 8}{b}
+I promise.{nextpage_button}{person: 27 614 613}{name: 1280}{fademusic: 45}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Right!{wait: 16} {speed: 3}You can't even do{b}
+magic!{wait: 16} You're like a backup{b}
+plan!{p}{person: 27 608 607}{speed: 3}
+Daddy always said to have{b}
+a backup plan.{nextpage_button}{person: 27 613 613}{name: 1792}{color: 2}
+(...I guess all I rate as{b}
+is a "backup plan".){nextpage_button}{color: 0}{0x51: 3 53}
+{26625}{2544}{newevidence: 16605}{name: 0}{speed: 4}{color: 2}Trucy's Locket added to the{b}
+Court Record.{b}{color: 0}{nextpage_button}{speed: 255}{newevidence: 32959}{0x10: 33640}{0x51: 3 53}
+{26368}{2544}{0x35: 25601 @RelativeAddress3}{jmp: 130}{endjmp}{endjmp}{@RelativeAddress3}{fademusic: 0}{music: 16 100}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{person: 0 0 0}{name: 1792}My mentor's favorite plant,{wait: 16}{b}
+Charley.{nextpage_button}
+I guess watering Charley's{b}
+my only real job now.{nextpage_button}
+......{nextpage_button}{speed: 2}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Wait!{wait: 16} {speed: 3}I have a child now!{wait: 6}{b}
+I can't feed Trucy like{b}
+this!{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 27 607 607}{wait: 16}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 4}
+She probably needs more than{b}
+the occasional watering,{wait: 8} too,{wait: 8}{b}
+I'm guessing.{nextpage_button}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}
+...?{speed: 255}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{person: 0 0 0}{name: 1792}Quite the collection of law{b}
+books. My mentor bought all{b}
+of them.{nextpage_button}
+I used to be too busy to{b}
+read them.{nextpage_button}
+Now that I have the time to{b}
+read them,{wait: 8} there's no need.{nextpage_button}
+...{wait: 16}But I can't just sell them.{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 27 607 607}{wait: 16}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Maybe Trucy will want to{b}
+read them someday?{nextpage_button}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}
+...?{speed: 255}{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(...Nah.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{person: 0 0 0}{name: 1792}You can still see that hotel{b}
+from the window here.{p}
+Every time I look out,{wait: 8}{b}
+I think back on those{b}
+old cases...{nextpage_button}
+...{wait: 8}I wonder if the view looks{b}
+different now that I'm not{b}
+wearing my old badge...{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 27 607 607}{wait: 16}{name: 1280}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{person: 27 608 607}
+I really dig the far out{b}
+view,{wait: 10} Daddy!{nextpage_button}{name: 1792}{speed: 4}
+...Thanks.{nextpage_button}{person: 27 613 613}{speed: 3}{color: 2}
+(She must have learned a lot{b}
+of words from her parents.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{person: 0 0 0}{name: 1792}My desk.{wait: 16} Not that I have any{b}
+reason to sit there anymore.{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 27 607 607}{wait: 16}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}
+I guess Trucy can use it.{nextpage_button}
+It's great for studying math,{wait: 8}{b}
+English,{wait: 8} geography,{wait: 8} magic...{nextpage_button}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+...Ack! I'm not crying.{wait: 16}{b}
+I just got some dust in{b}
+my eye.{p}{name: 1280}
+...?{nextpage_button}{speed: 255}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{person: 0 0 0}{name: 1792}An old movie poster hangs{b}
+on the wall.{wait: 20}{nextpage_button}
+I finally found out the{b}
+title after not knowing{b}
+for the longest time.{nextpage_button}
+I actually rented the movie{b}
+the other day.{wait: 16} Cried my eyes{b}
+out.{nextpage_button}{speed: 6}
+......{nextpage_button}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Ack!{wait: 20} Just thinking about it{b}
+makes me tear up... Wait,{wait: 10} it's{b}
+just allergies... Really!{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 27 607 607}{wait: 16}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...I should show it to her{b}
+when she's a little older.{nextpage_button}
+......{nextpage_button}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{color: 2}{speed: 2}
+(Wait...{wait: 16} what was it called{b}
+again...?){color: 0}{nextpage_button}{name: 1280}{speed: 4}
+...?{nextpage_button}{speed: 255}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{name: 1792}{600}{272}í{232}{689}{577}{390}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{person: 27 607 607}{name: 1792}Trucy,{wait: 16}{showphoto: 221} about this locket...{nextpage_button}{person: 27 614 613}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Oh,{wait: 6} that's Mommy!{nextpage_button}{person: 27 608 607}{name: 1280}
+Isn't Mommy pretty?{p}{bganim: 98 579}{person: 27 614 613}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Wait...{wait: 16} you don't want to{b}
+know more about Mommy,{wait: 10} do{b}
+you,{wait: 8} Daddy?{nextpage_button}{person: 27 607 607}{name: 1792}{speed: 4}
+I do,{wait: 8} actually.{nextpage_button}{person: 27 608 607}{sound: 52 1}{bgcolor: 2305 8 31}{name: 1280}{speed: 5}
+Eeek!{wait: 20} {speed: 3}I better keep an eye{0x5a}{wait: 25}{b}{person: 27 614 613}
+on you,{wait: 10} Daddy!{nextpage_button}{person: 27 613 613}{name: 1792}{speed: 6}
+...{speed: 8}...{speed: 3}{b}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Oh,{wait: 30} that's not how I meant{b}
+it,{wait: 4} honest.{nextpage_button}{person: 27 607 607}{color: 2}
+(She is beautiful,{wait: 16} though.{wait: 16}{b}
+And something more... Poise,{wait: 10}{b}
+that's it.{wait: 20} She's got poise.){color: 0}{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{person: 27 607 607}{name: 1792}Hey,{wait: 7} Trucy,{wait: 8} see this?{nextpage_button}{person: 27 610 609}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...I'm sorry.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Huh...?{p}{name: 1280}{speed: 3}
+I'm still just training to{b}
+be a magician.{0x5a}{wait: 20}{0x59} {speed: 3}I can't make{b}
+things disappear yet.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+W-{wait: 10}{speed: 2}What?{nextpage_button}{person: 27 614 613}{name: 1280}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Wait one more year!{wait: 16} I'll be{b}
+able to make it disappear{b}
+then!{nextpage_button}{name: 1792}{color: 2}
+(I'll be sure to be careful{b}
+when showing evidence to{b}
+magicians in the future...){nextpage_button}{color: 0}{person: 27 607 607}{hidetextbox: 3}{special_jmp}{endjmp}

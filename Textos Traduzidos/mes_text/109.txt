@@ -1,0 +1,223 @@
+
+
+{{0}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}There's a number inscribed on{b}
+the back of the badge.{p}
+There are many numbers like{b}
+it,{wait: 10} but this one is mine.{wait: 16}{b}
+Proof that I'm an attorney.{p}{speed: 4}
+To tell the truth,{wait: 12} {speed: 3}I get a{b}
+happy feeling inside just{b}
+looking at it.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}There are three keys on{b}
+this heart-shaped key ring.{p}{sound: 51 1}{bgcolor: 2305 8 31}
+Hmm?{wait: 12} This middle key is{b}
+shaped like...{wait: 16} a guitar?{nextpage_button}{0x76: 0 3}{name: 1280}{speed: 3}
+I get it!{wait: 20} {speed: 2}It must be the{b}{0x76: 0 1}{bgcolor: 2305 8 31}
+key to a guitar case!{nextpage_button}{name: 1024}{speed: 4}
+A {wait: 6}guitar case key...{p}{speed: 3}{color: 2}
+(I'll bet I know who this{b}
+belongs to.){nextpage_button}{color: 0}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}There are three keys on{b}
+this heart-shaped key ring.{p}{speed: 3}
+And this guitar-shaped key{b}
+was the key to a guitar case.{nextpage_button}{0x76: 0 3}{name: 1280}
+Wasn't he saying he had to{b}
+break his case because he{b}
+couldn't get it unlocked?{p}{0x76: 0 1}{speed: 3}
+I could open a lock like{b}{0x76: 0 6}{sound: 51 1}{bgcolor: 2305 8 31}
+that in 10 seconds,{wait: 8} easy!{p}{0x76: 0 3}
+He should have given me{b}
+a call.{nextpage_button}{name: 1024}{speed: 4}
+...So he could slap handcuffs{b}{bgcolor: 2305 8 31}
+on you after you opened it?{nextpage_button}{0x76: 0 1}{name: 1280}{speed: 3}
+Handcuffs?{wait: 20} 20 seconds,{wait: 8} tops!{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(I'm glad she's on my side.){color: 0}{nextpage_button}{speed: 255}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}The middle of the weapon is{b}
+a revolving chamber.{p}{speed: 3}
+That's where you load the{b}
+bullets.{wait: 16} A revolver,{wait: 6} see?{nextpage_button}{0x76: 0 1}{name: 1280}{speed: 4}
+Revolver...{wait: 8} {speed: 3}Revolver...{wait: 16}{b}{0x76: 0 4}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+That sounds a bit like{wait: 8}{b}
+"Wonder Bar"!{nextpage_button}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Especially if you say it{b}
+really fast!{nextpage_button}{name: 1024}{speed: 4}
+Uh...{wait: 8} I guess.{p}{name: 1280}{0x76: 0 3}
+You know what I always used{b}
+to think?{nextpage_button}{0x76: 0 4}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+I used to think the closest{b}
+sound to{wait: 8} "Wonder Bar" was{wait: 10}{b}
+"One Liver"!{nextpage_button}{0x76: 0 1}
+There's just so many words{b}
+in the world,{wait: 8} Apollo!{wait: 16} Isn't{b}
+it amazing!?{nextpage_button}{name: 1024}{speed: 8}
+......{nextpage_button}{speed: 3}
+So many different words,{wait: 8} so{b}
+many different people.{wait: 20}{b}{color: 2}{speed: 4}
+(...People like Trucy.){color: 0}{nextpage_button}{speed: 255}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}Yikes!{wait: 12} Don't point that thing{b}{shake: 30 0}
+at me!{p}{name: 1280}{0x76: 0 1}{speed: 3}
+Don't worry!{wait: 16} I'm an old hand{b}
+with firearms.{p}{0x76: 0 6}
+I have one that shoots{wait: 6}{b}{bgcolor: 2305 8 31}
+"Bullets".{p}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I don't want it shooting{b}
+any bullets,{wait: 8} thank you!{nextpage_button}{name: 1280}{0x76: 0 4}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Not those bullets,{wait: 6} silly!{wait: 20}{b}
+My gun shoots{wait: 6} "Bullets,{wait: 6} the{b}
+Magic Cat".{nextpage_button}{name: 1024}
+A cat{speed: 8}...{speed: 3}{wait: 40}{sound: 52 1}{bgcolor: 2305 8 31} comes out of a gun?{nextpage_button}{0x76: 0 1}{name: 1280}{speed: 3}
+I can tell by your expression{b}
+you've never heard of that{b}
+trick.{wait: 16} It's a great one!{p}{name: 1024}{color: 2}
+(Honestly,{wait: 12} that one sounds{b}
+halfway interesting.){color: 0}{nextpage_button}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}A sort of pin-fastener for{b}
+attaching things to clothes.{wait: 16}{b}{speed: 4}
+Not a safety pin-type,{wait: 8} though.{p}{name: 1280}{0x76: 0 1}{bgcolor: 2305 8 31}{speed: 2}
+So if it's not a safety{b}{0x76: 0 2}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+pin...{p}{0x76: 0 5}{speed: 3}
+...{speed: 2}is it a {shake: 30 0}{bgcolor: 2305 8 31}danger pin!?{nextpage_button}{name: 1024}{speed: 3}
+I suppose if you stuck it in{b}
+your eye,{wait: 8} then yeah,{wait: 8} sure.{nextpage_button}
+But you could do that with a{b}
+safety pin,{wait: 12} too,{wait: 12} for that{b}
+matter.{nextpage_button}{0x76: 0 8}{name: 1280}{speed: 8}
+......{nextpage_button}{0x76: 0 1}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Thanks for taking the fun out{b}
+of my danger pin.{nextpage_button}{name: 1024}{color: 2}
+(Aw,{wait: 8} you're driving a danger{b}
+pin through my heart here.){nextpage_button}{color: 0}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{name: 1280}{0x76: 0 5}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}10-{wait: 8}4 that,{wait: 12} little buddy,{wait: 10} this{b}
+is Trucy reporting in,{wait: 12} over.{nextpage_button}{0x76: 0 3}{speed: 8}
+......{nextpage_button}{name: 1024}{speed: 3}
+Why the sudden silence?{nextpage_button}{name: 1280}{0x76: 0 8}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+No one answered.{p}{name: 1024}
+Don't be silly...{nextpage_button}{name: 1280}{speed: 4}
+What good is a receiver that{b}
+doesn't receive?{nextpage_button}{0x76: 0 9}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+That's like Ema not performing{b}
+forensic investigations!{nextpage_button}{name: 1024}
+You make her sound like she's{b}
+some kind of forensic{b}
+investigation machine!{nextpage_button}{0x76: 0 1}
+Which is just silly.{wait: 20}{nextpage_button}
+Unless...{wait: 7} she's a super{b}
+hi-tech android that runs on{b}
+Snackoos!{wait: 15} Hmm...{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{name: 1280}{0x76: 0 3}{hidetextbox: 0}{speed: 3}This switch,{wait: 8} sitting here,{wait: 8}{b}{0x76: 0 5}
+tempting me to push it{speed: 8}...{p}{name: 1024}{speed: 3}
+Don't.{wait: 16} You might blow up the{b}
+whole coliseum.{nextpage_button}{0x76: 0 10}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+Apollo,{wait: 8} please...{nextpage_button}{speed: 3}
+To think that every strange{b}
+switch triggers a bomb...{nextpage_button}{0x76: 0 5}{speed: 3}
+That kind of old-fashioned{b}
+crime drama thinking doesn't{b}
+cut it in our busy times!{nextpage_button}{name: 1024}
+Alright,{wait: 8} Trucy P.I.,{wait: 8} please{b}
+enlighten me.{wait: 16} What do you{b}
+think this switch does?{nextpage_button}{0x76: 0 3}{name: 1280}
+Hmm{speed: 5}...{nextpage_button}{0x76: 0 4}{speed: 3}
+Maybe it turns on the electric{b}
+razor in Prosecutor Gavin's{b}
+dressing room?{nextpage_button}{name: 1024}
+...A switch as big as a razor{b}
+to turn on a razor?{wait: 16} OK...{nextpage_button}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}This switch triggers an{b}
+igniter.{nextpage_button}{name: 1280}{0x76: 0 6}
+Too bad,{wait: 8} I was hoping it{b}
+was for a bomb that would{b}
+blow up the whole coliseum.{nextpage_button}{name: 1024}
+You're scaring me.{nextpage_button}
+If Ema hears you talking like{b}
+that she'll arrest you.{nextpage_button}{0x76: 0 1}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}
+And then she'll do all sorts of{b}
+scientific tests!{nextpage_button}
+Like splitting your hairdo{b}
+into three separate spikes.{nextpage_button}{0x76: 0 4}
+While she stands by,{wait: 12}{b}
+laughing and laughing in{b}
+her high-pitched voice.{nextpage_button}{0x76: 0 2}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 8}{speed: 3}I said she'd arrest you,{wait: 8}{b}
+not me.{wait: 16} And she's not some{b}
+kind of mad scientist.{nextpage_button}{0x76: 0 3}{name: 1280}{speed: 6}
+......{nextpage_button}{0x76: 0 7}{speed: 3}
+Did you just hear someone{b}
+laughing?{nextpage_button}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}There's lightly scorched,{wait: 8}{b}
+and then there's this...{p}{0x76: 0 3}{name: 1280}{speed: 2}
+It's {bgcolor: 2305 8 31}{shake: 30 0}burned clean through!{nextpage_button}{name: 1024}
+Yep.{wait: 16} It's pretty much a{b}
+useless piece of junk.{nextpage_button}{0x76: 0 4}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+...It's kind of like you after{b}
+a trial,{wait: 8} Apollo!{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Which part?{wait: 12} The burned clean{b}
+through,{wait: 8} or the useless{b}
+piece of junk?){p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}"Sample", huh?{wait: 16} Think they put{b}
+a big enough label on it?{p}{0x76: 0 3}{name: 1280}{speed: 3}
+Maybe it's to keep people from{b}
+eating it by mistake.{p}{name: 1024}
+Yes,{wait: 8} they might think it was{b}
+an otherwise tasty, white{b}
+lump of plastic.{nextpage_button}{0x76: 0 4}{name: 1280}
+Maybe it's the manufacturer?{wait: 16}{b}
+"Sample Toys: When you can't{b}
+afford the real thing!"{nextpage_button}{name: 1024}
+Sounds like a company{b}
+Mr. Wright would like.{nextpage_button}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}All these little parts... It's{b}
+pretty complex.{p}
+I'm guessing this is where{b}
+the fire comes out.{wait: 16} Other than{b}
+that...{nextpage_button}{0x76: 0 6}{name: 1280}
+Good thing machines run even{b}
+if we don't know how they{b}
+work!{nextpage_button}{0x76: 0 4}
+...{wait: 16}That's what Daddy always{b}
+says.{nextpage_button}{name: 1024}{speed: 4}
+Not really a saying you want{b}
+to go around repeating,{wait: 8} Trucy.{nextpage_button}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}So{speed: 8}...{wait: 12} {speed: 3}you think this was{b}
+some kind of firecracker?{nextpage_button}{0x76: 0 1}{name: 1280}
+Yeah,{wait: 8} or one of those{b}
+noisemakers,{wait: 12} like you shoot{b}
+off on New Years!{nextpage_button}{name: 1024}
+Did you know that in China,{wait: 12}{b}
+they use firecrackers on{b}
+New Years to scare off evil?{p}{speed: 3}
+So,{wait: 10} it's kind of the same{b}
+thing.{nextpage_button}{0x76: 0 2}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Really!?{wait: 16} I had no idea!{p}{0x76: 0 4}{bgcolor: 2305 8 31}{speed: 3}
+Well did you know this?{nextpage_button}{speed: 2}
+It takes more than 500 peanuts{b}{0x76: 0 6}
+to make one {bgcolor: 2305 8 31}12-ounce jar of{b}{shake: 30 0}
+peanut butter!{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(At least my useless fact had{b}
+something to do with the{b}
+evidence...){nextpage_button}{color: 0}{speed: 255}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}

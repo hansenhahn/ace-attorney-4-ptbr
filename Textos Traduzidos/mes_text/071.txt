@@ -1,0 +1,375 @@
+
+
+{{0}}
+{bop}{name: 1280}{person: 5 68 67}{speed: 3}This trash can...{wait: 12} This is{b}{showphoto: 54}
+where we found the mirror!{nextpage_button}{name: 1024}
+Come to think of it,{wait: 8} wasn't{b}
+there something else in here?{nextpage_button}{person: 5 75 75}{speed: 4}
+Something near the bottom...{p}{hidetextbox: 1}{removephoto}{showphoto: 56}{name: 1024}{hidetextbox: 0}{speed: 3}
+...{wait: 20}Look at the paint on these.{b}
+That means...{p}{person: 5 81 81}{sound: 52 1}{speed: 4}
+...these must have ended up{b}
+in here after Mr. Wright's{b}
+accident.{p}{person: 5 76 75}{name: 1280}{speed: 3}
+Maybe they're connected?{b}
+Let's pick them up.{nextpage_button}{removephoto}{newevidence: 16440}{person: 5 67 67}{name: 0}{color: 2}{speed: 4}
+Slippers added to the Court{b}
+Record.{nextpage_button}{speed: 255}{color: 0}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{0x10: 32926}{jmp: 136}{endjmp}
+
+{{1}}
+{bop}{name: 1024}A large trash can sits by{b}
+the entrance to the park.{p}{person: 5 81 81}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+What,{wait: 8}{person: 5 82 81} you aren't going to{b}
+dig through it?{nextpage_button}{name: 1024}
+No.{wait: 20}{nextpage_button}
+What?{wait: 16} I'm serious!{wait: 16} I have no{b}
+intention of looking through{b}
+this trash can!{nextpage_button}{name: 1280}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Oh,{wait: 16} {speed: 3}please,{wait: 8} don't hold ba{shake: 30 0}ck{b}
+on my account.{p}{name: 1024}{person: 5 69 69}{speed: 3}
+I think that whatever you{b}
+think about me and trash{b}
+cans,{wait: 8} you're wrong.{p}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{jmp: 136}{endjmp}
+
+{{2}}
+{bop}{name: 1024}The park crime scene is off{b}
+limits to the public.{p}
+The police officer on guard{b}
+by the gate is yawning.{p}
+Ah,{wait: 8} he noticed me staring and{b}
+snapped his mouth shut.{wait: 16} Too{b}
+late,{wait: 8} Mr. Officer!{wait: 16} I saw you!{p}{jmp: 136}{endjmp}
+
+{{3}}
+{bop}{name: 1024}Several colors of paint have{b}
+been splashed across the gate.{p}
+Most of it's pretty much{b}
+dry,{wait: 8} too.{wait: 16} This is going to{b}
+be one heck of a cleanup job.{nextpage_button}{jmp: 136}{endjmp}
+
+{{4}}
+{bop}{person: 0 0 0}{name: 1024}Looks like that old lady's{b}
+at it again...{nextpage_button}{name: 11264}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Look,{wait: 8} I told you yesterday{b}
+the park's off limits!{p}{name: 14336}{shake: 30 1}{bgcolor: 2305 8 31}
+And I told you yesterday this{b}
+is how I go home!{p}{speed: 3}
+OK.{wait: 18} You want me to go around?{b}
+How about giving me five{b}
+bucks...{wait: 16} like yesterday.{p}{name: 1024}{speed: 4}{color: 2}
+(...{wait: 20}The con artist strikes{b}
+again...){speed: 255}{color: 0}{p}{jmp: 136}{endjmp}
+
+{{5}}
+{bop}{name: 1024}A colorful dragon turns its{b}
+baleful gaze in my direction.{nextpage_button}
+As if to say, "Abandon all{b}
+hope ye who enter here."{p}
+Don't worry,{wait: 8} Mr. Dragon. Me{b}
+and hope haven't been on{b}
+speaking terms for a while.{nextpage_button}{jmp: 136}{endjmp}
+
+{{6}}
+{bop}{name: 1024}An impressive gate befitting{b}
+the Kitaki Mansion.{p}{name: 1280}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Look at the name plate!{wait: 10}{b}{speed: 3}
+"Kitaki"...!{p}
+That's so cool!{wait: 20} Short and{b}
+blunt, like any good gangster!{wait: 16}{b}
+Ooh!{wait: 8} Let's change our name!{p}{person: 5 76 75}{speed: 5}
+How about{0x5a}{speed: 8}...{wait_noanim: 30}{b}{person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+"W. A. A."!{p}{person: 5 95 95}{speed: 8}
+...{wait: 30}{b}{person: 5 68 67}{speed: 4}
+Maybe that's too short and{b}
+blunt.{wait: 20} What do you think?{nextpage_button}{name: 1024}{speed: 5}
+No comment.{speed: 255}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{jmp: 136}{endjmp}
+
+{{7}}
+{bop}{name: 1024}Apparently,{wait: 8} this park was the{b}
+gift of the Kitaki Family.{p}{speed: 4}
+The friendly{wait: 6} "People Park",{wait: 8}{b}
+brought to you by organized{b}
+crime...{p}{speed: 3}
+A very naughty part of me is{b}
+tempted to write{wait: 6} "We Kill"{b}
+on the left side of the sign.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{0x35: 33792 @RelativeAddress0}{0x35: 48640 @RelativeAddress1}{0x35: 48896 @RelativeAddress2}{0x35: 38913 @RelativeAddress3}{personvanish: 3 1}{person: 32784 389 389}{hidetextbox: 3}{special_jmp}{@RelativeAddress0}{@RelativeAddress1}{@RelativeAddress2}{@RelativeAddress3}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{0x26: 0}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16{b}
+Kitaki Mansion{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{wait: 30}{personvanish: 3 2}{person: 16 402 402}{fademusic: 0}{music: 20 0}{wait: 60}{name: 1024}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 3}{color: 2}
+(Yipes!{wait: 18} She's back!){color: 0}{p}{name: 4096}{person: 16 390 389}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hey.{wait: 15} You two.{wait: 15}{b}
+Over here!{p}{name: 1024}{person: 16 389 389}{speed: 4}
+U-{wait: 12}Uh,{wait: 8} us?{p}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yo,{wait: 8} Little Plum!{wait: 16}{b}
+Wassup!?{p}{name: 1024}{person: 5 67 67}{speed: 4}{color: 2}
+(I think all this gangsterese{b}
+is a negative influence on{b}
+Trucy...){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4096}{person: 16 390 389}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{speed: 2}
+I heard you retrieved my{b}
+bloomers!{p}{name: 1024}{person: 16 389 389}{shake: 30 0}{speed: 3}
+W-{wait: 8}Well,{wait: 10} I was j-{speed: 8}just doing{speed: 8}...{nextpage_nobutton}{name: 4096}{person: 16 392 391}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Bah!{wait: 10} {speed: 2}A man speaks clearly,{wait: 12} and{b}
+takes credit where it's due!{nextpage_button}{hidetextbox: 1}{person: 16 398 398}{animation: 213 1}{0x63}{person: 16 397 396}{hidetextbox: 0}{speed: 3}
+You caught the thief,{wait: 12} didn't{b}
+you?{nextpage_button}{name: 1024}{person: 16 391 391}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Uh,{wait: 8} y-{wait: 5}yes!{wait: 15} Sorry!{b}
+I caught him!{p}{name: 1280}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{speed: 3}
+You're cute when you're{b}
+nervous,{wait: 12} Polly!{nextpage_button}{name: 1024}{speed: 4}
+...{wait: 20}I'll deal with you later.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4096}{person: 16 395 394}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+But enough about bloomers!{wait_noanim: 30}{b}{person: 16 397 396}{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+What about my son,{wait: 8} Wocky!?{nextpage_button}{person: 16 391 391}{name: 1024}{shake: 30 0}{speed: 3}
+W-{wait: 8}Wocky?{wait: 10} Er,{wait: 8} well,{wait: 12} he's,{wait: 8} um{speed: 8}...{nextpage_nobutton}{name: 4096}{person: 16 397 396}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Clearly!{wait: 12}{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Y-{wait: 8}Yes,{wait: 10}{shake: 30 1} ma'am!{nextpage_button}{speed: 4}{color: 2}
+(This is why I was kind of{b}
+hoping we could avoid coming{b}
+back here.){color: 0}{nextpage_button}{speed: 255}{person: 16 402 402}{0x10: 32910}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 5 72 69}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 3}He's really everything you'd{b}
+expect in a{wait: 12} Boss's son!{p}{person: 5 96 95}{speed: 3}
+"I'm going to be a{wait: 6} gangster{wait: 6},{b}
+dude!"{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4096}{person: 16 395 394}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+The life does have an appeal{b}
+for that age...{p}{speed: 4}
+Particularly for boys.{person: 16 402 402}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 85 85}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+.{speed: 8}.{speed: 10}.{speed: 255}{p}{name: 1024}
+What?{wait: 16} Don't look at me like{b}
+that!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4096}{person: 16 395 394}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+He was shot in a turf war{b}
+about half a year ago.{nextpage_button}{name: 1024}{speed: 4}
+Yes...{wait: 12} {speed: 3}We heard the story{b}
+from Wocky.{p}{name: 4096}
+...{wait: 15}But he didn't tell you the{b}
+whole story.{p}{person: 16 392 391}
+You know,{wait: 12} even if he had a{b}
+pistol then,{wait: 8} he couldn't have{b}
+shot anyone.{nextpage_button}{name: 1280}{person: 5 82 81}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+What...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4096}{person: 16 392 391}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+He acts like he's{wait: 10} "hard",{wait: 10} but{b}
+he couldn't shoot someone to{b}
+save his life.{p}{person: 16 395 394}{speed: 4}
+I should know...{wait: 20} I'm his mom.{p}{name: 1024}{person: 16 394 394}{speed: 3}{color: 2}
+(Her words do have a certain{b}
+weight to them...){color: 0}{p}{name: 4096}{person: 16 395 394}
+Hopefully,{wait: 8} when this is all{b}
+taken care of...{p}
+...he and the Boss can sort{b}
+out their differences.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+The Boss...{wait: 12} {speed: 3}You mean Wocky's{b}
+father?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1024}{person: 16 402 402}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+They didn't seem to be on the{b}
+best terms,{wait: 8} did they?{p}{0x10: 32911}{0x37: 6 0}{0x37: 7 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 4096}{person: 16 392 391}{hidetextbox: 0}{speed: 3}The Boss may act tough,{wait: 15} but{b}
+that boy means the world to{b}
+him.{p}{name: 1024}{person: 16 402 402}{speed: 4}
+But Wocky seems,{wait: 10} well...{p}{speed: 3}
+It seems like he's against{b}
+his father's position.{p}{name: 4096}{person: 16 390 389}
+Ah.{wait: 16} It's to be expected.{wait: 15} We're{b}
+in a bit of a transition now.{wait: 16}{p}{person: 16 395 394}
+Trying to cut our ties to{b}
+the shadier side of the street{b}
+and do more on the up-and-up.{p}{person: 16 392 391}
+Wocky isn't too enthusiastic{b}
+about the change,{wait: 10} it's true.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 5}
+But why the change?{p}{person: 5 84 83}{speed: 3}
+Is the gangster thing just{wait: 15}{b}{bgcolor: 2305 8 31}
+not paying the bills?{p}{person: 16 393 393}{name: 4096}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 3}
+Wa{wait: 5} {wait: 5}ha{wait: 5} ha{wait: 5} ha{wait: 5} ha{wait: 5} ha!{p}{person: 16 390 389}{speed: 4}
+It pays...{wait: 15} {speed: 3}but we need a lot{b}
+of money right now.{p}{person: 16 392 391}{speed: 3}
+Clean money,{wait: 8} that is.{p}{name: 1024}{person: 16 389 389}{speed: 4}
+I see...{b}{speed: 3}{color: 2}
+(Hmm,{wait: 12} something must be up.){color: 0}{nextpage_button}{name: 4096}{person: 16 395 394}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+He'll see things the way the{b}
+Boss sees 'em...{wait: 15} some day.{p}{person: 16 402 402}{0x10: 32914}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 4096}{person: 16 402 402}{hidetextbox: 0}{person: 16 392 391}{speed: 4}It's true{0x5a}{speed: 8}...{p}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}{0x59}
+One of our pistols is missing.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+So the murder weapon was from{b}
+this mansion...{nextpage_button}{name: 1024}{speed: 3}
+We kind of figured,{wait: 8} given{b}
+the difficulty of obtaining{b}
+a gun these days.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4096}{person: 16 395 394}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+None of the rank and file{b}
+have access.{p}
+Only the Boss,{wait: 10} myself,{wait: 10} and{b}{speed: 8}{0x5a}
+...{wait: 15}{speed: 3}{0x59}Wocky could have taken it.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+I see...{p}{name: 4096}{person: 16 395 394}{speed: 3}
+I'm sure the cops will{b}
+continue tromping all over the{b}
+mansion because of this case.{p}{person: 16 390 389}{speed: 4}
+Maybe this is a sign that{b}
+it's time for a change!{wait_noanim: 20}{b}{person: 16 393 393}{name: 4096}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+Wa{wait: 5} ha{wait: 5} ha{wait: 5} ha{wait: 5} ha{wait: 5} ha!{p}{name: 1024}{person: 16 402 402}{speed: 4}{color: 2}
+(She doesn't seem too{b}
+concerned,{wait: 8} at least.){color: 0}{p}{0x10: 32912}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 4096}{person: 16 402 402}{hidetextbox: 0}{person: 16 392 391}{speed: 4}...{wait: 20}Yeah.{wait: 12} {speed: 4}Wocky's fianc{1984}e.{p}{name: 1024}{person: 16 391 391}{speed: 3}
+They're getting married next{b}
+month,{wait: 8} correct?{p}{name: 4096}{person: 16 395 394}
+I suppose.{wait: 20} She's been staying{b}
+over lately.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+...{wait: 10}{speed: 3}You don't look too happy{b}
+about that,{wait: 8} Little Plum.{nextpage_button}{name: 4096}{person: 16 391 391}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+...!{wait: 30}{b}{person: 16 390 389}{shake: 30 0}{speed: 4}
+How'd you guess?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1024}{person: 5 67 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}{color: 2}
+(Even I could tell that!){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 394 394}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Could you tell us more about{b}
+her?{p}{name: 4096}{person: 16 395 394}{speed: 4}
+...{wait: 12}{speed: 3}Wocky brought her home{b}
+one day.{p}
+Says he wants to tie the knot.{p}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+I can see why!{wait: 12} She's so{b}
+pretty!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4096}{person: 16 390 389}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Oh,{wait: 10} she's pretty enough.{wait_noanim: 15}{b}{person: 16 395 394}{speed: 5}
+But,{wait: 10} you know{0x5a}...{nextpage_button}{name: 1280}{person: 5 67 67}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4096}{person: 16 395 394}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Nah,{wait: 8} it's probably just me{b}
+being suspicious.{wait: 16} {speed: 4}Stay in{b}
+this business too long...{p}{person: 16 392 391}{speed: 3}
+...{wait: 20}and you start to only see{b}
+darkness in people.{p}{person: 16 390 389}
+You get a nose for it.{p}{speed: 4}
+A nose for people...{wait: 10}{b}
+A nose for trouble.{nextpage_button}{name: 1024}{color: 2}
+(Hmm.{wait: 10} I wonder what the{b}
+problem is?){color: 0}{p}{name: 1280}{person: 5 74 73}{sound: 52 1}{bgcolor: 2305 8 31}
+It's like a gangsters-only{b}
+version of{wait: 6} "female intuition"!{nextpage_button}{0x10: 32913}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 402 402}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 1024}{person: 16 389 389}{showphoto: 54}This is the mirror we found...{p}{name: 4096}{person: 16 390 389}
+...From the hit 'n' run, huh?{wait_noanim: 20}{b}{person: 16 393 393}{bgcolor: 2305 8 31}{shake: 30 0}
+It's funny how it all ties{b}
+together like this.{p}{removephoto}{person: 16 390 389}
+You chase after a hit 'n' run{b}
+and end up Wocky's attorney.{p}{person: 16 392 391}
+Of course,{wait: 8} you'll find the{b}
+real killer soon.{wait: 20} Won't you.{p}{person: 16 402 402}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 1024}{person: 16 389 389}{showphoto: 70}{speed: 4}Can you tell me if this knife{b}
+belongs to Wocky?{p}{person: 16 390 389}{name: 4096}
+Oh,{wait: 8} that's his knife alright.{p}
+Bought it for him for his{b}
+birthday.{nextpage_button}{bganim: 98 579}{name: 1024}{color: 2}
+(Wow,{wait: 8} that's a pretty hardcore{b}
+present.){color: 0}{p}{name: 4096}{person: 16 390 389}
+I remember him falling asleep{b}{bgcolor: 2305 8 31}{shake: 30 0}
+with it clutched in his arms.{p}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Ooh! I know the feeling! I'll{b}
+bet he was just as happy as I{b}
+was with my plastic spaghetti!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 402 402}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 1024}{person: 16 389 389}{showphoto: 71}{speed: 3}So this pistol belongs to the{b}
+Kitaki Family{speed: 8}...{wait: 12} {speed: 3}Is that{b}
+correct?{p}{name: 4096}{person: 16 390 389}
+It's one of the pieces we{b}
+keep around.{nextpage_button}{bganim: 98 579}{person: 16 395 394}
+That is,{wait: 8} we used to keep{b}
+around.{wait: 16} They're all gone now.{nextpage_button}{name: 1024}{person: 16 394 394}
+Oh?{wait: 16}{p}{name: 4096}{person: 16 392 391}
+Police came yesterday and{b}
+took everything.{nextpage_button}{hidetextbox: 1}{person: 16 398 398}{animation: 213 1}{0x63}{name: 4096}{person: 16 397 396}{hidetextbox: 0}{speed: 5}
+...{wait: 20}Everything but my{wait: 8} "broom".{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Don't you think you should{b}
+have given them that,{wait: 8} too?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 4096}{person: 16 390 389}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+You kidding?{wait: 16} {person: 16 393 393}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}Can't clean up{b}
+very well without a broom!{nextpage_button}{person: 16 402 402}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 1024}Um,{wait: 8} about these...{b}{showphoto: 67}{p}{name: 4096}{person: 16 390 389}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Hey,{wait: 12} my bloomers!{wait: 16} {speed: 3}Thanks for{b}
+that.{wait: 16} I owe you one.{p}{bganim: 98 579}{name: 1024}{person: 16 389 389}
+Um,{wait: 12} I thought you might like{b}
+them back,{wait: 8} so...{p}{person: 16 395 394}{name: 4096}
+Eh?{wait: 16} Oh no,{wait: 8} no.{wait: 16} {person: 16 393 393}{shake: 30 0}{bgcolor: 2305 8 31}Why don't you{b}
+keep 'em as a souvenir?{p}{person: 16 389 389}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Oh no,{wait: 8} I couldn't,{wait: 8} really!{speed: 20}{b}{speed: 4}
+Thanks for the offer bu--{wait: 16}{nextpage_nobutton}{name: 1280}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+I could use those in my{b}
+Magic Panties act!{p}{person: 5 96 95}{speed: 3}
+I'll pull shivs and pieces{b}
+and godfathers out of them!{p}{name: 1024}{person: 5 95 95}
+Great,{wait: 8} now your props are{b}
+going from bland to dangerous.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16 402 402}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 4096}{person: 16 395 394}Sorry,{wait: 8} kid.{wait: 16} I got no idea{b}
+what you're talking about.{nextpage_button}{person: 16 402 402}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{0x26: 0}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16{b}
+Kitaki Mansion{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{personvanish: 3 1}{person: 5 95 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{person: 5 96 95}{hidetextbox: 0}{speed: 3}
+...{wait: 12}Look at that crowd over{b}
+by the park!{p}{name: 1024}{person: 5 67 67}
+Probably people trying to get{b}
+a glimpse of the crime scene.{p}{name: 1280}{person: 5 76 75}
+But...{wait: 12} why are those girls{b}
+screaming?{p}{person: 5 72 69}
+I think I just heard one say{b}
+"Omigod,{wait: 8} it's him!"{nextpage_button}{hidetextbox: 1}{0x1d: 260}{0x4c}{hidetextbox: 0}{name: 1024}{color: 2}
+(Wait,{wait: 10} that motorcycle...){color: 0}{p}{name: 13568}{person: 6 134 133}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 19 0}{speed: 4}
+Ah!{wait: 12} {speed: 3}If it isn't Herr Forehead.{p}{name: 1024}{person: 6 133 133}{speed: 4}
+...{wait: 20}Prosecutor Gavin.{p}{name: 13568}{person: 6 140 139}
+Some fans found me on my way{b}
+out...{wait: 12} Just my luck.{nextpage_button}{name: 768}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Omigod!{wait: 15} Omigod!{wait: 10}{shake: 30 1} He's so {bgcolor: 2305 8 31}cool!{wait: 15}{nextpage_button}{name: 1024}{person: 6 133 133}{speed: 4}
+Thus the screams...{p}{name: 13568}{person: 6 134 133}{speed: 3}
+New album just came out,{wait: 12}{b}
+you know.{p}{person: 6 138 137}
+Try waving to them.{wait: 12} They love{b}
+it.{nextpage_button}{name: 768}{person: 6 137 137}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Oooh!{wait: 15} Oooh!{wait: 15}{shake: 30 1} He's so {bgcolor: 2305 8 31}cute!{wait: 15}{nextpage_button}{name: 13568}{person: 6 138 137}{shake: 30 0}{bgcolor: 2305 8 31}
+Ah{wait: 5} ha{wait: 5} ha.{p}{person: 6 134 133}{speed: 3}
+They're so excited,{wait: 15} it doesn't{b}
+matter who waves to them,{wait: 8} see?{nextpage_button}{name: 1024}{color: 2}
+(This is surreal...){color: 0}{p}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}
+Um,{wait: 8} so you were here{b}
+investigating?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 13568}{person: 6 138 137}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+And I was on my way home{speed: 8}...{wait_noanim: 20}{b}{person: 6 140 139}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+when my hog gave up the ghost.{nextpage_button}{name: 1024}{speed: 5}
+Your hog...?{p}{name: 13568}{person: 6 134 133}{speed: 3}
+My motorcycle won't start.{b}
+A clogged exhaust pipe...{nextpage_button}{name: 1280}{person: 5 82 81}{shake: 30 0}{bgcolor: 2305 8 31}
+Too bad!{wait: 12} It looks like such{b}
+a nice bike,{wait: 8} too.{p}{person: 5 76 75}
+Hard to believe that it could{b}
+break just from that!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 13568}{person: 6 134 133}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Ach,{wait: 8} it's my fault.{wait: 16} I think{b}
+I was using the wrong oil.{p}{person: 6 138 137}
+Cars,{wait: 8} motorbikes,{wait: 8} they're all{b}
+the same.{p}
+Clog the exhaust,{wait: 12} and they{b}
+won't run.{p}{person: 6 140 139}{speed: 4}
+Ah,{wait: 8} machines.{wait: 15} {speed: 3}Tell me you{b}
+share my angst,{wait: 8} Herr Forehead!{nextpage_button}{name: 1024}
+...{wait: 20}I ride a bicycle,{wait: 10} actually.{p}{name: 13568}{person: 6 134 133}
+Ah.{wait: 10} Heh.{wait: 12} In any event,{wait: 8} I'm off{b}
+to the shop to get her fixed.{p}{person: 6 138 137}
+The detective in charge of{b}
+the scene isn't fond of me,{wait: 12}{b}
+in any case.{p}{name: 1024}{person: 6 137 137}
+The detective{speed: 8}...{wait: 20} {speed: 3}You mean,{wait: 10}{b}
+the one in the lab coat?{p}{name: 13568}{person: 6 138 137}{speed: 3}
+Ja.{wait: 16} She's in a foul mood,{wait: 12} too.{wait_noanim: 20}{b}{person: 6 134 133}
+Be gentle.{p}{person: 6 140 139}
+...{wait: 20}Auf Wiedersehen,{wait: 8} baby!{nextpage_button}{name: 768}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Omigod!{wait: 10} Omigod!{wait: 20}{shake: 30 1} There he{bgcolor: 2305 8 31} goes!{wait: 15}{nextpage_button}{hidetextbox: 1}{wait: 30}{fademusic: 120}{personvanish: 4 4}{wait: 64}{wait: 30}{wait: 90}{person: 0 0 0}{fademusic: 0}{music: 0 0}{bgcolor: 516 1 31}{wait: 25}{wait: 30}{hidetextbox: 1}{bg: 232}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+And the forecast for the park{b}
+today...{wait: 15} Gloomy Skyes.{p}{name: 1280}{person: 5 68 67}{speed: 3}
+Well,{wait: 12} nothing to do but{b}
+head on in.{wait: 16} Let's hit the{b}
+park,{wait: 8} Apollo!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 0 0 0}{0x32: 4 230}{0x10: 32920}{0x10: 176}{hidetextbox: 3}{special_jmp}{endjmp}

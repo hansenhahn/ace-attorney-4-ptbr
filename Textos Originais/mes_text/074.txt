@@ -1,0 +1,438 @@
+
+
+{{0}}
+{bop}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 15{b}
+Scene of the Stand Theft{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{person: 0 0 0}{name: 1024}{hidetextbox: 0}{speed: 8}
+So...{wait: 12} {speed: 3}what's this place?{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 5 68 67}{wait: 16}{name: 1280}{hidetextbox: 0}
+This would be Mr. Eldoon's{b}
+house, silly.{p}{person: 5 67 67}{name: 1024}
+Oh,{wait: 8} so this is where his{b}
+stand was stolen from.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 0}
+I can see a piece of evidence{b}
+lying on the ground already.{p}{hidetextbox: 1}{wait: 60}{personvanish: 3 1}{person: 5 82 81}{wait: 16}{name: 1280}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 20}Hey!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{wait: 1}{0x1d: 4}{0x4c}{wait: 50}{name: 1280}{person: 0 0 0}{hidetextbox: 0}
+Look,{wait: 8} there's a police car{b}
+parked over there.{p}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}
+You're right{speed: 8}...{wait: 20} {speed: 3}What's with{b}
+the sparkly{speed: 8}...{wait: 20} {speed: 3}entrance? What{b}
+is this place? A hospital?{nextpage_button}{speed: 5}
+There's a sign...{wait: 6} {speed: 4}"Meraktis{b}
+Clinic".{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 76 75}{wait: 16}{name: 1280}{hidetextbox: 0}{speed: 4}
+Hmm... {sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{bgcolor: 2305 8 31}Oh!{b}{person: 5 96 95}
+That's where the thief went!{0x5a}{wait: 40}{b}{p}{person: 5 95 95}{name: 1024}{speed: 5}
+The thief...?{p}{person: 0 0 0}{bg: 124}{sound: 26 1}{shake: 30 0}{name: 1280}{speed: 2}
+The one who snatched my{b}
+panties!{wait: 30} {speed: 3}He ran into this{b}
+clinic last night!{p}{speed: 5}
+Wait,{wait: 8} maybe that police car{wait: 40}{b}{bg: 231}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+is here to find my panties!{p}{person: 5 75 75}{name: 1024}{speed: 3}
+I doubt it.{p}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Well,{wait: 8} there's only one way{b}
+to be sure!{wait: 20} Let's investigate!{nextpage_button}{name: 3840}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah,{wait: 8} there you are,{wait: 12} sonny!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{wait: 1}{0x1d: 260}{0x4c}{personvanish: 3 1}{person: 15 381 380}{wait: 16}{name: 3840}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Well,{wait: 8} you find anything yet!?{nextpage_button}{name: 1024}{speed: 3}
+Er,{wait: 8} um,{wait: 8} no.{wait: 16} Not yet.{p}{hidetextbox: 1}{person: 15 388 388}{wait: 10}{sound: 164 1}{0x63}{name: 3840}{hidetextbox: 0}{speed: 5}
+The longer you loaf around{b}
+here{wait: 30}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2} the saltier your victory{b}
+bowl gets,{wait: 8} just remember that!{p}{person: 15 383 383}{name: 1024}{speed: 4}{color: 2}
+(This bowl of noodles is{b}
+sounding less like payment{b}
+and more like punishment{speed: 8}...){color: 0}{nextpage_button}{speed: 255}{fademusic: 0}{music: 32 0}{0x10: 32823}{0x10: 32844}{0x10: 33282}{0x10: 33289}{0x51: 0 96}{bop}{p}{color: 7}
+ô{0x61: 0 2 3 6 255}{0x60: 3 0 7 255 255}{0x61: 3 0 6 255 255}{0x35: 19200 @RelativeAddress0}{0x60: 0 2 4 7 255}{0x61: 0 2 3 6 255}{0x35: 11776 @RelativeAddress1}{0x60: 3 18 7 255 255}{@RelativeAddress0}{@RelativeAddress1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{person: 0 0 0}{name: 1024}I'd understand if there was{b}
+an ambulance outside...{wait: 20}{b}
+But a police car?{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{name: 1280}{person: 5 68 67}{hidetextbox: 0}
+Maybe they're tax evaders!{p}{person: 5 81 81}{name: 11264}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Ah,{wait: 8} sorry miss.{wait: 16} No going into{b}
+the clinic today.{nextpage_button}{person: 5 96 95}{name: 1280}
+Did something happen?{p}{person: 5 81 81}{name: 11264}{bgcolor: 2305 8 31}{shake: 30 0}
+Huh?{wait: 12} Oh,{wait: 8} no.{wait: 12} Nothing to see{b}
+here.{wait: 16} Move along.{p}
+You'll have to find someplace{b}
+else to play doctor.{p}{person: 5 90 90}{name: 1024}{color: 2}
+(Do we look like the right{b}
+age to be playing doctor!?){color: 0}{p}{person: 5 75 75}{name: 1024}{speed: 3}
+We need a little more info{b}
+on this Meraktis Clinic.{p}{name: 1280}{person: 5 76 75}
+We could ask Mr. Eldoon.{wait: 16} He is{b}
+their neighbor and all.{p}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+And we should check out that{b}
+garage!{p}{person: 5 96 95}{speed: 3}
+What if the thief who stole{b}
+my panties is still in there!?{nextpage_button}{person: 5 95 95}{name: 1024}{speed: 4}
+...*sigh*{speed: 255}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16399 373 373}{wait: 16}{0x38: 0}{0x37: 20 0}{0x37: 21 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{person: 0 0 0}{name: 1024}{showphoto: 58}{speed: 4}Is this yours,{wait: 8} Mr. Eldoon?{p}{person: 15 380 380}{name: 3840}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Hey!{wait: 16} {speed: 3}That there's the heart{b}
+and soul of Eldoon's Noodles!{p}
+The bowl absorbs my salty{b}
+soup...{wait: 20} Pretty soon it's{b}
+gonna taste just like noodles!{p}{person: 5 96 95}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Wow!{wait: 12} It does smell like{b}
+noodles!{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 15 379 378}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 3840}{speed: 3}
+All my other bowls got taken{b}
+away with my stand!{p}{person: 15 381 380}{sound: 27 1}{shake: 30 1}{speed: 2}
+Get it back for me,{wait: 10} sonny-boy,{wait: 12}{b}
+I'm beggin' ya!{nextpage_button}{0x51: 0 53}
+{14336}{812}{hidetextbox: 3}{special_jmp}{newevidence: 16442}{name: 0}{color: 2}{speed: 4}Bowl added to the Court{b}
+Record.{nextpage_button}{speed: 255}{color: 0}{0x10: 32824}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{person: 0 0 0}{person: 5 69 69}{name: 1280}{person: 5 72 69}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Look!{wait: 16} A doggy!{p}{person: 5 68 67}{speed: 3}
+Good boy,{wait: 12} good boy,{wait: 14} Salty!{p}{name: 1024}{person: 5 69 69}
+I'm sure the dog has a real{b}
+name,{wait: 8} Trucy.{p}{person: 15 374 373}{name: 3840}
+Yup,{wait: 8} sure does!{wait: 16} Name's{wait: 6} Spoon{wait: 6}.{wait: 16}{b}
+And it's a she,{wait: 8} by the way.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Spoon doesn't seem so lively.{nextpage_button}{name: 3840}{person: 15 379 378}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+She didn't get her bowl of{b}
+salty broth this mornin',{wait: 8}{b}
+that's why.{p}
+Poor lil' thing.{0x5a}{b}
+*sniff*{p}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Apollo!{wait: 14} {speed: 3}Let's find that stand{b}
+soon!{wait: 16} For Spoon's sake!{p}{name: 1024}{person: 5 95 95}{color: 2}
+(I'm pretty sure dogs aren't{b}
+supposed to eat noodles...){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16399 373 373}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{person: 0 0 0}{name: 1280}{person: 5 82 81}{hidetextbox: 0}{bgcolor: 2305 8 31}This house is{speed: 8}...{wait: 12} {speed: 3}well,{wait: 16} it's{b}
+old!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 382 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+It's been well-loved,{wait: 16} that's{b}
+for sure.{wait: 16} {speed: 3}I've lived here with{b}
+my wife for many years now.{p}
+It's got character,{wait: 8} though,{wait_noanim: 25}{b}{person: 15 381 380}{speed: 2}
+just like my soup!{p}{hidetextbox: 1}{person: 15 388 388}{wait: 10}{sound: 164 1}{wait: 60}{name: 1024}{hidetextbox: 0}{speed: 4}{color: 2}
+(I always thought character{b}
+was a positive thing.){color: 0}{nextpage_button}{person: 15 380 380}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{person: 0 0 0}{name: 1024}There's a{wait: 6} hand-written{wait: 6} sign{b}
+here...{wait: 20} "Save the light!"{p}{name: 1280}{person: 5 82 81}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+"Save the light!" indeed!{b}
+Mr. Eldoon's house is{b}
+practically in the dark here!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{wait: 1}{0x1d: 4}{0x4c}{person: 0 0 0}{name: 1024}{hidetextbox: 0}{speed: 3}
+I guess the hospital clinic{b}
+next door blocks the sunlight.{p}{name: 3840}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Everything's gone wrong since{b}
+they built this monstrosity!{p}{person: 15 381 380}{shake: 30 0}{bgcolor: 2305 8 31}
+Broth needs sun or it rots!{wait_noanim: 20}{b}{person: 15 382 383}{speed: 3}
+What's a man to do?{p}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+They just want my customers to{b}
+get food poisoning so they{b}
+can turn a pretty profit...{p}{name: 1024}{person: 15 383 383}{speed: 3}{color: 2}
+(That seems like a lot of{b}
+trouble to go through for{b}
+a few extra patients...){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{wait: 1}{0x1d: 260}{0x4c}{personvanish: 3 1}{person: 16399 373 373}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{person: 0 0 0}{name: 1024}...{wait: 20}That's quite a sign. I take{b}
+it that's{wait: 6} "NOO"{wait: 6} as opposed to{b}
+"OLD"?{p}{hidetextbox: 1}{name: 3840}{person: 15 374 373}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+Ah,{wait: 8} you like it?{wait: 16} {speed: 3}Made it{b}
+myself,{wait: 8} I did.{p}{person: 15 382 383}
+I meant to write{wait: 6} "Noodles"{wait: 6} but{b}
+ran outta space.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Prior planning prevents{b}
+poor performance!{p}{name: 3840}{person: 15 382 383}{speed: 2}
+Lucky for me it spells a word{b}{shake: 30 0}{bgcolor: 2305 8 31}
+all by itself!{wait: 16} And spruces up{b}
+my image,{wait: 8} it does!{p}{name: 1024}{person: 15 373 373}{speed: 3}{color: 2}
+(It does have a certain power{b}
+of willful denial thing going{b}
+for it.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{name: 3840}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}That's the place!{wait: 12} Right there!{p}{speed: 3}
+That's where I kept my stand.{wait: 16}{b}
+Covered all nice 'n' purty{b}
+with that{wait: 6} blue tarp{wait: 6} there!{p}{name: 1024}{person: 15 378 378}{speed: 4}
+So you used this plastic sheet{b}
+to cover your stand at night?{b}{speed: 5}
+...{wait: 20}I see.{p}{name: 1280}{person: 5 96 95}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+You see?{wait: 14} What?{wait: 14} Did you figure{b}
+out why it was stolen!?{nextpage_button}{name: 1024}{person: 5 75 75}{speed: 3}
+Well no,{wait: 8} but it does suggest{b}
+that the thief knew what he{b}
+or she was looking for.{nextpage_button}{speed: 4}
+They clearly knew what was{b}
+under that sheet.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 375 373}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+So it wasn't one of those{b}
+casual drive-by stand{b}
+snatchers,{wait: 8} you mean?{p}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Not bad,{wait: 8} sonny-boy.{wait: 16}{b}
+Not bad at all!{speed: 255}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{person: 0 0 0}{name: 1024}It looks like the oil drum{b}
+is connected to that sink{b}
+over there...{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{name: 1280}{person: 5 68 67}{hidetextbox: 0}
+Collecting rainwater to do the{b}
+dishes!{wait: 16} How environmentally{b}
+conscious!{p}{name: 1024}{person: 5 67 67}
+You...{wait: 20} don't think he uses{b}
+rainwater to cook his noodles{b}
+and to make the broth,{wait: 8} do you?{p}{name: 1280}{person: 5 68 67}
+Oh I'm sure he finds the best{b}
+water money can buy!{wait: 16} Taste is{b}
+his business,{wait: 8} you know.{nextpage_button}{person: 5 72 69}
+Look,{wait: 8} that sign over there!{nextpage_button}{name: 1280}{person: 5 76 75}{speed: 4}
+"Eldoon's only uses water{b}
+from all-natural sources!"{nextpage_button}{name: 1024}{speed: 8}
+...{nextpage_button}{person: 5 81 81}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}{color: 2}
+(I think I'll take a rain{b}
+check on eating here.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16399 373 373}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{person: 0 0 0}{name: 1280}{person: 5 82 81}{shake: 30 0}{bgcolor: 2305 8 31}That doorway sure is sparkly!{p}{name: 1024}{person: 5 81 81}{speed: 5}
+The{wait: 6} "Meraktis Clinic",{wait: 6} {speed: 3}huh.{wait: 20}{b}
+Looks more like a casino{b}
+parlor than a hospital.{p}
+They must be quite profitable.{wait: 20}{b}{p}{name: 1280}{person: 5 76 75}
+Funny,{wait: 8} it looks closed.{wait: 16} Maybe{b}
+they're on vacation today?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16399 373 373}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{person: 0 0 0}{name: 1024}Looks like they have a special{b}
+offer going on...{p}{name: 1280}{person: 5 74 73}{sound: 51 1}{bgcolor: 2305 8 31}
+"Three shots for the price of{b}
+one!{wait: 12}{person: 5 96 95}{speed: 2}" Ooh,{wait: 8} now's our chance,{wait: 8}{b}
+Apollo!{p}{name: 1024}{person: 5 95 95}{speed: 3}
+Chance for what!?{wait: 16} I don't need{b}
+any shots,{wait: 8} thank you.{p}{person: 5 67 67}
+Whoever runs this clinic,{wait: 8} they{b}
+seem pretty business-minded.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16399 373 373}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{wait: 1}{0x1d: 264}{0x4c}{name: 1024}{person: 15 373 373}{hidetextbox: 0}So,{wait: 8} your stand{speed: 8}...{wait: 16} {speed: 3}"Eldoon's{b}
+Noodles",{wait: 7} was it?{nextpage_button}{name: 3840}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Aye!{wait: 16} {speed: 3}Passed down from father{b}
+to son.{nextpage_button}{person: 15 382 383}
+That stand's seen its share{b}
+o' salt,{wait: 10} {speed: 8}mmm-hmm.{p}{person: 15 374 373}{speed: 3}
+Salt runs in the family,{wait: 8}{b}
+you might say.{nextpage_button}{name: 1024}{person: 15 373 373}{speed: 4}{color: 2}
+(I bet high blood pressure{b}
+does too.){color: 0}{nextpage_button}{speed: 3}
+So...{wait: 16} your stand, Eldoon's{b}
+Noodles, was stolen...{nextpage_button}{name: 3840}{person: 15 375 373}{speed: 3}
+Oh,{wait: 8} it wasn't just the stand{b}
+that was stolen,{wait: 8} sonny-boy!{p}{person: 15 382 383}
+I lost those wobbly wheels,{wait: 8}{b}
+my salt-crusted stewpot,{wait: 8}{b}
+my stained sign...{p}
+I didn't just lose a stand,{wait: 8}{b}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+I lost a legend!{nextpage_button}{hidetextbox: 1}{person: 15 388 388}{wait: 10}{sound: 164 1}{0x63}{hidetextbox: 0}{name: 1280}{person: 5 91 90}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+No one steals a legend and{b}
+gets away with it on my watch!{nextpage_button}{person: 5 96 95}{speed: 3}
+Let's find that legend,{wait: 12}{b}
+Apollo!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 15 383 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 4}{color: 2}
+(Isn't it about time he bought{b}
+a new one anyway?){speed: 255}{color: 0}{nextpage_button}{0x10: 32825}{0x51: 0 53}
+{14592}{1546}{0x35: 14848 @RelativeAddress2}{0x35: 15104 @RelativeAddress3}{0x35: 15360 @RelativeAddress4}{0x10: 32829}{@RelativeAddress2}{@RelativeAddress3}{@RelativeAddress4}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{wait: 1}{0x1d: 264}{0x4c}{person: 15 373 373}{name: 1024}{hidetextbox: 0}{speed: 4}Are there any more details you{b}
+could give me about the stand?{nextpage_button}{person: 15 381 380}{name: 3840}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+You bet,{wait: 8} sonny-boy!{wait: 20}{b}{speed: 3}
+It happened last night...{p}{person: 15 375 373}
+I was blowing my whistle{b}
+like always,{wait: 8} crying the{b}
+town,{wait: 8} I was.{p}
+The smell of broth filled the{b}
+streets...{wait: 20} thick 'n' salty.{p}{person: 15 382 383}
+I got home,{wait: 8} well,{0x5a}{wait: 40} {0x59}{speed: 3}right before{b}
+10 PM,{wait: 8} I reckon.{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Guess he's not aiming for{b}
+that late-night market.){speed: 255}{color: 0}{p}{speed: 255}{name: 3840}
+I washed my bowls and gave{b}
+the wheels a squirt of grease.{b}
+Then I went inside.{0x5a}{p}{person: 15 383 383}{name: 1024}{speed: 3}
+When did you notice it had{b}
+been stolen?{p}{hidetextbox: 1}{person: 15 377 377}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 40}{hidetextbox: 0}{name: 3840}{speed: 3}
+Early this morning.{wait: 16} Before the{b}
+sun rose.{wait: 16} Work starts early!{wait: 15}{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Do that many people eat{b}
+noodles for breakfast!?){speed: 255}{color: 0}{p}{person: 15 379 378}{name: 3840}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I'm washed up on the salty{b}
+shores of ruination!{p}{speed: 3}
+That stand had my whole life{b}
+in it...{wait: 20} nay,{wait: 8} my whole being!{nextpage_button}{person: 5 76 75}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+They took everything?{nextpage_button}{person: 15 381 380}{name: 3840}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+All my soup stock,{wait: 8} my noodles,{wait: 8}{b}
+my bowls...{wait: 20} {speed: 3}and my dreams!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{showphoto: 58}
+At least they left one bowl.{wait: 16}{b}
+Look,{wait: 6} there,{wait: 6} on the ground.{nextpage_button}{hidetextbox: 1}{removephoto}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 15 378 378}{wait: 16}{name: 3840}{person: 15 379 378}{hidetextbox: 0}{speed: 4}
+If you don't find that stand{b}
+today...{p}{person: 15 381 380}{speed: 3}
+Then I'll be forced to walk{b}{sound: 26 1}{shake: 30 0}{speed: 2}
+the streets,{wait: 8} peddling that{b}
+bowl...{wait: 20} my last bowl.{p}{hidetextbox: 1}{person: 15 388 388}{wait: 10}{sound: 164 1}{0x63}{hidetextbox: 0}{name: 1024}{speed: 4}
+Please,{wait: 8} I'm under enough{b}
+pressure here as it is.{speed: 255}{nextpage_button}{person: 15 383 383}{0x10: 32826}{0x51: 0 53}
+{14592}{2544}{0x35: 14848 @RelativeAddress5}{0x35: 15104 @RelativeAddress6}{0x35: 15360 @RelativeAddress7}{0x10: 32829}{@RelativeAddress5}{@RelativeAddress6}{@RelativeAddress7}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{wait: 1}{0x1d: 264}{0x4c}{person: 5 96 95}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{hidetextbox: 0}{speed: 2}That's i{bgcolor: 2305 8 31}t!{wait: 16} {speed: 3}That's where the{b}
+thief who snatched my panties{b}
+ran to!{nextpage_button}{person: 15 381 380}{name: 3840}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+It's a crying shame,{wait: 8} that{b}
+is.{p}{person: 15 382 383}{speed: 3}
+If they have to steal,{wait: 8} make it{b}
+my loincloth!{wait: 20} Not some pretty{b}
+girl's panties!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{wait: 1}{0x1d: 4}{0x4c}{person: 0 0 0}{name: 1024}{hidetextbox: 0}{speed: 5}
+The garage,{wait: 8} right.{wait: 12} {speed: 3}You don't{b}
+think the thief lives here,{wait: 8}{b}
+do you?{p}{name: 3840}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Feh!{wait: 20} {speed: 3}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{wait: 1}{0x1d: 264}{0x4c}{personvanish: 3 1}{person: 15 382 383}{wait: 16}{hidetextbox: 0}I wouldn't put it past{b}
+that good-for-nothing doctor!{nextpage_button}{person: 15 383 383}{name: 1024}{speed: 4}{color: 2}
+(Hmm...{wait: 16} Do I detect a little{wait: 6}{b}
+animosity{wait: 6} here?){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+Let's make sure to check{b}
+out that garage thoroughly!{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 15 373 373}{0x10: 32827}{0x51: 0 53}
+{14592}{1212}{0x35: 14848 @RelativeAddress8}{0x35: 15104 @RelativeAddress9}{0x35: 15360 @RelativeAddress10}{0x10: 32829}{@RelativeAddress8}{@RelativeAddress9}{@RelativeAddress10}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{wait: 1}{0x1d: 264}{0x4c}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 75 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{person: 5 76 75}{name: 1280}{hidetextbox: 0}Hey,{wait: 12} do you think something{b}
+happened next door?{wait: 16} There's{b}
+a police car out front...{nextpage_button}{person: 15 382 383}{name: 3840}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Feh!{wait: 16} {speed: 3}Probably gave someone{b}
+food poisoning,{wait: 8} I'll bet!{p}{person: 15 373 373}{name: 1024}{color: 2}
+(If anyone's at risk of giving{b}
+someone food poisoning...){color: 0}{p}{person: 15 374 373}{name: 3840}
+That police car got here{b}
+this mornin',{wait: 8} actually.{p}{person: 15 382 383}
+I asked what they were up to,{wait: 8}{b}
+but they wouldn't even tell{b}
+me,{wait: 8} the neighbor!{wait: 20} Feh!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+Hmm...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 15 382 383}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 3840}
+Not that I was surprised{b}
+much.{wait: 20} That doctor works for{b}
+the wrong crowd.{p}{person: 15 374 373}
+It was just a matter of time{b}
+'fore he got what was coming{b}
+to him.{wait: 20} Feh!{p}{person: 15 380 380}{name: 1024}{speed: 5}
+The "wrong crowd"...?{p}{person: 15 382 383}{name: 3840}{speed: 3}
+...{wait: 20}Never you mind about that.{nextpage_button}{0x10: 32828}{0x51: 0 53}
+{14592}{1396}{0x35: 14848 @RelativeAddress11}{0x35: 15104 @RelativeAddress12}{0x35: 15360 @RelativeAddress13}{0x10: 32829}{@RelativeAddress11}{@RelativeAddress12}{@RelativeAddress13}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{wait: 1}{0x1d: 264}{0x4c}{name: 3840}{person: 15 374 373}You can tell my bowls by{b}
+the Mr. Salty logo!{p}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+The mascot of Eldoon's{b}
+Noodles!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 375 373}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+They come to the stand,{wait: 8} they{b}
+sit,{wait: 8} they drink deep from{b}
+that bowl...{p}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+...and when they see the{b}
+bottom,{wait: 6} their face looks jus'{b}
+like Mr. Salty's!{wait: 20} Genius, no!?{p}{name: 1280}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}
+Very high-concept.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 3840}{person: 15 375 373}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+You can't ply a trade if you{b}
+don't love the tools.{wait: 16}{b}
+Remember{shake: 30 0} that!{p}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yes sir!{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Trucy has a thing for{b}
+professionals,{wait: 12} {speed: 4}clearly.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 16399 373 373}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{wait: 1}{0x1d: 264}{0x4c}{name: 3840}{person: 15 382 383}Sorry,{wait: 8} sonny-boy.{wait: 16} My interest{b}
+is for my stand and precious{b}
+little else.{p}{person: 15 381 380}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Get cracking on that case!{wait: 16}{b}{speed: 3}
+Find my stand,{wait: 8} I'm beggin' ya!{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 15{b}
+Eldoon's House{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}
+Oh,{wait: 8} Mr. Eldoon...!{wait_noanim: 30}{b}{person: 5 76 75}{speed: 4}
+Hello?{p}{name: 1024}{person: 5 75 75}{speed: 3}
+Looks like he left.{p}{name: 1280}{person: 5 93 92}
+And we found his stand and{b}
+everything!{wait_noanim: 25} {person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}What about our{b}
+free bowl!?{p}{name: 1024}{person: 5 95 95}
+Oh,{wait: 8} too bad,{wait: 8} looks like we'll{b}
+have to wait a little longer{b}
+for that bowl.{wait: 16} So sorry.{p}{name: 1280}{person: 5 76 75}
+Aw,{wait: 8} what a bummer.{speed: 255}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{0x10: 32850}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{person: 0 0 0}{name: 1024}A police car is parked in{b}
+front of the Meraktis Clinic.{p}
+It's empty.{wait: 20} The police must{b}
+be inside investigating.{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{person: 0 0 0}{name: 1024}A lone Eldoon's Noodles bowl{b}
+lies on the ground.{p}
+The lone bowl,{wait: 8} tipped on its{b}
+side...{wait: 20} It's kind of surreal.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{person: 0 0 0}{name: 1024}Guy Eldoon's dog doesn't{wait: 16}{b}
+look too lively.{p}
+They say dogs and their owners{b}
+resemble each other...{p}
+I guess there are exceptions.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{person: 0 0 0}{name: 1024}Mr. Eldoon's house has seen{b}
+better days.{p}
+And I'm betting I've eaten{b}
+better noodles.{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{24}}
+{bop}{person: 0 0 0}{name: 1024}This must be his business{b}
+sign.{wait: 16} It reads "NOO".{p}
+Maybe that's how the kids{b}
+are spelling{wait: 6} "new"{wait: 6} these{b}
+days.{p}
+Another failed attempt at{b}
+hipster marketing.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{25}}
+{bop}{person: 0 0 0}{name: 1024}The front entrance to the{b}
+Meraktis Clinic.{p}
+The walls and posts are so{b}
+highly polished I can see{b}
+my face in them.{p}{speed: 6}
+...{wait: 30}{b}{speed: 3}
+Hot dang,{wait: 8} my hair looks good.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{26}}
+{bop}{person: 0 0 0}{name: 1024}Looks like this is a banner{b}
+for some campaign.{p}{speed: 4}
+"Three shots for the price of{b}
+one"{speed: 8}...{wait: 16} {speed: 3}Somehow I don't see{b}
+people lining up for that.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{27}}
+{bop}{person: 0 0 0}{name: 1024}The blue tarp Mr. Eldoon used{b}
+to cover his noodle stand.{p}
+Robbed of its purpose,{wait: 8} it{b}
+blows in the wind...{wait: 20} alone.{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{28}}
+{bop}{person: 0 0 0}{name: 1024}An oil drum for catching{b}
+rainwater.{p}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+...{wait: 20}Ack!{wait: 16} A sparrow just flew{b}
+over and...{wait: 20} Aw man,{wait: 8} that was{b}
+just disgusting!{nextpage_button}{speed: 3}
+Something tells me this wasn't{b}
+the first time.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{29}}
+{bop}{person: 0 0 0}{name: 1024}There's a{wait: 6} hand-written{wait: 6} sign{b}
+here...{wait: 20} "Save the light!"{p}
+It's hard to make out the{b}
+sign in the shade from the{b}
+clinic next door.{p}{hidetextbox: 3}{special_jmp}{endjmp}

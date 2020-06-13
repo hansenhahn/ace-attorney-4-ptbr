@@ -1,0 +1,121 @@
+
+
+{{0}}
+{bop}{name: 2304}{0x76: 0 17}{hidetextbox: 0}Well,{wait: 12} which shoe print should{b}
+we start with...?{p}
+If we're going to verify the{b}
+defendant's account,{wait: 8} here's{b}
+the place to start!{p}{hidetextbox: 1}{0x76: 2 0}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{name: 2304}{0x76: 0 17}{hidetextbox: 0}{speed: 3}Shoe prints,{wait: 8} prepare to be{b}
+examined!{p}{0x76: 2 0}{name: 1280}{0x76: 1 4}{speed: 5}
+Ooh!{wait: 12}{b}{speed: 3}
+This is so exciting!{p}{hidetextbox: 1}{0x76: 2 0}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{hidetextbox: 0}First,{wait: 8} choose the print{b}
+to examine.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{hidetextbox: 0}I'd say of all the prints,{wait: 8}{b}
+this one looks the cleanest.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{hidetextbox: 0}First,{wait: 10} we pour in the plaster.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{wait: 60}{0x74: 8 50}{wait: 5}{hidetextbox: 0}{0x30: 1}{0x74: 19 0}{0x76: 0 17}Right,{wait: 8} here goes!{wait: 16}{b}
+First...{p}
+"Pour the plaster into the{b}
+print until it's full."{p}{speed: 4}
+...{wait: 15}You try it.{p}{0x30: 0}{0x74: 19 2}{shake: 30 1}{speed: 3}
+How am I supposed to do that!?{p}{0x30: 1}{0x74: 19 0}
+Just touch the screen where{b}
+you want to pour the plaster.{p}
+Like this!{p}{0x74: 8 51}{wait: 5}{0x76: 2 0}{wait: 15}{0x74: 8 62}{wait: 60}{0x30: 0}{0x74: 8 50}{wait: 5}{0x74: 19 2}{color: 2}
+(Hmm,{wait: 8} that doesn't look too{b}
+hard...){color: 0}{p}{0x30: 1}{0x74: 19 0}{0x76: 0 16}
+If you run out of plaster in{b}
+your beaker before you're{b}
+done,{wait: 8} you have to start over!{p}{0x74: 8 51}{wait: 5}{wait: 5}{0x76: 2 0}{wait: 15}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{hidetextbox: 0}{name: 2304}{0x76: 0 24}...{wait: 12}OK!{wait: 8}{b}
+Looking good.{p}
+Next,{wait: 8} to dry the plaster!{p}{bganim: 98 579}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{hidetextbox: 0}{0x76: 0 18}{name: 2304}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}What are you doing!?{wait: 16}{b}{speed: 3}
+Out of plaster already?{p}{name: 1024}
+Hey,{wait: 8} give me a break!{wait: 10}{b}
+I'm just a beginner at this!{p}{name: 2304}
+I'm not that far ahead of you,{wait: 16}{b}
+believe me!{wait: 16} ...{wait: 20}Fine.{p}{0x76: 0 16}
+I'll make another batch.{wait: 16}{b}
+Don't mess it up this time.{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{hidetextbox: 0}{name: 1024}{color: 2}(Plaster,{wait: 8} here comes Justice!{wait: 16}{b}
+*sigh*){color: 0}{p}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{name: 2304}{0x76: 0 16}{hidetextbox: 0}Not bad.{wait: 16} You're handier with{b}
+that than you look.{p}{name: 1024}{color: 2}
+(What's that supposed to{b}
+mean?){color: 0}{p}{name: 2304}{0x76: 0 17}{speed: 3}
+On to the next step!{p}
+Um...{wait: 16} "Dry the plaster until{b}
+it turns white.{wait: 10}" Right!{p}{0x74: 8 82}
+Just touch to direct the{b}
+dryer!{p}{0x76: 2 0}{hidetextbox: 1}{wait: 15}{0x74: 8 83}{wait: 90}{0x74: 8 82}{wait: 30}{name: 2304}{0x76: 0 17}{wait: 15}{nextpage_nobutton}{hidetextbox: 0}
+...{wait: 20}There,{wait: 12} give it a shot!{p}{0x76: 2 0}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{name: 2304}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}OK,{wait: 16} let's take out the mold!{wait: 16}{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{hidetextbox: 0}{name: 2304}{0x76: 0 16}Looks like it's hardened{b}
+nicely.{wait: 16} Let's take a look!{p}{0x76: 2 0}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{name: 2304}{hidetextbox: 0}Hmm...{wait: 16} Yes,{wait: 8} that's a good{b}
+one.{wait: 16} Next,{wait: 8} the ink!{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{hidetextbox: 0}{name: 2304}{0x76: 0 17}{speed: 3}Ready for the next step?{p}{0x76: 2 0}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{hidetextbox: 0}{name: 2304}{0x76: 0 17}Use the roller to ink{b}
+just the shoe print part.{p}
+Hold on to that roller tight{b}
+now,{wait: 8} and roll it up and down.{p}
+Keep going till you get enough{b}
+ink on there for a good print!{p}{0x76: 2 0}{hidetextbox: 1}{wait: 30}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{hidetextbox: 0}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}Right,{wait: 8} now the moment you've{b}
+all been waiting for!{wait: 14} Let's{b}
+take our print!{p}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{name: 2304}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}Right,{wait: 8} now the moment you've{b}
+all been waiting for!{wait: 14} {speed: 3}Let's{b}
+take our print!{p}{0x76: 2 0}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{name: 2304}{hidetextbox: 0}Ready?{wait: 16}{b}
+Here goes!{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{name: 2304}{hidetextbox: 0}Let's see if we get a match.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{name: 2304}{hidetextbox: 0}Ooh,{wait: 12} not bad!{wait: 15} That's a fine{b}
+print you took there.{p}
+Next,{wait: 8} to match it.{p}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{hidetextbox: 0}{name: 2304}Hmm,{wait: 8} no good.{wait: 16} Must have{b}
+messed up somewhere.{wait: 16} Shall{b}
+we try on another print?{p}{0x74: 5 0}{special_jmp}{endjmp}

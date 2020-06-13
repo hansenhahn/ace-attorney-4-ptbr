@@ -1,0 +1,670 @@
+
+
+{{0}}
+{bop}{0x62: 4 4}{bganim: 98 267}{0x74: 2 0}{bg: 4095}{person: 0 0 0}{name: 1792}{speed: 4}The nightmare trial was{b}
+over{speed: 8}...{p}{speed: 4}
+...{wait: 10}and the new nightmare of{b}
+figuring out what had happened{b}
+had just begun.{p}{speed: 3}
+I wanted to wake up,{wait: 8}{b}
+to walk away.{p}{speed: 4}
+...But I figured I'm the{b}
+only one who could do this,{wait: 12}{b}
+probably.{p}
+And besides,{wait: 8} I had plenty of{b}
+time.{p}{speed: 4}
+Thanks to the Bar Association{b}
+review board's decision.{p}{speed: 5}
+It's hard to work when{b}
+your attorney's badge{b}
+has been taken away.{nextpage_button}{hidetextbox: 1}{wait: 60}{0x10: 33633}{jmp: 130}{endjmp}
+
+{{1}}
+{bop}{showphoto: 236}{person: 25 573 573}{name: 1792}{speed: 4}{color: 2}(My {color: 1}Magatama{color: 2}{speed: 8}...{wait: 8}{speed: 4} one of my most{b}
+prized possessions, which I{b}
+got during a certain case...){p}{speed: 3}
+(It can show me the{wait: 6} {color: 1}locks{color: 2}{wait: 6}{b}
+on people's hearts.){p}
+(And if I can{wait: 6} {color: 1}unlock{color: 2}{wait: 6} their{b}
+hearts...){p}
+(...they'll tell me their{b}{color: 1}
+secrets{color: 2}!){p}{speed: 4}
+(The{wait: 6} {color: 1}Magatama{color: 2}{wait: 6} starts it all.){p}{speed: 3}
+(And the {color: 1}Magatama{color: 2} ends it!){color: 0}{nextpage_button}{removephoto}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x23: 0}{music: 255 90}{0x89}{bgcolor: 258 1 31}{wait: 15}{0x10: 33641}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{0x62: 4 4}{0x25: 1}{bg: 38}{bganim: 98 267}{0x4d: 38 1}{person: 0 0 0}{name: 0}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{0x74: 2 0}{center_text: 1}{hidetextbox: 0}{color: 3}Seven Years Ago{b}
+Detention Center{b}
+Visitor's Room{color: 0}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{personvanish: 3 1}{person: 25 574 573}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8448}{speed: 4}
+What strange sight doth mine{b}
+eyes behold!{nextpage_button}{person: 25 573 573}{name: 1792}{speed: 3}
+Excuse me?{nextpage_button}{person: 25 583 582}{name: 8448}{speed: 4}
+Two men on either side of a{b}
+single transparent pane{speed: 8}...{p}{person: 25 576 575}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...yet it seems fickle Fate{b}
+has switched sides,{wait: 6} so to{b}
+speak!{fademusic: 0}{music: 57 0}{p}{person: 25 583 582}{name: 8448}{speed: 4}
+The forger of fakes walks{b}
+freely.{p}{person: 25 574 573}{speed: 3}
+While the innocent languishes{b}
+within these flexiglass{b}
+confines.{nextpage_button}{name: 1792}
+There's been no proof that{b}
+I{wait: 4} {color: 1}forged{color: 0}{wait: 4} anything.{p}{name: 8448}{speed: 4}
+Nor proof that I took the life{b}
+of my dear mentor.{nextpage_button}{name: 1792}{speed: 7}
+......{p}{person: 25 583 582}{name: 8448}{speed: 5}
+Yet...{wait: 16} {speed: 3}these chains cannot{b}
+hold me for long.{p}{person: 25 574 573}
+The stage awaits!{p}{speed: 4}
+And what,{wait: 16}{person: 25 576 575} may I ask,{wait: 8} awaits{b}
+you?{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(A little piano in a cold{b}
+little hole-in-the-wall{speed: 8}...){speed: 4}{color: 0}{nextpage_button}{person: 25 574 573}{name: 8448}{speed: 4}
+But,{wait: 6} since you are here...{p}{person: 25 583 582}{speed: 4}
+...what shall we discuss?{nextpage_button}{person: 25 582 582}{name: 1792}{speed: 4}{color: 2}
+(The{wait: 4} {color: 1}shooting{color: 2}{wait: 4} of Magnifi{b}
+Gramarye,{wait: 4} for one{speed: 8}...){p}{person: 25 573 573}{speed: 3}
+(Who pulled that trigger?{wait: 12}{b}
+Valant?{wait: 10} Or his partner Zak?){p}
+(His partner vanished before{b}
+the answer could be found.){p}{speed: 4}
+(If I'm going to get any{b}
+closer to the{wait: 4} {color: 1}truth{color: 2},{wait: 12} this{b}
+is the place to start.){nextpage_button}{color: 0}{0x80}{b}{pause}{0x19: 15 136}
+89{0x82}{b}
+Ê{0x8b}{0x8a}{0x10: 33666}{0x32: 15 38}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{person: 25 583 582}{name: 8448}{speed: 5}{0x5a}...{0x59}{speed: 4}I had not thought of that{b}
+accident for a very long time.{nextpage_button}{name: 1792}{speed: 3}
+I'm sorry to dredge up old{b}
+memories... but this has{b}
+helped a lot.{nextpage_button}{person: 25 574 573}{name: 8448}
+Not to find Magnifi's{b}
+slayer,{wait: 8} I should think.{nextpage_button}{person: 25 573 573}{name: 1792}{speed: 4}
+...True.{nextpage_button}{person: 25 583 582}{name: 8448}{speed: 5}
+Ah...{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{speed: 4}
+...?{p}{name: 8448}{speed: 3}
+After that accident...{p}{person: 25 574 573}
+...there was one who came{b}
+sniffing,{wait: 8} quite persistently.{nextpage_button}{person: 25 582 582}{name: 1792}{speed: 3}
+A reporter?{nextpage_button}{person: 25 574 573}{name: 8448}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+He called himself a "newsman"{b}
+at the time.{p}
+Often I spied him lurking{b}
+about the dressing room,{wait: 8}{b}
+doing his{wait: 8} "research".{p}{person: 25 582 582}{name: 1792}
+Would you happen to remember{b}
+his name?{nextpage_button}{person: 25 583 582}{name: 8448}
+What was his name{speed: 8}{0x5a}...?{wait: 30}{b}{person: 25 574 573}{speed: 4}
+Sorry,{wait: 8} I have forgotten.{p}{person: 25 574 573}{speed: 3}
+But,{wait: 8} in the course of his{b}
+interviewing,{wait: 6} he became quite{b}
+close to my partner,{wait: 8} Zak.{p}
+I liked him not.{nextpage_button}{name: 1792}
+I see...{nextpage_button}{person: 25 583 582}{name: 8448}{speed: 6}
+His name...{wait: 16} I do not recall.{wait: 8}{b}{speed: 3}
+But his scent -- the cloying{b}
+aroma of mint.{nextpage_button}{person: 25 574 573}
+...Yes,{wait: 8} whenever he smiled.{wait: 10}{b}
+Which was far too often.{nextpage_button}{person: 25 573 573}{name: 1792}{speed: 4}
+I see...{wait: 20}{b}{speed: 3}
+Thanks for your help.{nextpage_button}{person: 25 583 582}{name: 8448}{speed: 4}
+...It does no good to{b}
+interfere with the past,{wait: 8}{b}
+Mr. Wright.{p}{person: 25 576 575}{speed: 3}
+You will not uncover answers.{wait: 16}{b}
+Only wounds.{nextpage_button}{name: 1792}
+...I'm sorry.{nextpage_button}{hidetextbox: 1}{fademusic: 45}{wait: 45}{0x26: 1}{bganim: 98 519}{wait: 60}{fademusic: 0}{music: 29 100}{0x5f: 15 3 0}{name: 1792}{hidetextbox: 0}{speed: 4}
+I had begun to notice a dark{b}
+curtain hanging over Troupe{b}
+Gramarye...{nextpage_button}{speed: 7}
+...and I began to realize what{b}
+I had to do.{nextpage_button}{speed: 3}
+I had to protect Trucy from{b}
+that darkness.{nextpage_button}{speed: 4}
+The reporter he mentioned{speed: 8}...{nextpage_button}{speed: 3}
+...the "{color: 1}newsman{color: 0}". I never{b}
+learned who that was,{wait: 8} at the{b}
+time.{nextpage_button}
+...{wait: 20}Though I've got a pretty{b}
+good idea who it is now.{nextpage_button}{speed: 4}
+That smile,{wait: 16} and the sickly{b}
+sweet smell of mint.{nextpage_button}{speed: 4}
+The last floss-thin thread{b}
+connecting Zak Gramarye{b}
+to this world.{nextpage_button}{speed: 4}
+Sooner or later,{wait: 12} I'd have{b}
+to track him down.{speed: 255}{nextpage_button}{hidetextbox: 1}{wait: 60}{fademusic: 120}{wait: 120}{0x64}{rejmp: 4}{b}{hideperson}{wait: 25}{0x5f: 16 1 1}{0x10: 33667}{0x10: 33665}{0x26: 0}{bganim: 0 4096}{0x74: 18 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{person: 25 583 582}{name: 8448}{hidetextbox: 0}{speed: 4}I have to hand it to my{b}
+partner.{p}{person: 25 574 573}
+He knows how to make an{wait: 6} {color: 1}exit{color: 0}.{wait: 16}{b}
+That's talent.{p}{person: 25 573 573}{name: 1792}
+Yes.{wait: 10} He made my attorney's{b}
+badge disappear,{wait: 10} and he{b}
+never even touched it.{nextpage_button}{person: 25 583 582}{name: 8448}
+Glory's spotlight always{b}
+leaves someone weeping in{b}
+the shadows...{p}{person: 25 574 573}
+...yet his very {color: 1}disappearance{color: 0}{b}{person: 25 576 575}{sound: 52 1}{bgcolor: 2305 8 31}
+is itself a revelation.{nextpage_button}{name: 1792}{speed: 3}
+Revealing what?{nextpage_button}{person: 25 574 573}{name: 8448}{speed: 4}
+Zak Gramarye killed Magnifi.{p}{person: 25 574 573}{speed: 3}
+It's as good as a signed{b}
+confession.{person: 25 573 573}{sound: 148 1}{wait: 10}{person: 25 591 573}{wait: 15}{person: 25 573 573}{wait: 4}{person: 25 598 573}{wait: 2}{person: 25 592 573}{wait: 6}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 2}{person: 25 596 573}{wait: 3}{person: 25 597 573}{wait: 2}{person: 25 598 573}{wait: 6}{person: 25 573 573}{wait: 6}{nextpage_button}{person: 25 573 573}{name: 1792}{color: 2}
+(That's certainly been{b}
+public opinion's take on it.){p}{color: 0}{person: 25 583 582}{name: 8448}{speed: 4}
+I grow tired of my cage.{nextpage_button}{person: 25 574 573}{speed: 3}
+And the time of my release is{b}
+near.{wait: 16} I must go and prepare.{nextpage_button}{name: 1792}
+Planning on jumping back{b}
+into the magic right away?{nextpage_button}{person: 25 576 575}{name: 8448}
+As long as an audience waits{b}
+with bated breath,{wait: 12} there will{b}
+be Valant.{wait: 16} And also...{nextpage_button}{name: 1792}
+...Yes?{nextpage_button}{person: 25 574 573}{name: 8448}
+Now that my partner has{b}
+disappeared,{wait: 10} Magnifi's {b}
+repertoire{0x5a}{wait: 25}...{0x59}{speed: 4} is mine.{p}{person: 25 576 575}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Valant Gramarye has a{b}
+tradition to uphold.{nextpage_button}{name: 1792}{color: 2}
+(Is that true?){nextpage_button}{color: 0}{person: 25 574 573}{name: 8448}
+Seen in this light,{wait: 8} the{b}
+trial was quite good to{b}
+me,{wait: 8} verdict or no.{p}{person: 25 574 573}
+And...{wait: 12} you can't pay for{b}
+that kind of publicity.{b}{person: 25 573 573}{sound: 148 1}{wait: 10}{person: 25 591 573}{wait: 15}{person: 25 573 573}{wait: 4}{person: 25 598 573}{wait: 2}{person: 25 592 573}{wait: 6}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 2}{person: 25 596 573}{wait: 3}{person: 25 597 573}{wait: 2}{person: 25 598 573}{wait: 6}{person: 25 573 573}{wait: 6}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{person: 25 573 573}{name: 1792}{hidetextbox: 0}The suspicion on you hasn't{b}
+lifted entirely,{wait: 8} Valant.{p}{speed: 4}
+After all...{p}{speed: 3}
+...you received one of those{b}{color: 1}
+letters{color: 0}, too.{nextpage_button}
+You were just as obligated to{b}
+follow Magnifi's instructions{b}
+as your partner.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 155}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{wait: 60}{name: 8448}{hidetextbox: 0}{speed: 4}
+...{wait: 16}{speed: 3}So I was.{wait: 16} But only{b}
+Zak Gramarye {color: 1}followed them{color: 0}.{nextpage_button}{hidetextbox: 1}{wait: 60}{bg: 38}{person: 25 574 573}{name: 8448}{hidetextbox: 0}{speed: 5}
+Let us not speak any more of{wait_noanim: 20}{b}{person: 25 583 582}
+"who shot what".{p}
+Now that my partner has{b}
+vanished... the question{b}
+is moot.{nextpage_button}{name: 1792}{speed: 3}
+I'm more interested in{b}
+learning something else,{b}
+actually.{nextpage_button}{person: 25 574 573}{name: 8448}{speed: 4}
+What might that be?{nextpage_button}{person: 25 573 573}{name: 1792}{speed: 3}
+I want to know what Magnifi{b}
+had up his sleeve.{nextpage_button}{speed: 4}
+How could he coerce you and{b}
+your partner to kill him?{nextpage_button}{person: 25 574 573}{name: 8448}{speed: 5}
+The{wait: 4} "trick" up his{wait: 6} "sleeve"?{0x5a}{wait: 40}{b}{person: 25 579 579}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha...!{person: 25 573 573}{p}{person: 25 574 573}{speed: 4}
+Perhaps you do not know.{nextpage_button}{person: 25 573 573}{name: 1792}{speed: 3}
+Know what?{nextpage_button}{person: 25 576 575}{name: 8448}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+A great magician never{b}
+reveals his secrets.{nextpage_button}{fademusic: 30}{0x88}{pause}{person: 25 573 573}{name: 1792}{hidetextbox: 0}{speed: 3}{color: 2}
+(...I didn't think it would{b}
+be that easy.){nextpage_button}{color: 0}{person: 25 574 573}{name: 8448}
+The audience must remain{b}
+forever... in the audience.{p}{person: 25 576 575}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+...Bathing in the reflected{b}
+glow of the spotlight.{nextpage_button}{0x8c}{0x85}{0x51: 3 53}
+{26881}{2030}{jmp: 129}{endjmp}{endjmp}{0x89}{0x23: 0}{music: 255 90}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{person: 25 576 575}{name: 8448}{hidetextbox: 0}{speed: 8}{0x5a}...{wait: 25}{0x59}{speed: 2}There's no proof,{wait: 8} {bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}none{b}
+at all!!!{nextpage_button}{name: 1792}{speed: 3}
+But Thalassa went {wait: 4}{color: 1}missing{color: 0}...{nextpage_button}
+...and your mentor {color: 1}blackmailed{color: 0}{b}
+both of his disciples.{nextpage_button}{person: 25 580 580}
+It doesn't take a genius to{b}
+put one and one together.{nextpage_button}{fademusic: 60}{name: 8448}{speed: 8}
+......{p}{person: 25 583 582}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Ours was{speed: 8}{0x5a}...{0x59}{wait: 10} a complex{b}{fademusic: 0}{music: 29 100}
+family.{nextpage_button}{person: 25 582 582}{name: 1792}{speed: 3}
+You mean Troupe Gramarye?{nextpage_button}{person: 25 583 582}{name: 8448}{speed: 4}
+The master,{wait: 8} Magnifi Gramarye,{wait: 14}{b}
+his only daughter...{p}{wait: 12}
+...and his two disciples.{nextpage_button}{person: 25 582 582}{name: 1792}{speed: 3}
+That does sound like a recipe{b}
+for disaster,{wait: 8} doesn't it?{p}{person: 25 583 582}{name: 8448}
+Do not be tempted into{b}
+faulty flights of fancy.{wait: 12}{b}
+Yes,{wait: 10} there was an accident{0x5a}...{nextpage_button}
+...{0x59}but that is all it was.{0x5a}{wait: 30}{b}{person: 25 576 575}
+An accident.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 168}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{wait: 80}{name: 8448}{hidetextbox: 0}{speed: 4}
+Zak & Valant's tour de force!{nextpage_button}{speed: 4}
+The guns blaze,{wait: 8} the bullets{b}
+fly...{wait: 20} {speed: 4}straight toward that{b}
+beautiful body on stage.{p}{speed: 3}
+And then crash! zing! pow!{b}{speed: 4}
+into everything but her.{wait: 15}{b}
+Now that... is magic.{p}{speed: 3}
+It happened one day when we{b}
+were practicing.{wait: 16} Same trick,{wait: 10}{b}
+with a new twist.{nextpage_button}
+And...{wait: 16} tragedy.{nextpage_button}{hidetextbox: 1}{wait: 60}{bgcolor: 1025 8 31}{wait: 1}{sound: 155 1}{fademusic: 0}{music: 0 0}{bg: 85}{bgcolor: 772 1 31}{wait: 25}{wait: 80}{hidetextbox: 0}{speed: 5}
+But as for whose bullet{b}
+stole Thalassa's life...{p}{speed: 3}
+...{wait: 16}we shall never know{b}
+the answer.{p}
+Thalassa disappeared from our{b}
+lives...{wait: 8} and Zak was bereft{b}
+of his wife.{nextpage_button}{speed: 5}
+Trucy lost her mother...{nextpage_button}{speed: 3}
+...and Magnifi,{wait: 8} his daughter.{nextpage_button}{bgcolor: 516 1 31}{wait: 25}{bg: 38}{name: 0}{person: 25 582 582}{bgcolor: 258 1 31}{wait: 15}{name: 1792}{hidetextbox: 0}{speed: 6}
+...{wait: 35}{speed: 4}And that led to blackmail,{wait: 10}{b}
+I take it.{nextpage_button}{person: 25 583 582}{name: 8448}{speed: 3}
+It is all part and parcel of{b}
+the darkness that comes when{b}
+the curtain falls.{fademusic: 0}{music: 57 100}{nextpage_button}{0x51: 3 53}
+{33793}{2748}{0x10: 33668}{0x37: 17 0}{0x37: 18 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{person: 25 573 573}{name: 1792}{hidetextbox: 0}Why did Magnifi Gramarye{b}
+try to cover up the{b}
+"accident"...?{p}{speed: 4}
+It was his own daughter{b}
+who died!{nextpage_button}{person: 25 583 582}{name: 8448}{speed: 4}
+All I can say is,{wait: 6} it was a{b}
+critical time for Troupe{b}
+Gramarye.{p}{speed: 4}
+A passing of the torch from{b}
+Magnifi to Zak & Valant.{p}{person: 25 574 573}{speed: 3}
+We all sacrificed so that it{b}
+might be a success.{p}
+Thalassa's death...{wait_noanim: 30}{person: 25 583 582} was the{b}{speed: 5}
+greatest sacrifice of all.{wait: 20}{b}
+Yet{0x5a}...{0x59}{nextpage_button}{person: 25 583 582}{speed: 4}
+...{wait: 8}even when her life was{b}
+extinguished,{wait: 10} her presence{b}
+was not.{nextpage_button}{name: 1792}
+What do you mean?{p}{person: 25 581 580}{name: 8448}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+In time, we,{wait: 12} {speed: 3}myself and Zak,{wait: 8}{b}
+found we could no longer{b}
+oppose Magnifi's wishes.{p}
+Magnifi forced us to perform{b}
+his art,{wait: 8} for his benefit.{nextpage_button}{name: 1792}{speed: 4}
+I see{speed: 8}...{wait: 16} {speed: 3}I guess I can{b}
+understand.{p}{person: 25 582 582}{speed: 3}
+I mean,{wait: 6} he did lose his{b}
+only daughter.{nextpage_button}{person: 25 576 575}{name: 8448}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+But {shake: 30 0}{bgcolor: 2305 8 31}do you not find cowardice{b}
+in his actions?{nextpage_button}{person: 25 575 575}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Huh...?{nextpage_button}{person: 25 576 575}{name: 8448}{speed: 3}
+To decide to hide the truth{b}
+of your own daughter's death{b}
+is one thing...{p}{speed: 5}
+...{speed: 2}but then to hang that death{b}{person: 25 581 580}{bgcolor: 2305 8 31}{shake: 30 0}{bgcolor: 2305 8 31}
+as a guillotine above our{b}
+heads!?{nextpage_button}{person: 25 580 580}{name: 1792}{speed: 5}{color: 2}
+(Things were dark behind the{b}
+scenes in Troupe Gramarye,{wait: 8}{b}
+that's for sure.){p}{color: 0}{speed: 3}
+Does Trucy know{speed: 8}...?{nextpage_button}{person: 25 583 582}{name: 8448}{shake: 30 0}{speed: 3}
+She was not told.{wait: 16}{b}
+...Naturally.{nextpage_button}{person: 25 581 580}
+Who would want to know that{b}
+their father might have taken{b}
+their mother's life?{nextpage_button}{person: 25 580 580}{name: 1792}{speed: 4}
+True...{speed: 255}{nextpage_button}{0x51: 3 53}
+{33537}{2456}{jmp: 131}{endjmp}{endjmp}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{person: 25 573 573}{name: 0}{hidetextbox: 0}{center_text: 1}{speed: 2}{b}{color: 1}
+-- The Trick Up His Sleeve --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{fademusic: 0}{music: 31 0}{0x6c: 0}{person: 25 573 573}{name: 1792}{color: 2}
+(I'm flying by the seat of my{b}
+pants on this one.){p}{speed: 3}
+(There must be a path leading{b}
+from the evidence to the{b}
+truth{speed: 6}...){p}
+(...And that's what I'm{b}
+going to find!){p}{color: 0}{speed: 4}
+To ask someone to take a{b}
+life,{wait: 10} even one not long for{b}
+this world...{p}
+...that's asking someone{b}
+to commit murder.{nextpage_button}{person: 25 574 573}{name: 8448}{speed: 4}
+Yes.{wait: 16} Our mentor was fond of{b}
+dramatic moves... and dramatic{b}
+finales.{nextpage_button}{person: 25 573 573}{name: 1792}{speed: 3}
+...And he got his wish.{wait: 16}{b}
+His life was taken.{p}{person: 25 582 582}{name: 1792}
+What "weakness" could be so{b}
+powerful as to coerce someone{b}
+into committing murder?{p}{speed: 3}
+My guess is it was a matter{b}
+of life... or death.{nextpage_button}{person: 25 583 582}{name: 8448}{speed: 4}
+...Care to explain?{nextpage_button}{name: 1792}{speed: 3}
+Your troupe lived in a world{b}
+of showmanship -- the{b}
+flashier,{wait: 8} the better...{nextpage_button}
+...and flashy so often means{b}{wait: 8}{color: 1}
+danger{color: 0}{wait: 6},{wait: 6} doesn't it?{nextpage_button}{endjmp}
+
+{{9}}
+{bop}{0x6e: 20}{person: 25 574 573}{name: 8448}{speed: 4}...Let us make this as{b}
+painless as possible.{p}{color: 3}
+If you have proof of this{b}
+"danger"{speed: 8}{0x5a}...{0x59}{speed: 4} then show it.{color: 0}{0x82}{b}
+Ê{0x8b}{0x8a}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{person: 25 574 573}{name: 8448}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}...Ah.{wait: 20} And this is your{b}{speed: 3}
+idea of "danger".{nextpage_button}{name: 1792}
+You don't agree,{wait: 8} Mr. Valant?{p}{person: 25 583 582}{name: 8448}{speed: 3}
+If you want my opinion,{wait: 30}{b}
+I would say there is something{b}
+far,{wait: 8} far more dangerous.{nextpage_button}{person: 25 576 575}
+...And that is you!{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{person: 25 575 575}{name: 1792}{speed: 4}{color: 2}
+(It's a little early for me{b}
+to be making mistakes.){nextpage_button}
+(Think deadly...{wait: 8} and what's{b}
+more deadly than a fatal{b}
+accident?){p}
+(That could be the source{b}{person: 25 573 573}
+of all the Gramaryes'{b}
+problems...){color: 0}{nextpage_button}{0x6c: 0}{jmp: 137}{endjmp}
+
+{{11}}
+{bop}{fademusic: 30}{0x66: 109 0 30}{0x19: 582 582}{name: 8448}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}...!{wait: 30}{b}{person: 25 576 575}{showphoto: 217}{speed: 4}
+Why,{wait: 16} that's one of ours!{nextpage_button}{person: 25 582 582}{name: 1792}{speed: 3}
+Specially designed for your{b}
+show,{wait: 8} I gather.{nextpage_button}
+A single bullet...{b}
+One shot{speed: 7}...{p}{bganim: 98 579}{person: 25 576 575}{name: 8448}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+...What are you suggesting!?{p}{speed: 3}
+We are magicians,{wait: 10} Mr. Wright.{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Not murderers!{nextpage_button}{name: 1792}{speed: 3}
+I'm not crying{wait: 8} "murder",{b}{speed: 5}
+Mr. Valant.{nextpage_button}{person: 25 582 582}{speed: 3}
+I'm crying something far{b}
+more tragic...{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 4}An accident.{nextpage_button}{0x84}{b}{person: 25 583 582}{name: 8448}{hidetextbox: 0}{speed: 5}
+"Zak & Valant's Quick-Draw{b}
+Shootem"...{p}{speed: 3}
+...{wait: 12}How long has it been since{b}
+those shots were last heard?{nextpage_button}{name: 1792}{speed: 4}
+Was the Shootem cancelled{b}
+because someone might get{b}
+hurt?{nextpage_button}{person: 25 574 573}{name: 8448}
+...Of course. What other{b}
+reason could there be?{nextpage_button}{person: 25 573 573}{name: 1792}{speed: 4}
+Well,{wait: 12} it could have been{b}
+cancelled because {sound: 52 1}{bgcolor: 2305 8 31}someone{b}{0x23: 0}{music: 255 90}
+had already been hurt.{p}{person: 25 577 577}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{name: 8448}{speed: 2}
+...{bgcolor: 2305 8 31}!{wait: 30}{b}{person: 25 583 582}{speed: 3}
+Fascinating,{wait: 12} my Faustian{b}
+forging friend.{nextpage_button}{person: 25 574 573}{name: 8448}
+But tell me,{wait: 8} what can you{b}
+prove with a single pistol?{nextpage_button}{person: 25 573 573}{name: 1792}
+Well,{wait: 8} tell me what would have{b}
+happened if there had been{b}
+an accident.{p}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+What if one of your bullets{b}
+took a life on stage?{nextpage_button}{person: 25 583 582}{name: 8448}
+The performance of magic is{b}
+not concerned with "what ifs".{p}{speed: 3}
+It is concerned with{b}
+precision.{p}{person: 25 576 575}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Precisely whom do{bgcolor: 2305 8 31} you claim{b}
+we{bgcolor: 2305 8 31} shot!?{nextpage_button}{person: 25 575 575}{name: 1792}{speed: 4}{color: 2}
+(Looks like I've chosen{b}
+the right path.){p}{speed: 3}
+(Let's just hope he{b}
+walks it with me.){p}{color: 0}{0x6c: 0}{endjmp}
+
+{{12}}
+{bop}{0x6e: 20}{color: 3}A life was sacrificed so that{b}
+the show might go on{speed: 8}...{wait: 20} {speed: 3}and{b}
+this shows who it was!{color: 0}{0x82}{b}
+{221}{0x8e: 141 12}{b}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{person: 25 574 573}{name: 8448}{hidetextbox: 0}A word,{wait: 10} if I may.{nextpage_button}{name: 1792}
+Yes?{nextpage_button}{person: 25 583 582}{name: 8448}
+Does it excite you to know{b}
+you stand at a critical{b}
+moment in your quest{speed: 8}...?{nextpage_button}{name: 1792}{speed: 3}
+Yeah...{wait: 16} it does.{wait: 16} Sort of.{nextpage_button}{person: 25 574 573}{name: 8448}
+Then you'd never make it{b}
+on stage.{nextpage_button}{person: 25 576 575}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+You're not fit to be a{b}
+magician!{wait: 16} Give it up.{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{person: 25 575 575}{name: 1792}{speed: 4}{color: 2}
+(I hadn't actually been{b}
+considering that as a{b}
+career option.){color: 0}{nextpage_button}{person: 25 576 575}{name: 8448}{speed: 4}
+I'm sure you'll find something{b}
+else to while away the time.{nextpage_button}{person: 25 575 575}{name: 1792}{speed: 4}{color: 2}
+(Like figuring out who that{b}
+bullet hit...){color: 0}{nextpage_button}{0x6c: 0}{jmp: 140}{endjmp}
+
+{{14}}
+{bop}{fademusic: 30}{0x66: 109 0 30}{0x19: 581 580}{name: 8448}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}But... But that's...!{nextpage_button}{person: 25 580 580}{name: 1792}{speed: 3}
+Zak Gramarye's wife{speed: 8}... and{b}
+Trucy's mother.{p}
+...Thalassa,{wait: 12} I believe was{b}
+her name.{nextpage_button}{name: 8448}{speed: 7}
+Ah!{wait: 30}{nextpage_nobutton}{bganim: 98 579}{person: 25 578 577}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}
+Allak{bgcolor: 2305 8 31}azaaa{bgcolor: 2305 8 31}augh!{0x5a}{wait: 30}{nextpage_button}{0x84}{b}{0x23: 0}{music: 255 90}{person: 25 576 575}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 2}
+Bu-{wait: 8}But how can you say {shake: 30 0}this?{nextpage_button}{person: 25 574 573}{speed: 3}
+How can you say she was{b}
+struck by one of our bullets?{nextpage_button}{name: 1792}{speed: 3}{color: 2}
+(Still in denial mode,{wait: 8} eh?){nextpage_button}{color: 0}{0x6c: 0}{endjmp}
+
+{{15}}
+{bop}{0x6e: 20}{person: 25 573 573}{name: 1792}{speed: 4}Thalassa was at the greatest{b}
+risk of being shot.{p}{color: 3}{speed: 3}
+And this clearly shows just{b}
+how much danger she was in!{color: 0}{0x82}{b}
+Ó10{0x83}{b}
+{224}1{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{person: 25 583 582}{name: 8448}{hidetextbox: 0}{speed: 4}...Mr. Wright,{wait: 16} I envy you.{p}{person: 25 574 573}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+It appears your chosen{b}
+profession is far more{b}
+lenient than mine.{nextpage_button}{name: 1792}{speed: 4}
+What do you mean?{p}{person: 25 583 582}{name: 8448}{person: 25 574 573}{speed: 3}
+For us magicians,{wait: 13} a single{b}
+misstep can be... fatal.{nextpage_button}{name: 1792}
+...{wait: 10}A single mistake can be{b}
+fatal for an attorney,{wait: 8} too.{nextpage_button}{person: 25 576 575}{name: 8448}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah,{wait: 12} so it can!{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{name: 1792}{person: 25 573 573}{speed: 4}{color: 2}
+(Thalassa's the key,{wait: 8} I can see{b}
+how her name affects him.){nextpage_button}
+(But just a name isn't enough.{wait: 16}{b}
+I need to recreate that{b}
+day in his mind.){nextpage_button}{speed: 3}
+(Starting with{wait: 8} {color: 1}where she{b}
+stood{color: 2}!){color: 0}{p}{0x6c: 0}{jmp: 143}{endjmp}
+
+{{17}}
+{bop}{fademusic: 30}{0x66: 109 0 30}{0x19: 573 573}{name: 1792}{hidetextbox: 0}{speed: 4}Troupe Gramarye's performances{b}
+were very,{wait: 8} very popular.{p}
+So popular,{wait: 12} they even made{b}
+a commemorative stamp at{b}
+the height of your fame.{nextpage_button}{name: 8448}{person: 25 583 582}{speed: 4}
+We were not merely the {wait: 6}{b}
+"latest craze"{wait: 6}...{wait: 16} {speed: 3}We were{b}
+an age.{wait: 16} A golden age.{nextpage_button}{person: 25 582 582}{name: 1792}{speed: 4}
+...It's all here on this{b}
+stamp.{nextpage_button}{hidetextbox: 1}{bg: 151}{person: 0 0 0}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 60}{hidetextbox: 0}{speed: 3}
+...There's Thalassa,{wait: 10} yes?{nextpage_button}{0x86}{person: 25 580 580}{name: 8448}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+Urk...!{nextpage_button}{person: 25 580 580}{name: 1792}{speed: 3}
+Trucy's mother is{wait: 6} "missing",{wait: 6}{b}
+I hear.{p}
+...What happened to her?{nextpage_button}{person: 25 581 580}{name: 8448}{shake: 30 0}{speed: 8}
+I...{wait_noanim: 30}{person: 25 578 577}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 5} I don't know!{0x5a}{nextpage_button}{0x84}{b}{person: 25 580 580}{name: 1792}{hidetextbox: 0}{speed: 3}{color: 2}
+(A part of his memory is{b}
+still locked up...){color: 0}{nextpage_button}{0x23: 0}{music: 255 90}{person: 25 574 573}{name: 8448}{person: 25 583 582}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 12}{speed: 3}There is one thing you're{b}
+failing to address.{nextpage_button}{person: 25 573 573}{name: 1792}{speed: 4}
+What's that?{nextpage_button}{person: 25 583 582}{name: 8448}
+As you say,{wait: 6} our troupe was{b}
+a world unto itself.{p}
+If our leader,{wait: 12} Magnifi was{b}
+so inclined,{wait: 6} he could hide{b}
+anything he wished with ease.{p}{speed: 5}
+...But,{wait: 8} Mr. Wright.{nextpage_button}{person: 25 576 575}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Then he would{bgcolor: 2305 8 31} have hid a{wait: 5}{b}
+crime...{wait: 12} making him an{b}
+accomplice!{nextpage_button}{person: 25 576 575}
+...{wait: 20}Not a great foundation{b}
+for blackmail.{nextpage_button}{person: 25 575 575}{name: 1792}{speed: 7}
+......{nextpage_button}{speed: 3}{color: 2}
+(Valant's got a point.){p}{person: 25 582 582}
+(If one of the troupe members{b}
+died in an accident,{wait: 8} and{b}
+Magnifi covered it up...){p}
+(...his innocence would{b}
+come into question.){nextpage_button}{color: 0}{person: 25 574 573}{name: 8448}{speed: 4}
+...Found the right address,{wait: 8}{b}
+Mr. Wright?{nextpage_button}{name: 1792}{color: 2}
+(I'm so close!{wait: 16} {speed: 4}There has{b}
+to be something.){nextpage_button}{speed: 3}
+(About how Thalassa's death{b}
+could affect Zak and Valant's{b}
+relationship with Magnifi.){color: 0}{nextpage_button}{0x6c: 0}{endjmp}
+
+{{18}}
+{bop}{person: 25 576 575}{name: 8448}{speed: 2}I see in your eyes{speed: 8}...{wait: 10} {speed: 4}you{b}
+still have something to say.{nextpage_button}{person: 25 574 573}{speed: 3}
+How can you possibly prove{b}
+more than you already have!?{nextpage_button}{person: 25 573 573}{name: 1792}
+I'll prove why Thalassa's{b}
+accident tied your hands{b}
+so completely...{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 110}{0x6f: 65535}{b}{2args_choice_jmp: 147 149}{endjmp}
+
+{{19}}
+{bop}{0x6e: 20}{person: 25 573 573}{name: 1792}{speed: 3}{color: 2}(...No better proof than{b}
+the evidence!){color: 0}{p}{0x82}{b}
+ô44{speed: 4}The accidental death of{b}
+Zak's wife tied both your{b}
+hands...{p}{speed: 3}{color: 3}
+And this evidence proves{b}
+why Magnifi held so much{wait: 4}{b}{color: 1}
+power{color: 3}{wait: 4} over you!{color: 0}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{name: 8448}{person: 25 579 579}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}Ha{wait: 8} ha{wait: 8} ha{wait: 8} ha{wait: 8} ha{wait: 8} ha{wait: 8} ha!{wait: 20}{person: 25 573 573}{nextpage_button}{person: 25 583 582}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Were you,{wait: 12} by any chance,{wait: 8}{b}
+trying to threaten me?{nextpage_button}{shake: 30 0}{bgcolor: 2305 8 31}{name: 1792}
+N-{wait: 8}No,{wait: 6} of course not.{p}{name: 8448}{speed: 5}
+...You'll{wait_noanim: 30}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{0x59} never make {bgcolor: 2305 8 31}a good{b}{speed: 2}
+blackmail{bgcolor: 2305 8 31} artist.{wait: 16} Never!{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(Not a career choice I'd{b}
+been considering,{wait: 8} actually.){color: 0}{nextpage_button}{person: 25 574 573}{name: 8448}
+Give up your dreams.{wait: 16} Work{b}
+an honest job.{wait: 16} That's my{b}
+advice.{nextpage_button}{person: 25 573 573}{name: 1792}{speed: 4}{color: 2}
+(...I'd better stop dreaming{b}
+and get to work here,{wait: 8} fast.){nextpage_button}{speed: 3}
+(Magnifi used Thalassa's {b}
+death as a means to control{b}
+his disciples.){p}
+(How was that possible if{b}
+he could be implicated in{b}
+the cover up?){nextpage_button}{person: 25 582 582}{speed: 4}
+(...Do I really have the{b}
+evidence to prove this?){speed: 255}{color: 0}{p}{0x6c: 0}{jmp: 146}{endjmp}
+
+{{21}}
+{bop}{0x6e: 20}{person: 25 573 573}{name: 1792}{hidetextbox: 0}{speed: 3}{color: 2}(...It's going to take a {b}
+little knowledge of the{b}
+players to crack this one.){color: 0}{p}{0x82}{b}
+m76{speed: 4}The accidental death of{b}
+Zak's wife tied both your{b}
+hands...{p}{speed: 3}{color: 3}
+And this information proves{b}
+why Magnifi held so much{wait: 4}{b}{color: 1}
+power{color: 3}{wait: 4} over you!{color: 0}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{b}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{name: 8448}{person: 25 579 579}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}Ha{wait: 8} ha{wait: 8} ha{wait: 8} ha{wait: 8} ha{wait: 8} ha{wait: 8} ha!{wait: 20}{person: 25 573 573}{nextpage_button}{person: 25 583 582}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Were you,{wait: 12} by any chance,{wait: 8}{b}
+trying to threaten me?{nextpage_button}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}
+N-{wait: 8}No,{wait: 6} of course not.{p}{name: 8448}{speed: 5}
+...You'll{wait_noanim: 30}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{0x59}{speed: 2} never make{bgcolor: 2305 8 31} a good{b}
+blackmail{bgcolor: 2305 8 31} artist. Never!{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{wait: 60}{0x6d: 0}{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(Not a career choice I'd{b}
+been considering,{wait: 8} actually.){color: 0}{nextpage_button}{person: 25 574 573}{name: 8448}
+Give up your dreams.{wait: 16} Work{b}
+an honest job.{wait: 16} That's my{b}
+advice.{nextpage_button}{name: 1792}{speed: 3}{color: 2}
+(The troupe was a tight-knit{b}
+unit... it's all about the{b}
+people involved.){nextpage_button}{speed: 4}
+(Their personalities,{wait: 8} their{b}
+histories.){nextpage_button}{person: 25 582 582}{speed: 3}
+({color: 1}Who{color: 2} was Thalassa,{wait: 8} really?){color: 0}{nextpage_button}{0x6c: 0}{jmp: 146}{endjmp}
+
+{{23}}
+{bop}{fademusic: 30}{0x66: 109 0 30}{0x19: 575 575}{name: 1792}{hidetextbox: 0}It wasn't a question of{b}
+who shot Thalassa{speed: 8}...{wait: 30}{speed: 3} Thalassa{b}
+herself was the problem!{nextpage_button}{person: 25 574 573}{name: 8448}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+What...{wait: 16} do you mean?{nextpage_button}{name: 1792}
+She was Zak Gramarye's wife,{wait: 8}{b}
+Trucy's mother...{nextpage_button}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...and Magnifi Gramarye's{b}{color: 1}
+only daughter{color: 0}!{nextpage_button}{person: 25 580 580}{name: 8448}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+Urk...!{nextpage_button}{person: 25 580 580}{name: 1792}{speed: 4}
+There was a terrible{b}
+accident...{p}{speed: 3}
+...and the two of you killed{b}
+your mentor's only daughter!{p}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+If that wasn't {bgcolor: 2305 8 31}the{wait: 4} {color: 1}key{color: 0}{wait: 4} to{b}
+Magnifi's power{bgcolor: 2305 8 31} over you,{wait: 8}{b}
+I don't know{bgcolor: 2305 8 31} what was!{nextpage_button}{person: 25 581 580}{name: 8448}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 6}
+It...{wait: 15}{b}{speed: 4}
+It was{speed: 8}...{nextpage_button}{animation: 227 1}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+It was an accident!!!{wait: 120}{0x84}{b}{0x8d}{0x85}{0x51: 3 53}
+{34049}{1144}{0x10: 33669}{0x37: 16 0}{0x37: 17 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{24}}
+{bop}{0x66: 109 0 14}{1792}{speed: 4}{color: 2}(I may not have enough{b}
+evidence right now to{b}
+pull this off.){nextpage_button}{speed: 3}
+(Maybe it's time to do a{b}
+little more legwork.){color: 0}{speed: 255}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{25}}
+{bop}{name: 0}{color: 1}{speed: 4}...Any more of this,{wait: 8} and{b}
+something's going to give.{nextpage_button}{speed: 3}
+...{wait: 16}Time to cool off a bit{wait: 16}{b}
+and rethink what I'm doing.{nextpage_button}{color: 0}{0x66: 109 0 28}{color: 21}{endjmp}
+
+{{26}}
+{bop}{name: 1792}That guard keeps stealing{b}
+glances in this direction.{nextpage_button}
+...And scratching his head.{nextpage_button}
+Maybe our resident magician{b}
+showed him a trick or two.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{27}}
+{bop}{name: 1792}Smile,{wait: 8} you're on candid{b}
+camera.{p}
+I just had to say it.{wait: 16} Old{b}
+habits die hard.{p}
+Maybe I should do a few tricks{b}
+for the viewers at home.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{28}}
+{bop}{name: 1792}{person: 25 573 573}Mr. Valant,{wait: 8} could you{b}
+look at this for me,{wait: 8} please?{nextpage_button}{name: 8448}{person: 25 583 582}
+Hmm.{wait: 20} Yes,{wait: 8} I accept your{wait: 8}{b}
+challenge.{nextpage_button}{person: 25 576 575}
+...{wait: 16}Well?{nextpage_button}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}
+Challenge?{wait: 25}{speed: 5} Huh?{nextpage_button}{name: 8448}{person: 25 574 573}
+You want me to make it float?{wait: 12}{b}
+Disappear?{wait: 12} Or shall I simply{b}
+eat it?{nextpage_button}{name: 1792}{speed: 6}
+......{nextpage_button}{speed: 3}
+I didn't come here to{b}
+play games,{wait: 8} Mr. Valant.{b}
+Or watch you do tricks.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}

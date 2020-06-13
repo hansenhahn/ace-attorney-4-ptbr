@@ -1,0 +1,593 @@
+
+
+{{0}}
+{bop}{0x26: 0}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 15{b}
+People Park{fademusic: 0}{music: 56 0}{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{personvanish: 3 1}{person: 6 138 137}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 512}{hidetextbox: 0}
+...{wait: 20}On that note,{wait: 8} enjoy your{b}
+investigation!{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Thank you!{wait: 20}{b}{speed: 3}
+Will we see you again...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 138 137}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 512}
+Ask the wind,{wait: 8} Fr{1988}ulein.{wait: 20} I'll{b}
+be riding on it!{nextpage_button}{hidetextbox: 1}{wait: 60}{personvanish: 4 4}{wait: 64}{person: 0 0 0}{wait: 80}{name: 1024}{hidetextbox: 0}{speed: 8}
+...{wait: 20}{speed: 4}Who was that?{p}{person: 5 82 81}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Eeeeeeeeeek!{p}
+Apollo!{wait: 14} Look!{wait: 12} A c-{wait: 8}co{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}rpse!{nextpage_button}{person: 5 81 81}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+Whaaaat!?{wait: 25}{b}{speed: 10}
+...{wait: 20}{speed: 3}Hey,{wait: 8} it's just a mannequin.{p}{person: 5 68 67}{name: 1280}
+Wow.{wait: 16}{b}
+It sure got me.{nextpage_button}{person: 5 81 81}{name: 768}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}
+Ahem.{wait: 16} Might I ask exactly what{b}
+it is you're doing here?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{wait: 30}{personvanish: 3 2}{person: 9 247 247}{wait: 32}{wait: 30}{name: 768}{person: 9 248 247}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Oh,{wait: 8} it's you.{wait: 20} How did you kids{b}{fademusic: 0}{music: 41 0}
+get in here?{b}{nextpage_button}{person: 5 72 69}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Oh!{wait: 16} This guy,{wait: 12} well,{wait: 8} he was{b}{person: 5 68 67}
+more like a prince really.{b}{speed: 3}
+He let us in...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 237 236}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 768}{speed: 4}
+Him again.{p}{speed: 3}
+That glimmerous fop,{wait: 8} always{b}
+getting in my way...{nextpage_button}{person: 9 235 234}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Anyway!{wait: 16}{b}{speed: 3}
+This scene is off limits.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Excuse me?{wait: 16} {speed: 3}We have a letter{b}{showphoto: 62}
+of request!{nextpage_button}{person: 9 248 247}{name: 768}{bganim: 98 579}{showphoto: 318}{speed: 4}
+...{wait: 20}Hmm.{wait: 20} {speed: 3}One moment.{nextpage_button}{0x18: 62}{person: 9 247 247}{name: 1024}{color: 2}
+(Why is she holding that big{b}
+magnifying glass...?){color: 0}{p}{hidetextbox: 1}{fademusic: 120}{wait: 20}{bgcolor: 516 1 31}{wait: 25}{wait: 160}{person: 9 247 247}{name: 768}{bgcolor: 260 1 31}{wait: 25}{wait: 40}{hidetextbox: 0}{speed: 7}
+.........{speed: 8}.........{speed: 9}......{speed: 10}......{wait: 40}{b}{person: 9 239 238}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+I'd recognize that handwriting{b}
+anywhere.{p}{person: 9 237 236}{speed: 3}
+Scientific analysis says this{b}
+was written by Alita Tiala.{nextpage_button}{name: 1024}{speed: 5}
+...Thanks.{wait: 30}{b}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}{color: 2}
+(It took you thirty minutes{b}{0x23: 0}{music: 255 120}
+to figure that out!?){color: 0}{nextpage_button}{removephoto}{speed: 6}
+So{speed: 8}...{wait: 20} {speed: 3}what's up with the{b}
+mannequin there?{nextpage_button}{person: 9 239 238}{name: 768}
+It's taking the place of the{b}
+body,{wait: 8} preserving the scene{b}
+of the crime as it was found.{nextpage_button}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{person: 0 0 0}{wait: 40}{name: 1024}{hidetextbox: 0}{speed: 5}{color: 2}
+(The body...{wait: 20} was {sound: 52 1}{bgcolor: 2305 8 31}{color: 1}pulling the{wait: 30}{b}
+stand{color: 2}!?){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 9 239 238}{wait: 16}{name: 768}{hidetextbox: 0}{speed: 3}
+So,{wait: 8} you're a defense attorney,{wait: 10}{b}
+are you?{p}{person: 9 237 236}{name: 2304}
+Detective Ema Skye.{wait: 20} I'm in{b}
+charge of this crime scene.{nextpage_button}{0x19: 32812 45}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+She doesn't seem that happy{b}
+about it.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 236 236}{name: 1024}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+...{wait: 20}{speed: 3}She doesn't seem that{b}
+happy about many things.{nextpage_button}{person: 9 237 236}{name: 2304}
+I trust you know how to stay{b}
+out of the way.{p}{person: 9 233 232}
+I always carry two pairs of{b}
+handcuffs...{wait: 20} just in case.{nextpage_button}{hidetextbox: 1}{person: 9 232 232}{0x10: 32848}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{fademusic: 60}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}So{speed: 8}...{wait: 12} {speed: 3}have you met the{b}
+defendant?{nextpage_button}{person: 9 249 249}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}
+Ah.{wait: 12} Uh...{wait: 20} {speed: 4}No.{p}{person: 9 233 232}{name: 2304}
+Visiting hours are almost{b}
+over at the detention center.{p}{person: 9 241 240}
+You might think about wrapping{b}
+up here and heading over.{nextpage_button}{person: 9 232 232}{name: 1024}
+Good idea.{p}{speed: 4}{color: 2}
+(I don't know what good it{b}
+will do.{wait: 16} We have a witness,{wait: 8}{b}
+and a knife with prints...){p}{speed: 5}
+(Have I mentioned I've got a{b}
+bad feeling about this?){color: 0}{p}{person: 9 233 232}{name: 2304}{speed: 3}
+Don't worry,{wait: 8} it's like a{b}
+Wright tradition.{p}{person: 9 232 232}{name: 1024}{speed: 4}{color: 2}
+(Some traditions I can live{b}
+without.){speed: 255}{color: 0}{nextpage_button}{fademusic: 0}{music: 56 0}{0x10: 32864}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{person: 9 235 234}{name: 2304}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}Hey there!{wait: 14} No messing with{b}
+the crime scene!{nextpage_button}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+B-{wait: 8}But we need to investigate!{nextpage_button}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{fademusic: 30}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Apol{bgcolor: 2305 8 31}lo!{wait_noanim: 30} {person: 5 86 85}Look!{wait: 20} That stand!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{wait: 80}{hidetextbox: 0}{person: 0 0 0}{speed: 4}
+...{wait: 6}{b}{sound: 52 1}{bgcolor: 2305 8 31}
+It says "Eldoon"!{p}{name: 1024}
+...{wait: 16}I've noticed.{nextpage_button}
+Well,{wait: 8} we've solved the case{b}
+of the missing stand at least.{p}
+...{wait: 20}Though the circumstances{b}{0x23: 0}{music: 255 90}
+could stand to be better.{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 9 234 234}{wait: 16}{0x10: 32872}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{person: 9 235 234}{name: 2304}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}Hey there!{wait: 8} No messing with{b}
+the crime scene!{nextpage_button}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+B-{wait: 8}But we need to investigate!{nextpage_button}{person: 9 241 240}{name: 2304}{speed: 3}
+Investigations are to be{b}
+carried out by{wait: 16} professionals,{wait: 6}{b}
+scientifically!{nextpage_button}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}{color: 2}
+(She's not going to let us{b}
+check out the crime scene,{b}
+is she...){color: 0}{nextpage_button}{person: 5 86 85}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}
+Hey,{wait: 16} Apollo.{p}{person: 5 68 67}
+My very un-scientific analysis{wait_noanim: 18}{b}{person: 5 76 75}{speed: 3}
+tells me something here is{b}
+very suspicious...{nextpage_button}{name: 1024}{speed: 4}
+...{wait: 12}{wait: 3}I think I know what you{b}
+mean.{wait: 20} It's kind of hard not{b}
+to notice.{nextpage_button}{speed: 3}{color: 2}
+(I'd better check out {color: 1}what we{b}
+came here to find{color: 2} at least.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 234 234}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{0x51: 0 53}{23296}{removephoto}{jmp: 133}{endjmp}{endjmp}{person: 0 0 0}{name: 1024}{color: 2}(There's got to be a good{b}
+clue or two around here...){color: 0}{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 73 73}{wait: 16}{name: 1280}{person: 5 74 73}{hidetextbox: 0}
+You and your trash cans!{b}
+Go ahead,{wait: 8} knock yourself out.{nextpage_button}{person: 5 73 73}{name: 1024}
+Please,{wait: 8} can't you see I'm{b}
+doing my...{wait: 30}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0} Huh?{p}{person: 5 81 81}{name: 1024}{speed: 8}
+L...{wait: 20} {speed: 5}Look!{wait: 20}{b}
+Another pair of {wait: 10}{showphoto: 67}{fademusic: 30}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}underwear!?{nextpage_button}{name: 1280}{person: 5 74 73}{speed: 3}
+Wow,{wait: 8} Apollo!{0x5a}{wait: 25}{0x59} You're a genius{b}
+at finding panties!{nextpage_button}{person: 5 73 73}{name: 1024}
+Stop saying that.{wait: 20} Wait,{wait: 8} these{b}
+aren't...?{p}{person: 5 82 81}{name: 1280}{speed: 2}
+Th-{wait: 16}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}They're not mine!{nextpage_button}{person: 5 75 75}{name: 1024}{speed: 3}{color: 2}
+(Could these have been stolen,{b}
+too?){color: 0}{p}{bganim: 98 579}{newevidence: 16451}{name: 0}{color: 2}{speed: 4}
+Bloomers added to the Court{b}
+Record.{0x23: 0}{music: 255 90}{nextpage_button}{speed: 255}{color: 0}{bg: 229}{0x32: 4 229}{0x10: 32859}{0x35: 23040 @RelativeAddress0}{0x35: 23552 @RelativeAddress1}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress0}{@RelativeAddress1}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{0x38: 1}{name: 1280}{person: 5 74 73}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}I'll always remember this{b}
+trash can as "the place where{b}
+Apollo found those bloomers"!{nextpage_button}{name: 1024}
+Don't you have more important{b}
+things to remember?{nextpage_button}{showphoto: 67}{name: 1024}
+Wait,{wait: 8} these aren't...?{p}{person: 5 82 81}{name: 1280}{speed: 2}
+Th-{wait: 16}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}They're not mine!{nextpage_button}{person: 5 75 75}{name: 1024}{speed: 3}{color: 2}
+(Could these have been{wait: 6} stolen,{wait: 6}{b}
+too?){color: 0}{nextpage_button}{hidetextbox: 1}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{person: 0 0 0}{name: 1024}It's{speed: 8}...{wait: 20} {speed: 3}a knife!{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 9 240 240}{wait: 16}{name: 2304}{person: 9 241 240}{hidetextbox: 0}
+A{wait: 6} "shiv"{wait: 6} to be precise.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Ooh{speed: 6}...{wait: 12} {speed: 3}lingo!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+The defendant,{wait: 8} Wocky Kitaki,{wait: 8}{b}
+is the son of known gangsters.{p}{person: 9 233 232}
+The police are assuming this{b}
+belongs to him.{nextpage_button}{name: 1024}{color: 2}
+(Wait,{wait: 8} but wasn't the murder{b}
+weapon a pistol...?){color: 0}{nextpage_button}{person: 9 232 232}{name: 1024}{showphoto: 70}{bgcolor: 2305 8 31}{speed: 3}
+Huh?{wait: 10} {speed: 4}Look at this,{wait: 20} there's{b}{sound: 52 1}{bgcolor: 2305 8 31}
+a handprint on this shiv...{p}{fademusic: 120}{person: 9 250 249}{name: 2304}
+A handprint?{0x5a}{wait: 30}{speed: 3}{0x59} Then there might{b}{person: 9 241 240}
+be a {color: 1}fingerprint{color: 0}.{p}{person: 9 246 245}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Let's investigate!{nextpage_button}{bganim: 98 579}{newevidence: 69}{0x6b: 4 0 0}{0x74: 8 46}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{hidetextbox: 0}{name: 2304}{0x76: 0 24}{fademusic: 0}{music: 4 0}{speed: 2}Right!{wait: 16} {speed: 3}First,{wait: 8} choose the{b}
+fingerprint you want to{b}
+examine.{p}{name: 1024}{speed: 6}
+...{wait: 10}{speed: 3}Choose a fingerprint?{p}{name: 2304}{0x76: 0 23}
+Look closely at the handle.{p}{0x76: 2 0}{hidetextbox: 1}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{name: 2304}{hidetextbox: 0}See? There's more than one{b}
+fingerprint there.{p}{name: 1280}{0x76: 1 2}
+Those black spots?{p}{0x76: 2 0}{name: 2304}{0x76: 0 16}
+That's right.{wait: 20} Pick the one{b}
+you want to analyze.{p}{0x76: 2 0}{hidetextbox: 1}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{hidetextbox: 0}{person: 9 232 232}{name: 1024}{fademusic: 45}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}So...{wait: 16} the fingerprints do{b}{speed: 3}
+belong to the defendant.{p}{person: 9 246 245}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Yes!{wait: 12} Isn't it amazing?{wait: 16} Ah,{wait: 8} the{b}{person: 9 241 240}{speed: 3}
+power of science.{b}
+It's my life.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+Apollo,{wait: 12} she's...{wait: 20} sparkling.{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 4}
+And I'm dimming.{p}{person: 9 233 232}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Look sharp,{wait: 8} spirits up.{wait: 20} The{b}
+real fight is yet to come!{nextpage_button}{person: 5 96 95}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Chin up,{wait: 12} Polly!{nextpage_button}{person: 5 95 95}{name: 1024}{speed: 4}{color: 2}
+(The trial hasn't even started{b}
+and I'm already losing...){speed: 255}{color: 0}{p}{0x19: 16453 16454}{name: 0}{color: 2}{speed: 4}
+Knife added to the Court{b}
+Record.{nextpage_button}{hidetextbox: 1}{fademusic: 0}{music: 41 100}{speed: 255}{color: 0}{0x10: 32860}{0x51: 0 53}
+{23040}{990}{0x35: 23296 @RelativeAddress2}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress2}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{name: 1024}{person: 0 0 0}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}A knife is sticking straight{b}
+into the ground.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{wait: 16}{name: 1280}{person: 5 76 75}{hidetextbox: 0}{showphoto: 70}
+With the defendant's{b}
+fingerprints on it...{wait: 20}{b}
+Which means...{p}
+You think he stuck it into{b}
+the victim?{p}{name: 1024}{person: 5 75 75}{bgcolor: 2305 8 31}{shake: 30 0}{color: 2}
+(I don't know what he did with{b}
+it but I don't like it.){speed: 255}{color: 0}{nextpage_button}{hidetextbox: 1}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{name: 1024}{person: 0 0 0}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}...{wait: 20}And this is{showphoto: 46} Mr. Eldoon's{b}
+noodle stand,{wait: 8} obviously.{p}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+It does say{wait: 6} "Eldoon" in big{b}
+letters,{wait: 12} doesn't it!{p}{name: 1024}{person: 5 67 67}{speed: 3}
+And that mark on his paper{b}
+lantern there looks familiar.{p}{removephoto}{name: 1280}{person: 5 84 83}
+It's going to be a little{b}
+weird telling him...{wait: 20} what with{b}
+the corpse and all...{p}{name: 1024}{person: 5 83 83}
+Anyway,{wait: 8} that wraps up three{b}
+of our cases.{p}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+That's right!{wait: 20} Congratulations,{wait: 12}{b}
+Apollo!{p}{name: 1024}{person: 5 67 67}{speed: 4}{color: 2}
+(And leaves us with one case{b}
+that's worse than all three{b}
+put together... Murder.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{person: 0 0 0}{name: 1024}This mannequin is dressed up{b}
+to look like a police officer.{b}
+I've seen one at the station.{p}{color: 2}
+(A mannequin in place of a{b}
+body...){color: 0}{p}{hidetextbox: 1}{personvanish: 3 1}{person: 9 232 232}{wait: 32}{name: 2304}{person: 9 233 232}{hidetextbox: 0}
+The body of the victim has{b}
+already been removed.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Do you think the victim was{b}
+the noodle stand thief?{nextpage_button}{name: 1024}
+What,{wait: 8} you think someone killed{b}
+him because he stole it?{p}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yeah!{wait_noanim: 61}{0x59}{speed: 3} Taking care of business,{wait_noanim: 20}{b}{person: 5 68 67}
+Little Plum Kitaki style!{p}{name: 1024}{person: 5 67 67}{color: 2}
+(Try not to sound too eager{b}
+about that,{wait: 8} please...){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{person: 0 0 0}{name: 1024}Blue tarps have been placed on{b}
+the ground around the stand.{nextpage_button}{name: 1280}{person: 5 96 95}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Apollo!{wait: 16} I bet the victim was{b}
+going to have a picnic here!{nextpage_button}{name: 1024}{person: 5 95 95}{speed: 3}
+...{wait: 10}I guess he could have eaten{b}
+all the noodles he wanted.{p}{name: 2304}{person: 9 235 234}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Don't touch those!{wait: 16} {speed: 3}Those are{b}
+preserving the crime scene!{p}{name: 1024}{person: 9 234 234}{color: 2}
+(Oh,{wait: 16} I guess the police put{b}
+these tarps here after all.){color: 0}{p}{person: 9 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{person: 0 0 0}{name: 1024}Benches line the river running{b}
+through the park.{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{name: 1280}{person: 5 68 67}{hidetextbox: 0}
+Ahh,{wait: 6} a little urban oasis.{p}{person: 5 74 73}
+I bet children come here to{b}
+splash around in the water.{p}{name: 1024}{person: 5 73 73}
+That river's a little deep{b}
+for splashing...{wait: 20} and a little{b}
+dirty.{p}{name: 1280}{person: 5 76 75}
+Well,{wait: 8} they could listen to the{b}
+water and pretend they were{b}
+playing.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{person: 9 238 238}{name: 1024}{hidetextbox: 0}Um,{wait: 8} Detective Skye...?{p}{person: 9 235 234}{name: 2304}{fademusic: 30}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Quiet,{wait: 7} please.{wait_noanim: 50}{b}{person: 9 252 251}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+It's snack time.{nextpage_button}{soundtoggle: 0}{speed: 3}{color: 3}{shake: 30 0}{sound: 182 1}
+MUNCH{wait: 10}{sound: 183 1} MUNCH{wait: 10}{sound: 182 1}{shake: 30 0} MUNCH{wait: 10}{sound: 183 1} MUNCH{wait: 10}{sound: 182 1}{shake: 30 0}{b}{speed: 3}{shake: 30 0}
+MUNCH{wait: 10}{sound: 183 1} MUNCH{wait: 10}{sound: 182 1}{shake: 30 0} MUNCH{wait: 10}{sound: 183 1} MUNCH.{nextpage_button}{speed: 3}{shake: 30 0}{sound: 182 1}
+MUNCH{wait: 10}{sound: 183 1} MUNCH{wait: 10}{sound: 182 1}{shake: 30 0} MUNCH{wait: 10}{sound: 183 1} MUNCH{wait: 10}{sound: 182 1}{shake: 30 0}{b}{speed: 3}{shake: 30 0}
+MUNCH{wait: 10}{sound: 183 1} MUNCH{wait: 10}{sound: 182 1}{shake: 30 0} MUNCH{wait: 10}{sound: 183 1} MUNCH.{nextpage_button}{speed: 3}{shake: 30 0}{sound: 182 1}
+MUNCH{wait: 10}{sound: 183 1} MUNCH{wait: 10}{sound: 182 1}{shake: 30 0} MUNCH{wait: 10}{sound: 183 1} MUNCH{wait: 10}{sound: 182 1}{shake: 30 0}{b}{speed: 3}{shake: 30 0}
+MUNCH{wait: 10}{sound: 183 1} MUNCH{wait: 10}{sound: 182 1}{shake: 30 0} MUNCH{wait: 10}{sound: 183 1} MUNCH.{color: 0}{nextpage_button}{soundtoggle: 1}{person: 5 76 75}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+We're not making much progress{b}
+here.{nextpage_button}{0x23: 0}{music: 255 60}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{color: 2}
+(She must not be very busy...){color: 0}{p}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{shake: 30 0}{bgcolor: 2305 8 31}{0x5a}{speed: 4}
+*sigh*{wait: 16} {speed: 3}{0x59}I never seem to get a{b}
+lucky break.{p}
+Back after nine years,{wait: 8} and{b}
+they won't give me the{b}
+position I requested...{p}{person: 9 252 251}
+...{wait: 20}And then I hear he gave up{b}
+the defense attorney life...{nextpage_button}{person: 9 251 251}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{color: 2}
+(He?{wait: 16} {speed: 4}Who's he?{wait: 20} An ex-defense{b}
+attorney...?){speed: 255}{color: 0}{nextpage_button}{0x51: 0 53}
+{20737}{1668}{0x10: 32849}{0x37: 11 0}{0x37: 25 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{person: 9 233 232}{name: 2304}{hidetextbox: 0}The report came in late last{b}
+night.{wait: 16} The body was found{b}
+much as you see it now.{p}{person: 9 239 238}
+...{wait: 12}Except it was a real body.{nextpage_button}{person: 9 232 232}{name: 1024}
+But...{wait: 16} why?{p}{person: 9 233 232}{name: 2304}{speed: 4}
+Why was a body pulling a{b}
+noodle stand?{p}{person: 9 237 236}
+If I knew the answer to that,{wait: 12}{b}
+I wouldn't still be here.{nextpage_button}{name: 1024}
+Well,{wait: 8} what was the cause of{b}
+death...?{p}{person: 9 239 238}{name: 2304}
+A bullet wound,{wait: 8} to the temple.{b}
+...{wait: 20}He was shot by a pistol.{nextpage_button}{person: 5 86 85}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+A pistol?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+Not the easiest thing to come{b}
+by in this day and age.{p}{person: 9 232 232}{name: 1024}{speed: 4}{color: 2}
+(Unless you're a cop{speed: 8}...{wait: 12}{speed: 3} or a{b}
+gangster.){speed: 255}{color: 0}{p}{0x51: 0 53}
+{26881}{1412}{0x10: 32873}{name: 2304}{person: 9 239 238}Incidentally,{wait: 8} the victim's{b}
+name was Pal Meraktis.{p}
+I just received the autopsy{b}
+report,{wait: 8} in fact.{nextpage_button}{newevidence: 16449}{name: 0}{color: 2}{speed: 4}
+Meraktis's Autopsy Report{b}
+added to the Court Record.{nextpage_button}{speed: 255}{color: 0}{person: 9 235 234}{name: 2304}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+I mean,{wait: 8} really!{wait: 12} {speed: 3}What's up with{b}
+this case!?{p}{person: 9 237 236}
+It's enough to make me want to{b}
+run off,{wait: 8} pulling a mysterious{b}
+noodle stand behind me...{nextpage_button}{person: 5 76 75}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Not so mysterious,{wait: 8} actually...{nextpage_button}{person: 5 96 95}{name: 1280}{speed: 3}
+We should tell her,{wait: 8} Apollo!{wait: 16}{nextpage_button}{person: 5 74 73}
+After all,{wait: 6} we know where the{b}
+stand came from!{nextpage_button}{person: 9 244 243}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}
+A likely story!{wait: 16} I didn't come{b}
+here to play games,{wait: 8} you know.{nextpage_button}{name: 1024}
+Actually,{wait: 12} we do know where the{b}
+noodle stand came from.{nextpage_button}{endjmp}
+
+{{17}}
+{bop}{person: 9 232 232}{name: 1024}{speed: 4}The noodle stand's owner is...{speed: 4}{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{color: 21}{endjmp}
+
+{{18}}
+{bop}{fademusic: 30}{name: 2304}{person: 9 238 238}{hidetextbox: 0}{speed: 7}...{wait_noanim: 20}{b}{person: 9 237 236}{speed: 3}
+Look,{wait: 16} I have better things{b}
+to be doing.{p}{person: 9 252 251}
+I'd make more progress eating{b}
+snacks than listening to this{b}
+drivel.{person: 9 251 251}{p}{name: 1024}{color: 2}
+(You could try actually{b}
+investigating,{wait: 8} rather than{b}{0x23: 0}{music: 255 90}
+just standing around.){color: 0}{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{name: 2304}{person: 9 249 249}{hidetextbox: 0}{speed: 8}...{wait: 40}{b}{person: 9 237 236}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Who's the old guy?{p}{name: 1024}{person: 9 249 249}
+This is the proprietor of{b}{color: 1}
+Eldoon's Noodles{color: 0},{wait: 8} Mr. Eldoon{b}
+himself!{p}{name: 1280}{person: 5 74 73}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+He's famous in this part of{b}
+town.{p}{name: 2304}{person: 9 233 232}{shake: 30 0}{bgcolor: 2305 8 31}
+Not bad.{wait: 16} I guess Mr. Wright{b}
+picked the right kids for{b}
+the job.{p}
+That saved me a lot of work.{wait: 16}{b}{person: 9 246 245}
+Thanks.{nextpage_button}{newevidence: 16456}{name: 0}{color: 2}{speed: 4}
+Noodle Stand added to the{b}
+Court Record.{nextpage_button}{speed: 255}{color: 0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+What sort of person was the{b}
+victim,{wait: 16} {speed: 3}anyway?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+You mean what did he do?{b}
+He was a doctor.{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+A doctor...?{wait: 25}{b}{speed: 3}{color: 2}
+(I'm starting to{b}
+see a connection here...){color: 0}{nextpage_button}{person: 9 232 232}{0x10: 32854}{0x37: 17 0}{0x37: 18 0}{0x37: 19 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{person: 9 233 232}{name: 2304}{hidetextbox: 0}The report came in late last{b}
+night.{wait: 20} The body was found{b}
+much as you see it now.{p}{person: 9 239 238}
+...{wait: 12}Except it was a real body.{nextpage_button}{person: 9 232 232}{name: 1024}
+But...{wait: 16} why?{p}{person: 9 233 232}{name: 2304}{speed: 4}
+Why was a body pulling a{b}
+noodle stand?{p}{person: 9 237 236}
+If I knew the answer to that,{wait: 12}{b}
+I wouldn't still be here.{nextpage_button}{name: 1024}
+Well,{wait: 10} what was the cause of{b}
+death...?{p}{person: 9 239 238}{name: 2304}
+A bullet wound,{wait: 8} to the temple.{wait: 16}{b}
+...{wait: 20}He was shot by a pistol.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 86 85}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+A pistol?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+Not the easiest thing to come{b}
+by in this day and age.{p}{person: 9 232 232}{name: 1024}{speed: 4}{color: 2}
+(Unless you're a cop{speed: 8}...{wait: 12} {speed: 3}or a{b}
+gangster.){speed: 255}{color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+What sort of person was the{b}
+victim,{wait: 16} {speed: 3}anyway?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+You mean what did he do?{wait: 10}{b}
+He was a doctor.{nextpage_button}{person: 9 232 232}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+A doctor...?{wait: 25}{b}{speed: 3}{color: 2}
+(I'm starting to{b}
+see a connection here...){color: 0}{nextpage_button}{0x51: 0 53}
+{22272}{1576}{0x35: 22528 @RelativeAddress3}{0x35: 22784 @RelativeAddress4}{0x10: 32858}{0x35: 24577 @RelativeAddress5}{0x35: 23296 @RelativeAddress6}{0x35: 23552 @RelativeAddress7}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress3}{@RelativeAddress4}{@RelativeAddress5}{@RelativeAddress6}{@RelativeAddress7}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{name: 1024}{person: 9 232 232}{hidetextbox: 0}Could you tell us a bit more{b}
+about the victim?{p}{name: 2304}{person: 9 250 249}
+Well,{wait: 8} let's see...{wait: 16} Apparently{b}
+he's the physician at a clinic{b}
+in the area.{p}
+Quite well off,{wait: 8} too,{wait: 8} from the{b}
+sound of it.{p}{person: 9 233 232}
+The clinic's name is...{wait: 20}{b}
+The Meraktis Clinic.{nextpage_button}{newevidence: 32820}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Hmm...{wait: 12} Maybe that's why the{b}
+cop car was parked there?{p}{name: 2304}{person: 9 244 243}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+What?{wait: 16} {speed: 3}You've been to the{b}
+clinic?{nextpage_button}{name: 1024}{person: 9 243 243}{speed: 8}
+Yeah...{wait: 16} {speed: 3}Though on a related{b}
+issue.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 4095}{person: 0 0 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{speed: 4}{color: 2}
+(I told the detective about{b}
+the case of the stolen{b}
+noodle stand.){color: 0}{p}{bgcolor: 257 8 31}{wait: 1}{0x35: 23297 @RelativeAddress8}{bg: 275}{0x35: 23296 @RelativeAddress9}{@RelativeAddress8}{bg: 229}{@RelativeAddress9}{person: 9 232 232}{name: 2304}{person: 9 250 249}{speed: 5}
+...{wait: 20}I see{0x5a}...{wait: 30}{b}{person: 9 239 238}{speed: 3}
+So that means...{p}
+...{wait: 20}Dr. Meraktis stole the{b}
+stand and pulled it all the{b}
+way here?{nextpage_button}{person: 9 249 249}{name: 1024}
+That would seem to be the{b}
+case.{p}{name: 2304}{person: 9 238 238}{speed: 7}
+.{speed: 9}.{speed: 11}.{wait: 40}{b}{person: 9 233 232}{speed: 3}
+But why?{nextpage_button}{name: 1024}{person: 9 232 232}
+Don't ask me!{nextpage_button}{0x10: 32857}{0x51: 0 53}
+{22272}{1528}{0x35: 22528 @RelativeAddress10}{0x35: 22016 @RelativeAddress11}{0x10: 32858}{0x35: 24577 @RelativeAddress12}{0x35: 23296 @RelativeAddress13}{0x35: 23552 @RelativeAddress14}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress10}{@RelativeAddress11}{@RelativeAddress12}{@RelativeAddress13}{@RelativeAddress14}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{name: 2304}{person: 9 233 232}{hidetextbox: 0}{speed: 3}Who?{wait: 20} Me?{wait: 20} I'm just a supervisor{b}
+for this crime scene.{nextpage_button}{name: 1024}{color: 2}
+(Detective Skye...{wait: 10} Hmm.){color: 0}{nextpage_button}{name: 2304}{person: 9 241 240}
+I was out of the country for{b}
+a while.{wait: 20} I came back to be a{b}
+forensic scientist.{nextpage_button}{name: 1280}{person: 5 96 95}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Ooh!{wait: 16}{person: 5 74 73} Were you studying abroad?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Something like that.{wait_noanim: 20}{b}{person: 9 233 232}
+I was studying in Europe.{p}{person: 9 241 240}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Forensic sciences, mind you.{p}{person: 9 237 236}
+But when I got back here,{wait: 12} {speed: 3}they{b}
+threw me in criminal affairs!{b}
+Just like that!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Why didn't you just become a{b}
+forensics expert in Europe?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Well,{wait: 8} I suppose that was an{b}
+option,{wait: 8} but{speed: 8}...{p}{person: 9 246 245}{speed: 3}
+I had a lot of favors to repay{b}
+to people back here.{nextpage_button}{name: 1024}{person: 9 249 249}{color: 2}
+(Favors?{wait: 16} {speed: 3}Wasn't she in high{b}
+school when she left?){color: 0}{p}{name: 2304}{person: 9 237 236}
+What?{wait: 20} What's that look for?{nextpage_button}{name: 2304}{person: 9 239 238}
+I was involved in an...{wait: 20}{b}
+incident before I left.{p}{name: 2304}
+But Mr. Wright and his people{0x5a}{b}{person: 9 233 232}
+helped me out.{wait: 16} {speed: 3}I owed them.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 86 85}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+Really?{wait: 14} I had no idea...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 3}{color: 2}
+(If she's been out of the{b}
+country for a while...){nextpage_button}{speed: 4}
+(...{wait: 25}she probably doesn't know{b}
+about Mr. Wright's current,{wait: 8}{b}
+erm,{wait: 6} "state of affairs".){speed: 255}{color: 0}{p}{0x10: 32855}{0x51: 0 53}
+{22784}{2254}{0x35: 22528 @RelativeAddress15}{0x35: 22016 @RelativeAddress16}{0x10: 32858}{0x35: 24577 @RelativeAddress17}{0x35: 23296 @RelativeAddress18}{0x35: 23552 @RelativeAddress19}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress15}{@RelativeAddress16}{@RelativeAddress17}{@RelativeAddress18}{@RelativeAddress19}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{name: 1024}{person: 9 232 232}{hidetextbox: 0}{speed: 8}Um...{wait: 16} {speed: 3}Could you tell us a bit{b}
+about the defendant?{p}
+He's the only son of the{b}
+Kitaki Family,{wait: 12} yes...?{p}{name: 2304}{person: 9 233 232}
+Wocky Kitaki.{p}{person: 9 250 249}
+I don't know if he is the{b}
+boss's son,{wait: 8} but he's certainly{b}
+throwing his weight around...{p}{person: 9 233 232}
+...{wait: 16}Violently.{b}
+In the detention center.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+I see.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1024}{person: 9 232 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Why was he arrested in the{b}
+first place?{p}{name: 2304}{person: 9 238 238}{speed: 8}
+...{p}{person: 9 239 238}{speed: 3}
+You are a defense attorney,{wait_noanim: 20}{b}{person: 9 233 232}
+aren't you?{wait: 16} You're not his,{wait: 8}{b}
+by any chance?{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+Er,{wait: 8} a-actually,{wait: 16} yes, I am.{p}{name: 2304}
+Well{speed: 8}...{wait: 16} {speed: 4}We have a witness{wait_noanim: 20}{b}{person: 9 233 232}
+to the moment of the crime.{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+Eh...?{p}{name: 2304}
+The witness called the police.{wait: 16}{b}
+They'll be testifying during{b}
+the trial tomorrow.{nextpage_button}{name: 1280}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Whaaaaaaaa--!?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{wait: 16}{0x10: 32856}{0x51: 0 53}
+{22784}{1520}{0x35: 22272 @RelativeAddress20}{0x35: 22016 @RelativeAddress21}{0x10: 32858}{0x35: 24577 @RelativeAddress22}{0x35: 23296 @RelativeAddress23}{0x35: 23552 @RelativeAddress24}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress20}{@RelativeAddress21}{@RelativeAddress22}{@RelativeAddress23}{@RelativeAddress24}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{24}}
+{bop}{name: 1024}{person: 9 238 238}Um,{wait: 16} if you could spare a{b}
+moment to take a look at this?{p}{name: 2304}{person: 9 252 251}
+...{wait: 16}Can't you see that I am{b}
+extremely,{wait: 12} extremely busy?{nextpage_button}{name: 1024}{color: 2}
+(...{wait: 16}Eating snacks,{wait: 8} yes.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Busy eating snacks,{wait: 8} I'd say.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1024}{person: 9 251 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{color: 2}
+(This is going nowhere fast.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{25}}
+{bop}{name: 1024}{person: 9 251 251}{speed: 8}Um...{wait: 18} {speed: 3}Does this ring any{b}{showphoto: 63}
+bells?{p}{name: 2304}{person: 9 244 243}{fademusic: 30}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Ah!{wait: 8} Is that--!?{wait: 16} It couldn't!?{b}
+Where'd you get that?{nextpage_button}{name: 1024}{person: 9 243 243}{speed: 3}
+I brought it from the office.{p}{removephoto}{name: 2304}{person: 9 244 243}{speed: 5}
+You...{wait: 20} work at the{b}{person: 9 233 232}
+Wright & Co. Law Offices, yes?{nextpage_button}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}
+Er,{wait: 8} yeah,{wait: 8} sort of...{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Detective Skye!{wait: 16} {speed: 3}How do you{b}
+know my daddy?{p}{name: 2304}{person: 9 244 243}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+D-{bgcolor: 2305 8 31}D-{bgcolor: 2305 8 31}Daddy!?{wait: 12} {speed: 3}I'm sorry,{wait: 12} who{b}{person: 9 244 243}
+did you say you were?{p}{name: 1280}{person: 5 68 67}{bgcolor: 2305 8 31}
+Trucy Wright.{wait: 16} Phoenix Wright's{b}
+daughter.{p}{name: 2304}{person: 9 244 243}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Whaaaaaaaaaaaaaat!?{wait: 20}{b}
+Mr. Wright has a daughter!?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+You seem shocked.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 239 238}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+W-{wait: 8}Well,{wait: 14} if you're Mr. Wright's{b}
+daughter and you're his{b}
+apprentice...{p}{person: 9 246 245}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 20}then I'm available to help{b}
+you in any way I can!{p}{name: 1024}{person: 9 245 245}{speed: 3}
+Oh,{wait: 8} uh,{wait: 12} thanks.{wait: 16}{b}{speed: 4}{color: 2}
+(You can start by not calling{b}{0x23: 0}{music: 255 60}
+me Mr. Wright's apprentice!){speed: 255}{color: 0}{p}{name: 2304}{person: 9 233 232}{showphoto: 63}
+This powder is used for{b}
+detecting fingerprints.{p}{name: 1024}{person: 9 232 232}{speed: 5}
+Fingerprints...?{p}{name: 2304}{person: 9 250 249}{speed: 3}
+I guess you might call it a{b}
+memento...{wait: 20} from the time I{b}
+spent with Mr. Wright.{nextpage_button}{removephoto}{name: 1024}{speed: 4}{color: 2}
+(White powder memories...){color: 0}{p}{name: 2304}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+If you find any evidence with{b}
+fingerprints on it,{wait: 7} please let{b}
+me know!{p}{person: 9 246 245}
+We'll dust for prints!{p}{name: 1024}{person: 9 245 245}{color: 2}
+(Well,{wait: 16} she's quite the eager{b}
+beaver all of a sudden...){color: 0}{p}{0x19: 63 64}{0x10: 32868}{0x37: 16 0}{0x37: 18 1}{0x67}{bop}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{26}}
+{bop}{0x51: 0 53}{25601}{0x18: 16}{33292}{jmp: 152}{endjmp}{endjmp}{showphoto: 63}{person: 9 246 245}{name: 2304}Fingerprint analysis is the{b}
+very basis of modern forensic{b}
+science!{p}
+Doesn't just talking about{b}
+it leave you breathless with{b}
+excitement?{p}{name: 1024}{person: 9 245 245}
+Oh yes.{wait: 20} Breathless.{wait: 12}{b}{speed: 3}{color: 2}
+(Actually, it does sound{b}
+kinda interesting...){color: 0}{p}{bganim: 98 579}{name: 2304}{person: 9 241 240}
+Let me know if you find any{b}
+evidence that might have a{b}
+print or two, alright?{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{27}}
+{bop}{0x51: 0 53}{25601}{0x18: 16}{33292}{jmp: 152}{endjmp}{endjmp}{name: 2304}{person: 9 233 232}{showphoto: 70}The defendant's fingerprints{b}
+were found on that knife.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Which means that,{wait: 8} at the very{b}
+least,{wait: 16} he was here at the{b}
+scene of the crime...?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 2304}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+It's highly possible,{wait: 8} yes.{p}{name: 1024}{person: 9 249 249}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+Ugh.{wait: 16} {speed: 4}This doesn't look good...{p}{person: 9 246 245}{name: 2304}
+No use worrying about what's{b}
+out already!{wait: 20} You just worry{b}
+about what's yet to come!{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{28}}
+{bop}{0x51: 0 53}{25601}{0x18: 16}{33292}{jmp: 152}{endjmp}{endjmp}{showphoto: 7}{name: 2304}{person: 9 250 249}Ah,{wait: 8} an attorney's badge.{wait: 16} It{b}
+reminds me of when Mr. Wright{b}
+was still defending.{p}{bganim: 98 579}{person: 9 239 238}
+Everything I have now is{b}
+thanks to him.{p}{person: 9 233 232}
+Remember, help as many people{b}
+as you can.{wait: 16} That's your job!{p}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}
+She's right,{wait: 8} Polly!{wait_noanim: 20}{b}{person: 5 72 69}
+Let's make a difference!{nextpage_button}{name: 1280}{person: 5 82 81}{sound: 51 1}{bgcolor: 2305 8 31}
+...{wait: 16}Is something wrong?{nextpage_button}{name: 1024}{person: 5 83 83}{shake: 30 1}{bgcolor: 2305 8 31}
+Ah!{wait: 12} Ah,{wait: 7} no!{wait: 12} N-Nothing.{wait: 20}{b}{color: 2}
+(I...{wait: 20} I actually felt inspired{b}
+for a moment there.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{29}}
+{bop}{0x51: 0 53}{25601}{0x18: 16}{33292}{jmp: 152}{endjmp}{endjmp}{name: 2304}{person: 9 250 249}{speed: 3}Why did Dr. Meraktis die like{b}
+this...?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}
+Pulling a noodle stand...{b}
+Very strange.{p}{name: 2304}{person: 9 235 234}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Inconceivable!{wait: 20}{b}
+I just don't get it!{p}{person: 9 237 236}
+Some people just can't die{b}
+normally!{p}{name: 1024}{person: 9 236 236}{speed: 4}{color: 2}
+(He's dead,{wait: 8} give him a break.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{30}}
+{bop}{0x51: 0 53}{25601}{0x18: 16}{33292}{jmp: 152}{endjmp}{endjmp}{name: 2304}{person: 9 239 238}Sorry...{wait: 12} I don't think I can{b}
+help you with that.{p}{person: 9 250 249}
+I think you need more than{b}
+just scientific help.{p}{person: 9 233 232}
+But ask me anything you like!{wait: 20}{b}
+...{wait: 16}Just ask scientifically.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}

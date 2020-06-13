@@ -1,0 +1,151 @@
+
+
+{{0}}
+{bop}{0x51: 0 38}{bop}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16{b}
+Meraktis Clinic{b}
+Reception{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{personvanish: 3 1}{person: 5 75 75}{wait: 16}{name: 1280}{hidetextbox: 0}{speed: 5}
+Huh,{wait: 16}{person: 5 68 67}{speed: 3} kind of an at-home sort{b}
+of place,{wait: 8} isn't it?{nextpage_button}{person: 5 67 67}{name: 1024}
+This place has a connection{b}
+to the murder in the park...{p}
+I'm sure of it!{nextpage_button}{name: 1280}{person: 5 68 67}
+The police guy out front{b}
+wasn't so sure.{p}{name: 1024}{person: 5 67 67}
+Beyond it being where the{b}
+victim lived.{p}{color: 2}
+(Looks like the police team's{b}
+gone home for the day.){color: 0}{p}{name: 1280}{person: 5 72 69}
+There might be some clues{b}
+lying around!{p}{person: 5 96 95}
+Let's get cracking,{wait: 4} {fademusic: 0}{music: 33 0}Apollo!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 0 0 0}{name: 1024}{0x10: 32929}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{fademusic: 60}{name: 1280}{person: 5 96 95}Look!{wait: 20} This door says{wait: 6}{b}
+"Doctor's Office"!{nextpage_button}{person: 5 67 67}{name: 1024}{speed: 3}
+Think this is the victim's{b}
+private office?{p}{person: 5 68 67}{name: 1280}
+It's not locked{0x5a}{speed: 8}...{wait: 20}{b}{person: 5 76 75}{speed: 3}
+Too bad.{nextpage_button}{name: 1024}
+Why{wait: 6} "too bad"?{p}{name: 1280}{person: 5 68 67}
+I like opening locks!{wait: 20} It's{b}
+kind of a hobby of mine.{p}{person: 5 74 73}
+Like those little bike locks?{wait: 16}{b}
+Don't even bother putting them{b}
+on when I'm around!{p}{name: 1024}{person: 5 73 73}
+...{wait: 20}That's probably not a hobby{b}
+you want to tell too many{b}
+people about.{p}{person: 5 81 81}{name: 0}{sound: 112 1}{shake: 30 0}{speed: 5}
+*thump*{p}{name: 1280}{person: 5 81 81}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+......!{bgcolor: 2305 8 31}{wait: 30}{b}{person: 5 82 81}
+Ah...{wait: 12}{shake: 30 0}{bgcolor: 2305 8 31} Apo{shake: 30 0}llo!{wait: 20} That sound...{wait: 16}{b}
+It came from behind this door!{0x5a}{wait: 20}{fademusic: 0}{music: 18 0}{p}{name: 1024}{person: 5 81 81}{bgcolor: 2305 8 31}{color: 2}
+(...{wait: 20}Someone's in there!){color: 0}{p}{name: 1024}{person: 5 95 95}{speed: 3}
+L-{wait: 16}Let's check it out,{wait: 8} Trucy!{shake: 30 0}{bgcolor: 2305 8 31}{p}{hidetextbox: 1}{0x10: 32930}{fadetoblack: 8}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{name: 1280}{person: 5 76 75}{wait: 16}Look at all these bowls{speed: 8}...{p}{name: 1024}{person: 5 75 75}{showphoto: 58}{speed: 3}
+They're from Eldoon's Noodles!{wait: 20}{b}
+There's Mr. Salty!{p}{name: 1280}{person: 5 86 85}{speed: 5}
+Then,{wait: 8} I think we've figured{b}
+something out.{p}{name: 1024}{person: 5 85 85}{speed: 3}
+I think we have.{p}{name: 1280}{person: 5 76 75}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 2}
+Mr. Eldoon must do take-out!{p}{name: 1024}{person: 5 75 75}{bganim: 98 579}{speed: 8}
+...{wait: 20}{b}{speed: 4}{color: 2}
+(Not exactly what I was{b}
+thinking.){color: 0}{p}{name: 1280}{person: 5 68 67}{speed: 3}
+All the bowls have been{b}
+washed clean...!{p}{name: 1024}{person: 5 67 67}{speed: 4}
+I think we've found our{b}
+first clue,{wait: 8} Trucy.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}These must be the slippers for{b}
+patients at the clinic.{p}{name: 1024}{person: 5 69 69}
+The same as the pair we found,{wait: 8}{b}{showphoto: 56}
+of course.{nextpage_button}{removephoto}{name: 1280}{person: 5 76 75}{speed: 3}
+Look,{wait: 8} a single pair is missing{b}
+from the rack here,{wait: 8} too.{p}{name: 1280}{showphoto: 312}
+And ours have paint on the{b}
+bottoms...{p}{person: 5 86 85}
+Which means they were taken{b}
+out of here on the night of{b}
+the murder.{nextpage_button}{name: 1024}{speed: 5}
+Right...{nextpage_button}{speed: 3}
+The paint's from the hit and{b}
+run,{wait: 8} after all.{p}{person: 5 75 75}{color: 2}
+(But what were a pair of{b}
+clinic slippers doing in{b}
+that trash can?){p}
+(And what were they doing at{b}
+the scene of the hit and{b}
+run?){color: 0}{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{0x35: 44800 @RelativeAddress0}{jmp: 133}{endjmp}{endjmp}{@RelativeAddress0}{name: 1280}{person: 5 76 75}There's a single pair of{b}
+sandals here.{p}{name: 1024}{person: 5 67 67}{speed: 5}
+Wait,{wait: 8} {speed: 3}but why would there be{b}
+sandals here?{p}{person: 5 75 75}{speed: 3}
+Unless they belong to one of{b}
+the patients.{p}{name: 1280}{person: 5 76 75}
+Or maybe it's a visitor that's{b}
+come to see Dr. Meraktis.{p}{name: 1024}{person: 5 75 75}
+You'd think they'd use his{b}
+house entrance instead of the{b}
+clinic entrance, in that case.{p}{speed: 4}
+And,{wait: 8} if this patient or{b}
+visitor isn't still here...{p}{name: 1280}{person: 5 86 85}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Why'd they leave without{b}
+their shoes?{p}{name: 1024}{person: 5 75 75}{speed: 4}{color: 2}
+(Better take a closer look{b}
+at these,{wait: 10} just in case.){color: 0}{p}{newevidence: 16457}{name: 0}{color: 2}{speed: 4}
+Sandals added to the Court{b}
+Record.{nextpage_button}{speed: 255}{color: 0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 0 0 0}{0x10: 32943}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{name: 1024}{speed: 4}A pair of sandals in a{b}
+deserted clinic...{nextpage_button}{person: 5 68 67}{name: 1280}{speed: 3}
+It's a little scary...{wait_noanim: 30}{person: 5 76 75} when{b}
+you stop to think about it.{p}{name: 1280}{person: 5 86 85}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+And how did the lady go home{b}
+without her sandals?{nextpage_button}{name: 1024}{shake: 30 0}{speed: 5}
+Hmm...{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Maybe her operation here{b}
+was to add wings,{wait: 8} and she{b}
+flew home?{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Oh,{wait: 8} I've heard of those!{wait_noanim: 30}{b}{person: 5 74 73}{speed: 3}
+Surgical enhancements,{wait: 10} right?{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Surgical enhancements are for{b}
+a different part of the body,{wait: 8}{b}
+and,{wait: 8} I was kidding...){speed: 255}{color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 0 0 0}{0x10: 32943}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{0x33: 7 5 8 255 255}{0x60: 7 7 10 255 255}{0x61: 7 6 8 255 255}{jmp: 129}{endjmp}
+
+{{7}}
+{bop}{person: 0 0 0}{name: 1024}A plate on this door reads{wait: 6}{b}
+"Doctor's Office".{p}{person: 5 76 75}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+That was pretty intense,{wait: 8}{b}
+wasn't it!?{nextpage_button}{name: 1024}
+If we'd gone in there one{b}
+second earlier,{wait: 8} we might have{b}
+met the burglar!{nextpage_button}{name: 1280}{person: 5 76 75}{speed: 4}
+But,{wait: 8} Apollo...{nextpage_button}{person: 5 68 67}{speed: 3}
+What would we have said if{b}
+we did see them?{nextpage_button}{person: 5 68 67}{speed: 2}
+We can't exactly shout out{wait_noanim: 30}{b}{person: 5 96 95}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+"Hey! {speed: 3}Who are you!?"{nextpage_button}{name: 1024}{speed: 6}
+...{wait: 35}{b}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+It does lack a certain punch.{nextpage_button}{person: 5 72 69}{name: 1280}
+Let's think of something{b}
+cool to say for the next time{b}
+we do meet a burglar!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{person: 0 0 0}{name: 1024}The clinic reception desk.{wait: 16}{b}
+No one's here,{wait: 10} of course.{p}
+There's a small sign on the{b}
+counter...{p}{speed: 4}
+"Please pay your bill:{b}
+Remember,{wait: 8} we're the ones{b}
+holding the scalpel."{p}{speed: 3}
+Brutal...{wait: 16} but effective.{p}{hidetextbox: 3}{special_jmp}{endjmp}

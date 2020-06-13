@@ -1,0 +1,84 @@
+
+
+{{0}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}There's a number inscribed on{b}
+the back of the badge.{p}
+There are many numbers like{b}
+it,{wait: 10} but this one is mine.{wait: 20}{b}
+Proof that I'm an attorney.{p}{speed: 4}
+To tell the truth,{wait: 12}{speed: 3} I get a{b}
+happy feeling inside just{b}
+looking at it.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}Grape juice...{wait: 15} How long has{b}
+it been since I drank grape{b}
+juice?{p}
+Apparently,{wait: 12} it's Mr. Wright's{b}
+favorite drink.{wait: 20} I wonder how{b}
+well it goes with borscht?{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}The bottle is completely{b}
+empty.{p}{0x10: 33760}{special_jmp}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{name: 1024}{speed: 2}{shake: 30 1}Wow.{wait: 15}{speed: 3} The batteries are held{b}
+in with a piece of tape...{p}
+He should just buy a new one.{wait: 20}{b}
+Maybe he can't afford it...{wait: 15}{b}{speed: 4}
+or he just doesn't care.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 4}The card backs are {color: 1}red{color: 0}...{p}{speed: 3}
+For some reason I thought that{b}
+they were using {color: 2}blue{color: 0} cards in{b}
+that final hand...{p}
+Didn't you,{wait: 10} Mr. Gavin?{p}{0x76: 0 15}{name: 2048}{speed: 3}
+Huh?{wait: 15}{speed: 5} Oh,{wait: 8} hmm.{wait: 15}{b}{speed: 4}
+Which was it now...{p}{0x76: 2 0}{wait: 10}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}Only one of the cards has{b}
+a {color: 2}blue{color: 0} back...{p}
+I'm much more of a {color: 1}red{color: 0} guy{b}
+myself.{wait: 20} {color: 2}Blue{color: 0} is so...{wait: 15} not{b}{color: 1}
+red{color: 0},{wait: 10} you know?{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{name: 1024}{hidetextbox: 0}{color: 2}(Wh-{wait: 8}What...!?){color: 0}{p}{wait: 30}{special_jmp}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 4}The card backs are {color: 1}red{color: 0}...{p}{speed: 3}
+For some reason I thought{b}
+they were using {color: 2}blue{color: 0}-backed{b}
+cards in the final hand...{p}{wait: 10}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}A single drop of blood{b}
+marks the front of the card.{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 3}More grape juice...{wait: 15} just like{b}
+the bottle used as the murder{b}
+weapon.{p}
+I know it's Mr. Wright's{b}
+favorite drink,{wait: 12} but isn't{b}
+one bottle a day enough?{p}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{name: 1024}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}...!{bgcolor: 2305 8 31}{wait: 40}{b}{speed: 3}
+There's something inside{b}
+the bottle!{wait: 45}{p}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{endjmp}
+
+{{12}}
+{bop}{endjmp}
+
+{{13}}
+{bop}{endjmp}
+
+{{14}}
+{bop}{endjmp}

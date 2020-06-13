@@ -1,0 +1,714 @@
+
+
+{{0}}
+{bop}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}Hey,{wait: 8} look.{wait: 16} A part of the{b}
+carpet has been torn up here.{nextpage_button}{0x38: 1}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+That was the part we did the{b}
+lunimol testing on in court!{nextpage_button}{name: 1024}
+Luminol{speed: 8}...{wait: 16}{speed: 3} right.{nextpage_button}{person: 5 76 75}{name: 1280}
+You know what I couldn't{b}
+stop thinking?{nextpage_button}{person: 5 96 95}
+Who's going to pay for this{b}
+carpet?{nextpage_button}{person: 5 67 67}{name: 1024}
+As long as it's not us...{p}
+Maybe... {wait: 15}{person: 5 77 81}{0x8f: 78}{0x8f: 79}{0x8f: 80}{sound: 52 1}{bgcolor: 2305 8 31}{person: 5 81 81}the shooter?{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 5}
+I guess it's true what{b}
+they say.{p}{person: 5 72 69}{speed: 3}
+Crime doesn't pay!{nextpage_button}{name: 1024}
+I would hope that carpet{b}
+replacement costs weren't the{b}
+only thing holding you back.{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{name: 1024}{speed: 3}A speaker for monitoring the{b}
+stage.{wait: 16} It was blaring at the{b}
+time of the shooting.{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{name: 1280}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+It's a pretty old model for{b}
+such a nice place.{nextpage_button}{name: 1024}
+I guess they don't care about{b}
+sound quality back here.{wait: 16} As{b}
+long as you can hear it...{nextpage_button}{color: 2}
+(Not that a loss of fidelity{b}
+could possibly make that{b}
+music worse...){nextpage_button}{color: 0}{person: 5 68 67}{name: 1280}
+Good speakers must cost a lot.{nextpage_button}{person: 5 72 69}
+You have any idea how much{b}
+a nice one that size would{b}
+cost,{wait: 8} Apollo?{nextpage_button}{name: 1024}
+Probably a good ten years{b}
+of your allowance,{wait: 8} give or{b}
+take.{nextpage_button}{fademusic: 30}{person: 5 77 81}{0x8f: 78}{0x8f: 79}{0x8f: 80}{name: 1280}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Whaaat!?{wait: 16}{0x63} {person: 5 96 95}But that's almost{b}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+600 dollars!{nextpage_button}{name: 1024}{speed: 8}
+......{wait: 40}{b}{speed: 3}{color: 2}
+(Five dollars a month...?){nextpage_button}{speed: 4}
+(Poor Trucy...){nextpage_button}{person: 5 75 75}{speed: 3}
+(Wait till she finds out you{b}
+need to buy two speakers for{b}
+a stereo...){0x23: 0}{music: 255 90}{color: 0}{nextpage_button}{speed: 255}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{name: 1024}Right after the shooting{b}
+took place...{p}
+...{wait: 20}Lamiroir tried to come into{b}
+the dressing room,{wait: 8} and dropped{b}
+her brooch.{p}{person: 5 76 75}{name: 1280}
+I think that fits with the{b}
+other stuff we know.{nextpage_button}{person: 5 68 67}
+Do you think the timing of{b}
+when she dropped it is{b}
+important?{nextpage_button}{person: 5 67 67}{name: 1024}{bgcolor: 2305 8 31}{speed: 5}
+Yeah...{wait: 20} {speed: 3}Something about it{b}
+bugs me,{wait: 8} that's for sure.{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{person: 0 0 0}{name: 1024}They found Machi Tobaye's{b}
+fingerprints on that air vent.{nextpage_button}{hidetextbox: 1}{personvanish: 3 2}{person: 5 75 75}{wait: 32}{name: 1280}{hidetextbox: 0}{speed: 7}
+......{nextpage_button}{name: 1024}{speed: 4}
+What's with the long face?{nextpage_button}{name: 1280}{person: 5 96 95}
+It's a little lackluster,{wait: 6}{b}
+you know.{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Lackluster...?{nextpage_button}{person: 5 91 90}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I mean,{wait: 8} using the air vent{b}
+is so obvious!{nextpage_button}{person: 5 74 73}{speed: 3}
+No audience is going to pay{b}
+good money to see a trick{b}
+like that.{nextpage_button}{name: 1024}{speed: 7}
+......{nextpage_button}{speed: 3}
+Things must look different{b}
+through a magician's eyes.{nextpage_button}{person: 5 96 95}{name: 1280}{speed: 2}
+It'd be much cooler if the{b}
+killer got out through that{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+tiny window!{nextpage_button}{hidetextbox: 1}{shake: 30 0}{sound: 49 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{wait: 1}{0x1d: 264}{0x4c}{wait: 30}{hidetextbox: 0}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Don't go there.{wait: 16} {speed: 3}You'll get{b}
+your head stuck.{nextpage_button}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 272}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{person: 0 0 0}{name: 1024}{speed: 3}This was the window where{b}
+Lamiroir{wait: 4} "saw"{wait: 4} the crime{b}
+from{speed: 8}...{nextpage_button}{speed: 3}
+I wish it was that simple.{nextpage_button}{hidetextbox: 1}{personvanish: 3 2}{person: 5 76 75}{0x5a}{wait: 32}{name: 1280}{hidetextbox: 0}{0x59}{speed: 3}
+Kind of hard to see a crime{b}
+when you can't see.{nextpage_button}{person: 5 68 67}
+But she did hear it!{nextpage_button}{name: 1024}{speed: 3}
+Yeah,{wait: 8} but the window was{b}
+closed{speed: 5}...{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 3}
+Maybe she heard it some{b}
+other way?{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{person: 0 0 0}{name: 1024}Look at the way those bullets{b}
+tore through this thick wall.{p}
+That revolver really was{b}
+something else.{nextpage_button}{hidetextbox: 1}{personvanish: 3 2}{person: 5 84 83}{0x5a}{wait: 32}{name: 1280}{hidetextbox: 0}{0x59}
+I wonder if someone as little{b}
+as me could even fire it?{nextpage_button}{person: 5 75 75}{name: 1024}
+Dislocating your shoulder{b}
+would kind of put a crimp{b}
+on your stage career.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Daddy always has stiff{b}
+shoulders,{wait: 8} maybe that could{b}
+loosen him up!{nextpage_button}{name: 1024}
+Don't even mention it.{wait: 20} I'm{b}
+afraid he might go out and{b}
+actually try it.{nextpage_button}{name: 1280}{person: 5 68 67}
+Nah,{wait: 8} he doesn't have the guts{b}
+to pull the trigger, I bet.{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{person: 0 0 0}{name: 1024}{showphoto: 123}The murder weapon.{wait: 16}{b}
+So it belonged to Mr. LeTouse.{nextpage_button}{0x38: 1}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+That thing makes normal{b}
+revolvers look like water guns!{nextpage_button}{name: 1024}
+Mr. LeTouse was a big man.{nextpage_button}{color: 2}
+(But how about the person{b}
+who shot him?){nextpage_button}
+(Wouldn't they have to be{b}
+about his size?){color: 0}{nextpage_button}{bganim: 98 579}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{person: 0 0 0}{name: 1024}The shooter must have used{b}
+that to climb up to the vent.{p}{hidetextbox: 1}{personvanish: 3 2}{person: 5 84 83}{0x5a}{wait: 32}{name: 1280}{hidetextbox: 0}{0x59}
+All this tragedy,{wait: 8} because{b}
+someone left a stepladder{b}
+here.{nextpage_button}{name: 1024}
+...I don't think Mr. LeTouse{b}
+was shot because of the{b}
+ladder.{nextpage_button}{person: 5 76 75}{name: 1280}
+You think it was Machi?{nextpage_button}{person: 5 83 83}{name: 1024}
+I guess...{wait: 16} That air vent{b}
+is pretty small,{wait: 8} after all.{nextpage_button}{color: 2}
+(Does that prove he was at{b}
+the scene{speed: 8}...?){nextpage_button}{speed: 3}
+(Did he escape in the time{b}
+between the gunshots and{b}
+us opening the door?){color: 0}{p}{jmp: 144}{endjmp}
+
+{{8}}
+{bop}{person: 0 0 0}{name: 1024}That's one of the biggest,{wait: 8}{b}
+most expensive-looking TVs{b}
+I've ever seen.{nextpage_button}{0x38: 1}{person: 5 68 67}{name: 1280}
+Too bad you'll never own one.{nextpage_button}{name: 1024}
+"Never"{wait: 4}'s kind of harsh,{wait: 12}{b}
+Trucy.{nextpage_button}{person: 5 76 75}{name: 1280}
+Hmm.{wait: 16} How about{wait: 4} "for all{b}
+eternity"{wait: 4} then?{nextpage_button}{person: 5 70 70}{name: 1024}
+Same difference.{nextpage_button}{jmp: 144}{endjmp}
+
+{{9}}
+{bop}{0x38: 1}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}Look!{wait: 16} It's {bgcolor: 2305 8 31}fruit!{wait: 16} Fruit,{wait: 8}{b}
+Apollo!{wait: 16} Fruit!!!{nextpage_button}{name: 1024}{speed: 4}
+...I heard you the first{b}
+time.{nextpage_button}{speed: 3}
+It sure is a lot of fruit.{wait: 10}{b}
+I doubt anyone would miss{b}
+a bit of watermelon...{nextpage_button}{person: 5 74 73}{name: 1280}
+I know,{wait: 8} I'll make it vanish!{wait: 16}{b}
+Into my stomach!{nextpage_button}{name: 1024}
+Better not.{wait: 16} They might make{b}
+you pay for it.{nextpage_button}
+And if you have the money{b}
+for that,{wait: 8} you should probably{b}
+repaint the office first.{nextpage_button}{person: 5 82 81}{name: 1280}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Watermelons are that{b}
+expensive!?{nextpage_button}{name: 1024}{speed: 3}
+*shrug* These could've been{b}
+imported from some exotic{b}
+locale, for all we know.{nextpage_button}{jmp: 144}{endjmp}
+
+{{10}}
+{bop}{0x38: 1}{person: 5 68 67}{name: 1280}A Gavinners poster.{nextpage_button}{name: 1024}
+How many of those did they{b}
+put up,{wait: 10} anyway?{nextpage_button}{person: 5 68 67}{name: 1280}
+Prosecutor Gavin looked so{b}
+cool on stage!{nextpage_button}{person: 5 72 69}
+You should learn to play{b}
+the guitar, too,{wait: 8} Apollo!{nextpage_button}{person: 5 74 73}
+You can accompany my magic{b}
+act!{nextpage_button}{name: 1024}
+...{wait: 16}We'd certainly be a novelty{b}
+act,{wait: 8} if nothing else.{nextpage_button}{person: 5 67 67}{color: 2}
+(I'll think about it if I ever{b}
+lose my attorney's badge.){color: 0}{nextpage_button}{jmp: 144}{endjmp}
+
+{{11}}
+{bop}{person: 0 0 0}{name: 1024}It's a poster for another{b}
+show.{p}{speed: 4}
+"This Summer: A Legal Eagles{b}
+Production of 'Case Closed'."{p}{0x38: 1}{person: 5 72 69}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+I looked into that performance{b}
+group.{p}{person: 5 76 75}
+Turns out they're all law{b}
+enforcement-related,{wait: 8} too.{p}{person: 5 74 73}
+Apparently,{wait: 12} their serious{b}
+portrayal of law and order{b}
+is a big draw!{nextpage_button}{name: 1024}
+...{wait: 16}That sounds so boring,{wait: 8} it's{b}
+probably pretty interesting.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+You're a complicated man,{wait: 8}{b}
+Mr. Apollo Justice.{nextpage_button}{jmp: 144}{endjmp}
+
+{{12}}
+{bop}{0x38: 1}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}That's one heavy-duty{b}
+bouquet there.{nextpage_button}{person: 5 69 69}{name: 1024}
+I have trouble thinking of{b}
+flowers as being "heavy-duty".{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+But they call lots of things{b}
+heavy-duty!{nextpage_button}{name: 1024}
+Not flowers,{wait: 8} they don't.{nextpage_button}{person: 5 76 75}{name: 1280}
+What about a{wait: 10} "heavy" scent?{nextpage_button}{name: 1024}
+I think you mean "heady".{nextpage_button}{person: 5 74 73}{name: 1280}
+What if the flowers were{b}
+plastic?{nextpage_button}{name: 1024}
+They still wouldn't be heavy.{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 3}
+OK,{wait: 8} what if they were made{b}
+out of metal?{nextpage_button}{name: 1024}
+What,{wait: 8} like a magnolia made out{b}
+of steel?{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+Exactly!{wait: 16} Though I hope all{b}
+my fans don't start throwing{b}
+metal flowers at me.{nextpage_button}{jmp: 144}{endjmp}
+
+{{13}}
+{bop}{person: 0 0 0}{name: 1024}Seeing these mirrors lined up{wait: 6}{b}
+like that makes me think I'm{b}
+really in a dressing room.{nextpage_button}{speed: 4}
+Look at all that makeup.{nextpage_button}{person: 5 68 67}{name: 1280}{speed: 4}
+Well, I haven't got a clue,{b}
+and I doubt those are.{nextpage_button}{person: 5 67 67}{name: 1024}{speed: 4}{color: 2}
+(I guess she's not into{b}
+makeup yet.){color: 0}{nextpage_button}{jmp: 144}{endjmp}
+
+{{14}}
+{bop}{person: 0 0 0}{name: 1024}That's one of those permanent{b}
+dryers you see in hair salons.{p}{hidetextbox: 1}{personvanish: 3 2}{person: 5 76 75}{0x5a}{wait: 32}{name: 1280}{hidetextbox: 0}{0x59}
+Is that what they're really{b}
+called?{wait: 16} "Permanent dryers"?{nextpage_button}{name: 1024}
+Do I look like a beautician?{wait: 26}{b}{speed: 3}
+I just know they dry your hair{b}
+and give you a permanent...{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+It just doesn't sound very{b}
+glamorous,{wait: 6} you know?{nextpage_button}{name: 1024}
+OK,{wait: 8} how about a "permachine"!?{nextpage_button}{person: 5 74 73}{name: 1280}
+Or you could go more simple,{wait: 8}{b}
+like{wait: 8} "permer"!{nextpage_button}{name: 1024}
+...{wait: 16}This isn't a bad game,{wait: 8}{b}
+thinking up official names{b}
+for things.{nextpage_button}{person: 5 67 67}
+Not that it makes the name{b}
+actually official or anything.{nextpage_button}{jmp: 144}{endjmp}
+
+{{15}}
+{bop}{person: 5 72 69}{name: 1280}A stack of presents for{b}
+Lamiroir.{p}
+Stars always get the biggest{b}
+presents.{nextpage_button}{person: 5 74 73}
+You know,{wait: 9} you could give me{b}
+a present,{wait: 9} Apollo.{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 20}Here,{wait: 8} have a piece of{b}
+candy.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Gee!{wait: 16} {bgcolor: 2305 8 31}Thanks!!!{nextpage_button}{person: 5 71 71}{name: 1024}{speed: 3}{color: 2}
+(She must not get a lot{b}
+of presents...{wait: 16} Poor girl.){nextpage_button}{color: 0}{jmp: 144}{endjmp}
+
+{{16}}
+{bop}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{0x51: 1 53}{34048}{fadetoblack: 53}{28161}{fadetoblack: 30}{32777}сс{hidetextbox: 3}{special_jmp}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{person: 0 0 0}{0x26: 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}July 9{b}
+Lamiroir's Dressing Room{color: 0}{nextpage_button}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 30}{name: 0}{hidetextbox: 0}{shake: 30 0}{speed: 3}
+...{wait: 5}{sound: 182 1}{color: 3}MUNCH{shake: 30 0}{wait: 8}{sound: 183 1} MUNCH{shake: 30 0} {wait: 8}{sound: 182 1}MUNCH{color: 0}{shake: 30 0}{wait: 8}{sound: 183 1}...{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Uh oh...{p}{speed: 3}
+There's{shake: 30 0}{sound: 183 1} only{sound: 183 1} one{shake: 30 0}{sound: 183 1} person I{b}
+know{sound: 183 1}{shake: 30 0} who can{sound: 183 1} munch {sound: 183 1}{shake: 30 0}with{b}
+such... venom.{nextpage_button}{hidetextbox: 1}{personvanish: 3 2}{person: 9 251 251}{wait: 32}{name: 2304}{wait: 90}{person: 9 252 251}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...What are you doing here?{fademusic: 0}{music: 41 0}{nextpage_button}{person: 9 251 251}{name: 1024}
+Hello,{wait: 8} Ema.{wait: 16} You're looking as{b}
+grumpy as ever.{p}{person: 9 252 251}{name: 2304}
+Oh,{wait: 8} am I supposed to be happy?{nextpage_button}{person: 9 237 236}
+You give me the second degree{b}
+in court,{wait: 8} and Prosecutor Gavin{b}
+makes me look like a fool.{nextpage_button}{name: 1024}
+...You're talking about the{b}
+blood stain Mr. LeTouse left?{nextpage_button}{person: 9 235 234}{name: 2304}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+My department chief had a{b}
+field day with that one.{nextpage_button}{person: 9 237 236}{speed: 3}
+"Even a blind person could see{b}
+the shooter wasn't blind!"{b}
+Funny guy,{wait: 8} huh?{nextpage_button}{person: 5 96 95}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+But that blood stain helped{b}
+uncover the biggest mystery{b}
+of all!{nextpage_button}{name: 1024}
+Now we know that Mr. LeTouse{b}
+was really with Interpol.{nextpage_button}{person: 5 72 69}{bgcolor: 2305 8 31}{name: 1280}{speed: 2}
+We wouldn't have found that{b}
+out without you!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 237 236}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+I suppose.{p}{person: 9 252 251}
+Maybe that's why the chief{b}
+gave me these after he was{b}
+finished chewing me out.{p}
+Said it was my reward.{nextpage_button}{hidetextbox: 1}{wait: 70}{name: 1024}{hidetextbox: 0}
+...{wait: 16}Are chocolate Snackoos{b}
+popular down at the precinct{b}
+or something?{nextpage_button}{person: 9 253 253}{shake: 30 0}{name: 2304}{speed: 2}
+...{sound: 182 1}{color: 3}MUNCH{shake: 30 0} {wait: 8}{sound: 183 1}MUNCH{wait: 8}{sound: 182 1} MUNCH{color: 0}{shake: 30 0}...{nextpage_button}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}{0x5a}
+...{wait: 12}{0x59}I was hoping we could check{b}
+out the crime scene again.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 252 251}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+Be my guest.{wait: 20} You're not going{b}
+to find any clues in here.{nextpage_button}{person: 9 237 236}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 12}Though I did find something{b}
+strange.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}
+Something strange?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 251 251}{0x10: 33157}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{fademusic: 60}{person: 9 239 238}{name: 2304}{hidetextbox: 0}{speed: 3}{0x5a}...{wait: 16}{0x59}Guess I'd best be getting{b}
+on with my investigation.{nextpage_button}{name: 1024}
+We're off to look for more{b}
+clues elsewhere,{wait: 12} then.{p}{name: 2304}{person: 9 246 245}
+I feel better just knowing{b}{showphoto: 131}
+what this thing is now.{nextpage_button}{removephoto}{person: 9 233 232}
+I'll have to look into{b}
+igniters a bit more later.{nextpage_button}{person: 5 72 69}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Good luck!{nextpage_button}{name: 1024}{speed: 3}{color: 2}
+(I'd like to know a bit more{b}
+about {color: 1}igniters{color: 2} myself{speed: 8}...){nextpage_button}{newevidence: 16515}{name: 0}{speed: 4}{color: 2}
+Igniter added to{b}
+the Court Record.{fademusic: 0}{music: 41 100}{nextpage_button}{speed: 255}{color: 0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{0x10: 33158}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}Look,{wait: 8} the carpet's been torn{b}
+up here.{nextpage_button}{0x38: 1}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+That's the part we did the{b}
+lunimol testing on in court!{nextpage_button}{person: 9 235 234}{name: 2304}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+"Loony mall"?{wait: 16} What's{wait: 8} "Loony{b}
+mall"!?{wait: 16} {speed: 3}It's {shake: 30 0}{bgcolor: 2305 8 31}"Luminol"!{b}
+Get it right!{nextpage_button}{person: 5 77 81}{0x8f: 78}{0x8f: 79}{0x8f: 80}{name: 1280}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+...!{0x63}{person: 5 81 81}{nextpage_button}{person: 5 93 92}{speed: 4}
+Ema's kind of scary when it{b}
+comes to science.{nextpage_button}{name: 1024}{speed: 3}
+...{wait: 8}Best learn the word and{b}
+not incite her wrath again.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32777 234 234}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{name: 1024}{speed: 3}A speaker for monitoring the{b}
+stage.{wait: 16} It was blaring at the{b}
+time of the shooting.{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{name: 1280}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+It's a pretty old model for{b}
+such a nice place.{nextpage_button}{name: 1024}
+I guess they don't care about{b}
+sound quality back here.{wait: 16} As{b}
+long as you can hear it...{nextpage_button}{color: 2}
+(Not that a loss of fidelity{b}
+could possibly make that{b}
+music worse...){nextpage_button}{color: 0}{person: 5 68 67}{name: 1280}
+Good speakers must cost a lot.{nextpage_button}{person: 5 72 69}
+You have any idea how much{b}
+a nice one that size would{b}
+cost,{wait: 8} Apollo?{nextpage_button}{name: 1024}
+Probably a good ten years{b}
+of your allowance,{wait: 10} give or{b}
+take.{nextpage_button}{fademusic: 30}{person: 5 77 81}{0x8f: 78}{0x8f: 79}{0x8f: 80}{name: 1280}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Whaaat!?{wait: 16} {0x63}{person: 5 96 95}{speed: 3}But that's almost{b}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+600 dollars!{nextpage_button}{name: 1024}{speed: 8}
+......{wait: 40}{b}{speed: 3}{color: 2}
+(Five dollars a month...?){nextpage_button}{speed: 4}
+(Poor Trucy...){nextpage_button}{person: 5 75 75}
+(Wait till she finds out you{b}
+need to buy two speakers for{b}
+a stereo...){0x23: 0}{music: 255 90}{color: 0}{nextpage_button}{speed: 255}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{name: 1024}Right after the shooting{b}
+took place...{p}
+...Lamiroir tried to come into{b}
+the dressing room,{wait: 8} and dropped{b}
+her brooch.{p}{person: 5 76 75}{name: 1280}
+I think that fits with the{b}
+other stuff we know.{nextpage_button}{person: 5 68 67}
+Do you think the timing of{b}
+when she dropped it is{b}
+important?{nextpage_button}{person: 5 67 67}{name: 1024}{bgcolor: 2305 8 31}{speed: 5}
+Yeah...{wait: 20} {speed: 3}Something about it{b}
+bugs me,{wait: 8} that's for sure.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{person: 0 0 0}{name: 1024}That's the air vent with{b}
+Machi Tobaye's fingerprints.{nextpage_button}{hidetextbox: 1}{personvanish: 3 2}{person: 5 75 75}{wait: 32}{name: 1280}{hidetextbox: 0}{speed: 7}
+......{nextpage_button}{name: 1024}{speed: 4}
+What's with the frown?{nextpage_button}{name: 2304}{person: 9 237 236}{sound: 52 1}{bgcolor: 2305 8 31}
+Can't a girl frown anymore?{wait: 16}{b}
+Is that a crime?{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Ack!{wait: 16} {speed: 4}No,{wait: 12} of course not,{wait: 8}{b}
+I just meant...{p}{name: 2304}{speed: 3}
+Machi Tobaye's fingerprints{b}
+are on that air vent.{p}
+Why would his fingerprints be{b}
+there if he wasn't the{b}
+shooter?{nextpage_button}{name: 1024}{color: 2}
+(That's not a question I want{b}
+to have to answer in court.){color: 0}{nextpage_button}{person: 9 235 234}{name: 2304}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Hey!{wait: 16} {speed: 3}Wipe that frown off your{b}
+face.{nextpage_button}{person: 9 237 236}{bgcolor: 2305 8 31}{shake: 30 0}
+One stick in the mud per{b}
+crime scene,{wait: 8} please.{nextpage_button}{name: 1024}{speed: 3}{color: 2}
+(I guess girls can frown,{wait: 8}{b}
+but defense attorneys can't.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{name: 1024}{speed: 3}This was the window where{b}
+Lamiroir{wait: 4} "saw"{wait: 4} the crime{b}
+from{speed: 8}...{nextpage_button}{speed: 3}
+I wish it was that simple.{nextpage_button}{hidetextbox: 1}{personvanish: 3 2}{person: 5 76 75}{0x5a}{wait: 32}{name: 1280}{hidetextbox: 0}{0x59}{speed: 3}
+Kind of hard to see a crime{b}
+when you can't see.{nextpage_button}{person: 5 68 67}
+But she did hear it!{nextpage_button}{name: 1024}{speed: 3}
+Yeah,{wait: 8} but the window was{b}
+closed...{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 3}
+Maybe she heard it some{b}
+other way?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32777 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{24}}
+{bop}{name: 1024}Look at the way those bullets{b}
+tore through this thick wall.{p}
+That revolver really was{b}
+something else.{nextpage_button}{hidetextbox: 1}{personvanish: 3 2}{person: 5 84 83}{0x5a}{wait: 32}{name: 1280}{hidetextbox: 0}{0x59}
+I wonder if someone as little{b}
+as me could even fire it?{nextpage_button}{person: 5 75 75}{name: 1024}
+Dislocating your shoulder{b}
+would kind of put a crimp{b}
+on your stage career.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Daddy always has stiff{b}
+shoulders,{wait: 8} maybe that could{b}
+loosen him up!{nextpage_button}{name: 1024}{speed: 3}
+Don't even mention it.{wait: 20} I'm{b}
+afraid he might go out and{b}
+actually try it.{nextpage_button}{name: 1280}{person: 5 68 67}
+Nah,{wait: 8} he doesn't have the guts{b}
+to pull the trigger, I bet.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{25}}
+{bop}{name: 1024}{showphoto: 123}The murder weapon.{wait: 16}{b}
+So it belonged to Mr. LeTouse.{nextpage_button}{0x38: 1}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+That thing makes normal{b}
+revolvers look like water guns!{nextpage_button}{name: 1024}
+Mr. LeTouse was a big man.{nextpage_button}{color: 2}
+(But how about the person{b}
+who shot him?){nextpage_button}
+(Wouldn't they have to be{b}
+about his size?){color: 0}{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 32777 232 232}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{26}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 9 237 236}{name: 2304}{hidetextbox: 0}I met my embarrassment quota{b}
+for the year,{wait: 8} that's for sure.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Well,{wait: 8} that's a good thing,{wait: 8}{b}
+isn't it?{nextpage_button}{person: 9 244 243}{name: 2304}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Um,{wait: 8} how?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+I mean,{wait: 8} think about it.{p}{person: 5 72 69}
+Now you don't have to be{b}
+embarrassed about anything{b}
+else all year!{nextpage_button}{name: 1024}
+...{wait: 16}If only it worked that way.{nextpage_button}{person: 9 239 238}{name: 2304}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+It just bugs me to think that{b}
+little kid outsmarted me.{nextpage_button}{person: 9 235 234}{name: 2304}
+And it makes him even more{b}
+suspicious now that we know{b}
+he can see!{nextpage_button}{person: 9 241 240}{speed: 3}
+He could have seen the air{b}
+duct,{wait: 8} and he could have shot{b}
+that revolver.{nextpage_button}{person: 5 76 75}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+But that's not how it sounded{b}
+in Lamiroir's testimony.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 237 236}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 4}
+You mean her saying she heard{b}
+Detective Daryan's voice at{b}
+the scene?{wait: 16} {person: 9 235 234}{speed: 4}Hmm{speed: 8}{0x5a}...{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{speed: 2}
+That's right!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 235 234}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 3}
+Why can't we have a normal,{wait: 8}{b}
+straightforward killing once{b}
+in a while in this country!?{nextpage_button}{person: 9 234 234}{name: 1024}{speed: 4}
+I'll pretend I didn't hear{b}
+that.{speed: 255}{nextpage_button}{0x51: 1 53}
+{34561}{1860}{0x10: 33159}{0x35: 34816 @RelativeAddress0}{0x35: 35072 @RelativeAddress1}{0x35: 35328 @RelativeAddress2}{jmp: 146}{endjmp}{endjmp}{@RelativeAddress0}{@RelativeAddress1}{@RelativeAddress2}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{27}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 9 239 238}{name: 2304}{hidetextbox: 0}{speed: 3}Was that true what you said{b}
+in court today?{p}{name: 2304}
+You know,{wait: 8} about the case{speed: 8}...{p}{person: 9 250 249}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+About how everything was{b}
+happening according to{b}
+those{wait: 6} song{wait: 6} lyrics?{nextpage_button}{name: 1024}{speed: 8}
+...{wait: 16}{speed: 3}"The Guitar's Serenade",{b}
+you mean?{nextpage_button}{person: 5 74 73}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+I found the link,{wait: 8} you know!{nextpage_button}{hidetextbox: 1}{fademusic: 60}{bgcolor: 514 1 31}{wait: 15}{bg: 196}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{fademusic: 0}{music: 42 60}{wait: 60}{name: 1280}{hidetextbox: 0}{speed: 3}
+First,{wait: 8} Prosecutor Gavin's{b}{color: 1}
+heart{color: 0}-shaped {color: 1}key{color: 0} ring was{b}
+stolen.{nextpage_button}{name: 1280}
+Then Lamiroir {color: 1}flew{color: 0} through{b}
+the air.{p}{hidetextbox: 1}{wait: 1}{0x1d: 260}{0x4c}{wait: 60}{hidetextbox: 0}
+Then Prosecutor Gavin's{b}
+guitar caught on {color: 1}fire{color: 0}.{nextpage_button}{name: 1280}{speed: 3}
+And in the end,{wait: 4} a {color: 1}bullet{color: 0} took{b}
+Mr. LeTouse's life...{p}
+And he went up into the {color: 1}sky{color: 0}{b}
+with a guitar{wait: 5}{speed: 8}...{wait: 30} {speed: 3}Well,{wait: 12} thirty{b}
+feet up,{wait: 8} at least.{nextpage_button}{hidetextbox: 1}{wait: 40}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 272}{person: 9 250 249}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 2304}{hidetextbox: 0}{0x59}{speed: 4}
+It is kind of hard to chalk it{b}
+up to coincidence,{wait: 8} hmm.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I know!{wait_noanim: 30}{b}{person: 5 68 67}{0x59}{speed: 3}
+And I found it.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 4}
+You think the same person{b}
+did all of this?{nextpage_button}{name: 1024}
+Don't ask me.{wait: 16} I didn't do it.{nextpage_button}{person: 9 239 238}{name: 2304}{speed: 3}
+Neither did I!{wait: 20} I couldn't fit{b}
+through that air vent anyway.{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+What{speed: 8}{0x5a}...{wait: 20}{0x59} {person: 5 96 95}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}You all think I did{b}
+it!?{fademusic: 0}{music: 41 0}{nextpage_button}{name: 1024}{speed: 3}{color: 2}
+(Sometimes I worry about{b}
+that girl.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{0x51: 1 53}
+{34817}{2208}{0x10: 33160}{0x35: 34560 @RelativeAddress3}{0x35: 35072 @RelativeAddress4}{0x35: 35328 @RelativeAddress5}{jmp: 146}{endjmp}{endjmp}{@RelativeAddress3}{@RelativeAddress4}{@RelativeAddress5}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{28}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{hidetextbox: 0}{0x5a}...{wait: 16}{0x59}So what did you find?{nextpage_button}{person: 9 239 238}{name: 2304}{bgcolor: 2305 8 31}
+It's so little I must have{b}
+passed over it yesterday.{nextpage_button}{person: 9 239 238}{showphoto: 131}
+I found it under the sofa.{nextpage_button}{person: 5 68 67}{name: 1280}{bgcolor: 2305 8 31}{0x5a}
+...{wait: 16}{0x59}What is it?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 250 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+Part of some device,{wait: 8} I think.{wait: 16}{b}
+I haven't a clue what.{p}{showphoto: 387}
+The bit sticking out from{b}
+the end looked familiar,{wait: 12} so{b}
+I had it examined.{nextpage_button}{person: 9 241 240}{bgcolor: 2305 8 31}{sound: 52 1}
+Turns out it's an antenna.{nextpage_button}{person: 5 82 81}{name: 1280}{speed: 5}
+Ooh,{wait: 8} like on a beetle?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 248 247}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{speed: 3}
+Like on a cell phone.{wait: 20} This{b}
+device must use an electronic{b}
+signal of some sort.{nextpage_button}{person: 5 76 75}{name: 1280}{bgcolor: 2305 8 31}{sound: 52 1}{speed: 4}
+An {color: 1}electronic signal{color: 0},{wait: 12} you say?{0x5a}{wait: 35}{0x59}{b}{speed: 4}
+Hmm{speed: 8}{0x5a}...{nextpage_button}{speed: 255}{bganim: 98 579}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{0x51: 1 53}
+{35073}{1244}{0x10: 33161}{0x35: 34560 @RelativeAddress6}{0x35: 34816 @RelativeAddress7}{0x35: 35328 @RelativeAddress8}{jmp: 146}{endjmp}{endjmp}{@RelativeAddress6}{@RelativeAddress7}{@RelativeAddress8}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{29}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 9 237 236}{name: 2304}{hidetextbox: 0}{speed: 3}{0x5a}...{wait: 16}{0x59}{speed: 2}What are you trying to do,{wait: 8}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+burn me alive!?{nextpage_button}{person: 9 236 236}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+C'mon,{wait: 10} it was just a few{b}
+sparks.{p}{person: 9 235 234}{name: 2304}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Says you!{wait: 16} You weren't the{b}
+one holding it!{nextpage_button}{person: 5 72 69}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+There's enough sparks flying{b}
+around here just with you{b}
+two talking.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 236 236}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 4}
+Anyway...{nextpage_button}{showphoto: 128}{speed: 3}
+Now we know this is a remote{b}
+for an igniter.{nextpage_button}{person: 9 235 234}{name: 2304}{showphoto: 384}
+Let me see that for a second.{nextpage_button}{fademusic: 60}{speed: 8}
+......{nextpage_button}{hidetextbox: 1}{person: 9 245 245}{wait: 20}{person: 9 248 247}{0x5a}{wait: 30}{hidetextbox: 0}{name: 1024}{speed: 4}
+Well?{nextpage_button}{person: 9 248 247}{name: 2304}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Well,{wait: 8} this is definitely{b}
+a little {color: 1}transmitter{color: 0}.{p}
+The signal's weak,{wait: 8} probably{b}
+only reaches thirty feet.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}
+A transmitter, huh...{nextpage_button}{bganim: 98 579}{0x51: 1 53}
+{35329}{1340}{0x19: 16513 16514}{name: 0}{color: 2}{speed: 4}Remote Trigger updated in the{b}
+Court Record.{nextpage_button}{speed: 255}{color: 0}{fademusic: 0}{music: 4 0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 248 247}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+Incidentally,{wait: 8} if you look at{b}
+a cross-section diagram of{b}
+the stage area...{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 97}{person: 0 0 0}{littlesprite: 3329}{littlesprite: 3073}{littlesprite: 3585}{bgcolor: 258 1 31}{wait: 15}{wait: 60}{littlesprite: 2817}{0x3c: 2817}{wait: 60}{name: 2304}{hidetextbox: 0}{speed: 4}
+...{wait: 18}Let's see,{wait: 8} thirty feet{b}
+from Lamiroir's dressing{b}
+room...{p}{0x3c: 2816}{littlesprite: 2816}{hidetextbox: 1}{littlesprite: 13057}{0x3a: 51 124 120}{0x3c: 13057}{wait: 60}{hidetextbox: 0}
+...That covers the backstage{b}
+completely.{p}{speed: 3}
+It also looks like it would{b}
+cover the stage.{nextpage_button}{hidetextbox: 1}{0x3c: 13056}{littlesprite: 13056}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 514}{bg: 272}{person: 9 247 247}{fademusic: 60}{bgcolor: 258 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{color: 2}
+(It kind of seems unlikely{b}
+anyone would use this on{b}
+stage{speed: 8}...){color: 0}{nextpage_button}{0x35: 35329 @RelativeAddress9}{newevidence: 16518}{name: 0}{color: 2}{speed: 4}
+Forum Diagram added to the{b}
+Court Record.{nextpage_button}{speed: 255}{color: 0}{0x10: 33162}{0x35: 34560 @RelativeAddress10}{0x35: 34816 @RelativeAddress11}{0x35: 35072 @RelativeAddress12}{jmp: 146}{endjmp}{endjmp}{@RelativeAddress9}{@RelativeAddress10}{@RelativeAddress11}{@RelativeAddress12}{fademusic: 0}{music: 41 100}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{30}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{0x51: 1 53}{35072}{person: 44 159 13}{endjmp}{person: 9 232 232}{name: 1024}{showphoto: 128}{speed: 4}Do you think you could take{b}
+a look at this?{nextpage_button}{hidetextbox: 1}{person: 9 245 245}{wait: 20}{person: 9 248 247}{0x5a}{wait: 30}{hidetextbox: 0}{name: 2304}{0x59}{speed: 3}
+Hmm.{wait: 20} A small device{0x5a}...{wait: 20}{0x59} {speed: 3}Looks{b}
+like a transmitter.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}
+A transmitter?{nextpage_button}{person: 9 248 247}{name: 2304}{showphoto: 384}{speed: 3}
+You press this switch here{b}
+and it sends out a signal.{p}
+No idea what it's for,{wait: 8} though.{nextpage_button}{hidetextbox: 1}{removephoto}{0x8e: 9 254}{0x8f: 257}{0x63}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{31}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{0x51: 1 53}{35584}{person: 44 160 13}{endjmp}{person: 9 232 232}{name: 1024}{showphoto: 128}{speed: 4}Do you think you could take{b}
+a look at this?{nextpage_button}{hidetextbox: 1}{person: 9 245 245}{wait: 20}{person: 9 248 247}{0x5a}{wait: 30}{hidetextbox: 0}{name: 2304}{0x59}
+Hmm.{wait: 20} A small device{speed: 8}{0x5a}...{wait: 20}{0x59} {speed: 3}Looks{b}
+like a transmitter.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}
+A transmitter?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 248 247}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{showphoto: 384}{name: 2304}{speed: 3}
+You press this switch here{b}
+and it sends out a signal.{p}
+No idea what it's for,{wait: 8} though.{nextpage_button}{name: 1024}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+A signal{speed: 5}...{wait: 16} {speed: 3}You mean an{b}
+electronic signal?{nextpage_button}{person: 5 68 67}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}
+What is it,{wait: 12} Apollo?{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 249 249}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 5}
+Say,{wait: 8} Ema...{p}{speed: 3}
+You know that{wait: 6} "strange{b}
+object"{wait: 10} you said you found?{nextpage_button}{person: 9 239 238}{name: 2304}{showphoto: 131}
+Oh,{wait: 10} this?{nextpage_button}{person: 9 232 232}{name: 1024}{showphoto: 384}{fademusic: 60}{speed: 5}
+Let me try pressing this{b}
+switch...{nextpage_button}{hidetextbox: 1}{wait: 30}{sound: 178 1}{bganim: 98 579}{shake: 30 0}{bgcolor: 2305 8 31}{wait: 80}{name: 2304}{hidetextbox: 0}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait_noanim: 20}{nextpage_button}{showphoto: 152}{person: 9 242 242}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{shake: 30 1}{speed: 2}
+Yee{bgcolor: 2305 8 31}eeee{bgcolor: 2305 8 31}eeee{bgcolor: 2305 8 31}oooo{bgcolor: 2305 8 31}oooo{bgcolor: 2305 8 31}oouch!{wait: 30}{nextpage_nobutton}{person: 5 77 81}{0x8f: 78}{0x8f: 79}{0x8f: 80}{name: 1280}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+I-{wait: 8}I-{wait: 8}It's on fire!{0x63}{wait: 16} {sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{person: 5 96 95}Ema's{b}
+device is on fire!{nextpage_button}{name: 2304}{person: 9 235 234}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+What's the big idea!?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{sound: 53 1}{bgcolor: 2305 8 31}{shake: 30 1}{bg: 4095}{person: 0 0 0}{name: 1024}{hidetextbox: 0}{speed: 2}
+...{bgcolor: 2305 8 31}Ack!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 272}{person: 9 252 251}{0x5a}{fademusic: 0}{music: 41 100}{bgcolor: 260 1 31}{wait: 25}{name: 2304}{hidetextbox: 0}{0x59}{showphoto: 131}{speed: 5}
+Well,{wait: 12} {speed: 3}now we know what this{wait: 16}{b}
+is: an igniter.{nextpage_button}{0x19: 128 129}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+This part here must work{b}
+like a lighter!{nextpage_button}{person: 9 235 234}{name: 2304}{bganim: 98 579}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+It nearly lit me up,{wait: 6} that's{b}
+for sure!{nextpage_button}{name: 1024}{speed: 3}
+Hey,{wait: 8} don't look at me like{b}
+that.{wait: 18} I didn't do it on{b}
+purpose!{nextpage_button}{person: 9 237 236}{name: 2304}{speed: 5}
+I suppose.{wait: 16} At least,{wait: 8} we're{b}
+getting somewhere with this{b}
+case.{nextpage_button}{person: 5 72 69}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Hey,{wait: 8} Apollo!{nextpage_button}{person: 5 76 75}{speed: 4}
+Let's ask Ema more about{b}{showphoto: 128}
+this switch!{nextpage_button}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Now that she has some{b}
+first-hand experience.{nextpage_button}{removephoto}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 232 232}{0x10: 33163}{0x37: 10 0}{0x37: 11 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{32}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 9 235 234}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}What!{wait: 16} {speed: 3}You aren't trying to{b}
+burn me up again, are you?{p}{person: 9 241 240}
+Who sent you to get me?{wait: 16} Who?{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+I'm not out to get you,{wait: 8}{b}
+promise.{nextpage_button}{person: 9 235 234}{name: 2304}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Promise!?{wait: 20} No promise is good{b}
+enough with you still{b}
+carrying that weapon around!{p}{name: 2304}{speed: 3}
+Try burning me again with{b}
+that trigger of yours...{nextpage_button}{person: 9 253 253}{shake: 30 0}
+...and{sound: 182 1} I'll{sound: 182 1} throw {shake: 30 0}100 bags{sound: 182 1}{b}
+worth {sound: 182 1}of Snackoos{shake: 30 0}{sound: 182 1} at you!{nextpage_button}{name: 1024}{color: 2}
+({sound: 182 1}I've never{shake: 30 0}{sound: 182 1} seen someone{sound: 182 1}{b}
+munch so{sound: 182 1} furiously.{wait: 20}{shake: 30 1}{sound: 182 1} Better{b}
+stay{sound: 182 1} clear for{shake: 30 0}{sound: 182 1} a while.){color: 0}{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{33}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 9 233 232}{name: 2304}{showphoto: 7}You know,{wait: 8} you're a bit like{b}
+Mr. Wright.{p}
+He always carried his badge{b}
+around, too.{nextpage_button}{person: 9 232 232}{name: 1024}{speed: 5}
+Huh?{nextpage_button}{person: 9 250 249}{name: 2304}{speed: 4}
+I think he did it so he'd{b}
+never forget who he was,{wait: 8} or{b}
+his duty as a defender.{p}{bganim: 98 579}{person: 9 246 245}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Something like that.{wait: 16} Pretty{b}
+noble,{wait: 8} really.{nextpage_button}{person: 9 245 245}{name: 1024}{color: 2}
+(I guess there really isn't{b}
+a need for me to carry this{b}
+around.){p}
+(Though it seems to have made{b}
+a decent impression{speed: 8}...){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{34}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 9 250 249}{name: 2304}Why did they have to commit{b}
+their crime according to the{b}
+song?{p}
+Seems like it'd be more{b}
+trouble than it's worth.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+Maybe they were trying to{b}
+throw off the investigation?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 233 232}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}
+That's certainly possible.{wait: 16}{b}
+But risky,{wait: 8} don't you think?{p}{person: 9 251 251}{sound: 182 1}
+Just carrying {sound: 182 1}someone as{b}{sound: 182 1}
+big as Mr. LeTouse would{sound: 182 1} be{b}
+tough enough.{p}{name: 1024}{color: 2}{sound: 182 1}
+(She may be a {sound: 182 1}snacking fiend,{wait: 8}{b}
+but sometimes,{wait: 8}{sound: 182 1} she actually{b}
+makes{sound: 182 1} some sense.){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{35}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{person: 9 233 232}{name: 2304}{showphoto: 123}That's an Interpol-issue{b}
+revolver,{wait: 8} right?{nextpage_button}{name: 1024}
+Which means it belonged to{b}
+Mr. LeTouse.{wait: 12} He must have{b}
+had it to begin with.{nextpage_button}{person: 9 250 249}{name: 2304}
+Sounds that way.{nextpage_button}{name: 1024}
+So,{wait: 8} if it was Machi...{p}{person: 9 234 234}{sound: 52 1}{bgcolor: 2305 8 31}
+Are we saying Machi stole it{b}
+from Mr. LeTouse...?{nextpage_button}{person: 9 251 251}{name: 2304}{speed: 8}
+......{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Now that's really hard to{b}
+imagine him doing...){color: 0}{nextpage_button}{removephoto}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{36}}
+{bop}{wait: 1}{0x1d: 8}{0x4c}{name: 1024}Do you think you could take{b}
+a look at this,{wait: 8} Ema?{nextpage_button}{person: 9 251 251}{name: 2304}{shake: 30 0}{speed: 3}
+...{sound: 182 1}{color: 3}MUNCH{shake: 30 0}{wait: 8}{sound: 183 1} MUNCH{wait: 8}{sound: 182 1} MUNCH{color: 0}{shake: 30 0}{wait: 5}{sound: 182 1}...{nextpage_button}{name: 1024}{speed: 4}
+Ema...?{nextpage_button}{person: 9 253 253}{name: 2304}{shake: 30 1}{speed: 2}
+...{sound: 182 1}{color: 3}MUNCH{shake: 30 1}{wait: 8}{sound: 183 1} MUNCH{wait: 8}{sound: 182 1} MUNCH{color: 0}{shake: 30 1}{wait: 5}{sound: 182 1}...{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(Her rate of chewing is{b}
+increasing...){nextpage_button}{speed: 3}
+(Better back off before it's{b}
+too late!){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}

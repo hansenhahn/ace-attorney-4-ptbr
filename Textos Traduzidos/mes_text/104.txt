@@ -1,0 +1,69 @@
+
+
+{{0}}
+{bop}{hidetextbox: 0}{0x76: 0 16}{name: 2304}You set the sample in the{b}
+device like so...{p}{name: 1024}
+...{wait: 20}I don't see anything.{p}{0x76: 0 17}{name: 2304}
+Patience.{wait: 10} There's no need to{b}
+get all antsy.{p}{0x76: 0 16}
+Look at the right side of the{b}
+screen.{wait: 10} That's the "layer{b}
+view" of the envelope.{p}{0x76: 1 3}{name: 1280}
+Layer view...?{p}{0x76: 0 16}{name: 2304}
+You've got it set to display{b}
+the outside of the envelope{b}
+now, see?{p}{0x76: 0 19}
+Actually,{wait: 30} it's quicker to{b}
+just have you give it a try.{p}{0x76: 0 16}
+Turn that dial there for{b}
+me, would you?{p}{0x76: 2 0}{hidetextbox: 1}{0x74: 8 86}{wait: 10}{hidetextbox: 0}{0x76: 0 16}{name: 2304}
+That's right.{wait: 10} That's how you{b}
+choose what "depth" you want{b}
+to scan.{p}{0x76: 1 2}{name: 1280}{bgcolor: 2305 8 31}
+Hey!{wait: 15} I got something!{p}{0x76: 0 16}{name: 2304}
+See?{wait: 10} That's how you can read{b}
+the letters on the ticket{b}
+inside.{p}{0x76: 0 17}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Cool, huh?{p}{name: 1024}
+Except...{wait: 30} I can't read them.{p}{0x76: 0 16}{name: 2304}
+Just turn the dial a little{b}
+more.{p}{0x76: 2 0}{hidetextbox: 1}{0x74: 8 86}{wait: 10}{hidetextbox: 0}{0x76: 0 17}{name: 2304}
+What you have to understand{b}
+is that a sheet of paper{b}
+isn't really flat at all.{p}
+When you zoom in that much,{wait: 10}{b}
+you see that paper is like{b}
+a bunch of hills and valleys.{p}{0x76: 1 2}{name: 1280}
+Wow!{wait: 10} Really?{p}{0x76: 0 17}{name: 2304}
+This x-{wait: 10}ray device uses a{b}
+beam with a wavelength of{b}
+only 0.05 microns!{p}
+It breaks cards down into thin{b}
+layers, so it can only show{b}
+what's written on that layer.{p}{name: 1024}
+I'm not entirely following{b}
+you,{wait: 10} but what good is it if{b}
+you can't read anything?{p}{0x76: 0 17}{name: 2304}
+That's why we go on to{b}
+step two!{p}{0x76: 0 16}{name: 2304}
+Try rubbing the image a bit,{wait: 10}{b}
+if you would.{p}{0x76: 1 3}{name: 1280}{speed: 5}
+"The image"?{wait: 6} {speed: 3}You mean rub{b}
+the screen?{p}{0x76: 2 0}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{hidetextbox: 0}{0x76: 0 16}{name: 2304}There.{wait: 10} That fixes the image{b}
+on the screen.{p}
+Now,{wait: 10} turn the dial again,{wait: 10}{b}
+just a little.{p}{hidetextbox: 1}{0x74: 8 86}{wait: 10}{hidetextbox: 0}{0x76: 0 16}{name: 2304}
+Good.{wait: 10} Now you can rub this{b}
+image to "fix" it, too.{p}{0x76: 1 1}{name: 1280}{bgcolor: 2305 8 31}
+Hey,{wait: 15} I get it!{p}
+We just keep doing this until{b}
+we've got the whole thing!{p}{0x76: 0 16}{name: 2304}
+Exactly!{wait: 10} Not bad!{p}{0x76: 1 5}{name: 1280}
+Neat!{wait: 10} Let's do some more!{p}{0x76: 2 0}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{0x10: 33292}{wait: 60}{hidetextbox: 0}{0x76: 0 16}{name: 2304}OK,{wait: 10} let's print this{b}
+one out.{nextpage_button}{0x6b: 2 1 31}{bganim: 98 626}{0x76: 2 0}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}

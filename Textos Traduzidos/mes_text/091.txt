@@ -1,0 +1,13 @@
+
+
+{{0}}
+{bop}{0x62: 4 4}{0x25: 1}{bg: 4095}{person: 0 0 0}{fademusic: 0}{music: 30 100}{hidetextbox: 1}{bgcolor: 2049 0 31}{wait: 1}{bganim: 0 8192}{0x26: 1}{wait: 10}{bg: 4095}{animation: 314 1}{wait: 8}{person: 7 186 185}{0x5a}{bgcolor: 1796 1 31}{wait: 25}{bganim: 0 4096}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 80}{hidetextbox: 0}{0x59}{speed: 4}...Welcome to court.{p}
+Seven years{0x5a}...{0x59}{speed: 3} all leading{0x5a}{b}
+to one verdict.{nextpage_button}{person: 7 188 187}
+A verdict which you must{b}
+decide.{p}{person: 7 186 185}{speed: 4}
+Is the defendant,{wait: 8} Vera Misham,{wait: 8}{b}{color: 1}
+innocent{color: 0}{wait: 5}{speed: 8}{0x5a}...{0x59} or {color: 1}guilty{color: 0}?{p}{person: 7 188 187}{speed: 3}
+The courtroom doors are{b}
+opening... the trial awaits.{nextpage_button}{person: 7 178 177}{speed: 4}
+Are you ready to begin?{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 2561 8 31}{wait: 1}{person: 0 0 0}{hidetextbox: 0}{hidetextbox: 1}{wait: 60}{fademusic: 120}{bgcolor: 516 1 31}{wait: 25}{wait: 120}{savegame}{bop}{special_jmp}{endjmp}

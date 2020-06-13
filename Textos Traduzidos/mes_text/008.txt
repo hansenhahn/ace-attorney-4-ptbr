@@ -1,0 +1,193 @@
+
+
+{{0}}
+{bop}{0x6b: 0 1 0}{bganim: 98 513}{0x62: 3 2}{0x74: 2 0}{person: 0 0 0}{0x26: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}July 9,{wait: 8} 10:00 AM{b}
+District Court{b}
+Courtroom No. 3{color: 0}{nextpage_button}{center_text: 0}{hidetextbox: 1}{wait: 30}{speed: 255}{wait: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 0}{fademusic: 0}{music: 1 0}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+Court is now in session for{speed: 6}{0x5a}...{wait_noanim: 30}{b}{person: 10 265 264}{0x59}{speed: 4}
+how do I{shake: 30 0} say that?{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}
+"Machi Tobaye",{speed: 3} Your Honor.{b}
+The Pixie of the Arpeggio.{nextpage_button}{bg: 29}{name: 2560}{person: 10 260 260}{speed: 3}
+Right,{wait: 5} his trial.{wait: 16} Court is in{0x63}{b}{person: 10 259 258}
+session!{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 3}
+The defense is ready,{wait: 8} Your{b}
+Honor.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{bg: 26}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 3}
+The prosecution is A-OK,{wait: 8}{b}
+Herr Judge.{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 4}
+Hmm{speed: 6}...{wait: 16}{b}{person: 10 263 262}{speed: 3}
+Very well,{wait: 8} Prosecutor Gavin.{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}
+Ah,{wait: 12} {speed: 3}my opening statement,{wait: 8} ja?{nextpage_button}{bg: 29}{name: 2560}{person: 10 261 261}{speed: 3}
+No,{wait: 8} no,{wait: 8} actually...{wait: 16} There was{0x63}{b}{person: 10 263 262}
+something else I wanted to{b}
+ask you about.{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{0x5a}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...?{0x59}{wait: 16} {speed: 4}Yes?{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 3}
+Say you're going to visit{b}
+someone in the hospital with{b}
+an incurable disease{speed: 6}{0x5a}...{p}{person: 10 263 262}{bgcolor: 2305 8 31}{speed: 3}
+What do you say to them?{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}{wait: 8}
+Eh?{wait: 8}{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 4}
+I mean,{wait: 8} you wouldn't say{wait: 8}{b}{0x59}
+"get well soon",{wait: 8} right?{nextpage_button}{person: 10 266 266}{speed: 3}
+You'd only be kicking them{b}
+when they're down...{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Um,{wait_noanim: 18} {person: 4 62 61}{animation: 149 1}what are you talking{b}
+about?{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+Ahem,{wait: 8} actually I'm going to{b}
+visit someone who is{b}
+terminally ill.{p}{speed: 5}
+...{wait: 10}{speed: 4}Right after this trial.{wait_noanim: 16}{b}{person: 10 266 266}
+The Chief Justice's son.{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+The Chief Justice{speed: 6}{0x5a}...{0x59}{speed: 4}?{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+His son is afflicted with a{b}
+most terrible disease...{nextpage_button}{person: 10 263 262}{speed: 3}
+He doesn't have {bgcolor: 2305 8 31}long,{wait: 12} {speed: 5}it{b}
+seems.{nextpage_button}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{speed: 4}
+Ah{speed: 6}...{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 3}
+So I thought I'd go pay him{b}
+a visit.{nextpage_button}{person: 10 263 262}{speed: 3}
+I thought saying something{b}
+moving might be the order of{b}
+the day.{nextpage_button}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 3}
+Why don't grown-ups ever just{b}
+say what's on their mind{b}
+instead of pretending?{nextpage_button}{name: 1024}{person: 5 102 102}{color: 2}
+(She's looking at me with{b}
+something like{speed: 6}...{wait: 20}{speed: 3} disgust.){wait: 40}{color: 0}{nextpage_nobutton}{speed: 6}
+...{wait: 15}{speed: 2}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}Hey!{wait: 12} What are you looking{b}
+at me like that for!?{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+In any case...{p}
+I'm a bit busy today,{wait: 8} so let's{b}
+wrap this up quickly.{p}{person: 10 263 262}{speed: 3}
+Prosecutor Gavin,{wait: 12} your opening{b}
+statement,{wait: 8} {bgcolor: 2305 8 31}{shake: 30 0}briefly!{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{0x5a}{wait: 12}{0x59}{speed: 4}
+You're in luck,{wait: 12} Herr Judge{speed: 6}...{p}{person: 6 149 148}{speed: 3}
+I believe you'll be going on{b}
+your hospital visit sooner{b}
+than you think.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{bg: 25}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+...!{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}
+First,{wait: 8} to review the victim{b}
+in this case.{nextpage_button}{person: 6 151 150}{showphoto: 104}
+Romein LeTouse,{wait: 8}{speed: 4} age 35.{p}{speed: 3}
+The global manager for diva{b}
+songstress,{wait: 8} Lamiroir.{p}
+The cause of death: blood loss{b}
+due to being shot by a {color: 1}large{b}
+caliber revolver{color: 0}.{p}{bganim: 98 579}{showphoto: 65}
+This report has all the{b}
+details.{nextpage_button}{bg: 29}{name: 2560}{person: 10 260 260}{speed: 3}
+The court accepts this into{b}
+evidence.{nextpage_button}{bganim: 98 579}{newevidence: 16529}{name: 0}{color: 2}{speed: 4}
+LeTouse's Autopsy Report added{b}
+to the Court Record.{nextpage_button}{speed: 255}{color: 0}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 4}
+45-caliber{speed: 6}{0x5a}...{wait: 16} {speed: 3}That's quite{b}{person: 10 263 262}
+large,{wait: 8} isn't it?{p}
+A direct hit from that could{b}
+knock a man off his feet.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 138}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{wait: 100}{name: 13568}{hidetextbox: 0}{speed: 3}
+However,{wait: 12} the bullet struck him{b}
+in his shoulder.{p}
+The damage to the body was{b}
+slight{speed: 8}...{wait: 16} {speed: 3}death was not{b}
+immediate.{p}{bg: 26}{person: 6 151 150}{speed: 3}
+Sadly,{wait: 8} his blood loss was such{b}
+that he could not be saved.{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 4}
+Hmm...{wait: 16} {speed: 3}I suppose the victim's{b}{person: 10 263 262}
+condition could have been{b}
+much worse,{wait: 8} considering.{nextpage_button}{newevidence: 16530}{name: 0}{color: 2}{speed: 4}
+Crime Photo added to the{b}
+Court Record.{nextpage_button}{speed: 255}{color: 0}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}{0x5a}
+...{0x59}{bgcolor: 2305 8 31}Two shots were fired.{p}{speed: 3}
+One shot missed,{wait: 8} the other{b}
+penetrated and passed through{b}
+the victim's shoulder.{p}{speed: 4}
+Both bullets were found in{b}
+the wall at the scene.{wait: 16}{b}{person: 6 146 145}{showphoto: 148}
+Observe the diagram{0x5a}...{0x59}{p}{bganim: 98 579}{hidetextbox: 1}{bg: 91}{person: 0 0 0}{littlesprite: 5121}{littlesprite: 4609}{0x3c: 4609}{wait: 80}{0x3c: 4608}{hidetextbox: 0}{speed: 4}
+...{wait: 16}This is where the bullets{b}
+hit.{nextpage_button}{bganim: 98 514}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 4}
+I see{speed: 8}...{wait: 18} {speed: 3}The court accepts{b}{person: 10 259 258}
+this evidence.{nextpage_button}{newevidence: 16532}{name: 0}{color: 2}{speed: 4}
+Diagram added to the Court{b}
+Record.{nextpage_button}{speed: 255}{color: 0}{bg: 29}{name: 2560}{person: 10 263 262}{showphoto: 123}{speed: 3}
+If we're talking about a{b}
+45-caliber revolver{speed: 6}{0x5a}...{wait: 20}{0x59}{p}
+...{wait: 10}{speed: 3}we must assume that the{b}
+killer was adept at the{b}
+weapon's use.{nextpage_button}{bg: 28}{name: 1280}{person: 5 105 104}
+Really?{nextpage_button}{name: 1024}{person: 5 104 104}
+Yeah,{wait: 8} apparently,{wait: 8} weapons that{b}
+size have a powerful kickback.{p}{speed: 3}
+If,{wait: 8} say,{wait: 8} the judge tried to{b}
+fire one,{wait: 8} it'd break every{b}
+bone in his body.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+The defense will take more{b}
+care in choosing examples!{nextpage_button}{bganim: 98 579}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}{0x5a}
+...{wait: 12}{0x59}{speed: 3}As I was saying,{wait: 8} the victim{b}
+was shot backstage,{wait: 8} in a{b}
+dressing room.{nextpage_button}{hidetextbox: 1}{bg: 91}{person: 0 0 0}{littlesprite: 5121}{wait: 60}{name: 13568}{hidetextbox: 0}{speed: 3}
+This dressing room has only{b}{littlesprite: 14081}{0x3c: 14081}{0x3c: 14081}{speed: 4}
+one entrance: this door.{p}{0x3c: 14080}{bganim: 98 514}{bg: 29}{name: 2560}{person: 10 260 260}{hidetextbox: 0}{speed: 3}
+That does seem to be the case,{b}
+yes.{0x63}{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 3}
+However,{wait: 8} there were witnesses{b}{wait_noanim: 15}{0x59}
+who heard the gunshots.{nextpage_button}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 3}
+He's talking about you and{b}
+Ema, huh.{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+Yet when the witnesses entered{b}
+the room{speed: 6}{0x5a}...{p}{speed: 4}
+...it was empty,{wait: 8} {person: 6 149 148}save for{b}
+the victim's body,{wait: 8} of course.{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 4}
+B-{wait: 15}{speed: 2}{shake: 30 0}{bgcolor: 2305 8 31}But that's{speed: 6}{0x5a}...{wait: 20}{nextpage_nobutton}{person: 10 265 264}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+That's {color: 1}impossible{color: 0}!{nextpage_button}{bg: 26}{name: 13568}{fademusic: 45}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{speed: 3}
+Exactly.{wait: 15} {speed: 4}This murder was{wait: 8}{b}{color: 1}
+impossible{color: 0}.{nextpage_button}{person: 6 149 148}{0x5a}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 18 0}{speed: 4}
+...{wait: 20}{0x59}For all but one person.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 4}
+One person?{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}
+That is,{wait: 8} of course{speed: 6}{0x5a}...{nextpage_button}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}
+...{speed: 2}the defendant,{wait: 10} Machi{b}
+Tobaye.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Only this defendant could{b}
+have committed the crime?{p}
+But how?{nextpage_button}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 4}
+It's quite simple.{wait: 15} {speed: 3}The{b}
+circumstances of the crime{b}
+scene make it clear.{nextpage_button}{fademusic: 45}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 260 260}{hidetextbox: 0}{speed: 3}
+Very well,{wait: 8} I assume you have{0x63}{b}{person: 10 259 258}
+testimony to back up this{b}
+claim.{nextpage_button}{person: 10 263 262}
+Let the witness please take{b}
+the stand!{nextpage_button}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{endjmp}
+
+{{1}}
+{bop}{fademusic: 0}{music: 1 0}{bg: 27}{person: 9 232 232}{bgcolor: 260 1 31}{wait: 25}{wait: 60}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{bg: 26}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{speed: 3}Your name and profession,{wait: 6}{b}{0x59}
+please.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 9 236}{wait: 32}{bg: 27}{name: 2304}{person: 9 237 236}{hidetextbox: 0}{speed: 3}
+Ema Skye,{wait: 12} I'm a detective for{b}
+the police department.{p}
+I was on security detail at{b}
+the concert forum that night.{nextpage_button}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 3}{color: 2}
+(Ema seems{speed: 6}...{wait: 15} tired,{wait: 8} somehow.){color: 0}{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 4}
+Hmm{speed: 6}...{wait: 16}{speed: 3} Security at the{b}{person: 10 263 262}
+concert,{wait: 8} you say?{nextpage_button}{bg: 27}{name: 2304}{person: 9 250 249}{speed: 3}
+Some security I was.{wait: 8} {person: 9 239 238}Couldn't{b}
+even stop a murder{speed: 8}{0x5a}...{nextpage_button}{person: 9 236 236}{speed: 8}
+......{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+Now,{wait: 12} don't blame{shake: 30 0} yourself!{wait: 10}{b}{speed: 3}
+Things like this happen!{p}{person: 10 263 262}{speed: 3}
+I've made even{bgcolor: 2305 8 31} bigger mistakes{b}
+in my career,{wait: 8} you know!{nextpage_button}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 3}{color: 2}
+(I'm sure that makes her{b}
+feel much better.){color: 0}{nextpage_button}{bg: 28}{name: 1280}{person: 5 99 98}{speed: 3}
+I want to hear about these{b}
+bigger mistakes!{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+In any case...{p}{speed: 3}
+Because you were on security{b}
+detail,{wait: 8} the crime was quickly{b}
+discovered.{p}{person: 6 149 148}{speed: 4}
+And,{wait: 6} we were able to identify{b}
+the killer.{nextpage_button}{bg: 27}{name: 2304}{person: 9 236 236}{speed: 8}
+......{nextpage_button}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 3}
+You may give the court your{b}
+testimony,{wait: 8} if you would.{p}{person: 6 157 156}{speed: 3}
+Describe the circumstances of{b}
+that day,{wait: 8} and your discovery{b}
+of the crime,{wait: 8} please.{nextpage_button}{bg: 27}{name: 2304}{person: 9 237 236}{speed: 4}{0x5a}
+...{wait: 20}{0x59}Alright.{nextpage_button}{hidetextbox: 1}{fademusic: 45}{testimony_animation: 1}{special_jmp}{endjmp}

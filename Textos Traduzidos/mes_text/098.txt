@@ -1,0 +1,153 @@
+
+
+{{0}}
+{bop}{person: 0 0 0}{name: 1024}What's a police recruitment{b}
+poster doing here?{nextpage_button}{sound: 52 1}{bgcolor: 2305 8 31}
+"Rock on{b}
+      ...with the police."{p}{hidetextbox: 1}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{name: 1280}{hidetextbox: 0}{name: 1280}{0x59}{speed: 4}
+Maybe they're trying to trick{b}
+kids into thinking the police{b}
+are some kind of band.{nextpage_button}{person: 5 75 75}{name: 1024}{speed: 3}
+But that's just silly.{wait: 16} Who'd{b}
+name a band the{wait: 4} "police"?{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{person: 0 0 0}{name: 1024}Someone drew the Gavinners's{b}
+mark in lipstick here.{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 5 72 69}{0x5a}{wait: 16}{name: 1280}{hidetextbox: 0}{0x59}
+Lipstick...{wait: 20} I'd like to wear{b}
+lipstick someday.{nextpage_button}{name: 1024}
+Oh?{wait: 14} You don't use lipstick{b}
+yet,{wait: 8} Trucy?{nextpage_button}{person: 5 76 75}{name: 1280}
+Daddy won't let me.{nextpage_button}{person: 5 68 67}{speed: 4}
+"Not until I learn to play{b}
+piano," he says.{nextpage_button}{name: 1024}
+You'll be waiting a long time{b}
+then,{wait: 8} I'm afraid.{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{person: 0 0 0}{name: 1024}Why is that plastic bowl of{b}
+stew sitting there?{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{hidetextbox: 0}
+I bet they use it for{b}
+interrogating bad guys...{nextpage_button}{person: 5 74 73}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+"'Fess up to what you did,{wait: 8} and{b}
+we'll let you eat that stew!"{nextpage_button}{person: 5 73 73}{name: 1024}
+That's just mean.{p}{name: 1280}{person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+It gets worse!{wait: 16} {speed: 3}See,{wait: 8} if the{b}
+bad guy confesses,{wait: 12} they say:{nextpage_button}{person: 5 74 73}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+"OK,{wait: 15} eat it{speed: 8}{0x5a}...{wait: 20}{0x59} {speed: 3}If you can!{wait: 30}{b}
+See,{wait: 8} it's made of plastic!"{nextpage_button}{person: 5 91 90}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+It's like,{wait: 8} you don't know{b}
+which ones are the real{bgcolor: 2305 8 31} bad{b}
+guys!{nextpage_button}{person: 5 90 90}{name: 1024}{speed: 3}
+I think you need to take a{b}
+deep breath,{wait: 8} Trucy.{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{name: 1024}It's a stack of Lamiroir's{b}
+postcards.{p}{speed: 4}
+There it is{speed: 8}...{wait: 16}{speed: 3} The "landscape{b}
+painter in sound"{speed: 8}...{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 5 84 83}{0x5a}{wait: 16}{name: 1280}{hidetextbox: 0}{0x59}{speed: 3}
+It must be hard to pretend{b}
+you can see when you can't.{nextpage_button}{person: 5 83 83}{name: 1024}
+Yet the way she sings so{b}
+effortlessly{speed: 8}...{wait: 20} {speed: 4}you'd think{b}
+she had life easy.{nextpage_button}{speed: 3}
+Some people are just{b}
+impressive like that.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+You know it!{p}{person: 5 96 95}{speed: 3}
+It just makes me think about{b}
+how much further I have to go!{nextpage_button}{name: 1024}{color: 2}
+(I hope we can solve this{b}
+quickly and not add to her{b}
+troubles...){color: 0}{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{name: 1024}The speaker here is the same{b}
+as the one in Lamiroir's room.{nextpage_button}
+I wonder if this one was{b}
+blaring as loud as hers.{nextpage_button}{0x38: 1}{person: 5 76 75}{name: 1280}{bgcolor: 2305 8 31}
+I don't see a volume control{b}
+anywhere in the room...{nextpage_button}{person: 5 72 69}
+My guess is they give all{b}
+the rooms equal treatment!{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 4}
+...{wait: 20}You mean equal punishment.{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{name: 1024}{speed: 3}A police uniform hangs on the{b}
+stand here.{p}{0x38: 1}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Ooh!{wait: 16} I want to try it on!{p}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+"Nothing to see here,{wait: 16} move{b}
+along."{nextpage_button}{person: 5 67 67}{name: 1024}{speed: 3}
+...It's OK, you don't have to{b}
+go that far to be "special".{p}
+I mean, you're not exactly{b}
+the type who's "just another{b}
+face in the crowd".{nextpage_button}{person: 5 69 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{person: 5 72 69}
+Really? You think so?{b}
+Hmm{speed: 8}{0x5a}...{0x59}{speed: 3} I guess you're right!{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 5}{color: 2}
+(...{wait: 16}{speed: 3}Now I feel like a meanie{b}
+for making that insinuation.){color: 0}{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{name: 1024}{speed: 3}Those are some pretty{b}
+heavy-duty gloves.{nextpage_button}
+Maybe they have to carry{b}
+around hot pots or something?{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{name: 1280}{hidetextbox: 0}{0x59}{name: 1280}
+They are a little thick.{p}
+I couldn't even stuff a{b}
+pigeon in those.{nextpage_button}{person: 5 75 75}{name: 1024}{speed: 7}
+......{nextpage_button}{speed: 3}
+That's exactly what I was{b}
+thinking.{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{name: 1024}This place is decorated like{b}
+a high-school dance.{nextpage_button}
+Though I think our decorations{b}
+were paper,{wait: 8} not...{wait: 20} chains.{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{name: 1280}{hidetextbox: 0}{0x59}
+The Gavinners are into chains.{wait: 12}{b}
+It's part of their image.{nextpage_button}{person: 5 67 67}{name: 1024}
+Huh,{wait: 8} no kidding.{nextpage_button}{person: 5 76 75}{name: 1280}
+Every since they used chains{b}
+on the cover art for "Gunna{b}
+Lock U Up".{nextpage_button}{name: 1024}{speed: 4}
+They're really into the whole{b}
+police thing,{wait: 8} aren't they.{nextpage_button}{person: 5 72 69}{name: 1280}{speed: 3}
+It'd be cooler if they turned{b}
+that red light on.{nextpage_button}{name: 1024}{speed: 8}
+...{wait: 4}{speed: 3}They don't have to turn{b}
+on the red light.{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{0x38: 1}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}That guitar!{wait: 12} {speed: 3}That's the{b}
+legendary AA-400!{wait: 16} The{b}
+"Red Badger".{nextpage_button}{person: 5 95 95}{name: 1024}
+I thought rock was supposed to{b}
+be rebellious,{wait: 8} not...{wait: 20} civic.{nextpage_button}{person: 5 74 73}{name: 1280}
+Every aspiring guitarist wants{b}
+one of these!{p}
+They even paint their own{b}
+guitars to look like it.{nextpage_button}{name: 1024}
+Ah,{wait: 8} the fickleness of youth.{nextpage_button}{person: 5 72 69}{name: 1280}
+You should dye your hair{b}
+"Badger Red",{wait: 8} too!{nextpage_button}{name: 1024}
+I like my hair the way it is,{wait: 8}{b}
+thank you very much.{nextpage_button}{person: 5 91 90}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Argh,{wait: 8} the stubbornness of age!{nextpage_button}{speed: 255}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{0x38: 1}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}Ooh!{wait: 16} A "Cruiser Guitar"!{wait: 16} They{b}
+sold those to commemorate five{b}
+years of the band.{nextpage_button}{name: 1024}
+Rocking it hard...{wait: 20} under the{b}
+speed limit.{nextpage_button}{person: 5 76 75}{name: 1280}
+There's a "Cruiser Bass",{wait: 12} and{b}
+a "Cruiser Drum Set",{wait: 10} and a{b}
+"Cruiser Keyboard"{speed: 8}{0x5a}...{p}{person: 5 68 67}
+...{speed: 3}Even a "Cruiser Whistle".{nextpage_button}{name: 1024}
+...I'm not so sure about that{b}
+last one.{p}{person: 5 74 73}{name: 1280}
+It's for blowing the whistle{b}
+on criminals!{nextpage_button}{name: 1024}
+...{wait: 10}I don't think that requires{b}
+an actual whistle,{wait: 8} Trucy.{nextpage_button}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}

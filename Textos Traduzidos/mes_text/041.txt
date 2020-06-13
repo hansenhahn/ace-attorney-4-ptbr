@@ -1,0 +1,392 @@
+
+
+{{0}}
+{bop}{0x6b: 0 1 0}{bganim: 98 513}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 34 746 746}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 46 11 2 93 1 1 3}{b}
+-- Lamiroir's Eyes --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{name: 8704}{person: 34 748 746}{speed: 4}
+I have no memory of the{b}
+"light".{nextpage_button}{person: 34 757 755}
+I debuted in a world of{b}
+darkness and sound{speed: 8}{0x5a}...{p}{speed: 4}
+My producer came up with my{b}
+PR line before he knew this.{nextpage_button}{person: 34 748 746}
+So,{wait: 8} silly as it may sound,{wait: 8}{b}
+I had to pretend I could see.{nextpage_button}{person: 34 753 751}{speed: 4}
+Everyone on my staff knew, of{b}
+course,{wait: 8} but no others.{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{name: 2560}{person: 10 262 262}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 4}
+But{speed: 8}...{wait: 18} {person: 10 263 262}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}this is a murder{b}
+trial!{p}{bg: 27}{name: 8704}{person: 34 762 760}{speed: 4}
+I apologize.{wait: 12} It was part of{b}
+my contract,{wait: 8} you see.{nextpage_button}{person: 34 748 746}
+I was to keep my blindness a{b}
+secret,{wait: 8} no matter what.{nextpage_button}{person: 34 753 751}{speed: 4}
+Music is everything for me.{wait: 18}{b}{speed: 4}
+I never imagined something{b}
+like this would{speed: 8}{0x5a}...{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+She told us the truth in the{b}
+beginning.{p}{speed: 4}
+When she said she "{bgcolor: 2305 8 31}{color: 1}saw{b}
+nothing{color: 0}".{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+Very well.{wait: 18} Does the defense{b}
+have anything to add?{nextpage_button}{bg: 25}{name: 1024}{person: 4 36 36}{speed: 8}
+......{wait: 40}{b}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+I'd like to cross-examine.{nextpage_button}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+But,{wait: 6} what is there left to{b}{shake: 30 0}
+ask!?{p}{name: 1024}{person: 5 102 102}{speed: 4}
+There was one thing in her{b}
+testimony that bothered me.{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+Perhaps it is best we let{b}
+you get it out of your system.{p}
+Someday you'll come to{b}
+understand{0x5a}...{nextpage_button}{person: 6 149 148}{bgcolor: 2305 8 31}{speed: 4}
+...{wait: 16}the importance of thinking{b}
+for yourself.{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+Very well.{wait: 10} The defense may{b}
+proceed.{p}{person: 10 266 266}{speed: 4}
+However{speed: 8}...{nextpage_button}{person: 10 263 262}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Be aware this court will not{b}
+tolerate any questions deemed{b}
+too stressful to the witness.{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 4}
+...OK.{wait_noanim: 30}{b}{person: 4 36 36}{speed: 4}{color: 2}
+(There was only one part that{b}
+bothered me{speed: 8}{0x5a}...){nextpage_button}{person: 4 58 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+(Just let me ask about that{b}
+and I'll be happy.){color: 0}{nextpage_button}{endjmp}
+
+{{1}}
+{bop}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 34 746 746}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 135}{center_text: 1}{speed: 2}{b}{color: 1}
+-- Lamiroir's Eyes --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 136 0}{lifebar: 46}{0x53}{name: 8704}{hidetextbox: 0}{person: 34 748 746}{color: 3}I have no memory of the{b}
+"light".{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 137 0}{lifebarset: 0 130}{lifebar: 48}{0x53}{name: 8704}{hidetextbox: 0}{person: 34 757 755}{color: 3}I debuted in a world of{b}
+darkness and sound...{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 138 0}{lifebarset: 0 131}{lifebar: 48}{0x53}{name: 8704}{hidetextbox: 0}{person: 34 757 755}{color: 3}My producer came up with my{b}
+PR line before he knew this.{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 132}{lifebar: 46}{0x53}{name: 8704}{hidetextbox: 0}{person: 34 748 746}{color: 3}So, silly as it may sound,{b}
+I had to pretend I could see.{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 133}{lifebar: 47}{0x53}{name: 8704}{hidetextbox: 0}{person: 34 753 751}{color: 3}Everyone on my staff knew, of{b}
+course, but no others.{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x74: 1 0}{0x6d: 0}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 58 58}{speed: 4}{color: 2}(I suppose that's her{b}
+confession,{wait: 8} of sorts.){p}{speed: 3}
+(There's just {bgcolor: 2305 8 31}one part that{b}
+bothers me{speed: 8}{0x5a}...{0x59}){p}{person: 4 40 40}{speed: 3}
+(...{wait: 20}And I'm going to get to{b}
+the bottom of it.){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 34 746 746}{name: 8704}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{8}}
+{bop}{0x74: 1 0}{0x6d: 0}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 3}So,{wait: 6} you don't know why you{b}
+went blind?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 34 751}{wait: 32}{bg: 27}{name: 8704}{person: 34 753 751}{hidetextbox: 0}{speed: 4}
+...I do not.{p}{person: 34 748 746}{speed: 4}
+I may have been born this way,{wait: 6}{b}
+in fact.{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}{0x5a}
+...{wait: 20}{0x59}It's fruitless to attempt{b}
+to pry into her past.{p}
+And,{wait: 8} I might add,{wait: 8} it's a{b}
+delicate subject.{p}{bg: 29}{name: 2560}{person: 10 260 260}{0x63}{person: 10 263 262}{speed: 3}
+I'm not sure we can reasonably{b}
+expect Mr. Justice to do{b}
+anything delicately.{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}{color: 2}
+(Hey!{wait: 18} Why I oughta...{wait: 18} {person: 4 40 40}{speed: 4}take{b}
+a deep breath and calm down.){color: 0}{p}{bg: 27}{name: 8704}{person: 34 757 755}{speed: 4}
+What I am now is all that{b}
+I have.{p}{person: 34 748 746}{speed: 4}
+It is enough,{wait: 8} I think.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 34 755 755}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{9}}
+{bop}{0x74: 1 0}{0x6d: 0}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 3}Weren't you nervous to hit{b}
+the stage in your condition?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 34 751}{wait: 32}{bg: 27}{name: 8704}{person: 34 748 746}{hidetextbox: 0}{speed: 4}
+No,{wait: 6} not at all,{wait: 6} surprisingly.{p}{speed: 4}
+It felt natural,{wait: 8} singing in{b}
+front of everyone.{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+It's not something just{b}
+anyone can do.{p}{bg: 26}{name: 13568}{person: 6 151 150}{bgcolor: 2305 8 31}{speed: 3}
+She has talent,{wait: 10} that much is{b}
+quite clear.{p}{person: 6 149 148}{speed: 4}
+You might even say she is{b}
+beloved by the gods of music.{p}{bg: 27}{name: 8704}{person: 34 753 751}{speed: 4}
+Even without light,{wait: 6} I live{b}
+perfectly happy in my{b}
+world of sound.{p}{person: 34 762 760}
+If that is a talent,{wait: 6} as you{b}
+say,{wait: 8} then I thank the gods{b}
+responsible.{p}{bg: 25}{name: 1024}{person: 4 41 40}{speed: 3}
+What about your PR motto?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 34 755 755}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{10}}
+{bop}{0x74: 1 0}{0x6d: 0}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 41 40}{speed: 3}Perhaps your music reminded{b}
+him of the Borginian scenery?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 34 746}{wait: 32}{name: 8704}{person: 34 748 746}{hidetextbox: 0}
+Ah ha ha.{wait: 16} No,{wait: 6} it was quite{b}
+the opposite.{p}{bg: 25}{name: 1024}{person: 4 41 40}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+The opposite?{p}{bg: 27}{name: 8704}{person: 34 757 755}{speed: 4}
+According to my producer{speed: 8}{0x5a}...{p}{person: 34 748 746}{speed: 4}
+...{wait: 20}my music has a certain{b}
+"global" quality.{p}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+Global?{p}{bg: 27}{name: 8704}{person: 34 748 746}{speed: 4}
+Multicultural,{wait: 6} if you will.{wait: 16}{b}
+Hard to pin to one region.{p}{person: 34 757 755}
+When people listen to it,{wait: 6} they{b}
+picture the country closest{b}
+to their hearts.{p}{person: 34 748 746}
+Which is why my music has{b}
+reached so many.{p}{bg: 28}{name: 1280}{person: 5 99 98}{bgcolor: 2305 8 31}{speed: 3}
+What a lovely story!{p}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 3}
+It sounds like this producer{b}
+might have known what he was{b}
+doing after all.{nextpage_button}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 139}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{wait: 30}{name: 8704}{hidetextbox: 0}{speed: 4}
+My songs are nothing more than{b}
+a white canvas.{p}{speed: 4}
+To me,{wait: 6} the real {color: 1}landscape{b}
+painter{color: 0} are the listeners.{p}{speed: 4}
+When I think of that,{wait: 6} I do{b}
+not mind how I am represented{b}
+to the world so much.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 34 760 760}{bgcolor: 257 1 31}{wait: 7}{person: 34 762 760}{hidetextbox: 0}{speed: 4}
+Yet,{wait: 6} one thing quickly led{b}
+to another{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 34 746 746}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{11}}
+{bop}{0x74: 1 0}{0x6d: 0}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 3}Was that to protect your{b}
+image as the "{color: 1}landscape{b}
+painter in sound{color: 0}"?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 34 746}{wait: 32}{bg: 27}{name: 8704}{person: 34 757 755}{hidetextbox: 0}{speed: 4}
+That does not matter so much{b}
+to me,{wait: 8} really.{p}{speed: 4}
+But the label is quite{b}
+concerned about it,{wait: 8} I think.{p}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 3}
+A landscape painter who can't{b}
+see{0x5a}...{wait: 20}{0x59} that's like a pianist{b}
+who can't play, huh.{p}{name: 1024}{person: 5 104 104}{speed: 4}
+I'm not sure you can compare{b}
+your father to Lamiroir.{p}{bg: 27}{name: 8704}{person: 34 762 760}{speed: 4}
+The world of commercial music{b}
+is filled with these little{b}
+white lies.{p}
+Nothing is sacred when it{b}
+comes to publicity{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 34 751 751}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{12}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 41 40}When you say your staff,{wait: 10} do{b}
+you include Mr. LeTouse?{wait: 20}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 34 746}{wait: 32}{hidetextbox: 0}{bg: 27}{name: 8704}{person: 34 748 746}{speed: 4}
+Of course.{wait: 10} He was my manager.{nextpage_button}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 4}{color: 2}
+(So he knew{speed: 8}{0x5a}...{wait_noanim: 18}{0x59}{person: 4 58 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4} and that's{b}
+what's been bugging me!){color: 0}{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+Something the matter,{wait: 10}{b}
+Mr. Justice?{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+I believe I know what is{b}
+bothering our young defense{b}
+attorney.{p}{person: 6 146 145}{speed: 3}{0x5a}
+...{wait: 6}{0x59}You are thinking of when{b}
+you discovered the body,{wait: 8} yes?{nextpage_button}{bg: 25}{name: 1024}{person: 4 58 58}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...!{nextpage_button}{bg: 28}{name: 1280}{person: 5 103 102}{speed: 3}
+Is he{shake: 30 0}{bgcolor: 2305 8 31} right,{wait: 8} Apollo?{nextpage_button}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 4}{0x5a}
+...{wait: 20}{0x59}Yes,{wait: 8} I was.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{fademusic: 45}{bgcolor: 1026 1 31}{wait: 15}{bg: 136}{person: 36 807 807}{fademusic: 0}{music: 18 0}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{name: 9216}{speed: 8}
+......{wait: 8}{shake: 30 0}Nnnh......{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...!{wait: 15}{b}{speed: 4}{color: 2}
+(He{speed: 8}...{wait: 18} {speed: 4}He's alive!){color: 0}{p}{speed: 3}
+Mr. {bgcolor: 2305 8 31}{shake: 30 0}LeTouse!{wait: 10}{b}{shake: 30 0}
+Can you hear me!?{nextpage_button}{person: 36 808 807}{name: 9216}{speed: 7}
+...{wait: 18}{shake: 30 0}Cold...{wait: 18}{shake: 30 0} so cold...{wait: 18}{b}{shake: 30 0}
+Witness...{nextpage_button}{person: 36 807 807}{name: 1024}{bgcolor: 2305 8 31}{speed: 3}
+You're cold?{wait: 16} D-Don't worry,{wait: 8}{b}
+you're going to be fine!{wait: 16}{b}
+Help is on the way!{nextpage_button}{person: 36 808 807}{name: 9216}{shake: 30 0}{speed: 7}{0x5a}
+...{wait: 8}{speed: 6}{0x59}{shake: 30 0}Can't s{speed: 6}...{wait: 8}{speed: 6}{shake: 30 0}see{0x5a}...{nextpage_button}{person: 36 807 807}{name: 1024}{bgcolor: 2305 8 31}{speed: 4}
+Hang in there,{wait: 8} Mr. LeTouse!{wait: 18}{0x59}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+Tell me,{wait: 8} {shake: 30 0}who was the witness?{nextpage_button}{person: 36 808 807}{name: 9216}{shake: 30 0}{speed: 8}
+The wi...{wait: 12}{speed: 5}{shake: 30 0}witness{0x5a}{speed: 8}...{0x59}{speed: 6}is{b}
+...{wait: 10}{shake: 30 0}si{speed: 8}...{wait: 10}{shake: 30 0}si...{wait: 12}{shake: 30 0}ren...{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 25}{name: 1024}{person: 4 58 58}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{person: 4 59 58}{speed: 3}
+Mr. LeTouse told me to {color: 1}ask the{b}
+witness{color: 0},{wait: 8} and he named you.{nextpage_button}{bg: 27}{name: 8704}{person: 34 765 765}{sound: 51 1}{bgcolor: 2305 8 31}
+...!{nextpage_button}{bg: 25}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Why would he do that?{p}{person: 4 66 65}{speed: 3}
+He knew you {bgcolor: 2305 8 31}{shake: 30 0}were blind!{nextpage_button}{bg: 27}{name: 8704}{person: 34 762 760}{speed: 3}{wait: 8}
+I{wait: 10}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 8}{0x5a}...{wait: 10}{0x59} {speed: 4}I don't know{0x5a}{speed: 8}{shake: 30 0}...{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 5}
+Tsk,{wait: 8} tsk.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{bg: 25}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+...!{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 3}
+What did I just say?{p}{person: 6 149 148}{speed: 4}
+You need to learn to think{b}
+for yourself.{nextpage_button}{bg: 25}{name: 1024}{person: 4 59 58}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Meaning what{speed: 8}...?{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}
+There is no mystery here if{b}
+you recall everything he said.{nextpage_button}{person: 6 149 148}{speed: 4}
+Think of his last words once{b}
+more.{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+"{color: 1}The witness{speed: 8}...{wait: 18} {speed: 4}siren{color: 0}"?{nextpage_button}{person: 10 263 262}{speed: 3}
+We've heard them many times.{wait: 10}{b}
+Along with a little{b}
+play{shake: 30 0}-acting by our defense.{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 3}
+I remember them well myself,{wait: 6}{b}
+but that statement is not to{b}
+what I refer.{p}{fademusic: 45}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 6 167 166}{speed: 4}
+I mean what he said {color: 1}{bgcolor: 2305 8 31}before{color: 0}{b}
+that.{nextpage_button}{bg: 25}{name: 1024}{person: 4 59 58}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}{0x5a}
+...{wait: 20}{0x59}{color: 1}Before{color: 0}?{wait: 18}{b}{person: 4 58 58}{speed: 4}{color: 2}
+(What came before that...?){color: 0}{wait: 40}{nextpage_nobutton}{person: 4 60 60}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{fademusic: 0}{music: 35 0}
+Ack!{wait: 45}{nextpage_nobutton}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 3}{0x5a}
+...{wait: 20}{0x59}That's right.{wait: 12} He tried to{b}
+tell you.{p}{person: 6 151 150}{speed: 4}
+When he said "{color: 1}can't see{color: 0}" he{b}{color: 1}
+wasn't talking about himself{color: 0}.{nextpage_button}{person: 6 157 156}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 4}
+He was talking about the{b}{color: 1}
+witness{color: 0}!{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 4}
+I see!{b}{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}
+Too bad the defense did not.{nextpage_button}{person: 6 149 148}{speed: 3}
+Well,{wait: 8} Herr Forehead?{p}
+Try relaxing and{wait: 8} "looking"{wait: 8} at{b}
+the facts first next time.{nextpage_button}{bg: 25}{name: 1024}{person: 4 60 60}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 3}
+...U{bgcolor: 2305 8 31}r{shake: 30 0}k!{wait: 150}{nextpage_nobutton}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 76 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{endjmp}
+
+{{13}}
+{bop}{0x29: 0}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 259 258}{bgcolor: 2305 8 31}{shake: 30 0}Order! {wait: 10}{bgcolor: 2305 8 31}{shake: 30 0}Order!{nextpage_button}{bg: 26}{name: 13568}{person: 6 157 156}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Recall Lamiroir's earlier{b}
+testimony{speed: 8}{0x5a}...{wait: 18}{0x59}{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 27}{name: 8704}{person: 34 746 746}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{person: 34 748 746}{speed: 4}
+I was on my way from the{b}
+stage to the backstage exit.{nextpage_button}{person: 34 753 751}{speed: 4}
+There were two shots{speed: 6}{0x5a}...{wait: 16}{0x59}{b}{speed: 4}
+I couldn't do anything to{b}
+stop it.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 29}{name: 2560}{person: 10 258 258}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}{person: 10 259 258}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+But she couldn't have heard{b}
+those gunshots!{p}{person: 10 263 262}{speed: 4}
+I thought we proved that{speed: 8}{0x5a}...{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}
+That is not the most important{b}
+point here.{nextpage_button}{bg: 29}{name: 2560}{person: 10 262 262}{sound: 52 1}{bgcolor: 2305 8 31}
+Hmm?{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}
+The moment he was shot,{wait: 8}{b}
+Mr. LeTouse {wait: 8}"witnessed" her{b}
+through that window.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 203}{person: 0 0 0}{bgcolor: 769 1 31}{wait: 7}{hidetextbox: 0}{speed: 3}
+...{wait: 20}Why else would he have{b}
+named her as the{bgcolor: 2305 8 31} witness?{nextpage_button}{bg: 25}{name: 1024}{person: 4 58 58}{sound: 51 1}{bgcolor: 2305 8 31}
+Ah...{nextpage_button}{bg: 27}{name: 8704}{person: 34 765 765}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+But I really did hear them!{p}{person: 34 764 763}{shake: 30 0}{speed: 3}
+Two gunshots{speed: 8}{0x5a}...{wait: 18}{0x59} {speed: 3}and the{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+man's voice!{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}
+Unfortunately,{wait: 8} such a thing{b}
+was impossible.{wait: 16} The window{b}
+was closed.{p}{person: 6 149 148}
+We have already run a{b}
+simulation,{wait: 8} of course.{nextpage_button}{bg: 27}{name: 8704}{person: 34 762 760}{fademusic: 120}{speed: 3}
+But it was so clear{speed: 8}{0x5a}...{wait: 16}{0x59} {speed: 4}If I{b}
+heard that voice again,{wait: 8} I{b}
+would know it in an instant{0x5a}...{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 4}
+Hmm...{nextpage_button}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 76 1}{sound: 58 1}{name: 11008}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 20}Your Honor!{wait: 30}{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+What is it,{wait: 12} Bailiff?{wait: 18} Can't you{b}{shake: 30 0}
+see we're in session here!?{nextpage_button}{name: 11008}{person: 10 262 262}{speed: 3}
+We have the{bgcolor: 2305 8 31} results back{b}
+from the investigation!{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+The investigation...?{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+Ah,{wait: 12} the Interpol number that{b}
+Mr. LeTouse left us.{nextpage_button}{bg: 29}{name: 2560}{person: 10 262 262}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...!{nextpage_button}{person: 10 263 262}{shake: 30 0}{speed: 3}
+Well let's hear it!{p}{person: 10 259 258}{speed: 4}{0x5a}
+...{wait: 20}{0x59}We will continue this{b}
+cross-examination afterward.{p}{person: 10 263 262}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Detective {shake: 30 0}Crescend!{wait: 10} Your{b}
+report please!{nextpage_button}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{bg: 27}{fademusic: 0}{music: 1 0}{name: 9472}{person: 37 815 815}{bgcolor: 260 1 31}{wait: 25}{wait: 80}{person: 37 816 815}{hidetextbox: 0}{speed: 3}
+I asked Interpol about that{b}
+number.{p}{speed: 4}
+I'm sure you'll find their{b}
+answer intriguing.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}{0x5a}
+...{wait: 20}{0x59}Quick work as always,{wait: 8}{b}
+Daryan.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Well,{wait: 12} tell us about{shake: 30 0} {wait_noanim: 15}{person: 10 263 262}the{b}{wait: 8}
+number!{p}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Is the defendant a secret{b}
+agent!?{nextpage_button}{bg: 27}{name: 9472}{person: 37 816 815}{speed: 4}
+"{color: 1}IPXX314206{color: 0}"{speed: 8}{0x5a}...{p}{fademusic: 60}{speed: 3}
+The agent registered under{b}
+this number{speed: 8}{0x5a}...{wait: 60}{nextpage_nobutton}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 18 0}{speed: 5}
+...{wait: 20}{0x59}was {color: 1}Romein LeTouse{color: 0}.{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 5}
+What{speed: 8}...?{nextpage_button}{bg: 27}{name: 9472}{person: 37 816 815}{speed: 3}
+Our undercover Interpol agent{b}{speed: 4}
+was {bgcolor: 2305 8 31}{shake: 30 0}Mr. LeTouse himself!{nextpage_button}{person: 37 818 817}{speed: 3}
+He was apparently in the{b}
+middle of an operation.{nextpage_button}{0x19: 32873 106}{bg: 25}{name: 1024}{person: 4 59 58}
+So,{wait: 6}{shake: 30 0}{bgcolor: 2305 8 31} when he wrote those{b}{shake: 30 0}
+letters{speed: 8}{0x5a}...{nextpage_button}{bg: 27}{name: 9472}{person: 37 818 817}{speed: 3}
+...{wait: 6}He was trying to tell us{b}
+his own identity.{p}{speed: 4}
+And a cautious killer tried{b}
+to wipe them away.{nextpage_button}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 4}
+Mr. LeTouse was an undercover{b}
+Interpol agent{speed: 8}{0x5a}...{p}{person: 5 103 102}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+So him being Lamiroir's{wait_noanim: 15}{b}{person: 5 103 102}
+manager{speed: 8}{0x5a}...{nextpage_button}{name: 1024}{person: 5 102 102}{speed: 4}
+...{wait: 20}Was just a cover,{wait: 4}{b}
+most likely.{nextpage_button}{bg: 27}{name: 9472}{person: 37 816 815}
+There's one other important{b}
+detail I found.{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{sound: 51 1}{bgcolor: 2305 8 31}
+Well,{wait: 8} out with it.{nextpage_button}{bg: 27}{name: 9472}{person: 37 818 817}{speed: 3}
+It concerns that 45-caliber{b}
+revolver,{wait: 8} the murder weapon.{nextpage_button}{person: 37 816 815}{speed: 4}
+Apparently,{wait: 6} it belonged to{b}
+Romein LeTouse.{p}{speed: 3}
+He had an Interpol permit to{b}
+carry firearms.{p}{speed: 4}
+...{wait: 18}And the registration number{b}
+on the revolver matched.{nextpage_button}{0x19: 123 124}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 4}
+So the victim was killed with{b}
+his own weapon,{wait: 6} which makes{b}
+sense.{p}
+It's hard to imagine someone{b}
+who wasn't an Interpol agent{b}
+with such a large revolver.{nextpage_button}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 4}{color: 2}
+(So the victim was an Interpol{b}
+agent on an undercover op{speed: 8}...){p}{speed: 4}
+(I wonder how that ties into{b}
+everything.){color: 0}{nextpage_button}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 3}
+It's got to tie in somehow,{wait: 8}{b}
+you'd think.{nextpage_button}{name: 1024}{person: 5 104 104}{speed: 4}
+Yeah,{wait: 6} somehow{speed: 8}{0x5a}...{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 0}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 4}
+Thanks for looking into that{b}
+for us,{wait: 6} Detective Crescend.{wait: 12}{b}{speed: 3}
+It's a great help.{nextpage_button}{bg: 27}{name: 9472}{person: 37 816 815}
+Oh,{wait: 8} no problem at all,{wait: 8}{b}
+Your Honor.{p}{speed: 4}{0x5a}
+...{wait: 20}{0x59}I'll be heading out{speed: 8}{0x5a}...{0x59}{nextpage_button}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 79 1}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 14 1}{sound: 26 1}{wait_noanim: 63}{bg: 29}{name: 2560}{person: 10 264 264}{sound: 48 1}{bgcolor: 2305 8 31}{wait: 45}{bg: 26}{name: 13568}{person: 6 145 145}{sound: 48 1}{bgcolor: 2305 8 31}{wait: 45}{bg: 25}{name: 1024}{person: 4 58 58}{sound: 48 1}{bgcolor: 2305 8 31}{wait: 45}{bg: 27}{name: 2048}{person: 34 746 746}{sound: 50 1}{bgcolor: 2305 8 31}{shake: 30 1}{wait: 60}{name: 8704}{hidetextbox: 0}{speed: 4}{wait: 8}
+Wait!{wait: 8}{p}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 4}
+La-{wait: 8}{bgcolor: 2305 8 31}{shake: 30 0}Lamiroir!{wait: 10} Is something the{b}
+matter?{nextpage_button}{bg: 27}{name: 8704}{person: 34 748 746}{speed: 3}
+That {shake: 30 0}voice just now{speed: 8}{0x5a}...{nextpage_button}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}
+Daryan?{nextpage_button}{bg: 27}{name: 8704}{person: 34 753 751}{speed: 4}
+Mr. Daryan,{wait: 8} is it{speed: 8}{0x5a}...?{wait: 18}{0x59}{nextpage_button}{person: 34 748 746}{speed: 3}{0x5a}
+............{0x59}{b}
+It was{bgcolor: 2305 8 31}{sound: 51 1} him.{wait: 16} I am sure of it.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+It was{wait: 6} "him"?{nextpage_button}{bg: 26}{name: 13568}{person: 6 160 159}{animation: 149 1}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Y-{wait: 8}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}You aren't saying--!?{nextpage_button}{bg: 27}{name: 8704}{person: 34 748 746}{speed: 5}
+That voice I heard,{wait: 8} talking{b}
+to Mr. LeTouse{speed: 8}{0x5a}...{wait: 18}{0x59} {speed: 6}when I heard{b}
+the gunshots fired.{p}{speed: 3}
+It was{bgcolor: 2305 8 31} him!{wait_noanim: 18} {person: 34 748 746}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{fademusic: 0}{music: 35 0}{speed: 3}It was {b}
+Mr. Daryan!{nextpage_button}{bg: 26}{name: 13568}{person: 6 154 154}{sound: 168 1}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+Is this some kind of a joke!?{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 1}{nextpage_button}{bg: 25}{name: 1024}{person: 4 60 60}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Wha{bgcolor: 2305 8 31}{shake: 30 1}aa{bgcolor: 2305 8 31}{shake: 30 1}aa{bgcolor: 2305 8 31}{shake: 30 1}aaat!?{wait: 150}{nextpage_nobutton}{bg: 27}{name: 9472}{person: 37 823 822}{speed: 8}{0x5a}
+...{wait: 18}{0x59}{speed: 4}{bgcolor: 2305 8 31}No way{speed: 8}{0x5a}{speed: 8}...{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 79 1}{sound: 22 1}{wait: 120}{bgcolor: 516 1 31}{wait: 25}{person: 0 0 0}{bg: 4095}{person: 0 0 0}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{name: 1024}{speed: 4}{color: 2}
+(The courtroom fell into such{b}
+a chaotic state, the trial had{b}
+to be suspended temporarily.){p}{speed: 3}
+(I'd never seen that{b}
+happen before.){p}{speed: 4}
+(Of course,{wait: 8} it's not every day{b}
+that you get an accusation{b}
+like that one.){p}{speed: 3}
+(Lamiroir,{wait: 6} fingering {color: 1}{bgcolor: 2305 8 31}Daryan{b}
+Crescend{color: 2}.{wait: 16} Not only is he a{b}
+guitarist,{wait: 8} he's a detective!){p}
+(Could it really have been his{b}
+voice Lamiroir heard?){p}{speed: 5}
+(Things were changing fast,{wait: 8}{b}{speed: 4}
+and frankly,{wait: 6} I wasn't sure I{b}
+could keep up with it.){color: 0}{nextpage_button}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{person: 5 103 102}{speed: 2}
+Hey!{wait: 12}{b}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+No wimping out now,{wait: 10} Apollo!{0x5a}{wait: 100}{nextpage_nobutton}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{hidetextbox: 0}{0x48: 128 142}{speed: 0}{soundtoggle: 0}{b}{b}
+To be continued.{bgcolor: 260 1 31}{wait: 25}{wait: 80}{fademusic: 120}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{savegame}{bop}{special_jmp}{endjmp}

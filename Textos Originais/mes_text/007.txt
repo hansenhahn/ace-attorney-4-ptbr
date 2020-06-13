@@ -1,0 +1,338 @@
+
+
+{{0}}
+{bop}{0x62: 3 1}{0x51: 1 107}{b}{bop}{hideperson}{bganim: 98 626}{0x6b: 2 0 0}{bganim: 98 625}{wait: 1}{0x6b: 4 1 31}{bganim: 98 627}{bganim: 0 8192}{0x26: 1}{bg: 4095}{0x30: 255}{person: 0 0 0}{name: 0}{hidetextbox: 0}{sound: 26 1}{speed: 2}{bgcolor: 2305 8 31}
+Let's{wait: 10} {bgcolor: 2305 8 31}rock!!!{wait: 60}{speed: 255}{nextpage_nobutton}{fademusic: 0}{music: 13 0}{hidetextbox: 1}{bganim: 768 0}{bganim: 769 0}{bganim: 770 0}{bganim: 771 0}{bganim: 772 0}{hidetextbox: 0}{name: 13568}
+We love you!{wait: 80}{nextpage_nobutton}{hidetextbox: 1}{bganim: 773 0}{bganim: 774 0}{hidetextbox: 0}{name: 13568}{bgcolor: 2305 8 31}{speed: 2}
+Rock on,{wait: 8} everyone!{wait: 20}{b}{speed: 3}
+This party's not over yet!{wait: 10}{sound: 191 1}{wait: 120}{nextpage_nobutton}{speed: 2}
+Get out your handkerchiefs for{b}{bgcolor: 2305 8 31}
+our special guest!{wait: 10}{sound: 191 1}{wait: 60}{nextpage_nobutton}{bgcolor: 2305 8 31}{speed: 2}
+That's right,{wait: 8} baby!{wait: 60}{nextpage_nobutton}{speed: 3}
+The night's just getting{b}{bgcolor: 2305 8 31}
+started!{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{wait: 60}{name: 256}{hidetextbox: 0}{speed: 5}
+Thank you for coming to the{b}
+Gavinners: "Guilty As Charged"{b}
+Tour!{wait: 60}{nextpage_nobutton}
+This ends the first part of{b}
+tonight's show.{wait: 60}{nextpage_nobutton}
+There will now be a 20-minute{b}
+intermission.{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{wait: 60}{0x6b: 2 1 31}{bganim: 98 626}{bgcolor: 514 1 31}{wait: 15}{bganim: 0 4096}{endjmp}
+
+{{1}}
+{bop}{bg: 247}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{0x26: 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{0x74: 2 0}{center_text: 1}{hidetextbox: 0}{color: 3}July 7,{wait: 10} 8:05 PM{b}
+Backstage Hallway{color: 0}{nextpage_button}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 30}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 16 0}{hidetextbox: 0}{speed: 3}
+This is{bgcolor: 2305 8 31} so cool{speed: 2}!{0x5a}{wait: 18}{0x59} {speed: 4}Us,{wait: 10} at a{b}
+Gavinners concert!{nextpage_button}{name: 1024}{person: 5 69 69}{speed: 4}
+Huh?{wait: 16} {speed: 3}Did you say something?{wait: 18}{b}
+My ears are still ringing{0x5a}{speed: 8}...{p}{speed: 3}
+The Gavinners: putting the{b}{speed: 4}
+"sick"{wait: 8}{speed: 3} back in{wait: 8} {speed: 3}"music".{nextpage_button}{person: 5 72 69}{name: 1280}{speed: 3}
+Well,{wait: 8} I thought Mr. Gavin{b}
+was really nice!{person: 5 70 70}{p}{person: 5 68 67}
+Sending us those tickets{shake: 30 0}{bgcolor: 2305 8 31} at{b}
+20% off!{p}{bgcolor: 2305 8 31}{speed: 2}
+They're hard to get ahold{b}
+of,{wait: 8} you know.{nextpage_button}{person: 5 67 67}{name: 1024}{speed: 4}
+When you invite people to a{b}
+concert it's usually free.{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Let's head to his dressing{b}
+room,{wait: 8} {speed: 3}Apollo!{p}{person: 5 76 75}{speed: 3}
+You know,{wait: 8} {speed: 4}like we're a couple{b}
+of VIPs.{p}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I've always dreamed of being{b}
+a VIP at a Gavinners show!{nextpage_button}{name: 1024}{speed: 4}
+Um,{wait: 8} {speed: 3}Trucy...{nextpage_button}{person: 5 75 75}{fademusic: 45}{sound: 52 1}{bgcolor: 2305 8 31}
+You didn't know who Prosecutor{b}
+Gavin was before that case.{nextpage_button}{speed: 4}
+What kind of fan doesn't know{wait: 12}{b}
+the lead vocalist's name?{nextpage_button}{hidetextbox: 1}{name: 1280}{bgcolor: 1025 8 31}{wait: 1}{0x5f: 3 1 31}{bg: 229}{person: 5 72 69}{0x5a}{sound: 51 1}{bgcolor: 769 1 31}{wait: 7}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{0x59}{speed: 2}
+Oh!{wait: 16} {speed: 3}This guy,{wait: 8} well, he was{wait: 16}{b}{person: 5 68 67}
+more like a prince really.{wait: 20}{b}
+He let us in...{nextpage_button}{hidetextbox: 1}{bg: 226}{person: 5 76 75}{0x5a}{name: 1280}{sound: 51 1}{bgcolor: 769 1 31}{wait: 7}{0x59}{hidetextbox: 0}{speed: 4}
+Klavier{wait_noanim: 20}...{wait: 20} {person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}What a lovely name!{wait: 20}{b}
+He's so dreamy!{nextpage_button}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 247}{person: 5 70 70}{0x5f: 4 1 1}{0x23: 0}{music: 255 90}{bgcolor: 258 1 31}{wait: 15}{person: 5 72 69}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yeah,{wait: 8} {speed: 3}but I'm a girl!{p}{person: 5 68 67}
+I'm supposed to swoon over{b}
+gods of rock!{nextpage_button}{person: 5 94 94}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+God-awful,{wait: 20} maybe.{nextpage_button}{person: 5 68 67}{name: 1280}{speed: 3}
+I bought all their stuff on{b}
+the way home from the trial!{nextpage_button}{person: 5 74 73}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I got twelve Gavinners {bgcolor: 2305 8 31}albums,{wait: 10}{b}
+and fifteen concert videos!{nextpage_button}{name: 1024}{speed: 4}
+...{wait: 20}That was quite a bit of{b}
+impulse shopping.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+I got an advance on my next{b}
+15-years-worth of allowance.{nextpage_button}{person: 5 94 94}{name: 1024}{speed: 4}
+...{wait: 20}For Mr. Wright that sounds{b}
+like a real act of generosity.{nextpage_button}{hidetextbox: 1}{wait: 30}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{speed: 3}{color: 2}
+(Who would have imagined me{b}
+here...){p}
+(...{wait: 20}at a {color: 1}Gavinners{color: 2} concert,{wait: 8}{b}
+watching Prosecutor Gavin{b}
+"rock".){p}{speed: 4}
+(To be honest...){p}{speed: 3}
+(...{wait: 20}he was kind of cool.{wait: 12}{b}
+And I'm kind of envious.){p}{speed: 4}
+(Not that I'd ever admit{b}
+that to Trucy.){color: 0}{nextpage_button}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{endjmp}
+
+{{2}}
+{bop}{bg: 271}{bgcolor: 258 1 31}{wait: 15}{0x26: 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}July 7{b}
+Gavinners's Dressing Room{color: 0}{nextpage_button}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 30}{personvanish: 3 2}{person: 6 138 137}{0x5a}{wait: 32}{name: 13568}{hidetextbox: 0}{0x59}{sound: 51 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 19 0}{speed: 3}
+Ah,{wait: 12} you made it.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{bgcolor: 2305 8 31}
+Mr. Gavin!{wait: 12} Thanks so much{b}
+for the tickets!{speed: 2}{person: 5 71 71}{nextpage_button}{name: 1024}{speed: 3}
+...{wait: 20}And the invoice you sent{b}
+along with them.{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+You were incredible up on{b}{shake: 30 0}
+stage,{wait: 12} Mr. Gavin!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 142 141}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{speed: 3}
+Nothing like music to brighten{b}
+the mood after a trial,{wait: 8} ja?{p}{person: 6 138 137}{speed: 5}{0x5a}
+...{0x59}{wait: 20}{speed: 3}And we're almost ready for{b}
+our next act.{p}{speed: 3}
+I'm looking forward to it{b}
+myself.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Lamiroir's singing,{wait: 8} right!?{wait: 16}{b}{speed: 3}
+The{wait: 8} "{color: 1}Siren of the Ballad{color: 0}"?{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 5}
+Oh yeah{0x5a}{speed: 6}...{p}{speed: 3}
+That flyer said she flew all{b}
+the way over for this show.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 134 133}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}
+That's right.{wait: 12} {speed: 3}I happened to{b}
+catch her show while overseas.{nextpage_button}{person: 6 140 139}{speed: 4}
+Her voice{0x5a}...{0x59}{wait: 12} {speed: 4}is{wait: 8} {color: 1}divine{color: 0}.{p}{person: 6 138 137}{speed: 3}
+I knew I had to invite her to{b}
+perform with us.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 0 0 0}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 512}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 120}{speed: 4}
+Lamiroir says{0x5a}{speed: 6}...{0x59}{p}{speed: 4}
+"You praise me too highly."{nextpage_button}{hidetextbox: 1}{personvanish: 3 2}{person: 36 805 805}{wait: 32}{sound: 51 1}{bgcolor: 2305 8 31}{person: 36 805 805}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 2}{color: 2}
+(Whoa!{wait: 12} {speed: 2}Who's this guy?{wait: 18} {speed: 3}He's{b}{speed: 3}
+huge!){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 134 133}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{speed: 4}
+Ah,{wait: 8} {speed: 3}allow me to introduce{b}
+Mr. Romein LeTouse.{p}
+...{wait: 20}Lamiroir's manager.{wait: 12} And{b}
+her interpreter,{wait: 8} incidentally.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 36 806 805}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 9216}{speed: 3}
+It is a great honor for us{b}
+to be here.{p}{speed: 3}
+And a great honor for Lamiroir{b}
+to be heard in this country.{nextpage_button}{newevidence: 32872}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 0 0 0}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 768}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+{1876}{1884}{1878}{1875}{1877}{wait: 6}{speed: 6}{1883}{1884}{1878}{1879}{1880}{1881}{1874}{wait: 8}{b}{speed: 4}
+{1888}{1885}{1887}{1872}{1873}{392}{392}{nextpage_button}{person: 0 0 0}{name: 1024}{color: 2}
+(That voice{speed: 6}...{speed: 3}){p}{color: 2}
+(I wish I could understand{b}
+it...{wait: 20} It's beautiful.){color: 0}{nextpage_button}{person: 0 0 0}{name: 768}{speed: 5}
+{1876}{1888}{1879}{1885}{wait: 8}{speed: 4}{1875}{1884}{1873}{1885}{1887}{1883}{1877}{1882}{b}
+{1886}{1877}{1881}{1874}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 3 4}{person: 34 745 745}{wait: 64}{sound: 51 1}{bgcolor: 2305 8 31}{wait: 40}{person: 34 747 745}{name: 768}{hidetextbox: 0}{speed: 6}
+{1876}{1884}{1879}{1873}{1885}{wait: 8}{speed: 5}{1887}{1883}{1877}{1882}{1879}{1885}{1876}{1886}{b}
+{1875}{1886}{1877}{1879}{1885}{1881}{1874}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Ooooh!{wait: 12} {bgcolor: 2305 8 31}{shake: 30 0}It's Lamiroir!{wait: 16} {speed: 3}I'm{b}{shake: 30 0}
+actually meeting Lamiroir!{person: 5 70 70}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 745 745}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 5}{color: 2}
+(Lamiroir{speed: 6}...{speed: 4}{wait: 20}{b}
+Mysterious{wait: 8} songstress{speed: 6}...{speed: 3}){p}{speed: 3}
+(Her quiet,{wait: 8} deep song glides{b}
+through the air{speed: 6}...{speed: 4}){p}
+(Lilting above a sparse,{wait: 8} but{b}
+elegant piano accompaniment.{speed: 3}){p}
+(Now{wait: 8} this is music.{wait: 16} She's a{wait: 8}{b}
+real artist{wait: 8}.){color: 0}{nextpage_button}{newevidence: 32875}{person: 34 752 750}{name: 8704}{speed: 5}
+{1885}{1884}{1880}{1878}{1873}{1881}{wait: 8}{person: 34 747 745}{1878}{1872}{1888}{1880}{1877}{1876}{1873}{b}
+{1883}{1882}{1875}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 36 806 805}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 9216}{speed: 3}
+Lamiroir says...{p}{speed: 3}
+"We have long looked forward{b}
+to this joint performance."{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 134 133}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{speed: 4}
+Ah,{wait: 8} Lamiroir...{wait: 16}{b}{speed: 3}
+Your voice...{nextpage_button}{person: 6 138 137}
+...{wait: 20}It is art.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 752 750}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 5}
+{1888}{1877}{1873}{1878}{1872}{1873}{1882}{1883}{1886}{1888}{1877}{1887}{1872}{1883}{1884}{1885}{b}
+{1873}{1874}{1875}{392}{392}{b}{person: 34 745 745}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 36 806 805}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 9216}{speed: 3}
+"Yet without his piano to{b}
+guide me..."{p}
+"...{wait: 20}it is but a voice."{nextpage_button}{hidetextbox: 1}{personvanish: 3 4}{person: 42 771 771}{0x6b: 1 0 0}{bganim: 98 522}{wait: 64}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 60}{name: 512}{person: 42 771 771}{0x6b: 1 0 0}{bganim: 98 522}{hidetextbox: 0}{speed: 6}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(I've seen this kid{b}
+somewhere before.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{bgcolor: 2305 8 31}{speed: 3}
+He plays piano at all of{b}
+Lamiroir's concerts!{p}{person: 5 72 69}{speed: 3}
+He's cute!{wait: 16} {speed: 2}And he's a really{b}
+good pianist.{nextpage_button}{name: 1024}{speed: 4}
+Good pianists are a dying{b}
+breed,{wait: 8} I hear.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 36 806 805}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 9216}{speed: 3}
+Allow me to introduce Machi{b}
+Tobaye. {speed: 6}...{wait: 20}{speed: 5}He is blind.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 42 771 771}{0x6b: 1 0 0}{bganim: 98 522}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 4}
+This is why he never strays{b}
+far from Lamiroir.{p}{speed: 4}
+They are always together.{nextpage_button}{name: 8960}{person: 42 771 771}{0x6b: 1 0 0}{bganim: 98 522}{speed: 6}
+{392}{392}{392}{392}{392}{392}{392}{392}{392}{392}{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(They're like characters from{b}
+some fairy tale{speed: 6}...){color: 0}{nextpage_button}{newevidence: 32877}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+Lamiroir's so,{wait: 8} um,{wait: 8} what's{b}
+that word{wait_noanim: 10}...{p}{person: 5 68 67}{speed: 4}{color: 1}
+Exotic{color: 0}!{p}{person: 5 72 69}{speed: 3}
+...{wait: 20}And mysterious!{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 4}
+She does seem quite pretty.{wait: 8}{b}
+At least,{wait: 8} her eyes do.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 134 133}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{speed: 4}
+Hers is a kind of "{color: 1}sight-{b}
+seeing musique{color: 0}"...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Huh?{wait: 8}{speed: 3}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 134 133}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{speed: 3}
+She travels the globe,{wait: 10} {speed: 3}putting{b}
+the{wait: 8} {color: 1}sights{color: 0}{wait: 8} she sees into song.{p}{speed: 3}
+Even though her appearance{b}
+and voice are exotic{speed: 6}...{nextpage_button}{person: 6 138 137}{speed: 4}
+...{wait: 20}her songs remind us of{b}
+something close,{wait: 8} and warm.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 82 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+Sights into song{wait: 8}{speed: 6}...{wait: 20} That's so{b}
+poetic!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 134 133}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{speed: 3}
+She was gracious enough to put{b}
+music to my lyrics tonight.{p}{person: 6 138 137}{speed: 4}
+"{color: 1}The Guitar's Serenade{color: 0}".{wait: 12}{b}{speed: 6}
+...{wait: 16}{speed: 4}I hope you enjoy it.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+I ca{shake: 30 0}n't wait!{wait: 12}{person: 5 71 71}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 134 133}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{speed: 5}
+...{wait: 12}{speed: 3}And now it is time.{p}
+For the next part, we're{b}
+giving the Gavinners's hard{b}
+rock a little rest.{nextpage_button}{person: 6 138 137}{speed: 4}
+Lamiroir,{wait: 12} the stage is yours.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 42 772 771}{0x6b: 1 0 0}{bganim: 98 522}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 5}
+{1877}{1883}{1882}{1877}{1884}{1885}{1876}{1878}{1879}{1880}{wait: 6}{b}
+{1886}{1881}{1877}{1888}{1880}{1888}{392}{392}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 36 806 805}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 9216}{speed: 3}
+The band members will not{b}
+play during Lamiroir's ballad.{p}
+Only Machi's tender tones,{wait: 8} and{b}
+Lamiroir's dulcet voice...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 138 137}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{speed: 4}
+...{wait: 20}{speed: 3}And my guitar,{wait: 12} of course.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Woo hoo!{wait: 12} {speed: 3}Nights like this make{b}{shake: 30 0}
+it all worthwhile,{wait: 10} you know!{person: 5 71 71}{nextpage_button}{person: 5 71 71}{name: 1024}{speed: 4}{color: 2}
+(I should have learned to{b}
+play the guitar.){p}{speed: 3}
+(There's not much romance in{b}
+Chords of Steel.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 138 137}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Shall we hit the stage,{wait: 8} then?{b}{bgcolor: 2305 8 31}{shake: 30 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+Good luck,{wait: 8} Mr. Gavin!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 134 133}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{speed: 5}
+Take care your hearts aren't{b}{person: 6 138 137}{bgcolor: 2305 8 31}
+stolen away,{wait: 8} ja?{nextpage_button}{hidetextbox: 1}{fademusic: 120}{personvanish: 4 4}{wait: 64}{wait: 60}{name: 1280}{person: 5 96 95}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Let's get back to the concert{b}
+hall,{wait_noanim: 16} {person: 5 72 69}Polly!{nextpage_button}{hidetextbox: 1}{wait: 60}{0x6b: 2 1 31}{bganim: 98 626}{bgcolor: 514 1 31}{wait: 15}{0x74: 3 0}{wait: 10}{endjmp}
+
+{{3}}
+{bop}{0x6b: 0 169 0}{bganim: 98 269}{bganim: 0 8192}{person: 0 0 0}{bg: 4095}{0x30: 255}{hidetextbox: 0}{0x6b: 0 0 0}{0x7f: 7}{0x7f: 8}{fademusic: 0}{music: 60 0}{animation: 212 1}{bgcolor: 258 1 31}{wait: 15}{0x6b: 0 0 0}{0x7f: 14}{name: 0}{center_text: 1}{speed: 8}{b}
+Sugar, Sugar...{wait: 15}{b}{0x6b: 80 0 0}{0x7f: 14}{speed: 6}
+O that night,{wait: 20} in your embrace.{0x6b: 185 0 0}{0x7f: 14}{nextpage_nobutton}{speed: 8}{b}
+When you stole{wait: 20} away the keys{wait: 20}{0x6b: 264 0 0}{0x7f: 14}{speed: 8}{b}
+my heart{wait: 20} held on to so tight.{0x6b: 358 0 0}{0x7f: 14}{nextpage_nobutton}{name: 0}{0x6b: 420 0 0}{0x7f: 14}{speed: 7}{b}
+Pleasure...{wait: 50}{b}{0x6b: 460 0 0}{0x7f: 14}{speed: 8}
+But a fleeting{wait: 45} melody{0x6b: 559 0 0}{0x7f: 14}{nextpage_nobutton}{b}{wait: 20}
+It wraps {wait: 10}itself around me,{b}{0x6b: 640 0 0}{0x7f: 14}
+And now through the air I fly.{0x6b: 738 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 770 0 0}{0x7f: 14}{speed: 8}{wait: 30}{b}{b}
+Woh... {wait: 30}Woh...{0x6b: 841 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 855 0 0}{0x7f: 14}{name: 0}{speed: 8}{b}
+Burning on in my heart.{wait: 24} Fire.{b}{0x6b: 930 0 0}{0x7f: 14}{wait: 10}
+Burn my love away.{wait: 15} All away.{wait: 60}{0x6b: 1000 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 1014 0 0}{0x7f: 14}{speed: 8}{b}
+Like a bullet of{wait: 30} love. Fire.{b}{0x6b: 1096 0 0}{0x7f: 14}{wait: 10}
+Take my life away.{wait: 12} All away.{0x6b: 1190 0 0}{0x7f: 14}{nextpage_nobutton}{name: 0}{0x6b: 1200 0 0}{0x7f: 14}{b}{speed: 8}
+Guitar, Guitar...{wait: 15}{b}{0x6b: 1265 0 0}{0x7f: 14}{0x6b: 1270 0 0}{0x7f: 14}{speed: 13}
+Up together{wait: 25} to the sky.{0x6b: 1360 0 0}{0x7f: 14}{nextpage_nobutton}{hidetextbox: 1}{0x7f: 15}{bgcolor: 516 1 31}{wait: 25}{bganim: 0 4096}{endjmp}
+
+{{4}}
+{bop}{bg: 247}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{0x26: 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{0x74: 2 0}{center_text: 1}{hidetextbox: 0}{color: 3}July 7, 9:05 PM{b}
+Backstage Hallway{color: 0}{nextpage_button}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 30}{name: 1280}{hidetextbox: 0}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Wow,{wait: 8} wasn't Lamiroir amazing?{b}{person: 5 71 71}{p}{person: 5 68 67}{speed: 4}
+I {speed: 2}*sniffle*{speed: 4} I even cried a{wait: 12}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+little!{nextpage_button}{person: 5 67 67}{name: 1024}{speed: 4}
+I was surprised Prosecutor{b}
+Gavin actually burned his{b}
+guitar.{nextpage_button}{person: 5 74 73}{name: 1280}{shake: 30 0}{speed: 3}
+Yeah!{wait: 10} That even surprised me,{wait: 8}{b}
+and I'm a magician!{p}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+What a production!{b}{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 5}
+What a destruction.{p}{speed: 4}{color: 2}
+(I don't think Prosecutor{b}
+Gavin was expecting it{b}
+either,{wait: 8} oddly.){p}
+(He looked as surprised as{b}
+I was.){color: 0}{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 3}
+Is that what they call{b}
+"risking life and limb{b}
+for art"?{nextpage_button}{person: 5 72 69}{bgcolor: 2305 8 31}
+I think he's my new hero!{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 4}
+I'm not sure I'd call that{wait: 8}{b}
+"art".{nextpage_button}{person: 5 74 73}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Well,{wait: 6} what are we doing here?{0x5a}{wait: 18}{0x59}{speed: 3}{shake: 30 0}{b}
+Let's get going to Mr. Gavin's{b}
+dressing room!{p}{person: 5 68 67}{speed: 3}
+There's twenty minutes till{b}{bgcolor: 2305 8 31}{shake: 30 0}
+the last part of the show!{nextpage_button}{person: 5 67 67}{name: 1024}{speed: 5}
+How many breaks does this{b}
+band need?{nextpage_button}{hidetextbox: 1}{0x6b: 4 1 31}{bganim: 98 626}{0x6b: 2 0 0}{bganim: 98 615}{bgcolor: 516 1 31}{wait: 25}{person: 0 0 0}{bg: 4095}{0x10: 33024}{fadetoblack: 21}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{534}{535}{536}{232}{452}{830}{449}—{232}1{b}
+{318}{294}{232}{462}{463}{252}{749}{214}{633}{216}Ì{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x10: 33072}{0x10: 33073}{0x10: 33048}{0x10: 33074}{0x10: 33053}{0x10: 33056}{0x10: 33055}{0x10: 33054}{0x10: 33042}{0x10: 33057}{0x10: 33058}{0x10: 33059}{0x10: 33066}{0x10: 33065}{0x10: 33043}{0x10: 33029}{0x10: 33030}{0x10: 33031}{0x10: 33039}{0x10: 33044}{0x10: 33049}{0x10: 33060}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{0x32: 22 254}{0x32: 19 246}{0x37: 5 0}{0x37: 6 1}{0x61: 20 21 22 17 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{newevidence: 147}{newevidence: 123}{newevidence: 122}{newevidence: 32881}{newevidence: 126}{newevidence: 120}{fadetoblack: 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{300}{306}{416}{340}{498}—{232}1{b}
+{495}Á¿{228}¿{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{newevidence: 147}{fadetoblack: 19}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{300}{306}{416}{340}{498}—{232}2{b}
+{334}{327}{365}{416}{227}{344}{289}{288}{333}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x10: 33072}{0x10: 33073}{0x10: 33048}{0x10: 33074}{0x10: 33053}{0x10: 33056}{0x10: 33055}{0x10: 33054}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{newevidence: 147}{newevidence: 123}{newevidence: 121}{newevidence: 119}{fadetoblack: 19}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{300}{306}{416}{340}{498}—{232}3{b}
+{289}{352}{333}{307}{228}{219}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x10: 33072}{0x10: 33073}{0x10: 33048}{0x10: 33074}{0x10: 33053}{0x10: 33056}{0x10: 33055}{0x10: 33054}{0x10: 33042}{0x10: 33057}{0x10: 33058}{0x10: 33059}{0x10: 33066}{0x10: 33065}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{newevidence: 147}{newevidence: 123}{newevidence: 121}{newevidence: 32881}{newevidence: 126}{newevidence: 120}{fadetoblack: 19}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{300}{306}{416}{340}{498}—{232}4{b}
+{303}{331}{416}{254}{730}{254}{287}{226}¿Ì{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x10: 33072}{0x10: 33073}{0x10: 33048}{0x10: 33074}{0x10: 33053}{0x10: 33056}{0x10: 33055}{0x10: 33054}{0x10: 33042}{0x10: 33057}{0x10: 33058}{0x10: 33059}{0x10: 33066}{0x10: 33065}{0x10: 33043}{0x10: 33029}{0x10: 33030}{0x10: 33031}{0x10: 33039}{0x10: 33044}{0x10: 33049}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{0x32: 22 254}{0x32: 19 246}{0x37: 4 0}{0x37: 6 1}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{newevidence: 147}{newevidence: 123}{newevidence: 122}{newevidence: 32881}{newevidence: 126}{newevidence: 120}{fadetoblack: 19}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}{498}{250}{210}{213}—{232}1{b}
+{706}{577}{419}{232}{1513}{229}{651}{210}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{fadetoblack: 20}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}{498}{250}{210}{213}—{232}2{b}
+{753}{754}{572}{624}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{fadetoblack: 20}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}{498}{250}{210}{213}—{232}3{b}
+{349}{326}{333}{229}{1656}{1657}{552}{554}{434}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x10: 33072}{0x10: 33073}{0x10: 33048}{0x10: 33074}{0x10: 33053}{0x10: 33056}{0x10: 33055}{0x10: 33054}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{newevidence: 147}{newevidence: 123}{newevidence: 121}{newevidence: 119}{fadetoblack: 20}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}{498}{250}{210}{213}—{232}4{b}
+{349}{326}{333}{229}{1656}{1657}{973}{554}{434}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x10: 33072}{0x10: 33073}{0x10: 33048}{0x10: 33074}{0x10: 33053}{0x10: 33056}{0x10: 33055}{0x10: 33054}{0x10: 33042}{0x10: 33057}{0x10: 33058}{0x10: 33059}{0x10: 33066}{0x10: 33065}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{newevidence: 147}{newevidence: 123}{newevidence: 121}{newevidence: 32881}{newevidence: 126}{newevidence: 120}{fadetoblack: 20}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}{498}{250}{210}{213}—{232}5{b}
+{533}{628}{254}{422}{211}{223}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x10: 33072}{0x10: 33073}{0x10: 33048}{0x10: 33074}{0x10: 33053}{0x10: 33056}{0x10: 33055}{0x10: 33054}{0x10: 33042}{0x10: 33057}{0x10: 33058}{0x10: 33059}{0x10: 33066}{0x10: 33065}{0x10: 33043}{0x10: 33029}{0x10: 33030}{0x10: 33031}{0x10: 33039}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{newevidence: 147}{newevidence: 123}{newevidence: 122}{newevidence: 32881}{newevidence: 126}{newevidence: 120}{fadetoblack: 20}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}1—{232}1{b}
+{719}Ì{1701}{1702}{p}{0x62: 3 1}{0x10: 33024}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{fadetoblack: 21}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}1—{232}2{b}
+{289}{352}{333}{307}{228}{219}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{fadetoblack: 21}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}1—{232}3{b}
+{495}Á¿{228}¿{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{newevidence: 147}{fadetoblack: 21}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}1—{232}4{b}
+{326}{319}{330}{288}{229}{584}{585}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x10: 33072}{0x10: 33073}{0x10: 33048}{0x10: 33074}{0x10: 33053}{0x10: 33056}{0x10: 33055}{0x10: 33054}{0x10: 33042}{0x10: 33057}{0x10: 33058}{0x10: 33059}{0x10: 33066}{0x10: 33065}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 32930}{newevidence: 147}{newevidence: 123}{newevidence: 121}{newevidence: 32881}{newevidence: 126}{newevidence: 120}{fadetoblack: 21}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}1—{232}5{b}
+{289}{352}{333}{307}{228}{219}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x10: 33072}{0x10: 33073}{0x10: 33048}{0x10: 33074}{0x10: 33053}{0x10: 33056}{0x10: 33055}{0x10: 33054}{0x10: 33042}{0x10: 33057}{0x10: 33058}{0x10: 33059}{0x10: 33066}{0x10: 33065}{0x10: 33043}{0x10: 33029}{0x10: 33030}{0x10: 33031}{0x10: 33039}{0x10: 33044}{0x10: 33049}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{0x32: 22 254}{0x32: 19 246}{0x37: 4 0}{0x37: 6 1}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{newevidence: 147}{newevidence: 123}{newevidence: 122}{newevidence: 32881}{newevidence: 126}{newevidence: 120}{fadetoblack: 21}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}2—{232}1{b}
+{643}{223}{249}{223}{329}{303}{300}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{fadetoblack: 22}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}2—{232}2{b}
+{518}{545}{693}{694}{232}{600}{754}{572}{624}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{newevidence: 147}{fadetoblack: 22}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}2—{232}3{b}
+{289}{352}{333}{307}{228}{219}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x10: 33072}{0x10: 33073}{0x10: 33048}{0x10: 33074}{0x10: 33053}{0x10: 33056}{0x10: 33055}{0x10: 33054}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{newevidence: 147}{newevidence: 123}{newevidence: 121}{newevidence: 119}{fadetoblack: 22}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{bg: 4095}{0x74: 2 0}{hidetextbox: 0}{888}{673}2—{232}4{b}
+{533}{628}{753}{1249}{572}{624}{p}{0x62: 3 1}{0x10: 33024}{0x10: 33027}{0x10: 33028}{0x10: 33038}{0x10: 33040}{0x10: 33045}{0x10: 33047}{0x10: 33041}{0x10: 33072}{0x10: 33073}{0x10: 33048}{0x10: 33074}{0x10: 33053}{0x10: 33056}{0x10: 33055}{0x10: 33054}{0x10: 33042}{0x10: 33057}{0x10: 33058}{0x10: 33059}{0x10: 33066}{0x10: 33065}{0x10: 33043}{0x10: 33029}{0x10: 33030}{0x10: 33031}{0x10: 33039}{0x10: 33044}{0x33: 21 20 255 255 255}{0x60: 21 15 255 255 255}{0x61: 21 20 255 255 255}{0x33: 20 21 22 19 255}{0x60: 20 16 17 14 255}{0x61: 20 21 22 18 255}{0x32: 22 254}{0x37: 4 0}{0x37: 6 1}{newevidence: 32872}{newevidence: 32875}{newevidence: 32877}{newevidence: 116}{newevidence: 125}{newevidence: 32930}{newevidence: 147}{newevidence: 123}{newevidence: 122}{newevidence: 32881}{newevidence: 126}{newevidence: 120}{fadetoblack: 22}{hidetextbox: 3}{special_jmp}{endjmp}

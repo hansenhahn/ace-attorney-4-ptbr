@@ -1,0 +1,189 @@
+
+
+{{0}}
+{bop}{0x62: 2 2}{0x10: 33280}{0x10: 33281}{0x10: 33282}{0x10: 33283}{0x10: 33284}{0x10: 33285}{0x10: 33286}{0x10: 33287}{0x10: 33288}{0x10: 33289}{0x10: 32860}{0x26: 0}{bg: 30}{person: 0 0 0}{name: 0}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{0x74: 2 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16,{wait: 10} 9:46 AM{b}
+District Court{b}
+Defendant Lobby No. 2{nextpage_button}{color: 0}{hidetextbox: 1}{center_text: 0}{wait: 30}{speed: 255}{fademusic: 0}{music: 39 0}{personvanish: 3 1}{person: 5 67 67}{wait: 16}{name: 1024}{hidetextbox: 0}
+Huh...{wait: 20}{b}
+Mr. Wright's not here today?{p}{person: 5 76 75}{name: 1280}
+He said his old foot injury{b}
+was acting up.{nextpage_button}{person: 5 75 75}{name: 1024}
+Old injury...!?{wait: 16} He was all{b}
+smiles yesterday!{p}{person: 5 74 73}{name: 1280}
+Yes,{wait: 8} he smiled when he said{b}
+we'd be fine{wait: 6} "as long as{b}
+you're there,{wait: 8} Trucy".{nextpage_button}{person: 5 67 67}{name: 1024}{speed: 8}
+Yes...{wait: 20} Fi{shake: 30 0}ne...{wait: 20} {speed: 4}We'll be fine.{wait: 20}{b}{shake: 30 0}{speed: 2}
+Here comes Justice!!!{p}{speed: 3}
+I started my voice training{b}
+at 5 this morning.{p}{person: 5 72 69}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Oooh!{wait: 16} Do some now!{wait: 16} I want to{b}
+see! ...{wait: 20}{speed: 3}Er,{wait: 8} hear!{nextpage_button}{person: 5 69 69}{name: 1024}
+Huh?{wait: 20} Oh,{wait: 7} OK.{wait: 16}{b}{shake: 30 0}
+...{wait: 20}Ahem.{p}{person: 5 81 81}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+My name is Apollo Justice,{wait: 8}{b}{shake: 30 2}{bgcolor: 2305 8 31}
+and I'm fine!!!{p}{person: 5 75 75}{name: 1280}{speed: 8}
+......{p}{person: 5 68 67}{speed: 3}
+That sounds more like a{b}
+self-mantra than voice{b}
+training.{nextpage_button}{person: 5 81 81}{name: 512}{shake: 30 1}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 20}I'm fine!{wait: 14} I'm fine!{b}
+You know what I'm saying!?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{wait: 10}{personvanish: 3 4}{person: 14 350 350}{wait: 64}{wait: 10}{name: 1024}{hidetextbox: 0}{speed: 3}
+Ack!{wait: 16} G-{wait: 8}Good morning!{p}{person: 14 351 350}{name: 3584}{shake: 30 0}{bgcolor: 2305 8 31}
+Yo,{wait: 8} 'sup.{p}{person: 14 360 359}
+Hit me with the guilty{b}
+verdict,{wait: 8} G!{wait: 20} See if I care.{p}{person: 14 351 350}
+You just hang loose and let{b}
+things go with the flow.{wait: 16}{b}
+You know what I'm saying!?{nextpage_button}{person: 14 350 350}{name: 1024}{speed: 4}
+Uh,{wait: 12} not really.{p}{person: 17 404 403}{name: 4352}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Wocky!{wait: 16} Don't be running your{b}
+mouth like that in here!{nextpage_button}{person: 14 360 359}{name: 3584}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+See,{wait: 10} that's the difference{b}{shake: 30 0}
+between me and you,{wait: 8} old man.{wait: 16}{b}
+I ain't afraid of no cops.{p}{person: 14 355 354}{shake: 30 0}{speed: 3}
+Real G's can't keep it real{b}
+till they spend some hard{b}
+time in the pen.{nextpage_button}{person: 17 404 403}{name: 4352}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+You have absolutely no idea{b}
+what you're talking about.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+Sounds like they've both been{b}
+voice training too,{wait: 8} Apollo.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 14 354 354}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 4}{color: 2}
+(My worst fears realized...){nextpage_button}{person: 14 371 371}
+(The trial's starting and I{b}
+still haven't had a real{b}
+talk with my client!){color: 0}{nextpage_button}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{0x26: 1}{endjmp}
+
+{{1}}
+{bop}{0x26: 0}{person: 0 0 0}{bg: 4095}{bgcolor: 258 1 31}{wait: 15}{color: 3}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}June 16, 10:00 AM{b}
+District Court{b}
+Courtroom No. 4{nextpage_button}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{color: 0}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{fademusic: 0}{music: 1 0}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Court is now in session for{b}
+the trial of Wocky Kitaki.{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}
+The defense is ready,{wait: 8} Your{b}
+Honor.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{person: 6 146 145}{name: 13568}{hidetextbox: 0}{speed: 4}
+Ready to rock 'n' roll,{wait: 8} Herr{b}
+Judge.{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}
+Ah!{wait: 16} It's him!{wait: 12} {speed: 2}The pri--guy{b}
+from yesterday!{wait: 16} {speed: 3}He's a{b}
+prosecutor?{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{color: 2}
+({speed: 8}...{wait: 16}{speed: 3}It's Mr. Gavin's brother!){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{person: 6 145 145}{name: 13568}{hidetextbox: 0}{speed: 7}
+...{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 4}
+Long time no see...{b}
+Prosecutor Gavin. Were you{b}
+taking a leave of absence?{nextpage_button}{0x19: 32801 34}{bg: 26}{person: 6 146 145}{name: 13568}
+You know that little band{b}
+I started in my free time?{b}
+Thing is, we got real popular.{p}{person: 6 149 148}
+Hard to say{wait: 6} "nein" to your{b}
+fans when three of your{b}
+singles go platinum,{wait: 8} ja?{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}
+...{wait: 20}I see. To be honest,{wait: 8} I was{b}
+a little concerned.{p}{person: 10 266 266}{speed: 4}
+I feared that you might{b}
+still be distraught over{b}
+that one trial...{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+Not to worry,{wait: 8} Herr Judge.{wait: 12}{p}
+I wouldn't miss this day in{b}
+court for the world.{p}{person: 6 149 148}
+It's worth even more than{b}
+VIP passes to one of my{b}
+concerts,{wait: 8} ja?{p}{speed: 3}
+How could I pass up a chance{b}
+to see the true strength{speed: 7}...{nextpage_button}{person: 6 146 145}{speed: 3}
+...{wait: 20}of the little boy who{b}
+bested my brother?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}
+...!{bgcolor: 2305 8 31}{p}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{person: 6 149 148}{name: 13568}{hidetextbox: 0}{speed: 4}
+It was worth canceling a{b}
+show or two.{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 260 260}{name: 2560}{hidetextbox: 0}{speed: 5}
+Understood.{0x63}{nextpage_button}{person: 10 259 258}{speed: 3}
+You may give your opening{b}
+statements to the court.{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{sound: 52 1}{bgcolor: 2305 8 31}
+Before that,{wait: 8} I was thinking...{nextpage_button}{person: 6 149 148}
+Is the air in this courtroom{b}
+not a bit{0x5a}...{0x59} {speed: 3}serious?{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 5}
+It IS a court of law.{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+That's no way to get the{b}
+crowd jumping,{wait: 12} Herr Judge.{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+They're not supposed to jump!{wait: 14}{b}
+This is a courtroom!{nextpage_button}{bg: 26}{name: 13568}{hidetextbox: 1}{person: 6 158 158}{0x63}{hidetextbox: 0}{person: 6 155 155}{sound: 26 1}{bgcolor: 2305 8 31}{speed: 2}
+Achtung,{wait: 8} baby!{0x63}{b}{person: 6 157 156}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{fademusic: 0}{music: 19 0}{speed: 3}
+Today,{wait: 8} we play it my way!{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{hidetextbox: 0}{speed: 2}{color: 2}
+(What's that...{wait: 20} {speed: 4}noise?){color: 0}{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 3}
+Sometimes you have to get on{b}
+up in order to get down...{b}
+to prosecuting!{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{speed: 5}{color: 2}
+(This is crazy...){speed: 255}{color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{person: 6 146 145}{name: 13568}{hidetextbox: 0}
+The victim...{wait: 10} {speed: 4}Pal Meraktis,{wait: 8}{b}{showphoto: 52}
+director of the {color: 1}Meraktis{b}
+Clinic{color: 0}.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 116}{person: 0 0 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}
+The scene...{wait: 12} {color: 1}People Park{color: 0}.{b}
+He was found pulling a noodle{b}
+stand.{nextpage_button}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 29}{person: 10 264 264}{bgcolor: 257 1 31}{wait: 7}{name: 2560}{person: 10 265 264}{hidetextbox: 0}
+What in the world was a doctor{b}
+doing pulling a noodle stand?{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 5}
+Yes,{wait: 8} I believe...{nextpage_button}{person: 6 149 148}{speed: 3}
+...you will only find that out{b}
+by asking the defendant, right{wait: 8}{b}
+here,{wait: 8} right now.{p}{speed: 3}
+Because it's an undeniable{wait_noanim: 18}{b}{person: 6 157 156}{sound: 26 1}{bgcolor: 2305 8 31}
+truth that he shot the victim!{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+What do you mean,{wait: 10} undeniable?{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}{speed: 3}
+If you are to glare at anyone,{wait: 8}{b}
+Herr Justice,{wait: 8} glare at the{b}
+punk in the defendant's chair.{p}
+His crime was witnessed{wait_noanim: 25}{b}{person: 6 149 148}
+quite clearly,{wait: 8} you see.{nextpage_button}{bg: 29}{person: 10 260 260}{name: 2560}{speed: 5}
+...{wait: 20}Very well.{0x63}{nextpage_button}{person: 10 263 262}{speed: 3}
+Please admit this{wait: 6} witness{wait: 6}{b}
+to the court.{nextpage_button}{hidetextbox: 1}{fademusic: 30}{bg: 26}{person: 6 170 170}{sound: 165 1}{0x63}{person: 6 171 171}{0x63}{person: 6 172 172}{0x63}{person: 6 173 173}{0x63}{person: 6 174 174}{0x63}{person: 6 175 175}{0x63}{person: 6 176 176}{0x63}{0x63}{name: 13568}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 5}
+...{wait: 20}Nein!{wait: 16} Not yet!{nextpage_button}{person: 6 151 150}{speed: 3}
+First,{wait: 8} there is a little{b}
+matter to be cleaned up{fademusic: 0}{music: 18 0}{speed: 6}...{speed: 3}{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}{color: 2}
+(Could you talk without{b}
+the accompaniment?){color: 0}{nextpage_button}{bg: 28}{person: 5 99 98}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+I swear I could see the{b}
+guitar for a second!{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 3}
+What is it,{wait: 8} Prosecutor Gavin?{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}{sound: 52 1}{bgcolor: 2305 8 31}
+The{wait: 6} "motive", Herr Judge.{p}
+Why did the little punk{b}
+do it?{nextpage_button}{person: 6 157 156}
+Why did he kill the director{b}
+of the Meraktis Clinic?{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 32 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 2}
+Not so fast!{wait: 16} The defendant{b}
+doesn't have to explain that!{p}{bg: 26}{person: 6 149 148}{name: 13568}{speed: 3}
+Oh?{wait: 20} But what if the defendant{b}
+specifically requests to do{b}
+so?{wait: 20} As he did this morning?{nextpage_button}{person: 6 146 145}
+I want to{wait: 12} "give a shout out{b}
+to all my homeys!{wait: 15}" I believe{b}
+he said.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Whaaa{bgcolor: 2305 8 31}aat!?{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{sound: 22 1}{wait: 120}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{hidetextbox: 0}{speed: 5}{color: 2}
+(What is right!){color: 0}{nextpage_button}{bg: 28}{person: 5 105 104}{name: 1280}{speed: 3}
+They always say that,{wait: 8} on{b}
+stage, you should hit the{b}
+crowd with speed and ferocity!{p}{person: 5 99 98}{speed: 2}
+Sounds like he got you{b}
+good, huh, Polly?{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+Well,{wait: 8} this is highly unusual.{wait: 16}{b}
+But...{p}{person: 10 263 262}
+The court will now hear from{b}
+the defendant concerning his{b}
+motive in the crime!{nextpage_button}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{fademusic: 0}{music: 1 0}{bg: 29}{person: 10 262 262}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{person: 10 263 262}{0x59}{hidetextbox: 0}{speed: 3}
+So...{wait: 20} You,{wait: 12} son,{wait: 9} are the{b}
+defendant...{wait: 20} Wocky,{wait: 8} are you?{nextpage_button}{bg: 27}{person: 14 355 354}{name: 3584}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+I ain't your son,{wait: 8} old man!{p}{bgcolor: 2305 8 31}{shake: 30 0}
+You step to a Kitaki,{wait: 8} you{b}
+best be prepared to step{b}
+strong!{nextpage_button}{bg: 26}{person: 6 149 148}{name: 13568}{speed: 3}
+You{wait: 8} "step"{wait: 16} to a public{b}
+official,{wait: 8} you'd best be{b}
+prepared to step into jail.{nextpage_button}{bg: 28}{person: 5 99 98}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+You got to hand it to him,{wait: 8}{b}
+Wocky sure has guts!{nextpage_button}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{speed: 4}{color: 2}
+(It's not his guts I'm worried{b}
+about...){color: 0}{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 263 262}{name: 2560}{hidetextbox: 0}
+Well then,{wait: 8} the court will{b}
+now hear testimony on the{b}
+defendant's{wait: 6} motive{wait: 6}{speed: 8}...{p}{person: 10 259 258}{speed: 8}
+...{wait: 20}{speed: 3}from the defendant himself!{nextpage_button}{hidetextbox: 1}{fademusic: 45}{testimony_animation: 1}{special_jmp}{endjmp}

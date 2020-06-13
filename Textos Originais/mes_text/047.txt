@@ -1,0 +1,267 @@
+
+
+{{0}}
+{bop}{0x62: 3 4}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 37 815 815}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 49 11 2 93 1 1 3}{b}
+-- Proof of Innocence --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{fademusic: 0}{music: 3 0}{person: 37 816 815}{name: 9472}{speed: 3}
+C'mon!{wait: 6} Why would I even want{b}
+to kill that manager?{p}{person: 37 818 817}{speed: 4}
+You want a reason?{wait: 10} Easy.{wait: 16}{b}
+I got no motive,{wait: 6} man!{nextpage_button}{person: 37 816 815}{speed: 3}
+This was that diva's first{b}
+trip to this country,{wait: 8} right?{p}
+How could I possibly know{b}
+her manager?{nextpage_button}{person: 37 825 824}
+If I didn't know him,{wait: 6} why{b}
+would I want to kill him!?{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{endjmp}
+
+{{1}}
+{bop}{bg: 29}{person: 10 266 266}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{speed: 4}Hmm.{wait: 16} {person: 10 259 258}A simple reason,{wait: 8} indeed.{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}
+Prosecutor Gavin.{wait: 10} Is it the{b}
+case that Mr. LeTouse had not{b}
+been to our country before?{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 4}
+According to our records{0x5a}...{wait: 18}{0x59}{b}
+Yes.{wait: 16} Not even once.{nextpage_button}{bg: 29}{person: 10 260 260}{name: 2560}{speed: 4}
+I see{speed: 8}{0x5a}...{0x63}{b}{person: 10 259 258}{speed: 3}
+Very well!{p}{speed: 3}
+Mr. Justice,{wait: 8} {person: 10 263 262}you may begin{b}
+the cross-examination.{nextpage_button}{bg: 25}{person: 4 61 61}{animation: 149 1}{name: 1024}{color: 2}{speed: 4}
+(Great,{wait: 6} now I need to find{b}
+a motive{speed: 8}...){color: 0}{nextpage_button}{endjmp}
+
+{{2}}
+{bop}{0x6b: 0 1 0}{bganim: 98 513}{0x6b: 1 0 0}{bganim: 98 513}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 37 815 815}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 136}{center_text: 1}{speed: 2}{b}{color: 1}
+-- Proof of Innocence --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 3 0}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 137 0}{lifebar: 49}{0x53}{person: 37 816 815}{name: 9472}{hidetextbox: 0}{color: 3}C'mon! Why would I even want{b}
+to kill that manager?{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 138 0}{lifebarset: 0 131}{lifebar: 50}{0x53}{person: 37 818 817}{name: 9472}{hidetextbox: 0}{color: 3}You want a reason? Easy.{b}
+I got no motive, man!{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 132}{lifebar: 49}{0x53}{person: 37 816 815}{name: 9472}{hidetextbox: 0}{color: 3}This was that diva's first{b}
+trip to this country, right?{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 133}{lifebar: 49}{0x53}{person: 37 816 815}{name: 9472}{hidetextbox: 0}{color: 3}How could I possibly know{b}
+her manager?{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{testimony_box: 141 0}{lifebarset: 0 134}{lifebar: 52}{0x53}{person: 37 825 824}{name: 9472}{hidetextbox: 0}{color: 3}If I didn't know him, why{b}
+would I want to kill him!?{color: 0}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{speed: 4}{color: 2}(So,{wait: 6} he's using this motive{b}
+question as ammunition,{wait: 8} huh?){p}{speed: 3}
+(Well,{wait: 8} I've got ammunition,{wait: 10}{b}
+too{speed: 8}...{wait: 10}{speed: 3} {person: 4 47 47}{bgcolor: 2305 8 31}{shake: 30 0}Evidence!){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 37 815 815}{name: 9472}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{9}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 3}Her manager,{wait: 12} sure,{wait: 12} but{b}
+Mr. LeTouse was{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 37 827}{wait: 32}{bg: 27}{name: 9472}{person: 37 828 827}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Oh,{wait: 8} right.{wait: 18} Sorry.{wait: 12}{b}{speed: 4}
+An Interpol agent,{wait: 4} wasn't he?{p}{person: 37 818 817}{speed: 3}
+I just have trouble picturing{b}
+that big lunk as an undercover{b}
+cop,{wait: 8} you dig?{p}{person: 37 825 824}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+And not a very good one,{wait: 6}{b}
+seeing as how he got wasted.{p}{person: 37 826 826}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Ha{wait: 3}{bgcolor: 2305 8 31} ha{wait: 3}{bgcolor: 2305 8 31}{shake: 30 0} ha{wait: 3} ha{wait: 3}{bgcolor: 2305 8 31}{shake: 30 0} ha{wait: 3}{bgcolor: 2305 8 31} ha{wait: 3}{bgcolor: 2305 8 31}{shake: 30 0} ha{wait: 3}{bgcolor: 2305 8 31} ha{wait: 3}{bgcolor: 2305 8 31}{shake: 30 0} ha!{wait: 20}{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}{color: 2}
+(That's cold,{wait: 8} dawg!){color: 0}{p}{bg: 27}{name: 9472}{person: 37 818 817}{speed: 4}{0x5a}
+...{wait: 12}{0x59}{speed: 3}Not that it matters,{wait: 10} either{b}
+way.{p}
+See,{wait: 6} I had no reason to kill{b}
+the man,{wait: 10} whatever he was.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 37 817 817}{name: 9472}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 66 65}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}But that's the same for Machi!{wait: 12}{b}{shake: 30 0}
+No motive was proven for him!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 37 827}{wait: 32}{bg: 27}{name: 9472}{person: 37 828 827}{hidetextbox: 0}{speed: 3}
+C'mon,{wait: 10} he traveled around the{b}
+world with that old fart!{p}
+He had plenty of time to come{b}
+up with a motive of his own.{p}{bg: 25}{name: 1024}{person: 4 58 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}{color: 2}
+(Ugh{speed: 8}...){color: 0}{p}{bg: 27}{name: 9472}{person: 37 825 824}{speed: 3}
+More than I sure did.{p}{person: 37 818 817}{speed: 4}
+I mean,{wait: 8} think about it!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 37 815 815}{name: 9472}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 4}Daryan,{wait: 10} you're a detective{b}
+with International Affairs?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 37 817}{wait: 32}{bg: 27}{name: 9472}{person: 37 818 817}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}
+Yeah?{wait: 10} {b}
+What of it?{p}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 3}
+Even if this was Mr. LeTouse's{b}
+first trip to this country{speed: 8}{0x5a}...{p}{speed: 3}{0x5a}
+...{0x59}you still could have met{b}
+him prior to the concert!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 37 820}{wait: 32}{bg: 27}{name: 9472}{person: 37 821 820}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}{wait: 8}
+Huh{speed: 8}..{0x5a}.?{p}{bg: 25}{name: 1024}{person: 4 48 47}{speed: 4}
+Or don't you take any{b}
+international trips in{b}
+International Affairs{speed: 8}{0x5a}...?{p}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+That's right!{wait: 16} {person: 10 263 262}Well,{wait: 8} Detective{b}
+Crescend?{p}{bg: 27}{name: 9472}{person: 37 828 827}{speed: 4}
+Heh heh heh.{wait: 16} That's your game,{wait: 6}{wait_noanim: 18}{b}{speed: 4}
+is it?{wait: 20} {person: 37 818 817}{sound: 52 1}{bgcolor: 2305 8 31}Guess I'd better{b}
+confess,{wait: 8} then.{p}{bg: 29}{name: 2560}{person: 10 265 264}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+"Confess"{0x5a}...!?{p}{bg: 27}{name: 9472}{person: 37 818 817}{speed: 4}
+Yeah.{wait: 16} It's a bit of an{b}{speed: 4}
+embarrassment{0x5a}...{wait: 6}{person: 37 828 827} but I've{b}{sound: 52 1}{bgcolor: 2305 8 31}
+never been sent overseas.{p}{bg: 25}{name: 1024}{person: 4 37 36}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+What!?{wait: 12} {person: 4 59 58}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}But you're in{b}
+International{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 37 824}{wait: 32}{bg: 27}{name: 9472}{person: 37 825 824}{hidetextbox: 0}{speed: 3}
+See,{wait: 6} me and planes got a{b}
+difference of opinion.{wait: 16} {person: 37 828 827}We{b}
+don't like each other much.{p}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 3}
+My condolences,{wait: 10} {speed: 4}Herr Forehead,{wait: 10}{b}
+but he's telling the truth.{p}{person: 6 146 145}
+He's never set foot outside{b}
+the country.{wait: 16} I can guarantee{b}
+it.{p}{bg: 27}{name: 9472}{person: 37 825 824}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+As it turns out,{wait: 6} my division{b}
+has plenty of work to do{b}
+locally as well.{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 4}{color: 2}
+(That's{speed: 8}...{wait: 12} {speed: 4}so unfair.){color: 0}{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 37 815 815}{name: 9472}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 3}So you didn't fraternize with{b}
+him at all during the concert?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 37 817}{wait: 32}{bg: 27}{name: 9472}{person: 37 818 817}{hidetextbox: 0}{speed: 4}
+Fraternize?{wait: 16} Hah!{wait_noanim: 16}{b}{person: 37 818 817}
+I don't think we exchanged{b}
+a single word.{p}{person: 37 825 824}{bgcolor: 2305 8 31}
+As if anyone would want to{b}
+talk to that old Eastern{b}
+"Bloc"-head.{p}{person: 37 828 827}
+Now the ladies,{wait: 8} that's a{b}
+different matter altogether.{p}{person: 37 818 817}{speed: 4}
+So,{wait: 8} you see{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 37 824 824}{name: 9472}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 135}{endjmp}
+
+{{13}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 48 47}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{0x5a}...{0x59}{speed: 4}You sure about that?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 37 820}{wait: 32}{bg: 27}{name: 9472}{person: 37 821 820}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+What?{wait: 12} What!?{0x5a}{wait: 16}{0x59}{b}
+Wipe that look off your face{b}
+before I do it for you.{p}{person: 37 818 817}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Listen!{wait: 16} You try throwing{b}
+out one of your wild{b}
+accusations{0x5a}...{p}{person: 37 821 820}{0x5a}{speed: 3}
+...{wait: 6}{0x59}{speed: 2}I'll throw it back at you{b}
+so hard you'll forget who{b}
+you're accusing of what.{p}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 4}
+Herr Forehead,{wait: 10} {speed: 3}perhaps it's{b}
+best if you let your evidence{b}
+do the talking,{wait: 16} ja?{p}{bg: 27}{name: 9472}{person: 37 826 826}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Ah{wait: 6}{bgcolor: 2305 8 31} ha{wait: 6}{bgcolor: 2305 8 31} ha{wait: 6}{bgcolor: 2305 8 31} ha!{wait_noanim: 15}{b}{person: 37 825 824}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Man,{wait: 10} what evidence?{b}{0x5a}{wait: 18}{0x59}
+That's what I want to know!{nextpage_button}{jmp: 136}{endjmp}
+
+{{14}}
+{bop}{0x29: 0}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 4}Your Honor{speed: 8}{0x5a}...{wait: 18}{0x59}{b}{showphoto: 396}{speed: 3}
+Take a look at this.{p}{bg: 29}{person: 10 265 264}{name: 2560}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+What's that?{b}
+Hmm{speed: 8}{0x5a}...{wait: 16}{0x59} {speed: 4}Looks like candy.{nextpage_button}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Er,{wait: 12} {speed: 3}it's not.{wait: 16}{b}
+Don't lick it,{wait: 8} please.{nextpage_button}{person: 4 59 58}{speed: 3}
+Detective Crescend.{0x5a}{wait: 10}{b}{speed: 4}
+...{0x59}Ever seen this?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 37 817}{wait: 32}{bg: 27}{person: 37 818 817}{name: 9472}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 4}{0x5a}
+...{0x59}Looks like a piece of{b}
+candy.{nextpage_button}{hidetextbox: 1}{bg: 25}{person: 4 39 39}{name: 1024}{hidetextbox: 0}
+What it is... is evidence.{0x63}{b}{person: 4 48 47}{fademusic: 0}{music: 5 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Don't lick it before you{b}
+try it.{nextpage_button}{bg: 27}{person: 37 817 817}{name: 9472}{speed: 8}
+......{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{speed: 4}
+Specifically,{wait: 8} this is a {b}
+replica of a {color: 1}cocoon{color: 0}{speed: 8}{0x5a}...{p}{bgcolor: 2305 8 31}{0x5a}
+...{wait: 6}{0x59}{speed: 4}It was found among the{b}
+victim's belongings.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+A cocoon?{wait: 16} {person: 10 263 262}Never seen one{b}
+that color.{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+It is a variety only found{b}
+in the Republic of Borginia.{p}{person: 6 151 150}
+Nowhere else.{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 4}
+Alright{0x5a}...{wait: 18}{0x59}{b}{person: 10 265 264}{bgcolor: 2305 8 31}{speed: 3}
+But what is this cocoon{b}
+replica doing in my courtroom?{p}{speed: 4}
+Surely, this has nothing to do{b}
+with a motive for killing{b}
+Mr. LeTouse!{speed: 8}{0x5a} ...{wait: 15}{0x59}Does it?{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{speed: 2}
+It does!{0x5a}{wait: 18}{0x59}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+...Wait!{wait_noanim: 30}{nextpage_nobutton}{person: 4 50 49}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+I mean,{wait: 6} I think it does.{nextpage_button}{bg: 27}{person: 37 818 817}{name: 9472}{speed: 4}{0x5a}
+...{0x59}You don't sound so{b}
+confident,{wait: 8} man.{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 4}
+A cocoon{0x5a}...{wait: 18}{0x59}{nextpage_button}{person: 10 265 264}{speed: 3}
+Is it one of those silky{b}
+cocoons?{nextpage_button}{person: 10 263 262}
+The kind that you can make,{wait: 6}{b}
+well,{wait: 8} silk out of?{nextpage_button}{bg: 25}{person: 4 39 39}{name: 1024}{speed: 4}
+...Not this one.{wait: 15}{0x63} {person: 4 59 58}{speed: 3}This cocoon{b}
+makes a powerful {sound: 51 1}{bgcolor: 2305 8 31}"{color: 1}curative{color: 0}".{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}
+A curative?{wait: 16} For what{speed: 8}{0x5a}...?{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 4}
+Apparently,{wait: 8} it is most{b}
+efficacious at treating{b}
+a {color: 1}disease thought incurable{color: 0}.{p}{speed: 3}
+It is the only medicine of{b}
+its kind.{nextpage_button}{person: 6 151 150}{speed: 8}
+...{speed: 4}However, it is illegal to{b}
+take one of these healing{b}
+cocoons out of{bgcolor: 2305 8 31} Borginia.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Whatever for?{p}
+If it's such a miracle{b}
+cure,{wait: 8} why not share it{b}
+with the world?{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Yeah,{wait: 12} that's what I've been{b}
+wondering!{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+We looked into the matter{b}
+at some length.{p}
+Apparently,{wait: 8} it isn't difficult{b}
+at all to manufacture the{b}
+remedy from the cocoon.{p}{person: 6 151 150}{speed: 4}
+Yet,{wait: 6} if you change the process{b}
+only slightly{speed: 8}{0x5a}...{p}{speed: 3}
+...you can easily make a large{b}
+quantity of something else{b}
+entirely.{nextpage_button}{person: 6 149 148}{speed: 4}
+...A {sound: 51 1}{bgcolor: 2305 8 31}deadly poison,{wait: 6} in fact.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 5}
+Wh-{wait: 8}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}What!?{nextpage_button}{bg: 26}{person: 6 146 145}{name: 13568}{speed: 3}
+There was an incident,{wait: 6} several{b}
+years ago,{wait: 8} where some of these{b}
+got out onto the black market.{p}{speed: 3}
+It caused quite the commotion{b}
+in the global community.{p}{person: 6 151 150}{speed: 3}
+Though the media was kept{b}
+largely unaware.{p}{bg: 29}{person: 10 266 266}{name: 2560}{shake: 30 0}{speed: 4}
+Hmm... {person: 10 263 262}Intriguing!{p}{bg: 26}{person: 6 151 150}{name: 13568}{speed: 4}
+All this has led to a strict{b}
+ban on the cocoons' export.{nextpage_button}{person: 6 149 148}{bgcolor: 2305 8 31}{speed: 4}
+One rigidly enforced{0x5a}...{0x59} by{b}
+Interpol,{wait: 6} among others.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+Interpol{speed: 8}{0x5a}...{nextpage_button}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Right!{nextpage_button}{person: 4 45 44}{speed: 3}
+The victim,{wait: 6} Romein LeTouse,{wait: 6}{b}
+was an Interpol agent.{nextpage_button}{person: 4 37 36}{speed: 4}
+Detective Crescend!{wait: 12} You insist{b}
+on referring to him as a{b}
+"manager"{speed: 8}{0x5a}...{p}{speed: 3}
+But that is misleading!{nextpage_button}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Romein LeTouse wasn't killed{b}
+as a manager!{nextpage_button}{person: 4 64 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+He was killed as an{bgcolor: 2305 8 31} {color: 1}undercover{b}{bgcolor: 2305 8 31}
+agent{color: 0}!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 37 820}{wait: 32}{person: 37 820 820}{name: 9472}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 8}
+......{nextpage_button}{person: 37 818 817}{speed: 4}
+So I was trying to{wait: 6} {color: 1}smuggle{color: 0}{b}{bgcolor: 2305 8 31}{wait: 6}
+this gumball into the country?{nextpage_button}{person: 37 821 820}{speed: 3}
+That what you're trying to{b}
+say?{nextpage_button}{bg: 25}{person: 4 48 47}{name: 1024}{speed: 3}
+I'm saying that could well{b}
+be a{wait: 8} {color: 1}motive{color: 0}{wait: 8} for murder.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 37 817}{wait: 32}{bg: 27}{person: 37 818 817}{name: 9472}{hidetextbox: 0}{speed: 3}
+Oh,{wait: 6} so I was going to sell it{b}
+on the black market,{wait: 6} make{b}
+myself a pretty penny?{nextpage_button}{person: 37 825 824}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 4}{0x5a}
+...{0x59}Ridiculous.{wait: 16} {wait: 3}I mean,{wait: 6} totally{b}
+unthinkable.{nextpage_button}{bg: 25}{person: 4 41 40}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+"Unthinkable", you say?{wait: 18}{b}{person: 4 59 58}{shake: 30 0}{speed: 3}
+Why?{nextpage_button}{fademusic: 45}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 4}
+Perhaps it's time for another{b}
+testimony{0x5a}...{p}{person: 10 265 264}{speed: 4}{0x5a}
+...{0x59}about this "{color: 1}smuggling of{b}
+cocoons{color: 0}" business!{nextpage_button}{hidetextbox: 1}{testimony_animation: 1}{special_jmp}{endjmp}

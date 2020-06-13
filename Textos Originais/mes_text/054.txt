@@ -1,0 +1,578 @@
+
+
+{{0}}
+{bop}{0x62: 4 3}{0x25: 1}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 34}{person: 22 491 491}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 32 11 2 93 1 1 3}{b}
+-- The Circumstances --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{name: 5632}{fademusic: 0}{music: 47 0}{person: 22 494 493}{speed: 5}
+Actually...{wait: 16} {speed: 3}the victim{b}
+kind of ordered the defendant{b}
+to do him in.{p}{person: 22 492 491}
+A few days before it happened,{wait: 12}{b}
+the victim sent a letter{b}
+"ordering" his own murder.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 152}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{name: 5632}{hidetextbox: 0}{person: 0 0 0}
+The defendant did what was{b}
+asked of him,{wait: 8} and shot the{b}
+old man in the forehead!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 34}{person: 22 505 505}{bgcolor: 258 1 31}{wait: 15}{name: 5632}{hidetextbox: 0}{person: 22 506 505}
+The bullet was fired from the{b}
+pistol found at the scene,{wait: 8}{b}
+no doubt about it.{p}{person: 22 498 497}
+And the pistol definitely{b}
+belonged to the old man,{wait: 8} sir!{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{endjmp}
+
+{{1}}
+{bop}{bg: 36}{person: 10 265 264}{0x5a}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{0x59}{speed: 5}Wh-{wait: 30}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}Whaaat!?{p}{speed: 4}
+You're saying the victim{b}{color: 1}
+ordered{color: 0} his own shooting?{nextpage_button}{bg: 33}{person: 23 510 509}{name: 13568}
+Those are the facts.{0x5a}{wait: 25}{showphoto: 214}{0x59}{speed: 3} I have{b}
+here the letter in question.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 155}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{fademusic: 0}{music: 49 0}{wait: 180}{bgcolor: 516 1 31}{wait: 25}{bg: 33}{person: 23 509 509}{bgcolor: 258 1 31}{wait: 15}{newevidence: 16598}{name: 0}{hidetextbox: 0}{speed: 3}{color: 2}
+Magnifi's Letter added to the{b}
+Court Record.{nextpage_button}{speed: 255}{color: 0}{bg: 36}{person: 10 265 264}{name: 2560}{speed: 5}
+...Very unusual,{wait: 6} indeed!{p}{person: 10 263 262}{speed: 3}
+Although, could such a thing{b}
+as a letter really cause one{b}
+to pull a trigger,{wait: 8} I wonder?{nextpage_button}{bg: 33}{person: 23 515 514}{name: 13568}{speed: 3}
+I believe the answer to that{b}
+question {showphoto: 214}can be found at the{b}
+end of the letter.{nextpage_button}{bg: 36}{person: 10 266 266}{name: 2560}{speed: 4}
+Ah{speed: 8}...{wait: 30}{person: 10 259 258}{speed: 3} "You cannot refuse,{wait: 8} and{b}
+we both know the reason why."{nextpage_button}{person: 10 265 264}
+Detective Gumshoe,{wait: 10} can you{b}
+explain this to the court?{nextpage_button}{bganim: 98 579}{bg: 34}{name: 5632}{person: 22 504 503}{speed: 5}
+Unfortunately,{wait: 10} even the{b}
+defendant won't say a peep{b}
+about that bit,{wait: 10} sir.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 479}{wait: 32}{person: 21 480 479}{name: 1792}{hidetextbox: 0}
+One thing bothers me about{b}
+this.{p}{showphoto: 470}{sound: 52 1}{bgcolor: 2305 8 31}
+Why didn't he just say{wait: 10} "{color: 1}11{color: 0}"{wait: 6}?{nextpage_button}{person: 21 470 469}
+Why have him come at{wait: 6} "{color: 1}11:05{color: 0}"{wait: 6}{b}
+without some specific{b}
+reason...?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 1 23 512}{wait: 32}{person: 23 513 512}{name: 13568}{hidetextbox: 0}
+The devil is in the details,{wait: 10}{b}
+Herr Attorney...{nextpage_button}{bg: 36}{person: 10 259 258}{name: 2560}
+Well?{wait: 16} Was there some reason?{nextpage_button}{bg: 33}{person: 23 515 514}{name: 13568}
+As it turns out,{wait: 8} there was.{wait: 16}{b}
+Every night,{wait: 8} for a half{b}
+hour,{wait: 8} starting at 11:00...{nextpage_button}{person: 23 510 509}
+...the victim,{wait: 8} Magnifi{b}
+Gramarye,{wait: 10} {sound: 52 1}{bgcolor: 2305 8 31}was given an IV.{nextpage_button}{bg: 32}{person: 21 470 469}{name: 1792}{speed: 4}
+An IV...?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 152}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}
+There it is in the picture,{wait: 12}{b}
+off to the side of the bed.{nextpage_button}{name: 13568}{speed: 3}
+At 11:00,{wait: 12} a doctor would come{b}
+to set up the IV.{p}
+Thirty minutes later,{wait: 8} he would{b}
+come back for the empty bag.{nextpage_button}
+This happened every night,{wait: 10}{b}
+without fail.{nextpage_button}{bg: 32}{person: 21 470 469}{name: 1792}{speed: 4}
+So that was the only time they{b}
+could meet without the chance{b}
+of an untimely interruption.{nextpage_button}{person: 21 468 467}{speed: 3}
+...During his IV.{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 36}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Very well,{wait: 16} shall we begin?{p}
+...{wait: 16}Mr. Wright,{wait: 8} your{b}
+cross-examination,{wait: 8} if{b}
+you would!{nextpage_button}{bg: 32}{person: 21 467 467}{name: 1792}{person: 21 467 467}{speed: 4}{color: 2}
+(What's this "{color: 1}reason he{b}
+couldn't refuse{color: 2}", I wonder?){p}{person: 21 481 481}{shake: 30 0}{speed: 3}
+(He could have at least{b}
+mentioned it to me...){color: 0}{nextpage_button}{endjmp}
+
+{{2}}
+{bop}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 34}{person: 22 491 491}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 136}{center_text: 1}{speed: 2}{b}{color: 1}
+-- The Circumstances --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{fademusic: 0}{music: 47 0}{0x26: 0}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 138 1}{lifebar: 33}{0x53}{person: 22 494 493}{name: 5632}{hidetextbox: 0}{color: 3}Actually... the victim{b}
+kind of ordered the defendant{b}
+to do him in.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 139 0}{lifebarset: 0 131}{lifebar: 32}{0x53}{person: 22 492 491}{name: 5632}{hidetextbox: 0}{color: 3}A few days before it happened,{b}
+the victim sent a letter{b}
+"ordering" his own murder.{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 140 1}{lifebar: 34}{0x51: 3 53}{20992}{hidetextbox: 15}4{b}{lifebarset: 0 132}{0x53}{person: 22 502 501}{name: 5632}{hidetextbox: 0}{color: 3}
+The defendant did what was{b}
+asked of him, and shot the{b}
+old man in the forehead!{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 149 0}{lifebarset: 0 133}{lifebar: 35}{0x53}{person: 22 506 505}{name: 5632}{hidetextbox: 0}{color: 3}The bullet was fired from the{b}
+pistol found at the scene,{b}
+no doubt about it.{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{testimony_box: 150 0}{lifebarset: 0 134}{lifebar: 36}{0x51: 3 53}{20992}{fademusic: 84}{b}{0x89}{0x53}{person: 22 498 497}{name: 5632}{hidetextbox: 0}{color: 3}
+And the pistol definitely{b}
+belonged to the old man, sir!{color: 0}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 32}{person: 21 469 469}{name: 1792}{hidetextbox: 0}{color: 2}(...I didn't have time to{b}
+gather all the details before{b}
+coming in here.){p}{person: 21 474 474}
+(This testimony might be my{b}
+only source of information.){nextpage_button}
+(Better pay attention...{wait: 12} {showphoto: 470}and{b}
+read this letter carefully.){nextpage_button}{color: 0}{hidetextbox: 1}{removephoto}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 22 491 491}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{9}}
+{bop}{testimony_box: 151 0}{lifebarset: 0 135}{lifebarset: 1 136}{lifebar: 36}{0x53}{person: 22 498 497}{name: 5632}{hidetextbox: 0}{color: 3}So what if he shot the clown?{b}
+He still shot the victim, pal!{color: 0}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{0x6d: 0}{bg: 32}{hidetextbox: 1}{person: 21 473 474}{wait: 70}{hidetextbox: 0}{person: 21 475 474}{name: 1792}{hidetextbox: 0}Just because he got the letter{b}
+doesn't mean he went through{b}
+with it!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 23 509}{wait: 32}{bg: 33}{person: 23 510 509}{name: 13568}{hidetextbox: 0}{speed: 4}
+Oh?{wait: 20} I disagree.{p}{person: 23 515 514}{speed: 3}
+The victim was,{wait: 12} indeed, shot{b}
+in the forehead, after all.{b}{showphoto: 214}
+Just as he had commanded.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 4096 21 467}{wait: 32}{hidetextbox: 0}{name: 1792}{person: 21 468 467}
+It could be a set-up.{b}{nextpage_button}{person: 21 470 469}
+But let's not be in such a{b}
+hurry.{wait_noanim: 25}{bg: 34}{person: 22 503 503}{sound: 52 1}{bgcolor: 2305 8 31} Maybe we should let{b}
+the witness talk for a change.{nextpage_button}{person: 22 504 503}{name: 5632}{speed: 4}
+...Thanks,{wait: 10}{speed: 2} pal.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 23 509}{wait: 32}{hidetextbox: 0}{name: 13568}{person: 23 509 509}{speed: 8}
+......{nextpage_button}{person: 23 513 512}{speed: 3}
+Fine.{wait: 16} I can play it slow as{b}
+well as I can play it fast.{nextpage_button}{person: 23 510 509}
+On with the testimony,{wait: 8}{b}
+Detective Gumshoe.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 22 491 491}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 32}{person: 21 468 467}{name: 1792}{hidetextbox: 0}...{wait: 10}And this letter was sent{b}
+by the victim?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 22 505}{wait: 32}{person: 22 506 505}{name: 5632}{hidetextbox: 0}{fademusic: 30}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+There it is!{wait: 20} Gotcha!{wait_noanim: 20}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1} You're{b}
+all mine this time,{wait: 12} pal.{nextpage_button}{bg: 32}{person: 21 467 467}{name: 1792}{bgcolor: 2305 8 31}{speed: 5}
+...Huh?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 22 497}{wait: 32}{person: 22 498 497}{name: 5632}{hidetextbox: 0}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+I had the handwriting checked{b}{shake: 30 1}{bgcolor: 2305 8 31}
+out,{wait: 8} of course. It's the{b}
+victim's, no mistake!{person: 22 495 495}{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 469}{wait: 32}{person: 21 470 469}{name: 1792}{hidetextbox: 0}{speed: 4}
+Ah,{wait: 8} I see...{nextpage_button}{bg: 34}{person: 22 502 501}{name: 5632}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Ha{wait: 6} ha{wait: 6} ha{wait: 6} ha{wait: 6} ha!{wait_noanim: 30}{b}{person: 22 498 497}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Score one for the boys!{wait: 12}{person: 22 495 495}{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 467}{wait: 32}{person: 21 467 467}{name: 1792}{hidetextbox: 0}{speed: 3}{color: 2}
+(I didn't "lose". I was just{b}
+ascertaining the facts.){nextpage_button}{person: 21 481 481}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+(...So why am I so annoyed?){color: 0}{0x23: 0}{music: 255 90}{nextpage_button}{bg: 36}{person: 10 259 258}{name: 2560}{speed: 4}
+But...{wait: 16} a letter ordering{b}
+your own death?{nextpage_button}{person: 10 263 262}{speed: 3}
+Things aren't what they used{b}
+to be,{wait: 8} I guess.{nextpage_button}{bg: 32}{person: 21 470 469}{name: 1792}
+I'm not sure this is exactly{b}
+"commonplace", even now, Your{b}
+Honor.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 22 495}{wait: 32}{person: 22 496 495}{name: 5632}{hidetextbox: 0}
+...{wait: 14}So anyway,{wait: 8} guess I'll keep{b}
+going while I'm ahead!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 22 491 491}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 32}{hidetextbox: 1}{person: 21 473 474}{wait: 70}{hidetextbox: 0}{person: 21 475 474}{name: 1792}{hidetextbox: 0}...{wait: 12}How can you be so sure!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 22 497}{wait: 32}{person: 22 498 497}{name: 5632}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}
+Hey,{wait: 12} you gotta learn to stop{b}
+relying on people to do your{b}
+thinking for you,{wait: 8} pal.{p}{person: 22 502 501}
+Learn to think for yourself!{b}{bgcolor: 2305 8 31}{shake: 30 1}
+Get that{bgcolor: 2305 8 31} noggin cranking!{nextpage_button}{person: 22 495 495}{hidetextbox: 1}{swoosh: 0 1 21 481}{wait: 32}{person: 21 481 481}{name: 1792}{hidetextbox: 0}{speed: 4}{color: 2}
+(You fail to grasp the concept{b}
+of "questioning", detective.){nextpage_button}{color: 0}{bg: 34}{person: 22 498 497}{name: 5632}{showphoto: 214}{speed: 3}
+First,{wait: 8} we got this letter.{nextpage_button}{person: 22 496 495}{speed: 4}
+It says "{color: 1}shoot... in the{b}
+forehead{color: 0}" loud and clear.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 1 21 469}{wait: 32}{hidetextbox: 0}{bg: 32}{person: 21 470 469}{name: 1792}
+I can see that.{wait: 10} But I still{b}
+wouldn't do it.{nextpage_button}{bg: 34}{person: 22 498 497}{name: 5632}
+Well,{wait: 12} maybe you need to grow{b}
+yourself a backbone,{wait: 6} pal.{nextpage_button}{person: 22 495 495}{hidetextbox: 1}{swoosh: 0 1 21 481}{wait: 32}{person: 21 481 481}{name: 1792}{hidetextbox: 0}{speed: 4}{color: 2}
+(You fail to grasp the concept{b}
+of "shooting people is bad",{b}
+detective.){nextpage_button}{color: 0}{bg: 34}{person: 22 494 493}{name: 5632}{speed: 3}
+We also found the defendant's{b}{showphoto: 217}
+pistol at the scene.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 2 1 23 512}{wait: 32}{person: 23 513 512}{name: 13568}{showphoto: 217}{hidetextbox: 0}
+Traces of gunpowder residue{b}
+shows that it had been fired{b}
+recently.{nextpage_button}{bganim: 98 579}{bg: 36}{person: 10 263 262}{name: 2560}
+...{wait: 16}Well,{wait: 8} Mr. Wright?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 152}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{speed: 4}
+As far as I can tell from{b}
+looking at this photo...{p}
+...{wait: 16}{speed: 3}there seems to be no issue{b}
+with the prosecution's claim.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 32}{person: 21 469 469}{bgcolor: 258 1 31}{wait: 15}{endjmp}
+
+{{13}}
+{bop}{bg: 32}{person: 21 469 469}{name: 1792}{hidetextbox: 0}{color: 2}(The photo...{wait: 20} Maybe there's{b}
+something in there I can{b}
+use.){p}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 152}{person: 0 0 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{speed: 4}
+(So they're saying the{b}
+defendant{wait: 10} "{color: 1}shot the victim{b}
+in the forehead{color: 2}"?){p}{0x6c: 0}{0x6e: 20}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+(I think there's a {color: 1}hole{color: 2} in{b}
+the prosecution's argument!{b}
+Clearly, Mr. Enigmar...){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 90}{0x5b: 92 1}{b}{3args_choice_jmp: 142 143 144}{endjmp}
+
+{{14}}
+{bop}{fademusic: 60}{0x66: 109 0 27}{0x20: 30}{special_jmp}{475}{474}{name: 1792}{hidetextbox: 0}{speed: 5}Unfortunately,{wait: 8} nothing in this{b}
+picture suggests he didn't{b}
+do it.{nextpage_button}{bg: 36}{person: 10 259 258}{name: 2560}
+Ah,{wait: 8} I see.{wait: 16}{b}
+That is unfortunate.{nextpage_button}{bg: 32}{person: 21 475 474}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+...Huh?{nextpage_button}{bg: 33}{person: 23 515 514}{name: 13568}{speed: 3}
+Well,{wait: 10} let's pay it no mind{b}
+and carry on,{wait: 8} shall we?{wait: 16}{b}
+I like a fast tempo.{nextpage_button}{bg: 32}{person: 21 475 474}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+...Huh?{nextpage_button}{bg: 34}{person: 22 496 495}{name: 5632}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Hey,{wait: 12} I still got stuff to{b}
+talk about,{wait: 8} pal!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 469}{wait: 32}{name: 1792}{person: 21 469 469}{hidetextbox: 0}{color: 2}
+(...Everyone's so eager to{b}
+move on.{wait: 16} So of course,{wait: 12} I want{b}
+to slow down.){nextpage_button}{bg: 152}{person: 0 0 0}{speed: 8}
+(...{wait: 20}{speed: 3}Is there really not a{b}
+single clue in this picture?){0x23: 0}{music: 255 90}{color: 0}{nextpage_button}{0x6d: 0}{bg: 36}{person: 10 263 262}{name: 2560}
+Back to the testimony,{wait: 16} if{b}
+you would,{wait: 8} detective.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 22 491 491}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{15}}
+{bop}{fademusic: 60}{bg: 32}{hidetextbox: 1}{person: 21 473 474}{wait: 70}{hidetextbox: 0}{person: 21 475 474}{name: 1792}{hidetextbox: 0}{0x6d: 0}People don't normally commit{b}
+murder just because their{b}
+teacher told them to.{p}
+Which means the defendant{b}
+didn't fire that pistol!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 23 512}{wait: 32}{person: 23 513 512}{name: 13568}{hidetextbox: 0}
+...This is your position,{wait: 8}{b}
+then?{nextpage_button}{bg: 32}{person: 21 468 467}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}
+Um,{wait: 12} well, yes.{nextpage_button}{bg: 33}{person: 23 515 514}{name: 13568}
+This is the sort of occasion{b}
+when my brother would present{b}
+some{wait: 6} "evidence".{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 481}{wait: 32}{person: 21 481 481}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 4}
+...Ah.{nextpage_button}{bg: 33}{person: 23 515 514}{name: 13568}{speed: 3}
+Did you have some evidence{b}
+you wanted to show us?{nextpage_button}{person: 23 510 509}{speed: 3}
+Something proving it wasn't{b}
+the defendant who shot the{b}
+old man?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 469}{wait: 32}{hidetextbox: 0}{person: 21 469 469}{name: 1792}{speed: 6}
+...{speed: 8}...{wait: 30}{b}{person: 21 481 481}{sound: 52 1}{speed: 10}{bgcolor: 2305 8 31}
+......{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 36}{person: 10 263 262}{name: 2560}{hidetextbox: 0}{0x6c: 0}{0x6e: 20}{speed: 3}
+Penalty for excessive{b}
+perspiration,{wait: 12} Mr. Wright!{0x5a}{wait: 28}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 32}{person: 21 481 481}{name: 1792}{0x23: 0}{music: 255 120}{speed: 5}{color: 2}
+(But it's a cold sweat,{wait: 8}{b}
+Your Honor...){nextpage_button}{color: 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 22 491 491}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{16}}
+{bop}{fademusic: 45}{0x66: 109 0 27}{0x20: 28}{b}{person: 21 473 474}{wait: 70}{hidetextbox: 0}{person: 21 475 474}{name: 1792}{hidetextbox: 0}{speed: 5}
+Looking at this photo,{wait: 8} {color: 1}another{b}
+possibility{color: 0} occurs to me.{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{speed: 5}
+Yes...?{nextpage_button}{bg: 32}{person: 21 480 479}{name: 1792}
+What does the letter tell us?{p}{person: 21 468 467}{speed: 3}
+That the defendant had a{wait: 6}{b}
+"{color: 1}reason he couldn't refuse{color: 0}"{b}
+his teacher's wishes.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 22 497}{wait: 32}{person: 22 498 497}{name: 5632}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Bingo,{wait: 10} pal!{p}{person: 22 506 505}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+That's why the defendant{b}
+popped him one in the{b}
+forehead!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 467}{wait: 32}{bg: 32}{person: 21 472 467}{0x63}{person: 21 468 467}{name: 1792}{hidetextbox: 0}
+Oh?{wait: 20} The defense disagrees.{wait_noanim: 30}{nextpage_button}{person: 21 470 469}{speed: 4}
+You see,{wait: 8} the defendant had{b}{color: 1}
+another choice{color: 0} he could make.{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 23 509}{wait: 32}{hidetextbox: 1}{person: 23 524 524}{0x63}{person: 23 525 525}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 23 527 526}{name: 13568}{hidetextbox: 0}{name: 13568}{speed: 4}
+What,{wait: 6} and you can prove{b}
+that with {showphoto: 25}{bgcolor: 2305 8 31}{shake: 30 0}this photo!?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 4096 21 467}{wait: 32}{person: 21 471 467}{0x63}{person: 21 468 467}{name: 1792}{hidetextbox: 0}{speed: 3}
+...I can prove he had a{wait: 6}{b}{color: 1}
+choice{color: 0},{wait: 12} yes.{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{endjmp}
+
+{{17}}
+{bop}{fademusic: 0}{music: 49 0}{bg: 36}{person: 10 266 266}{name: 2560}{hidetextbox: 0}{speed: 3}"The defendant might have{b}
+fired,{wait: 7} like he was ordered."{p}{speed: 4}
+"But he didn't shoot the{b}
+victim's forehead."{nextpage_button}{0x6c: 0}{0x6e: 20}{person: 10 263 262}{speed: 3}
+Well,{wait: 10} let's hear what you're{b}
+thinking,{wait: 8} Mr. Wright.{nextpage_button}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{bg: 152}{person: 0 0 0}{bgcolor: 257 1 31}{wait: 7}{name: 2560}{hidetextbox: 0}{person: 0 0 0}{color: 3}
+If he didn't shoot the{b}
+victim's forehead,{wait: 8} what did{b}
+the defendant shoot?{color: 0}{0x3e: 9}{wait: 60}{0x3f}{endjmp}
+
+{{18}}
+{bop}{littlesprite: 256}{fademusic: 60}{bg: 36}{person: 10 266 266}{name: 2560}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{0x6d: 0}{speed: 5}Ah...{wait: 20} {speed: 4}I see!{wait: 40}{b}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Which is to say...{nextpage_button}{person: 10 259 258}
+...I have no idea what you're{b}
+talking about.{wait: 12} Prosecutor{b}
+Gavin?{p}{bg: 33}{person: 23 515 514}{name: 13568}{speed: 4}
+The defendant had a choice{b}
+other than shooting the{b}
+victim in the forehead?{p}{speed: 3}
+...Perhaps I might suggest{b}
+one.{nextpage_button}{hidetextbox: 1}{person: 23 520 520}{0x63}{hidetextbox: 0}{person: 23 517 517}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+He could{bgcolor: 2305 8 31} have shot this{bgcolor: 2305 8 31}{b}
+attorney in{bgcolor: 2305 8 31} the forehead!{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 481}{wait: 32}{name: 1792}{person: 21 481 481}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 1}
+...Urk{bgcolor: 2305 8 31}!{wait: 20}{nextpage_button}{bg: 36}{person: 10 266 266}{name: 2560}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Ah...{wait: 20} {speed: 4}I see.{wait: 40}{b}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Which is to say...{nextpage_button}{person: 10 259 258}
+...{wait: 8}I still don't see.{nextpage_button}{bg: 36}{person: 10 263 262}{name: 2560}{0x6c: 0}{0x6e: 20}
+Still,{wait: 8} when in doubt,{wait: 8} give{b}
+a penalty,{wait: 10} I always say.{b}{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 32}{person: 21 481 481}{name: 1792}{shake: 30 0}{color: 2}{speed: 5}
+(Ugh.{wait: 20} {speed: 3}Time to think this one{b}
+through again.){fademusic: 0}{music: 47 80}{nextpage_button}{color: 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 22 491 491}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{19}}
+{bop}{littlesprite: 256}{fademusic: 45}{0x66: 109 0 27}{reset}{person: 10 265 264}{name: 2560}{hidetextbox: 0}{speed: 3}The clown doll{speed: 8}...?{nextpage_button}{bg: 32}{person: 21 468 467}{name: 1792}{speed: 4}
+Take a closer look.{wait_noanim: 25} See?{wait_noanim: 25}{person: 21 489 488}{sound: 52 1}{bgcolor: 2305 8 31} It's{b}
+been {color: 1}shot{color: 0} in the forehead,{b}
+too.{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 6}{wait: 10}
+Ah{0x5a}...!{wait: 20} {0x59}{speed: 3}There's a{wait: 6} {color: 1}hole{color: 0}{wait: 12} in its{b}{shake: 30 0}
+forehead!{nextpage_button}{bg: 32}{hidetextbox: 1}{person: 21 473 474}{wait: 70}{hidetextbox: 0}{person: 21 475 474}{name: 1792}{speed: 2}
+Yes,{wait: 12} and a {color: 1}hole{color: 0} in the{b}{shake: 30 0}{bgcolor: 2305 8 31}
+prosecution's claim!{fademusic: 0}{music: 18 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 1 23 509}{wait: 32}{name: 13568}{person: 23 510 509}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Hah!{wait: 20} {speed: 3}And I suppose you have{b}
+a reason as to why he'd shoot{b}
+the clown doll?{nextpage_button}{hidetextbox: 1}{bg: 32}{name: 1792}{person: 21 472 467}{0x63}{person: 21 468 467}{hidetextbox: 0}
+He didn't just shoot the {color: 1}doll{color: 0}.{0x5a}{wait: 15}{b}{person: 21 489 488}{sound: 52 1}{bgcolor: 2305 8 31}{0x59}
+He shot the doll's {color: 1}forehead{color: 0}.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 23 526}{wait: 32}{name: 13568}{person: 23 527 526}{hidetextbox: 0}{speed: 5}
+His "forehead"{0x5a}{speed: 7}...?{wait: 30}{b}{person: 23 522 521}{animation: 149 1}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}{wait: 10}
+Aah...!{nextpage_button}{bg: 32}{person: 21 468 467}{name: 1792}{showphoto: 470}{speed: 3}
+Let's read the{wait: 6} "orders"{wait: 6} once{b}
+more,{wait: 12} shall we?{p}{person: 21 480 479}{speed: 4}
+"...You will shoot,{wait: 10} one shot,{wait: 6}{b}
+square in the forehead."{p}{person: 21 468 467}{speed: 3}
+...{wait: 12}Which is exactly what he{b}
+did.{nextpage_button}{bganim: 98 579}{person: 21 478 477}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+He shot the clown doll square{b}
+in the forehead!{p}{hidetextbox: 1}{bg: 31}{person: 0 0 0}{animation: 69 1}{animation: 70 1}{animation: 71 1}{animation: 73 1}{animation: 72 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 36}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 3}
+The defense has raised an{b}
+intriguing possibility.{nextpage_button}{bg: 152}{person: 0 0 0}{speed: 5}
+That hole in the clown's{b}
+forehead...{wait: 30} {bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}It definitely{b}
+looks like it was shot!{nextpage_button}{bg: 36}{person: 10 259 258}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Bailiff!{wait: 16} Send someone to{b}
+investigate this matter!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 33}{hidetextbox: 1}{person: 23 524 524}{0x63}{person: 23 525 525}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 23 527 526}{name: 13568}{hidetextbox: 0}{speed: 5}
+I admit,{wait: 10} I'm impressed.{wait: 20}{b}{speed: 3}
+But I expected nothing less.{nextpage_button}{person: 23 519 518}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Still,{wait: 6} {speed: 3}this doesn't mean he{b}{color: 1}
+didn't shoot the victim{color: 0}!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 37 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 21 479}{wait: 32}{person: 21 480 479}{name: 1792}{showphoto: 470}{hidetextbox: 0}
+Perhaps he did have to shoot{b}
+a forehead,{wait: 6} as ordered.{nextpage_button}{person: 21 468 467}
+But the letter says nothing{b}
+about whose forehead{0x5a}...{nextpage_button}{bganim: 98 579}{fademusic: 45}{person: 21 476 477}{sound: 50 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+This was the only way he{bgcolor: 2305 8 31}{b}
+had to follow his orders{b}
+without taking a life!{nextpage_button}{bg: 36}{person: 10 266 266}{name: 2560}{speed: 6}
+Hmm.{wait: 30} {person: 10 259 258}{speed: 3}The bullet hole in the{b}
+clown doll's forehead does{b}
+demand an explanation.{p}{person: 10 263 262}
+It might very well be a clue.{wait: 16}{b}
+Yet Prosecutor Gavin is right.{p}{person: 10 266 266}{wait: 20}{person: 10 259 258}{speed: 4}
+It alone does not prove the{b}
+defendant's innocence.{nextpage_button}{person: 10 259 258}
+You cannot say for sure the{b}
+defendant didn't shoot the{b}
+victim.{nextpage_button}{bg: 33}{person: 23 513 512}{name: 13568}{sound: 52 1}{bgcolor: 2305 8 31}
+So sorry,{wait: 5} Mr. Wright.{wait: 16} {speed: 4}How sad{b}
+it is to see the mighty fall.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 474}{wait: 32}{name: 1792}{person: 21 474 474}{hidetextbox: 0}{speed: 4}{color: 2}
+(...How sad it is to see the{b}
+novice's overconfidence.){p}{person: 21 467 467}{speed: 3}
+(He doesn't realize just how{b}
+big this little{wait: 6} "{color: 1}hole{color: 2}"{wait: 6} is{b}
+going to get.){nextpage_button}{color: 0}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 36}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}
+...Detective Gumshoe.{fademusic: 0}{music: 47 140}{nextpage_button}{person: 10 263 262}
+Please take this new-found{b}
+fact into account as you{b}
+continue your testimony.{nextpage_button}{0x10: 33618}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 22 491 491}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}
+
+{{20}}
+{bop}{0x6d: 0}{bg: 32}{person: 21 468 467}{name: 1792}{hidetextbox: 0}{hidetextbox: 1}{person: 21 473 474}{wait: 70}{hidetextbox: 0}{person: 21 475 474}But... it might have been{b}
+the clown's forehead he shot.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 22 491}{wait: 32}{bg: 34}{name: 5632}{person: 22 492 491}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+OK,{wait: 10} so he practiced first{b}
+on the doll,{wait: 10} then shot him!{p}{bg: 32}{person: 21 470 469}{name: 1792}
+He "practiced" in the middle{b}
+of the hospital?{wait: 12} {speed: 3}Anyone could{b}
+have come in at any moment!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 22 499}{wait: 32}{name: 5632}{person: 22 500 499}{hidetextbox: 0}
+Yeah,{wait: 8} but no one did come,{wait: 8}{b}
+did they,{wait: 8} pal?{nextpage_button}{person: 22 498 497}{sound: 51 1}{shake: 30 0}{bgcolor: 2305 8 31}
+Besides,{wait: 6} it's what I woulda{b}
+done.{wait: 16} "Always look before{b}
+you shoot," I say.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 23 509}{wait: 32}{hidetextbox: 0}{bg: 33}{name: 13568}{person: 23 510 509}
+...{wait: 16}Might I suggest we move on?{wait: 20}{b}
+This is getting us nowhere.{nextpage_button}{bg: 32}{name: 1792}{person: 21 474 474}{speed: 4}{color: 2}
+(Patience.{wait: 12} We'll get there{b}
+sooner than you think.){nextpage_button}{color: 0}{bg: 36}{person: 10 263 262}{name: 2560}{hidetextbox: 0}
+Very well.{wait: 16} Please continue{b}
+with your testimony,{wait: 8}{b}
+detective.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 22 505 505}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{21}}
+{bop}{0x6d: 0}{bg: 32}{person: 21 470 469}{name: 1792}{hidetextbox: 0}{showphoto: 473}{speed: 3}You mean this pistol, the one{b}
+in the crime scene photo?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 22 491}{wait: 32}{hidetextbox: 0}{bg: 34}{person: 22 494 493}{name: 5632}{bgcolor: 2305 8 31}{shake: 30 0}
+...That's the one!{p}
+It's a funny-looking gun{b}{person: 22 498 497}{bgcolor: 2305 8 31}
+so there's no mistaking it.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 23 514}{wait: 32}{person: 23 515 514}{name: 13568}{hidetextbox: 0}
+We compared the bullet taken{b}{showphoto: 217}
+from the victim's skull with{b}
+a bullet fired from this gun.{nextpage_button}{person: 23 510 509}
+The rifling marks on the{b}
+bullets were a perfect match.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 4096 21 474}{wait: 32}{name: 1792}{person: 21 475 474}{hidetextbox: 0}{speed: 5}
+So...{wait: 16} {speed: 3}you verified the{b}
+murder weapon,{wait: 8} in other words.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 22 497}{wait: 32}{person: 22 496 495}{name: 5632}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+You bet we did!{nextpage_button}{0x10: 33616}{0x51: 3 53}
+{20736}{976}{0x35: 21249 @RelativeAddress0}{0x10: 849}{jmp: 152}{endjmp}{endjmp}{@RelativeAddress0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 22 491 491}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 135}{endjmp}
+
+{{22}}
+{bop}{0x6d: 0}{bg: 32}{person: 21 468 467}{name: 1792}{hidetextbox: 0}...Why are you so certain?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 22 497}{wait: 32}{person: 22 498 497}{name: 5632}{hidetextbox: 0}{speed: 3}
+What pile of sand has your{b}
+head been stuck in all this{b}
+time,{wait: 8} pal?{nextpage_button}{person: 22 506 505}{speed: 3}
+You never heard of {speed: 2}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}"Zak &{b}{bgcolor: 2305 8 31}
+Valant's Quick-Draw Shootem"?{nextpage_button}{bg: 32}{person: 21 470 469}{name: 1792}
+Huh?{wait: 15} What's that?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 22 497}{wait: 32}{person: 22 498 497}{name: 5632}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 2}
+One of the defendant's{b}
+specialties.{p}{hidetextbox: 1}{bgcolor: 1025 8 31}{wait: 1}{person: 0 0 0}{bg: 168}{bgcolor: 770 1 31}{wait: 15}{wait: 70}{hidetextbox: 0}{speed: 3}
+Zak and Valant stand on either{b}
+side of a girl!{p}{sound: 155 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Then,{wait: 8} they shoot!{p}{speed: 3}
+But the bullets don't hit{b}
+her!{nextpage_button}{bg: 34}{person: 22 502 501}{sound: 96 1}{shake: 30 0}{bgcolor: 2305 8 31}
+Instead,{shake: 30 2} they hit {sound: 155 1}{bgcolor: 2305 8 31}everything {sound: 155 1}{b}{bgcolor: 2305 8 31}
+else on stage{shake: 30 2}{sound: 155 1}!!!{wait_noanim: 20}{person: 22 495 495}{nextpage_button}{person: 22 494 493}{showphoto: 217}
+This was one of the pistols{b}
+they used in their show.{p}
+Got a great design,{wait: 8} huh?{wait: 16}{b}{person: 22 498 497}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+The kids love it.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 2 1 23 509}{wait: 32}{person: 23 510 509}{name: 13568}{showphoto: 217}{hidetextbox: 0}{speed: 3}
+Many boys and girls joined the{b}
+police because of that pistol,{wait: 15}{b}
+I hear.{nextpage_button}{bganim: 98 579}{bg: 32}{person: 21 481 481}{name: 1792}{color: 2}
+(You know,{wait: 10} that would explain{b}
+a lot about the police force.){color: 0}{nextpage_button}{bg: 34}{person: 22 500 499}{name: 5632}
+Troupe Gramarye stopped{b}
+doing that act a while ago.{p}{person: 22 494 493}
+The old man held on to that{b}
+pistol ever since.{nextpage_button}{0x10: 33617}{0x51: 3 53}
+{20480}{1884}{0x35: 21249 @RelativeAddress1}{0x10: 848}{jmp: 152}{endjmp}{endjmp}{@RelativeAddress1}{0x35: 20992 @RelativeAddress2}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 22 491 491}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}{endjmp}{@RelativeAddress2}{jmp: 136}{endjmp}
+
+{{23}}
+{bop}{0x6d: 0}{bg: 32}{person: 21 470 469}{name: 1792}{hidetextbox: 0}So let me get this straight.{p}{person: 21 480 479}
+You're saying my client first{b}
+shot the clown,{wait: 8} then shot the{b}
+victim?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 22 495}{wait: 32}{name: 5632}{person: 22 496 495}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}
+Hey!{wait: 20} Not a bad summary,{wait: 8} pal!{p}{bg: 32}{name: 1792}{person: 21 469 469}{speed: 4}{color: 2}
+(More of a confirmation than{b}
+a summary,{wait: 10} but whatever.){nextpage_button}{color: 0}{hidetextbox: 1}{swoosh: 1 1 23 509}{wait: 32}{name: 13568}{person: 23 510 509}{hidetextbox: 0}{speed: 3}
+That was really more of a{b}
+confirmation than a summary.{nextpage_button}{person: 23 513 512}
+But our defense attorney seems{b}
+pleased enough with himself.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 481}{wait: 32}{name: 1792}{person: 21 481 481}{hidetextbox: 0}{speed: 5}{color: 2}
+(Do these people ever miss{b}
+a chance to mock me?){p}{color: 0}{hidetextbox: 1}{swoosh: 1 1 23 512}{wait: 32}{name: 13568}{person: 23 513 512}{hidetextbox: 0}
+Well, now that Mr. Wright's{b}
+gotten that out of his{b}
+system...{p}{person: 23 510 509}
+...shall we continue with the{b}
+testimony?{nextpage_button}{jmp: 136}{endjmp}
+
+{{24}}
+{bop}{fademusic: 60}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 36}{person: 10 259 258}{name: 2560}{hidetextbox: 0}...The court would like to{b}
+see the pistol in question.{nextpage_button}{bg: 34}{person: 22 498 497}{name: 5632}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+You got it,{wait: 10} sir!{b}{showphoto: 217}{speed: 3}
+Here she is!{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Well.{wait: 20} {speed: 3}This truly is a "blast"{b}
+from the past.{nextpage_button}{bganim: 98 579}{bg: 34}{person: 22 494 493}{name: 5632}
+It's a stage pistol for magic{b}
+shows,{wait: 10} see.{p}{person: 22 492 491}
+But it can fire real bullets.{nextpage_button}{bg: 36}{person: 10 266 266}{name: 2560}{showphoto: 217}{speed: 6}
+Hmm.{wait: 30}{person: 10 265 264}{speed: 3} It looks so much bigger{b}
+in real life than on TV.{nextpage_button}{bg: 34}{person: 22 496 495}{name: 5632}
+Yeah,{wait: 12} but it can only hold{b}
+one round.{p}{person: 22 494 493}{speed: 4}
+...By the way,{wait: 12} the pistol's{b}
+firing chamber is empty.{p}{person: 22 498 497}{speed: 3}
+...{wait: 15}And it shows traces of{b}
+having been fired recently.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 1 21 469}{wait: 32}{person: 21 470 469}{name: 1792}{hidetextbox: 0}{speed: 3}
+So... were any fingerprints{b}
+found on the gun?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 23 509}{wait: 32}{person: 23 510 509}{name: 13568}{hidetextbox: 0}{speed: 5}
+...Unfortunately, no.{nextpage_button}{person: 23 513 512}{speed: 4}
+Of course,{wait: 8} the defendant{b}
+is known for wearing gloves.{nextpage_button}{bg: 33}{person: 23 513 512}{name: 13568}{speed: 3}
+We might say that a lack of{b}
+fingerprints is,{wait: 16} in fact,{wait: 8} a{b}
+"fingerprint" of its own.{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah ha!{wait: 16} {speed: 3}Intriguing point,{wait: 8} well{b}
+made!{nextpage_button}{bg: 32}{person: 21 482 481}{name: 1792}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Whoa whoa whoa!{wait: 16}{b}{speed: 3}
+Not well made!{wait: 16} Not intriguing!{nextpage_button}{bg: 36}{person: 10 259 258}{name: 2560}
+In any case,{wait: 8} the court accepts{b}
+this evidence.{nextpage_button}{newevidence: 16601}{name: 0}{speed: 4}{color: 2}
+Stage Pistol added to the{b}
+Court Record.{b}{p}{speed: 255}{color: 0}{person: 10 259 258}{name: 2560}
+...My grandchild would get{b}
+a kick out of seeing this.{nextpage_button}{person: 10 263 262}
+...{wait: 10}But now it's time to return{b}
+to our testimony.{nextpage_button}{fademusic: 0}{music: 47 100}{0x10: 33619}{0x51: 3 53}
+{20737}{2418}{0x10: 33617}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 22 497 497}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 135}{endjmp}{endjmp}{0x10: 33616}{0x35: 20993 @RelativeAddress3}{jmp: 136}{endjmp}{endjmp}{@RelativeAddress3}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 22 497 497}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}
+
+{{25}}
+{bop}{0x29: 0}{0x6d: 0}{fademusic: 30}{bg: 32}{person: 21 475 474}{name: 1792}{speed: 4}The trickiest cases often{b}
+seem the simplest.{p}{speed: 3}
+Prosecutor Gavin,{wait: 10} you missed{b}{person: 21 470 469}
+the {color: 1}bullet hole{color: 0} in the clown's{b}
+forehead.{p}
+If you hadn't missed that,{wait: 12}{b}
+you might have come to a very{b}
+different conclusion.{nextpage_button}{person: 21 468 467}
+...Understand?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 22 493}{wait: 32}{person: 22 494 493}{name: 5632}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 2}
+Y-{wait: 15}Yeah,{wait: 20} {speed: 3}but like I just{b}
+said,{wait: 12} pal...{p}{person: 22 506 505}
+...after he shot the clown{b}{shake: 30 0}{bgcolor: 2305 8 31}
+in the forehead,{wait: 12} he went{b}
+and...{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 37 1}{wait: 60}{hidetextbox: 1}{swoosh: 0 1 21 467}{wait: 32}{person: 21 468 467}{name: 1792}{person: 21 472 467}{0x63}{hidetextbox: 0}{person: 21 468 467}{speed: 4}
+...{wait: 15}Did nothing of the sort{b}
+to the victim.{wait_noanim: 30}{person: 21 480 479}{showphoto: 473}{speed: 3} The pistol{b}
+proves he could not.{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+The murder weapon?{wait: 16} How?{nextpage_button}{bganim: 98 579}{bg: 32}{person: 21 470 469}{name: 1792}
+It's quite simple,{wait: 8} Your{b}
+Honor.{p}{showphoto: 473}{speed: 3}
+This pistol only holds one{b}
+bullet at a time.{nextpage_button}{bganim: 98 579}{bg: 34}{person: 22 492 491}{name: 5632}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{wait: 10}
+Ah{0x5a}...!{nextpage_button}{bg: 32}{hidetextbox: 1}{person: 21 473 474}{wait: 70}{hidetextbox: 0}{person: 21 475 474}{name: 1792}
+If he had shot the clown in{b}
+the forehead...{nextpage_button}{0x26: 1}{bgtile: 1}{bg: 23}{person: 61 1025 1024}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 10}he couldn't{bgcolor: 2305 8 31} have shot{b}
+the {bgcolor: 2305 8 31}victim,{wait: 10} too!{b}{fademusic: 0}{music: 54 0}{nextpage_button}{hideperson}{0x26: 0}{bg: 34}{person: 22 505 505}{name: 5632}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Yeeeeeeee{bgcolor: 2305 8 31}e{shake: 30 2}eeeeargh!{wait: 40}{nextpage_nobutton}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 33}{hidetextbox: 1}{person: 23 524 524}{0x63}{person: 23 525 525}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 23 527 526}{name: 13568}
+Th-{wait: 10}That'{bgcolor: 2305 8 31}{shake: 30 0}s not a contradiction.{b}{speed: 2}
+Not even close!{nextpage_button}{person: 23 519 518}{sound: 26 1}{bgcolor: 2305 8 31}
+All he had to do was{b}
+reload the pistol after{b}
+the first shot!{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 37 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 21 474}{wait: 32}{person: 21 475 474}{name: 1792}{hidetextbox: 0}{speed: 3}
+Oh?{wait: 10} Where did he get the{b}
+extra bullet?{wait: 16} They're not{b}
+so easy to come by,{wait: 8} you know.{p}
+If you claim the defendant{b}
+"{color: 1}had one ready{color: 0}"...{p}{person: 21 478 477}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+...then prove to us how{b}
+he got it!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 23 521}{wait: 32}{person: 23 522 521}{animation: 149 1}{name: 13568}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Urk{bgcolor: 2305 8 31}...!{nextpage_button}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 40}{b}{person: 23 511 511}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Heh...{wait: 20} {speed: 4}Ha ha ha...{nextpage_button}{person: 23 513 512}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+I had a feeling this wasn't{b}
+over yet.{nextpage_button}{person: 23 515 514}{speed: 4}
+No...{wait: 20} {speed: 3}this party's just{b}
+getting started.{nextpage_button}{person: 23 510 509}
+And I haven't proven anything{b}
+yet,{wait: 8} beyond my good looks,{wait: 8}{b}
+and startling record sales.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 467}{wait: 32}{name: 1792}{person: 21 467 467}{hidetextbox: 0}{speed: 5}{color: 2}
+(And utter lack of humility.){color: 0}{nextpage_button}{bg: 36}{person: 10 266 266}{name: 2560}{speed: 6}
+Hmm...{wait: 30}{speed: 4}{b}{person: 10 259 258}{speed: 4}
+Ah... what's this?{nextpage_button}{person: 10 263 262}{speed: 3}
+It seems that the prosecution{b}
+has another witness prepared.{nextpage_button}{bg: 33}{person: 23 513 512}{name: 13568}
+Like I said,{wait: 6} Herr Detective{b}
+was just the warm-up act.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 22 503}{wait: 32}{person: 22 504 503}{name: 5632}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 4}
+...Ugh.{nextpage_button}{bg: 33}{person: 23 513 512}{name: 13568}{speed: 3}
+Now that the audience has{b}
+gotten a taste of what's to{b}
+come,{wait: 10} they're ready.{nextpage_button}{bg: 32}{person: 21 468 467}{name: 1792}
+...Ready for what?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 23 509}{wait: 32}{person: 23 510 509}{name: 13568}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+For my decisive witness,{wait: 8}{b}
+of course.{p}{speed: 4}
+A witness who,{wait: 16} you will find,{wait: 8}{b}
+can prove one thing for us:{nextpage_button}{fademusic: 45}{hidetextbox: 1}{person: 23 524 524}{0x63}{person: 23 525 525}{sound: 25 1}{wait: 70}{hidetextbox: 0}{hidetextbox: 1}{person: 23 520 520}{0x63}{hidetextbox: 0}{person: 23 517 517}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+That it was Zak{bgcolor: 2305 8 31} Gramarye who{b}
+shot the {bgcolor: 2305 8 31}victim {bgcolor: 2305 8 31}in the{b}
+forehead!{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 36}{person: 10 260 260}{name: 2560}{hidetextbox: 0}{speed: 4}
+...Very well.{wait: 40}{p}{person: 10 259 258}{speed: 3}
+We will pause for a {b}
+15-minute recess.{nextpage_button}{bg: 32}{person: 21 467 467}{name: 1792}{speed: 5}{color: 2}
+(This might be my lucky{b}
+break{speed: 8}...){nextpage_button}{speed: 3}
+(I'll need that 15 minutes{b}{person: 21 469 469}
+to talk to my client... Zak.){nextpage_button}{color: 0}{bg: 36}{person: 10 259 258}{name: 2560}
+...Court is adjourned!{nextpage_button}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{hidetextbox: 0}{0x48: 128 142}{speed: 0}{soundtoggle: 0}{b}{b}
+To be continued.{bgcolor: 260 1 31}{wait: 25}{wait: 160}{fademusic: 120}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{wait: 20}{savegame}{bop}{special_jmp}{endjmp}

@@ -1,0 +1,75 @@
+
+
+{{0}}
+{bop}{bganim: 0 8192}{0x30: 255}{animation: 212 1}{0x6b: 0 0 0}{0x7f: 14}{name: 0}{center_text: 1}{speed: 8}{b}
+Sugar, Sugar...{wait: 15}{b}{0x6b: 80 0 0}{0x7f: 14}{speed: 6}
+O that night,{wait: 20} in your embrace.{0x6b: 185 0 0}{0x7f: 14}{nextpage_nobutton}{speed: 8}{b}
+When you stole{wait: 20} away the keys{wait: 20}{0x6b: 264 0 0}{0x7f: 14}{speed: 8}{b}
+my heart{wait: 20} held on to so tight.{0x6b: 358 0 0}{0x7f: 14}{nextpage_nobutton}{name: 0}{0x6b: 420 0 0}{0x7f: 14}{speed: 7}{b}
+Pleasure...{wait: 50}{b}{0x6b: 460 0 0}{0x7f: 14}{speed: 8}
+But a fleeting{wait: 45} melody{0x6b: 559 0 0}{0x7f: 14}{nextpage_nobutton}{b}{wait: 20}
+It wraps {wait: 10}itself around me,{b}{0x6b: 640 0 0}{0x7f: 14}
+And now through the air I fly.{0x6b: 738 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 770 0 0}{0x7f: 14}{speed: 8}{wait: 30}{b}{b}
+Woh...{wait: 30} Woh...{0x6b: 841 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 855 0 0}{0x7f: 14}{name: 0}{speed: 8}{b}
+Burning on in my heart.{wait: 24} Fire.{b}{0x6b: 930 0 0}{0x7f: 14}{wait: 10}
+Burn my love away.{wait: 15} All away.{wait: 60}{0x6b: 1000 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 1014 0 0}{0x7f: 14}{speed: 8}{b}
+Like a bullet of{wait: 30} love. Fire.{b}{0x6b: 1096 0 0}{0x7f: 14}{wait: 10}
+Take my life away.{wait: 12} All away.{0x6b: 1190 0 0}{0x7f: 14}{nextpage_nobutton}{name: 0}{0x6b: 1200 0 0}{0x7f: 14}{b}{speed: 8}
+Guitar, Guitar...{wait: 15}{b}{0x6b: 1265 0 0}{0x7f: 14}{0x6b: 1270 0 0}{0x7f: 14}{speed: 13}
+Up together{wait: 25} to the sky.{0x6b: 1360 0 0}{0x7f: 14}{nextpage_nobutton}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{bganim: 0 8192}{0x30: 255}{animation: 212 1}{name: 0}{center_text: 1}{speed: 0}O that night, in your embrace.{speed: 255}{0x6b: 185 0 0}{0x7f: 14}{nextpage_nobutton}{speed: 8}{b}
+When you stole{wait: 25} away the keys{wait: 20}{0x6b: 264 0 0}{0x7f: 14}{speed: 8}{b}
+my heart{wait: 20} held on to so tight.{0x6b: 358 0 0}{0x7f: 14}{nextpage_nobutton}{name: 0}{0x6b: 420 0 0}{0x7f: 14}{speed: 7}{b}
+Pleasure...{wait: 50}{b}{0x6b: 460 0 0}{0x7f: 14}{speed: 8}
+But a fleeting{wait: 45} melody{0x6b: 559 0 0}{0x7f: 14}{nextpage_nobutton}{b}{wait: 20}
+It wraps {wait: 10}itself around me,{b}{0x6b: 640 0 0}{0x7f: 14}
+And now through the air I fly.{0x6b: 738 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 770 0 0}{0x7f: 14}{speed: 8}{wait: 30}{b}{b}
+Woh... {wait: 30}Woh...{0x6b: 841 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 855 0 0}{0x7f: 14}{name: 0}{speed: 8}{b}
+Burning on in my heart.{wait: 24} Fire.{b}{0x6b: 930 0 0}{0x7f: 14}{wait: 10}
+Burn my love away.{wait: 15} All away.{wait: 60}{0x6b: 1000 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 1014 0 0}{0x7f: 14}{speed: 8}{b}
+Like a bullet of{wait: 30} love. Fire.{b}{0x6b: 1096 0 0}{0x7f: 14}{wait: 10}
+Take my life away.{wait: 12} All away.{0x6b: 1190 0 0}{0x7f: 14}{nextpage_nobutton}{name: 0}{0x6b: 1200 0 0}{0x7f: 14}{b}{speed: 8}
+Guitar, Guitar...{wait: 15}{b}{0x6b: 1265 0 0}{0x7f: 14}{0x6b: 1270 0 0}{0x7f: 14}{speed: 13}
+Up together{wait: 25} to the sky.{0x6b: 1360 0 0}{0x7f: 14}{nextpage_nobutton}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{bganim: 0 8192}{0x30: 255}{animation: 212 1}{name: 0}{center_text: 1}{0x6b: 420 0 0}{0x7f: 14}{speed: 7}{b}
+Pleasure...{wait: 50}{b}{0x6b: 460 0 0}{0x7f: 14}{speed: 8}
+But a fleeting{wait: 45} melody{0x6b: 559 0 0}{0x7f: 14}{nextpage_nobutton}{b}{wait: 20}
+It wraps {wait: 10}itself around me,{b}{0x6b: 640 0 0}{0x7f: 14}
+And now through the air I fly.{0x6b: 738 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 770 0 0}{0x7f: 14}{speed: 8}{wait: 30}{b}{b}
+Woh... {wait: 30}Woh...{0x6b: 841 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 855 0 0}{0x7f: 14}{name: 0}{speed: 8}{b}
+Burning on in my heart.{wait: 24} Fire.{b}{0x6b: 930 0 0}{0x7f: 14}{wait: 10}
+Burn my love away.{wait: 15} All away.{wait: 60}{0x6b: 1000 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 1014 0 0}{0x7f: 14}{speed: 8}{b}
+Like a bullet of{wait: 30} love. Fire.{b}{0x6b: 1096 0 0}{0x7f: 14}{wait: 10}
+Take my life away.{wait: 12} All away.{0x6b: 1190 0 0}{0x7f: 14}{nextpage_nobutton}{name: 0}{0x6b: 1200 0 0}{0x7f: 14}{b}{speed: 8}
+Guitar, Guitar...{wait: 15}{b}{0x6b: 1265 0 0}{0x7f: 14}{0x6b: 1270 0 0}{0x7f: 14}{speed: 13}
+Up together{wait: 25} to the sky.{0x6b: 1360 0 0}{0x7f: 14}{nextpage_nobutton}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{bganim: 0 8192}{0x30: 255}{animation: 212 1}{name: 0}{center_text: 1}{0x6b: 566 0 0}{0x7f: 14}{nextpage_nobutton}{b}{wait: 20}
+It wraps {wait: 10}itself around me,{b}{0x6b: 640 0 0}{0x7f: 14}
+And now through the air I fly.{0x6b: 738 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 770 0 0}{0x7f: 14}{speed: 8}{wait: 30}{b}{b}
+Woh... {wait: 30}Woh...{0x6b: 841 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 855 0 0}{0x7f: 14}{name: 0}{speed: 8}{b}
+Burning on in my heart.{wait: 24} Fire.{b}{0x6b: 930 0 0}{0x7f: 14}{wait: 10}
+Burn my love away.{wait: 15} All away.{wait: 60}{0x6b: 1000 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 1014 0 0}{0x7f: 14}{speed: 8}{b}
+Like a bullet of{wait: 30} love. Fire.{b}{0x6b: 1096 0 0}{0x7f: 14}{wait: 10}
+Take my life away.{wait: 12} All away.{0x6b: 1190 0 0}{0x7f: 14}{nextpage_nobutton}{name: 0}{0x6b: 1200 0 0}{0x7f: 14}{b}{speed: 8}
+Guitar, Guitar...{wait: 15}{b}{0x6b: 1265 0 0}{0x7f: 14}{0x6b: 1270 0 0}{0x7f: 14}{speed: 13}
+Up together{wait: 25} to the sky.{0x6b: 1360 0 0}{0x7f: 14}{nextpage_nobutton}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{bganim: 0 8192}{0x30: 255}{animation: 212 1}{name: 0}{center_text: 1}{0x6b: 863 0 0}{0x7f: 14}{name: 0}{speed: 8}{b}
+Burning on in my heart.{wait: 24} Fire.{b}{0x6b: 930 0 0}{0x7f: 14}{wait: 10}
+Burn my love away.{wait: 15} All away.{wait: 60}{0x6b: 1000 0 0}{0x7f: 14}{nextpage_nobutton}{0x6b: 1014 0 0}{0x7f: 14}{speed: 8}{b}
+Like a bullet of{wait: 30} love. Fire.{b}{0x6b: 1096 0 0}{0x7f: 14}{wait: 10}
+Take my life away.{wait: 12} All away.{0x6b: 1190 0 0}{0x7f: 14}{nextpage_nobutton}{name: 0}{0x6b: 1200 0 0}{0x7f: 14}{b}{speed: 8}
+Guitar, Guitar...{wait: 15}{b}{0x6b: 1265 0 0}{0x7f: 14}{0x6b: 1270 0 0}{0x7f: 14}{speed: 13}
+Up together{wait: 25} to the sky.{0x6b: 1360 0 0}{0x7f: 14}{nextpage_nobutton}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{bganim: 0 8192}{0x30: 255}{animation: 212 1}{name: 0}{center_text: 1}{0x6b: 1202 0 0}{0x7f: 14}{b}{speed: 8}
+Guitar, Guitar...{wait: 15}{b}{0x6b: 1265 0 0}{0x7f: 14}{0x6b: 1270 0 0}{0x7f: 14}{speed: 13}
+Up together{wait: 25} to the sky.{0x6b: 1360 0 0}{0x7f: 14}{nextpage_nobutton}{special_jmp}{endjmp}

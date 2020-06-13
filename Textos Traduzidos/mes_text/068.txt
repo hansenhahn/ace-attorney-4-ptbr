@@ -1,0 +1,166 @@
+
+
+{{0}}
+{bop}{0x10: 32901}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{name: 1024}The TV's been left on. Hmm...{wait: 16}{b}
+Looks like the Steel Samurai's{b}
+in a spot of trouble.{p}
+I'm sure he'll come back to{b}
+win in the end.{wait: 16} Mr. Wright{b}
+likes those kind of stories.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{name: 1024}A toy piano,{wait: 8} one that might{b}
+be played by a child.{p}
+Correction: A pink toy piano.{wait: 16}{b}
+I guess the man likes pink.{wait: 15}{b}
+Nothing wrong with that.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{name: 1024}A swaying,{wait: 8} spiraling stack{b}
+of DVD cases.{p}
+Better stay away or it'll{b}
+become a crashing cascading{b}
+cavalcade of DVD cases.{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{name: 1024}Mr. Wright's bed.{wait: 16}{b}
+My,{wait: 12} it's messy.{p}
+Trucy must clean up after him{b}
+at home.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{name: 1024}A bottle of Mr. Wright's{b}
+favorite brand of grape juice.{p}
+Me?{wait: 16} I haven't been able to{b}
+touch the stuff since that{b}
+first case.{nextpage_button}
+...{wait: 20}Not a problem for{b}
+Mr. Wright,{wait: 10} apparently.{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{0x26: 0}{person: 0 0 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16{b}
+Hickfield Clinic{p}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{name: 1792}{person: 7 178 177}{hidetextbox: 0}
+Ah,{wait: 16} the prodigal attorney{b}
+returns!{wait: 16} Welcome,{wait: 8} Apollo.{p}
+I heard you did well in the{b}
+trial today.{p}
+Here to discuss something?{wait_noanim: 15}{b}{person: 7 184 183}
+I could use a little{b}
+diversion...{p}{name: 1024}{person: 7 183 183}{speed: 3}{color: 2}
+(What did Detective Skye say?){p}{speed: 4}
+(If you want to know{b}
+something, you have to{b}
+investigate it yourself...){color: 0}{p}{person: 7 179 179}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Mr. Wright!{p}{person: 7 179 179}{speed: 5}
+Tell me what happened seven{b}
+years ago...{wait: 20} {speed: 3}please.{p}
+I want to know.{wait: 20}{b}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+I need to know!{p}{name: 1792}{person: 7 182 181}{speed: 4}
+You certainly didn't waste any{b}
+time getting to the point.{nextpage_button}{fademusic: 0}{music: 33 0}{0x10: 32948}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{name: 1792}{person: 7 180 179}{hidetextbox: 0}Seven years ago,{wait: 8} I was{b}
+standing in a courtroom...{b}
+on behalf of a client.{p}{person: 7 188 187}
+The case involved the death{b}
+of a certain{wait: 8} "magnificent"{b}
+genius...{p}{person: 7 178 177}
+I'd be surprised if you{b}
+hadn't heard about it.{p}{name: 1024}{person: 7 179 179}{speed: 4}
+...{wait: 20}It was all over the news,{wait: 12}{b}
+I remember that.{p}{person: 7 187 187}{speed: 3}
+You were up against Prosecutor{b}
+Gavin,{wait: 12} weren't you?{p}{name: 1792}{person: 7 188 187}{speed: 4}
+...{wait: 20}Yes,{wait: 16} {person: 7 182 181}he was only 17 years{b}
+old at the time.{p}{name: 1024}{person: 7 181 181}{speed: 5}{color: 2}
+(17 years old...?{wait: 20}{b}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+That's still high school!){color: 0}{p}{name: 1792}{person: 7 182 181}{speed: 3}
+He took the bar exam abroad...{wait: 16}{b}
+in Europe.{wait: 16} They're progressive{b}
+over there,{wait: 8} you know.{p}{name: 1792}
+I was defeated by a 17-year-{b}
+old newcomer.{wait: 16} In my shame,{wait: 8} I{b}
+left the practice forever.{p}{person: 7 188 187}
+That's all.{p}{name: 1024}{person: 7 187 187}{speed: 5}
+That's all...?{wait: 20}{b}{person: 7 177 177}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+How could that be all!?{p}{name: 1792}{person: 7 178 177}{speed: 4}
+...{wait: 20}What do you mean?{nextpage_button}{name: 1024}{person: 7 177 177}
+What about what they were{b}
+saying on the news about{wait: 6}{b}{sound: 52 1}{bgcolor: 2305 8 31}{color: 1}
+forged evidence{color: 0}!?{p}{name: 1792}{person: 7 187 187}{speed: 6}
+.{speed: 8}.{speed: 10}.{p}{name: 1024}{speed: 3}
+They said you forged evidence{b}{shake: 30 0}{bgcolor: 2305 8 31}
+and had your attorney's badge{b}
+stripped from you!{p}{name: 1792}{person: 7 187 187}{speed: 8}
+...{p}{0x10: 32964}{0x37: 23 0}{0x37: 24 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{fademusic: 45}{name: 1792}{person: 7 188 187}{hidetextbox: 0}{speed: 5}Tell me...{wait: 20}{speed: 4} how does it feel?{p}{person: 7 182 181}{speed: 3}
+How does it feel to stand here{b}
+before Phoenix Wright,{wait: 8}{b}
+the{wait: 6} Forgin'{wait: 6} Attorney himself?{nextpage_button}{name: 1024}{person: 7 181 181}
+H-How does it feel{speed: 8}...?{wait: 30}{b}{speed: 5}{color: 2}
+(I...{wait: 20} {speed: 2}I don't want to{b}
+believe {shake: 30 0}{bgcolor: 2305 8 31}it's true!){color: 0}{p}{speed: 4}{color: 2}
+(But what about what happened{b}
+in my first trial...){color: 0}{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{0x5f: 3 1 31}{person: 7 187 187}{bg: 30}{fademusic: 0}{music: 34 120}{bgcolor: 772 1 31}{wait: 25}{person: 7 188 187}{name: 1792}{hidetextbox: 0}{speed: 4}
+Didn't you notice in today's{b}
+trial?{p}{person: 7 178 177}{speed: 3}
+There was a single piece of{b}{sound: 52 1}{bgcolor: 2305 8 31}{color: 1}
+forged evidence{color: 0}.{p}{person: 7 188 187}{name: 1792}{person: 7 188 187}{name: 1792}{speed: 3}
+I'm talking about evidence{b}
+that shouldn't have existed.{wait: 15}{b}
+A naughty magician's{wait: 6} trick...{nextpage_button}{hidetextbox: 1}{bgcolor: 1026 1 31}{wait: 15}{0x5f: 4 1 1}{bg: 226}{person: 7 181 181}{bgcolor: 772 1 31}{wait: 25}{wait: 40}{name: 1792}{person: 7 191 191}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+Ah{wait: 8} ha{wait: 8} ha{wait: 8} ha{wait: 8} ha!{wait: 20}{b}{person: 7 190 189}{speed: 4}
+I don't see you jumping to{b}
+my defense on this one...{p}{person: 7 180 179}
+Maybe I did {wait: 6}forge evidence,{wait: 8}{b}
+maybe I didn't.{p}{person: 7 182 181}
+...{wait: 20}It doesn't really matter{b}
+now,{wait: 8} does it?{p}{name: 1024}{person: 7 181 181}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+B-{wait: 10}But...!{p}{name: 1792}{person: 7 180 179}{speed: 3}
+I'm not an attorney anymore.{wait: 8}{wait_noanim: 30}{b}{person: 7 190 189}{fademusic: 120}
+...{wait: 20}That's the only truth you{b}
+need to know.{nextpage_button}{name: 1024}{person: 7 187 187}{speed: 4}{color: 2}
+(Mr. Wright{speed: 8}...){nextpage_button}{fademusic: 0}{music: 33 100}{speed: 3}
+(Looks like he doesn't want to{b}
+talk about the accusations of{b}
+forgery... for now.){color: 0}{nextpage_button}{0x10: 32965}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{name: 1792}{person: 7 182 181}{showphoto: 54}Ah,{wait: 12} so that was what led you{b}
+to the guilty party.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yes!{wait: 14} {speed: 3}Thanks to you ripping the{b}
+mirror off the car,{wait: 8} I was able{b}
+to deduce the...{nextpage_button}{bganim: 98 579}{name: 1792}{person: 7 182 181}
+You make a good point,{wait: 8} Apollo.{wait: 14}{b}{person: 7 188 187}
+In fact...{p}{person: 7 178 177}
+It could be said that I'm{b}
+to thank for finding the{b}
+criminal.{p}{name: 1024}{person: 7 191 191}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}{color: 2}
+(...{wait: 20}Think what you want,{wait: 8}{b}
+Mr. Wright.{wait: 16} Knock yourself{b}
+out.){speed: 255}{color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{person: 7 181 181}{name: 1024}{speed: 3}And we found these,{wait: 10} too!{wait: 16}{b}{showphoto: 59}{speed: 3}
+They're Trucy's.{p}{name: 1792}{person: 7 190 189}
+Thanks,{wait: 8} Apollo.{p}{person: 7 180 179}
+Though,{wait: 8} I have to admit,{wait: 8}{b}
+as a father,{wait: 10} I wonder...{nextpage_button}{person: 7 182 181}
+...why are you still carrying{b}
+my daughter's panties around{b}
+in your pocket?{nextpage_button}{removephoto}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}{color: 2}
+(Ack!{wait: 16} That'll teach me to{b}
+show off my evidence to{b}
+Mr. Wright...){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{name: 1792}{person: 7 183 183}{speed: 5}...{p}{name: 1024}{color: 2}{speed: 3}
+(It's refreshing to be so{b}
+thoroughly ignored{b}
+for a change.){color: 0}{p}{hidetextbox: 3}{special_jmp}{endjmp}

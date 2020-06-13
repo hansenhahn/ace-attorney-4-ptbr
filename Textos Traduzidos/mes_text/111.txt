@@ -1,0 +1,97 @@
+
+
+{{0}}
+{bop}{hidetextbox: 1}{fademusic: 30}{wait: 60}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}That's enough!{p}
+I see no need to further{b}
+prolong this trial.{p}
+The defense's case is{b}
+insufficient to overturn{b}
+the prosecution's claims!{p}{person: 10 263 262}
+This court finds the{b}
+defendant, Phoenix Wright...{p}{person: 10 262 262}{hidetextbox: 1}{wait: 60}{guilty: 1}{wait: 160}{hidetextbox: 0}{person: 10 263 262}
+The defendant will surrender{b}
+himself to the court's care...{p}
+...to undergo a regular trial{b}
+at the High Court within a{b}
+month's time.{p}{person: 10 259 258}
+Court is adjourned!{p}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 57 1}{animation: 55 1}{animation: 59 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 1}{reset}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{hidetextbox: 1}{fademusic: 30}{wait: 60}{0x6b: 6 0 0}{bganim: 98 632}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}That's enough!{p}
+I see no need to further{b}
+prolong this trial.{p}
+The defense's case is{b}
+insufficient to overturn{b}
+the prosecution's claims!{p}{person: 10 263 262}
+This court finds the{b}
+defendant, Wocky Kitaki...{p}{person: 10 262 262}{hidetextbox: 1}{wait: 60}{guilty: 1}{wait: 160}{hidetextbox: 0}{person: 10 263 262}
+The defendant will surrender{b}
+himself to the court's care...{p}
+...to undergo a regular trial{b}
+at the High Court within a{b}
+month's time.{p}
+Court is adjourned!{p}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 64 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 1}{reset}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{hidetextbox: 1}{fademusic: 30}{wait: 60}{0x6b: 6 0 0}{bganim: 98 632}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}That's enough!{p}
+I see no need to further{b}
+prolong this trial.{p}
+The defense's case is{b}
+insufficient to overturn{b}
+the prosecution's claims!{p}{person: 10 263 262}
+This court finds the{b}
+defendant, Machi Tobaye...{p}{person: 10 262 262}{hidetextbox: 1}{wait: 60}{guilty: 1}{wait: 160}{hidetextbox: 0}{person: 10 263 262}
+The defendant will surrender{b}
+himself to the court's care...{p}
+...to undergo a regular trial{b}
+at the High Court within a{b}
+month's time.{p}
+Court is adjourned!{p}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 77 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 1}{reset}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{hidetextbox: 1}{fademusic: 30}{wait: 60}{0x6b: 6 0 0}{bganim: 98 632}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}That's enough!{p}
+I see no need to further{b}
+prolong this trial.{p}
+The defense's case is{b}
+insufficient to overturn{b}
+the prosecution's claims!{p}{person: 10 263 262}
+This court finds the{b}
+defendant, Vera Misham...{p}{person: 10 262 262}{hidetextbox: 1}{wait: 60}{guilty: 1}{wait: 160}{hidetextbox: 0}{person: 10 263 262}
+The defendant will surrender{b}
+herself to the court's care...{p}
+...to undergo a regular trial{b}
+at the High Court within a{b}
+month's time.{p}
+Court is adjourned!{p}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 66 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 1}{reset}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{hidetextbox: 1}{fademusic: 30}{wait: 60}{0x6b: 6 0 0}{bganim: 98 632}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 36}{person: 10 259 258}{name: 2560}{hidetextbox: 0}That's enough!{p}
+I see no need to further{b}
+prolong this trial.{p}
+The defense's case is{b}
+insufficient to overturn{b}
+the prosecution's claims!{p}{person: 10 263 262}
+This court finds the{b}
+defendant, Shadi Enigmar...{b}{p}{person: 10 262 262}{hidetextbox: 1}{wait: 60}{guilty: 1}{wait: 160}{hidetextbox: 0}{person: 10 263 262}
+The defendant will surrender{b}
+himself to the court's care...{p}
+...to undergo a regular trial{b}
+at the High Court within a{b}
+month's time.{p}
+Court is adjourned!{p}{hidetextbox: 1}{bg: 31}{person: 0 0 0}{animation: 69 1}{animation: 70 1}{animation: 71 1}{animation: 73 1}{animation: 74 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 1}{reset}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{hidetextbox: 1}{fademusic: 30}{wait: 60}{0x6b: 6 0 0}{bganim: 98 632}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}That's enough!{p}
+I see no need to further{b}
+prolong this trial.{p}
+The defense's case is{b}
+insufficient to overturn{b}
+the prosecution's claims!{p}{person: 10 263 262}
+This court finds the{b}
+defendant, Vera Misham...{p}{person: 10 262 262}{hidetextbox: 1}{wait: 60}{guilty: 1}{wait: 160}{hidetextbox: 0}{person: 10 263 262}
+The defendant will surrender{b}
+herself to the court's care...{p}
+...to undergo a regular trial{b}
+at the High Court within a{b}
+month's time.{p}
+Court is adjourned!{p}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{sound: 22 1}{wait: 120}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 1}{reset}{special_jmp}{endjmp}

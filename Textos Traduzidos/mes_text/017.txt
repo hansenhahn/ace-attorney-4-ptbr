@@ -1,0 +1,110 @@
+
+
+{{0}}
+{bop}{0x10: 33714}{0x10: 33715}{0x74: 2 0}{0x6b: 4 1 31}{bganim: 98 627}{0x26: 1}{0x62: 4 4}{0x25: 1}{bg: 4095}{person: 0 0 0}{name: 0}{wait: 30}{hidetextbox: 0}{speed: 4}...{wait: 8}That trial seven years ago{b}
+was the beginning of it all.{p}{speed: 3}
+This I know beyond a doubt.{p}{speed: 4}
+The mysteries of the{wait: 4} {color: 1}past{color: 0}{wait: 4} work{b}
+their magic on the{wait: 4} {color: 1}present{color: 0}{wait: 4}.{p}{speed: 3}
+But you'll soon be finding{b}
+all of this out for yourself.{p}{hidetextbox: 1}{fademusic: 0}{music: 34 0}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 186}{bgcolor: 772 1 31}{wait: 25}{wait: 20}{hidetextbox: 0}
+Which of Magnifi Gramarye's{b}
+disciples pulled that trigger?{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 187}{bgcolor: 772 1 31}{wait: 25}{wait: 20}{hidetextbox: 0}
+Where did the {color: 1}vanishing{b}
+defendant{color: 0}, Zak Gramarye,{wait: 12} go?{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 188}{bgcolor: 772 1 31}{wait: 25}{wait: 20}{hidetextbox: 0}
+What dark truth lurks behind{b}
+the forged{wait: 4} {color: 1}diary page{color: 0}{wait: 4}?{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 189}{bgcolor: 772 1 31}{wait: 25}{wait: 20}{hidetextbox: 0}{speed: 4}
+And what about the girl who{b}
+was left behind...?{p}{hidetextbox: 1}{wait: 90}{0x6b: 2 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{bg: 4095}{person: 0 0 0}{fademusic: 30}{0x10: 33296}{0x74: 18 0}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{fademusic: 0}{music: 30 0}{wait: 120}{hidetextbox: 0}{speed: 4}...The{wait: 6} {color: 1}past{color: 0}{wait: 6} left us these four{b}
+"{color: 1}keys{color: 0}" to unlocking the truth.{nextpage_button}{hidetextbox: 1}{wait: 30}{0x6b: 0 0 0}{bganim: 98 259}{wait: 60}{hidetextbox: 0}
+But that's not all.{p}{speed: 3}
+There are four{wait: 6} "{color: 1}keys{color: 0}"{wait: 6} in the{b}{color: 1}
+present{color: 0}, as well.{p}{speed: 3}
+And when all the questions{b}
+have found their answers...{p}{speed: 3}
+...{wait: 16}the final trial will{b}
+begin.{p}
+But first,{wait: 10} you must chase the{b}
+truth through{wait: 4} {color: 1}then{color: 0}{wait: 4} and{wait: 4} {color: 1}now{color: 0}{wait: 4}.{p}
+Think of it... as a{wait: 4} {color: 1}game{color: 0}.{p}{hidetextbox: 1}{fademusic: 45}{wait: 45}{wait: 60}{0x6b: 1 0 0}{bganim: 98 515}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{hidetextbox: 1}{bgcolor: 2049 0 31}{wait: 1}{0x26: 1}{wait: 10}{bg: 4095}{animation: 314 1}{wait: 8}{person: 7 180 179}{0x5a}{bgcolor: 1796 1 31}{wait: 25}{name: 1792}{hidetextbox: 0}{0x59}{speed: 3}I,{wait: 10} Phoenix Wright,{wait: 10} will be{b}
+your guide through this game.{p}{person: 7 188 187}
+That terrible trial saw me{b}
+present{wait: 4} {color: 1}forged evidence{color: 0}.{p}{speed: 3}
+...It ended,{wait: 4} half-finished,{wait: 8}{b}
+when the{wait: 4} {color: 1}defendant vanished{color: 0}.{p}{person: 7 182 181}{speed: 4}
+What became of me after{b}
+that...?{p}{person: 7 180 179}{speed: 3}
+As your investigation proceeds{b}
+the answer will become clear.{p}{person: 7 188 187}
+...{wait: 15}Oh,{wait: 8} and one more thing.{p}{person: 7 178 177}
+There is something I must{b}
+tell you.{p}{showphoto: 180}
+As Apollo Justice has his{b}{color: 1}
+bracelet{color: 0}...{p}{person: 7 180 179}
+...so,{wait: 8} too, do I have my{b}
+own{wait: 6} "weapon"{wait: 6} of sorts.{nextpage_button}{showphoto: 492}{person: 7 182 181}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 8}{0x5a}{wait: 6}
+...{0x59}{speed: 3}My {color: 1}Magatama{color: 0}.{p}{speed: 4}
+What does it do,{wait: 8} you ask?{nextpage_button}{removephoto}{person: 7 180 179}{speed: 3}
+That I would have you see{b}
+for yourself.{nextpage_button}{person: 7 188 187}{speed: 5}
+...Well now.{0x5a}{wait: 30}{b}{0x59}{speed: 3}
+Shall we begin?{p}{person: 7 180 179}
+Touch the arrow to switch{b}
+between{wait: 10} {color: 1}past{color: 0}{wait: 4} and{wait: 4} {color: 1}present{color: 0}.{p}
+But let's begin seven years{wait: 30}{b}
+ago{speed: 8}{0x5a}{wait: 4}...{0x59}{speed: 3} in the{wait: 10} {color: 1}past{color: 0}.{nextpage_button}{person: 7 188 187}
+It is{wait: 8} {color: 1}right after{color: 0}{wait: 4} my last{b}
+trial came to an abrupt end.{nextpage_button}{person: 7 182 181}
+...Now that you know the{wait: 4} {color: 1}game{color: 0},{wait: 12}{b}
+let's play.{nextpage_button}{hidetextbox: 1}{0x6b: 4 1 31}{bganim: 98 626}{bgcolor: 516 1 31}{wait: 25}{person: 0 0 0}{bganim: 0 4096}{0x6b: 2 0 0}{bganim: 98 515}{0x74: 18 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{bg: 4095}{0x74: 2 0}{nextpage_button}{0x62: 4 4}{0x25: 1}{newevidence: 222}{newevidence: 227}{fadetoblack: 9}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{newevidence: 221}{fadetoblack: 10}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{0x25: 1}{fadetoblack: 11}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{0x25: 1}{0x10: 33696}{0x10: 33688}{0x10: 33683}{0x10: 33650}{0x10: 33634}{0x10: 33642}{0x10: 33665}{0x10: 33670}{0x10: 33702}{0x10: 33703}{fadetoblack: 11}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{0x25: 1}{newevidence: 221}{newevidence: 225}{newevidence: 226}{fadetoblack: 12}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{0x25: 1}{0x10: 33651}{0x10: 33652}{0x10: 33653}{0x10: 33655}{0x10: 33656}{0x10: 33657}{0x10: 33658}{0x37: 8 0}{0x37: 11 1}{newevidence: 32949}{newevidence: 226}{fadetoblack: 12}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{0x25: 1}{fadetoblack: 13}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{0x25: 1}{newevidence: 32927}{newevidence: 220}{fadetoblack: 14}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{0x25: 1}{newevidence: 217}{newevidence: 221}{newevidence: 225}{newevidence: 32958}{fadetoblack: 15}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{0x25: 1}{newevidence: 224}{newevidence: 212}{newevidence: 32934}{newevidence: 223}{newevidence: 32955}{fadetoblack: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{0x25: 1}{newevidence: 223}{newevidence: 32929}{fadetoblack: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{fadetoblack: 17}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{0x10: 33520}{0x10: 753}{0x10: 754}{fadetoblack: 23}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{0x10: 752}{0x10: 33521}{0x10: 754}{fadetoblack: 23}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{bg: 4095}{0x74: 2 0}{b}{nextpage_button}{0x62: 4 4}{0x10: 752}{0x10: 753}{0x10: 33522}{fadetoblack: 23}{hidetextbox: 3}{special_jmp}{endjmp}

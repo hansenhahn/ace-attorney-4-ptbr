@@ -1,0 +1,236 @@
+
+
+{{0}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}{color: 2}Save{color: 0} cleared stage data{b}
+up to this point?{speed: 255}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{1}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}{color: 2}Save{color: 0} game and{b}{color: 2}
+suspend{color: 0} play?{speed: 255}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{2}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Select an episode.{speed: 255}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{3}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Save failed.{wait: 60}{speed: 255}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{4}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Erase all data and restore{b}
+default settings?{speed: 255}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{5}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}{b}
+A brand new Episode{b}
+has been added.{speed: 255}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{6}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}{color: 2}Suspending{color: 0} game.{0x45}{endjmp}
+
+{{7}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Failed to read data.{speed: 255}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{8}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}{color: 2}Saving...{color: 0}{b}
+Do not turn power off.{speed: 255}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{9}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Failed to delete data.{speed: 255}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{10}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Trump{b}
+Day 1 {400} Trial Former{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{11}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Trump{b}
+Day 1 {400} Trial Latter{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{12}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Corner{b}
+Day 1 {400} Investigation{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{13}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Corner{b}
+Day 2 {400} Trial Former{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{14}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Corner{b}
+Day 2 {400} Trial Latter{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{15}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Corner{b}
+Day 2 {400} Investigation{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{16}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Corner{b}
+Day 3 {400} Trial{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{17}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Serenade{b}
+Day 1 {400} Investigation{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{18}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Serenade{b}
+Day 2 {400} Trial{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{19}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Serenade{b}
+Day 2 {400} Investigation{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{20}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Serenade{b}
+Day 3 {400} Trial Former{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{21}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Serenade{b}
+Day 3 {400} Trial Latter{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{22}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Succession{b}
+Day 1 {400} Investigation{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{23}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Succession{b}
+Day 2 {400} Trial Former{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{24}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Succession{b}
+Day 2 {400} Trial Latter{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{25}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Succession{b}
+7 Years Ago {400} Trial Former{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{26}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Succession{b}
+7 Years Ago {400} Trial Latter{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{27}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Succession{b}
+MASON System{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{28}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Succession{b}
+Day 3 {400} Trial{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{29}}
+{bop}{speed: 1}{soundtoggle: 0}{center_text: 1}Turnabout Succession{b}
+Epilogue{b}{center_text: 0}{soundtoggle: 1}{0x45}{endjmp}
+
+{{30}}
+{bop}{name: 1792}No clues here.{p}{center_text: 0}{soundtoggle: 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{31}}
+{bop}{name: 1024}No clues here.{p}{center_text: 0}{soundtoggle: 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{32}}
+{bop}{name: 1792}{b}{p}{b}{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{33}}
+{bop}{bg: 25}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{0x6e: 20}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Your Honor!{wait: 8} That statement{b}
+contradicts this evidence!{p}{bg: 29}{person: 10 265 264}{name: 2560}{speed: 3}
+...?{p}
+It does?{wait: 20} I don't see{b}
+anything contradictory...{p}{bg: 25}{person: 4 62 61}{animation: 149 1}{name: 1024}{bgcolor: 2305 8 31}
+...Um...{wait: 20} You sure about that?{p}{bg: 29}{person: 10 259 258}{name: 2560}
+Objection overruled.{p}
+Try to think before you make{b}
+accusations,{wait: 8} Mr. Justice!{wait_noanim: 2}{0x6b: 1 0 0}{0x2b}{removephoto}{person: 10 258 258}{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{color: 2}
+(Ack!{wait: 20}{b}
+That didn't go so well.){color: 0}{nextpage_button}{hidetextbox: 1}{wait: 30}{0x52}{bgcolor: 513 1 31}{wait: 7}{bg: 27}{0x5e}{bgcolor: 257 1 31}{0x29: 2}{endjmp}
+
+{{34}}
+{bop}{bg: 25}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{0x6e: 20}{person: 4 59 58}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}The witness's statement is{b}
+clearly faulty,{wait: 10} Your Honor!{p}{bg: 29}{person: 10 258 258}{name: 2560}{speed: 8}
+...{p}{person: 10 259 258}{speed: 3}
+I'm sorry,{wait: 10} but I can{b}
+see nothing faulty.{p}{hidetextbox: 1}{person: 10 261 261}{wait: 70}{person: 10 259 258}{hidetextbox: 0}
+Unfortunately,{wait: 15} I will have{b}
+to penalize you, Mr. Justice.{person: 10 258 258}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{person: 10 262 262}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{color: 2}
+(Ugh.{wait: 20} {speed: 4}I must be on{b}
+the wrong track...){speed: 255}{color: 0}{nextpage_button}{hidetextbox: 1}{wait: 30}{0x52}{bgcolor: 513 1 31}{wait: 7}{bg: 27}{0x5e}{bgcolor: 257 1 31}{0x29: 2}{endjmp}
+
+{{35}}
+{bop}{bg: 25}{person: 4 59 58}{0x6e: 20}{name: 1024}This evidence {bgcolor: 2305 8 31}clearly reveals{b}{shake: 30 0}
+a contradiction in that{b}
+statement,{wait: 12} {speed: 2}Your Honor!{p}{bg: 29}{person: 10 263 262}{name: 2560}{speed: 3}
+How exactly are the{b}
+evidence and the statement{b}
+just now related?{p}{bg: 25}{person: 4 59 58}{name: 1024}
+They aren't,{wait: 12} are they...?{p}{hidetextbox: 1}{bg: 29}{person: 10 258 258}{name: 2560}{person: 10 261 261}{wait: 70}{hidetextbox: 0}{person: 10 259 258}
+Not at all.{p}{person: 10 263 262}
+Mr. Justice, please think{b}
+the facts over before{b}
+making accusations.{person: 10 262 262}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(I don't think that won me{b}
+any points with the judge...){speed: 255}{color: 0}{nextpage_button}{hidetextbox: 1}{wait: 30}{0x52}{bgcolor: 513 1 31}{wait: 7}{bg: 27}{0x5e}{bgcolor: 257 1 31}{0x29: 2}{endjmp}
+
+{{36}}
+{bop}{bg: 25}{person: 4 59 58}{name: 1024}{0x6e: 20}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Your Honor!{wait: 20} {speed: 3}What do you think{b}
+about the witness's statement?{p}{bg: 29}{person: 10 264 264}{name: 2560}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Uh...{wait_noanim: 30}{person: 10 263 262}{speed: 3} I'm not sure{b}
+I follow you.{p}{bg: 25}{person: 4 59 58}{name: 1024}{shake: 30 0}{speed: 4}
+It clearly,{wait: 12}{shake: 30 0} er,{wait: 12}{shake: 30 0} contradicts{b}
+the...{wait: 12}{shake: 30 0} um...{wait: 12} {shake: 30 0}I thought...{p}{bg: 29}{person: 10 258 258}{name: 2560}{person: 10 261 261}{wait: 70}{person: 10 263 262}{hidetextbox: 0}{speed: 3}
+...You don't sound very{b}
+sure, Mr. Justice.{p}
+Objection overruled.{person: 10 262 262}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{person: 10 262 262}{name: 1024}{color: 2}
+(I don't think that won me{b}
+any points with the judge...){color: 0}{nextpage_button}{hidetextbox: 1}{wait: 30}{0x52}{bgcolor: 513 1 31}{wait: 7}{bg: 27}{0x5e}{bgcolor: 257 1 31}{0x29: 2}{endjmp}
+
+{{37}}
+{bop}{bg: 32}{name: 1792}{hidetextbox: 1}{person: 21 473 474}{wait: 70}{hidetextbox: 0}{0x6e: 20}{person: 21 475 474}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Your Honor!{wait: 8} That statement{b}
+contradicts this evidence!{p}{bg: 36}{person: 10 265 264}{name: 2560}{speed: 3}
+...?{p}
+It does?{wait: 8} I don't see{b}
+anything contradictory...{p}{bg: 32}{person: 21 482 481}{name: 1792}{bgcolor: 2305 8 31}
+Huh?{wait: 20} Really?{p}{bg: 36}{person: 10 259 258}{name: 2560}
+Objection overruled.{p}
+Try to think before you make{b}
+accusations, Mr. Wright!{wait_noanim: 2}{person: 10 258 258}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{color: 2}
+(Whoops!{wait: 20}{b}
+That didn't go so well.){color: 0}{nextpage_button}{hidetextbox: 1}{wait: 30}{0x52}{bgcolor: 513 1 31}{wait: 7}{bg: 34}{0x5e}{bgcolor: 257 1 31}{0x29: 2}{endjmp}
+
+{{38}}
+{bop}{bg: 32}{name: 1792}{hidetextbox: 1}{person: 21 473 474}{wait: 70}{hidetextbox: 0}{0x6e: 20}{person: 21 475 474}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}The witness's statement is{b}
+clearly faulty, Your Honor!{p}{bg: 36}{person: 10 258 258}{name: 2560}{wait: 50}
+...{p}{person: 10 259 258}
+I'm sorry,{wait: 10} but I can{b}
+see nothing faulty.{p}{hidetextbox: 1}{person: 10 261 261}{wait: 70}{person: 10 259 258}{hidetextbox: 0}
+Unfortunately,{wait: 15} I will have{b}
+to penalize you, Mr. Wright.{person: 10 258 258}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{person: 10 262 262}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{color: 2}
+(Ugh, I must be on{b}
+the wrong track...?){color: 0}{speed: 255}{nextpage_button}{hidetextbox: 1}{wait: 30}{0x52}{bgcolor: 513 1 31}{wait: 7}{bg: 34}{0x5e}{bgcolor: 257 1 31}{0x29: 2}{endjmp}
+
+{{39}}
+{bop}{bg: 32}{person: 21 475 474}{0x6e: 20}{name: 1792}{speed: 2}This evidence clearly reveals{b}{shake: 30 0}
+the contradiction in that{b}
+statement,{wait: 12} {bgcolor: 2305 8 31}Your Honor!{p}{bg: 36}{person: 10 263 262}{name: 2560}{speed: 3}
+How exactly are the{b}
+evidence and the statement{b}
+just now related?{p}{bg: 32}{person: 21 475 474}{name: 1792}
+They aren't,{wait: 12} are they...{p}{hidetextbox: 1}{bg: 36}{person: 10 258 258}{name: 2560}{person: 10 261 261}{wait: 70}{hidetextbox: 0}
+Not at all.{p}{person: 10 263 262}
+Mr. Wright,{wait: 20} please think{b}
+the facts over before{b}
+making accusations.{person: 10 262 262}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{name: 1792}{speed: 4}{color: 2}
+(I don't think that won me{b}
+any points with the judge...){color: 0}{speed: 255}{nextpage_button}{hidetextbox: 1}{wait: 30}{0x52}{bgcolor: 513 1 31}{wait: 7}{bg: 34}{0x5e}{bgcolor: 257 1 31}{0x29: 2}{endjmp}
+
+{{40}}
+{bop}{bg: 32}{person: 21 475 474}{0x6e: 20}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Your Honor!{wait: 20} {speed: 3}What do you think{b}
+about the witness's statement?{p}{bg: 36}{person: 10 264 264}{name: 2560}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Uh...{wait_noanim: 30} I'm not sure{b}{person: 10 263 262}
+I follow you.{p}{bg: 32}{person: 21 475 474}{name: 1792}{shake: 30 0}{speed: 4}
+It clearly,{wait: 12} {shake: 30 0}er,{wait: 12} {shake: 30 0}contradicts{b}
+the...{wait: 12} {shake: 30 0}um...{wait: 12} {shake: 30 0}I thought...{p}{bg: 36}{person: 10 258 258}{name: 2560}{person: 10 261 261}{wait: 70}{person: 10 263 262}{hidetextbox: 0}{speed: 3}
+You don't sound very{b}
+sure, Mr. Wright.{p}
+Objection overruled.{person: 10 262 262}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{person: 10 262 262}{name: 1792}{color: 2}
+(I don't think that won me{b}
+any points with the judge...){color: 0}{nextpage_button}{hidetextbox: 1}{wait: 30}{0x52}{bgcolor: 513 1 31}{wait: 7}{bg: 34}{0x5e}{bgcolor: 257 1 31}{0x29: 2}{endjmp}
+
+{{41}}
+{bop}{name: 0}{nextpage_button}{0x41}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{42}}
+{bop}{name: 1792}{hidetextbox: 3}{special_jmp}{endjmp}

@@ -1,0 +1,580 @@
+
+
+{{0}}
+{bop}{0x62: 2 2}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 30 32768 32768}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 14 11 2 93 1 1 3}{b}
+-- From Shot to Call --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{name: 7680}{fademusic: 0}{music: 3 0}{name: 7680}{person: 30 686 685}{speed: 3}
+I could not prevent the{b}
+killer from leaving the{b}
+scene.{p}{person: 30 686 685}{speed: 4}
+Nor could I simply leave the{b}
+scene in good conscience.{p}{person: 30 674 673}
+Ergo!{wait: 12} {speed: 3}I used my cell phone{b}
+to call the police.{p}{person: 30 683 682}
+Until the police arrived at{b}
+the scene 10 minutes later,{wait: 8}{b}
+I saw no one else.{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 25}{person: 4 58 58}{bgcolor: 258 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}{color: 2}
+(I'm not sure I'm qualified{b}
+to{wait: 6} "watch"{wait: 6} testimonies{b}
+after all{speed: 8}...){color: 0}{p}{bg: 28}{person: 5 99 98}{name: 1280}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Focus,{wait: 8} Apollo!{wait: 16} {speed: 3}Find his{wait: 8}{b}
+weak spot!{p}{hidetextbox: 1}{bg: 25}{person: 4 58 58}{hidetextbox: 0}{name: 1024}{speed: 6}{color: 2}
+(Focus...{wait: 16}{b}{speed: 3}
+If only it were that easy!){p}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{person: 30 673 673}{hidetextbox: 0}
+(My ears hear what he says,{wait: 12}{b}
+my eyes see his expression.){p}{speed: 5}
+(Do I have to do something{b}
+more?{wait: 12} {speed: 3}What other{wait: 5} senses{wait: 5} do{b}
+I have!?){p}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{bgcolor: 516 1 8}{wait: 25}{bg: 4095}{sound: 74 1}{shake: 30 0}{bgcolor: 769 1 31}{wait: 7}{fademusic: 0}{music: 10 0}{wait: 60}{hidetextbox: 0}{bgcolor: 2305 8 31}{color: 2}
+(W-{wait: 16}{speed: 5}{bgcolor: 2305 8 31}What's this...?{wait: 40}{b}{showphoto: 339}{speed: 4}{color: 2}
+My {color: 1}bracelet{color: 2}...?){nextpage_button}{bganim: 98 579}{bgcolor: 513 0 12}{wait: 1}{wait: 5}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{bg: 4095}{person: 30 32768 32768}{bgcolor: 257 0 12}{wait: 1}{hidetextbox: 1}{0x6b: 3 1 0}{bganim: 98 632}{wait: 1}{wait: 120}{shake: 30 0}{bgcolor: 769 1 31}{wait: 7}{name: 1024}{wait: 60}{hidetextbox: 0}{speed: 5}
+(What's going on?){p}{showphoto: 339}{speed: 4}
+(My bracelet feels different{b}
+somehow...!){color: 0}{nextpage_button}{hidetextbox: 1}{bganim: 98 579}{bg: 28}{name: 1280}{person: 5 101 100}{hidetextbox: 0}{speed: 5}
+I think Daddy was right!{p}{person: 5 99 98}
+You can see it,{wait: 6} can't you,{wait: 6}{b}
+Apollo?{p}{person: 5 103 102}{bgcolor: 2305 8 31}{shake: 30 0}
+You're almost there!{wait: 20} {speed: 3}Find the{wait: 6}{b}{color: 1}
+weak spot{color: 0} in his testimony!{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(I know this sounds crazy...){nextpage_button}{showphoto: 339}
+(But my bracelet is trying{b}
+to tell me something!){nextpage_button}{bganim: 98 579}{endjmp}
+
+{{1}}
+{bop}{fademusic: 120}{0x6b: 0 0 0}{bganim: 98 513}{0x6b: 1 0 0}{bganim: 98 513}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 30 32768 32768}{name: 0}{wait: 30}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 134}{center_text: 1}{speed: 2}{b}{color: 1}
+-- From Shot to Call --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 3 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 135 0}{lifebarset: 2 130}{lifebar: 14}{0x53}{person: 30 686 685}{name: 7680}{hidetextbox: 0}{color: 3}I could not prevent the{b}
+killer from leaving the{b}
+scene.{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 136 0}{lifebarset: 0 130}{lifebarset: 2 131}{lifebar: 16}{0x53}{person: 30 686 685}{name: 7680}{hidetextbox: 0}{color: 3}Nor could I simply leave the{b}
+scene in good conscience.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 137 0}{lifebarset: 0 131}{lifebarset: 2 132}{lifebar: 14}{0x53}{person: 30 674 673}{name: 7680}{hidetextbox: 0}{color: 3}{0x7e}{bop}Ergo!{0x7e}{bop}{0x56: 399 162} used my cell phone{0x7e}{bop}{psychelock: 1}to call the police.{0x7e}{b}{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 143 0}{lifebarset: 0 132}{lifebarset: 2 133}{lifebar: 15}{0x53}{person: 30 683 682}{name: 7680}{hidetextbox: 0}{color: 3}Until the police arrived at{b}
+the scene 10 minutes later,{b}
+I saw no one else.{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 28}{name: 1280}{person: 5 99 98}{hidetextbox: 0}Don't forget,{wait: 8} Apollo.{wait: 16} You have{b}
+to focus to {color: 1}perceive{color: 0} the{b}
+truth!{p}{bg: 25}{person: 4 58 58}{name: 1024}{color: 2}
+(I'm not sure I entirely{b}
+understand this just yet.){p}
+(But I have{wait: 6} "perceived"{wait: 6}{b}
+one thing...){p}{person: 4 36 36}{showphoto: 339}{speed: 4}
+(My bracelet is reacting to{b}
+his testimony...{wait: 20} {speed: 3}this has to{b}
+be the key!){p}{color: 0}{removephoto}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 32768 32768}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{7}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}{speed: 3}Which way did the killer run?{wait: 8}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{name: 7680}{person: 30 674 673}{hidetextbox: 0}
+By that time,{wait: 8} it was clear the{b}
+killer had noticed me.{p}
+Naturally,{wait: 8} he ran in the{b}
+opposite direction.{p}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 4}{color: 2}
+(That would mean he ran in the{b}
+opposite direction from the{b}
+Kitaki mansion...){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{name: 13568}{person: 6 149 148}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Achtung!{wait: 15} Don't even think{b}
+about pointing out that he{b}
+was going away from his home.{p}{person: 6 146 145}
+All he had to do was loop{b}
+back once he was out of sight.{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}{color: 2}
+(Ugh...{wait: 20} How did he know that's{b}
+where I was going...?){color: 0}{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 685 685}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{8}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}You were certainly composed{b}
+for someone who had just{b}
+witnessed a killing.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{name: 7680}{person: 30 686 685}{hidetextbox: 0}
+If one is to devote one's life{b}
+to the pursuit of science...{p}
+...one must never flinch at{b}
+the sight of a little blood.{p}{person: 30 689 688}
+Nor be so moved by a chemical{b}
+discovery that one drops one's{b}
+flask upon the lab room floor.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}
+Oooh,{wait: 8} cool answer.{wait: 16}{b}
+Very cool.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 58}{wait: 32}{bg: 25}{name: 1024}{person: 4 58 58}{hidetextbox: 0}{speed: 5}{color: 2}
+(Hmm...{wait: 20} {speed: 4}So nothing strange{b}
+about how he acted...){color: 0}{p}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{person: 30 673 673}{name: 7680}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{9}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 41 40}{name: 1024}{hidetextbox: 0}So,{wait: 6} you called immediately{b}
+after witnessing the murder?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{person: 30 674 673}{name: 7680}{hidetextbox: 0}
+The police undoubtedly have{b}
+a record of the call.{wait: 16} Why{b}
+not check with them?{nextpage_button}{bg: 28}{person: 5 103 102}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Wait,{wait: 10} Apollo!{nextpage_button}{person: 5 101 100}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+This has to be it!{nextpage_button}{fademusic: 30}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Wait,{wait: 8} {speed: 3}you mean his {color: 1}habit{color: 0}?{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{0x5f: 3 1 31}{bg: 28}{person: 5 102 102}{bgcolor: 770 1 31}{wait: 15}{name: 1280}{hidetextbox: 0}{person: 5 103 102}{fademusic: 0}{music: 18 0}
+Don't forget,{wait: 7} Apollo!{nextpage_button}{bg: 25}{person: 4 58 58}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{name: 1280}{person: 30 685 685}{hidetextbox: 0}{speed: 3}
+When he isn't sure about{b}
+something,{wait: 8} he has a habit of{b}
+fiddling with his book!{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x5f: 4 1 1}{bg: 25}{person: 4 58 58}{name: 1024}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{color: 2}
+(The only time he even had{b}
+the book open was here...){nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{person: 30 673 673}{hidetextbox: 0}{speed: 2}
+(Which means this is the place{b}
+to look for this "{color: 1}habit{color: 2}"!){color: 0}{nextpage_button}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 4}
+I...{wait: 20} {speed: 5}don't know how I know,{wait: 8}{b}{speed: 3}
+but I know.{nextpage_button}{bg: 28}{person: 5 99 98}{name: 1280}{0x5a}
+...{wait: 16}{0x59}Know what?{nextpage_button}{name: 1024}{showphoto: 83}{speed: 4}
+It's my bracelet,{wait: 5} it's{b}
+different,{wait: 12} somehow.{nextpage_button}{bg: 27}{person: 30 685 685}
+I can feel it reacting to{wait: 5}{b}
+something{wait: 5} about the witness!{nextpage_button}{bganim: 98 579}{0x6b: 2 1 0}{bganim: 98 513}{person: 5 105 104}{bg: 28}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+Your...{wait: 15} {speed: 4}bracelet?{nextpage_button}{name: 1024}
+I'm not sure I get this{b}
+"focus" stuff you were talking{b}
+about,{wait: 6} Trucy.{nextpage_button}{person: 5 102 102}
+But{speed: 8}...{wait: 20} {speed: 3}I have a feeling that{b}{showphoto: 83}
+trusting my bracelet is the{b}
+way to go.{nextpage_button}{hidetextbox: 1}{bganim: 98 579}{bg: 25}{person: 4 58 58}{wait: 15}{hidetextbox: 1}{swoosh: 0 4096 30 673}{wait: 32}{endjmp}
+
+{{10}}
+{bop}{person: 30 673 673}{name: 1024}{hidetextbox: 0}{color: 2}(OK,{wait: 8} I just need to touch my{wait: 6}{b}{color: 1}
+bracelet{color: 2} as it reacts to{b}
+the testimony...){color: 0}{bganim: 98 260}{endjmp}
+
+{{11}}
+{bop}{bganim: 98 516}{bg: 25}{person: 4 58 58}{name: 1024}{hidetextbox: 0}{color: 2}(...{wait: 20}If I'm going to let this{wait: 6}{b}
+bracelet show me what it{b}
+can do,{wait: 8} it's now or never!){nextpage_button}{person: 4 58 58}
+(Yeah,{wait: 8} I've still got a lot{b}
+of unanswered questions...{wait: 20}{b}
+but now's time for action!){color: 0}{rejmp: 138}{endjmp}
+
+{{12}}
+{bop}{0x29: 0}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{name: 1024}{hidetextbox: 0}{speed: 2}Wh-{wait: 8}What's going on!?{nextpage_button}{speed: 3}{color: 2}
+(I can see the witness's face,{wait: 12}{b}
+his expression so clearly!{b}
+I-It's filling my mind!){nextpage_button}{speed: 2}
+(I can {color: 1}see nothing else{color: 2},{wait: 8}{b}{color: 1}
+hear nothing else{color: 2}!){shake: 30 0}{bgcolor: 2305 8 31}{color: 0}{nextpage_button}{0x76: 0 8}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Apollo?{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Trucy!{wait: 20}{b}{speed: 4}
+What's happening to me!?{nextpage_button}{0x76: 0 1}{name: 1280}{speed: 3}
+This is what I meant by{b}
+"{color: 1}focusing{color: 0}".{nextpage_button}{name: 1024}{speed: 5}
+Focusing...{nextpage_button}{0x76: 0 5}{name: 1280}{speed: 3}
+In this state,{wait: 6} you can see{b}
+everything,{wait: 8} Apollo!{wait: 16} Everything{b}
+the witness does!{nextpage_button}{name: 1024}{speed: 2}
+Th-{wait: 6}That's great,{wait: 8} but this is{b}{0x76: 0 2}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+kind of freaking me out!{nextpage_button}{0x76: 1 3}{name: 1280}{speed: 3}
+Just look for Mr. Stickler's{b}
+twitch -- his habit.{wait: 17}{b}
+You remember it,{wait: 8} right?{nextpage_button}{name: 1024}
+Sure!{wait: 15} {speed: 4}When he says something{b}
+he's not sure of,{wait: 8} he{wait: 6} {color: 1}fiddles{b}
+with a page of his book{color: 0}.{nextpage_button}{0x76: 1 4}{name: 1280}{sound: 51 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+You got it!{wait: 26}{b}{0x76: 1 1}{speed: 3}
+Right now,{wait: 8} you're looking at{b}
+the witness's face.{nextpage_button}{speed: 4}
+...{wait: 20}And your eyes are sort of{b}{sound: 52 1}{bgcolor: 2305 8 31}
+bugging out.{nextpage_button}{name: 1024}{color: 2}
+(I'll bet they are.){color: 0}{nextpage_button}{name: 1280}{0x76: 1 8}{speed: 4}
+First,{wait: 8} move your focus{b}
+of attention down to{b}
+Mr. Stickler's {color: 1}hand{color: 0}.{nextpage_button}{name: 1024}{speed: 5}
+His{wait: 6} {color: 1}hand{color: 0}...?{nextpage_button}{name: 1280}{speed: 3}
+You know what to look for{b}
+now,{wait: 8} but you have to be{b}
+looking at the right place.{nextpage_button}{name: 1024}{color: 2}
+(She's right.{wait: 12} I can only see{b}
+his face like this...){nextpage_button}
+(Time to try changing my{wait: 6}{b}{color: 1}
+viewpoint{color: 2}!){nextpage_button}{hidetextbox: 1}{removephoto}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{name: 1280}{0x76: 1 4}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 2}Perfect!{wait: 18} {speed: 3}Now you're really{b}
+ready!{nextpage_button}{name: 1024}{speed: 4}
+Ready...{wait: 6} {speed: 3}for what?{nextpage_button}{0x76: 1 5}{name: 1280}
+Ready to{wait: 6} {color: 1}perceive{color: 0}{wait: 6} the truth{b}
+behind the twitch!{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}{color: 1}
+Perceive{color: 0}{speed: 8}...{nextpage_button}{name: 1280}{speed: 3}
+Try listening to the witness{b}
+talk as you focus.{nextpage_button}{0x76: 1 1}
+Then watch for his {color: 1}habit{color: 0}.{nextpage_button}{name: 1024}
+Right...{wait: 18} You mean when he{b}
+fiddles with the page!{nextpage_button}{0x76: 0 4}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+That's{bgcolor: 2305 8 31} right!{wait: 16} {speed: 3}That's your{b}
+signal to look closer,{wait: 12} to{wait: 5}{b}{color: 1}
+perceive{color: 0}!{nextpage_button}{0x76: 0 5}
+Find his weak spot and I{b}
+guarantee we'll be able to{b}
+give him the Royal Flush!{nextpage_button}{name: 1024}
+Spoken like a true poker{b}
+head's daughter.{nextpage_button}{name: 1280}{speed: 3}
+I'm a magician,{wait: 8} thank you{b}
+very much.{nextpage_button}{name: 1024}{speed: 3}{color: 2}
+(So I have to pay attention{b}
+to his words...{wait: 20} and his{wait: 5}{b}
+fingers!){color: 0}{nextpage_button}{0x76: 0 1}{name: 1280}
+Don't worry if you miss it,{wait: 8}{b}
+you can always try again!{nextpage_button}{0x76: 0 5}{name: 1024}{color: 2}
+(Right!{wait: 12} Look out nervous{b}
+twitch,{wait: 8} here comes Justice!){color: 0}{nextpage_button}{hidetextbox: 1}{removephoto}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{0x76: 0 2}{name: 1280}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{hidetextbox: 0}{speed: 2}A-{wait: 12}Apollo!{wait: 20} {speed: 3}That's not it!{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Huh? Oh...{wait: 12} {speed: 3}I guess I'm kind{b}
+of lost here.{nextpage_button}{0x76: 0 5}{name: 1280}
+Remember his habit:{wait: 6}{b}{color: 1}
+He fiddles with the pages{b}
+of his book{color: 0}!{nextpage_button}{0x76: 0 1}{speed: 4}
+The word he's saying right{b}
+when you see his fingers{b}
+twitch is the {color: 1}key{color: 0}!{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(OK,{wait: 12} {speed: 3}so I have to {color: 1}watch{b}
+for his fingers to move{color: 2}.{wait: 16}{b}
+Got it.){color: 0}{nextpage_button}{name: 1280}
+And don't worry about getting{b}
+it perfect your first time.{nextpage_button}{0x76: 0 4}{shake: 30 0}{bgcolor: 2305 8 31}
+You can always try again!{nextpage_button}{fademusic: 0}{music: 10 0}{hidetextbox: 1}{removephoto}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{0x6d: 0}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}Can you tell us in detail{b}
+about these 10 minutes?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{name: 7680}{person: 30 686 685}{hidetextbox: 0}
+I stood in a state of{b}
+heightened awareness.{p}{person: 30 683 682}
+Anything could happen at{b}
+any moment.{wait: 16} Anyone could{b}
+appear from any direction!{nextpage_button}{speed: 6}
+.{speed: 8}.{speed: 10}.{wait: 40}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{speed: 5}
+Is{speed: 8}...{wait: 20}{b}{speed: 4}
+that all?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{name: 7680}{person: 30 686 685}{hidetextbox: 0}{speed: 4}
+No one came.{wait: 12} Nothing happened{b}
+at all.{0x5a}{wait: 20} {person: 30 689 688}{speed: 3}I saw it all,{wait: 8} which{b}
+is to say...{wait: 20} I saw nothing.{nextpage_button}{bg: 29}{name: 2560}{person: 10 266 266}
+It was late at night.{wait: 20}{person: 10 259 258} It's not{b}
+odd to think there would be{b}
+few people around in the park.{p}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 5}{color: 2}
+(So he just stood there,{wait: 8}{b}
+watching?{wait: 25} Hmm...{wait: 20} {speed: 3}Not much{b}
+to go on there.){color: 0}{p}{jmp: 134}{endjmp}
+
+{{16}}
+{bop}{endjmp}
+
+{{17}}
+{bop}{fademusic: 30}{wait: 30}{0x29: 0}{0x6b: 0 0 0}{bganim: 98 632}{wait: 60}{0x6d: 0}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 58 58}{name: 1024}{hidetextbox: 0}............{nextpage_button}{speed: 5}{color: 2}
+(I...{wait: 12} {speed: 3}I saw it!{wait: 20}{b}
+Just now...{wait: 10}{bgcolor: 2305 8 31}{b}{shake: 30 0}{speed: 2}
+I could see it!){color: 0}{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}
+M-{wait: 12}Mr. Justice?{wait: 16}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Do you have something to say?{nextpage_button}{bg: 27}{person: 30 678 677}{name: 7680}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+A-All this b-banging of desks!{b}
+I-{bgcolor: 2305 8 31}{shake: 30 1}It's quite bad for my{b}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}
+circulation,{wait: 8} you know.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{person: 4 37 36}{name: 1024}{hidetextbox: 0}{speed: 5}
+Mr. Stickler...{wait: 12} {speed: 3}Allow me to{b}
+ask you a simple question.{p}
+Why did you fiddle with the{b}
+page of your book just now?{nextpage_button}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 20}The very moment you{b}
+mentioned your cell{bgcolor: 2305 8 31} phone!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 677}{wait: 32}{person: 30 678 677}{name: 7680}{shake: 30 0}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+Wh-{wait: 8}Wh-{wait: 8}{bgcolor: 2305 8 31}{shake: 30 1}What are you talking{b}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}
+about!?{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}
+I'm curious now about this{b}
+cell phone of yours{speed: 8}...{p}{person: 4 48 47}{speed: 5}
+Mind if I ask a few{b}
+questions?{nextpage_button}{fademusic: 0}{music: 4 60}{endjmp}
+
+{{18}}
+{bop}{bg: 25}{name: 1024}{person: 4 40 40}{speed: 3}{color: 2}(Hmm... What to ask,{b}
+What to ask...){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 22}{newevidence: 24}{b}{b}{3args_choice_jmp: 147 148 149}{endjmp}
+
+{{19}}
+{bop}{bg: 25}{person: 4 66 65}{name: 1024}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}Mr. Stickler...{wait: 16} Tell me your{b}
+phone number!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 677}{wait: 32}{person: 30 695 695}{animation: 219 1}{name: 7680}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{hidetextbox: 0}
+Urk!?{wait: 20}{b}
+Wh-{wait: 8}Why?{wait: 20} Whatever for?{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{swoosh: 2 1 6 148}{wait: 32}{person: 6 147 147}{0x63}{name: 13568}{hidetextbox: 0}{speed: 4}
+...{wait: 30}Why not?{wait: 20} {person: 6 149 148}{speed: 3}You have something{b}
+against making friends?{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 265 264}{name: 2560}{hidetextbox: 0}{speed: 3}
+...{wait: 20}What does this witness's{b}
+cell phone number have to do{b}
+with the case?{nextpage_button}{bg: 27}{person: 30 678 677}{name: 7680}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Absolutely nothing!{p}
+This is a...{wait: 20} an invasion of{b}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+my privacy!{nextpage_button}{bg: 29}{person: 10 266 266}{0x63}{name: 2560}{speed: 6}
+Hmm...{p}{person: 10 259 258}{speed: 3}
+Seeing you grimace like that{b}
+makes me wonder about your{b}
+cell phone,{wait: 8} too.{nextpage_button}{person: 10 263 262}
+The witness will present his{b}
+cell phone number to the{b}
+court.{nextpage_button}{bg: 27}{person: 30 677 677}{name: 7680}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Waaaugh!{wait: 16}{nextpage_button}{bg: 28}{person: 5 98 98}{name: 1024}{speed: 3}
+Trucy...{wait: 20} Do you have your cell{b}
+phone?{nextpage_button}{person: 5 99 98}{name: 1280}
+Sure do!{wait: 12}{nextpage_button}{person: 5 98 98}{name: 1024}
+Try dialing the number that{b}
+he gives us.{nextpage_button}{person: 5 105 104}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+You want me to call{b}
+Mr. Stickler's phone?{nextpage_button}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 81 1}{0x6b: 53 1 0}{bganim: 98 526}{wait: 30}{sound: 117 1}{wait: 60}{wait: 160}{fademusic: 0}{music: 15 0}{bgcolor: 770 1 31}{wait: 15}{wait: 150}{bg: 25}{person: 4 36 36}{bgcolor: 770 1 31}{wait: 15}{wait: 45}{bg: 26}{person: 6 145 145}{bgcolor: 770 1 31}{wait: 15}{wait: 45}{bg: 27}{person: 30 677 677}{bgcolor: 770 1 31}{wait: 15}{wait: 45}{bg: 29}{person: 10 264 264}{bgcolor: 770 1 31}{wait: 15}{wait: 60}{name: 2560}{person: 10 265 264}{hidetextbox: 0}{speed: 4}
+This...{wait: 16} {speed: 3}{shake: 30 0}is all highly{b}
+irregular.{nextpage_button}{hidetextbox: 1}{bg: 28}{person: 5 100 100}{wait: 50}{name: 1280}{person: 5 105 104}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+H-{wait: 12}Hey!{wait_noanim: 30}{0x59} {speed: 3}My pocket's ringing!{nextpage_button}{sound: 194 1}{fademusic: 0}{music: 0 0}{showphoto: 60}{person: 5 103 102}{name: 1280}
+Wait!{wait: 20} {speed: 3}This is the phone from{b}
+yesterday!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bganim: 98 579}{bg: 225}{person: 0 0 0}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 1024}{showphoto: 60}{hidetextbox: 0}
+Look{speed: 7}...{wait: 16} {speed: 3}a cell phone.{p}{name: 1280}
+Someone dropped it beneath{b}
+this tire!{p}{speed: 2}
+If the car moved, it would{b}{shake: 30 0}{bgcolor: 2305 8 31}
+be crushed for sure!{nextpage_button}{name: 1024}{speed: 5}
+Hmm{speed: 8}...{wait: 20} {speed: 3}I wonder if it belongs{b}
+to the doctor here?{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bganim: 98 579}{bg: 25}{person: 4 47 47}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{bg: 25}{person: 4 48 47}{name: 1024}{hidetextbox: 0}{speed: 5}
+How strange,{wait: 16} Mr. Stickler.{nextpage_button}{bg: 27}{person: 30 678 677}{name: 7680}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 47}{wait: 32}{person: 4 48 47}{name: 1024}{hidetextbox: 0}{speed: 2}
+Can you explain {wait_noanim: 30}{person: 4 64 65}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}why your cell{b}
+phone is sitting here in my{b}{person: 4 66 65}
+assistant's hand!?{fademusic: 0}{music: 35 0}{nextpage_button}{jmp: 150}{endjmp}
+
+{{20}}
+{bop}{bg: 25}{person: 4 66 65}{name: 1024}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}Mr. Stickler,{wait: 16} please show me{b}
+your cell phone!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 677}{wait: 32}{person: 30 695 695}{animation: 219 1}{name: 7680}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+Urk!?{wait: 20}{b}{speed: 3}
+Wh-{wait: 8}Why?{wait: 10} Whatever for?{wait: 60}{nextpage_nobutton}{bg: 25}{name: 1024}{person: 4 48 47}{speed: 3}
+Show me,{wait: 16} and you'll find out.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 677}{wait: 32}{name: 7680}{person: 30 678 677}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+W-{wait: 8}Well I can't!{wait: 16} {speed: 3}I don't have{b}
+it,{wait: 8} you see.{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+You don't have it...?{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}
+...{wait: 20}Mr. Stickler.{p}{speed: 3}
+Is this {fademusic: 30}{showphoto: 316}{sound: 52 1}{bgcolor: 2305 8 31}{person: 4 48 47}your cell phone?{nextpage_button}{bganim: 98 579}{bg: 27}{name: 7680}{person: 30 678 677}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Yeeeeow!{wait: 20} Wh-{wait: 8}Where did you{b}{shake: 30 0}{bgcolor: 2305 8 31}
+get that!?{p}{bg: 28}{person: 5 103 102}{name: 1280}{showphoto: 60}{speed: 4}
+That's the phone from{b}
+yesterday!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bganim: 98 579}{bg: 225}{person: 0 0 0}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 1024}{showphoto: 60}{hidetextbox: 0}
+Look{speed: 7}...{wait: 16} {speed: 3}a cell phone.{p}{name: 1280}
+Someone dropped it beneath{b}
+this tire!{p}{speed: 2}
+If the car moved, it would{b}{shake: 30 0}{bgcolor: 2305 8 31}
+be crushed for sure!{nextpage_button}{name: 1024}
+Hmm{speed: 8}...{wait: 20} {speed: 3}I wonder if it belongs{b}
+to the doctor here?{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bganim: 98 579}{bg: 25}{person: 4 47 47}{0x5f: 4 1 1}{bgcolor: 770 1 31}{wait: 15}{bg: 25}{person: 4 48 47}{name: 1024}{hidetextbox: 0}{speed: 5}
+How strange,{wait: 16} Mr. Stickler.{nextpage_button}{bg: 27}{person: 30 678 677}{name: 7680}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 47}{wait: 32}{person: 4 48 47}{name: 1024}{hidetextbox: 0}{speed: 3}
+Can you explain {wait_noanim: 30}{person: 4 64 65}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}why your cell{b}
+phone is sitting here in my{b}{person: 4 66 65}
+hand at this very moment?{fademusic: 0}{music: 35 0}{nextpage_button}{jmp: 150}{endjmp}
+
+{{21}}
+{bop}{bg: 25}{name: 1024}{person: 4 41 40}{speed: 3}I was wondering...{wait: 20} Can you{wait_noanim: 25}{b}{person: 4 37 36}
+tell me what model of cell{b}
+phone you own?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 677}{wait: 32}{bg: 27}{person: 30 695 695}{animation: 219 1}{name: 7680}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{hidetextbox: 0}{speed: 2}
+Urk!?{wait: 20}{b}
+Wh-{wait: 8}Why?{wait: 10} Whatever for?{wait: 60}{nextpage_nobutton}{hidetextbox: 1}{bg: 26}{person: 6 147 147}{0x63}{name: 13568}{hidetextbox: 0}{speed: 4}
+Why not tell him?{wait: 30} {speed: 3}It's not{b}{person: 6 149 148}
+some matter of national{b}
+security,{wait: 8} I'm sure.{p}{person: 6 146 145}
+Nor does it have anything to{b}
+do with this case!{wait: 16} {speed: 3}Take it to{b}
+the lobby,{wait: 8} gentlemen.{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Mr. Justice,{wait: 8} our current{b}
+market is flooded with{b}
+generic-brand cell phones.{p}{person: 10 263 262}
+Please ask questions with a{b}
+little regard for market{b}
+trends,{wait: 8} please.{nextpage_button}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 4}
+...{wait: 20}Who would have guessed the{b}
+judge was up on his cell{b}
+phone industry trends?{nextpage_button}{name: 1024}
+Who would have guessed I'd{b}
+get chewed out for asking{b}
+a simple question...?{nextpage_button}{0x23: 0}{music: 255 90}{jmp: 146}{endjmp}
+
+{{22}}
+{bop}{bg: 29}{person: 10 265 264}{name: 2560}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}Wait a minute!{wait: 12} {speed: 3}What is the{b}
+meaning of this!?{nextpage_button}{0x19: 60 61}{bg: 25}{person: 4 37 36}{name: 1024}{showphoto: 316}
+This cell phone was found{b}
+yesterday...{p}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}
+...in the Meraktis Clinic{b}
+garage!{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 6}
+The Meraktis... {wait: 30}{person: 10 265 264}{bganim: 98 579}{showphoto: 52}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}Why,{wait: 8} that's{b}
+where the vic{bgcolor: 2305 8 31}tim lived!{nextpage_button}{bg: 27}{person: 30 691 690}{animation: 221 1}{name: 7680}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Yeeeeeerrgh!{wait: 12}{b}
+Th-{wait: 12}That's impossible!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 2}
+Mr. Stickler,{wait: 8} you lied to the{b}
+court,{wait: 8} didn't you?{p}{speed: 5}
+If your cell phone is here,{0x5a}{wait: 30}{b}{fademusic: 30}{0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+how could you have cal{bgcolor: 2305 8 31}led{b}
+the pol{bgcolor: 2305 8 31}ice!?{nextpage_button}{hideperson}{0x26: 0}{bg: 27}{person: 30 695 695}{animation: 219 1}{name: 7680}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Weeee{bgcolor: 2305 8 31}eeeee{bgcolor: 2305 8 31}eeoouk!{wait: 120}{nextpage_nobutton}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{person: 30 689 688}{0x5a}{wait: 30}{bgcolor: 260 1 31}{wait: 25}{fademusic: 0}{music: 28 0}{name: 7680}{person: 30 689 688}{hidetextbox: 0}{speed: 3}
+It...{wait: 12} It's true. I didn't{b}
+have my cell phone that night.{p}
+That is why it can be said{b}
+that I called the police from{b}
+a public pay phone.{p}{bg: 29}{person: 10 265 264}{name: 2560}
+A pay phone!{shake: 30 0}{wait: 12}{b}{bgcolor: 2305 8 31}{speed: 2}
+So you didn't call on your{b}
+cell phone after all...{nextpage_button}{bg: 25}{person: 4 66 65}{name: 1024}{speed: 3}
+Just where was this pay{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+phone located,{wait: 8} Mr. Stickler!?{nextpage_button}{bg: 27}{person: 30 689 688}{name: 7680}{speed: 3}
+Well,{wait: 8} to indicate it with{b}
+a startlingly high degree of{b}
+accuracy...{nextpage_button}{bg: 93}{littlesprite: 7425}{littlesprite: 5377}{person: 0 0 0}{speed: 4}
+...{wait: 16}it was right around here.{nextpage_button}{hidetextbox: 1}{0x3c: 7425}{wait: 90}{0x3c: 7424}{0x10: 33290}{name: 2560}{hidetextbox: 0}
+That's...{wait: 20} quite a ways from{b}
+the park.{p}{bganim: 98 514}{bg: 29}{person: 10 265 264}
+But...{wait: 20} But why did you lie?{nextpage_button}{bg: 25}{person: 4 41 40}{name: 1024}{speed: 4}
+There can be only one reason.{p}{person: 4 37 36}{speed: 3}
+He didn't want the court to{b}
+know he had lost his cell{b}
+phone.{p}
+Because it was found...{p}{fademusic: 60}{person: 4 48 47}{sound: 52 1}
+...{wait: 20}in the victim's garage!{nextpage_button}{bg: 27}{person: 30 678 677}{name: 7680}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Wh-{wait: 8}Wh-{wait: 8}What are you saying!?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 3}
+Mr. Stickler...{nextpage_button}{person: 4 59 58}{speed: 2}
+You broke into the Meraktis{b}
+Clinic garage on the night{b}
+of the murder!{p}{person: 4 66 65}{showphoto: 316}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 7 0}{speed: 2}
+This cell ph{bgcolor: 2305 8 31}one tells a{bgcolor: 2305 8 31}ll!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 81 1}{sound: 22 1}{wait: 120}{bg: 27}{person: 30 678 677}{name: 7680}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+B-{wait: 20}But that's ridiculous!{b}{speed: 3}
+That makes it sound like...{p}
+Like I snuck into this{b}
+fellow's garage to commit{b}
+some crime!{p}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+As though I were try{bgcolor: 2305 8 31}ing to{b}
+kill{bgcolor: 2305 8 31} him!{nextpage_button}{bg: 29}{person: 10 259 258}{name: 2560}{speed: 3}
+Well,{wait: 8} Dr. Meraktis was{b}
+killed that night.{nextpage_button}{bg: 27}{person: 30 678 677}{name: 7680}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+W-{wait: 8}Well y-yes,{wait: 8} but no!{wait: 16} This{b}
+line of reasoning has to be{b}
+against the rules!{p}{shake: 30 0}{bgcolor: 2305 8 31}
+Yes,{wait: 8} it's true!{wait: 16} I lost my{b}
+cell phone!{p}
+But you can't prove that I{wait: 8}{b}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}
+lost it that night!{nextpage_button}{bg: 29}{person: 10 266 266}{name: 2560}{speed: 6}
+Hmm...{wait: 30}{b}{person: 10 263 262}{speed: 3}
+Well,{wait: 16} Mr. Justice?{p}
+If that cell phone was dropped{b}
+the night of the murder...{p}
+...it does raise considerable{b}
+suspicions as to a connection{b}
+with the crime.{nextpage_button}{bg: 28}{person: 5 99 98}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Now's your cha{bgcolor: 2305 8 31}nce,{wait: 8} Apollo!{b}
+Connect Mr. Stickler to the{b}
+crime!{nextpage_button}{person: 5 98 98}{name: 1024}{speed: 3}
+Oh,{wait: 8} he's already{wait: 8} connected{wait: 6}{b}
+enough.{wait: 16} I just have to{b}
+prove it.{nextpage_button}{bg: 25}{person: 4 42 42}{color: 2}
+(Well{speed: 8}...{wait: 16} {speed: 4}Do I have a piece of{b}
+evidence that can do the{b}
+job?){nextpage_button}{endjmp}
+
+{{23}}
+{bop}{person: 4 36 36}{name: 1024}{speed: 3}{color: 2}(Can I prove the cell phone{b}
+was dropped on the night of{b}
+the murder?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 25}{swoosh: 65535 1 8 153}8{endjmp}
+
+{{24}}
+{bop}{bg: 25}{name: 1024}{fademusic: 60}{person: 4 42 42}{speed: 4}{color: 2}(Evidence...{wait: 12} If only I had{b}
+some evidence, it'd make this{b}
+whole thing a lot easier.){color: 0}{p}{bg: 29}{name: 2560}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Care to explain the lack of{b}
+confidence smeared across{b}
+your face,{wait: 8} Mr. Justice?{p}{bg: 26}{hidetextbox: 1}{person: 6 164 164}{0x63}{person: 6 165 165}{sound: 25 1}{wait: 70}{hidetextbox: 0}{name: 13568}{person: 6 167 166}{speed: 3}
+Oh,{wait: 8} Herr Forehead...{wait: 20} I think{b}
+it should be clear by now.{p}{person: 6 146 145}
+"No evidence"{wait: 4} means{wait: 6} "no case".{wait: 16}{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{name: 1024}{person: 4 61 61}{animation: 149 1}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}{color: 2}
+(Ack!{wait: 16} I guess this is it,{wait_noanim: 20}{b}
+then.{wait: 16} {person: 4 58 58}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{0x23: 0}{music: 255 90}{speed: 2}Time to go for broke!){color: 0}{p}{jmp: 154}{endjmp}
+
+{{25}}
+{bop}{bg: 25}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{speed: 3}Of course I have evidence!{p}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 3}
+Ooh,{wait: 10} I like your swagger,{wait: 8}{b}
+Herr Forehead.{wait: 15} Hit it.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}
+The court will see this{b}
+evidence.{wait: 16} Mr. Justice,{wait: 8}{b}
+"hit it",{wait: 8} as they say!{p}{jmp: 154}{endjmp}
+
+{{26}}
+{bop}{bg: 25}{person: 4 37 36}{name: 1024}{0x6c: 0}{0x6e: 20}{speed: 3}The evidence that proves{b}
+the cell phone was dropped{b}
+on the night of the murder is:{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{27}}
+{bop}{0x6d: 0}{fademusic: 30}{bg: 29}{name: 2560}{person: 10 266 266}{hidetextbox: 0}{speed: 6}Hmm{speed: 8}...{wait: 40}{b}{person: 10 263 262}{speed: 3}
+Well,{wait: 16} Prosecutor Gavin?{p}{bg: 26}{name: 13568}{person: 6 151 150}
+No comment,{wait: 8} Herr Judge.{nextpage_button}{0x6c: 0}{0x6e: 20}{bg: 29}{name: 2560}{person: 10 263 262}
+No dice,{wait: 8} Mr. Justice.{b}
+Penalty.{person: 10 262 262}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 28}{name: 1280}{person: 5 103 102}{speed: 2}
+Apollo!{wait: 16} {speed: 3}Remember where we{b}{showphoto: 60}
+found that cell phone!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 225}{person: 0 0 0}{0x5f: 3 1 31}{bganim: 98 579}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 0}
+If it had fallen on the ground{b}
+before that night...{p}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{color: 2}
+(That's right!{bgcolor: 2305 8 31}{wait: 16} {speed: 3}The cell phone{b}
+would have been crushed!){color: 0}{p}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{0x5f: 4 1 1}{bg: 25}{person: 4 58 58}{bgcolor: 769 1 31}{wait: 7}{person: 4 59 58}{hidetextbox: 0}
+Your Honor!{wait: 16}{b}
+One more chance,{wait: 8} please!{p}{bg: 29}{person: 10 263 262}{name: 2560}
+Mr. Justice,{wait: 16} keep this up{b}
+and you'll run yourself out{b}{0x23: 0}{music: 255 90}
+of a life's worth of chances!{nextpage_button}{jmp: 154}{endjmp}
+
+{{28}}
+{bop}{0x6d: 0}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 3}That's...{wait: 20} a side-view mirror?{p}{bg: 25}{name: 1024}{person: 4 41 40}
+As it so happens...{wait: 16}{b}
+Dr. Meraktis's car was in{b}
+an accident...{p}{person: 4 48 47}{speed: 3}{fademusic: 60}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 20}that took place the night{b}
+of the murder!{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 30 677}{wait: 32}{person: 30 678 677}{name: 7680}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 2}
+An accident!?{nextpage_button}{bg: 25}{person: 4 38 38}{name: 1024}{speed: 4}
+An accident.{0x63}{nextpage_button}{hidetextbox: 1}{sound: 49 1}{fademusic: 0}{music: 9 0}{bgcolor: 1026 1 31}{wait: 15}{bg: 227}{person: 0 0 0}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{wait: 1}{0x1d: 260}{0x4c}{hidetextbox: 0}
+It happened a little after{b}
+9 PM,{wait: 8} just outside People{b}
+Park{speed: 8}...{wait: 8} {speed: 3}our murder scene.{p}{bg: 126}{sound: 115 1}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Dr.{bgcolor: 2305 8 31} Meraktis's car hit{b}
+a pede{bgcolor: 2305 8 31}strian!{nextpage_button}{bg: 27}{person: 30 678 677}{0x5f: 4 1 1}{name: 7680}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Wh-{wait: 8}What are you trying to say?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 44}{wait: 32}{person: 4 45 44}{name: 1024}{hidetextbox: 0}{speed: 3}
+From the absence of a mirror,{wait: 8}{b}{person: 0 0 0}{bg: 224}
+it's clear that the car was{b}
+parked after the accident.{p}
+Which means it was parked{b}
+there after 9 PM on the night{b}
+of the murder.{nextpage_button}
+If your cell phone had been{b}
+dropped before the car was{b}
+parked in that garage...{p}
+...then it would have been{b}
+crushed.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 25}{name: 1024}{person: 4 58 58}{bgcolor: 770 1 31}{wait: 15}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+After all, it was lying on the{b}
+ground,{wait: 8} right under the wheel!{nextpage_button}{bg: 27}{person: 30 691 690}{animation: 221 1}{name: 7680}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Urk...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{fademusic: 30}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 3}
+Ergo,{wait: 12} Mr. Stickler!{p}{person: 4 59 58}{showphoto: 316}
+The only time you could have{b}
+dropped this in that garage...{p}{bganim: 98 579}{person: 0 0 0}{0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{sound: 50 1}{shake: 30 1}{fademusic: 0}{music: 8 0}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 12}was after 9 PM the night{b}
+of the murder in the park!{nextpage_button}{hideperson}{0x26: 0}{hidetextbox: 1}{bg: 27}{person: 30 695 695}{animation: 219 1}{name: 7680}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{hidetextbox: 0}{speed: 2}
+Wee{bgcolor: 2305 8 31}eeeeeeooo{bgcolor: 2305 8 31}orrgh!{wait: 120}{nextpage_nobutton}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 81 1}{sound: 22 1}{wait: 120}{bg: 25}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{speed: 2}
+Mr. Stickler!{wait: 16} {speed: 3}You know what{b}
+this means?{p}{person: 4 66 65}{speed: 2}
+You did break into the{b}
+victim's garage that night.{p}{bg: 29}{person: 10 265 264}{name: 2560}{hidetextbox: 0}{speed: 3}
+This is most unexpected!{wait: 16}{b}
+Mr. Justice...{p}{bg: 27}{person: 30 677 677}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}
+Are you naming the witness{b}
+as a suspect in the mu{bgcolor: 2305 8 31}rder{b}
+of Pal Mer{bgcolor: 2305 8 31}aktis!?{nextpage_button}{bg: 27}{person: 30 678 677}{name: 7680}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}
+N-{wait: 8}No,{wait: 8} stop!{wait: 16} This is too much!{b}
+This can't be happening!{p}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{person: 30 691 690}{animation: 221 1}{speed: 2}
+P-{wait: 7}{bgcolor: 2305 8 31}P-{wait: 7}{bgcolor: 2305 8 31}P-{wait: 7}{bgcolor: 2305 8 31}P-{wait: 7}Prosecutor!{wait: 16}{b}
+Say something!{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{person: 6 151 150}{name: 13568}{hidetextbox: 0}{speed: 3}
+I suppose it is worth saying{b}
+this:{p}
+No connection has been found{b}
+between Wesley Stickler and{b}
+Pal Meraktis.{nextpage_button}{person: 6 149 148}{showphoto: 60}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+That is,{wait: 8} other than this.{nextpage_button}{bganim: 98 579}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{speed: 4}
+I believe our next testimony{b}
+will be most...{wait: 12}{speed: 3} revelatory.{p}{person: 10 263 262}
+Is the witness prepared?{nextpage_button}{bg: 27}{person: 30 691 690}{animation: 221 1}{name: 7680}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}
+Y-Y-{wait: 8}Yes,{wait: 12} {speed: 2}Your Honor!!!{nextpage_button}{bg: 25}{person: 4 58 58}{name: 1024}{speed: 5}{color: 2}
+(I know that face{speed: 8}...{wait: 6} {speed: 3}That's{b}
+the face of guilt!){color: 0}{nextpage_button}{bg: 28}{person: 5 100 100}{name: 1280}{speed: 7}
+...{nextpage_button}{hidetextbox: 1}{wait: 30}{fademusic: 60}{testimony_animation: 1}{special_jmp}{endjmp}

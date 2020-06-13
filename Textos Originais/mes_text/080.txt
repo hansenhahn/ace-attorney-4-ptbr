@@ -1,0 +1,306 @@
+
+
+{{0}}
+{bop}{bg: 259}{person: 0 0 0}{0x26: 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}July 9{b}
+Sunshine Coliseum{color: 0}{nextpage_button}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 30}{fademusic: 0}{music: 56 0}{name: 1280}{person: 5 96 95}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Woo!{wait: 10} What a great day!{wait_noanim: 18}{b}{person: 5 72 69}{speed: 3}
+It's perfect weather for{sound: 51 1}{b}{bgcolor: 2305 8 31}
+sleuthing!{p}{name: 1024}{person: 5 69 69}{speed: 3}
+The weather matters for{b}
+an investigation?{p}{name: 1280}{person: 5 76 75}{speed: 4}
+Don't some days just feel{b}{speed: 3}
+like{wait: 4} "magic" days or{wait: 4} "defense"{b}
+days?{p}{name: 1024}{person: 5 75 75}{speed: 4}
+Um,{wait: 6} sure.{wait: 16} {speed: 3}Let's get started,{wait: 12}{b}
+shall we?{p}{name: 1280}{person: 5 96 95}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Right on!{wait: 24} {shake: 30 0}{person: 5 74 73}{speed: 2}Show us your stuff,{wait: 10}{b}
+Apollo!{wait: 8}{p}{name: 1024}{person: 5 73 73}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Um,{wait: 12} what stuff?{p}{name: 1280}{person: 5 96 95}{shake: 30 0}{speed: 3}
+Your voice training!{wait: 16} {person: 5 72 69}This is{b}
+the perfect place for it!{b}{person: 5 70 70}{p}{name: 1024}{person: 5 69 69}{speed: 3}
+I did enough at home,{wait: 8} thanks.{p}{name: 1280}{person: 5 96 95}{speed: 3}
+Aw,{wait: 8} there's no need to be{b}
+shy!{nextpage_button}{person: 5 74 73}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Keep that up and you'll never{b}
+make it on the big stage!{p}{name: 1024}{person: 5 73 73}{speed: 4}
+I'm happy in the courtroom,{wait: 8}{b}
+thank you.{wait: 16} I am a lawyer.{p}{name: 1280}{person: 5 76 75}{speed: 3}
+Then you're in luck,{wait: 16} {person: 5 96 95}because{b}
+it's {shake: 30 0}lawyer weather today!{p}{speed: 2}
+Don't you just want to face{b}
+the blue sky and shout,{wait: 6}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+"Objection!"?{p}{name: 1024}{person: 5 95 95}{speed: 3}
+Look,{wait: 8} the weather has nothing{b}
+to do with lawyers.{wait: 16} {shake: 30 0}Let's get{b}
+going already!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 0 0 0}{0x10: 33127}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}Look!{wait: 10} {speed: 3}A blimp!{p}{name: 1024}{person: 5 69 69}{speed: 3}
+Those balloons next to it{b}
+have ad banners on them.{p}{name: 1280}{person: 5 76 75}{speed: 4}
+Let's see{0x5a}...{wait: 24}{0x59} {person: 5 96 95}{bgcolor: 2305 8 31}"Big Sale,{wait: 10} All{b}
+Shirts 50% Off."{p}{name: 1024}{person: 5 95 95}{speed: 3}
+Oh.{wait: 16} It's an ad for the{b}
+department store next door.{p}{jmp: 133}{endjmp}
+
+{{2}}
+{bop}{name: 1024}{speed: 4}{color: 1}Sunshine Coliseum{color: 0} sure is{b}
+living up to its name today.{p}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+It's huge!{p}{person: 5 96 95}{shake: 30 0}{speed: 4}
+And Mr. Gavin got to play on{b}
+that enormous stage{speed: 8}{0x5a}...{wait: 18}{0x59}{b}{speed: 2}
+I'm so {bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}jealous!{p}{person: 5 74 73}{speed: 3}
+Someday,{wait: 8}{speed: 2} I'll {bgcolor: 2305 8 31}{shake: 30 0}fight my first{b}
+battle on this stage!{nextpage_button}{name: 1024}{person: 5 73 73}{speed: 3}
+Battle?{p}{name: 1280}{person: 5 76 75}{speed: 4}
+Well,{wait: 4} yeah,{wait: 8} it's a coliseum,{wait: 4}{b}
+isn't it?{p}{name: 1024}{person: 5 75 75}
+Um,{wait: 6} {speed: 4}they don't do {bgcolor: 2305 8 31}gladiatorial{b}
+contests at these places any{b}
+more,{wait: 10} Trucy.{p}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Really?{wait: 12} I had no idea!{wait: 10}{b}{speed: 2}
+I wonder why they stopped.{person: 5 71 71}{p}{name: 1024}{person: 5 71 71}{speed: 4}{color: 2}
+(Sometimes I worry about{b}
+her.){color: 0}{nextpage_button}{jmp: 133}{endjmp}
+
+{{3}}
+{bop}{name: 1024}{speed: 3}Look,{wait: 6} a massive sign for the{b}
+"{color: 1}Guilty As Charged{color: 0}" Tour.{p}
+A giant Prosecutor Gavin{b}
+stares out over the arena.{p}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Ooh!{wait: 12} {speed: 3}Maybe I can take it to{b}
+the office when they're done{b}
+with it!{person: 5 70 70}{p}{name: 1024}{person: 5 69 69}{speed: 3}
+Um,{wait: 6} where would you put it?{wait: 14}{b}
+You couldn't even get that{b}
+thing through the front door.{p}{name: 1280}{person: 5 68 67}{speed: 4}
+Then I'll put it outside!{wait: 10}{b}{person: 5 74 73}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+I bet it'd be good for{b}
+business!{p}{name: 1024}{person: 5 73 73}{speed: 4}
+Just as long as no one comes{b}
+expecting us to prosecute.{p}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Well,{wait: 6} if anyone comes looking{b}
+for a concert,{wait: 8} leave it to me!{b}{person: 5 70 70}{p}{name: 1024}{person: 5 70 70}{speed: 4}{color: 2}
+(Is this part of some twisted{b}
+plan of hers to make her{b}
+singing debut,{wait: 8} I wonder?){nextpage_button}{jmp: 133}{endjmp}
+
+{{4}}
+{bop}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}What's that{speed: 8}{0x5a}...{wait: 10}{0x59} creature there?{p}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Oooh!{wait: 10} That's the police{b}
+mascot,{wait: 8} the Blue Badger!{p}{name: 1024}{person: 5 69 69}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Eh?{wait: 10} It's life size!{p}{name: 1280}{person: 5 74 73}{shake: 30 0}
+Haven't you seen them around{b}
+town?{wait: 16} Patrolling the streets?{p}{person: 5 96 95}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yes,{wait: 12} now even law and order{b}
+has a mascot!{p}{name: 1024}{person: 5 95 95}{speed: 4}
+...{wait: 8}I'd run from that thing{b}
+even if I wasn't a criminal.{p}{speed: 3}
+Why does its head wobble like{b}
+that when it walks?{wait: 16}{b}
+It's freaky.{p}{name: 1280}{person: 5 91 90}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+I don't think you're showing{b}
+true Blue Badger spirit,{wait: 8}{b}
+Apollo.{nextpage_button}{jmp: 133}{endjmp}
+
+{{5}}
+{bop}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{0x51: 1 53}{37121}{nextpage_nobutton}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{person: 37 815 815}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{bg: 259}{person: 0 0 0}{0x26: 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}July 9{b}
+Sunshine Coliseum{color: 0}{nextpage_button}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 30}{personvanish: 3 2}{person: 37 816 815}{0x5a}{wait: 32}{name: 9472}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{0x59}{speed: 3}
+What?{wait: 10} Come to laugh at the{b}
+murderer?{nextpage_button}{person: 5 82 81}{name: 1280}{speed: 4}
+Daryan{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 37 821 820}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 9472}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+That old bag opens her pie{b}
+hole,{wait: 10} and wham-bam my life{b}
+goes down the chute.{wait: 16} {speed: 3}Thanks!{p}{shake: 30 0}{speed: 2}
+They won't let me work while{b}
+I'm a suspect!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 4}
+Daryan isn't in the best of{b}
+moods,{wait: 6} is he?{nextpage_button}{person: 5 83 83}{name: 1024}{speed: 4}
+Not many people are these{b}
+days,{wait: 8} it seems.{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 3}
+It is a crime scene.{wait: 12} Not{b}
+exactly the happiest place{b}
+to hang out.{nextpage_button}{person: 37 821 820}{name: 9472}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}
+Then Gavin had to go rub salt{b}
+in the wound{speed: 8}{0x5a}...{p}{speed: 3}
+My {color: 1}alibi's{color: 0} rock solid.{b}{shake: 30 0}
+Rock solid!{nextpage_button}{fademusic: 0}{music: 32 0}{0x10: 33128}{0x10: 33169}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{name: 1024}{speed: 4}Come to think of it,{wait: 8} I haven't{b}
+seen Prosecutor Gavin around{b}
+much.{nextpage_button}{person: 37 816 815}{name: 9472}{speed: 3}
+Oh,{wait: 8} him?{wait: 10} He's down at the{b}
+prosecutor's office,{wait: 10} most{b}
+likely.{nextpage_button}{person: 37 815 815}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+The prosecutor's office{speed: 8}{0x5a}...{wait: 18}{0x59}{b}{speed: 4}{color: 2}
+(I've never been there,{wait: 6}{b}
+have I.){color: 0}{nextpage_button}{person: 37 816 815}{name: 9472}{speed: 3}
+The data on the victim should{b}
+have come in from Interpol.{nextpage_button}{person: 37 818 817}{speed: 4}{0x5a}
+...{0x59}Normally I'd be down there{b}
+dealing with it.{wait: 16} Normally.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{shake: 30 0}{speed: 3}
+Apollo!{wait: 12} Let's go check it out!{wait_noanim: 16}{b}{person: 5 72 69}{bgcolor: 2305 8 31}{speed: 2}
+I've always wanted to see the{b}
+prosecutor's office.{person: 5 70 70}{nextpage_button}{person: 5 70 70}{name: 1024}{speed: 4}
+Hmm{0x5a}...{wait: 18}{0x59} Maybe that's not such{b}
+a bad idea.{nextpage_button}{person: 5 74 73}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Right on!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 37 818 817}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 9472}{speed: 3}
+Say "hi" for me,{wait: 8} OK?{wait: 16}{b}{speed: 4}
+Oh,{wait: 6} and "screw you".{nextpage_button}{hidetextbox: 1}{person: 37 829 829}{0x63}{person: 37 831 831}{0x63}{person: 37 828 827}{hidetextbox: 0}{speed: 4}
+And tell him I want into that{b}{shake: 30 0}{speed: 3}
+crime scene!{nextpage_button}{name: 1024}{0x5a}{speed: 4}
+...Um,{wait: 6} we'll be going now.{nextpage_button}{person: 37 816 815}{name: 9472}{speed: 4}
+Hey,{wait: 6} wait.{nextpage_button}{person: 37 815 815}{name: 1024}{sound: 52 1}{fademusic: 45}{bgcolor: 2305 8 31}{speed: 4}
+Y...{wait: 18}{speed: 3}Yes?{nextpage_button}{person: 37 818 817}{name: 9472}{speed: 4}
+What do you really think{b}
+happened?{wait: 16} Really?{nextpage_button}{person: 37 818 817}{shake: 30 0}
+You don't think I did it,{wait: 8}{b}{person: 37 821 820}
+right?{nextpage_button}{person: 37 820 820}{name: 1024}{speed: 4}
+W-{wait: 8}{shake: 30 0}Well{speed: 8}{0x5a}...{nextpage_button}{person: 37 818 817}{name: 9472}{speed: 3}
+Great.{wait: 16} Way to instill a guy{b}
+with some confidence.{nextpage_button}{person: 37 821 820}{speed: 3}
+Just remember,{wait: 8} I was ripping{b}
+it up on stage when it{b}
+happened,{wait: 8} OK?{wait: 16} Ripping!{nextpage_button}{person: 37 820 820}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}
+...!{nextpage_button}{person: 37 821 820}{name: 9472}{speed: 3}
+Don't get led astray by{b}
+some siren song,{wait: 8} eh?{nextpage_button}{person: 37 825 824}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 4}
+Get this one wrong,{wait: 8} and you'll{b}
+be eating humble pie for a{b}
+year.{wait: 16} {speed: 3}I'll bake it myself.{nextpage_button}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{person: 0 0 0}{wait: 60}{personvanish: 3 2}{person: 5 84 83}{0x5a}{wait: 32}{name: 1280}{hidetextbox: 0}{0x59}{speed: 4}
+Let's...{wait: 18} not talk to him{b}
+anymore.{wait: 16} Alright?{nextpage_button}{person: 5 83 83}{name: 1024}{speed: 3}{color: 2}
+(Detective Daryan Crescend{speed: 8}...{wait: 18}{b}{speed: 3}
+He's one stone I'd leave{b}
+unturned if I had a choice.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{person: 0 0 0}{fademusic: 0}{music: 0 0}{fademusic: 0}{music: 56 0}{0x10: 33129}{0x10: 401}{0x33: 0 1 18 9 255}{0x60: 0 1 13 12 255}{0x61: 0 25 16 15 255}{0x33: 1 0 18 255 255}{0x60: 1 18 13 255 255}{0x61: 1 0 16 255 255}{0x33: 9 0 18 20 255}{0x60: 9 18 13 15 255}{0x61: 9 0 16 20 255}{0x41}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 96 95}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{hidetextbox: 0}{speed: 3}So,{wait: 6} about your {color: 1}alibi{color: 0}{speed: 8}{0x5a}...{wait: 18}{0x59}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 37 825 824}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 9472}{speed: 3}
+You have to ask?{p}{person: 37 828 827}{speed: 4}
+The shooting happened right in{b}
+the middle of the{bgcolor: 2305 8 31} third set!{nextpage_button}{person: 37 827 827}{name: 1024}{speed: 4}
+Um{0x5a}...{wait: 18}{0x59} that's right.{p}{speed: 3}{color: 2}
+(The music was blaring when{b}
+we heard those gunshots...){p}{speed: 8}
+(...{speed: 3}And found Mr. LeTouse,{wait: 8}{b}
+dead.){color: 0}{nextpage_button}{person: 37 818 817}{name: 9472}{speed: 3}
+I've got ten thousand{b}
+witnesses who saw me,{wait: 10} too.{nextpage_button}{person: 37 818 817}{speed: 4}
+Right there on that stage.{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Your guitar playing was{b}
+something else!{nextpage_button}{name: 9472}{person: 37 828 827}{speed: 3}
+Thanks,{wait: 6} little lady.{wait_noanim: 22}{b}{shake: 30 0}{0x59}{speed: 4}
+...See?{nextpage_button}{person: 37 821 820}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+This whole thing's a sham.{wait: 16}{b}
+I can't believe they aren't{b}
+letting me work!{nextpage_button}{person: 37 820 820}{name: 1024}{shake: 30 0}{speed: 4}
+There's no need to yell at{b}
+me{speed: 8}...{wait: 20}{b}{speed: 4}{color: 2}
+(It's Lamiroir's fault{speed: 8}...){p}{speed: 3}
+(She was the one who said{b}
+she heard his voice at the{b}
+moment of the crime{speed: 8}...){color: 0}{nextpage_button}{name: 9472}{person: 37 818 817}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Man,{wait: 12} I never even talked to{b}
+that old windbag!{p}{person: 37 821 820}{sound: 27 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+How could she possibly{b}
+identify me?{nextpage_button}{0x51: 1 53}
+{27393}{1776}{0x10: 33131}{0x35: 27648 @RelativeAddress0}{jmp: 135}{endjmp}{endjmp}{@RelativeAddress0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{hidetextbox: 0}{speed: 4}They won't let you work?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 37 821 820}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 9472}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+He won't let me work!{wait: 10} {speed: 4}Gavin!{wait: 4}{b}{speed: 3}
+Says I gotta lie low till{b}
+the suspicion is cleared.{nextpage_button}{person: 37 818 817}{shake: 30 0}{speed: 3}
+What suspicion!?{wait: 16} He can be{b}
+such a stick in the mud.{nextpage_button}{name: 1280}{person: 5 76 75}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Mr. Gavin?{wait: 18} A stick in the mud?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 37 816 815}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 9472}{shake: 30 0}{speed: 3}
+He may look all flashy and{b}
+showy,{wait: 8} but he's straight as{b}
+an arrow,{wait: 8} man.{nextpage_button}{person: 37 818 817}{speed: 4}{0x5a}
+...{wait: 12}{0x59}'Cept when he's depressed.{nextpage_button}{person: 37 818 817}{speed: 3}
+You hear him whining the{b}
+other day?{nextpage_button}{person: 37 817 817}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 4}
+Oh,{wait: 6} you mean the thing with{b}{showphoto: 126}
+the{wait: 6} {color: 1}mixing board{color: 0}{wait: 6}?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{sound: 49 1}{fademusic: 30}{bgcolor: 1025 1 31}{wait: 1}{0x5f: 3 1 31}{bg: 244}{person: 6 135 135}{bgcolor: 769 1 31}{wait: 7}{person: 6 136 135}{name: 13568}{hidetextbox: 0}{speed: 4}
+...{wait: 8}And then there was that{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+performance just now.{wait: 6}{b}{speed: 2}
+What was that{shake: 30 0} all about!?{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 244}{person: 6 135 135}{bgcolor: 769 1 31}{wait: 7}{name: 1024}{person: 6 135 135}{hidetextbox: 0}{speed: 4}
+This part is off.{nextpage_button}{name: 13568}{person: 6 136 135}{speed: 3}
+Which is that?{wait: 12} Hmm{speed: 5}...{wait: 10}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+2nd Guitar.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 37 823 822}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 9472}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Ah.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 6 136 135}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 13568}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+It was you Daryan!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 259}{person: 37 817 817}{0x5f: 4 1 1}{0x23: 0}{music: 255 30}{bgcolor: 769 1 31}{wait: 7}{person: 37 818 817}{name: 9472}{hidetextbox: 0}{speed: 3}
+He's just a perfectionist,{wait: 6}{b}
+is all.{wait: 16} Not a bad guy,{wait: 8} really.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+Well,{wait: 8} I think the Gavinners{b}{bgcolor: 2305 8 31}{shake: 30 0}
+are the best!{p}{speed: 3}
+I have all your albums.{person: 5 70 70}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 37 818 817}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 9472}{speed: 4}
+The band's fine, too.{wait: 16} {speed: 3}Gavin{b}
+can write a good tune,{wait: 8} I'll{b}
+give him that.{nextpage_button}{0x51: 1 53}
+{27649}{2396}{0x10: 33132}{0x35: 27392 @RelativeAddress1}{jmp: 135}{endjmp}{endjmp}{@RelativeAddress1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{name: 9472}{person: 37 816 815}{showphoto: 116}{speed: 4}"{color: 1}The Guitar's Serenade{color: 0}", eh?{wait_noanim: 16}{b}{person: 37 828 827}{speed: 3}
+Classic tearjerker,{wait: 8} that one.{p}{bganim: 98 579}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+You don't think he based it{b}
+on a real experience,{wait: 8} do you?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 9472}{person: 37 818 817}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Probably not.{wait: 16} He writes by{b}
+feeling,{wait: 6} more than memory.{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 1280}{person: 5 74 73}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Ooh!{wait: 16} You mean the songs just{b}
+kind of{speed: 4} "come to him"?{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{name: 9472}{person: 37 825 824}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{speed: 3}
+Yeah,{wait: 8} something like that.{wait: 12}{b}
+I guess you could call him{b}
+a genius.{p}{person: 37 818 817}{speed: 3}
+Of course he changes the song{b}
+and lyrics on a whim.{wait: 16} Drives{b}
+me up the wall.{p}{name: 1024}{person: 37 817 817}{speed: 3}
+He makes his court cases on{b}
+a whim sometimes, too.{p}{name: 9472}{person: 37 818 817}{speed: 3}
+He changed the lyrics to a{b}
+song just before a recording{b}
+the other day,{wait: 8} even.{p}{person: 37 821 820}{bgcolor: 2305 8 31}{speed: 4}
+Wants to put in this line{b}
+about a university student{b}
+obsessed with girls.{0x5a}{wait: 16}{0x59}{shake: 30 0} {speed: 3}Whatever!{p}{name: 1024}{person: 37 820 820}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}{color: 2}
+(Hmm?{wait: 10} Why does that sound{b}
+strangely familiar?){color: 0}{p}{name: 9472}{person: 37 825 824}{speed: 3}
+Of course it always turns out{b}
+good in the end.{wait: 16} That's his{b}
+talent,{wait: 8} I suppose.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{name: 9472}{person: 37 818 817}{speed: 3}Look,{wait: 6} if you want to talk{b}
+about the case,{wait: 8} talk to{b}
+someone else,{wait: 8} 'kay?{p}
+Don't want Gavin having{b}
+another one of his hissy fits.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{bg: 259}{person: 0 0 0}{0x26: 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}July 9{b}
+Sunshine Coliseum{color: 0}{nextpage_button}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 30}{personvanish: 3 2}{person: 9 233 232}{0x5a}{wait: 32}{sound: 51 1}{bgcolor: 2305 8 31}{name: 2304}{hidetextbox: 0}{0x59}{speed: 3}{0x5a}
+...{0x59}{wait: 10}Oh,{wait: 6} it's you.{wait: 16} You came at{b}
+a good time.{nextpage_button}{person: 9 232 232}{name: 1024}{speed: 4}
+Hello there,{wait: 10} Ema.{wait: 16} What's up?{nextpage_button}{name: 2304}{person: 9 239 238}{speed: 4}
+Either of you know where{b}
+Lamiroir is?{nextpage_button}{person: 9 238 238}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+Um...{wait: 18} well,{wait: 6} I saw her in the{b}
+backstage hallway a while ago.{nextpage_button}{person: 9 250 249}{name: 2304}{speed: 4}
+Yeah?{wait: 16} That's strange{0x5a}...{0x59}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+What's strange?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 9 239 238}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 2304}{bgcolor: 2305 8 31}{speed: 3}
+I can't find her anywhere.{wait: 12}{b}{speed: 4}
+I was supposed to bring her{b}
+to the prosecutor's office{speed: 8}...{nextpage_button}{person: 9 238 238}{name: 1024}{speed: 4}{color: 2}
+(Lamiroir's missing!?){color: 0}{nextpage_button}{person: 9 250 249}{name: 2304}{speed: 4}
+It's hard to imagine her{b}
+wandering off somewhere on{b}
+her own.{p}{speed: 8}{0x5a}
+...{wait: 16}{0x59}{speed: 3}Being that she's blind and{b}
+all.{nextpage_button}{person: 9 249 249}{name: 1024}{speed: 3}
+Yeah.{wait: 10} We'll help you look{b}
+for her.{nextpage_button}{person: 9 233 232}{name: 2304}{bgcolor: 2305 8 31}{speed: 3}
+Great!{wait: 10} Thanks.{nextpage_button}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{person: 0 0 0}{fademusic: 0}{music: 56 0}{0x10: 33130}{hidetextbox: 3}{special_jmp}{endjmp}

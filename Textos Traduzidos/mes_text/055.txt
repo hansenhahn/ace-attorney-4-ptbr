@@ -1,0 +1,503 @@
+
+
+{{0}}
+{bop}{0x62: 4 3}{0x25: 1}{0x26: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 34}{person: 25 573 573}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 37 11 2 93 1 1 3}{b}
+-- The Night of the Crime --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{name: 8448}{fademusic: 0}{music: 47 0}{speed: 4}{person: 25 574 573}{speed: 3}
+That night,{wait: 8} I visited the{b}
+hospital room at the time{b}
+Magnifi requested.{nextpage_button}{person: 25 576 575}
+The smell of gunpowder hung{b}
+in the room... and my mentor{b}
+had taken his final bow.{nextpage_button}{person: 25 583 582}
+I did not imagine my fellow{b}
+student might have received{b}
+the same instructions!{nextpage_button}{person: 25 576 575}
+Yet a deal with the dead is{b}
+still a deal.{wait: 16} Death's sweet{b}
+kiss... I gave to the clown.{nextpage_button}{person: 25 574 573}
+Then I informed the doctor{b}
+and the police.{nextpage_button}{testimony_animation: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{bg: 36}{person: 10 266 266}{bgcolor: 258 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}
+Hmm{speed: 6}...{wait: 20}{speed: 3}{b}{person: 10 263 262}
+So you were the one who{b}
+reported the crime?{nextpage_button}{bg: 34}{person: 25 583 582}{name: 8448}
+Indeed.{wait: 20}{b}
+I would think...{p}{person: 25 574 573}
+...this fact alone would{b}
+clear my name of suspicion!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 481}{wait: 32}{person: 21 482 481}{name: 1792}{hidetextbox: 0}
+Let's not jump to any{b}
+conclusions!{nextpage_button}{bg: 36}{person: 10 263 262}{name: 2560}
+Yes,{wait: 10} the cross-examination{b}
+generally comes before the{b}
+conclusions in this court.{p}{person: 10 259 258}
+But,{wait: 12} if your testimony{b}
+proves to be true...{p}{person: 10 263 262}
+...then the defendant,{wait: 10} Zak{b}
+Gramarye,{wait: 10} is guilty.{nextpage_button}{bg: 32}{person: 21 469 469}{name: 1792}{color: 2}
+(And if it wasn't Zak{b}
+Gramarye,{wait: 40}{speed: 3}{person: 21 467 467} then the killer{b}
+was you,{wait: 12} Valant!){nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 573}{wait: 32}{person: 25 573 573}{person: 25 573 573}{sound: 148 1}{wait: 10}{person: 25 591 573}{wait: 15}{person: 25 573 573}{wait: 4}{person: 25 598 573}{wait: 2}{person: 25 592 573}{wait: 6}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 2}{person: 25 596 573}{wait: 3}{person: 25 597 573}{wait: 2}{person: 25 598 573}{wait: 6}{person: 25 573 573}{wait: 6}{hidetextbox: 0}{speed: 4}
+(And no disappearing act{b}
+will get you out of that.){nextpage_button}{color: 0}{endjmp}
+
+{{1}}
+{bop}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 34}{person: 25 573 573}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 135}{center_text: 1}{speed: 2}{b}{color: 1}
+-- The Night of the Crime --{color: 0}{wait: 100}{nextpage_button}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 47 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 139 0}{lifebar: 37}{0x53}{bg: 34}{person: 25 574 573}{name: 8448}{hidetextbox: 0}{color: 3}That night, I visited the{b}
+hospital room at the time{b}
+Magnifi requested.{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 130}{lifebar: 38}{0x53}{bg: 34}{person: 25 576 575}{name: 8448}{hidetextbox: 0}{color: 3}The smell of gunpowder hung{b}
+in the room... and my mentor{b}
+had taken his final bow.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 141 0}{lifebarset: 0 131}{lifebar: 39}{0x51: 3 53}{21504}{fademusic: 84}{b}{0x88}{0x35: 21760 @RelativeAddress0}{lifebarset: 1 137}{@RelativeAddress0}{0x35: 22016 @RelativeAddress1}{lifebarset: 1 138}{@RelativeAddress1}{0x53}{bg: 34}{person: 25 583 582}{name: 8448}{hidetextbox: 0}{color: 3}
+I did not imagine my fellow{b}
+student might have received{b}
+the same instructions!{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 149 0}{lifebarset: 0 132}{lifebar: 38}{0x53}{bg: 34}{person: 25 576 575}{name: 8448}{hidetextbox: 0}{color: 3}Yet a deal with the dead is{b}
+still a deal. Death's sweet{b}
+kiss... I gave to the clown.{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{testimony_box: 142 0}{lifebarset: 0 133}{lifebar: 37}{0x51: 3 53}{21504}{fademusic: 84}{bop}{0x88}{0x35: 21760 @RelativeAddress2}{lifebarset: 0 137}{@RelativeAddress2}{0x35: 22016 @RelativeAddress3}{lifebarset: 0 138}{@RelativeAddress3}{0x53}{bg: 34}{person: 25 574 573}{name: 8448}{hidetextbox: 0}{color: 3}Then I informed the doctor{b}
+and the police.{color: 0}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 32}{person: 21 469 469}{name: 1792}{hidetextbox: 0}{color: 2}(Both of Magnifi's students{b}
+received the same letter.){p}
+(Both admit to having gone to{b}
+the hospital that night.){p}{person: 21 467 467}
+(Two bullets were fired...{wait: 20}{b}
+and one of them killed{b}
+Magnifi!){p}{person: 21 474 474}{speed: 4}
+(Time to find the cracks{b}
+in his testimony...){color: 0}{nextpage_button}{speed: 255}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 25 573 573}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{8}}
+{bop}{testimony_box: 143 0}{lifebarset: 0 132}{lifebarset: 1 134}{lifebar: 37}{0x53}{bg: 34}{person: 25 574 573}{name: 8448}{hidetextbox: 0}{color: 3}The pistol was already loaded.{b}
+I merely had to pull the{b}
+trigger.{color: 0}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{testimony_box: 145 0}{lifebarset: 0 132}{lifebarset: 1 134}{lifebar: 37}{0x53}{bg: 34}{person: 25 574 573}{name: 8448}{hidetextbox: 0}{color: 3}I took up the pistol from{b}
+the small table and shot{b}
+the clown.{color: 0}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{testimony_box: 147 0}{lifebarset: 0 132}{lifebarset: 1 134}{lifebar: 37}{0x53}{bg: 34}{person: 25 574 573}{name: 8448}{hidetextbox: 0}{color: 3}Only one pistol was in the{b}
+hospital room that night.{b}
+With it, I shot the clown.{color: 0}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{0x6d: 0}{bg: 32}{person: 21 480 479}{name: 1792}{hidetextbox: 0}{showphoto: 470}...{wait: 16}Which,{wait: 10} according to the{b}
+letter,{wait: 8} was 11:20 PM?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 25 573}{wait: 32}{name: 8448}{person: 25 574 573}{hidetextbox: 0}
+...Indeed.{p}{person: 25 576 575}
+In magic,{wait: 10} timing is{b}
+everything.{p}{bg: 32}{name: 1792}{person: 21 482 481}{speed: 8}
+...{wait: 16}{speed: 3}Right.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 582}{wait: 32}{name: 8448}{person: 25 583 582}{hidetextbox: 0}
+Consider,{wait: 16} the illusion of{b}
+teleportation.{p}
+If I were to appear on stage{b}
+before my stunt double has{b}
+left,{wait: 12} how would that look?{nextpage_button}{person: 25 576 575}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Why,{wait: 10}{bgcolor: 2305 8 31} it would reveal{bgcolor: 2305 8 31} the very{b}{bgcolor: 2305 8 31}
+secrets of my{bgcolor: 2305 8 31} magic!{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 23 512}{wait: 32}{name: 13568}{person: 23 513 512}{hidetextbox: 0}{speed: 3}
+Now that you've revealed the{b}
+very secrets of your magic{b}
+for all of us,{wait: 10} let's move on.{nextpage_button}{person: 23 510 509}
+You went at the designated{b}
+time...{wait: 16} and what did you see?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 25 573 573}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 32}{person: 21 470 469}{name: 1792}{hidetextbox: 0}So{speed: 8}{0x5a}...{wait: 20}{0x59}{speed: 3} you weren't worried{b}
+for your own safety at all?{p}{person: 21 468 467}
+I mean, you smelled gunpowder,{wait: 8}{b}
+yes?{wait: 16} What if the shooter was{b}
+still nearby?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 580}{wait: 32}{person: 25 580 580}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 100}{person: 25 583 582}{name: 8448}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}
+I...{wait: 20} I did not consider{b}
+this,{wait: 8} to be honest.{nextpage_button}{person: 25 574 573}{speed: 4}
+It is forbidden for a magician{b}
+to have a good imagination.{nextpage_button}{bg: 32}{person: 21 482 481}{name: 1792}{speed: 4}
+...Uh, really?{wait_noanim: 20}{b}{speed: 3}{color: 2}
+(Isn't magic all about{b}
+illusions and imagination?){color: 0}{nextpage_button}{person: 21 470 469}
+How about this: you were the{b}
+shooter,{wait: 12} which is why you{b}
+weren't afraid.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 580}{wait: 32}{person: 25 580 580}{sound: 52 1}{bgcolor: 2305 8 31}{wait: 100}{person: 25 583 582}{name: 8448}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}
+N-Now you are the one{b}
+imagining!{nextpage_button}{person: 25 574 573}{speed: 4}
+It is forbidden for a lawyer{b}
+to have a good imagination.{nextpage_button}{bg: 36}{name: 2560}{person: 10 263 262}{speed: 3}
+The witness will refrain from{b}
+pausing so suspiciously before{b}
+responding.{nextpage_button}{person: 10 266 266}
+...{wait: 20}{person: 10 263 262}My forbidden imagination{b}
+is starting to imagine things.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 25 582 582}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{13}}
+{bop}{0x6d: 0}{bg: 32}{person: 21 480 479}{name: 1792}{showphoto: 470}{hidetextbox: 0}{speed: 3}Which brings us back to this{wait: 6}{b}
+"reason"{wait: 6} neither of you could{b}
+refuse.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 25 573}{wait: 32}{name: 8448}{person: 25 574 573}{hidetextbox: 0}
+So it does.{wait: 16} And my partner,{wait: 8}{b}
+he did not refuse.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 469}{wait: 32}{name: 1792}{person: 21 470 469}{hidetextbox: 0}
+But Magnifi wrote the same{b}
+thing to you.{nextpage_button}{person: 21 475 474}
+Why could you{wait: 10} "refuse" if{b}
+Zak couldn't?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 575}{wait: 32}{name: 8448}{person: 25 576 575}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Because I have a will of{b}
+steel!{wait_noanim: 30}{b}{0x59}
+Of course...{nextpage_button}{person: 25 574 573}
+...I also do this trick where{b}
+I bend steel bars.{wait: 20} So perhaps{b}
+steel isn't all so strong.{nextpage_button}{bg: 32}{person: 21 481 481}{name: 1792}{speed: 4}{color: 2}
+(...So which is it!?){nextpage_button}{color: 0}{hidetextbox: 1}{swoosh: 0 4096 25 573}{wait: 32}{name: 8448}{person: 25 574 573}{hidetextbox: 0}{speed: 4}
+...{wait: 16}Mind if I continue?{speed: 3}{person: 25 573 573}{sound: 148 1}{wait: 10}{person: 25 591 573}{wait: 15}{person: 25 573 573}{wait: 4}{person: 25 598 573}{wait: 2}{person: 25 592 573}{wait: 6}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 2}{person: 25 596 573}{wait: 3}{person: 25 597 573}{wait: 2}{person: 25 598 573}{wait: 6}{person: 25 573 573}{wait: 6}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{0x51: 3 53}
+{21504}{1336}{person: 25 573 573}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 136}{endjmp}{endjmp}{0x35: 21760 @RelativeAddress4}{person: 25 573 573}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}{endjmp}{@RelativeAddress4}{0x35: 22016 @RelativeAddress5}{person: 25 573 573}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 138}{endjmp}{endjmp}{@RelativeAddress5}{person: 25 573 573}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{14}}
+{bop}{0x6d: 0}{bg: 32}{person: 21 468 467}{name: 1792}{hidetextbox: 0}So you informed the police...{wait: 12}{b}
+What did you do then?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 573}{wait: 32}{name: 8448}{person: 25 574 573}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...What do you suppose I did?{p}{person: 25 576 575}{speed: 4}
+Used my magic to levitate my{b}
+mentor's corpse,{wait: 12} perhaps?{nextpage_button}{bg: 32}{name: 1792}{person: 21 482 481}
+I don't know,{wait: 8} that's why I'm{b}
+asking.{wait: 16} Now please answer the{b}
+question and skip the sarcasm.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 573}{wait: 32}{name: 8448}{person: 25 574 573}{hidetextbox: 0}
+After I made my report,{wait: 12} I{b}
+called the doctor,{wait: 8} and{b}
+we returned to the room.{p}{person: 25 576 575}
+While we waited for the police{b}
+to arrive,{wait: 12} we discussed...{wait: 20}{b}
+stomach medicine.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 23 514}{wait: 32}{name: 13568}{person: 23 515 514}{hidetextbox: 0}
+We've confirmed this with the{b}
+doctor.{wait: 16} It all checks out.{p}{person: 23 513 512}
+He praised Mr. Valant's{b}
+knowledge of stomach medicine,{wait: 8}{b}
+in fact.{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 25 573}{wait: 32}{name: 8448}{person: 25 573 573}{sound: 148 1}{wait: 10}{person: 25 591 573}{wait: 15}{person: 25 573 573}{wait: 4}{person: 25 598 573}{wait: 2}{person: 25 592 573}{wait: 6}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 2}{person: 25 596 573}{wait: 3}{person: 25 597 573}{wait: 2}{person: 25 598 573}{wait: 6}{person: 25 573 573}{wait: 6}{person: 25 574 573}{hidetextbox: 0}{speed: 5}
+...Ah, it is an honor I do{b}
+not deserve.{wait: 16} But,{wait: 10} I accept.{nextpage_button}{speed: 255}{jmp: 135}{endjmp}
+
+{{15}}
+{bop}{0x6d: 0}{bg: 32}{person: 21 470 469}{name: 1792}{hidetextbox: 0}If the pistol was already{b}
+loaded,{wait: 8} something doesn't{b}
+make sense.{p}{person: 21 480 479}{showphoto: 473}
+Why weren't the victim's{b}
+fingerprints on it?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 25 582}{wait: 32}{name: 8448}{person: 25 583 582}{hidetextbox: 0}
+You should know that we of{b}
+the Troupe Gramarye are{b}
+capable of many things.{nextpage_button}{person: 25 574 573}
+One of these being the{b}
+levitation of iron balls...{wait: 12}{b}
+without touching them.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 23 509}{wait: 32}{name: 13568}{person: 23 510 509}{hidetextbox: 0}{speed: 4}
+There's no magic involved{b}
+here.{wait: 15} The shooter was just{b}
+methodical,{wait: 8} is all.{p}
+He simply wiped everything{b}
+of fingerprints.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 474}{wait: 32}{name: 1792}{person: 21 474 474}{hidetextbox: 0}{color: 2}
+(Can't really do much with{b}
+fingerprints that weren't{b}
+there.){nextpage_button}{person: 21 469 469}
+(Maybe I should ask about{b}
+something else?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 94}{0x5f: 82 1 1}{3args_choice_jmp: 153 155 144}{endjmp}
+
+{{16}}
+{bop}{bg: 32}{person: 21 467 467}{name: 1792}{hidetextbox: 0}{color: 2}(...On second thought,{wait: 8} let's{b}
+run with this testimony for{b}
+a while longer.){p}{color: 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 25 573 573}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{17}}
+{bop}{0x6d: 0}{bg: 32}{person: 21 468 467}{name: 1792}{hidetextbox: 0}Why did you do that?{wait: 16} I would{b}
+think calling the police{b}
+would come first.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 582}{wait: 32}{name: 8448}{person: 25 583 582}{hidetextbox: 0}
+Then you know nothing of the{b}
+relationship between a master{b}
+and his disciple!{nextpage_button}{person: 25 576 575}
+If your master says die,{wait: 12} you{wait_noanim: 30}{b}{person: 25 574 573}
+die.{wait: 16} Do you understand?{nextpage_button}{bg: 32}{person: 21 470 469}{name: 1792}{hidetextbox: 0}
+So,{wait: 8} you're going to die?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 573}{wait: 32}{name: 8448}{person: 25 573 573}{sound: 148 1}{wait: 10}{person: 25 591 573}{wait: 15}{person: 25 573 573}{wait: 4}{person: 25 598 573}{wait: 2}{person: 25 592 573}{wait: 6}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 2}{person: 25 596 573}{wait: 3}{person: 25 597 573}{wait: 2}{person: 25 598 573}{wait: 6}{person: 25 573 573}{wait: 6}{wait: 30}{person: 25 574 573}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Certainly not!{wait_noanim: 30}{b}{person: 25 579 579}{bgcolor: 2305 8 31}{shake: 30 0}
+...{speed: 3}It was but an example!{wait: 20}{person: 25 573 573}{nextpage_button}{person: 25 583 582}
+In any case,{wait: 30} I wanted to{b}
+fulfill my obligation.{p}{speed: 4}
+A final courtesy to a great{b}
+mentor,{wait: 16} perhaps.{nextpage_button}{person: 25 576 575}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Or,{wait: 10} perhaps{bgcolor: 2305 8 31} not!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 474}{wait: 32}{name: 1792}{person: 21 474 474}{hidetextbox: 0}{speed: 4}{color: 2}
+(...Perhaps I'm totally{b}
+confused.){nextpage_button}{person: 21 469 469}{speed: 3}
+(Maybe I should ask about{b}
+something else?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 93}{0x5f: 82 1 1}{3args_choice_jmp: 150 155 146}{endjmp}
+
+{{18}}
+{bop}{bg: 32}{person: 21 467 467}{name: 1792}{hidetextbox: 0}{color: 2}(...{wait: 16}On second thought,{wait: 10} let's{b}
+run with this testimony for{b}
+a while longer.){p}{color: 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 25 573 573}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{19}}
+{bop}{0x6d: 0}{bg: 32}{person: 21 468 467}{name: 1792}{hidetextbox: 0}So you took the only pistol{b}
+there,{wait: 8} and fired it?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 573}{wait: 32}{name: 8448}{person: 25 574 573}{hidetextbox: 0}{speed: 4}
+...That's correct.{nextpage_button}{bg: 32}{name: 1792}{person: 21 480 479}
+And {showphoto: 473}that pistol was this one,{wait: 12}{b}
+which was left at the crime{b}
+scene?{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 25 575}{wait: 32}{name: 8448}{person: 25 576 575}{hidetextbox: 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Good show!{wait: 12} I see you,{wait: 10} too,{b}
+are a magician of sorts.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 481}{wait: 32}{name: 1792}{person: 21 481 481}{hidetextbox: 0}{speed: 4}{color: 2}
+(And you're an idiot of{b}
+sorts...){nextpage_button}{person: 21 474 474}{speed: 3}
+(Do you have any idea what{b}
+you just said...?){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 23 509}{wait: 32}{bg: 33}{name: 13568}{person: 23 510 509}{hidetextbox: 0}
+I see the fire in your eyes{b}
+as you glare at the witness.{nextpage_button}{person: 23 515 514}{speed: 4}
+So how about heating up this{b}
+trial a bit?{wait: 16} These slow{b}
+ballads bore me.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 474}{wait: 32}{name: 1792}{person: 21 474 474}{hidetextbox: 0}{speed: 4}{color: 2}
+(Hmm{speed: 8}...{wait: 20} {speed: 3}I've got a hunch,{wait: 6}{b}
+but maybe that's all it is.){nextpage_button}{person: 21 469 469}{speed: 3}
+(Maybe I should ask about{b}
+something else?){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 93}{0x5e}{0x52}{b}{b}{3args_choice_jmp: 150 153 148}{endjmp}
+
+{{20}}
+{bop}{bg: 32}{person: 21 467 467}{name: 1792}{color: 2}(...{wait: 16}On second thought,{wait: 8} let's{b}
+run with this testimony for{b}
+a while longer.){p}{color: 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 25 573 573}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{21}}
+{bop}{0x6d: 0}{bg: 32}{person: 21 470 469}{name: 1792}{hidetextbox: 0}There were two bullet holes{b}
+at the scene:{wait: 16} {speed: 3}one in the{b}
+victim,{wait: 8} and one in the clown.{nextpage_button}{person: 21 468 467}
+You're saying the one who{b}
+shot the clown...{wait: 17} was you?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 573}{wait: 32}{person: 25 574 573}{name: 8448}{hidetextbox: 0}
+No doubt my partner Zak{b}
+has said much the same thing.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 474}{wait: 32}{name: 1792}{person: 21 474 474}{hidetextbox: 0}{speed: 4}{color: 2}
+(Yeah,{wait: 8} because whoever didn't{b}
+shoot the clown committed{b}
+murder.){nextpage_button}{person: 21 469 469}{speed: 3}
+(I'd better dig around here{b}
+a bit more...{wait: 12} and see what I{b}
+turn up.){color: 0}{nextpage_button}{person: 21 468 467}
+Mr. Valant...{wait: 19} Let me ask about{b}
+something else concerning the{b}
+crime scene,{wait: 19} namely...{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 93}{0x5e}{0x5f: 1 1 9}69B{endjmp}
+
+{{22}}
+{bop}{bg: 32}{person: 21 470 469}{name: 1792}{hidetextbox: 0}In order to shoot a pistol,{wait: 8}{b}
+you need a bullet.{wait_noanim: 30}{person: 21 475 474} Where was{b}
+the bullet?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 582}{wait: 32}{name: 8448}{person: 25 583 582}{hidetextbox: 0}{speed: 4}
+...I entered the room,{wait: 12} and{b}{showphoto: 217}
+took the pistol in my hand.{p}{speed: 3}
+The bullet was already loaded,{wait: 12}{b}
+ready to fire at any time.{nextpage_button}{person: 25 574 573}
+A magician is always prepared,{wait: 12}{b}
+you see.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 1 21 469}{wait: 32}{name: 1792}{person: 21 470 469}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Prepared for...?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 573}{wait: 32}{name: 8448}{person: 25 574 573}{hidetextbox: 0}{speed: 3}
+One never knows when a miracle{b}
+will be called for.{nextpage_button}{person: 25 576 575}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+A magician always has seven{b}
+doves in his pocket,{wait: 12} and a{b}
+white rabbit up each sleeve!{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 23 509}{wait: 32}{name: 13568}{person: 23 510 509}{hidetextbox: 0}{speed: 3}
+Clearly,{wait: 6} we're dealing with{b}
+professionals here.{nextpage_button}{bg: 36}{name: 2560}{person: 10 266 266}{speed: 6}
+Hmm...{nextpage_button}{person: 10 263 262}{speed: 3}
+Is this bullet that was loaded{b}
+in the pistol really so{b}
+important?{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 96}{0x4d: 65535 1}{2args_choice_jmp: 151 152}{endjmp}
+
+{{23}}
+{bop}{bg: 32}{person: 21 468 467}{name: 1792}Without a loaded bullet,{wait: 6} we{b}
+wouldn't have a murder.{wait: 16} It's{b}
+very important,{wait: 8} Your Honor.{p}{bg: 36}{name: 2560}{person: 10 260 260}{0x63}{person: 10 263 262}{speed: 5}
+...{speed: 3}Very well.{p}
+Please add this detail to{b}
+your testimony!{nextpage_button}{bg: 34}{name: 8448}{person: 25 574 573}{speed: 5}
+...What can I do,{wait: 8} but obey?{person: 25 573 573}{sound: 148 1}{wait: 10}{person: 25 591 573}{wait: 15}{person: 25 573 573}{wait: 4}{person: 25 598 573}{wait: 2}{person: 25 592 573}{wait: 6}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 2}{person: 25 596 573}{wait: 3}{person: 25 597 573}{wait: 2}{person: 25 598 573}{wait: 6}{person: 25 573 573}{wait: 6}{nextpage_button}{0x10: 33620}{0x10: 853}{0x10: 854}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 25 573 573}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 136}{endjmp}
+
+{{24}}
+{bop}{bg: 32}{name: 1792}{hidetextbox: 1}{person: 21 472 467}{0x63}{person: 21 468 467}{hidetextbox: 0}{speed: 3}...Actually,{wait: 8} let me ask{b}
+about something else.{nextpage_button}{bg: 36}{name: 2560}{person: 10 260 260}
+Very well.{wait: 50}{person: 10 263 262} The witness may{b}
+continue with the testimony.{nextpage_button}{bg: 34}{name: 8448}{person: 25 574 573}{speed: 5}
+...What can I do,{wait: 8} but obey?{speed: 255}{person: 25 573 573}{sound: 148 1}{wait: 10}{person: 25 591 573}{wait: 15}{person: 25 573 573}{wait: 4}{person: 25 598 573}{wait: 2}{person: 25 592 573}{wait: 6}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 2}{person: 25 596 573}{wait: 3}{person: 25 597 573}{wait: 2}{person: 25 598 573}{wait: 6}{person: 25 573 573}{wait: 6}{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 25 573 573}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 134}{endjmp}
+
+{{25}}
+{bop}{bg: 32}{name: 1792}{hidetextbox: 0}{person: 21 470 469}Where exactly was the pistol{b}
+when you entered the room?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 582}{wait: 32}{name: 8448}{person: 25 583 582}{hidetextbox: 0}
+...{wait: 16}Atop a small bedside{b}
+table,{wait: 12} it was.{nextpage_button}{person: 25 574 573}
+As if to say,{wait: 8} "Here I am,{wait: 12}{b}
+take me into your hand,{wait: 8} pull{b}
+my trigger.{wait: 16} Shoot him."{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 23 509}{wait: 32}{name: 13568}{person: 23 510 509}{hidetextbox: 0}
+The victim clearly wanted to{b}
+be shot.{nextpage_button}{bg: 36}{name: 2560}{person: 10 265 264}
+But...{wait: 16} why?{nextpage_button}{bg: 33}{name: 13568}{person: 23 515 514}
+Perhaps he wanted to go out...{wait: 20}{b}
+with a bang?{p}{speed: 4}
+...{wait_noanim: 20}{person: 23 510 509}{speed: 3}Yet we will never hear the{b}
+truth from his lips,{wait: 8} so all{b}
+we can do...{wait: 16} is guess.{nextpage_button}{bg: 36}{person: 10 266 266}{name: 2560}{speed: 6}
+Hmm...{nextpage_button}{person: 10 263 262}{speed: 3}
+Is the location of the pistol{b}
+all that important?{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 96}{0x4d: 65535 1}{2args_choice_jmp: 154 152}{endjmp}
+
+{{26}}
+{bop}{bg: 32}{person: 21 468 467}{name: 1792}Without a murder weapon,{wait: 6} there{b}
+would be no murder!{wait: 20} It's very{b}
+important,{wait: 8} Your Honor.{p}{bg: 36}{name: 2560}{person: 10 260 260}{0x63}{person: 10 263 262}{speed: 5}
+...{speed: 3}Very well.{p}
+Please add this detail to{b}
+your testimony!{nextpage_button}{bg: 34}{name: 8448}{person: 25 574 573}
+...What can I do,{wait: 12} but obey?{speed: 5}{person: 25 573 573}{sound: 148 1}{wait: 10}{person: 25 591 573}{wait: 15}{person: 25 573 573}{wait: 4}{person: 25 598 573}{wait: 2}{person: 25 592 573}{wait: 6}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 2}{person: 25 596 573}{wait: 3}{person: 25 597 573}{wait: 2}{person: 25 598 573}{wait: 6}{person: 25 573 573}{wait: 6}{nextpage_button}{0x10: 852}{0x10: 33621}{0x10: 854}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 25 573 573}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 137}{endjmp}
+
+{{27}}
+{bop}{bg: 32}{person: 21 470 469}{name: 1792}{speed: 3}How many pistols were there{b}{person: 21 468 467}
+when you entered the room?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 575}{wait: 32}{person: 25 576 575}{name: 8448}{hidetextbox: 0}
+...By which you mean what,{wait: 12}{b}
+precisely?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 479}{wait: 32}{name: 1792}{person: 21 480 479}{hidetextbox: 0}{speed: 4}
+Two pistols were used in the{wait: 12}{b}
+"Zak & Valant Quick-Draw{b}
+Shootem",{wait: 12} correct?{p}{person: 21 475 474}
+One for each of you.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 582}{wait: 32}{name: 8448}{person: 25 583 582}{hidetextbox: 0}
+You are well informed,{wait: 8} yet...{nextpage_button}{person: 25 574 573}
+...only one of my{wait: 10} "old{b}
+friends"{wait: 6} sat in the hospital{b}
+room that night.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 467}{wait: 32}{person: 21 467 467}{name: 1792}{hidetextbox: 0}{speed: 4}{color: 2}
+(What did Zak tell me back{b}
+in the lobby...{wait: 8}?){p}{color: 0}{hidetextbox: 1}{sound: 49 1}{fademusic: 30}{bgcolor: 1025 1 31}{wait: 1}{bg: 257}{person: 31 709 708}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 7936}{hidetextbox: 0}{0x59}
+Of course,{wait: 15} I had no intention{b}
+of shooting my mentor.{p}
+I snuck into his room that{b}
+night at the appointed time.{p}{speed: 4}
+And found there upon his{b}{person: 31 707 706}
+bedside table two pistols.{nextpage_button}{person: 31 705 704}{speed: 3}
+I took the pistol I had fired{b}
+and placed it in my pocket.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 36}{person: 10 266 266}{0x5f: 4 1 1}{0x23: 0}{music: 255 120}{bgcolor: 770 1 31}{wait: 15}{name: 2560}{hidetextbox: 0}{speed: 6}
+Hmm...{wait: 20}{speed: 3} I see no problem with{b}{person: 10 259 258}
+that statement.{nextpage_button}{person: 0 0 0}{bg: 152}
+Only one pistol is visible{b}
+in the photograph of the{b}
+crime scene,{wait: 14} after all.{nextpage_button}{bg: 32}{person: 21 474 474}{name: 1792}{speed: 8}
+......{nextpage_button}{person: 21 468 467}{speed: 3}
+So you picked up that pistol{b}
+and fired it?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 582}{wait: 32}{bg: 34}{person: 25 583 582}{name: 8448}{hidetextbox: 0}{speed: 5}
+Indeed I did.{wait: 20} Allakazam...{wait_noanim: 30}{b}{person: 25 574 573}{speed: 3}
+Allakazing...{wait: 20} Allakaboom.{nextpage_button}{bg: 36}{name: 2560}{person: 10 266 266}{speed: 6}
+Hmm...{nextpage_button}{person: 10 263 262}{speed: 3}
+Is the number of pistols{b}
+really so important?{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 96}{0x4d: 65535 1}{2args_choice_jmp: 156 152}{endjmp}
+
+{{28}}
+{bop}{bg: 32}{person: 21 468 467}{name: 1792}The number of pistols is{b}
+quite important,{wait: 6} Your Honor.{p}{bg: 36}{name: 2560}{person: 10 260 260}{0x63}{person: 10 263 262}{speed: 5}
+...{speed: 3}Very well.{p}
+Please add this detail to{b}
+your testimony!{nextpage_button}{bg: 34}{name: 8448}{person: 25 574 573}{speed: 5}
+...What can I do,{wait: 8} but obey?{person: 25 573 573}{sound: 148 1}{wait: 10}{person: 25 591 573}{wait: 15}{person: 25 573 573}{wait: 4}{person: 25 598 573}{wait: 2}{person: 25 592 573}{wait: 6}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 2}{person: 25 596 573}{wait: 3}{person: 25 597 573}{wait: 2}{person: 25 598 573}{wait: 6}{person: 25 573 573}{wait: 6}{nextpage_button}{0x10: 852}{0x10: 853}{0x10: 33622}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 34}{person: 25 573 573}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 138}{endjmp}
+
+{{29}}
+{bop}{0x29: 0}{0x6d: 0}{bg: 32}{person: 21 480 479}{name: 1792}According to the defendant,{wait: 8}{b}
+Zak Gramarye,{wait: 8} when he entered{b}
+the room{0x5a}{speed: 8}...{nextpage_button}{person: 21 468 467}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+...{speed: 4}there were {color: 1}two{color: 0} pistols{b}
+on that table.{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{speed: 5}
+Two...?{nextpage_button}{bg: 32}{person: 21 480 479}{name: 1792}{speed: 3}
+One of those pistols he{b}
+used to shoot the clown{b}
+in the forehead.{p}
+Then he left with it in{b}
+his pocket.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 23 514}{wait: 32}{person: 23 515 514}{name: 13568}{hidetextbox: 0}{speed: 4}
+Of course,{wait: 12} this is what he{b}
+would say.{nextpage_button}{person: 23 513 512}{speed: 3}
+Unlike the hapless clown,{wait: 12}{b}{speed: 3}
+we must assume our defendant{b}
+has some brains in his head.{nextpage_button}{bg: 32}{name: 1792}{person: 21 468 467}
+...Well,{wait: 10} what about what{b}
+Mr. Valant has told us?{p}{person: 21 480 479}
+You see,{wait: 12} there's something{b}
+about his testimony that{b}
+doesn't make sense.{nextpage_button}{bg: 34}{person: 25 576 575}{name: 8448}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+...What might that be?{nextpage_button}{person: 25 574 573}{speed: 3}
+I told you,{wait: 12} I took the pistol{b}
+that was there,{wait: 12} and shot the{b}
+clown...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 467}{wait: 32}{person: 21 472 467}{0x63}{person: 21 468 467}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}
+That's your story,{wait: 8} at least.{b}{fademusic: 0}{music: 18 0}{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 580}{wait: 32}{bg: 34}{person: 25 580 580}{name: 8448}{bgcolor: 2305 8 31}{shake: 30 0}{hidetextbox: 0}{speed: 5}
+...?{nextpage_button}{bg: 32}{person: 21 489 488}{name: 1792}{speed: 4}
+But the {color: 1}rifling marks{color: 0} tell{b}
+a very different story,{wait_noanim: 30}{b}{person: 21 468 467}{speed: 3}
+Mr. Valant.{nextpage_button}{person: 21 478 477}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Recall what Prosecutor{b}
+Gavin told us!{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 33}{person: 23 515 514}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 13568}{hidetextbox: 0}{0x59}{speed: 3}
+We compared the bullet taken{b}
+from the victim's skull {showphoto: 217}with{b}
+a bullet fired from this gun.{nextpage_button}{person: 23 510 509}
+The rifling marks on the{b}
+bullets were a perfect match.{nextpage_button}{bganim: 98 579}{bg: 34}{person: 25 580 580}{name: 8448}{0x5f: 4 1 1}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Ah...{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 467}{wait: 32}{fademusic: 45}{hidetextbox: 1}{person: 21 473 474}{wait: 70}{hidetextbox: 0}{name: 1792}{person: 21 475 474}{bgcolor: 2305 8 31}{speed: 2}
+Mr. Valant,{wait: 10} {speed: 3}if you fired{b}{showphoto: 473}
+this pistol{speed: 8}{0x5a}...{nextpage_button}{bganim: 98 579}{0x26: 1}{bgtile: 1}{bg: 23}{person: 61 1025 1024}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...{wait: 10}then{bgcolor: 2305 8 31} YOU shot{bgcolor: 2305 8 31} the victim{b}
+in the{bgcolor: 2305 8 31} forehead!{fademusic: 0}{music: 54 0}{nextpage_button}{hideperson}{0x26: 0}{hidetextbox: 1}{bg: 31}{person: 0 0 0}{animation: 69 1}{animation: 70 1}{animation: 71 1}{animation: 73 1}{animation: 68 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 36}{person: 10 263 262}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 2}
+Order!{wait: 12} Order!{wait: 12} Order!!!{nextpage_button}{person: 10 265 264}{speed: 3}
+Well,{wait: 12}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1} this is all rather{b}
+sudden{speed: 8}{0x5a}...{nextpage_button}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 33}{name: 13568}{hidetextbox: 0}{person: 23 511 511}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}
+Heh{wait: 10} heh{wait: 10} heh{wait: 10} heh{speed: 8}...{wait: 10}{b}{person: 23 515 514}{speed: 4}
+What have I done?{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}
+P-{wait: 16}{speed: 5}Prosecutor Gavin?{nextpage_button}{bg: 33}{name: 13568}{person: 23 515 514}{speed: 3}
+I owe the court an apology.{nextpage_button}{person: 23 513 512}
+...Sorry.{nextpage_button}{bg: 32}{person: 21 475 474}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+S-{wait: 16}Sorry for what!?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 23 509}{wait: 32}{person: 23 510 509}{name: 13568}{showphoto: 217}{hidetextbox: 0}{speed: 3}
+You see, I was unaware that{b}{color: 1}
+two{color: 0} of these unique pistols{b}
+were crafted.{p}{person: 23 513 512}
+The analysis of the rifling{b}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+marks only proved the {color: 1}type{b}
+of gun{color: 0} that fired them.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 37 1}{wait: 60}{hidetextbox: 1}{swoosh: 1 4096 21 474}{wait: 32}{person: 21 475 474}{name: 1792}{hidetextbox: 0}{speed: 3}
+But...{wait: 12} But that's not what{b}
+you told us before!{nextpage_button}{person: 21 478 477}{showphoto: 473}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+You said{bgcolor: 2305 8 31} you'd {bgcolor: 2305 8 31}{color: 1}verified{b}
+the{bgcolor: 2305 8 31} murder weapon{color: 0}!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 1 23 512}{wait: 32}{bg: 33}{person: 23 513 512}{name: 13568}{hidetextbox: 0}
+Which is why I'm apologizing{b}
+to you now.{wait: 12} Quite sincerely,{wait: 8}{b}
+I might add.{nextpage_button}{person: 23 515 514}{speed: 5}{0x5a}
+...{wait: 40}{person: 23 510 509}{speed: 3}Would you hold me {b}
+accountable for a mistake{b}
+made in my youth?{nextpage_button}{bg: 32}{hidetextbox: 1}{person: 21 473 474}{wait: 70}{hidetextbox: 0}{person: 21 475 474}{bgcolor: 2305 8 31}{name: 1792}{speed: 3}
+That was just this morning!{nextpage_button}{shake: 30 0}{hidetextbox: 1}{swoosh: 1 1 23 514}{wait: 32}{person: 23 515 514}{name: 13568}{hidetextbox: 0}{speed: 5}
+...I am still young.{p}{speed: 4}
+And,{wait: 8} I might add,{wait: 8} it wasn't{b}
+really my fault.{p}{person: 23 510 509}{speed: 3}
+If the defendant had only {b}
+admitted he took one pistol{b}
+from the scene of the crime...{p}{person: 23 513 512}
+...we would not be having{b}
+this pleasant discussion now.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 474}{wait: 32}{person: 21 474 474}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+...!{nextpage_button}{bg: 36}{name: 2560}{person: 10 266 266}{hidetextbox: 0}{speed: 7}
+Hmm.{wait: 50}{b}{person: 10 263 262}{speed: 3}
+Valant Gramarye?{nextpage_button}{bg: 34}{person: 25 574 573}{name: 8448}{speed: 4}
+...Yes,{wait: 8} Your Honor?{nextpage_button}{bg: 36}{person: 10 266 266}{name: 2560}{speed: 4}
+You were presented to this{b}
+court as a "decisive witness".{nextpage_button}{person: 10 263 262}{speed: 3}
+But you've proven to be more{b}
+"divisive" than "decisive".{nextpage_button}{hidetextbox: 1}{bg: 31}{person: 0 0 0}{animation: 69 1}{animation: 70 1}{animation: 71 1}{animation: 73 1}{animation: 68 1}{sound: 22 1}{wait: 120}{fademusic: 30}{hidetextbox: 1}{bgcolor: 769 8 31}{animation: 12 1}{sound: 40 1}{wait: 60}{bg: 33}{hidetextbox: 1}{person: 23 524 524}{0x63}{person: 23 525 525}{sound: 25 1}{wait: 70}{hidetextbox: 0}{person: 23 527 526}{name: 13568}{speed: 5}
+...You'll see,{wait: 10} in time.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 474}{wait: 32}{person: 21 474 474}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+...!{nextpage_button}{bg: 33}{person: 23 527 526}{name: 13568}{speed: 4}
+The testimony so far has{b}
+merely been a review of{b}
+the{wait: 6} "facts".{p}{person: 23 510 509}{speed: 3}
+The proof...{wait: 12} comes next.{nextpage_button}{bg: 36}{person: 10 263 262}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Care to elaborate,{wait: 10} Prosecutor{b}
+Gavin?{nextpage_button}{bg: 33}{person: 23 510 509}{name: 13568}{speed: 4}
+When Mr. Valant entered the{b}
+hospital room,{wait: 6} the victim had{b}
+already been shot.{nextpage_button}{person: 23 519 518}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+As his next{bgcolor: 2305 8 31} testimony will{b}
+prove!{bgcolor: 2305 8 31}{wait: 16} Herr Wright,{wait: 10} the real{b}
+fight{bgcolor: 2305 8 31} is about to begin.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 21 474}{wait: 32}{person: 21 474 474}{name: 1792}{hidetextbox: 0}{speed: 5}{color: 2}
+(...Bring it.){nextpage_button}{color: 0}{bg: 36}{name: 2560}{person: 10 260 260}{speed: 5}
+Very well.{wait: 35}{person: 10 259 258}{speed: 3} The witness will{b}
+now testify to the court.{p}{person: 10 263 262}
+Help us determine who shot{b}
+what!{nextpage_button}{hidetextbox: 1}{testimony_animation: 1}{special_jmp}{endjmp}

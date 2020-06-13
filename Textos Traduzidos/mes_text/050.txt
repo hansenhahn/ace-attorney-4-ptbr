@@ -1,0 +1,392 @@
+
+
+{{0}}
+{bop}{0x62: 4 2}{0x51: 3 38}{b}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 20 449 449}{bg: 27}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x4f: 25 11 2 93 1 1 3}{b}
+-- What Brushel Noticed --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{name: 5120}{person: 20 450 449}{speed: 2}
+When I arrived at the studio,{wait: 12}{b}
+Mr. Misham was at his desk.{p}{person: 20 457 456}{speed: 4}
+He seemed to be writing a{b}
+letter...{wait: 16}{speed: 3} but he quickly{b}
+sealed the envelope.{p}{person: 20 450 449}{speed: 2}
+I thought nothing of it{b}
+at the time,{wait: 10} of course.{p}{person: 20 460 459}{speed: 3}
+Now that I think about it,{wait: 8}{b}{bgcolor: 2305 8 31}{shake: 30 0}
+what if he was writing a{b}
+suicide note!?{nextpage_button}{fademusic: 60}{testimony_animation: 0}{hidetextbox: 1}{bgcolor: 516 1 31}{wait: 25}{bg: 29}{name: 2560}{person: 10 266 266}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{speed: 5}
+Hmm...{0x63}{person: 10 259 258} A suicide note?{p}{bg: 27}{name: 5120}{person: 20 450 449}{speed: 2}
+Yes...{wait: 12} he had this look on{b}
+his face.{p}{speed: 3}
+"Man's Face Inscrutable As{b}
+A Quadratic Equation",{0x5a}{wait: 15}{speed: 3}{person: 20 450 449}{shake: 30 0}{wait: 10} end{b}
+quote.{p}{bg: 28}{name: 1280}{person: 5 105 104}{speed: 4}
+Suicide?{wait: 10} {speed: 3}Poor Mr. Misham...{nextpage_button}{person: 5 99 98}
+But that means Vera's{b}
+innocent!{nextpage_button}{name: 1024}
+Would someone commit suicide{b}
+in the middle of an interview?{p}{bg: 28}{name: 1280}{person: 5 104 104}{shake: 30 0}{bgcolor: 2305 8 31}
+Oh.{p}{bg: 29}{name: 2560}{person: 10 259 258}{speed: 3}
+Very well,{wait: 12} you may begin your{b}
+cross-examination.{nextpage_button}{endjmp}
+
+{{1}}
+{bop}{0x6b: 0 1 0}{bganim: 98 513}{0x6b: 1 0 0}{bganim: 98 513}{0x26: 1}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bg: 27}{person: 20 449 449}{name: 0}{bgcolor: 257 1 31}{wait: 7}{hidetextbox: 0}{wait: 20}{0x29: 1}{0x6f: 134}{center_text: 1}{speed: 2}{b}{color: 1}
+-- What Brushel Noticed --{color: 0}{wait: 100}{p}{center_text: 0}{speed: 255}{0x6c: 0}{wait: 30}{0x26: 0}{fademusic: 0}{music: 2 0}{endjmp}
+
+{{2}}
+{bop}{testimony_box: 136 0}{lifebar: 25}{0x53}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{color: 3}When I arrived at the studio,{wait: 8}{b}
+Mr. Misham was at his desk.{color: 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{testimony_box: 137 0}{lifebarset: 0 130}{lifebar: 28}{0x51: 3 53}{17152}{testimony_animation: 15}{0x8d}{bop}{lifebarset: 1 135}{0x53}{name: 5120}{person: 20 457 456}{hidetextbox: 0}{color: 3}He seemed to be writing a{b}
+letter... but he quickly{b}
+sealed the envelope.{color: 0}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{testimony_box: 142 0}{lifebarset: 0 131}{lifebar: 25}{0x51: 3 53}{17152}{fademusic: 84}{bop}{0x87}{0x53}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{color: 3}I thought nothing of it{b}
+at the time, of course.{color: 0}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{testimony_box: 143 0}{lifebarset: 0 132}{lifebar: 29}{0x53}{name: 5120}{person: 20 460 459}{hidetextbox: 0}{color: 3}Now that I think about it,{wait: 8}{b}
+what if he was writing a{b}
+suicide note!?{color: 0}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{0x74: 1 0}{0x6d: 0}{bg: 28}{name: 1280}{person: 5 99 98}Do you think Mr. Misham was{b}
+writing a suicide note?{nextpage_button}{name: 1024}
+If he was, that would solve{b}
+the case in a jiffy.{nextpage_button}{name: 1280}{person: 5 105 104}
+It kind of makes me wonder{b}
+about that letter...{nextpage_button}{color: 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 130}{endjmp}
+
+{{7}}
+{bop}{testimony_box: 140 0}{lifebarset: 0 131}{lifebarset: 1 132}{lifebar: 25}{0x53}{person: 20 450 449}{name: 5120}{hidetextbox: 0}{color: 3}It was a yellow envelope.{b}
+...I heard it was left at{b}
+the crime scene.{color: 0}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}Was there anyone at the studio{b}
+other than Mr. Misham?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+Well,{wait: 12} his daughter Vera,{wait: 12}{b}
+of course.{p}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 3}
+Was anyone besides Mr. Misham{b}
+and Vera present?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 451}{wait: 32}{hidetextbox: 0}{name: 5120}{person: 20 452 451}{speed: 2}
+Not a single one.{wait: 20} Not a cat,{wait: 10}{b}
+not a rat, not even a mouse.{p}{bg: 25}{name: 1024}{person: 4 41 40}{hidetextbox: 0}{speed: 4}
+The only person who didn't{b}
+belong to that studio there...{nextpage_button}{person: 4 37 36}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...was you,{wait: 10} wasn't it,{wait: 10}{b}
+Mr. Brushel?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 459}{wait: 32}{hidetextbox: 0}{name: 5120}{person: 20 460 459}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}{shake: 30 2}
+Ah.{wait: 8} Ah!{wait: 15}{bgcolor: 2305 8 31} I know what you're{b}
+doing!{bgcolor: 2305 8 31}{shake: 30 2}{wait: 15} I know your game!{p}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+"Attorney Uses Classic{b}
+Ramsden Phenomenon Ploy",{0x5a}{wait: 15}{b}{person: 20 450 449}{shake: 30 0}{wait: 10}
+end quote.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 6 150}{wait: 32}{name: 13568}{person: 6 151 150}{hidetextbox: 0}{speed: 4}
+If you intend to suggest that{b}
+this reporter is a suspect...{p}{person: 6 146 145}{speed: 3}
+...{wait: 16}I'm sure you also intend to{b}
+present evidence supporting{b}
+that assertion, correct?{p}{person: 6 149 148}
+In the meantime, let's move{b}
+along,{wait: 12} shall we?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 131}{endjmp}
+
+{{9}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 41 40}{speed: 3}So he put the letter away{b}
+when he saw you?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 457 456}{hidetextbox: 0}
+"Early Reporter Gets Worm",{0x5a}{wait: 15}{speed: 2}{b}{person: 20 450 449}{shake: 30 0}{wait: 10}
+end quote.{nextpage_button}{person: 20 452 451}
+...{wait: 20}That's my secret!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{speed: 4}
+I'm not sure I follow.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 451}{wait: 32}{name: 5120}{person: 20 452 451}{hidetextbox: 0}{speed: 2}
+It's the night of the{b}
+interview.{wait: 12} I arrive 15{b}
+minutes ahead of schedule!{p}{person: 20 450 449}{bgcolor: 2305 8 31}{shake: 30 0}
+The handle turns,{wait: 10} the door{b}
+opens,{wait: 10} and I barge in!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{speed: 4}
+Are you sure that's OK{b}
+to do?{wait: 14} I mean,{wait: 12} isn't that{b}
+unlawful entry,{wait: 12} really?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+Mr. Misham sure seemed to{b}
+think so!{wait: 16} You shoulda seen{b}
+him!{p}
+He crammed his letter into{b}
+that yellow envelope as fast{b}
+as he could.{p}{person: 20 453 453}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+I know a secret when I spot{b}
+one,{wait: 20}{person: 20 452 451} and that was one!{p}{bg: 29}{name: 2560}{person: 10 266 266}{speed: 5}
+It does seem significant.{person: 10 259 258}{p}{person: 10 263 262}
+Well,{wait: 16} Mr. Justice?{p}{bg: 25}{name: 1024}{person: 4 42 42}{speed: 4}{color: 2}
+(I wonder...){p}{person: 4 40 40}{speed: 3}
+(It does have the ring of{b}
+something important...){color: 0}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 81}{0x52}{65535}{b}{2args_choice_jmp: 138 139}{endjmp}
+
+{{10}}
+{bop}{0x10: 33603}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 3}The defense finds this{b}
+testimony vital,{wait: 8} Your Honor!{p}{bg: 29}{name: 2560}{person: 10 259 258}
+Very well,{wait: 8} please add it to{b}
+the testimony then.{p}{bg: 27}{name: 5120}{person: 20 450 449}{speed: 2}
+Hey,{wait: 8} why not?{wait: 16} My "account"{b}
+comes free of charge!{nextpage_button}{speed: 255}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 135}{endjmp}
+
+{{11}}
+{bop}{bg: 25}{name: 1024}{person: 4 40 40}{color: 2}(I can't see what,{wait: 8} though.{wait: 16}{b}
+Nothing seemed unusual.){color: 0}{p}{person: 4 37 36}
+...{wait: 15}It won't be necessary to{b}
+add this to the testimony,{wait: 8}{b}
+Your Honor.{p}{bg: 29}{name: 2560}{person: 10 263 262}
+Very well,{wait: 8} please continue{b}
+with your testimony!{p}{bg: 27}{name: 5120}{person: 20 450 449}{speed: 2}
+You got it!{nextpage_button}{speed: 255}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{12}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 59 58}{speed: 4}And you saw him seal this{b}
+yellow envelope with the{b}
+letter?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 459}{wait: 32}{name: 5120}{person: 20 460 459}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hey,{wait: 12} don't look at me like{b}
+that!{wait: 15} I saw what I saw.{bgcolor: 2305 8 31}{shake: 30 0}{nextpage_button}{bg: 28}{name: 1280}{person: 5 103 102}{bgcolor: 2305 8 31}{speed: 2}
+Apollo!{wait: 15} {speed: 3}You think this might{b}
+be...{nextpage_button}{name: 1024}{speed: 4}
+...{wait: 16}Our big break. {speed: 3}Yeah.{p}{bg: 25}{person: 4 58 58}{color: 2}
+(What I need is to show some{b}
+decisive evidence now...){nextpage_button}{color: 0}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 132}{endjmp}
+
+{{13}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 41 40}{speed: 3}So he put the letter away{b}
+when he saw you?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 457 456}{hidetextbox: 0}{speed: 5}
+"Early Reporter Gets Worm",{0x5a}{wait: 15}{speed: 2}{b}{person: 20 450 449}{shake: 30 0}{wait: 10}
+end quote.{nextpage_button}{person: 20 450 449}{bgcolor: 2305 8 31}{shake: 30 0}
+The handle turns,{wait: 10} the door{b}
+opens,{wait: 8} and I barge in!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{speed: 4}
+Are you sure that's OK{b}
+to do?{wait: 14} I mean,{wait: 10} isn't that{b}
+unlawful entry, really?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+Mr. Misham sure seemed to{b}
+think so!{wait: 16} You shoulda seen{b}
+him!{p}
+He crammed his letter into{b}
+that yellow envelope as fast{b}
+as he could.{p}{person: 20 453 453}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+I know a secret when I spot{wait: 20}{b}{person: 20 452 451}
+one,{wait: 10} and that was one!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 59 58}{hidetextbox: 0}
+Maybe you could tell us a bit{b}
+more about this envelope?{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 449 449}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 135}{endjmp}
+
+{{14}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}You didn't think anything{b}
+might be wrong at the time?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 459}{wait: 32}{name: 5120}{person: 20 460 459}{hidetextbox: 0}{speed: 2}
+Hey,{wait: 8} when I go in for an{b}
+interview,{wait: 10} that's what I'm{b}
+there to do.{p}{person: 20 457 456}{speed: 5}
+"Interviewer Finds Looking{b}
+More Effective Than Caring",{0x5a}{wait: 15}{speed: 2}{b}{person: 20 450 449}{shake: 30 0}{wait: 10}
+end quote.{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 3}
+So what about now?{p}
+Thinking back on it,{wait: 12} did you{b}
+sense anything strange in{b}
+Mr. Misham's behavior?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 451}{wait: 32}{name: 5120}{person: 20 452 451}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Well,{wait: 12} yeah,{0x5a}{wait: 20}{person: 20 450 449}{wait: 10} that's why I'm{b}
+telling you all this to begin{b}
+with!{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{speed: 3}
+Very well,{wait: 10} continue with your{b}
+testimony.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{0x6c: 0}{bg: 27}{name: 5120}{person: 20 456 456}{bgcolor: 257 1 31}{wait: 15}{0x29: 2}{jmp: 133}{endjmp}
+
+{{15}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}A{wait: 6} "suicide note"{speed: 8}...?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 459}{wait: 32}{name: 5120}{person: 20 460 459}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Well,{wait: 8} yeah,{wait: 8} don't quote me{b}
+or anything.{p}{person: 20 461 461}{bgcolor: 2305 8 31}{shake: 30 0}
+I'm just saying it's a{b}
+possibility,{wait: 8} you know?{p}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 3}
+So you didn't actually check{b}
+the letter.{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 450 449}{hidetextbox: 0}{speed: 2}
+Of course not!{wait: 12} It was sealed!{p}
+"Contents Of Can Unknown{b}
+Until Can Is Opened",{0x5a}{wait: 15}{speed: 2}{b}{person: 20 450 449}{shake: 30 0}{wait: 10}
+end quote.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{speed: 4}
+...You can always check{b}
+the label.{nextpage_button}{speed: 255}{jmp: 134}{endjmp}
+
+{{16}}
+{bop}{0x29: 0}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}As it just so happens,{wait: 12} there{b}
+was a single letter in a desk{b}
+drawer at the scene.{nextpage_button}{showphoto: 458}{person: 4 64 65}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{fademusic: 0}{music: 5 0}
+In{bgcolor: 2305 8 31} a red {bgcolor: 2305 8 31}envelope!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 20 449}{wait: 32}{name: 5120}{person: 20 462 462}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Whaa{bgcolor: 2305 8 31}aaaa{bgcolor: 2305 8 31}aaaa{bgcolor: 2305 8 31}aaaa{bgcolor: 2305 8 31}aat!?{wait: 20}{0x63}{nextpage_nobutton}{hidetextbox: 1}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{hidetextbox: 0}{bg: 25}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{name: 1024}{speed: 2}
+...Prosecutor Gavin!{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 146 145}{speed: 5}
+...Yes?{nextpage_button}{bg: 25}{name: 1024}{person: 4 48 47}{speed: 3}
+Was a{wait: 6} {color: 1}yellow{color: 0}{wait: 6} envelope found{b}
+at the scene of the crime?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 150}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 5}
+...Unfortunately no.{0x5a}{wait: 30}{b}{person: 6 146 145}{speed: 3}
+But,{wait: 10} Herr Forehead...{p}{person: 6 149 148}
+...{wait: 14}it's easy to mistake the{b}
+color of an envelope.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{name: 1024}{person: 4 38 38}{0x63}{person: 4 37 36}{hidetextbox: 0}
+I guess.{wait_noanim: 25}{showphoto: 458}{person: 4 48 47}{speed: 3} But not this{b}
+envelope.{p}{person: 4 41 40}{speed: 4}
+You see,{wait: 12} it was postmarked{b}
+already.{wait: 16} Seven years ago.{nextpage_button}{bganim: 98 579}{bg: 29}{name: 2560}{person: 10 263 262}
+Well,{wait: 8} Mr. Brushel?{p}{bg: 27}{name: 5120}{person: 20 457 456}{speed: 4}
+...I can explain that.{p}{speed: 3}
+Drew,{wait: 12} right,{wait: 10} he wanted to{b}
+get that letter in an{b}
+envelope,{wait: 10} pronto!{p}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Get it out of sight of my{b}
+beady eyes,{wait: 8} right?{p}{person: 20 450 449}
+So he grabbed the nearest{b}
+envelope and crammed away!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 3}{color: 2}
+(And what about the whole{b}{color: 1}
+red{color: 2} and {color: 1}yellow{color: 2} envelope{b}
+contradiction, chump!?){color: 0}{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}
+Well,{wait: 12} Mr. Justice?{wait: 18} Have{b}
+you anything to say to the{b}
+witness's claim?{nextpage_button}{endjmp}
+
+{{17}}
+{bop}{bg: 25}{name: 1024}{person: 4 41 40}"That night,{wait: 8} the victim put a{b}
+letter he had been writing{b}
+in a red envelope"{speed: 8}...{speed: 255}{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 83}{lifebarset: 65535 1}{2args_choice_jmp: 146 147}{endjmp}
+
+{{18}}
+{bop}{bg: 25}{name: 1024}{person: 4 48 47}It's entirely possible!{p}{bg: 28}{name: 1280}{person: 5 103 102}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+But Apollo!{p}{person: 5 105 104}{speed: 3}
+We checked the contents of{b}
+that envelope yesterday,{wait: 8}{b}
+didn't we?{p}{name: 1024}{person: 5 104 104}{bgcolor: 2305 8 31}{speed: 5}
+Oh...{wait: 30}{b}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+You're right!{nextpage_button}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 4}{color: 2}
+(Gah!{wait: 14} The answer was clear if{b}
+I'd only given it a little{b}
+thought...){color: 0}{rejmp: 150}{endjmp}
+
+{{19}}
+{bop}{bg: 25}{name: 1024}{person: 4 48 47}{sound: 52 1}{bgcolor: 2305 8 31}That's impossible.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 149 148}{speed: 5}
+Ah,{wait: 12} {speed: 3}I like your expression.{0x5a}{wait: 25}{b}{0x59}
+So full of confidence.{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 37 36}{sound: 52 1}{bgcolor: 2305 8 31}
+It's simple, really.{rejmp: 150}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 146 145}"He wouldn't do it... because{b}
+I wouldn't have done it!"{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 37 36}
+...I wouldn't say that.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 149 148}
+Ah,{wait: 30} there's that lack of{b}
+confidence we've all come to{b}
+know and love.{nextpage_button}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{endjmp}
+
+{{20}}
+{bop}{0x6c: 0}{0x6e: 20}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}Then perhaps you could show{b}
+us some evidence?{p}
+Evidence that Mr. Misham{b}
+didn't put a letter inside{b}
+that envelope!{wait: 1}{0x6b: 0 0 0}{bganim: 98 357}{evidence_window_lifebar}{bop}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{0x6d: 0}{bg: 25}{name: 1024}{person: 4 37 36}{hidetextbox: 0}This evidence proves it beyond{b}
+a doubt,{wait: 10} Your Honor!{p}
+No way did Mr. Misham put{b}
+that letter in that envelope!{nextpage_button}{bg: 29}{name: 2560}{person: 10 259 258}
+.....{p}{bg: 26}{name: 13568}{person: 6 148 148}
+.....{p}{person: 6 149 148}
+Ah, is youth not a truly{b}
+wonderful thing?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 36}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 37 36}
+Huh...?{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 148}{wait: 32}{hidetextbox: 0}{bg: 26}{name: 13568}{person: 6 149 148}
+For what is youth,{wait: 10} if not{b}
+forgiveness for the most{b}
+egregious of mistakes?{nextpage_button}{hidetextbox: 1}{swoosh: 1 4096 4 61}{wait: 32}{hidetextbox: 0}{bg: 25}{name: 1024}{person: 4 62 61}{animation: 149 1}{bgcolor: 2305 8 31}{shake: 30 0}
+Unnk...{p}{bg: 29}{name: 2560}{person: 10 260 260}{0x63}{person: 10 259 258}
+He sounded so confident...{wait: 20}{b}
+I almost believed!{p}{person: 10 263 262}{0x6c: 0}{0x6e: 20}{bgcolor: 2305 8 31}{shake: 30 0}
+Mr. Justice!{wait: 10} That'll be enough{b}
+of that baseless evidence!{p}
+None of that in this court!{b}
+None means none!{0x5a}{0x6b: 1 0 0}{0x2b}{removephoto}{nextpage_button}{0x6d: 0}{0x52}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{color: 2}
+(Is it just me,{wait: 8} or is he{b}
+meaner with the cameras{b}
+rolling?){color: 0}{rejmp: 148}{endjmp}
+
+{{22}}
+{bop}{0x6d: 0}{name: 1024}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{person: 4 59 58}{hidetextbox: 0}...{wait: 16}As it just so happens,{wait: 10} the{b}{showphoto: 458}
+defense team investigated the{b}
+contents of this envelope!{p}{person: 4 43 42}{wait: 8}{shake: 30 0}{speed: 4}
+With,{wait: 8} erm,{wait: 10}{person: 4 41 40} the assistance of{b}
+a forensic scientist.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{name: 13568}{person: 6 146 145}{hidetextbox: 0}{bgcolor: 2305 8 31}{speed: 5}
+What...?{p}{bg: 25}{name: 1024}{person: 4 45 44}{showphoto: 458}
+Note that this letter is{b}
+addressed to {wait: 30}{person: 4 37 36}{sound: 52 1}{bgcolor: 2305 8 31}"{color: 1}Drew Misham{color: 0}".{nextpage_button}{bganim: 98 579}{bg: 27}{name: 5120}{person: 20 459 459}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}
+Oh?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 36}{wait: 32}{name: 1024}{person: 4 37 36}{hidetextbox: 0}{speed: 3}
+Why would he address a{b}
+letter to himself?{p}{fademusic: 30}{hidetextbox: 1}{person: 4 57 58}{wait: 70}{hidetextbox: 0}{0x26: 1}{bgtile: 0}{bg: 23}{person: 60 1023 1022}{name: 1024}{hidetextbox: 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Let alone{bgcolor: 2305 8 31} send a suicide{bgcolor: 2305 8 31} note{b}
+to{bgcolor: 2305 8 31} himself!{nextpage_button}{hideperson}{0x26: 0}{bg: 27}{name: 5120}{person: 20 456 456}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 40}{b}{person: 20 462 462}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+I... {bgcolor: 2305 8 31}I've been{bgcolor: 2305 8 31} scooped{bgcolor: 2305 8 31}!{wait: 20}{0x63}{nextpage_nobutton}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 67 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 4 1}{0x6b: 0 0 0}{bganim: 98 275}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Order!{wait: 12} Order!{wait: 16}{shake: 30 0}{bgcolor: 2305 8 31} Order!!!{nextpage_button}{person: 10 263 262}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Mr. Brushel!{wait: 16} {speed: 4}Can you explain{b}
+this to the court?{wait: 4}{nextpage_button}{bg: 27}{name: 5120}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}{shake: 30 0}
+Oh,{wait: 8} my,{wait: 10} my,{wait: 10} my.{wait: 20} How could{b}
+I have forgotten?{p}{person: 20 457 456}
+I suppose this happens to{b}
+the best of us!{wait: 16} "Reporter Gets{b}
+Old,{wait: 10} Forgets Lots",{0x5a}{wait: 15}{speed: 2}{person: 20 450 449}{shake: 30 0}{wait: 10} end quote.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+I'm still waiting for an{b}
+explanation,{wait: 8} Mr. Brushel!{b}{nextpage_button}{bg: 27}{name: 5120}{person: 20 457 456}{fademusic: 0}{music: 38 0}
+Well,{wait: 8} that's the thing,{wait: 12} see.{wait: 16}{b}
+After he put his letter in{b}
+that envelope...{p}{person: 20 450 449}{sound: 52 1}{bgcolor: 2305 8 31}
+...Mr. Misham sat there{b}
+searching his desk drawer for{b}
+something!{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{name: 1024}{person: 4 59 58}{hidetextbox: 0}{speed: 5}
+His desk drawer...?{nextpage_button}{bg: 27}{name: 5120}{person: 20 452 451}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yes! A stamp!{wait: 12} A so-called{b}{person: 20 457 456}{speed: 5}
+"Postage Stamp",{0x5a}{wait: 15}{speed: 2}{person: 20 450 449}{shake: 30 0}{wait: 10} end quote!{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 6}
+A stamp?{wait: 20} Whatever for?{nextpage_button}{bg: 27}{name: 5120}{person: 20 450 449}{speed: 2}
+Well,{wait: 10} to mail his letter,{wait: 12}{b}
+what else?{p}{person: 20 457 456}{0x5a}{showphoto: 197}{0x59}
+And then,{wait: 12} why yes,{wait: 12} I think I{b}
+saw him put it in his letter{b}
+box.{nextpage_button}{person: 20 452 451}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 2}
+Yes,{wait: 10} {speed: 3}it was a yellow envelope,{wait: 12}{wait_noanim: 30}{b}{person: 20 450 449}
+and he put it in that box!{p}{bganim: 98 579}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{speed: 3}
+Well,{wait: 10} {speed: 4}apparently,{wait: 12} this{b}
+yellow letter has nothing{b}
+to do with this case.{nextpage_nobutton}{bg: 27}{name: 5120}{person: 20 457 456}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 2}
+Oh,{wait: 8} how I wish it did!{p}{person: 20 452 451}
+Just think if that were a{b}
+suicide note... What a story!{p}{person: 20 461 461}{speed: 5}
+"Star Writes Suicide Note{b}
+In Front Of Reporter, Falls",{0x5a}{wait: 15}{speed: 2}{b}{person: 20 450 449}{shake: 30 0}{wait: 10}
+end quote.{nextpage_button}{bg: 29}{name: 2560}{person: 10 263 262}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Ahem.{wait: 12} As I was saying,{wait: 12} that{b}
+has nothing to do with this{b}{bgcolor: 2305 8 31}{shake: 30 0}{fademusic: 0}{music: 38 0}
+case!{p}{person: 10 259 258}{speed: 4}
+That said.{nextpage_button}{bg: 25}{name: 1024}{person: 4 37 36}{speed: 3}
+Yes,{wait: 8} Your Honor?{nextpage_button}{bg: 29}{name: 2560}{person: 10 265 264}{showphoto: 202}
+It makes me wonder about the{b}
+contents of that red envelope.{nextpage_button}{hidetextbox: 1}{wait: 30}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{person: 0 0 0}{bg: 65}{bgcolor: 260 1 31}{wait: 25}{wait: 150}{bgcolor: 516 1 31}{wait: 25}{bganim: 98 579}{person: 0 0 0}{bg: 66}{bgcolor: 260 1 31}{wait: 25}{wait: 150}{bg: 29}{name: 2560}{person: 10 265 264}{sound: 52 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 3}
+$100,000 is quite a good{b}
+deal of money!{nextpage_button}{bg: 26}{name: 13568}{person: 6 151 150}{speed: 6}
+So this was from seven years{b}
+ago, ja...?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 20 456}{wait: 32}{person: 20 453 453}{fademusic: 120}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{wait: 50}{shake: 30 0}{wait: 30}{name: 5120}{person: 20 449 449}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{hidetextbox: 0}{speed: 2}
+...{bgcolor: 2305 8 31}!{nextpage_button}{person: 20 452 451}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+So,{wait: 12} am I fini{person: 20 453 453}shed?{wait: 16} Here,{wait: 10}{b}
+I mean.{wait: 16} Am I finished here?{b}{wait: 25}{person: 20 451 451}{nextpage_button}{person: 20 457 456}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+I was thinking of,{wait: 10} you know,{b}{person: 20 453 453}
+going home,{wait: 12} to start{b}
+writing{speed: 8}...{nextpage_button}{speed: 255}{hidetextbox: 1}{bgcolor: 1026 1 31}{wait: 15}{bg: 29}{person: 10 264 264}{bgcolor: 770 1 31}{wait: 15}{wait: 45}{bgcolor: 1025 1 31}{wait: 1}{bg: 26}{person: 6 150 150}{bgcolor: 770 1 31}{wait: 15}{wait: 45}{bgcolor: 1025 1 31}{wait: 1}{bg: 28}{person: 5 100 100}{bgcolor: 770 1 31}{wait: 15}{wait: 45}{bgcolor: 1025 1 31}{wait: 1}{bg: 27}{person: 20 453 453}{bgcolor: 770 1 31}{wait: 15}{wait: 80}{hidetextbox: 1}{swoosh: 0 1 4 61}{wait: 32}{person: 4 61 61}{animation: 149 1}{wait: 40}{name: 1024}{person: 4 62 61}{animation: 149 1}{hidetextbox: 0}{speed: 4}
+...{wait: 20}{speed: 3}Um,{wait: 8} I hate to state what{b}
+should be pretty obvious to{b}
+anyone...{p}{person: 4 41 40}
+...{wait: 12}but when you catch the{b}
+scent of a story...{p}
+...you make that...{wait_noanim: 30}{bg: 27}{person: 20 453 453}{sound: 52 1}{bgcolor: 2305 8 31} er,{wait: 10} rather{b}
+unique face.{p}{name: 5120}{person: 20 460 459}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+Ack! C-{wait: 16}C'mon!{fademusic: 0}{music: 38 0}{p}{person: 20 457 456}{speed: 5}
+"Attorney Has Active{b}
+Imagination,{wait: 10} Little Else",{0x5a}{wait: 15}{speed: 2}{b}{person: 20 450 449}{shake: 30 0}{wait: 10}
+end quote.{nextpage_button}{hidetextbox: 1}{bg: 29}{name: 2560}{person: 10 261 261}{0x63}{person: 10 263 262}{hidetextbox: 0}{speed: 4}
+Even I noticed something,{wait: 10} and{b}
+my eyes aren't what they used{b}
+to be.{nextpage_button}{person: 10 259 258}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+You know,{wait_noanim: 30} {person: 10 263 262}I'm starting to{b}
+understand {fademusic: 30}{person: 10 265 264}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}what all this{b}
+"perceiving" stuff is about!{nextpage_button}{bg: 25}{name: 1024}{person: 4 61 61}{animation: 149 1}{speed: 5}{color: 2}
+("Judge Has Active{b}
+Imagination"{speed: 8}... {wait: 25}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}end quote.){nextpage_button}{color: 0}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{name: 2560}{person: 10 259 258}{hidetextbox: 0}{speed: 3}
+Please,{wait: 8} continue with your{b}
+testimony.{p}
+Tell us about {color: 1}the scent{b}
+of a story{color: 0}!{nextpage_button}{bg: 27}{name: 5120}{person: 20 464 463}{animation: 149 1}{0x5a}{shake: 30 0}{speed: 6}
+Hey...{wait: 30}{0x59}{speed: 5} I'm the one asking{b}
+the questions here.{wait: 15} Usually.{nextpage_button}{hidetextbox: 1}{testimony_animation: 1}{special_jmp}{endjmp}

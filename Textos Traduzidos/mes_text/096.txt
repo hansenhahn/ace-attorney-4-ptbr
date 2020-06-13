@@ -1,0 +1,409 @@
+
+
+{{0}}
+{bop}{person: 0 0 0}{0x26: 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}July 9{b}
+Backstage Hallway{color: 0}{nextpage_button}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 30}{personvanish: 3 2}{person: 34 748 746}{0x5a}{wait: 32}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 0}{music: 44 0}{wait: 30}{name: 8704}{hidetextbox: 0}{0x59}{speed: 3}
+Ah,{wait: 30} Mr. Attorney.{nextpage_button}{person: 34 746 746}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Lamiroir!{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 4}
+I'm sorry about today{speed: 5}...{wait: 12}{b}
+I...{wait: 20}{nextpage_button}{person: 34 748 746}{name: 8704}{speed: 4}
+There is nothing you need to{b}
+apologize for.{p}{person: 34 753 751}
+You were merely defending{b}
+Machi.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+Um...{wait: 8} Are you OK?{wait: 16}{b}{speed: 5}
+Alone,{wait: 8} I mean.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 753 751}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 4}
+Humans are blessed with {color: 1}five{b}
+senses{color: 0}.{nextpage_button}{person: 34 748 746}
+Even robbed of one,{wait: 8} we get{b}
+by.{p}
+...Though it does make being{b}
+a witness rather difficult.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 4}
+Speaking of "seeing", you knew{b}
+who we were before we spotted{b}
+you just now.{nextpage_button}{person: 5 68 67}
+And we weren't even talking.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 748 746}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 4}
+...{wait: 8}I heard your footsteps{b}
+several times the day before.{nextpage_button}{person: 5 81 81}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+Oh...{nextpage_button}{person: 5 72 69}{bgcolor: 2305 8 31}{speed: 2}
+You must have great ears!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 746 746}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{speed: 4}{color: 2}
+(Ears that{wait: 6} {color: 1}heard{color: 2}{wait: 6} the crime{b}
+taking place...){p}{speed: 3}
+(Or so she claimed yesterday.{wait: 12}{b}
+...But how?){color: 0}{nextpage_button}{0x10: 33150}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{person: 34 748 746}{0x38: 1}{name: 8704}{hidetextbox: 0}{fademusic: 120}{bgcolor: 2305 8 31}{speed: 5}Ah,{wait: 12} {speed: 3}I am reminded that I{b}
+wished to speak to you about{b}
+something.{nextpage_button}{name: 1024}{speed: 3}
+Yes?{nextpage_button}{person: 34 757 755}{name: 8704}{speed: 4}
+When I was walking this{b}
+hallway before...{p}
+I stumbled upon a small{b}
+device of some kind.{wait: 16}{b}
+It was lying on the floor.{nextpage_button}{person: 34 751 751}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Device...?{wait: 20} {speed: 3}Maybe you mean{b}{showphoto: 117}
+this?{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+That's been lying there since{b}
+the day before yesterday!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 748 746}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{wait: 8}
+Might I...{wait: 12} touch it?{nextpage_button}{showphoto: 373}{speed: 8}
+......{wait: 40}{b}{person: 34 748 746}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+I thought as much.{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+What?{wait: 16} {speed: 3}What did you think?{nextpage_button}{person: 34 757 755}{name: 8704}{speed: 4}
+This is one of our headsets.{nextpage_button}{person: 34 748 746}
+Everyone on staff wears one{b}
+during a concert.{nextpage_button}{person: 34 746 746}{name: 1024}{speed: 5}
+I wonder whose this is?{nextpage_button}{person: 34 757 755}{name: 8704}{speed: 4}
+We use it for communication.{wait: 16}{b}
+It would be quite inconvenient{b}
+should it go missing.{nextpage_button}{removephoto}{person: 34 746 746}{name: 1024}{speed: 3}
+We'll hold on to it for you{b}
+then.{p}
+We'll give it to Prosecutor{b}
+Gavin when we see him.{nextpage_button}{person: 34 753 751}{name: 8704}{speed: 4}
+Yes,{wait: 8} {person: 34 748 746}that's best.{wait: 16} Thank you.{b}{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+So,{wait: 8} can I put it on?{nextpage_button}{bg: 274}{newevidence: 16501}{name: 0}{color: 2}{speed: 4}
+Headset attached to Trucy.{nextpage_button}{speed: 255}{color: 0}{person: 5 91 90}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+"Attached"?{wait: 16} I'm not some kind{b}
+of robot,{wait: 8} Apollo!{nextpage_button}{person: 5 90 90}{name: 1024}{color: 2}
+(Everyone on staff was wearing{b}
+one of these headsets...){p}
+(This might warrant some{b}
+further inquiry.){b}{fademusic: 0}{music: 44 100}{nextpage_button}{color: 0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 746 746}{0x10: 33165}{0x10: 33156}{0x32: 20 274}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{person: 5 68 67}{name: 1280}That's been lying there since{b}
+the day before yesterday.{nextpage_button}{name: 1024}
+It's small.{wait: 16} Maybe no one's{b}
+noticed it.{nextpage_button}{person: 5 76 75}{name: 1280}
+I kinda want to pick it up.{wait: 16}{b}
+It'd make a cool souvenir,{b}
+don't you think?{p}{person: 5 73 73}{name: 1024}{color: 2}
+(It does stick out in my mind{b}
+for some reason...){color: 0}{nextpage_button}{jmp: 138}{endjmp}
+
+{{3}}
+{bop}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{name: 1024}That's the Gavinners's{b}
+dressing room.{p}
+They're all out on the{b}
+investigation.{p}
+Being backstage isn't half as{b}
+glamorous without a band here.{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{person: 0 0 0}{name: 1024}That would be the Blue Badger,{wait: 8}{b}
+the police mascot.{p}
+There's a guy outside in a{b}
+giant Blue Badger costume,{b}
+lumbering about...{p}
+He stands out even more than{b}
+those Gavinners posters.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+It's all the same!{wait: 16} {speed: 3}He's the{b}
+band mascot, too,{wait: 8} you know.{nextpage_button}{name: 1024}
+I can't picture Prosecutor{b}
+Gavin going for that kind of{b}
+thing.{nextpage_button}{person: 5 76 75}{name: 1280}
+Neither can I.{p}{person: 5 74 73}{speed: 3}
+I'll bet there's a story there{b}
+just waiting to be told!{p}{jmp: 138}{endjmp}
+
+{{6}}
+{bop}{person: 5 72 69}{name: 1280}I'm thirsty,{wait: 8} Apollo!{nextpage_button}{name: 1024}
+...Want something to drink?{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 6}
+Hmm... How about{0x5a}...{wait: 30} {person: 5 72 69}{speed: 2}this one!{wait: 15}{b}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+A Steel Samurai Soda!{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 5}{color: 2}
+("Now in {color: 1}Real Steel{color: 2} flavor."){color: 0}{wait: 15}{b}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 6}
+...Hmm.{nextpage_button}{person: 5 76 75}{name: 1280}{bgcolor: 2305 8 31}{speed: 3}
+Huh?{wait: 12}{nextpage_button}{person: 5 75 75}{name: 1024}{speed: 3}
+...{wait: 16}Here,{wait: 8} my treat.{nextpage_button}{person: 5 91 90}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Hey! This isn't enough change.{nextpage_button}{person: 5 81 81}{name: 1024}{speed: 3}
+The machines outside are{b}
+cheaper.{wait: 20} This one is{b}
+highway robbery.{nextpage_button}{jmp: 138}{endjmp}
+
+{{7}}
+{bop}{person: 0 0 0}{name: 1024}Looks like an instrument case.{wait: 12}{b}
+A big instrument case.{nextpage_button}{0x38: 1}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+There's a great magic trick{b}
+you can do with one of these!{nextpage_button}{name: 1024}{speed: 3}
+Huh?{wait: 20} What kind?{nextpage_button}{person: 5 68 67}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+The{wait: 16} {speed: 3}"Miraculous Beautiful Girl{b}
+Escapes the Case" illusion.{nextpage_button}{name: 1024}{speed: 3}
+So it's the girl who's{b}
+miraculous,{wait: 8} not the escape?{nextpage_button}{person: 5 74 73}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+So picky!{nextpage_button}{jmp: 138}{endjmp}
+
+{{8}}
+{bop}{name: 1024}A concert poster for the{wait: 6}{b}
+"Guilty As Charged"{wait: 6} Tour.{nextpage_button}{0x38: 1}{name: 1280}{person: 5 72 69}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+I love that name!{wait: 15} {bgcolor: 2305 8 31}"Guilty As{b}
+Charged"!{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 4}
+...{wait: 6}Seems kind of negative to{b}
+me.{nextpage_button}{person: 5 68 67}{name: 1280}{speed: 3}
+Well,{wait: 6} why don't we do the{b}
+opposite!{p}{person: 5 72 69}
+Magician Trucy presents the{b}{sound: 51 1}{bgcolor: 2305 8 31}
+"Innocent as Charged" tour!{nextpage_button}{person: 5 69 69}{name: 1024}
+It kind of loses its impact,{wait: 6}{b}
+doesn't it?{nextpage_button}{jmp: 138}{endjmp}
+
+{{9}}
+{bop}{name: 1024}That's Lamiroir's dressing{b}
+room...{wait: 16} and the scene of the{b}
+crime.{p}
+It's kind of lightly guarded{b}
+for being a crime scene.{nextpage_button}{person: 5 72 69}{name: 1280}
+I'm not complaining!{wait: 16} Makes it{b}
+easier for us to go in!{nextpage_button}{person: 5 68 67}
+And Ema gave us her OK,{wait: 8}{b}
+right?{p}{person: 5 72 69}
+We can wander in and do as{b}
+we like!{nextpage_button}{person: 5 69 69}{name: 1024}{color: 2}
+(How is Ema doing,{wait: 8} anyway...?){p}
+(I hope she's not getting{b}
+cavities from eating all{b}
+those chocolate Snackoos...){nextpage_button}{color: 0}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 746 746}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{0x51: 1 53}{32513}{nextpage_nobutton}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 746 746}{hidetextbox: 3}{special_jmp}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{person: 34 746 746}{name: 1024}{hidetextbox: 0}{speed: 3}That was quite a statement{b}
+you made today in court.{p}
+...{wait: 8}About hearing Daryan{b}
+Crescend's voice at the{b}
+scene of the crime.{nextpage_button}{person: 34 753 751}{name: 8704}
+I did not know his name...{nextpage_button}{person: 34 748 746}
+...{wait: 12}but I never forget a{b}
+voice.{nextpage_button}{hidetextbox: 1}{fademusic: 30}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 27}{person: 34 748 746}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 8704}{hidetextbox: 0}{0x59}{hidetextbox: 0}{speed: 4}
+Wait!{p}{fademusic: 0}{music: 18 0}{bg: 29}{name: 2560}{person: 10 265 264}{speed: 4}
+La-{wait: 8}{speed: 3}{bgcolor: 2305 8 31}{shake: 30 0}Lamiroir!{wait: 16} Is something the{b}
+matter?{nextpage_button}{bg: 27}{name: 8704}{person: 34 748 746}{speed: 3}
+That voice {shake: 30 0}just now{speed: 8}{0x5a}...{nextpage_button}{speed: 3}
+............{b}{person: 34 748 746}
+It was {bgcolor: 2305 8 31}{sound: 51 1}him.{wait: 16} I am sure of it.{nextpage_button}{name: 9472}{person: 37 823 822}{speed: 8}{0x5a}
+...{wait: 18}{0x59}{speed: 4}{bgcolor: 2305 8 31}No way{speed: 8}{0x5a}...{wait: 18}{0x59}{nextpage_button}{hidetextbox: 1}{sound: 49 1}{fademusic: 45}{bgcolor: 1025 1 31}{wait: 1}{0x51: 1 53}
+{36096}{940}{bg: 274}{0x35: 36097 @RelativeAddress0}{bg: 247}{@RelativeAddress0}{person: 34 757 755}{0x5a}{0x5f: 4 1 1}{bgcolor: 772 1 31}{wait: 25}{name: 8704}{hidetextbox: 0}{0x59}{speed: 5}...As I said in court:{p}{speed: 4}
+I was on my way backstage{b}
+from the stage.{nextpage_button}{person: 34 748 746}{speed: 3}
+That is when I heard his{b}
+voice.{nextpage_button}{name: 1024}
+I'm guessing Daryan and{b}
+Mr. LeTouse were talking{b}
+about something?{nextpage_button}{person: 34 757 755}{name: 8704}{speed: 4}
+...{wait: 20}The next moment,{wait: 8} I heard{b}
+those gunshots.{nextpage_button}{name: 1024}{speed: 3}
+Why didn't you call security?{p}{name: 8704}{speed: 5}
+To be honest,{wait: 8} though the{b}
+noise was quite frightening...{p}{speed: 3}
+...{wait: 14}I never imagined the{b}
+gunshots might be real.{nextpage_button}{person: 34 748 746}{name: 8704}{speed: 4}
+And,{wait: 12} I was in quite a hurry{b}
+myself.{p}
+I left the scene at once.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 84 83}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 4}
+So...{wait: 16} {speed: 3}it really was Daryan's{b}
+voice that she heard.{nextpage_button}{person: 5 83 83}{name: 1024}{speed: 4}
+Yeah...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 751 751}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{fademusic: 0}{music: 44 100}{color: 2}
+(At least,{wait: 6} she certainly{b}
+thinks it was.){color: 0}{p}{0x51: 1 53}
+{32769}{2260}{0x10: 33152}{0x35: 35840 @RelativeAddress1}{0x35: 33024 @RelativeAddress2}{0x35: 33536 @RelativeAddress3}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress1}{@RelativeAddress2}{@RelativeAddress3}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{person: 34 753 751}{name: 8704}{hidetextbox: 0}{speed: 4}I met Machi before my debut{b}
+as Lamiroir...{nextpage_button}{person: 34 748 746}
+I was singing in a restaurant{b}
+in Borginia.{nextpage_button}{person: 34 746 746}{name: 1024}{speed: 3}
+And he was playing the piano?{nextpage_button}{person: 34 753 751}{name: 8704}{speed: 4}
+...Yes.{p}
+He was very kind to me when{b}
+he learned I could not see.{nextpage_button}{person: 34 751 751}{name: 1024}{speed: 3}
+Is that when you started{b}
+playing{wait: 12} {speed: 3}"opposites"?{p}
+With Machi pretending he{b}
+couldn't see...{nextpage_button}{person: 34 748 746}{name: 8704}
+Ah,{wait: 8} no,{wait: 8} it wasn't then.{nextpage_button}{person: 34 757 755}{speed: 4}
+That began after our major{b}
+debut.{p}
+...{wait: 4}After I became known as the{wait: 6}{b}
+"landscape painter in sound".{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+It must have been tough for{b}
+Machi...{p}
+...{wait: 7}Pretending he couldn't see,{wait: 8}{b}
+and all the while acting as{b}
+your eyes.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 757 755}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 4}
+We held hands always.{p}
+He would write with his{b}
+finger on my palm to signal{b}
+to me things I should know.{nextpage_button}{person: 34 748 746}{speed: 3}
+He is a smart,{wait: 12} gentle boy.{nextpage_button}{person: 34 746 746}{name: 1024}{speed: 3}{color: 2}
+(I think I see what she's{b}
+getting at...){nextpage_button}{speed: 4}
+(...{wait: 8}"Machi would never harm{b}
+a soul"...){color: 0}{nextpage_button}{0x51: 1 53}
+{33025}{1724}{0x10: 33153}{0x35: 35840 @RelativeAddress4}{0x35: 32768 @RelativeAddress5}{0x35: 33536 @RelativeAddress6}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress4}{@RelativeAddress5}{@RelativeAddress6}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{person: 34 746 746}{name: 1024}{hidetextbox: 0}About Mr. LeTouse...{nextpage_button}{person: 34 748 746}{name: 8704}{speed: 5}
+Ah yes.{wait: 16} {speed: 4}He was an Interpol{b}
+agent,{wait: 8} I hear?{nextpage_button}{person: 34 746 746}{name: 1024}{speed: 3}
+So,{wait: 8} you had no idea?{nextpage_button}{person: 34 748 746}{name: 8704}
+Of course not.{wait: 16} {speed: 4}No one did.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+I guess that's what it means{b}
+to be undercover.{nextpage_button}{person: 5 75 75}{name: 1024}
+But someone was after him...{p}
+They had to know who he{b}
+really was.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 757 755}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 4}
+Why did he pose as my manager?{wait: 16}{b}
+I do not understand.{nextpage_button}{name: 1024}{speed: 3}
+You have no idea?{p}{person: 34 757 755}{name: 8704}{speed: 5}
+I can only assume that he{b}
+was investigating me...{b}{person: 34 748 746}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+But why?{nextpage_button}{name: 1024}{speed: 3}
+What makes you think that?{nextpage_button}{person: 34 753 751}{name: 8704}{speed: 4}
+Perhaps it is not so,{wait: 8} but{b}
+I cannot deny the possibility.{nextpage_button}{person: 34 748 746}{name: 8704}
+Because of my condition{speed: 8}{0x5a}...{wait: 20}{speed: 4}{0x59}{nextpage_button}{person: 34 757 755}{speed: 4}
+As my present is veiled in{b}
+darkness,{wait: 16} so,{wait: 8} too,{wait: 8} is my{b}
+past clouded from memory.{nextpage_button}{name: 1024}{speed: 5}
+Clouded...{wait: 16} right.{nextpage_button}{fademusic: 0}{music: 44 100}{0x10: 33154}{0x37: 6 0}{0x37: 7 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{person: 34 753 751}{name: 8704}{hidetextbox: 0}{speed: 4}The darkness that I fear{b}
+is not the darkness that{b}
+I see whenever I open my eyes.{p}{person: 34 748 746}
+The real darkness{0x5a}...{wait: 12}{0x59} {speed: 3}lies in{b}
+my heart.{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+In your heart?{nextpage_button}{person: 34 757 755}{name: 8704}{speed: 4}
+I have no memory of the time{b}
+before I became Lamiroir.{p}
+I awoke from darkness,{wait: 6} into{b}
+darkness,{wait: 8} you might say.{p}{speed: 3}
+I was singing in a restaurant{b}
+those days.{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(What was it that she said{b}
+about not being able to{b}
+remember the light...?){color: 0}{nextpage_button}{person: 34 757 755}{name: 8704}{speed: 4}
+I do not know my past.{p}{person: 34 748 746}{speed: 3}
+Perhaps I committed some{b}
+terrible crime in my past.{p}{person: 34 753 751}{speed: 4}
+Everything before becoming{b}
+Lamiroir is lost to me.{nextpage_button}{person: 5 84 83}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+B-{wait: 20}But I don't think you...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 753 751}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 4}
+I can think of no other{b}
+explanation.{nextpage_button}{person: 34 748 746}
+Why else would an agent of{b}
+Interpol approach me?{nextpage_button}{name: 1024}{speed: 3}
+Do you think your past might{b}
+be related to this case?{nextpage_button}{person: 5 96 95}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+No way!{wait: 16} That seems really{b}
+unlikely to me.{p}{speed: 4}
+I mean,{wait: 8} {bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 3}you're such a sweet{b}
+person,{wait: 12} Lamiroir!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 748 746}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 4}{0x5a}
+...{wait: 16}{0x59}I thank you.{wait: 16} Machi, too,{b}
+tells me this often when{b}
+I fear who I might have been.{nextpage_button}{speed: 255}{0x51: 1 53}
+{33537}{2074}{0x10: 33155}{0x35: 35840 @RelativeAddress7}{0x35: 32768 @RelativeAddress8}{0x35: 33024 @RelativeAddress9}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress7}{@RelativeAddress8}{@RelativeAddress9}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{person: 34 746 746}{name: 1024}We took a look at your{b}
+performance again.{wait: 16} It was{b}
+even better the second time!{nextpage_button}{person: 34 748 746}{name: 8704}{speed: 4}
+Thank you.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 4}
+That reminds me...{nextpage_button}{person: 5 72 69}{speed: 3}
+That was an incredible{b}
+illusion you pulled off!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 767 766}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 4}
+Illusion...?{nextpage_button}{person: 5 74 73}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+When you teleported from one{b}
+stage to the other?{wait: 16} Remember?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 748 746}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 8704}{speed: 5}
+Ah,{wait: 12} yes.{wait: 16} {speed: 4}Apparently,{wait: 8} they{b}
+hired a professional magician.{nextpage_button}{name: 1024}{color: 2}
+(Valant Gramarye...){color: 0}{nextpage_button}{speed: 3}
+I was wondering,{wait: 12} do you think{b}
+you could tell us how it was{b}
+done?{nextpage_button}{person: 34 753 751}{name: 8704}{speed: 4}
+...{wait: 14}I'm afraid I cannot.{nextpage_button}{person: 34 748 746}{name: 8704}
+Mr. Gramarye made me swear{b}
+to never tell a soul.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{speed: 5}{shake: 30 0}
+I was afraid of that...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+Hard to be a magician if{b}
+you can't keep a secret,{b}
+you know?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 34 746 746}{0x51: 1 53}
+{35841}{1490}{0x10: 33164}{0x35: 32768 @RelativeAddress10}{0x35: 33024 @RelativeAddress11}{0x35: 33536 @RelativeAddress12}{wait: 16}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress10}{@RelativeAddress11}{@RelativeAddress12}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{showphoto: 117}{name: 1024}Can I ask you about this{b}
+headset,{wait: 8} Lamiroir?{p}
+You said that all concert{b}
+staff were wearing one?{nextpage_button}{person: 34 753 751}{name: 8704}{speed: 4}
+That's correct.{p}
+You need them to communicate{b}
+across such a large stage.{p}{removephoto}{person: 34 757 755}
+Everyone on the staff had one,{wait: 8}{b}
+of course...{p}{person: 34 748 746}
+...{wait: 8}And all of the band{b}
+members, too,{wait: 8} I should think.{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(So Prosecutor Gavin and his{b}
+lackeys had them on, too,{wait: 8}{b}
+then...){color: 0}{nextpage_button}{person: 34 757 755}{name: 8704}{speed: 5}
+They're quite helpful,{wait: 8}{b}
+though limited.{nextpage_button}{person: 34 748 746}{showphoto: 373}{speed: 4}
+They only work within thirty{b}
+feet or so.{p}
+After all,{wait: 8} they're only{b}
+for use on stage.{p}
+And a stronger signal would{b}
+interfere with the sound{b}
+system.{nextpage_button}{person: 34 746 746}{name: 1024}{speed: 3}
+Hmm,{wait: 8} that makes sense.{p}{color: 2}
+(You'd think someone would{b}
+notice if they dropped their{b}
+only communications lifeline.){p}
+(...So why was this one lying{b}
+here?){color: 0}{nextpage_button}{removephoto}{0x51: 1 53}
+{36353}{1484}{0x19: 117 118}{0x10: 33166}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{name: 1024}Do you think you could tell{b}
+me about this?{nextpage_button}{person: 34 757 755}{name: 8704}{speed: 4}
+I'm sorry,{wait: 8} but my information{b}
+about the outside world is{b}
+somewhat limited.{nextpage_button}{person: 34 748 746}
+I only know what I have heard,{wait: 8}{b}
+or felt.{nextpage_button}{person: 34 746 746}{name: 1024}{speed: 3}{color: 2}
+(Maybe that explains why she{b}
+didn't react when I showed{b}
+her stuff the other day.){p}
+(She was still pretending she{b}
+could see then...){color: 0}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{person: 0 0 0}{0x26: 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}July 9{b}
+Backstage Hallway{color: 0}{nextpage_button}{hidetextbox: 1}{center_text: 0}{speed: 255}{wait: 30}{person: 0 0 0}{name: 1024}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+...This place is deserted.{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 3}
+I wonder where Lamiroir went{b}
+off to?{nextpage_button}{person: 5 75 75}{name: 1024}
+I'm sure she's OK on her{b}
+own.{wait: 16} She seems resourceful.{p}{person: 5 76 75}{name: 1280}{speed: 4}
+I guess{0x5a}...{wait: 8}{0x59} {speed: 3}But I can't help{b}
+worry about her a little.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{person: 0 0 0}{0x10: 33151}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{name: 1024}That's Lamiroir's dressing{b}
+room...{wait: 16} and the scene of the{b}
+crime.{p}
+It's kind of lightly guarded{b}
+for being a crime scene.{nextpage_button}{person: 5 72 69}{name: 1280}
+I'm not complaining!{wait: 16} Makes it{b}
+easier for us to go in!{nextpage_button}{person: 5 68 67}
+And Ema gave us her OK,{wait: 8}{b}
+right?{p}{person: 5 72 69}
+We can wander in and do as{b}
+we like!{nextpage_button}{person: 5 69 69}{name: 1024}{color: 2}
+(How is Ema doing,{wait: 8} anyway...?){p}
+(I hope she's not getting{b}
+cavities from eating all{b}
+those chocolate Snackoos...){nextpage_button}{color: 0}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{person: 0 0 0}{hidetextbox: 3}{special_jmp}{endjmp}

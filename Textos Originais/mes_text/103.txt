@@ -1,0 +1,108 @@
+
+
+{{0}}
+{bop}{endjmp}
+
+{{1}}
+{bop}{endjmp}
+
+{{2}}
+{bop}{name: 2304}{0x76: 0 17}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}Right!{wait: 12} Let's get detecting!{p}{name: 1024}{color: 2}
+(Wow,{wait: 12} she's practically glowing{b}
+with excitement...){color: 0}{p}{name: 2304}
+First,{wait: 8} sprinkle some aluminum{b}
+powder over the print.{p}
+Just touch the screen,{wait: 8}{b}
+like this.{wait: 16} See?{p}{hidetextbox: 1}{0x74: 8 55}{wait: 30}{hidetextbox: 0}{name: 2304}{0x76: 0 23}
+The oil left by the print{b}
+absorbs the aluminum powder,{wait: 8}{b}
+so you just dust it on...{p}
+...{wait: 20}and blow it off!{p}{0x76: 2 0}{name: 1280}{0x76: 1 3}
+B-{wait: 16}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}Blow?{p}{0x76: 2 0}{name: 2304}{0x76: 0 17}{speed: 3}
+It's like whistling.{wait: 12} You know{b}
+how to whistle,{wait: 8} don't you?{wait: 16}{b}
+Just put your lips together...{p}{0x76: 2 0}{hidetextbox: 1}{0x74: 8 56}{wait: 30}{name: 1280}{0x76: 1 4}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Wow!{wait: 16} Amazing!{wait: 16} It's like magic!{p}{0x76: 2 0}{name: 2304}{0x76: 0 17}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+Heh heh.{wait: 16} Isn't it though?{p}{name: 1024}{speed: 4}{color: 2}
+(Right,{wait: 16} let's give it a shot!){color: 0}{p}{name: 2304}{0x76: 0 24}
+Incidentally,{wait: 8} it's important{b}
+that you cover the entire{b}
+fingerprint with the powder.{p}{0x76: 2 0}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{endjmp}
+
+{{4}}
+{bop}{endjmp}
+
+{{5}}
+{bop}{endjmp}
+
+{{6}}
+{bop}{endjmp}
+
+{{7}}
+{bop}{endjmp}
+
+{{8}}
+{bop}{hidetextbox: 0}{name: 2304}{0x76: 0 24}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Hmm,{wait: 8} good...{wait: 20} clear...{wait: 16}{b}{speed: 3}
+Quite impressive!{p}
+Next,{wait: 16} to match the print.{p}{0x76: 0 23}
+The police office has samples{b}
+so you can tell whose finger{b}
+this print belongs to.{p}{name: 1024}{speed: 4}
+Hmm...{wait: 16} {speed: 3}That doesn't sound{b}
+like as much fun as actually{b}
+finding the print.{p}{bganim: 98 579}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{hidetextbox: 0}{name: 2304}{0x76: 0 16}OK,{wait: 8} pick the person whose{b}
+print you think this is.{p}{name: 2304}{0x76: 0 17}
+You probably have a good idea{b}
+whose knife this is already.{p}{bganim: 98 579}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{name: 2304}{0x76: 0 3}{hidetextbox: 0}{shake: 30 0}{bgcolor: 2305 8 31}No match sorry.{wait: 16} The prints{b}
+don't belong to this person.{p}{0x76: 0 1}
+You're thinking about this too{b}
+hard...{wait: 20} just pick the person{b}
+who was holding this knife.{p}{hidetextbox: 1}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{hidetextbox: 0}{name: 1024}Hey!{wait: 16} It worked!{wait: 15} That looks{b}
+like...{wait: 20} a big toe,{wait: 8} maybe?{p}{name: 1280}{0x76: 0 4}
+Wow,{wait: 12} I feel like the case{b}
+is solved already!{p}{name: 1024}
+What was next?{wait: 16} We have to{b}
+match the print,{wait: 8} right?{p}{name: 1280}{0x76: 1 5}{bgcolor: 2305 8 31}{shake: 30 0}
+Right!{wait: 16} Let's match it!{wait: 16}{b}{speed: 8}
+......{wait: 30}{b}{0x76: 1 3}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+Wait.{p}
+The detective didn't give us{b}
+a list of toe prints,{wait: 8} Apollo.{p}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}
+Oh,{wait: 8} good point.{p}{name: 1280}{0x76: 0 4}
+Maybe we should ask her?{wait: 16}{b}
+Get some{wait: 6} "expert"{wait: 6} advice?{p}{name: 1024}
+I guess so...{wait: 16}{b}{color: 2}
+(I'm not sure she really{b}
+qualifies as an expert...){color: 0}{p}{bganim: 98 579}{0x19: 56 57}{0x10: 33474}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{hidetextbox: 0}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}Hey!{wait: 8} It worked!{wait: 16} {speed: 3}That looks{b}
+like...{wait: 16} a big toe,{wait: 8} maybe?{p}{name: 1280}{0x76: 1 3}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+But wait!{wait: 16} I mean,{wait: 8} it's great{b}
+that we got the print...{p}{speed: 3}
+But is there such a thing as{b}
+a list of toe prints?{p}{name: 1024}
+Oh,{wait: 8} good point.{wait: 16} If there is,{wait: 8}{b}
+Detective Skye didn't give it{b}
+to us.{p}
+Which means...{wait: 20} we can't match{b}
+this print.{p}{name: 1280}{0x76: 0 4}
+This seems like a good time{b}
+to ask a detective's advice.{p}{name: 1024}
+Yeah,{wait: 8} good idea.{nextpage_button}{bganim: 98 579}{0x19: 73 74}{0x10: 33475}{0x74: 5 0}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{hidetextbox: 0}{name: 1024}Look!{wait: 20} You can see the oily{b}
+finger residues clearly.{p}{0x74: 5 0}{special_jmp}{endjmp}

@@ -1,0 +1,579 @@
+
+
+{{0}}
+{bop}{0x62: 4 1}{newevidence: 7}{newevidence: 32925}{newevidence: 32926}{0x51: 3 38}{bop}{person: 0 0 0}{name: 0}{wait: 30}{speed: 10}{0x30: 2}{0x74: 2 0}{center_text: 1}{color: 3}October 7, 10:37 AM{b}
+Wright Anything Agency{color: 0}{nextpage_button}{center_text: 0}{speed: 255}{fademusic: 0}{music: 16 0}{wait: 10}{0x26: 0}{0x38: 1}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hey,{wait: 10} Apollo!{wait: 10} Look,{wait: 10} on TV!{wait: 10}{b}{person: 5 101 100}{shake: 30 0}{wait: 15}
+Look! Look!{nextpage_button}{speed: 3}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Yeah...{wait: 20} {speed: 4}uh,{wait: 10}{b}
+I'm kinda busy.{p}{person: 5 74 73}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Whoa!{wait: 15} Look at that!{p}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+He's the last Gramarye,{wait: 8}{b}
+alright!{wait: 16} Amazing!{nextpage_button}{name: 1024}{speed: 8}
+......{p}{person: 5 91 90}{name: 1280}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+Apollo,{wait: 30}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{person: 5 91 90} you should be{shake: 30 0} watching{b}
+this!{nextpage_button}{person: 5 88 90}{0x8f: 89}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{name: 1024}{speed: 3}
+Ow ow ow!{wait: 30} What?{wait: 15} What!?{nextpage_button}{speed: 3}
+...I was writing about our{b}{person: 5 81 81}
+last case in my journal.{p}{person: 5 76 75}{name: 1280}
+Lawyers are supposed to write{b}
+things in "records",{wait: 6} Apollo,{wait: 8}{b}
+not journals.{p}
+And why now? That case was{b}
+three months ago.{nextpage_button}{person: 5 75 75}{name: 1024}
+Hey, it's a long story.{wait: 30}{b}
+...I did a lot,{wait: 10} you know.{p}
+I want to vacuum pack the feel{b}
+of the moment for later.{p}{person: 5 67 67}
+Right now I'm wowing the crowd{b}
+by figuring out how Lamiroir{b}
+disappeared.{p}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+That's right!{wait: 10} {speed: 3}Uncle Valant did{b}
+that illusion,{wait: 8} too!{p}{person: 5 96 95}{bgcolor: 2305 8 31}
+But you're missing him on{b}
+TV right now!{nextpage_button}{name: 1024}{speed: 5}
+*sigh*... {speed: 4}I was just getting{b}
+to the good part.{p}{fademusic: 120}{person: 5 67 67}{color: 2}
+(I suppose I should watch a{b}
+little TV with her.){p}
+(After all,{wait: 10} her father's{b}
+expecting me to look after{b}
+her while he's away...){color: 0}{p}{person: 5 100 100}{name: 11520}{color: 3}{speed: 2}
+What you're now seeing is a{b}
+rehearsal for the greatest{b}
+magic show on Earth...{p}{shake: 30 0}{bgcolor: 2305 8 31}
+...{wait: 16}happening right here at our{b}
+very own Sunshine Coliseum!{color: 0}{p}{name: 1024}{speed: 4}
+The Sunshine Coliseum?{p}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Hey,{wait: 10} that's where the{b}
+Gavinners concert was!{p}{name: 11520}{speed: 5}{color: 3}
+...{wait: 16}{speed: 3}Only three more days until{b}
+miracles happen here,{wait: 10} right{b}
+before your unbelieving eyes!{nextpage_button}{bg: 168}{person: 0 0 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{fademusic: 0}{music: 22 0}{speed: 2}
+The legendary {color: 1}Troupe Gramarye{color: 3}{b}
+is performing for the first{b}
+time in seven years!{color: 0}{p}{bg: 243}{person: 5 101 100}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+That's going to be great!{wait: 10}{b}{speed: 3}
+I'm so there!{p}{person: 5 72 69}{bgcolor: 2305 8 31}
+You and Daddy are coming,{wait: 8} too!{nextpage_button}{person: 5 69 69}{name: 1024}{color: 2}{speed: 4}
+(The legendary Gramaryes{speed: 8}...){p}{person: 5 67 67}{speed: 3}
+(...If Trucy's real father{b}
+were still alive...){p}{speed: 4}
+(...{wait: 12}he'd be on that stage{b}
+performing miracles.){color: 0}{p}{person: 5 74 73}{name: 1280}{showphoto: 193}{speed: 3}
+I've got the tickets and{b}
+everything!{p}{person: 5 72 69}
+Here's yours,{wait: 8} Apollo.{nextpage_button}{bganim: 98 579}{fademusic: 60}{newevidence: 16577}{name: 0}{speed: 3}{color: 2}
+Magic Show Ticket received.{nextpage_button}{speed: 255}{color: 0}{sound: 58 1}{name: 0}{center_text: 1}{soundtoggle: 0}{b}{speed: 2}{color: 3}
+...*squeak*...{color: 0}{nextpage_button}{soundtoggle: 1}{center_text: 0}{name: 512}{person: 5 69 69}{speed: 3}
+Ah,{wait: 8} you are here.{wait: 25} Working hard{b}
+or hardly working?{nextpage_button}{hidetextbox: 1}{personvanish: 4 2}{wait: 32}{personvanish: 3 2}{person: 7 178 177}{0x5a}{wait: 32}{wait: 40}{hidetextbox: 0}{name: 1792}{0x59}{speed: 4}
+Hey!{wait: 20} How have you been?{nextpage_button}{person: 5 72 69}{name: 1280}{fademusic: 0}{music: 16 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Hi there,{wait: 10} stranger!{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 4}{color: 2}
+(Not exactly the kind of{b}
+greeting I'd want to hear{b}
+from my own kid.){p}{speed: 3}
+(Though he has been gone a{b}
+long time.){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 182 181}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{wait: 4}
+Ah ha ha,{wait: 10} how goes it,{wait: 10} Trucy?{b}
+Here,{wait: 10} I got a present for you.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Yay!{bgcolor: 2305 8 31}{wait: 20} Pudding!{wait: 7} I love pudding!{wait_noanim: 25}{b}{person: 5 74 73}
+Ooh,{wait: 10} it's farm-fresh!{p}
+And not just one pudding,{wait: 10} but{b}
+three whole cups!{wait: 10} I'll have to{b}
+pace myself.{nextpage_button}{person: 7 184 183}{name: 1792}
+Well,{wait: 10} I'm beat.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 68 67}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+That's right,{wait: 10} Daddy.{wait: 20} You're{b}
+on a {sound: 52 1}{bgcolor: 2305 8 31}{color: 1}top secret mission{color: 0}!{p}{person: 5 91 90}
+You've got to take it easy{b}
+with the secrets,{wait: 10} you know.{nextpage_button}{person: 7 191 191}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}
+Ah{wait: 8} ha{wait: 8} ha.{wait: 30}{b}{person: 7 190 189}
+How right you are.{nextpage_button}{person: 7 179 179}{name: 1024}{speed: 3}
+So,{wait: 8} you still can't tell us{b}
+what your "{color: 1}mission{color: 0}" is?{p}{person: 7 177 177}{name: 1792}{speed: 8}
+......{p}{person: 7 184 183}{speed: 4}
+Maybe it is time.{wait: 10} {speed: 3}It has{b}
+something to do with you,{wait: 10}{b}
+anyway.{nextpage_button}{person: 7 177 177}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Huh?{wait: 10} With...{wait: 30} me?{nextpage_button}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ooh!{wait: 15} Maybe you're getting a{wait: 15}{b}
+top secret mission,{wait: 10} too!{p}{person: 5 68 67}
+Maybe you can be one of those{b}
+guys!{wait: 16}{p}{person: 5 74 73}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+A spy!{nextpage_button}{person: 5 67 67}{name: 1024}{speed: 5}{color: 2}
+(Can't I just be a defense{b}
+attorney...?){color: 0}{nextpage_button}{person: 7 191 191}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}
+Ah{wait: 8} ha{wait: 8} ha!{0x63}{wait: 10}{b}{person: 7 190 189}
+To be honest...{p}{person: 7 180 179}
+...{wait: 10}telling you about the{b}
+mission was my whole reason{b}
+for coming here today.{nextpage_button}{person: 7 179 179}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+What...?{p}{person: 7 180 179}{name: 1792}
+Tell me...{p}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+...you've heard of the{b}{color: 1}
+Jurist System{color: 0},{wait: 6} yes?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 5}
+The Jurist System...?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 180 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{speed: 3}
+That's right.{wait: 16} The new legal{b}
+system everyone's talking{b}
+about.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 3}
+Have you heard of it,{wait: 15}{b}
+Apollo?{nextpage_button}{person: 5 75 75}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Huh?{wait: 15}{b}
+Uh...{shake: 30 0}{wait: 10} Maybe?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{speed: 8}
+......{p}{person: 7 184 183}{speed: 4}
+Maybe not as many people are{b}
+talking about it as I thought.{nextpage_button}{person: 7 183 183}{name: 1024}{speed: 5}{color: 2}
+(The "{color: 1}Jurist System{color: 2}", huh?){color: 0}{nextpage_button}{0x10: 33537}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{1}}
+{bop}{person: 7 179 179}{name: 1024}{hidetextbox: 0}So...{wait: 30} {speed: 3}what kind of case is{b}
+the {color: 1}trial simulation{color: 0} about?{nextpage_button}{person: 7 178 177}{name: 1792}
+Well,{wait: 10} since it is the first{b}
+run through of a new system,{wait: 10}{b}
+I wanted something simple.{nextpage_button}{person: 5 74 73}{name: 1280}{bgcolor: 2305 8 31}{speed: 3}
+Good thinking!{wait: 16}{b}
+No sense wearing yourself out{b}
+on something too serious!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 178 177}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{wait: 10}
+True.{wait_noanim: 20}{b}{person: 7 190 189}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+The case is a murder.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+That's not simple at all!!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 4}
+By{wait: 6} "simple", did you mean{b}
+that the defendant is...{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 180 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+...Guilty.{wait: 22} Yes.{wait: 20} Most likely.{nextpage_button}{person: 7 190 189}{name: 1792}{speed: 3}
+...So,{wait: 8} good luck, {wait_noanim: 25}{fademusic: 45}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{0x59}{wait: 8}Apollo.{nextpage_button}{person: 7 189 189}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}
+Um...{wait: 30} with what?{p}{person: 7 182 181}{name: 1792}
+With the trial tomorrow.{wait: 10}{b}
+You're defending,{wait: 8} of course.{wait: 8}{nextpage_button}{person: 7 190 189}
+Recall that I said it had{b}
+something to do with you.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}
+Go for it,{wait: 12} Apollo!{p}{speed: 3}
+It's just a test case,{wait: 6}{b}
+anyway.{wait: 16} No sweat!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yeah,{wait: 10} but there's still a{b}
+verdict to be decided.{nextpage_button}{name: 1792}{person: 7 180 179}{speed: 4}
+...{wait: 15}And a potentially serious{b}{person: 7 190 189}
+sentence.{wait: 20} {speed: 3}The most serious,{wait: 10}{b}
+in a worst-case scenario.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Ack!{wait: 15} You mean... the verdict's{b}
+for real!?{nextpage_button}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+That's not a{wait: 6} "test"{wait: 6} trial!{wait: 20}{b}
+That's a... real trial!{p}{person: 7 182 181}{name: 1792}{speed: 3}
+All the forms have been filed.{wait: 10}{b}
+There's no turning back now.{p}
+The trial begins tomorrow at{b}
+10 AM.{wait: 12}{person: 7 180 179} Hope you can make room{b}
+in your schedule.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Wh-{wait: 8}Why am I only hearing about{b}
+this now!?{p}{person: 7 184 183}{name: 1792}{speed: 3}
+...Ah,{wait: 8} yes.{wait: 10} There was a{b}
+change this morning.{p}{speed: 5}
+...I picked a new case.{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Eh...?{p}{person: 7 178 177}{name: 1792}{speed: 3}
+...Something that happened{b}
+last night.{0x5a}{fademusic: 0}{music: 33 0}{p}{0x10: 33538}{0x37: 0 0}{0x37: 1 1}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{2}}
+{bop}{person: 7 180 179}{name: 1792}{speed: 3}I'd recommend going down to{b}
+the detention center.{p}{person: 7 182 181}
+Your client's waiting for you.{wait: 16}{b}
+You can ask about the scene{b}
+there.{nextpage_button}{person: 7 179 179}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+But you just said I couldn't{b}
+talk to anyone involved...{p}{person: 7 180 179}{name: 1792}{speed: 4}
+...Oh,{wait: 14} {speed: 3}you can talk to your{b}
+client.{p}{wait: 8}
+If{wait: 4}{0x5a}...{wait: 30}{person: 7 188 187}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0} you can get her to talk.{nextpage_button}{person: 5 96 95}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}
+Well,{wait: 8} time's a wasting!{0x23: 0}{music: 255 90}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{0x10: 33539}{0x51: 3 53}
+{1025}{778}{0x33: 0 1 255 255 255}{0x60: 0 1 255 255 255}{0x61: 0 25 255 255 255}{hidetextbox: 3}{special_jmp}{0x33: 0 1 9 255 255}{0x60: 0 1 12 255 255}{0x61: 0 25 15 255 255}{0x35: 4352 @RelativeAddress0}{0x61: 0 25 14 255 255}{@RelativeAddress0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{3}}
+{bop}{person: 7 184 183}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{fademusic: 45}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 2}Ah,{wait: 10} "Gramarye",{wait: 15}{showphoto: 194} that reminds{b}
+me{0x5a}...{p}{person: 5 68 67}{name: 1280}{bgcolor: 2305 8 31}
+...What's this,{wait: 10} Daddy?{p}{person: 5 76 75}{speed: 3}
+Isn't that silk hat the{b}{0x5a}{0x59}
+Gramarye seal?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 184 183}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{speed: 5}
+Consider it a birthday{b}
+present,{wait_noanim: 25}{person: 7 182 181}{speed: 3} Trucy.{nextpage_button}{person: 5 72 69}{name: 1280}{bganim: 98 579}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}{speed: 2}
+Thanks!{wait: 12} It's{bgcolor: 2305 8 31} great!{0x5a}{wait: 40}{b}{wait: 12}{speed: 3}{0x59}
+But...{p}{person: 5 68 67}{sound: 52 1}{bgcolor: 2305 8 31}
+...{wait: 16}today isn't my birthday.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 177 177}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{speed: 5}
+...Hmm.{wait: 15}{b}{person: 7 184 183}{wait: 15}{speed: 4}
+Good point.{p}{person: 7 180 179}{speed: 3}
+...{wait: 10}What day is it today,{wait: 10}{b}
+Apollo?{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+Huh?{wait: 15} Today?{nextpage_button}{speed: 5}
+Um...{wait: 25} {speed: 3}I think it's "Recycle{b}
+Your Plastics" day...{p}{person: 7 190 189}{name: 1792}
+Then,{wait: 8} it's a Recycle-Your-{b}
+Plastics present.{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 2}
+Yippee!{wait: 20}{b}
+So it's plastic!{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 4}{color: 2}
+(I've given up trying to{b}
+understand them.{wait: 16} It's much{b}
+easier that way.){color: 0}{p}{person: 5 67 67}{showphoto: 450}
+...{wait: 16}{speed: 3}So what is it?{p}{person: 5 72 69}{name: 1280}{bgcolor: 2305 8 31}
+Can I open it,{wait: 15} Daddy?{nextpage_button}{person: 7 186 185}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 8}No.{nextpage_button}{bganim: 98 579}{person: 5 81 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+Huh!?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 188 187}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{speed: 5}
+You'll need that envelope{b}
+someday.{p}{person: 7 178 177}{speed: 3}{wait: 8}
+Someday soon.{p}{person: 7 180 179}
+Don't open it until then.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 81 81}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{speed: 8}
+......{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 3}
+Well,{wait: 14} why didn't you just{b}
+hold on to it until then?{nextpage_button}{name: 1024}{speed: 4}{color: 2}
+(...Because that would be the{b}
+logical thing to do.){0x23: 0}{music: 255 90}{color: 0}{nextpage_button}{newevidence: 16578}{name: 0}{color: 2}{speed: 4}
+Gramarye Envelope obtained.{nextpage_button}{speed: 255}{color: 0}{person: 5 67 67}{name: 1024}{speed: 3}
+An envelope about the{b}
+Gramaryes,{wait: 8} huh?{wait: 20} Hmm...{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{0x10: 33540}{0x33: 10 0 1 9 255}{0x60: 10 18 1 12 255}{0x61: 10 0 25 15 255}{0x51: 3 53}
+{769}{2434}{0x33: 0 9 255 255 255}{0x60: 0 12 255 255 255}{0x61: 0 15 255 255 255}{hidetextbox: 3}{special_jmp}{0x35: 2049 @RelativeAddress1}{0x33: 0 1 9 255 255}{0x60: 0 1 12 255 255}{0x61: 0 25 15 255 255}{hidetextbox: 3}{special_jmp}{@RelativeAddress1}{0x33: 0 1 9 10 255}{0x60: 0 1 12 11 255}{0x61: 0 25 15 10 255}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{4}}
+{bop}{person: 5 68 67}{name: 1280}{bgcolor: 2305 8 31}{hidetextbox: 0}So,{wait: 10} Daddy,{wait: 8} what's this{b}
+"Jurist System" thing?{wait: 8}{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 180 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+Well,{wait: 10} Trucy,{wait: 10} do you know what{b}
+a "{color: 1}jury{color: 0}" is?{nextpage_button}{name: 1280}{person: 5 72 69}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+I've heard of it.{p}{person: 5 76 75}
+Isn't that those people who{b}
+sit in court in those old{b}
+courtroom dramas?{p}{person: 5 74 73}{bgcolor: 2305 8 31}{shake: 30 0}
+The ones who get to decide if{b}
+a guy's innocent or guilty?{p}
+Do you know,{wait: 10} Apollo?{nextpage_button}{person: 5 67 67}{name: 1024}
+...Only from TV.{p}
+It's twelve people,{wait: 8} chosen{b}
+from the community,{wait: 10} right?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 180 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+Well,{wait: 8} they're thinking about{b}
+reviving that system.{p}{person: 7 182 181}{name: 1792}
+They're calling the new{b}
+system,{wait: 10} the{wait: 6} "{color: 1}Jurist System{color: 0}".{nextpage_button}{person: 5 74 73}{name: 1280}{bgcolor: 2305 8 31}
+"No more doing whatever you{b}
+like,{wait: 10} Your Honor!"{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 180 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+Not quite that harsh.{wait: 16} The{b}
+jurists cooperate with the{b}
+judge.{p}
+They help analyze the case{b}
+from different angles.{nextpage_button}{person: 7 179 179}{name: 1024}
+Ah,{wait: 8} and there will be only six{b}
+of them under the current{b}
+proposal,{wait: 6} right?{nextpage_button}{person: 5 82 81}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Wow,{wait: 8} you know your stuff,{wait: 8}{b}
+Apollo!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 180 179}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+Their findings directly{b}
+affect the verdict.{p}
+Hopefully,{wait: 10} people will start{b}
+taking the courts a little{b}
+more seriously now.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}
+I feel like I'm on some kind{b}
+of educational TV show!{p}{person: 5 74 73}
+Starring Dr. Wright!{nextpage_button}{person: 7 191 191}{name: 1792}{bgcolor: 2305 8 31}{shake: 30 0}
+Ah{wait: 8} ha.{wait: 30}{b}{person: 7 190 189}
+Dr. Wright, his assistant{b}
+Trucy...{p}{person: 7 178 177}
+...and mascot Apollo.{wait: 12}{b}
+The perfect team!{nextpage_button}{person: 7 189 189}{name: 1024}{speed: 4}{color: 2}
+(Mascot...? Hey!){color: 0}{p}{0x51: 3 16}
+{33541}{0x35: 1536 @RelativeAddress2}{0x35: 513 @RelativeAddress3}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress2}{@RelativeAddress3}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{5}}
+{bop}{name: 1024}{hidetextbox: 0}{speed: 4}So...{wait: 20}{b}{speed: 3}
+What is this {color: 1}secret mission{color: 0}?{nextpage_button}{person: 7 180 179}{name: 1792}
+The {color: 1}Jurist System{color: 0} is my{b}
+mission... more or less.{p}{person: 7 182 181}
+Anyway,{wait: 10} keep in mind that new{b}
+ideas like this system are{b}
+always risky,{wait: 12} Apollo.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 76 75}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{shake: 30 0}{speed: 4}
+Too true...{p}
+Everyone's got an opinion,{wait: 10} and{b}
+they just talk and talk and{b}
+nothing gets decided.{nextpage_button}{person: 5 74 73}{speed: 4}
+Kind of like you,{wait: 12} Apollo.{p}{person: 5 69 69}{name: 1024}{speed: 3}
+Uh,{wait: 10} I'm not that bad.{wait: 16}{b}
+Am I?{nextpage_button}{person: 7 180 179}{name: 1792}{bgcolor: 2305 8 31}
+In any case...{p}
+...we're going to give it a{b}
+shot.{p}{speed: 3}
+A test,{wait: 10} {person: 7 182 181}if you will.{nextpage_button}{person: 5 76 75}{name: 1280}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+I don't like tests.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 184 183}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}{speed: 3}
+We'll take a case as a sample,{wait: 10}{b}
+and choose six jurists.{p}{speed: 4}
+I'll be the one helping with{b}
+that process,{wait_noanim: 20}{person: 7 182 181} incidentally.{nextpage_button}{name: 1024}{speed: 4}
+Helping... how?{p}{person: 7 180 179}{name: 1792}{speed: 3}
+Well,{wait: 6} for one, I'll be chair{b}
+of the {color: 1}Jurist System Simulated{b}
+Court Committee{color: 0}.{p}{person: 7 180 179}
+The chair constructs the ideal{b}
+situation...{wait: 16} choosing the{b}
+case,{wait: 8} the jurist candidates...{p}
+...even the judge and the{b}
+courtroom.{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 3}
+Wow!{wait: 16}{person: 5 74 73}{speed: 2} It's like you have a{b}
+real job!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 190 189}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+...I was never that good at{b}
+the piano,{wait: 10} to be honest.{p}{person: 7 189 189}{name: 1024}{speed: 4}{color: 2}
+(Once a lawyer,{wait: 16} always a{b}
+lawyer,{wait: 10} I guess.){color: 0}{p}{person: 7 180 179}{name: 1792}{speed: 3}
+The trial's tomorrow,{wait: 10} by the{b}
+way.{wait: 16} Don't miss it.{p}{person: 7 178 177}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+The {color: 1}trial simulation{color: 0} that is.{nextpage_button}{person: 5 76 75}{name: 1280}{speed: 5}
+A simulation,{wait: 8} huh...{b}
+Sounds interesting.{speed: 255}{nextpage_button}{hidetextbox: 1}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 177 177}{0x51: 3 16}
+{33542}{0x35: 1280 @RelativeAddress4}{0x35: 513 @RelativeAddress5}{jmp: 129}{endjmp}{endjmp}{@RelativeAddress4}{@RelativeAddress5}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{6}}
+{bop}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 72 69}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1280}{hidetextbox: 0}Hey, Apollo,{wait: 10} I know you're all{b}
+excited about that secret{b}
+mission...{p}{person: 5 74 73}
+...{wait: 16}but what about this!?{wait: 10}{b}{showphoto: 193}
+The "{color: 1}Troupe Gramarye Grand{b}
+Magic Show{color: 0}"!{nextpage_button}{name: 1024}
+Huh?{wait: 15} Oh,{wait: 10} right.{wait: 16}{b}
+The card tricks.{p}{name: 1280}{bganim: 98 579}{person: 5 91 90}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+They're not "card tricks"!{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+They're grand{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1} illusions!{wait: 8}{b}
+Miracles!{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{wait: 16} The{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1} apocalypse!{wait: 16}{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Heaven and Earth will shake!{nextpage_nobutton}{person: 5 90 90}{name: 1024}{bgcolor: 2305 8 31}{speed: 4}
+...{speed: 3}So what,{wait: 30}{person: 5 88 90}{0x8f: 89} that's three whole{b}
+days from now.{nextpage_button}{person: 5 96 95}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+It's at Sunshine Coliseum!{wait: 16}{b}
+Let's go!{wait: 10} Let's go today!{p}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}
+We can say hi to Uncle Valant!{nextpage_button}{person: 5 81 81}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 3}
+Have fun.{p}{person: 5 82 81}{name: 1280}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Whaaaat!?{wait: 12} {speed: 3}I can't go by{b}
+myself!{wait_noanim: 20}{person: 5 68 67}{wait: 4} You know I'm not{b}
+very outgoing!{nextpage_button}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}
+Riiight!{nextpage_button}{person: 7 180 179}{name: 1792}{bgcolor: 2305 8 31}
+Why not go with her?{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 5}
+But...{wait: 20} {speed: 3}what about the{b}
+"secret mission"...?{p}{name: 1792}
+Oh,{wait: 8} don't worry about that.{p}{person: 7 182 181}{speed: 4}
+You'll hear all about it{b}
+tomorrow,{wait: 8} regardless.{nextpage_button}{person: 7 181 181}{name: 1024}{speed: 3}{color: 2}
+(I don't trust that smile.{wait: 16}{b}
+He knows something that he's{b}
+not telling me.){color: 0}{nextpage_button}{person: 5 72 69}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yippee!{wait: 12} Now you can take me{b}
+to the coliseum!{nextpage_button}{person: 5 69 69}{name: 1024}{speed: 5}{color: 2}
+(*sigh* I suppose it wouldn't{b}
+kill me to pop over there.){color: 0}{p}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{0x51: 3 53}
+{1025}{2320}{jmp: 131}{endjmp}{endjmp}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{7}}
+{bop}{name: 1024}{hidetextbox: 0}Alright,{wait: 8} so what case are you{b}
+going to use?{p}{person: 7 178 177}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}
+You really want to know don't{b}
+you?{nextpage_button}{person: 7 183 183}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Of course I do!{wait: 20} I mean...{wait: 15}{b}{speed: 3}
+I'm going to be defending,{wait: 10}{b}
+aren't I?{p}{person: 7 178 177}{name: 1792}
+If all goes well,{wait: 6} then yes.{wait: 16} Of{b}
+course,{wait: 6} this is just a{b}
+test.{p}
+We wanted everyone to start{b}
+without preconceptions.{b}
+A blank slate, as it were.{nextpage_button}{name: 1024}{speed: 2}
+There's a difference between{b}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+having a blank slate and{b}
+just being totally clueless.{nextpage_button}{speed: 3}
+Who's dumb idea was that{b}
+anyway?{p}{person: 7 182 181}{name: 1792}
+Well mine.{wait_noanim: 20}{b}{person: 7 190 189}
+Committee chair,{wait: 10} remember?{nextpage_button}{person: 7 189 189}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 6}
+Oh...{p}{person: 7 180 179}{name: 1792}{speed: 4}
+Well,{wait: 10} if you want to know{b}
+that badly,{wait: 10} I suppose...{p}{person: 7 182 181}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{fademusic: 60}{name: 1792}{speed: 3}
+...I could give you permission{b}
+to examine the scene of the{b}
+crime.{nextpage_button}{bgcolor: 2305 8 31}{name: 1024}{speed: 5}
+Good!{wait: 20} That's better.{p}{name: 1792}{speed: 4}
+...{wait_noanim: 25}{person: 7 180 179}{speed: 3}But you can't talk to{b}
+anyone involved with the case.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+What!?{wait: 10} {speed: 3}Then how am I supposed{b}
+to defend...?{p}{name: 1792}
+You let me worry about the{b}
+details,{wait: 10} there.{p}{person: 7 178 177}
+Remember...{wait: 16} I'm in charge of{b}
+this trial.{wait: 16} All of it.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+But you don't want it to{b}
+backfire,{wait: 10} do you?{p}{person: 7 184 183}{name: 1792}{speed: 3}
+Apollo...{p}{speed: 4}
+...{wait: 10}if I am in charge of{b}
+the whole trial...{p}{person: 7 186 185}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 3}
+...{wait: 10}that means the entire{b}
+affair is my responsibility.{wait: 16}{b}
+For good,{wait: 10} or for bad.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{shake: 30 0}
+...!{person: 7 181 181}{p}{person: 7 188 187}{name: 1792}
+Just do what you can.{p}
+And don't worry.{wait: 16} I know what{b}
+I'm doing.{p}{person: 7 187 187}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 5}
+A... Alright.{nextpage_button}{0x51: 3 53}
+{769}{2638}{jmp: 130}{endjmp}{endjmp}{0x23: 0}{music: 255 90}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{8}}
+{bop}{person: 0 0 0}{name: 1024}That magician in the photo,{wait: 16}{b}{speed: 3}
+is that your{speed: 8}...?{p}{0x38: 1}{person: 5 72 69}{name: 1280}{speed: 2}
+My real Daddy,{wait: 8} yup!{wait: 16}{b}{speed: 3}
+Zak Gramarye!{p}{person: 5 76 75}
+He disappeared when I was{b}
+little.{p}{person: 5 68 67}
+I hung that up there so{b}
+I wouldn't forget what{b}
+he looked like.{p}{name: 1024}{person: 5 69 69}{speed: 4}
+...{wait: 16}I see.{p}{color: 2}{speed: 3}
+(She's smiling,{wait: 10} but I'll bet{b}
+that smile doesn't go very{b}
+deep...){color: 0}{nextpage_button}{hidetextbox: 1}{personvanish: 3 1}{person: 7 179 179}{wait: 16}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{9}}
+{bop}{person: 0 0 0}{name: 1024}{color: 2}(No one's practicing the{b}
+piano,{wait: 10} as usual.){nextpage_button}
+(Even calling him a pianist is{b}
+an insult to pianists{b}
+everywhere.){color: 0}{nextpage_button}{person: 5 74 73}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}
+OK,{wait: 12} Apollo!{wait: 16} I'm going to{b}
+guess what you're thinking{b}
+right now!{nextpage_button}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}
+Huh?{wait: 20} {speed: 3}What,{wait: 6} was I making a{b}
+funny face or something?{nextpage_button}{name: 1280}{person: 5 76 75}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+"Argh!{wait: 16} I'm so hungry!"{0x5a}{speed: 8}...{wait: 30}{b}{person: 5 74 73}{speed: 3}
+I'm right, right?{wait: 16} Of course{b}
+I am.{nextpage_button}{name: 1024}{person: 5 73 73}
+There's no{wait: 6} "of course" about{b}
+it! You guessed wrong.{p}
+...Besides,{wait: 10} that's not what{b}
+I'm thinking... it's what{b}
+you're thinking!{p}{name: 1280}{person: 5 82 81}{speed: 2}
+Ack!{wait: 8} How did you do that!?{wait_noanim: 20}{b}{person: 5 72 69}{speed: 3}
+You read my mind,{wait: 12} Apollo!{nextpage_button}{person: 5 67 67}{name: 1024}
+At least you've got that{b}
+pudding.{nextpage_button}{person: 5 68 67}{name: 1280}
+That's right!{nextpage_button}{name: 1024}{speed: 4}
+...{wait: 12}Try not to eat my share,{wait: 10}{b}
+will you?{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{10}}
+{bop}{person: 0 0 0}{name: 1024}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{11}}
+{bop}{person: 0 0 0}{name: 1024}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{12}}
+{bop}{person: 0 0 0}{name: 1024}I can't believe you're using{b}
+this cutting{wait: 6}-a{wait: 6}-person{wait: 6}-apart{b}
+box as...{wait: 20} shelf space.{p}{person: 5 68 67}{name: 1280}
+You know,{wait: 10} I used that trick{b}
+on stage the other night.{p}{person: 5 96 95}{speed: 2}
+Imagine my surprise when I{b}{bgcolor: 2305 8 31}{shake: 30 0}
+pulled one of my shirts out{b}
+of the box!{p}{person: 5 69 69}{name: 1024}{speed: 3}
+...You should really examine{b}
+your props before the show.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{13}}
+{bop}{person: 0 0 0}{name: 1024}{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{14}}
+{bop}{person: 0 0 0}{name: 1024}That hat... Is that a spare?{p}
+It looks exactly like the{b}
+one you always wear.{p}{person: 5 72 69}{name: 1280}
+That's the first rule of{b}
+a professional: be prepared!{p}{person: 5 76 75}
+You know,{wait: 8} I put it on the{b}
+other day...{p}{person: 5 96 95}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+...{wait: 10}{speed: 2}and this strange white{b}
+substance fell all over me!{wait: 16}{b}
+It was like magic!{p}{person: 5 69 69}{name: 1024}{speed: 3}
+Or... like fingerprint powder.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{15}}
+{bop}{person: 0 0 0}{name: 1024}{p}{p}{nextpage_button}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{16}}
+{bop}{name: 1024}A plate of plastic spaghetti{b}
+for displaying in a shop.{p}
+...Where the heck does she{b}
+get this stuff?{p}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{17}}
+{bop}{person: 5 68 67}{0x38: 1}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}Want to have a go at that{b}
+ring,{wait: 10} Apollo?{p}{person: 5 95 95}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+No,{wait: 8} no,{wait: 8} I was just touching{b}
+it.{p}{name: 1280}{person: 5 72 69}{shake: 30 0}{bgcolor: 2305 8 31}
+C'mon,{wait: 8} there's no need to be{b}
+shy!{wait_noanim: 20}{person: 5 96 95}{shake: 30 0} Just{shake: 30 0} slip it{shake: 30 0} on{speed: 8}{0x5a}...{0x59}{speed: 4}{wait: 10} There!{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+Y{bgcolor: 2305 8 31}oooooo{bgcolor: 2305 8 31}wwwww{bgcolor: 2305 8 31}wwwch!{p}{name: 1280}{person: 5 91 90}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+You're way too tense!{wait: 16} You{b}
+gotta loosen up,{wait: 8} there.{nextpage_button}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+The human body wasn't meant{b}
+to bend like that!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{18}}
+{bop}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{19}}
+{bop}{person: 5 96 95}{0x38: 1}{name: 1280}{bgcolor: 2305 8 31}{shake: 30 0}Ooh,{wait: 8} careful there,{wait: 8} Apollo.{p}{name: 1280}{person: 5 68 67}
+A lot of people run into{b}
+that table,{wait: 14} you know.{p}{person: 5 76 75}
+Why,{wait: 10} some client knocked the{b}
+pot clean over the other day.{nextpage_button}{name: 1024}
+...Um,{wait: 8} why not get a more{b}
+sturdy table?{nextpage_button}{name: 1280}{speed: 5}
+Hmm.{wait: 30}{person: 5 68 67}{speed: 3} Maybe the table is{b}
+partially to blame...{p}{person: 5 75 75}{name: 1024}
+...There's no "maybe" to this.{wait: 20}{b}
+That thing is a deathtrap.{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 179 179}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{20}}
+{bop}{person: 7 180 179}{0x38: 1}{name: 1792}{0x5a}{sound: 51 1}{bgcolor: 2305 8 31}...{0x59}The plant.{wait: 20} It intrigues{b}
+you, doesn't it?{p}{person: 7 179 179}{name: 1024}{bgcolor: 2305 8 31}
+Not really.{wait: 20} It's just the only{b}
+thing in here that doesn't{b}
+have some secret function.{nextpage_button}{person: 7 191 191}{name: 1792}{shake: 30 0}{bgcolor: 2305 8 31}
+Ah ha ha.{wait: 30}{person: 7 190 189} No,{wait: 8} no secrets.{b}
+But lots of memories.{nextpage_button}{person: 7 182 181}
+And a name, too.{wait: 20}{b}
+Want to hear it?{p}{person: 7 181 181}{name: 1024}
+Not really.{p}{person: 7 190 189}{name: 1792}
+His name... is Charley.{wait: 20}{b}
+If you were curious.{p}{person: 7 191 191}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 4}{color: 2}
+(Really, I wasn't.){nextpage_button}{speed: 255}{color: 0}{person: 7 179 179}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{21}}
+{bop}{person: 7 180 179}{name: 1792}Ah,{wait: 8} those legal books were{b}
+left by my mentor.{p}{person: 7 184 183}
+Too bad I gave up the practice{b}
+before reading them.{nextpage_button}{person: 7 179 179}{name: 1024}
+There's quite a few magic{b}
+books in there,{wait: 8} too, you know.{p}{person: 7 191 191}{name: 1792}
+Ah{wait: 8} ha{wait: 8} ha.{wait: 30}{b}{person: 7 190 189}
+Those would be Trucy's.{p}
+She'll remember they're there{b}
+eventually,{wait: 8} I'm sure.{p}{person: 7 189 189}{name: 1024}{color: 2}
+(For a moment,{wait: 10} I thought{b}
+Mr. Wright might do magic,{wait: 8}{b}
+too... A scary thought.){nextpage_button}{color: 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{22}}
+{bop}{person: 7 182 181}{name: 1792}Ah,{wait: 6} "presenting", are we?{p}
+I did my fair share of that{b}
+back in the day.{p}
+Showed my attorney's badge{b}
+a lot,{wait: 8} too.{nextpage_button}{person: 5 74 73}{name: 1280}
+He may look cool and calm now,{wait: 10}{b}
+but you should have seen{b}
+him before!{nextpage_button}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 7 191 191}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 1792}
+Ah{wait: 8} ha{wait: 8} ha.{wait: 30}{b}{person: 7 190 189}
+You know me too well,{wait: 12} Trucy.{p}{person: 7 189 189}{name: 1024}{color: 2}
+(I'm glad I provided this{b}
+opportunity for a little{b}
+family bonding.){nextpage_button}{color: 0}{hidetextbox: 3}{special_jmp}{endjmp}
+
+{{23}}
+{bop}{person: 7 180 179}{name: 1792}Ahem.{wait: 16} I wasn't finished{b}
+talking to you,{wait: 12} you know.{p}
+Or rather,{wait: 8} you weren't{b}
+finished asking me questions.{nextpage_button}{person: 7 177 177}{name: 1024}{color: 2}
+(Why try to fight it?{wait: 16}{b}
+I can't win...){nextpage_button}{color: 0}{hidetextbox: 3}{special_jmp}{endjmp}

@@ -1,0 +1,251 @@
+
+
+{{0}}
+{bop}{0x62: 2 2}{0x10: 33280}{0x10: 33281}{0x10: 33282}{0x10: 33283}{0x10: 33284}{0x10: 33285}{0x10: 33286}{0x10: 33287}{0x10: 33288}{0x10: 33289}{0x10: 32860}{0x6b: 1 0 0}{bganim: 98 570}{0x26: 1}{bg: 30}{person: 0 0 0}{name: 0}{fademusic: 0}{music: 35 60}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{0x74: 2 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}June 16,{wait: 10} 11:17 AM{b}
+District Court{b}
+Defendant Lobby No. 2{p}{color: 0}{center_text: 0}{wait: 30}{speed: 255}{name: 1024}{sound: 58 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+Trucy!{bgcolor: 2305 8 31}{wait: 20} Trucy!?{p}{name: 768}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+...{wait: 20}{speed: 4}You move quick,{wait: 8} Apollo.{wait: 30}{b}
+Good show,{wait: 8} good show!{nextpage_button}{hidetextbox: 1}{wait: 40}{0x26: 0}{0x6b: 0 0 0}{bganim: 98 570}{personvanish: 3 2}{person: 5 67 67}{wait: 32}{wait: 20}{name: 1024}{hidetextbox: 0}{speed: 5}
+T...{wait: 16} {speed: 2}Tru{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}cy!{b}
+You're OK!{wait: 12}{b}{speed: 4}
+I-I thought...{sound: 50 1}{shake: 30 2}{bgcolor: 2305 8 31}{p}{speed: 6}{shake: 30 0}
+*sniff*{shake: 30 0} *sob*{shake: 30 0} *bawl*{wait: 20}{nextpage_button}{person: 5 82 81}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+D-{wait: 8}Don't cry,{wait: 12} Apollo!{nextpage_button}{person: 5 81 81}{name: 1024}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Grr...{wait: 20} {speed: 2}Those good-for-nothing{b}
+gangsters!{p}{bgcolor: 2305 8 31}{shake: 30 0}
+There are some things you{b}
+just don't do!{p}{sound: 26 1}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 3}
+I'm pressing charges!{wait: 30}{p}{person: 5 96 95}{name: 1280}{speed: 2}
+Wait!{wait: 12}{b}{speed: 3}
+Just calm down,{wait: 8} Apollo!{p}{speed: 6}
+Or else{speed: 8}...{0x5a}{nextpage_button}{hidetextbox: 1}{wait: 30}{fademusic: 45}{wait: 20}{0x8e: 5 87}{sound: 186 1}{0x63}{0x8e: 5 109}{0x63}{0x8e: 5 110}{0x63}{0x8e: 5 111}{0x63}{0x8e: 5 112}{0x63}{0x8e: 5 113}{0x63}{0x8e: 5 114}{0x63}{0x8e: 5 115}{0x63}{0x8e: 5 116}{0x63}{0x8e: 5 117}{0x63}{0x8e: 5 118}{0x63}{0x8e: 5 119}{0x63}{0x8e: 5 120}{0x63}{0x8e: 5 121}{0x63}{0x8e: 5 122}{0x63}{0x8e: 5 123}{0x63}{0x8e: 5 124}{0x63}{0x8e: 5 125}{0x63}{0x8e: 5 126}{0x63}{0x8e: 5 127}{0x63}{0x8e: 5 128}{0x63}{0x8e: 5 129}{0x63}{0x8e: 5 130}{0x63}{0x63}{fademusic: 0}{music: 22 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{wait: 60}{person: 5 106 106}{name: 1024}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+Aaaaaugh!{wait: 20}{b}
+Wh-Wh-{wait: 12}{bgcolor: 2305 8 31}{shake: 30 1}What the heck is that!?{p}{person: 5 107 106}{name: 1280}{speed: 3}
+Surprised?{p}
+This is one of my best{b}
+tricks!{wait: 16} The Amazing{wait: 8} Mr. Hat!{nextpage_button}{person: 5 108 106}{name: 11776}{soundtoggle: 0}{color: 3}
+You look mahvelous,{wait: 16} dahling!{color: 0}{p}{soundtoggle: 1}{person: 5 106 106}{name: 1024}{speed: 8}
+...{p}{person: 5 107 106}{name: 1280}{speed: 3}
+He's a big hit on stage{b}
+at the Wonder Bar!{nextpage_button}{person: 5 108 106}{name: 11776}{soundtoggle: 0}{color: 3}
+Yes.{wait: 16} I am a big hit.{wait: 16} Ha ha ha.{color: 0}{nextpage_button}{soundtoggle: 1}{hidetextbox: 1}{hidetextbox: 1}{personvanish: 4 1}{wait: 16}{personvanish: 3 1}{person: 5 74 73}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{name: 1280}{hidetextbox: 0}{speed: 2}
+Well,{wait: 14} what do you think?{wait: 10}{b}
+Do ya like it!?{nextpage_button}{person: 5 81 81}{name: 1024}{fademusic: 30}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}{speed: 2}
+You mean you...{wait: 16} {speed: 3}Trucy!{wait: 20} There{b}
+are some things you just{b}
+don't do!{p}{speed: 5}
+I{speed: 10}...{shake: 30 0}{bgcolor: 2305 8 31}{wait: 30}{b}{sound: 26 1}{speed: 3}
+I'm pressing charges!{nextpage_button}{person: 5 91 90}{name: 1280}{sound: 27 1}{shake: 30 2}{bgcolor: 2305 8 31}
+Apollo!{wait: 16} Now is not the time to{b}
+be threatening me!{p}{person: 5 96 95}{speed: 3}
+It's you who's being{b}
+threatened here!{b}{fademusic: 0}{music: 18 0}{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Huh...?{p}{person: 5 91 90}{name: 1280}{speed: 3}
+Remember what you said to{b}
+Wocky's father yesterday?{p}
+You promised you'd save{b}
+his son!{nextpage_button}{person: 5 90 90}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+B-{wait: 8}But that testimony was{b}
+rock solid!{p}
+What are you suggesting I do?{p}{name: 1280}{person: 5 91 90}
+Look,{wait: 8} once the judge declares{b}
+a verdict,{wait: 8} it's all over.{p}
+If I can use my talent to{wait_noanim: 25}{b}{person: 5 96 95}{person: 5 96 95}
+stop that from happening,{wait: 8}{b}
+I will!{nextpage_button}{person: 5 95 95}{name: 1024}{speed: 6}
+Trucy,{wait: 8} no more staged{b}
+abductions,{wait: 8} please...{p}{person: 5 96 95}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+I'm not talking about magic,{wait: 8}{b}
+Apollo!{p}{speed: 3}
+I know when the witness isn't{b}
+confident{speed: 8}...{wait: 12} {speed: 3}I can {color: 1}perceive{color: 0}{b}
+what he's feeling!{p}{person: 5 86 85}{speed: 4}
+It might not mean anything,{0x5a}{wait: 8}{b}{0x59}
+but it's all we've got{speed: 8}...{nextpage_button}{person: 5 85 85}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}
+You can see{speed: 8}...{wait: 12} {speed: 5}what he's{wait: 6}{b}
+"feeling"?{p}{person: 5 96 95}{name: 1280}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Think back,{wait: 8} Apollo!{p}{speed: 4}
+Think back to the times when{b}
+there was a contradiction in{b}
+his testimony!{wait: 12} {shake: 30 0}{bgcolor: 2305 8 31}{wait: 8}{speed: 2}All the times!{nextpage_button}{person: 5 95 95}{name: 1024}{speed: 3}
+All the times there was a{b}
+contradiction...?{wait: 1}{0x6b: 0 1 0}{bganim: 98 357}{fullscreen_text}{0x50: 20}{special_jmp}{65535}{b}{2args_choice_jmp: 129 130}{endjmp}
+
+{{1}}
+{bop}{name: 1024}{person: 5 95 95}{hidetextbox: 0}{speed: 3}Well,{wait: 8} I think I remember{b}
+them,{wait: 8} sure...{p}{name: 1280}{person: 5 76 75}
+There were two times when he{b}
+made statements he wasn't{b}
+confident in.{p}{person: 5 86 85}{speed: 4}
+And each time,{wait: 8} there was a{b}{sound: 52 1}{bgcolor: 2305 8 31}
+contradiction.{nextpage_button}{jmp: 131}{endjmp}
+
+{{2}}
+{bop}{person: 5 95 95}{name: 1024}{hidetextbox: 0}Um{speed: 8}...{wait: 12} {speed: 4}Actually,{wait: 8} I don't{b}
+remember them exactly.{nextpage_button}{person: 5 68 67}{name: 1280}
+Good thing I do!{p}{name: 1280}{person: 5 76 75}
+There were two times when he{b}
+made statements he wasn't{b}
+confident in.{p}{person: 5 86 85}{speed: 4}
+And each time,{wait: 8} there was a{b}{sound: 52 1}{bgcolor: 2305 8 31}
+contradiction.{nextpage_button}{jmp: 131}{endjmp}
+
+{{3}}
+{bop}{hidetextbox: 1}{fademusic: 30}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 27}{person: 30 674 673}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 7680}{hidetextbox: 0}{0x59}{fademusic: 0}{music: 2 60}In his hand he held{0x5a}{speed: 10}...{wait: 30}{0x59}{speed: 3} yes,{wait: 15}{b}
+a pistol!{wait: 16} It was pointed at{b}
+the man pulling the stand.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 27}{person: 30 674 673}{0x5a}{bgcolor: 770 1 31}{wait: 15}{name: 7680}{hidetextbox: 0}{0x59}
+Tossing the pistol aside,{wait: 8} he{b}
+fled from the scene.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 30}{person: 5 86 85}{0x5a}{0x5f: 4 1 1}{bgcolor: 772 1 31}{wait: 25}{wait: 30}{name: 1280}{hidetextbox: 0}{0x59}{speed: 4}
+He said the man tossed aside{b}
+a pistol...{p}{speed: 3}
+But it turned out he wasn't{b}
+sure,{wait: 8} and sure enough,{wait: 8} there{b}
+was a contradiction.{nextpage_button}{name: 1024}{speed: 3}
+Well,{wait: 8} that's true,{wait: 8} but how{b}
+does that help us?{p}{person: 5 76 75}{name: 1280}
+Didn't you notice anything?{p}{name: 1280}
+Whenever he made a statement{b}
+he wasn't confident in...{p}{person: 5 68 67}{speed: 3}
+...he displayed a certain{b}{color: 1}
+habit{color: 0}!{nextpage_button}{hidetextbox: 1}{wait: 20}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 27}{person: 30 674 673}{0x5a}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 7680}{hidetextbox: 0}{0x59}
+In his hand he held{speed: 10}{0x5a}...{wait: 30}{0x59}{speed: 3} yes,{wait: 8}{b}
+a pistol!{wait: 20} It was pointed at{b}
+the man pulling the stand.{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 201}{person: 0 0 0}{bgcolor: 770 1 31}{wait: 15}{wait: 40}{name: 1280}{hidetextbox: 0}
+Did you see it? The very{b}
+moment he said the word{b}
+"pistol"...{p}
+...his fingers got all tense,{wait: 12}{b}
+and he fiddled with the corner{b}
+of a page in his book!{nextpage_button}{fademusic: 30}{bg: 30}{person: 5 67 67}{name: 1024}{0x5f: 4 1 1}{bgcolor: 2305 8 31}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 44 1}{shake: 30 2}{speed: 2}
+How'm I supposed to see that!?{wait: 16}{p}{person: 5 96 95}{name: 1280}{speed: 2}
+Well,{wait: 8} I could see it.{b}{0x5a}{p}{person: 5 86 85}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 3}
+How else do you think Daddy{b}
+went seven years without{b}
+losing a game of poker?{nextpage_button}{person: 5 67 67}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+Wha--{bgcolor: 2305 8 31}{wait: 16}!?{nextpage_button}{hidetextbox: 1}{fademusic: 0}{music: 29 90}{bgcolor: 516 1 31}{wait: 25}{person: 0 0 0}{bg: 82}{bgcolor: 260 1 31}{wait: 25}{name: 1280}{hidetextbox: 0}{speed: 3}
+I always sat next to Daddy{b}
+during big matches.{p}{hidetextbox: 1}{bgcolor: 513 1 31}{wait: 7}{0x75}{bop}{bop}{endjmp}{b}{0x75}{color: 0}{bop}{bop}{0x75}{pause}{0x71: 0 0 117}{music: 139 0}{bop}{0x75}{b}
+{16384}{bop}{bop}{0x75}{b}{color: 0}{bop}{bgcolor: 258 1 31}{wait: 15}{0x75}{b}{b}{bop}{bop}{0x75}{sound: 0 0}{bop}{bgcolor: 513 1 31}{wait: 7}{0x75}{pause}{0x4a}{bop}{bop}{0x75}{music: 87 0}{bop}{0x75}{b}{b}{bop}{bop}{0x75}{b}{color: 0}{bop}{bgcolor: 258 1 31}{wait: 15}{0x75}{b}{b}{bop}{bop}{0x75}{sound: 0 0}{bop}{wait: 40}{hidetextbox: 0}
+I could see what his opponents{b}
+were{wait: 6} feeling!{p}{hidetextbox: 1}{bganim: 287 0}{bganim: 283 0}{0x75}{sound: 0 0}{bop}{wait: 90}{bgcolor: 516 1 31}{wait: 25}{0x75}{bop}{bop}{b}{p}{bg: 30}{person: 5 67 67}{bgcolor: 258 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}
+You mean that's how Mr. Wright{b}
+won all those games?{p}{person: 5 76 75}{name: 1280}
+It's not cheating,{wait: 6} officially.{wait: 16}{b}
+I wasn't looking at their{b}
+hands or anything.{p}{person: 5 68 67}
+And I wasn't there all the{b}
+time,{wait: 8} either.{p}
+Daddy's quite good at poker,{wait: 8}{b}
+after all.{wait_noanim: 30}{person: 5 74 73}{speed: 4} But not good enough{b}
+to go undefeated that long!{nextpage_button}{person: 5 73 73}{name: 1024}{fademusic: 60}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Great,{wait: 14} so he cheated.{wait: 16} {speed: 4}But{b}
+what does that do for us?{p}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}{color: 2}
+(I don't believe this...){color: 0}{p}{person: 5 96 95}{name: 1280}{speed: 3}
+You have to listen to his{b}
+testimony one more time!{0x5a}{wait: 20}{b}{shake: 30 0}{bgcolor: 2305 8 31}{0x59}
+No{speed: 8}...{wait: 12} {speed: 2}scratch that!{nextpage_button}{person: 5 86 85}{speed: 3}
+You have to watch his{b}
+testimony!{wait: 10} {color: 1}Perceive{color: 0} the{b}
+truth!{nextpage_button}{name: 1024}{sound: 52 1}{bgcolor: 2305 8 31}
+"Watch" a testimony?{wait: 12}{b}{speed: 5}
+"{color: 1}Perceive{color: 0}" the truth?{fademusic: 0}{music: 18 0}{nextpage_button}{bgcolor: 2305 8 31}{sound: 45 1}{shake: 30 1}{speed: 2}
+The only thing I'm perceiving{b}
+is that I'm going to lose.{p}{name: 1280}{speed: 3}
+Not true!{nextpage_button}{person: 5 95 95}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 1}{speed: 2}
+...!{bgcolor: 2305 8 31}{nextpage_button}{person: 5 68 67}{name: 1280}{speed: 4}
+Daddy said so.{p}{speed: 3}
+He said you have the power,{wait: 8}{b}
+Apollo.{nextpage_button}{person: 5 67 67}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}
+Mr. Wright said that?{p}{color: 2}
+(Watch the testimony{speed: 8}...{wait: 20}{b}{speed: 4}{color: 1}
+Perceive{color: 2} his true feelings{speed: 8}...{wait: 10}{b}{speed: 4}
+Is she serious!?){color: 0}{p}{person: 5 96 95}{name: 1280}{speed: 3}
+Time's up!{wait_noanim: 30} {person: 5 93 92}{speed: 4}Sorry I can't think{b}
+of any other way out of this{b}
+one,{wait: 8} Apollo.{nextpage_button}{person: 5 95 95}{name: 1024}{speed: 3}{color: 2}
+(What was that she said{b}
+before the trial started?){color: 0}{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{person: 5 67 67}{0x5f: 3 1 31}{bgcolor: 770 1 31}{wait: 15}{name: 1024}{hidetextbox: 0}
+Huh...{wait: 20}{b}
+Mr. Wright's not here today?{p}{person: 5 76 75}{name: 1280}
+He said his old foot injury{b}
+was acting up.{nextpage_button}{person: 5 74 73}{name: 1280}
+Yes,{wait: 8} he smiled when he said{b}
+we'd be fine{wait: 6} "as long as{b}
+you're there,{wait: 8} Trucy".{nextpage_button}{hidetextbox: 1}{sound: 49 1}{bgcolor: 1025 1 31}{wait: 1}{bg: 4095}{person: 5 73 73}{0x5f: 4 1 1}{bgcolor: 769 1 31}{wait: 7}{name: 1024}{hidetextbox: 0}{color: 2}
+(Is this what he meant by{b}
+us being{wait: 8} "fine"{wait: 10}{speed: 8}...?){p}{person: 5 67 67}{speed: 4}
+(Well...{wait: 20} methods aside,{wait: 8} she{b}
+did avoid one guilty verdict{b}
+already today.){p}
+(Time to show this court what{b}
+I'm made of!{wait: 16} Get ready for{b}
+Justice!){color: 0}{nextpage_button}{hidetextbox: 1}{bgcolor: 513 0 8}{wait: 1}{bg: 30}{person: 5 67 67}{fademusic: 60}{bgcolor: 260 1 8}{wait: 25}{name: 1024}{hidetextbox: 0}{speed: 5}
+...{wait: 20}Let's do it.{p}{person: 5 72 69}{name: 1280}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 4}
+Apollo...{nextpage_button}{name: 1024}
+You know,{wait: 8} I'm starting{b}
+to think I can do this.{p}{person: 5 72 69}{name: 1280}{speed: 3}
+...{wait: 20}I knew you could do it{b}
+all along!{p}{person: 5 74 73}
+Oh,{wait: 16} one more thing.{nextpage_button}{person: 5 73 73}{name: 1024}
+?{p}{hidetextbox: 1}{0x8e: 5 87}{sound: 186 1}{0x63}{0x8e: 5 109}{0x63}{0x8e: 5 110}{0x63}{0x8e: 5 111}{0x63}{0x8e: 5 112}{0x63}{0x8e: 5 113}{0x63}{0x8e: 5 114}{0x63}{0x8e: 5 115}{0x63}{0x8e: 5 116}{0x63}{0x8e: 5 117}{0x63}{0x8e: 5 118}{0x63}{0x8e: 5 119}{0x63}{0x8e: 5 120}{0x63}{0x8e: 5 121}{0x63}{0x8e: 5 122}{0x63}{0x8e: 5 123}{0x63}{0x8e: 5 124}{0x63}{0x8e: 5 125}{0x63}{0x8e: 5 126}{0x63}{0x8e: 5 127}{0x63}{0x8e: 5 128}{0x63}{0x8e: 5 129}{0x63}{0x8e: 5 130}{0x63}{0x63}{hidetextbox: 0}{person: 5 107 106}{name: 1280}{fademusic: 0}{music: 16 0}{speed: 3}
+Try to cover for Mr. Hat{b}
+as best you can!{p}{person: 5 108 106}{name: 11776}{soundtoggle: 0}{color: 3}
+I just flew in from the{b}
+coast,{wait: 8} and boy are my arms{b}
+tired!{color: 0}{p}{soundtoggle: 1}{person: 5 106 106}{name: 1024}{speed: 5}
+Right...{b}{color: 2}
+(*sigh*){color: 0}{nextpage_button}{hidetextbox: 1}{wait: 40}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{0x26: 1}{endjmp}
+
+{{4}}
+{bop}{0x26: 0}{person: 0 0 0}{bg: 4095}{bgcolor: 258 1 31}{wait: 15}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}June 16,{wait: 8} 11:40 AM{b}
+District Court{b}
+Courtroom No. 4{nextpage_button}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{hidetextbox: 1}{bg: 24}{person: 0 0 0}{animation: 52 1}{animation: 53 1}{animation: 54 1}{animation: 62 1}{animation: 63 1}{animation: 81 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{fademusic: 0}{music: 1 0}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+Court is now back in session.{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Right!{wait: 16} We're fine!{nextpage_button}{bg: 29}{person: 10 258 258}{name: 2560}{speed: 6}
+..{speed: 8}..{speed: 10}..{wait: 30}{b}{person: 10 263 262}{speed: 3}
+Ahem.{nextpage_button}{person: 10 265 264}
+I'd like to say to the young{b}
+lady standing next to you,{b}
+Mr. Justice...{nextpage_button}{bg: 28}{person: 5 101 100}{name: 1280}{sound: 51 1}{bgcolor: 2305 8 31}
+Oh,{wait: 8} you mean me?{nextpage_button}{bg: 29}{person: 10 263 262}{name: 2560}
+Don't you have anything to{b}
+report?{p}
+Anything...{wait: 20} concerning the{b}
+mysterious phantom in the{b}
+silk top hat?{nextpage_button}{bg: 25}{person: 4 59 58}{name: 1024}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Ah!{wait: 16} Right!{wait: 16} Him! Don't worry{b}
+about him.{wait_noanim: 30} {person: 4 48 47}I settled that.{nextpage_button}{bg: 29}{person: 10 265 264}{name: 2560}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+You{wait: 6} "settled"{wait: 6} that...?{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}{shake: 30 0}{bgcolor: 2305 8 31}{speed: 2}
+Erm,{wait: 8} yes,{wait: 8} it was an...{wait_noanim: 30}{b}{person: 4 50 49}
+out of court settlement!{wait: 16}{b}{person: 4 51 51}
+Right.{wait: 40}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 6 145}{wait: 32}{person: 6 149 148}{name: 13568}{hidetextbox: 0}{speed: 4}
+Perhaps Fr{1988}ulein would have{b}
+us believe it was nothing{b}
+more than a passing dream...{p}{speed: 3}
+...{wait: 20}a fantastic illusion,{wait_noanim: 30}{b}{person: 6 149 148}
+now you see it,{wait: 8} now you don't.{wait: 16}{b}
+Am I right?{nextpage_button}{bg: 28}{person: 5 105 104}{name: 1280}{speed: 4}
+...{wait: 20}I think he's on to me.{nextpage_button}{name: 1024}{speed: 3}
+I wish he would stop being{b}
+so...{wait: 20} so cool.{nextpage_button}{bg: 26}{person: 6 151 150}{name: 13568}
+Let us dispense with these{b}
+niceties and get straight to{b}
+the matter.{p}{hidetextbox: 1}{swoosh: 2 4096 30 685}{wait: 32}{person: 30 685 685}{hidetextbox: 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+What are your plans for our{b}
+gifted witness?{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 4 58}{wait: 32}{person: 4 59 58}{name: 1024}{hidetextbox: 0}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}
+R-{wait: 8}Right{speed: 7}...{wait: 16} {speed: 3}The defense would{b}
+like to request another{b}
+cross-examination!{nextpage_button}{person: 4 43 42}{speed: 5}
+B-Because...{wait: 20} {speed: 3}Because I forgot{wait_noanim: 30}{b}{person: 4 53 52}
+to ask something.{nextpage_button}{fademusic: 30}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 29}{person: 10 259 258}{name: 2560}{hidetextbox: 0}
+There was no issue with the{b}
+witness's previous testimony.{p}{person: 10 263 262}
+I will grant your request,{wait: 8}{b}
+however.{wait: 16} But this court will{b}
+not permit stalling for time!{nextpage_button}{bg: 25}{person: 4 37 36}{name: 1024}
+...{wait: 20}Understood,{wait: 8} Your Honor.{nextpage_button}{bg: 28}{person: 5 103 102}{name: 1280}
+Don't forget,{wait: 7} Apollo!{nextpage_button}{bg: 25}{person: 4 58 58}{hidetextbox: 1}{swoosh: 0 4096 30 685}{wait: 32}{person: 30 685 685}{hidetextbox: 0}{name: 1280}{speed: 3}
+When he isn't sure about{b}
+something,{wait: 8} he has a habit of{b}
+fiddling with his book!{nextpage_button}{hidetextbox: 1}{wait: 20}{testimony_animation: 1}{special_jmp}{endjmp}

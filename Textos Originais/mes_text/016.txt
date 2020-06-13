@@ -1,0 +1,279 @@
+
+
+{{0}}
+{bop}{0x62: 4 3}{0x25: 1}{0x26: 0}{bg: 257}{person: 0 0 0}{name: 0}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{0x74: 2 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}April 19, 11:21 AM{b}
+District Court{b}
+Defendant Lobby No. 2{nextpage_button}{color: 0}{center_text: 0}{wait: 30}{speed: 255}{hidetextbox: 1}{fademusic: 0}{music: 45 0}{personvanish: 3 1}{person: 31 712 711}{0x5a}{wait: 16}{hidetextbox: 0}{0x59}{name: 7936}{bgcolor: 2305 8 31}
+Very impressive,{wait: 8} Mr. Wright.{b}
+I have to say,{wait: 8} I expected{b}
+nothing less.{nextpage_button}{person: 31 704 704}{name: 1792}{speed: 4}
+...We've only just begun.{p}{speed: 3}
+I was hoping you could tell{b}
+me a bit more about what{b}
+happened,{wait: 8} actually.{nextpage_button}{person: 31 709 708}{name: 7936}{speed: 4}
+I did not think you would{b}
+believe me if I told you.{p}{speed: 3}
+Better that you discovered{b}
+the truth for yourself.{nextpage_button}{person: 31 712 711}{speed: 4}
+I was thinking of you,{wait: 15}{b}
+you know.{nextpage_button}{person: 31 711 711}{name: 1792}{speed: 2}
+I think we need less thinking{b}{shake: 30 0}{bgcolor: 2305 8 31}
+and more talking!{nextpage_button}{person: 31 704 704}{speed: 3}
+That night in the hospital{speed: 6}...{wait: 16}{b}{speed: 3}
+What really happened?{nextpage_button}{person: 31 705 704}{name: 7936}{speed: 4}
+Ah,{wait: 10} the way your eyes gleam,{wait: 15}{b}
+Mr. Wright...{nextpage_button}{person: 31 709 708}{sound: 52 1}{bgcolor: 2305 8 31}
+...you'll scare Trucy.{nextpage_button}{person: 31 708 708}{name: 1792}{speed: 4}{color: 2}
+(Speaking of which,{wait: 8} where is{b}
+she?){nextpage_button}{color: 0}{person: 31 705 704}{name: 7936}
+You have seen the problem{b}{showphoto: 214}
+yourself: the letter.{nextpage_button}{person: 31 704 704}{name: 1792}{speed: 5}
+The "{color: 1}one shot in the forehead{color: 0}"{wait: 30}{b}{speed: 3}
+one,{wait: 12} right?{nextpage_button}{person: 31 709 708}{name: 7936}
+Yes,{wait: 15} and the{wait: 6} {color: 1}reason{color: 0} he speaks{b}
+of.{p}{person: 31 709 708}
+I could not deny my mentor's{b}
+wishes...{wait: 15} even if it meant{b}
+my own death.{nextpage_button}{name: 1792}{speed: 4}
+Why not...?{nextpage_button}{removephoto}{person: 31 705 704}{name: 7936}{speed: 3}
+This is something I will not{b}
+say... {speed: 4}for now,{wait: 10} at least.{nextpage_button}{person: 31 706 706}{name: 1792}{color: 2}
+(What's this{wait: 6} "for now"{b}
+business?){nextpage_button}{color: 0}{person: 31 709 708}{name: 7936}
+I have done many things in{b}
+my life, some well,{wait: 16} some{b}
+poorly.{p}{speed: 3}
+But this is a cross we must{b}
+bear alone to our graves.{nextpage_button}{person: 31 704 704}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+..."{color: 1}We{color: 0}"?{fademusic: 120}{p}{person: 31 705 704}{name: 7936}{speed: 3}
+You wanted to know about the{b}
+night of the incident?{nextpage_button}{name: 1792}{color: 2}
+(Finally... This guy sure{b}
+likes to take his time getting{b}
+to the important stuff.){p}{color: 0}{person: 31 709 708}{name: 7936}
+Of course,{wait: 15} I had no intention{b}
+of shooting my mentor.{p}
+I snuck into his room that{b}
+night at the appointed time.{nextpage_button}{hidetextbox: 1}{fademusic: 0}{music: 29 120}{bgcolor: 516 1 31}{wait: 25}{person: 0 0 0}{bg: 4095}{bgcolor: 257 8 31}{wait: 1}{hidetextbox: 0}{speed: 4}
+And found there upon his{b}
+bedside table two pistols.{bgcolor: 513 0 8}{wait: 1}{bg: 169}{bgcolor: 260 1 8}{wait: 25}{nextpage_button}{hidetextbox: 1}{wait: 60}{hidetextbox: 0}{name: 1792}{person: 0 0 0}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+...{wait: 12}"{color: 1}Two{color: 0}"?{nextpage_button}{name: 7936}
+Yes.{wait: 20} {speed: 3}The one I had used{b}
+on stage...{p}
+...{wait: 16}and the one that had been{b}
+used by my partner,{wait: 8} Valant.{nextpage_button}{name: 1792}{speed: 4}
+Oh,{wait: 20} for the "Zak & Valant's{b}
+Quick-Draw" thing?{nextpage_button}{hidetextbox: 1}{wait: 66}{bgcolor: 516 1 31}{wait: 25}{bg: 257}{person: 31 708 708}{bgcolor: 258 1 31}{wait: 15}{person: 31 709 708}{name: 7936}{hidetextbox: 0}{speed: 5}
+My mentor...{wait: 16} {speed: 3}had the look of{b}
+one sleeping.{p}
+I stood by his bedside,{wait: 16}{b}
+hearing only the light{b}
+sound of his breathing.{p}{speed: 4}
+...{wait: 16}Then I took the pistol{b}
+into my hand.{p}{person: 31 705 704}{speed: 3}
+I cannot deny that my resolve{wait: 30}{speed: 3}{b}{person: 31 705 704}
+faltered then,{wait: 12} for a moment.{nextpage_button}{person: 31 704 704}{name: 1792}{speed: 5}
+You "faltered"{speed: 8}...?{wait: 30} {sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}You mean{b}
+you thought about shooting{b}
+him?{nextpage_button}{person: 31 709 708}{name: 7936}{speed: 3}
+Recall {color: 1}there was a reason I{b}
+could not refuse{color: 0} his request.{p}{person: 31 705 704}{speed: 4}
+His last such request{speed: 8}{0x5a}...{wait: 30}{b}{person: 31 707 706}{speed: 3}
+though not his first.{nextpage_button}{person: 31 706 706}{name: 1792}{speed: 4}
+So...{wait: 16} there were other{b}
+requests you "couldn't{b}
+refuse" before?{nextpage_button}{person: 31 709 708}{name: 7936}{speed: 5}
+To be honest, I've not always{b}
+been steadfast...{wait: 15} {speed: 3}and I fear{b}
+I've brought pain upon Trucy.{nextpage_button}{name: 1792}{color: 2}
+(Was Magnifi {color: 1}coercing{color: 2} his{b}
+disciples somehow?){nextpage_button}{speed: 4}
+(Just what was going on in{b}
+Troupe Gramarye...?){nextpage_button}{color: 0}{name: 7936}
+Yet...{wait: 30} {person: 31 705 704}{speed: 3}in the end,{wait: 10} I did not{b}
+shoot him.{p}
+Instead,{wait_noanim: 20} {person: 31 710 710}{fademusic: 30}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}I turned and shot{b}
+the clown!{person: 31 711 711}{p}{person: 31 705 704}
+I took the pistol I had fired{b}
+and placed it in my pocket.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{speed: 5}
+In your pocket?{p}{person: 31 705 704}{name: 7936}{speed: 3}
+I believe if you examine the{b}
+bullet in the clown's head...{p}
+...you will find it to be{b}
+different than the one in my{b}
+mentor.{nextpage_button}{person: 31 709 708}{0x5a}{speed: 5}
+The...{wait: 23}{0x59}{b}{shake: 30 0}
+What were those called?{nextpage_button}{person: 31 708 708}{name: 1792}
+"Rifling marks".{nextpage_button}{person: 31 705 704}{name: 7936}{fademusic: 0}{music: 45 0}
+Yes.{wait: 20} Well,{wait: 8} that is all I have{b}
+to tell you{0x5a}{speed: 8}...{0x59} {speed: 4}concerning the{b}
+case.{nextpage_button}{person: 31 704 704}{name: 1792}{speed: 3}
+"Concerning the case"{speed: 6}...?{p}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 4}
+You mean,{wait: 15} there's something{b}
+else you can tell me?{nextpage_button}{person: 31 710 710}{name: 7936}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Heh...{wait: 20} Ha{wait: 10} ha{wait: 10} ha!{b}{person: 31 711 711}{wait: 30}{person: 31 705 704}{speed: 3}
+You are a fascinating man,{wait: 15}{b}
+Mr. Wright.{nextpage_button}{name: 1792}{speed: 7}
+...Thanks?{nextpage_button}{person: 31 705 704}{name: 7936}{speed: 4}
+Yes{0x5a}...{wait: 26} {speed: 3}{0x59}there is something.{nextpage_button}{person: 31 709 708}{fademusic: 30}{sound: 52 1}{bgcolor: 2305 8 31}{shake: 30 0}
+My mentor...{wait: 16} his eyes opened.{nextpage_button}{name: 1792}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+What!?{wait: 30} {speed: 4}Magnifi Gramarye...?{p}{person: 31 705 704}{name: 7936}{speed: 3}
+The old devil.{wait: 16}{b}
+He was not asleep,{wait: 10} you see.{p}{person: 31 705 704}
+...{wait: 16}Of course,{wait: 8} the gunshot{b}
+would have woken him anyway.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bg: 173}{person: 0 0 0}{fademusic: 0}{music: 29 120}{bgcolor: 258 1 31}{wait: 15}{hidetextbox: 0}{speed: 3}
+And there we had our last{b}
+discussion as mentor and{b}
+pupil.{nextpage_button}{speed: 5}
+It was not a long discussion.{wait: 30}{b}{speed: 3}
+Maybe five, ten minutes or so.{nextpage_button}{hidetextbox: 1}{wait: 40}{bgcolor: 514 1 31}{wait: 15}{bg: 257}{person: 31 708 708}{bgcolor: 258 1 31}{wait: 15}{name: 1792}{hidetextbox: 0}{speed: 4}
+What did you talk about...?{nextpage_button}{person: 31 710 710}{name: 7936}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}
+Ha ha.{wait: 25} Mr. Wright.{wait: 30}{b}{person: 31 705 704}
+...Did I not just tell you?{nextpage_button}{person: 31 707 706}{speed: 4}
+It does not concern this case.{p}{fademusic: 120}{person: 31 706 706}{name: 1792}{color: 2}{speed: 4}
+(Zak Gramarye... He seems{b}
+pretty steadfast to me... or{b}
+maybe just stubborn.){p}{color: 0}{name: 11008}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Mr. Wright!{wait: 20} {speed: 3}Your presence is{b}
+requested in the courtroom!{p}{person: 31 705 704}{name: 7936}{speed: 3}
+Once again,{wait: 8} I am in your{b}
+hands.{nextpage_button}{person: 31 708 708}{name: 1792}
+...{wait: 16}Right. Let's get back{b}
+in there.{nextpage_button}{hidetextbox: 1}{fademusic: 60}{bgcolor: 516 1 31}{wait: 25}{0x26: 1}{endjmp}
+
+{{1}}
+{bop}{0x26: 0}{person: 0 0 0}{bg: 4095}{bgcolor: 258 1 31}{wait: 15}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{hidetextbox: 0}{color: 3}April 19, 11:37 AM{b}
+District Court{b}
+Courtroom No. 7{nextpage_button}{color: 0}{center_text: 0}{speed: 255}{wait: 30}{fademusic: 0}{music: 46 0}{bg: 36}{person: 10 259 258}{name: 2560}
+Court is now back in session.{nextpage_button}{bg: 33}{person: 23 515 514}{name: 13568}{showphoto: 233}
+During our recess,{wait: 8} a bullet{b}
+was found in and dug out from{b}
+the clown's head.{nextpage_button}{bganim: 98 579}{bg: 36}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Well!{wait: 12} This is news!{wait: 30}{b}
+And the rifling marks{0x5a}...?{nextpage_button}{bg: 33}{person: 23 510 509}{name: 13568}
+There wasn't time to do a{b}
+detailed analysis.{p}{showphoto: 233}
+Though they did find the{b}
+weapon type matches the{b}
+murder weapon.{nextpage_button}{bg: 36}{name: 2560}{person: 10 266 266}
+Hmm{speed: 6}...{wait: 30}{person: 10 259 258}{speed: 3} Well,{wait: 12} that's not very{b}
+conclusive, is it?{nextpage_button}{bganim: 98 579}{bg: 33}{person: 23 515 514}{name: 13568}
+Which is why I'm about to call{b}{person: 23 513 512}
+my very decisive witness.{nextpage_button}{bg: 32}{person: 21 470 469}{name: 1792}{sound: 52 1}{bgcolor: 2305 8 31}{speed: 5}
+Your "decisive witness"?{wait_noanim: 20}{b}{person: 21 468 467}
+How many times have I heard{b}
+those words{0x5a}{speed: 8}...{nextpage_button}{person: 21 470 469}{name: 1792}
+...{wait: 14}{speed: 3}though they often turn out{b}
+to be far less decisive than{b}
+you think.{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 23 509}{wait: 32}{person: 23 510 509}{name: 13568}{hidetextbox: 0}{speed: 4}
+...Oh,{wait: 10} don't worry on my{b}
+account.{wait: 16} I'm quite confident{b}
+this witness will do the job.{p}
+After all,{wait: 6} he is intimately{b}
+acquainted with the players{b}
+in our little production...{nextpage_button}{person: 23 519 518}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+...being the other half of{b}
+Troupe Gramarye's famous{b}
+duo... "Zak & Valant"!{nextpage_button}{bg: 32}{person: 21 474 474}{name: 1792}{speed: 5}{color: 2}
+(Valant Gramarye...){p}{person: 21 467 467}{speed: 4}
+(So,{wait: 12} we get to meet the Great{b}
+Magnifi's {color: 1}other disciple{color: 2}!){nextpage_button}{color: 0}{hidetextbox: 1}{fademusic: 60}{bgcolor: 514 1 31}{wait: 15}{endjmp}
+
+{{2}}
+{bop}{bg: 34}{person: 25 573 573}{bgcolor: 258 1 31}{wait: 15}{person: 25 573 573}{sound: 148 1}{wait: 10}{person: 25 591 573}{wait: 15}{person: 25 573 573}{wait: 4}{person: 25 598 573}{wait: 2}{person: 25 592 573}{wait: 6}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 2}{person: 25 596 573}{wait: 3}{person: 25 597 573}{wait: 2}{person: 25 598 573}{wait: 6}{person: 25 573 573}{wait: 6}{wait: 30}{hidetextbox: 1}{swoosh: 2 1 23 509}{wait: 32}{name: 13568}{person: 23 515 514}{hidetextbox: 0}Perhaps we'll start by asking{b}
+your name and occupation?{nextpage_button}{hidetextbox: 1}{swoosh: 2 4096 25 573}{wait: 32}{person: 25 574 573}{name: 8448}{hidetextbox: 0}{speed: 5}
+Valant Gramarye{speed: 8}{0x5a}...{wait: 30}{0x59}{speed: 5} Magician.{nextpage_button}{newevidence: 32940}{bg: 36}{person: 10 265 264}{name: 2560}{speed: 3}
+Er,{wait: 10} and you're the "decisive{b}
+witness",{wait: 16} are you?{nextpage_button}{person: 10 263 262}
+You can prove your fellow{b}
+student...{wait: 6} your partner's{b}
+guilt?{nextpage_button}{bg: 34}{person: 25 574 573}{name: 8448}{speed: 3}
+"Fate"...{wait: 16} {speed: 5}the grand illusion,{wait: 10}{b}
+filled with traps and tricks.{person: 25 573 573}{sound: 148 1}{wait: 10}{person: 25 591 573}{wait: 15}{person: 25 573 573}{wait: 4}{person: 25 598 573}{wait: 2}{person: 25 592 573}{wait: 6}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 2}{person: 25 596 573}{wait: 3}{person: 25 597 573}{wait: 2}{person: 25 598 573}{wait: 6}{person: 25 573 573}{wait: 6}{wait: 20}{nextpage_button}{bg: 32}{person: 21 475 474}{name: 1792}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+W-{wait: 8}Wait!{wait: 20} {speed: 3}The shooting took{b}
+place in that hospital{b}
+after 11 o'clock at night!{nextpage_button}{person: 21 475 474}{speed: 3}
+If you're a{wait: 8} "witness",{person: 21 468 467}{sound: 52 1}{bgcolor: 2305 8 31} does{b}
+that mean you were there{b}
+that late?{nextpage_button}{hidetextbox: 1}{swoosh: 0 4096 25 573}{wait: 32}{person: 25 583 582}{name: 8448}{hidetextbox: 0}{speed: 2}
+If one were to deduce this{b}
+logically, the conclusion{b}
+is{0x5a}...{wait: 30}{person: 25 576 575}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{fademusic: 0}{music: 22 0}{0x59}{speed: 4} yes!{nextpage_button}{bg: 32}{person: 21 470 469}{name: 1792}{speed: 6}
+Um... OK.{b}{0x5a}{speed: 4}{color: 2}
+(I always get the characters,{wait: 10}{b}
+don't I?){color: 0}{nextpage_button}{hidetextbox: 1}{swoosh: 1 1 23 514}{wait: 32}{person: 23 515 514}{name: 13568}{hidetextbox: 0}{speed: 3}
+I have an interesting fact{b}
+for you.{wait_noanim: 30}{person: 23 510 509} You see,{wait: 12} several{b}
+days before the crime...{nextpage_button}{person: 23 513 512}{showphoto: 214}{sound: 52 1}{bgcolor: 2305 8 31}
+...my witness received this.{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{sound: 51 1}{bgcolor: 2305 8 31}{0x59}
+That{speed: 8}{0x5a}...{wait: 20}{0x59}{speed: 3} {person: 10 263 262}looks very familiar...{nextpage_button}{bganim: 98 579}{bg: 32}{name: 1792}{person: 21 482 481}{bgcolor: 2305 8 31}{shake: 30 0}{showphoto: 470}{fademusic: 120}
+W-{wait: 25}{speed: 4}Wait{speed: 8}{0x5a}...{p}{person: 21 478 477}{sound: 50 1}{shake: 30 1}{bgcolor: 2305 8 31}{speed: 2}
+That's the{bgcolor: 2305 8 31} same letter{bgcolor: 2305 8 31} Zak{b}
+Gramarye{bgcolor: 2305 8 31} received!{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 0 4096 25 573}{wait: 32}{name: 8448}{person: 25 573 573}{sound: 148 1}{wait: 10}{person: 25 591 573}{wait: 15}{person: 25 573 573}{wait: 4}{person: 25 598 573}{wait: 2}{person: 25 592 573}{wait: 6}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 3}{person: 25 595 573}{wait: 3}{person: 25 593 573}{wait: 3}{person: 25 594 573}{wait: 2}{person: 25 596 573}{wait: 3}{person: 25 597 573}{wait: 2}{person: 25 598 573}{wait: 6}{person: 25 573 573}{wait: 6}{wait: 10}{hidetextbox: 0}{person: 25 574 573}{fademusic: 0}{music: 22 0}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+Yes.{wait: 10} Or perhaps I should say{b}
+"ta da"!{nextpage_button}{hidetextbox: 1}{bg: 31}{person: 0 0 0}{animation: 69 1}{animation: 70 1}{animation: 71 1}{animation: 73 1}{animation: 68 1}{sound: 22 1}{wait: 120}{bg: 9}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 36}{person: 10 259 258}{name: 2560}{hidetextbox: 0}{bgcolor: 2305 8 31}{sound: 53 1}{shake: 30 1}{speed: 2}
+Order!{wait: 12} Order!{wait: 12} Order!{nextpage_button}{person: 10 265 264}
+And what does it say?{wait: 12}{showphoto: 214} Surely{b}
+not the same thing!{nextpage_button}{bg: 33}{person: 23 513 512}{name: 13568}
+Perhaps you should see for{b}
+yourself.{nextpage_button}{hidetextbox: 1}{bgcolor: 514 1 31}{wait: 15}{bganim: 98 579}{bg: 156}{person: 0 0 0}{bgcolor: 258 1 31}{wait: 15}{wait: 120}{name: 2560}{hidetextbox: 0}{speed: 5}
+Why,{wait: 12} {speed: 4}it's practically the{b}
+same!{nextpage_button}{hidetextbox: 1}{bg: 36}{person: 10 263 262}{name: 2560}{hidetextbox: 0}{speed: 3}
+The court accepts this into{b}
+evidence!{nextpage_button}{newevidence: 16600}{name: 0}{hidetextbox: 0}{speed: 4}{color: 2}
+Magnifi's Letter 2 added{b}
+to the Court Record.{nextpage_button}{speed: 255}{color: 0}{0x19: 214 215}{person: 10 266 266}{name: 2560}{speed: 5}
+This is most unusual{speed: 8}...{wait: 20}{speed: 3}{b}{person: 10 263 262}
+Exactly what was going on{b}
+with you folks?{p}{person: 10 265 264}{sound: 51 1}{bgcolor: 2305 8 31}
+What exactly was your "Troupe{b}
+Gramarye" up to?{nextpage_button}{bg: 34}{person: 25 574 573}{name: 8448}{speed: 4}
+...{wait: 16}By which you mean?{nextpage_button}{bg: 36}{person: 10 265 264}{name: 2560}{speed: 3}
+I'm just having trouble{b}
+envisioning a man who would{b}
+ask his students to kill him.{p}
+Both of them,{wait: 12} no less!{nextpage_button}{bg: 33}{person: 23 515 514}{name: 13568}{showphoto: 214}{speed: 4}
+It's just my opinion,{wait: 8} Herr{b}
+Judge.{nextpage_button}{person: 23 513 512}{speed: 3}
+But from these letters,{wait: 6} I'd{b}
+say he was coercing them,{wait: 10}{b}
+not asking them.{nextpage_button}{bganim: 98 579}{hidetextbox: 1}{swoosh: 2 4096 25 582}{wait: 32}{person: 25 583 582}{name: 8448}{hidetextbox: 0}{speed: 4}
+We walked the magician's path{b}
+together,{wait: 8} and in so doing,{wait: 8} {b}
+shared much of our lives.{nextpage_button}{person: 25 574 573}{speed: 3}
+When people are so close,{wait: 12}{b}
+there is strain... a warping{b}
+of relations,{wait: 6} you might say.{p}{person: 25 574 573}
+...Yet this has nothing to{b}
+do with the case at hand.{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 474}{wait: 32}{person: 21 474 474}{name: 1792}{hidetextbox: 0}{color: 2}
+(By which you mean you're not{b}
+going to tell us.){p}{person: 21 469 469}
+(...Which makes me wonder even{b}
+more about this "{color: 1}reason they{b}
+couldn't refuse{color: 2}".){nextpage_button}{color: 0}{fademusic: 45}{hidetextbox: 1}{bg: 9}{person: 0 0 0}{animation: 3 1}{0x6b: 0 0 0}{bganim: 98 273}{wait: 40}{bg: 36}{person: 10 263 262}{name: 2560}{hidetextbox: 0}
+...Well,{wait: 8} let's get on with the{b}
+testimony for starters.{p}
+The defendant,{wait: 8} Zak Gramarye{b}
+stands accused.{wait: 16} Tell us why.{nextpage_button}{bg: 34}{person: 25 583 582}{name: 8448}{speed: 4}
+...Oh,{wait: 8} I'll do more than that.{p}{person: 25 576 575}{sound: 26 1}{bgcolor: 2305 8 31}{shake: 30 0}{speed: 2}
+"For where he walks,{wait: 10} the red{b}{bgcolor: 2305 8 31}
+roses rise singing{bgcolor: 2305 8 31} hymns to{b}
+the miracle{bgcolor: 2305 8 31} that is{bgcolor: 2305 8 31} magic!"{nextpage_button}{hidetextbox: 1}{swoosh: 0 1 21 481}{wait: 32}{person: 21 481 481}{name: 1792}{hidetextbox: 0}{speed: 5}
+Fascinating.{wait: 30}{b}{person: 21 482 481}{speed: 4}
+Though, I hardly need to{b}
+remind you...{nextpage_button}{person: 21 470 469}
+...that the evidence could{b}
+just as clearly point to you{b}
+as the suspect.{p}{person: 21 480 479}{speed: 4}
+The {color: 1}letter{color: 0},{wait: 12} the {color: 1}murder{b}
+weapon{color: 0}...{p}{person: 21 468 467}{speed: 3}
+...and now,{wait: 8} the {color: 1}two bullets{color: 0}{b}
+found at the scene.{nextpage_button}{bg: 36}{person: 10 266 266}{name: 2560}{speed: 4}
+In fact,{wait: 30}{showphoto: 214}{person: 10 263 262} the only difference{b}
+seems to be the designated{b}
+time...{nextpage_button}{bganim: 98 579}{bg: 34}{person: 25 579 579}{name: 8448}{bgcolor: 2305 8 31}{shake: 30 0}
+Ha{wait: 10} ha{wait: 10} ha{wait: 10} ha{wait: 10} ha{wait: 10} ha{wait: 10} ha{wait: 10} ha!{wait: 30}{b}{person: 25 574 573}{bgcolor: 2305 8 31}{speed: 2}
+As every magician knows...{b}{wait: 6}{color: 1}
+timing{color: 0}{wait: 6} is everything.{nextpage_button}{hidetextbox: 1}{swoosh: 2 1 23 512}{wait: 32}{person: 23 513 512}{name: 13568}{hidetextbox: 0}
+Yes{speed: 8}{0x5a}...{wait: 30} {hidetextbox: 1}{person: 23 520 520}{0x63}{hidetextbox: 0}{person: 23 517 517}{sound: 50 1}{shake: 30 0}{bgcolor: 2305 8 31}{0x59}{speed: 2}And now it's time to{b}
+get this party fired up!{nextpage_button}{hidetextbox: 1}{testimony_animation: 1}{special_jmp}{endjmp}
