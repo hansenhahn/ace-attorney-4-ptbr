@@ -20,6 +20,13 @@ import argparse
 __title__ = "Ace Attorney's Image Unpacker"
 __version__ = "1.0"
 
+# Usado para extrair algumas imagens
+ARM9_FILE = "arm9.bin"
+
+SHAPE_SIZE = [[( 8, 8),(16,16),(32,32),(64,64)],  # 0
+              [(16, 8),(32, 8),(32,16),(64,32)],  # 1
+              [( 8,16),( 8,32),(16,32),(32,64)]]  # 2
+
 def gba2tuple(fd):
     rgb = struct.unpack('<H', fd.read(2))[0] & 0x7FFF
     rgb = map(lambda x,y: float((x >> y) & 0x1F)/31.0, [rgb]*3, [0,5,10])
@@ -38,10 +45,60 @@ def scandirs(path):
             files.append(currentFile)
     return files
     
-def UnpackSprites( src, dst ):
-    pass
+def UnpackUISprites( src, dst, pal ):
+    print ">> ", src
+    
+    if not os.path.isdir(dst):
+        os.makedirs(dst)
+        
+    files = filter(lambda x: x.__contains__('.bin'), scandirs(src))
+    
+    with open( pal, "rb" ) as ifd:
+        entries = os.path.getsize(pal) / 32
+        colormap = [[gba2tuple(ifd) for _ in range(16)] for _ in range(entries)]
+    
+    with open(ARM9_FILE, "rb") as arm9:
+    
+        arm9.seek( 0xdfb14 )
+        
+        for _ in range(89):
+            data = arm9.read(0x1c)
+            link_data = arm9.tell()
+            print "idx:"+str(ord(data[0]))+" desc:"+str(ord(data[1]))+" file:"+str(ord(data[4])),
+            arm9.seek(0xd09a8 + 6*ord(data[1]))
+            params = struct.unpack("<HHH", arm9.read(6))
+            print "columns:"+str((params[0]))+" lines:"+str((params[1]))+" shape:"+str((params[2])),
+            arm9.seek(0xd0918 + 4*params[2])
+            attr = struct.unpack("<HH", arm9.read(4))
+            print "attr0:"+str(hex(attr[0]))+" attr1:"+str(hex(attr[1]))
+            arm9.seek(link_data)
+            
+            fname = os.path.join(src, "%04d.bin" % ord(data[4]))
+            
+            tile_size = SHAPE_SIZE[attr[0]>>14][attr[1]>>14]
+            buffer = ["" for _ in range(params[1]*tile_size[1])]
+            print tile_size
+            
+            with open(fname, "rb") as fd:
+                for h0 in range( params[1] ):
+                    for w0 in range( params[0] ):
+                        for h in range( tile_size[1]/8 ): # 32/8 = 4
+                            for w in range( tile_size[0]/8 ): #16 / 8 = 2
+                                for dh in range(8):
+                                    buffer[tile_size[1]*h0+8*h+dh] += fd.read(4)
+                                
+                raw_image = ""
+                for row in buffer: raw_image += row
+                output = open(os.path.join(dst, os.path.basename(fname) + '.bmp'), 'wb')
+                w = images.Writer((params[0]*tile_size[0], params[1]*tile_size[1]), colormap[0], 4, 2, 0)
+                w.write(output, raw_image, 4, 'BMP')
+                output.close()
+    
+    
+    
+    
 
-def UnpackBackground( src, dst ):
+def UnpackBackground( src, dst, pal ):
     
     print ">> ", src
     
@@ -114,6 +171,7 @@ if __name__ == "__main__":
     parser.add_argument( '-m', dest = "mode", type = str, required = True )
     parser.add_argument( '-s', dest = "src", type = str, nargs = "?", required = True )
     parser.add_argument( '-d', dest = "dst", type = str, nargs = "?", required = True )
+    parser.add_argument( '-p', dest = "pal", type = str, nargs = "?", required = False )
     
     args = parser.parse_args()    
     
@@ -124,7 +182,9 @@ if __name__ == "__main__":
     if args.mode == "ubg":
         print "Unpacking backgrounds"
         UnpackBackground( args.src , args.dst )
-        #UnpackSprites( args.src , args.dst )
+    elif args.mode == "uui":
+        print "Unpacking UI sprites"
+        UnpackUISprites( args.src , args.dst , args.pal )
     # insert text
     elif args.mode == "pbg": 
         print "Packing backgrounds"

@@ -135,11 +135,11 @@ def Extract(src,dst):
                     ofd.write(ifd.read(size))
             
         #files = filter(lambda x: x.__contains__('.bin'), scandirs(outpath))   
-        files  = [os.path.join( outpath , "%04d.bin" % 1 ),
-                    os.path.join( outpath , "%04d.bin" % 2 ),
-                    os.path.join( outpath , "%04d.bin" % 3 ),
-                    os.path.join( outpath , "%04d.bin" % 4 ),
-                    os.path.join( outpath , "%04d.bin" % 5 ),]
+        files  = [os.path.join( outpath , "%04d.bin" % 0 ),]
+                    # os.path.join( outpath , "%04d.bin" % 2 ),
+                    # os.path.join( outpath , "%04d.bin" % 3 ),
+                    # os.path.join( outpath , "%04d.bin" % 4 ),
+                    # os.path.join( outpath , "%04d.bin" % 5 ),]
         for fname in files:
             try:
                 dst_path = fname[:-4]
@@ -150,34 +150,53 @@ def Extract(src,dst):
                     ifd.read(4)          # 0000 0018h
                     ifd.read(4)          # 0000 0002h
                     stamp = ifd.read(4)
-                    assert stamp == "YEKB" #or stamp == "YEKP"
+                    assert stamp == "YEKB" or stamp == "YEKP"
                     ifd.read(4)          # 0000 0018h
                     stamp = ifd.read(4)
-                    assert stamp == "TADB" #or stamp == "TADP"
+                    assert stamp == "TADB" or stamp == "TADP"
                     ofs = struct.unpack("<L", ifd.read(4))[0]
-                    entries = (ofs - ifd.tell()) / 8
-            
-                    ptr_table = []
-                    for _ in range(entries):
-                        ofs_rel, size =  struct.unpack("<2L", ifd.read(8))
-                        flag = size & 0x80000000
-                        size = size & 0x7fffffff
-                        ptr_table.append( (ofs+ofs_rel, size, flag) )
-                        
-                    for i, tpl in enumerate(ptr_table):
-                        ofs, size, flag = tpl
+                    
+                    if ( stamp == "TADB" ):
+                        entries = (ofs - ifd.tell()) / 8
+                        ptr_table = []                    
+                        for _ in range(entries):
+                            ofs_rel, size =  struct.unpack("<2L", ifd.read(8))
+                            flag = size & 0x80000000
+                            size = size & 0x7fffffff
+                            ptr_table.append( (ofs+ofs_rel, size, flag) )
+                            
+                        for i, tpl in enumerate(ptr_table):
+                            ofs, size, flag = tpl
 
-                        with open( os.path.join( dst_path , "%04d.bin" % i ), "wb" ) as ofd:
-                            print ">> Extracting ", os.path.join( dst_path , "%04d.bin" % i )
+                            with open( os.path.join( dst_path , "%04d.bin" % i ), "wb" ) as ofd:
+                                print ">> Extracting ", os.path.join( dst_path , "%04d.bin" % i )
+                            
+                                if ( flag ):
+                                    log.write( "%s > COMPRESSED\n" % os.path.join( dst_path , "%04d.bin" % i ) )
+                                    ret = lzss.uncompress(ifd, ofs)
+                                    ret.tofile(ofd)
+                                else:
+                                    log.write( "%s > -\n" % os.path.join( dst_path , "%04d.bin" % i ) )
+                                    ifd.seek(ofs)
+                                    ofd.write(ifd.read(size))
+                    elif ( stamp == "TADP" ):
+                        entries = (ofs - ifd.tell()) / 4
+                        ptr_table = []  
+                        for _ in range(entries):
+                            unknown, nu_color, ofs_rel =  struct.unpack("<BBH", ifd.read(4))
+                            ptr_table.append( (ofs_rel*32, nu_color, unknown) )
                         
-                            if ( flag ):
-                                log.write( "%s > COMPRESSED\n" % os.path.join( dst_path , "%04d.bin" % i ) )
-                                ret = lzss.uncompress(ifd, ofs)
-                                ret.tofile(ofd)
-                            else:
-                                log.write( "%s > -\n" % os.path.join( dst_path , "%04d.bin" % i ) )
-                                ifd.seek(ofs)
-                                ofd.write(ifd.read(size))  
+                        link_dat = ifd.tell()
+                        for i, tpl in enumerate(ptr_table):
+                            ofs, nu_color, unknown = tpl
+
+                            with open( os.path.join( dst_path , "%04d.bin" % i ), "wb" ) as ofd:
+                                print ">> Extracting ", os.path.join( dst_path , "%04d.bin" % i )
+                            
+                                    #log.write( "%s > -\n" % os.path.join( dst_path , "%04d.bin" % i ) )
+                                ifd.seek(link_dat+ofs)
+                                ofd.write(ifd.read(32*nu_color))                            
+                   
             except AssertionError:
                 print "File not supported yet."           
                 
