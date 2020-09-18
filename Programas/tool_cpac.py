@@ -35,13 +35,18 @@ def scandirs(path):
     return files            
             
 def Insert(src,dst):
-    src = os.path.join( src, "cpac_2d")
+    if "cpac_2d" in src:
+        m = "2d"
+    else:
+        m = "3d"
 
-    folders  = [os.path.join( src , "%04d" % 4 ),]
+    #src = os.path.join( src, "cpac_" + m)
+
+    folders  = [os.path.join( src , "%04d" % 0 ),]
                 
                
     attr = {}
-    with open( "do_not_delete_cpac_2d_traduzidos.log", "r" ) as log:
+    with open( "do_not_delete_cpac_" + m + "_traduzidos.log", "r" ) as log:
         for l in log.readlines():
             f, flag = l.split(" > ")
             attr.update({f:flag})

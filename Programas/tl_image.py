@@ -186,6 +186,42 @@ def UnpackTextures( src, dst ):
                 output.close()   
         except:
             print "error"
+            
+def PackTextures( src, dst ):
+    print ">> ", src
+                
+    files = filter(lambda x: x.__contains__('.bmp'), scandirs(src))
+
+    for _, fname in enumerate(files):
+        try:
+            print fname 
+            basename = fname[len(src)+1:].replace(".bmp", "")
+            
+            w = images.Reader(fname)
+            data, colormap = w.as_data(mode = 2)
+            
+            with open( os.path.join( dst, basename.replace(".bmp", "") ) , "r+b" ) as ofd:
+                if w.bitdepth == 4:
+                    ofd.write(struct.pack("B",3))
+                elif w.bitdepth == 8:
+                    ofd.write(struct.pack("B",4))
+                    
+                ofd.write(struct.pack("B" , int(math.log(w.width/8,2))))
+                ofd.write(struct.pack("B" , int(math.log(w.height/8,2))))
+                ofd.write(struct.pack("B" , 0))
+                
+                ofd.write(struct.pack("<L" , 0x14))
+                ofd.write(struct.pack("<L" , len(data)))
+                ofd.write(struct.pack("<L" , 0x14 + len(data)))
+                ofd.write(struct.pack("<L" , 2*len(colormap)))                         
+                  
+                ofd.write(data)
+                for color in colormap:
+                    ofd.write(tuple2gba(*color))
+                ofd.write(data)
+            
+        except:
+           print "error!"    
 
 def PackBackground( src, dst ):
     
@@ -244,6 +280,9 @@ if __name__ == "__main__":
     elif args.mode == "utex":
         print "Unpacking textures"
         UnpackTextures( args.src, args.dst )
+    elif args.mode == "ptex": 
+        print "Packing textures"
+        PackTextures( args.src , args.dst )
     # insert text
     elif args.mode == "pbg": 
         print "Packing backgrounds"
