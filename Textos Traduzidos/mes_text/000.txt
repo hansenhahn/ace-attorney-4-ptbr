@@ -18,11 +18,12 @@ A{bgcolor: 516 1 31}{wait: 25}{bganim: 0 4096}{newevidence: 7}{newevidence: 9}{n
 
 {{1}}
 {bop}{0x62: 1 1}{0x26: 0}{bg: 30}{person: 0 0 0}{name: 0}{bgcolor: 260 1 31}{wait: 25}{hidetextbox: 0}{0x74: 2 0}{wait: 30}{speed: 10}{0x30: 2}{center_text: 1}{color: 3}April 20, 9:37 AM{b}
-District Court{b}
-Defendant Lobby No. 3{p}{center_text: 0}{hidetextbox: 1}{color: 0}{wait: 30}{speed: 255}{fademusic: 0}{music: 39 0}{name: 1024}{hidetextbox: 0}{speed: 6}{color: 2}
+¿¡¬√… ‘”’”Õ⁄«$#&*'{b}
+("F·-lo-ei" n∫ 13™; s, o! a? i.){b}
+‡·‚„ËÈÍıÛÙ˙ÌÁ˚Ó{p}{center_text: 0}{hidetextbox: 1}{color: 0}{wait: 30}{speed: 255}{fademusic: 0}{music: 39 0}{name: 1024}{hidetextbox: 0}{speed: 6}{color: 2}
 (Panicked...{wait: 20} Palms sweaty...{wait: 20}{b}
 I can admit it.{wait: 20} I'm nervous.){color: 0}{p}{hidetextbox: 1}{wait: 30}{name: 512}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 5}
-Ah,{wait: 10} good morning!{nextpage_button}{hidetextbox: 1}{wait: 35}{personvanish: 3 2}{person: 8 201 201}{wait: 32}{wait: 40}{name: 1024}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
+abcdefghijklmnopqrstuvwxyz{nextpage_button}{hidetextbox: 1}{wait: 35}{personvanish: 3 2}{person: 8 201 201}{wait: 32}{wait: 40}{name: 1024}{bgcolor: 2305 8 31}{hidetextbox: 0}{speed: 2}
 G-{wait: 15}Good{shake: 30 0}{wait: 8} morning,{wait: 10} sir!{p}{newevidence: 32768}{person: 8 204 203}{name: 2048}{speed: 3}
 You look tense,{wait: 15} Justice.{wait: 20}{b}
 Wound up tight.{nextpage_button}{name: 1024}{speed: 2}

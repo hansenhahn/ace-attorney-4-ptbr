@@ -28,7 +28,9 @@ SHAPE_SIZE = [[( 8, 8),(16,16),(32,32),(64,64)],  # 0
               [( 8,16),( 8,32),(16,32),(32,64)]]  # 2
 
 def gba2tuple(fd):
-    rgb = struct.unpack('<H', fd.read(2))[0] & 0x7FFF
+    c = fd.read(2)
+    if not c: c = "\x00\x00"
+    rgb = struct.unpack('<H', c)[0] & 0x7FFF
     rgb = map(lambda x,y: float((x >> y) & 0x1F)/31.0, [rgb]*3, [0,5,10])
     return rgb
     
@@ -130,6 +132,60 @@ def UnpackBackground( src, dst, pal ):
                 w = images.Writer((w, h), colormap, 8, 1, 0)
                 w.write(output, buffer, 8, 'BMP')
                 output.close()
+                
+def UnpackTextures( src, dst ):
+    
+    print ">> ", src
+    
+    if not os.path.isdir(dst):
+        os.makedirs(dst)
+        
+    files = filter(lambda x: x.__contains__('.bin'), scandirs(src))
+    
+    for f in files:
+        print ">>  ", f
+        try:
+            with open( f, "rb" ) as ifd:
+                if os.path.getsize(f) == 0:
+                    continue
+                
+                b, w, h, _ = struct.unpack("BBBB", ifd.read(4))
+                w = 8 << w
+                h = 8 << h
+                img_addr, img_size = struct.unpack("<LL", ifd.read(8)) 
+                pal_addr, pal_size = struct.unpack("<LL", ifd.read(8)) 
+                
+                ifd.seek(img_addr)
+                buffer = ifd.read(img_size)
+                
+                ifd.seek(pal_addr)            
+     
+                output = open(os.path.join(dst, os.path.basename(f) + '.bmp'), 'wb') 
+                if b == 1:
+                    colormap = [gba2tuple(ifd) for _ in range(256)]
+                    for i,x in enumerate(buffer):
+                        buffer[i] == chr(ord(x) & 0x1F)
+                    w = images.Writer((w, h), colormap, 8, 2, 0)
+                    w.write(output, buffer, 8, 'BMP')
+                elif b == 3 :    # Bitdepth 4
+                    colormap = [gba2tuple(ifd) for _ in range(16)]
+                    w = images.Writer((w, h), colormap, 4, 2, 0)
+                    w.write(output, buffer, 4, 'BMP')                  
+                elif b == 4:          # Bitdepth 8
+                    colormap = [gba2tuple(ifd) for _ in range(256)]
+                    w = images.Writer((w, h), colormap, 8, 2, 0)
+                    w.write(output, buffer, 8, 'BMP')
+                elif b == 6:
+                    colormap = [gba2tuple(ifd) for _ in range(256)]
+                    for i,x in enumerate(buffer):
+                        buffer[i] == chr(ord(x) & 0x7)
+                    w = images.Writer((w, h), colormap, 8, 2, 0)
+                    w.write(output, buffer, 8, 'BMP')
+                else:
+                    print "error"
+                output.close()   
+        except:
+            print "error"
 
 def PackBackground( src, dst ):
     
@@ -185,6 +241,9 @@ if __name__ == "__main__":
     elif args.mode == "uui":
         print "Unpacking UI sprites"
         UnpackUISprites( args.src , args.dst , args.pal )
+    elif args.mode == "utex":
+        print "Unpacking textures"
+        UnpackTextures( args.src, args.dst )
     # insert text
     elif args.mode == "pbg": 
         print "Packing backgrounds"

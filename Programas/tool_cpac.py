@@ -113,10 +113,16 @@ def Extract(src,dst):
 
     assert os.path.isfile(src), "Invalid file"
     
+    if "cpac_2d" in src:
+        m = "2d"
+    else:
+        m = "3d"
+        
+    
     print ">> ", src
     
-    with open( "do_not_delete_cpac_2d.log", "w" ) as log:
-        outpath = os.path.join( dst, "cpac_2d" )
+    with open( "do_not_delete_cpac_"+m+".log", "w" ) as log:
+        outpath = os.path.join( dst, "cpac_"+m )
         if not os.path.isdir(outpath):
             os.makedirs(outpath)   
         
@@ -134,8 +140,8 @@ def Extract(src,dst):
                 with open( os.path.join( outpath , "%04d.bin" % i ), "wb" ) as ofd:
                     ofd.write(ifd.read(size))
             
-        #files = filter(lambda x: x.__contains__('.bin'), scandirs(outpath))   
-        files  = [os.path.join( outpath , "%04d.bin" % 0 ),]
+        files = filter(lambda x: x.__contains__('.bin'), scandirs(outpath))   
+        #files  = [os.path.join( outpath , "%04d.bin" % 0 ),]
                     # os.path.join( outpath , "%04d.bin" % 2 ),
                     # os.path.join( outpath , "%04d.bin" % 3 ),
                     # os.path.join( outpath , "%04d.bin" % 4 ),
